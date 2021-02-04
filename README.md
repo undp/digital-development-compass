@@ -1,4 +1,5 @@
-# digital-readiness-assessment
+# Digital Readiness Assessment
+A tool to provide rapid, high-level insights into a country's digital strengths and weaknesses. Intended as an "entry point" for increased engagement between governments, UNDP country offices, and a broad range of digital transformation experts. Through the lens of UNDP's Inclusive Whole-of-Society Digital Transformation Framework.
 
 # Inclusive Digital Data Repository
 Combining public international data sets on inclusive digital transformation with local country data sets
@@ -11,3 +12,10 @@ Leverages the Data Repository to visualize the digital state of the nation, allo
 
 # Digital Nation Dashboard: Alpha
 https://data.undp.org/dominica
+
+# Digital Transformation Framework
+Based on 
+Overview:
+<img width="664" alt="Screen Shot 2021-02-04 at 2 02 10 PM" src="https://user-images.githubusercontent.com/109564/106960886-c8bb8b00-670a-11eb-87ba-84ffea6dc016.png">
+Detail: 
+<img width="730" alt="Screen Shot 2021-02-04 at 2 02 18 PM" src="https://user-images.githubusercontent.com/109564/106960892-ca854e80-670a-11eb-9c35-eb849fbc193a.png">
