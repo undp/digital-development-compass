@@ -19,3 +19,6 @@ Overview:
 <img width="664" alt="Screen Shot 2021-02-04 at 2 02 10 PM" src="https://user-images.githubusercontent.com/109564/106960886-c8bb8b00-670a-11eb-87ba-84ffea6dc016.png">
 Detail: 
 <img width="730" alt="Screen Shot 2021-02-04 at 2 02 18 PM" src="https://user-images.githubusercontent.com/109564/106960892-ca854e80-670a-11eb-9c35-eb849fbc193a.png">
+
+# Inspiration
+State of the Octoverse: how might we show a country's stats? Eg size of community. Gender breakdown. Main languages. Key packages. Types of protects. YOY change. Contributions to open source.   https://octoverse.github.com/
