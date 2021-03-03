@@ -8,6 +8,9 @@ Combining public international data sets on inclusive digital transformation wit
 Leverages the Data Repository to visualize the digital state of the nation, allowing for comparisons against other countries, regions, sub-regions, income grouping
 
 # Digital Nation Dashboard: Beta Wireframe
+<img width="682" alt="Screen Shot 2021-03-03 at 11 35 56 AM" src="https://user-images.githubusercontent.com/109564/109861875-cd9e2c80-7c2d-11eb-8079-b2671ed54dbe.png">
+
+# Digital Nation Dashboard: Alpha Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/106688624-765c5c00-659c-11eb-8894-3baee29f79aa.png">
 
 # Digital Nation Dashboard: Alpha
