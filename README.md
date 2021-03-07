@@ -37,3 +37,5 @@ Each country is ranked on a scale of 1.00-5.99 for each sub-pillar and each data
 
 # Inspiration
 State of the Octoverse: how might we show a country's stats? Eg size of community. Gender breakdown. Main languages. Key packages. Types of protects. YOY change. Contributions to open source.   https://octoverse.github.com/
+<br>
+Would be great to understand per country: Open Source for Good projects, user types (teachers, government, designers), top languages, top repos, % of work on national projects vs international, activity rate, % of repos using code with vulnerabilties, gender breakdown of users, % of active repos relying on open source
