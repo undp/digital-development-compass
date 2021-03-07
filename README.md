@@ -22,9 +22,13 @@ Overview:
 <img width="664" alt="Screen Shot 2021-02-04 at 2 02 10 PM" src="https://user-images.githubusercontent.com/109564/106960886-c8bb8b00-670a-11eb-87ba-84ffea6dc016.png">
 Detail: 
 <img width="730" alt="Screen Shot 2021-02-04 at 2 02 18 PM" src="https://user-images.githubusercontent.com/109564/106960892-ca854e80-670a-11eb-9c35-eb849fbc193a.png">
+
 Each sub-pillar is tied to a score:
 <img width="546" alt="Screen Shot 2021-03-06 at 4 27 23 PM" src="https://user-images.githubusercontent.com/109564/110225272-09e1bf00-7eb2-11eb-8ff3-d9cec15b7e49.png">
-Each country is ranked on a scale of 1.00-5.99 for each sub-pillar and each data set within said sub-pillar. 
+
+Each country is ranked on a scale of 1.00-5.99 for each sub-pillar and each data set within said sub-pillar.
+<img width="1061" alt="Screen Shot 2021-03-06 at 4 34 49 PM" src="https://user-images.githubusercontent.com/109564/110225362-0e5aa780-7eb3-11eb-80e1-18023ea22946.png">
+
 
 # Inspiration
 State of the Octoverse: how might we show a country's stats? Eg size of community. Gender breakdown. Main languages. Key packages. Types of protects. YOY change. Contributions to open source.   https://octoverse.github.com/
