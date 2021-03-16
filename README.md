@@ -8,7 +8,7 @@ Combining public international data sets on inclusive digital transformation wit
 Leverages the Data Repository to visualize the digital state of the nation, allowing for comparisons against other countries, Region, Sub-Region, Intermediate-Region,Categories (eg SIDS, LDC, LLDC), Income level. It's also important to track progress over time and whether a country is improving or getting worse (and how dramatically). Within each country, data sets should be visualized in a way to tell the story of that data. For instance, showing a map of coverage of 4G data connectivity overlaid with population to identify gaps, or showing mobile data penetration differences between genders vs as a part of the whole population.
 
 # Digital Nation Dashboard: Beta Wireframe
-<img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/111254848-4b7a1480-85ec-11eb-9440-778d0bf90ca0.jpg">
+<img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/111353928-291fdf80-865c-11eb-845b-ee979bfc94b0.png">
 
 # Digital Nation Dashboard: Alpha Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/106688624-765c5c00-659c-11eb-8894-3baee29f79aa.png">
