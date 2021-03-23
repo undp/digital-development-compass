@@ -1,11 +1,11 @@
-# Digital Readiness Assessment
-A tool to provide rapid, high-level insights into a country's digital strengths and weaknesses. Intended as an "entry point" for increased engagement between governments, UNDP country offices, and a broad range of digital transformation experts. Through the lens of UNDP's Inclusive Whole-of-Society Digital Transformation Framework.
+# Digital Nation Dashboard 
+A snapshot of the digital state of a nation, this tool leverages our Inclusive Data Repository to visualize the various digital aspects of a country, allowing for comparisons against other countries, Region, Sub-Region, Intermediate-Region, Categories (eg SIDS, LDC, LLDC), Income level. It tracks progress over time and whether a country is improving or getting worse (and how dramatically). Within each country, data sets should be visualized in a way to tell the story of that data. For instance, showing a map of coverage of 4G data connectivity overlaid with population to identify gaps, or showing mobile data penetration differences between genders vs as a part of the whole population.
 
 # Inclusive Digital Data Repository
 Combining public international data sets on inclusive digital transformation with local country data sets
 
-# Digital Nation Dashboard 
-Leverages the Data Repository to visualize the digital state of the nation, allowing for comparisons against other countries, Region, Sub-Region, Intermediate-Region,Categories (eg SIDS, LDC, LLDC), Income level. It's also important to track progress over time and whether a country is improving or getting worse (and how dramatically). Within each country, data sets should be visualized in a way to tell the story of that data. For instance, showing a map of coverage of 4G data connectivity overlaid with population to identify gaps, or showing mobile data penetration differences between genders vs as a part of the whole population.
+# Digital Readiness Assessment
+The Digital Nation Dashboard is key part of product. The tool provides rapid, high-level insights into a country's digital strengths and weaknesses. Intended as an "entry point" for increased engagement between governments, UNDP country offices, and a broad range of digital transformation experts. Through the lens of UNDP's Inclusive Whole-of-Society Digital Transformation Framework.
 
 # Digital Nation Dashboard: Beta Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/111353928-291fdf80-865c-11eb-845b-ee979bfc94b0.png">
