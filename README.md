@@ -2,10 +2,11 @@
 A snapshot of the digital state of a nation, this tool leverages our Inclusive Data Repository to visualize the various digital aspects of a country, allowing for comparisons against other countries, Region, Sub-Region, Intermediate-Region, Categories (eg SIDS, LDC, LLDC), Income level. It tracks progress over time and whether a country is improving or getting worse (and how dramatically). Within each country, data sets should be visualized in a way to tell the story of that data. For instance, showing a map of coverage of 4G data connectivity overlaid with population to identify gaps, or showing mobile data penetration differences between genders vs as a part of the whole population.
 
 # Inclusive Digital Data Repository
-Combining public international data sets on inclusive digital transformation with local country data sets
+Combining public international data sets on inclusive digital transformation with local country data sets and scoring them against our Stages of Digital Readiness (from 1 to 5.99)
 
 # Digital Readiness Assessment
 The Digital Nation Dashboard is key part of product. The tool provides rapid, high-level insights into a country's digital strengths and weaknesses. Intended as an "entry point" for increased engagement between governments, UNDP country offices, and a broad range of digital transformation experts. Through the lens of UNDP's Inclusive Whole-of-Society Digital Transformation Framework.
+* Video Explanation: [![Digital Readiness Assessment Video Explanation](https://img.youtube.com/vi/EWJrX96TTo4/0.jpg)](http://www.youtube.com/watch?v=EWJrX96TTo4)
 
 # Digital Nation Dashboard: Beta Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/111353928-291fdf80-865c-11eb-845b-ee979bfc94b0.png">
