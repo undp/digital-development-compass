@@ -10,7 +10,7 @@ The Digital Nation Dashboard is key part of product. The tool provides rapid, hi
 
 # Digital Nation Dashboard: Beta Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/111353928-291fdf80-865c-11eb-845b-ee979bfc94b0.png">
-* Figma: https://www.figma.com/file/nTb98ghyTzePMvNhgQPL4B/Digital-Nation-Dashboard?node-id=18%3A42
+* Figma: https://www.figma.com/file/nTb98ghyTzePMvNhgQPL4B/Digital-Nation-Dashboard?node-id=216%3A184
 
 # Digital Nation Dashboard: Alpha Wireframe
 <img width="443" alt="Digital Nation Dashboard - Wireframe Mockup January 2021" src="https://user-images.githubusercontent.com/109564/106688624-765c5c00-659c-11eb-8894-3baee29f79aa.png">
