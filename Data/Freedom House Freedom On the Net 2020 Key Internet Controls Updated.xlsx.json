@@ -1,0 +1,1367 @@
+[
+    {
+        "COUNTRY": "Angola",
+        "# Key Internet Controls employed": 1.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 62.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Argentina",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 71.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": "Freedom House documented how governments censor and control the digital sphere. Each colored cell represents at least one occurrence of the cited control during the report\u2019s coverage period of June 2019 to May 2020; cells with an asterisk (*) represent events that occurred between June and September 2020, when the report was sent to print. The Key Internet Controls reflect restrictions on content of political, social, or religious nature.",
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Armenia",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 75.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Australia",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 76.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Azerbaijan",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 38.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahrain",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 29.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bangladesh",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 42.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belarus",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 38.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brazil",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 63.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cambodia",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 43.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Canada",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 87.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China",
+        "# Key Internet Controls employed": 9.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 10.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Colombia",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 66.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cuba",
+        "# Key Internet Controls employed": 8.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 22.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ecuador",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 57.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Egypt",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 26.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Estonia",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 94.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ethiopia",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 29.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "France",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 77.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Georgia",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 76.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Germany",
+        "# Key Internet Controls employed": 1.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 80.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hungary",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 71.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iceland",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 95.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "India",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "*",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 51.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Indonesia",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 49.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iran",
+        "# Key Internet Controls employed": 8.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 15.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Italy",
+        "# Key Internet Controls employed": 1.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 76.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Japan",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 75.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jordan",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 49.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kazakhstan",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 32.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kenya",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 67.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kyrgyzstan",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 56.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lebanon",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 52.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Libya",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 50.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malawi",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 60.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malaysia",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 58.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mexico",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 61.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Morocco",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 52.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Myanmar",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 31.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nigeria",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 60.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Pakistan",
+        "# Key Internet Controls employed": 7.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 26.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Philippines",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": "*",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 64.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Russia",
+        "# Key Internet Controls employed": 8.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 30.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Rwanda",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 39.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saudi Arabia",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 26.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Singapore",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 54.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Africa",
+        "# Key Internet Controls employed": 1.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 70.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Korea",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 66.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sri Lanka",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "*",
+                "FOTN 2020 score": 52.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sudan",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 30.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Syria",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 17.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Thailand",
+        "# Key Internet Controls employed": 5.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 35.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "The Gambia",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 49.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tunisia",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 64.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkey",
+        "# Key Internet Controls employed": 8.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "*",
+                "New law or directive increasing surveillance or restricting anonymity passed": "*",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 35.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uganda",
+        "# Key Internet Controls employed": 2.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 56.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ukraine",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 61.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Arab Emirates",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 29.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Kingdom",
+        "# Key Internet Controls employed": 0.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": NaN,
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 78.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United States",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": NaN,
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 76.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uzbekistan",
+        "# Key Internet Controls employed": 9.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": "X",
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 27.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Venezuela",
+        "# Key Internet Controls employed": 6.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": NaN,
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 28.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Vietnam",
+        "# Key Internet Controls employed": 8.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": "X",
+                "Political, social, or religious content blocked": "X",
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": "X",
+                "FOTN 2020 score": 22.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zambia",
+        "# Key Internet Controls employed": 3.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "X",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": NaN,
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": NaN,
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 59.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zimbabwe",
+        "# Key Internet Controls employed": 4.0,
+        "Subset_Data ": [
+            {
+                "Social media or communications platforms blocked": NaN,
+                "Political, social, or religious content blocked": NaN,
+                "ICT networks deliberately disrupted": "*",
+                "Progovernment commentators manipualte online discussions": "X",
+                "New law or directive increasing censorship or punisment passed": "X",
+                "New law or directive increasing surveillance or restricting anonymity passed": NaN,
+                "Blogger or ICT user arrested, imprisoned, or in prolonged detention for political or social content": "X",
+                "Blogger or ICT user physically attacked or killed (including in custody)": "X",
+                "Technical attacks against government critics or human rights organizations": NaN,
+                "FOTN 2020 score": 46.0,
+                "Unnamed: 12": NaN,
+                "Unnamed: 13": NaN,
+                "Unnamed: 14": NaN
+            }
+        ]
+    }
+]
