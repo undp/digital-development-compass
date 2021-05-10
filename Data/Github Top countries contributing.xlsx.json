@@ -1,0 +1,3194 @@
+[
+    {
+        "c_country": "Afghanistan",
+        "pushes": 76.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Afghanistan",
+                "log_pushes": 1.880813592,
+                "population": 29121286.0,
+                "country": "Afghanistan",
+                "log_ratio": -2.583396957,
+                "ratio": 0.00260977485678345,
+                "country2": "Afghanistan",
+                "log_login": -2.61911251,
+                "ratio_unique_login": 0.00240373999966897,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Albania",
+        "pushes": 239.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Albania",
+                "log_pushes": 2.378397901,
+                "population": 2986952.0,
+                "country": "Albania",
+                "log_ratio": -1.096830343,
+                "ratio": 0.0800146771692347,
+                "country2": "Albania",
+                "log_login": -1.244779322,
+                "ratio_unique_login": 0.0569142055178657,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Algeria",
+        "pushes": 523.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Algeria",
+                "log_pushes": 2.718501689,
+                "population": 34586184.0,
+                "country": "Algeria",
+                "log_ratio": -1.820400959,
+                "ratio": 0.0151216451054559,
+                "country2": "Algeria",
+                "log_login": -1.947838041,
+                "ratio_unique_login": 0.0112761789505312,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Angola",
+        "pushes": 190.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Angola",
+                "log_pushes": 2.278753601,
+                "population": 13068161.0,
+                "country": "Angola",
+                "log_ratio": -1.837460875,
+                "ratio": 0.0145391535962864,
+                "country2": "Angola",
+                "log_login": -1.940123217,
+                "ratio_unique_login": 0.0114782791549629,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Argentina",
+        "pushes": 22286.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Argentina",
+                "log_pushes": 4.348032126,
+                "population": 41343201.0,
+                "country": "Argentina",
+                "log_ratio": -0.2683719727,
+                "ratio": 0.539048730164846,
+                "country2": "Argentina",
+                "log_login": -0.3910948171,
+                "ratio_unique_login": 0.406354602296034,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Armenia",
+        "pushes": 977.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Armenia",
+                "log_pushes": 2.989894564,
+                "population": 2968000.0,
+                "country": "Armenia",
+                "log_ratio": -0.4825693329,
+                "ratio": 0.329177897574123,
+                "country2": "Armenia",
+                "log_login": -0.7165890409,
+                "ratio_unique_login": 0.192048517520215,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Australia",
+        "pushes": 90174.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Australia",
+                "log_pushes": 4.955081335,
+                "population": 21515754.0,
+                "country": "Australia",
+                "log_ratio": 0.6223247647,
+                "ratio": 4.19106855376762,
+                "country2": "Australia",
+                "log_login": 0.357084839,
+                "ratio_unique_login": 2.27554191221929,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Austria",
+        "pushes": 24734.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Austria",
+                "log_pushes": 4.393294356,
+                "population": 8205000.0,
+                "country": "Austria",
+                "log_ratio": 0.4792157711,
+                "ratio": 3.01450335161486,
+                "country2": "Austria",
+                "log_login": 0.1758265261,
+                "ratio_unique_login": 1.49908592321755,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Azerbaijan",
+        "pushes": 759.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Azerbaijan",
+                "log_pushes": 2.880241776,
+                "population": 8303512.0,
+                "country": "Azerbaijan",
+                "log_ratio": -1.039020042,
+                "ratio": 0.0914071058125766,
+                "country2": "Azerbaijan",
+                "log_login": -1.178899128,
+                "ratio_unique_login": 0.0662370331975193,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bahamas",
+        "pushes": 263.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bahamas",
+                "log_pushes": 2.419955748,
+                "population": 301790.0,
+                "country": "Bahamas",
+                "log_ratio": -0.05974909657,
+                "ratio": 0.871466914079326,
+                "country2": "Bahamas",
+                "log_login": -0.1786748494,
+                "ratio_unique_login": 0.662712482189602,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bahrain",
+        "pushes": 84.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bahrain",
+                "log_pushes": 1.924279286,
+                "population": 738004.0,
+                "country": "Bahrain",
+                "log_ratio": -0.9437794297,
+                "ratio": 0.113820521297987,
+                "country2": "Bahrain",
+                "log_login": -0.9138162063,
+                "ratio_unique_login": 0.121950558533558,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bangladesh",
+        "pushes": 5981.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bangladesh",
+                "log_pushes": 3.776773802,
+                "population": 156118464.0,
+                "country": "Bangladesh",
+                "log_ratio": -1.416680467,
+                "ratio": 0.0383106510707151,
+                "country2": "Bangladesh",
+                "log_login": -1.466727061,
+                "ratio_unique_login": 0.034140740713411,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Belarus",
+        "pushes": 11583.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Belarus",
+                "log_pushes": 4.063821056,
+                "population": 9685000.0,
+                "country": "Belarus",
+                "log_ratio": 0.07772143129,
+                "ratio": 1.19597315436241,
+                "country2": "Belarus",
+                "log_login": -0.07281572329,
+                "ratio_unique_login": 0.845637583892617,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Belgium",
+        "pushes": 32486.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Belgium",
+                "log_pushes": 4.51169624,
+                "population": 10403000.0,
+                "country": "Belgium",
+                "log_ratio": 0.4945376415,
+                "ratio": 3.12275305200422,
+                "country2": "Belgium",
+                "log_login": 0.1910139282,
+                "ratio_unique_login": 1.55243679707776,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Belize",
+        "pushes": 5.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Belize",
+                "log_pushes": 0.6989700043,
+                "population": 314522.0,
+                "country": "Belize",
+                "log_ratio": -1.798681024,
+                "ratio": 0.0158971391508384,
+                "country2": "Belize",
+                "log_login": -1.196621033,
+                "ratio_unique_login": 0.0635885566033536,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Benin",
+        "pushes": 1053.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Benin",
+                "log_pushes": 3.022428371,
+                "population": 9056010.0,
+                "country": "Benin",
+                "log_ratio": -0.9345085222,
+                "ratio": 0.116276373369729,
+                "country2": "Benin",
+                "log_login": -1.224543134,
+                "ratio_unique_login": 0.0596289094203738,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bhutan",
+        "pushes": 79.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bhutan",
+                "log_pushes": 1.897627091,
+                "population": 699847.0,
+                "country": "Bhutan",
+                "log_ratio": -0.947376014,
+                "ratio": 0.112881815596837,
+                "country2": "Bhutan",
+                "log_login": -1.367881851,
+                "ratio_unique_login": 0.0428665122519636,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bolivia",
+        "pushes": 999.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bolivia",
+                "log_pushes": 2.999565488,
+                "population": 9947418.0,
+                "country": "Bolivia",
+                "log_ratio": -0.9981448796,
+                "ratio": 0.100428070882313,
+                "country2": "Bolivia",
+                "log_login": -1.048320361,
+                "ratio_unique_login": 0.0894704535387977,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bosnia and Herzegovina",
+        "pushes": 1073.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bosnia and Herzegovina",
+                "log_pushes": 3.030599722,
+                "population": 4590000.0,
+                "country": "Bosnia and Herzegovina",
+                "log_ratio": -0.6312129636,
+                "ratio": 0.233769063180827,
+                "country2": "Bosnia and Herzegovina",
+                "log_login": -0.8105543368,
+                "ratio_unique_login": 0.154684095860566,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Botswana",
+        "pushes": 439.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Botswana",
+                "log_pushes": 2.64246452,
+                "population": 2029307.0,
+                "country": "Botswana",
+                "log_ratio": -0.6648832332,
+                "ratio": 0.216330008224482,
+                "country2": "Botswana",
+                "log_login": -1.353105244,
+                "ratio_unique_login": 0.0443501155813289,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Brazil",
+        "pushes": 104802.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Brazil",
+                "log_pushes": 5.020369571,
+                "population": 201103330.0,
+                "country": "Brazil",
+                "log_ratio": -0.2830496914,
+                "ratio": 0.521135080160035,
+                "country2": "Brazil",
+                "log_login": -0.4066175643,
+                "ratio_unique_login": 0.392086993288475,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Brunei",
+        "pushes": 34.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Brunei",
+                "log_pushes": 1.531478917,
+                "population": 395027.0,
+                "country": "Brunei",
+                "log_ratio": -1.065147864,
+                "ratio": 0.0860700660967478,
+                "country2": "Brunei",
+                "log_login": -1.295596785,
+                "ratio_unique_login": 0.0506294506451457,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Bulgaria",
+        "pushes": 10555.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Bulgaria",
+                "log_pushes": 4.023458238,
+                "population": 7148785.0,
+                "country": "Bulgaria",
+                "log_ratio": 0.1692260018,
+                "ratio": 1.47647467366832,
+                "country2": "Bulgaria",
+                "log_login": -0.005427534786,
+                "ratio_unique_login": 0.987580407020213,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Burkina Faso",
+        "pushes": 47.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Burkina Faso",
+                "log_pushes": 1.672097858,
+                "population": 16241811.0,
+                "country": "Burkina Faso",
+                "log_ratio": -2.538536595,
+                "ratio": 0.00289376597227981,
+                "country2": "Burkina Faso",
+                "log_login": -2.511664448,
+                "ratio_unique_login": 0.00307847443859554,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Burundi",
+        "pushes": 25.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Burundi",
+                "log_pushes": 1.397940009,
+                "population": 9863117.0,
+                "country": "Burundi",
+                "log_ratio": -2.596074176,
+                "ratio": 0.00253469567480543,
+                "country2": "Burundi",
+                "log_login": -2.692984189,
+                "ratio_unique_login": 0.00202775653984435,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Cambodia",
+        "pushes": 1046.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Cambodia",
+                "log_pushes": 3.019531685,
+                "population": 14453680.0,
+                "country": "Cambodia",
+                "log_ratio": -1.140446751,
+                "ratio": 0.0723691129179558,
+                "country2": "Cambodia",
+                "log_login": -1.396550442,
+                "ratio_unique_login": 0.0401281888072795,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Cameroon",
+        "pushes": 435.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Cameroon",
+                "log_pushes": 2.638489257,
+                "population": 19294149.0,
+                "country": "Cameroon",
+                "log_ratio": -1.646936371,
+                "ratio": 0.0225456950705625,
+                "country2": "Cameroon",
+                "log_login": -1.838267597,
+                "ratio_unique_login": 0.0145121715396724,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Canada",
+        "pushes": 143815.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Canada",
+                "log_pushes": 5.157804186,
+                "population": 33679000.0,
+                "country": "Canada",
+                "log_ratio": 0.6304449977,
+                "ratio": 4.27016835416728,
+                "country2": "Canada",
+                "log_login": 0.3683395391,
+                "ratio_unique_login": 2.33528311410671,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Cape Verde",
+        "pushes": 13.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Cape Verde",
+                "log_pushes": 1.113943352,
+                "population": 508659.0,
+                "country": "Cape Verde",
+                "log_ratio": -1.592483381,
+                "ratio": 0.0255573969987752,
+                "country2": "Cape Verde",
+                "log_login": -1.405396737,
+                "ratio_unique_login": 0.039319072305808,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Central African Republic",
+        "pushes": 1.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Central African Republic",
+                "log_pushes": 0.0,
+                "population": 4844927.0,
+                "country": "Central African Republic",
+                "log_ratio": -3.685287238,
+                "ratio": 0.000206401458680388,
+                "country2": "Central African Republic",
+                "log_login": -2.685287238,
+                "ratio_unique_login": 0.00206401458680388,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Chad",
+        "pushes": 110.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Chad",
+                "log_pushes": 2.041392685,
+                "population": 10543464.0,
+                "country": "Chad",
+                "log_ratio": -1.981590634,
+                "ratio": 0.0104330038021659,
+                "country2": "Chad",
+                "log_login": -3.02298332,
+                "ratio_unique_login": 0.000948454891105997,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Chile",
+        "pushes": 8133.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Chile",
+                "log_pushes": 3.910250772,
+                "population": 16746491.0,
+                "country": "Chile",
+                "log_ratio": -0.3136730481,
+                "ratio": 0.485653979690431,
+                "country2": "Chile",
+                "log_login": -0.4301334357,
+                "ratio_unique_login": 0.371421093529384,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "China",
+        "pushes": 250708.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "China",
+                "log_pushes": 5.399168192,
+                "population": 1330044000.0,
+                "country": "China",
+                "log_ratio": -0.724697816,
+                "ratio": 0.188496019680551,
+                "country2": "China",
+                "log_login": -0.9365145261,
+                "ratio_unique_login": 0.115740531892178,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Colombia",
+        "pushes": 16109.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Colombia",
+                "log_pushes": 4.207068582,
+                "population": 47790000.0,
+                "country": "Colombia",
+                "log_ratio": -0.472268449,
+                "ratio": 0.3370788867964,
+                "country2": "Colombia",
+                "log_login": -0.6606365319,
+                "ratio_unique_login": 0.218455743879472,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Costa Rica",
+        "pushes": 5340.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Costa Rica",
+                "log_pushes": 3.727541257,
+                "population": 4516220.0,
+                "country": "Costa Rica",
+                "log_ratio": 0.07276616734,
+                "ratio": 1.18240475441851,
+                "country2": "Costa Rica",
+                "log_login": -0.2800267437,
+                "ratio_unique_login": 0.52477514381496,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Croatia",
+        "pushes": 5795.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Croatia",
+                "log_pushes": 3.76305344,
+                "population": 4491000.0,
+                "country": "Croatia",
+                "log_ratio": 0.1107103852,
+                "ratio": 1.29035849476731,
+                "country2": "Croatia",
+                "log_login": -0.05028306373,
+                "ratio_unique_login": 0.890670229347584,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Cuba",
+        "pushes": 850.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Cuba",
+                "log_pushes": 2.929418926,
+                "population": 11423000.0,
+                "country": "Cuba",
+                "log_ratio": -1.128361251,
+                "ratio": 0.0744112754968047,
+                "country2": "Cuba",
+                "log_login": -1.395022345,
+                "ratio_unique_login": 0.0402696314453296,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Cyprus",
+        "pushes": 538.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Cyprus",
+                "log_pushes": 2.730782276,
+                "population": 1102677.0,
+                "country": "Cyprus",
+                "log_ratio": -0.3116660403,
+                "ratio": 0.487903529320009,
+                "country2": "Cyprus",
+                "log_login": -0.3612070786,
+                "ratio_unique_login": 0.435304264077331,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Czech Republic",
+        "pushes": 25370.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Czech Republic",
+                "log_pushes": 4.404320467,
+                "population": 10476000.0,
+                "country": "Czech Republic",
+                "log_ratio": 0.3841249775,
+                "ratio": 2.4217258495609,
+                "country2": "Czech Republic",
+                "log_login": 0.1262426455,
+                "ratio_unique_login": 1.33734249713631,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Democratic Republic of the Congo",
+        "pushes": 278.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Democratic Republic of the Congo",
+                "log_pushes": 2.444044796,
+                "population": 70916439.0,
+                "country": "Democratic Republic of the Congo",
+                "log_ratio": -2.406702124,
+                "ratio": 0.00392010659192856,
+                "country2": "Democratic Republic of the Congo",
+                "log_login": -2.595474415,
+                "ratio_unique_login": 0.0025381985127595,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Denmark",
+        "pushes": 24939.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Denmark",
+                "log_pushes": 4.396879035,
+                "population": 5484000.0,
+                "country": "Denmark",
+                "log_ratio": 0.6577815891,
+                "ratio": 4.54759299781181,
+                "country2": "Denmark",
+                "log_login": 0.4288103639,
+                "ratio_unique_login": 2.68417213712618,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Dominican Republic",
+        "pushes": 910.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Dominican Republic",
+                "log_pushes": 2.959041392,
+                "population": 9823821.0,
+                "country": "Dominican Republic",
+                "log_ratio": -1.033239048,
+                "ratio": 0.0926319809776664,
+                "country2": "Dominican Republic",
+                "log_login": -1.014556835,
+                "ratio_unique_login": 0.0967037164052561,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "East Timor",
+        "pushes": 27.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "East Timor",
+                "log_pushes": 1.431363764,
+                "population": 1154625.0,
+                "country": "East Timor",
+                "log_ratio": -1.631077192,
+                "ratio": 0.0233842156544332,
+                "country2": "East Timor",
+                "log_login": -1.761410961,
+                "ratio_unique_login": 0.0173216412255061,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ecuador",
+        "pushes": 2701.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ecuador",
+                "log_pushes": 3.431524584,
+                "population": 14790608.0,
+                "country": "Ecuador",
+                "log_ratio": -0.7384614428,
+                "ratio": 0.182615887054812,
+                "country2": "Ecuador",
+                "log_login": -0.8935242228,
+                "ratio_unique_login": 0.127783793607402,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Egypt",
+        "pushes": 3997.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Egypt",
+                "log_pushes": 3.601734148,
+                "population": 80471869.0,
+                "country": "Egypt",
+                "log_ratio": -1.30390994,
+                "ratio": 0.049669531100365,
+                "country2": "Egypt",
+                "log_login": -1.417093372,
+                "ratio_unique_login": 0.0382742446307541,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "El Salvador",
+        "pushes": 797.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "El Salvador",
+                "log_pushes": 2.901458321,
+                "population": 6052064.0,
+                "country": "El Salvador",
+                "log_ratio": -0.8804451906,
+                "ratio": 0.131690610013377,
+                "country2": "El Salvador",
+                "log_login": -1.018475518,
+                "ratio_unique_login": 0.0958350737863975,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Estonia",
+        "pushes": 36515.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Estonia",
+                "log_pushes": 4.562471305,
+                "population": 1291170.0,
+                "country": "Estonia",
+                "log_ratio": 1.451487878,
+                "ratio": 28.2805517476397,
+                "country2": "Estonia",
+                "log_login": 0.3392656815,
+                "ratio_unique_login": 2.1840656149074,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ethiopia",
+        "pushes": 257.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ethiopia",
+                "log_pushes": 2.409933123,
+                "population": 88013491.0,
+                "country": "Ethiopia",
+                "log_ratio": -2.534616124,
+                "ratio": 0.0029200068884894,
+                "country2": "Ethiopia",
+                "log_login": -2.529575899,
+                "ratio_unique_login": 0.00295409257201262,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Fiji",
+        "pushes": 4.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Fiji",
+                "log_pushes": 0.6020599913,
+                "population": 875983.0,
+                "country": "Fiji",
+                "log_ratio": -2.340435687,
+                "ratio": 0.00456629866104707,
+                "country2": "Fiji",
+                "log_login": -1.942495678,
+                "ratio_unique_login": 0.0114157466526176,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Finland",
+        "pushes": 22097.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Finland",
+                "log_pushes": 4.344333316,
+                "population": 5244000.0,
+                "country": "Finland",
+                "log_ratio": 0.6246706327,
+                "ratio": 4.21376811594202,
+                "country2": "Finland",
+                "log_login": 0.4301720137,
+                "ratio_unique_login": 2.6926010678871,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "France",
+        "pushes": 151529.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "France",
+                "log_pushes": 5.180495757,
+                "population": 64768389.0,
+                "country": "France",
+                "log_ratio": 0.3691326623,
+                "ratio": 2.33955178350969,
+                "country2": "France",
+                "log_login": 0.08361719605,
+                "ratio_unique_login": 1.21231979384264,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Gabon",
+        "pushes": 103.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Gabon",
+                "log_pushes": 2.012837225,
+                "population": 1545255.0,
+                "country": "Gabon",
+                "log_ratio": -1.176162933,
+                "ratio": 0.0666556652461891,
+                "country2": "Gabon",
+                "log_login": -1.189000158,
+                "ratio_unique_login": 0.0647142381030962,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Gambia",
+        "pushes": 6.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Gambia",
+                "log_pushes": 0.7781512504,
+                "population": 1593256.0,
+                "country": "Gambia",
+                "log_ratio": -2.424134312,
+                "ratio": 0.00376587315534979,
+                "country2": "Gambia",
+                "log_login": -1.901255567,
+                "ratio_unique_login": 0.0125529105178326,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Georgia",
+        "pushes": 906.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Georgia",
+                "log_pushes": 2.957128198,
+                "population": 4630000.0,
+                "country": "Georgia",
+                "log_ratio": -0.7084527933,
+                "ratio": 0.195680345572354,
+                "country2": "Georgia",
+                "log_login": -0.9495776474,
+                "ratio_unique_login": 0.11231101511879,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Germany",
+        "pushes": 319787.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Germany",
+                "log_pushes": 5.504860805,
+                "population": 81802257.0,
+                "country": "Germany",
+                "log_ratio": 0.5920955184,
+                "ratio": 3.90926866479979,
+                "country2": "Germany",
+                "log_login": 0.1580111764,
+                "ratio_unique_login": 1.43883560572173,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ghana",
+        "pushes": 582.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ghana",
+                "log_pushes": 2.764922985,
+                "population": 24339838.0,
+                "country": "Ghana",
+                "log_ratio": -1.621394699,
+                "ratio": 0.0239114163372821,
+                "country2": "Ghana",
+                "log_login": -1.662041814,
+                "ratio_unique_login": 0.0217750011318892,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Greece",
+        "pushes": 30541.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Greece",
+                "log_pushes": 4.484883253,
+                "population": 11000000.0,
+                "country": "Greece",
+                "log_ratio": 0.4434905678,
+                "ratio": 2.77645454545454,
+                "country2": "Greece",
+                "log_login": -0.3081954201,
+                "ratio_unique_login": 0.491818181818181,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Guatemala",
+        "pushes": 1449.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Guatemala",
+                "log_pushes": 3.161068385,
+                "population": 13550440.0,
+                "country": "Guatemala",
+                "log_ratio": -0.9708850121,
+                "ratio": 0.106933796983714,
+                "country2": "Guatemala",
+                "log_login": -1.004848599,
+                "ratio_unique_login": 0.0988897777489144,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Guinea",
+        "pushes": 16.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Guinea",
+                "log_pushes": 1.204119983,
+                "population": 10324025.0,
+                "country": "Guinea",
+                "log_ratio": -2.809729065,
+                "ratio": 0.0015497831514356,
+                "country2": "Guinea",
+                "log_login": -3.013849048,
+                "ratio_unique_login": 0.000968614469647254,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Guyana",
+        "pushes": 4.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Guyana",
+                "log_pushes": 0.6020599913,
+                "population": 748486.0,
+                "country": "Guyana",
+                "log_ratio": -2.27212369,
+                "ratio": 0.00534412133293074,
+                "country2": "Guyana",
+                "log_login": -1.573153686,
+                "ratio_unique_login": 0.0267206066646537,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Haiti",
+        "pushes": 83.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Haiti",
+                "log_pushes": 1.919078092,
+                "population": 9648924.0,
+                "country": "Haiti",
+                "log_ratio": -2.065400793,
+                "ratio": 0.00860199541420369,
+                "country2": "Haiti",
+                "log_login": -2.081388899,
+                "ratio_unique_login": 0.00829107991730476,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Honduras",
+        "pushes": 494.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Honduras",
+                "log_pushes": 2.693726949,
+                "population": 7989415.0,
+                "country": "Honduras",
+                "log_ratio": -1.208788032,
+                "ratio": 0.0618318112152141,
+                "country2": "Honduras",
+                "log_login": -1.259062304,
+                "ratio_unique_login": 0.0550728682888546,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Hong Kong",
+        "pushes": 12.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Hong Kong",
+                "log_pushes": 1.079181246,
+                "population": 6898686.0,
+                "country": "Hong Kong",
+                "log_ratio": -2.759585132,
+                "ratio": 0.00173946168879116,
+                "country2": "Hong Kong",
+                "log_login": -2.838766378,
+                "ratio_unique_login": 0.00144955140732597,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Hungary",
+        "pushes": 428786.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Hungary",
+                "log_pushes": 5.632240597,
+                "population": 9982000.0,
+                "country": "Hungary",
+                "log_ratio": 1.633023032,
+                "ratio": 42.9559206571829,
+                "country2": "Hungary",
+                "log_login": -0.1076801079,
+                "ratio_unique_login": 0.78040472851132,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Iceland",
+        "pushes": 1645.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Iceland",
+                "log_pushes": 3.216165902,
+                "population": 308910.0,
+                "country": "Iceland",
+                "log_ratio": 0.7263339348,
+                "ratio": 5.32517561749376,
+                "country2": "Iceland",
+                "log_login": 0.683354301,
+                "ratio_unique_login": 4.82341134958402,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": "http://twitter.com/felipehoffa"
+            }
+        ]
+    },
+    {
+        "c_country": "India",
+        "pushes": 109823.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "India",
+                "log_pushes": 5.040693303,
+                "population": 1173108018.0,
+                "country": "India",
+                "log_ratio": -1.0286447,
+                "ratio": 0.0936171250344314,
+                "country2": "India",
+                "log_login": -1.149005932,
+                "ratio_unique_login": 0.0709568076620204,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Indonesia",
+        "pushes": 17116.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Indonesia",
+                "log_pushes": 4.233402278,
+                "population": 242968342.0,
+                "country": "Indonesia",
+                "log_ratio": -1.152147412,
+                "ratio": 0.070445391605792,
+                "country2": "Indonesia",
+                "log_login": -1.292829045,
+                "ratio_unique_login": 0.0509531402243342,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Iran",
+        "pushes": 5271.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Iran",
+                "log_pushes": 3.721893016,
+                "population": 76923300.0,
+                "country": "Iran",
+                "log_ratio": -1.164164891,
+                "ratio": 0.0685228012838762,
+                "country2": "Iran",
+                "log_login": -1.277531874,
+                "ratio_unique_login": 0.0527798469384438,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Iraq",
+        "pushes": 192.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Iraq",
+                "log_pushes": 2.283301229,
+                "population": 29671605.0,
+                "country": "Iraq",
+                "log_ratio": -2.18903981,
+                "ratio": 0.00647083297314048,
+                "country2": "Iraq",
+                "log_login": -2.193587438,
+                "ratio_unique_login": 0.0064034284630036,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ireland",
+        "pushes": 14956.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ireland",
+                "log_pushes": 4.174815456,
+                "population": 4622917.0,
+                "country": "Ireland",
+                "log_ratio": 0.5098993603,
+                "ratio": 3.23518678790901,
+                "country2": "Ireland",
+                "log_login": 0.3389750701,
+                "ratio_unique_login": 2.18260461955081,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Israel",
+        "pushes": 14189.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Israel",
+                "log_pushes": 4.151951789,
+                "population": 7353985.0,
+                "country": "Israel",
+                "log_ratio": 0.285429049,
+                "ratio": 1.92943009810327,
+                "country2": "Israel",
+                "log_login": 0.04410166519,
+                "ratio_unique_login": 1.10688286690821,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Italy",
+        "pushes": 46350.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Italy",
+                "log_pushes": 4.666049738,
+                "population": 60340328.0,
+                "country": "Italy",
+                "log_ratio": -0.1145579281,
+                "ratio": 0.768142990538599,
+                "country2": "Italy",
+                "log_login": -0.3476383757,
+                "ratio_unique_login": 0.449119202666581,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ivory Coast",
+        "pushes": 174.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ivory Coast",
+                "log_pushes": 2.240549248,
+                "population": 21058798.0,
+                "country": "Ivory Coast",
+                "log_ratio": -2.08288433,
+                "ratio": 0.00826257984904931,
+                "country2": "Ivory Coast",
+                "log_login": -2.209490226,
+                "ratio_unique_login": 0.00617319184124374,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Jamaica",
+        "pushes": 673.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Jamaica",
+                "log_pushes": 2.828015064,
+                "population": 2847232.0,
+                "country": "Jamaica",
+                "log_ratio": -0.6264077918,
+                "ratio": 0.236369919978421,
+                "country2": "Jamaica",
+                "log_login": -0.9492728777,
+                "ratio_unique_login": 0.112389857939219,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Japan",
+        "pushes": 108934.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Japan",
+                "log_pushes": 5.037163451,
+                "population": 127288000.0,
+                "country": "Japan",
+                "log_ratio": -0.06762401174,
+                "ratio": 0.855807303123625,
+                "country2": "Japan",
+                "log_login": -0.3513576212,
+                "ratio_unique_login": 0.445289422412167,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Jordan",
+        "pushes": 9543.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Jordan",
+                "log_pushes": 3.979684924,
+                "population": 6407085.0,
+                "country": "Jordan",
+                "log_ratio": 0.1730244382,
+                "ratio": 1.48944488796387,
+                "country2": "Jordan",
+                "log_login": -1.082384616,
+                "ratio_unique_login": 0.0827209253506079,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Kazakhstan",
+        "pushes": 1700.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Kazakhstan",
+                "log_pushes": 3.230448921,
+                "population": 15340000.0,
+                "country": "Kazakhstan",
+                "log_ratio": -0.9553764382,
+                "ratio": 0.110821382007822,
+                "country2": "Kazakhstan",
+                "log_login": -1.148398862,
+                "ratio_unique_login": 0.0710560625814863,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Kenya",
+        "pushes": 3974.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Kenya",
+                "log_pushes": 3.599227863,
+                "population": 40046566.0,
+                "country": "Kenya",
+                "log_ratio": -1.003337418,
+                "ratio": 0.0992344761845497,
+                "country2": "Kenya",
+                "log_login": -1.15540725,
+                "ratio_unique_login": 0.0699186042568543,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Kuwait",
+        "pushes": 129.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Kuwait",
+                "log_pushes": 2.11058971,
+                "population": 2789132.0,
+                "country": "Kuwait",
+                "log_ratio": -1.334879358,
+                "ratio": 0.0462509483237078,
+                "country2": "Kuwait",
+                "log_login": -1.299341033,
+                "ratio_unique_login": 0.0501948276381325,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Kyrgyzstan",
+        "pushes": 590.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Kyrgyzstan",
+                "log_pushes": 2.770852012,
+                "population": 5508626.0,
+                "country": "Kyrgyzstan",
+                "log_ratio": -0.970191276,
+                "ratio": 0.107104748080555,
+                "country2": "Kyrgyzstan",
+                "log_login": -1.128259431,
+                "ratio_unique_login": 0.0744287232424201,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Laos",
+        "pushes": 316.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Laos",
+                "log_pushes": 2.499687083,
+                "population": 6368162.0,
+                "country": "Laos",
+                "log_ratio": -1.30432702,
+                "ratio": 0.049621853212905,
+                "country2": "Laos",
+                "log_login": -1.461591422,
+                "ratio_unique_login": 0.0345468598317693,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Latvia",
+        "pushes": 5216.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Latvia",
+                "log_pushes": 3.717337583,
+                "population": 2217969.0,
+                "country": "Latvia",
+                "log_ratio": 0.3713821109,
+                "ratio": 2.35170103820206,
+                "country2": "Latvia",
+                "log_login": -0.00551135699,
+                "ratio_unique_login": 0.987389814735913,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Lebanon",
+        "pushes": 584.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Lebanon",
+                "log_pushes": 2.766412847,
+                "population": 4125247.0,
+                "country": "Lebanon",
+                "log_ratio": -0.84903711,
+                "ratio": 0.141567280698586,
+                "country2": "Lebanon",
+                "log_login": -0.9252538771,
+                "ratio_unique_login": 0.118780766339567,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Lesotho",
+        "pushes": 30.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Lesotho",
+                "log_pushes": 1.477121255,
+                "population": 1919552.0,
+                "country": "Lesotho",
+                "log_ratio": -1.806078627,
+                "ratio": 0.0156286466842263,
+                "country2": "Lesotho",
+                "log_login": -2.283199882,
+                "ratio_unique_login": 0.0052095488947421,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Liberia",
+        "pushes": 117.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Liberia",
+                "log_pushes": 2.068185862,
+                "population": 3685076.0,
+                "country": "Liberia",
+                "log_ratio": -1.498260587,
+                "ratio": 0.0317496844027097,
+                "country2": "Liberia",
+                "log_login": -1.287692848,
+                "ratio_unique_login": 0.0515593165514089,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Libya",
+        "pushes": 145.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Libya",
+                "log_pushes": 2.161368002,
+                "population": 6461454.0,
+                "country": "Libya",
+                "log_ratio": -1.648962255,
+                "ratio": 0.0224407695233921,
+                "country2": "Libya",
+                "log_login": -1.90724027,
+                "ratio_unique_login": 0.0123811142198025,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Lithuania",
+        "pushes": 4209.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Lithuania",
+                "log_pushes": 3.624178926,
+                "population": 2944459.0,
+                "country": "Lithuania",
+                "log_ratio": 0.1551734144,
+                "ratio": 1.42946463170314,
+                "country2": "Lithuania",
+                "log_login": 0.005210752694,
+                "ratio_unique_login": 1.01207046863277,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Luxembourg",
+        "pushes": 2693.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Luxembourg",
+                "log_pushes": 3.430236353,
+                "population": 497538.0,
+                "country": "Luxembourg",
+                "log_ratio": 0.7334100974,
+                "ratio": 5.41265189794548,
+                "country2": "Luxembourg",
+                "log_login": 0.3484967227,
+                "ratio_unique_login": 2.23098537197158,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Macedonia",
+        "pushes": 795.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Macedonia",
+                "log_pushes": 2.900367129,
+                "population": 2062294.0,
+                "country": "Macedonia",
+                "log_ratio": -0.4139834496,
+                "ratio": 0.385493048032918,
+                "country2": "Macedonia",
+                "log_login": -0.4510277181,
+                "ratio_unique_login": 0.353974748508214,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Madagascar",
+        "pushes": 100.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Madagascar",
+                "log_pushes": 2.0,
+                "population": 21281844.0,
+                "country": "Madagascar",
+                "log_ratio": -2.328009255,
+                "ratio": 0.00469884094630145,
+                "country2": "Madagascar",
+                "log_login": -2.28661657,
+                "ratio_unique_login": 0.0051687250409316,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Malawi",
+        "pushes": 156.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Malawi",
+                "log_pushes": 2.193124598,
+                "population": 15447500.0,
+                "country": "Malawi",
+                "log_ratio": -1.995733606,
+                "ratio": 0.0100987214759669,
+                "country2": "Malawi",
+                "log_login": -2.343760164,
+                "ratio_unique_login": 0.0045314775853698,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Malaysia",
+        "pushes": 7006.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Malaysia",
+                "log_pushes": 3.845470133,
+                "population": 28274729.0,
+                "country": "Malaysia",
+                "log_ratio": -0.6059283181,
+                "ratio": 0.247783099883998,
+                "country2": "Malaysia",
+                "log_login": -0.9148400085,
+                "ratio_unique_login": 0.121663411875671,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Maldives",
+        "pushes": 108.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Maldives",
+                "log_pushes": 2.033423755,
+                "population": 395650.0,
+                "country": "Maldives",
+                "log_ratio": -0.5638874146,
+                "ratio": 0.272968532794136,
+                "country2": "Maldives",
+                "log_login": -0.518129924,
+                "ratio_unique_login": 0.303298369771262,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mali",
+        "pushes": 17.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mali",
+                "log_pushes": 1.230448921,
+                "population": 13796354.0,
+                "country": "Mali",
+                "log_ratio": -2.909315408,
+                "ratio": 0.00123220961132194,
+                "country2": "Mali",
+                "log_login": -2.537704338,
+                "ratio_unique_login": 0.00289931673252223,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Malta",
+        "pushes": 91.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Malta",
+                "log_pushes": 1.959041392,
+                "population": 403000.0,
+                "country": "Malta",
+                "log_ratio": -0.6462636538,
+                "ratio": 0.225806451612903,
+                "country2": "Malta",
+                "log_login": -0.6053050461,
+                "ratio_unique_login": 0.248138957816377,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mauritania",
+        "pushes": 60.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mauritania",
+                "log_pushes": 1.77815125,
+                "population": 3205060.0,
+                "country": "Mauritania",
+                "log_ratio": -1.727684914,
+                "ratio": 0.0187203983700773,
+                "country2": "Mauritania",
+                "log_login": -2.028714909,
+                "ratio_unique_login": 0.00936019918503865,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mauritius",
+        "pushes": 104.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mauritius",
+                "log_pushes": 2.017033339,
+                "population": 1294104.0,
+                "country": "Mauritius",
+                "log_ratio": -1.09493584,
+                "ratio": 0.0803644838436478,
+                "country2": "Mauritius",
+                "log_login": -0.8332155786,
+                "ratio_unique_login": 0.146819730098971,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mexico",
+        "pushes": 27956.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mexico",
+                "log_pushes": 4.446475032,
+                "population": 112468855.0,
+                "country": "Mexico",
+                "log_ratio": -0.604557242,
+                "ratio": 0.248566592057863,
+                "country2": "Mexico",
+                "log_login": -0.8646410581,
+                "ratio_unique_login": 0.136571142295349,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Moldova",
+        "pushes": 1330.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Moldova",
+                "log_pushes": 3.123851641,
+                "population": 4324000.0,
+                "country": "Moldova",
+                "log_ratio": -0.5120340443,
+                "ratio": 0.307585568917668,
+                "country2": "Moldova",
+                "log_login": -0.6627578317,
+                "ratio_unique_login": 0.217391304347826,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mongolia",
+        "pushes": 133.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mongolia",
+                "log_pushes": 2.123851641,
+                "population": 3086918.0,
+                "country": "Mongolia",
+                "log_ratio": -1.365673452,
+                "ratio": 0.0430850446950647,
+                "country2": "Mongolia",
+                "log_login": -1.259076172,
+                "ratio_unique_login": 0.0550711097606091,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Montenegro",
+        "pushes": 207.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Montenegro",
+                "log_pushes": 2.315970345,
+                "population": 666730.0,
+                "country": "Montenegro",
+                "log_ratio": -0.5079796515,
+                "ratio": 0.310470505301996,
+                "country2": "Montenegro",
+                "log_login": -0.5229200013,
+                "ratio_unique_login": 0.299971502707242,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Morocco",
+        "pushes": 1049.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Morocco",
+                "log_pushes": 3.020775488,
+                "population": 31627428.0,
+                "country": "Morocco",
+                "log_ratio": -1.479288388,
+                "ratio": 0.0331674140559263,
+                "country2": "Morocco",
+                "log_login": -1.57578459,
+                "ratio_unique_login": 0.026559225745451,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Mozambique",
+        "pushes": 227.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Mozambique",
+                "log_pushes": 2.356025857,
+                "population": 22061451.0,
+                "country": "Mozambique",
+                "log_ratio": -1.987608216,
+                "ratio": 0.0102894410707618,
+                "country2": "Mozambique",
+                "log_login": -2.088361568,
+                "ratio_unique_login": 0.00815902816183758,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Myanmar",
+        "pushes": 338.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Myanmar",
+                "log_pushes": 2.5289167,
+                "population": 53414374.0,
+                "country": "Myanmar",
+                "log_ratio": -2.198741443,
+                "ratio": 0.00632788470009963,
+                "country2": "Myanmar",
+                "log_login": -2.094189687,
+                "ratio_unique_login": 0.00805026751787824,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Namibia",
+        "pushes": 748.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Namibia",
+                "log_pushes": 2.873901598,
+                "population": 2128471.0,
+                "country": "Namibia",
+                "log_ratio": -0.4541661395,
+                "ratio": 0.351425976675275,
+                "country2": "Namibia",
+                "log_login": -1.328067737,
+                "ratio_unique_login": 0.0469820824432186,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Nepal",
+        "pushes": 2626.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Nepal",
+                "log_pushes": 3.419294722,
+                "population": 28951852.0,
+                "country": "Nepal",
+                "log_ratio": -1.042381628,
+                "ratio": 0.0907023150021629,
+                "country2": "Nepal",
+                "log_login": -1.086928004,
+                "ratio_unique_login": 0.0818600481931173,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Netherlands",
+        "pushes": 75198.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Netherlands",
+                "log_pushes": 4.87620629,
+                "population": 16645000.0,
+                "country": "Netherlands",
+                "log_ratio": 0.6549224906,
+                "ratio": 4.5177530790027,
+                "country2": "Netherlands",
+                "log_login": 0.4098554508,
+                "ratio_unique_login": 2.56954040252328,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "New Zealand",
+        "pushes": 24077.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "New Zealand",
+                "log_pushes": 4.381602373,
+                "population": 4252277.0,
+                "country": "New Zealand",
+                "log_ratio": 0.7529808254,
+                "ratio": 5.66214289426582,
+                "country2": "New Zealand",
+                "log_login": 0.5080990198,
+                "ratio_unique_login": 3.22180328327623,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Nicaragua",
+        "pushes": 396.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Nicaragua",
+                "log_pushes": 2.597695186,
+                "population": 5995928.0,
+                "country": "Nicaragua",
+                "log_ratio": -1.180161223,
+                "ratio": 0.066044822419482,
+                "country2": "Nicaragua",
+                "log_login": -1.175796418,
+                "ratio_unique_login": 0.0667119418378606,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Niger",
+        "pushes": 13.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Niger",
+                "log_pushes": 1.113943352,
+                "population": 15878271.0,
+                "country": "Niger",
+                "log_ratio": -3.086859858,
+                "ratio": 0.000818728940953331,
+                "country2": "Niger",
+                "log_login": -2.899773214,
+                "ratio_unique_login": 0.00125958298608204,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Nigeria",
+        "pushes": 2867.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Nigeria",
+                "log_pushes": 3.457427693,
+                "population": 154000000.0,
+                "country": "Nigeria",
+                "log_ratio": -1.730093028,
+                "ratio": 0.0186168831168831,
+                "country2": "Nigeria",
+                "log_login": -1.893054495,
+                "ratio_unique_login": 0.0127922077922077,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "North Korea",
+        "pushes": 212.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "North Korea",
+                "log_pushes": 2.326335861,
+                "population": 22912177.0,
+                "country": "North Korea",
+                "log_ratio": -2.033730495,
+                "ratio": 0.00925272181687493,
+                "country2": "North Korea",
+                "log_login": -2.28088511,
+                "ratio_unique_login": 0.00523738970766505,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Norway",
+        "pushes": 29659.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Norway",
+                "log_pushes": 4.472156504,
+                "population": 5009150.0,
+                "country": "Norway",
+                "log_ratio": 0.7723924671,
+                "ratio": 5.92096463471846,
+                "country2": "Norway",
+                "log_login": 0.4789252029,
+                "ratio_unique_login": 3.01248714851821,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Oman",
+        "pushes": 42.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Oman",
+                "log_pushes": 1.62324929,
+                "population": 2967717.0,
+                "country": "Oman",
+                "log_ratio": -1.849173194,
+                "ratio": 0.014152292823069,
+                "country2": "Oman",
+                "log_login": -1.627324444,
+                "ratio_unique_login": 0.023587154705115,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Pakistan",
+        "pushes": 4003.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Pakistan",
+                "log_pushes": 3.60238559,
+                "population": 184404791.0,
+                "country": "Pakistan",
+                "log_ratio": -1.66338661,
+                "ratio": 0.0217076789507057,
+                "country2": "Pakistan",
+                "log_login": -1.681440976,
+                "ratio_unique_login": 0.0208237539771946,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Palestinian Territory",
+        "pushes": 389.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Palestinian Territory",
+                "log_pushes": 2.589949601,
+                "population": 3800000.0,
+                "country": "Palestinian Territory",
+                "log_ratio": -0.9898339953,
+                "ratio": 0.102368421052631,
+                "country2": "Palestinian Territory",
+                "log_login": -1.102662342,
+                "ratio_unique_login": 0.0789473684210526,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Panama",
+        "pushes": 778.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Panama",
+                "log_pushes": 2.890979597,
+                "population": 3410676.0,
+                "country": "Panama",
+                "log_ratio": -0.6418608682,
+                "ratio": 0.228107272575876,
+                "country2": "Panama",
+                "log_login": -0.7694124716,
+                "ratio_unique_login": 0.170054264902324,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Papua New Guinea",
+        "pushes": 1.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Papua New Guinea",
+                "log_pushes": 0.0,
+                "population": 6064515.0,
+                "country": "Papua New Guinea",
+                "log_ratio": -3.782796075,
+                "ratio": 0.000164893647719562,
+                "country2": "Papua New Guinea",
+                "log_login": -2.782796075,
+                "ratio_unique_login": 0.00164893647719562,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Paraguay",
+        "pushes": 772.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Paraguay",
+                "log_pushes": 2.8876173,
+                "population": 6375830.0,
+                "country": "Paraguay",
+                "log_ratio": -0.9169194285,
+                "ratio": 0.121082274778342,
+                "country2": "Paraguay",
+                "log_login": -1.026385478,
+                "ratio_unique_login": 0.0941053949054476,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Peru",
+        "pushes": 3563.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Peru",
+                "log_pushes": 3.551815822,
+                "population": 29907003.0,
+                "country": "Peru",
+                "log_ratio": -0.9239570719,
+                "ratio": 0.119135976279535,
+                "country2": "Peru",
+                "log_login": -0.9404787742,
+                "ratio_unique_login": 0.114688857322146,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Philippines",
+        "pushes": 11640.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Philippines",
+                "log_pushes": 4.06595298,
+                "population": 99900177.0,
+                "country": "Philippines",
+                "log_ratio": -0.9336132774,
+                "ratio": 0.116516310076207,
+                "country2": "Philippines",
+                "log_login": -1.145260216,
+                "ratio_unique_login": 0.071571444763306,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Poland",
+        "pushes": 44280.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Poland",
+                "log_pushes": 4.646207612,
+                "population": 38500000.0,
+                "country": "Poland",
+                "log_ratio": 0.0607468827,
+                "ratio": 1.15012987012987,
+                "country2": "Poland",
+                "log_login": -0.1005916968,
+                "ratio_unique_login": 0.793246753246753,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Portugal",
+        "pushes": 15709.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Portugal",
+                "log_pushes": 4.19614854,
+                "population": 10676000.0,
+                "country": "Portugal",
+                "log_ratio": 0.1677399746,
+                "ratio": 1.47143124765829,
+                "country2": "Portugal",
+                "log_login": -0.06651309145,
+                "ratio_unique_login": 0.857999250655676,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Qatar",
+        "pushes": 117.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Qatar",
+                "log_pushes": 2.068185862,
+                "population": 840926.0,
+                "country": "Qatar",
+                "log_ratio": -0.8565719186,
+                "ratio": 0.139132337447052,
+                "country2": "Qatar",
+                "log_login": -0.6460041794,
+                "ratio_unique_login": 0.225941402691794,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Republic of the Congo",
+        "pushes": 20.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Republic of the Congo",
+                "log_pushes": 1.301029996,
+                "population": 3039126.0,
+                "country": "Republic of the Congo",
+                "log_ratio": -2.18171871,
+                "ratio": 0.00658083935973697,
+                "country2": "Republic of the Congo",
+                "log_login": -2.005627451,
+                "ratio_unique_login": 0.00987125903960546,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Romania",
+        "pushes": 13462.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Romania",
+                "log_pushes": 4.129109586,
+                "population": 21959278.0,
+                "country": "Romania",
+                "log_ratio": -0.2125084706,
+                "ratio": 0.613043835047764,
+                "country2": "Romania",
+                "log_login": -0.3981235409,
+                "ratio_unique_login": 0.399830996264995,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Russia",
+        "pushes": 101331.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Russia",
+                "log_pushes": 5.005742329,
+                "population": 140702000.0,
+                "country": "Russia",
+                "log_ratio": -0.1425579422,
+                "ratio": 0.720181660530767,
+                "country2": "Russia",
+                "log_login": -0.3427994126,
+                "ratio_unique_login": 0.454151326917883,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Rwanda",
+        "pushes": 214.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Rwanda",
+                "log_pushes": 2.330413773,
+                "population": 11055976.0,
+                "country": "Rwanda",
+                "log_ratio": -1.713183314,
+                "ratio": 0.0193560478061819,
+                "country2": "Rwanda",
+                "log_login": -2.198499047,
+                "ratio_unique_login": 0.00633141750669502,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Saudi Arabia",
+        "pushes": 741.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Saudi Arabia",
+                "log_pushes": 2.869818208,
+                "population": 25731776.0,
+                "country": "Saudi Arabia",
+                "log_ratio": -1.540651554,
+                "ratio": 0.0287970795331033,
+                "country2": "Saudi Arabia",
+                "log_login": -1.678076002,
+                "ratio_unique_login": 0.0209857259755409,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Senegal",
+        "pushes": 458.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Senegal",
+                "log_pushes": 2.660865478,
+                "population": 12323252.0,
+                "country": "Senegal",
+                "log_ratio": -1.429859852,
+                "ratio": 0.0371655144275228,
+                "country2": "Senegal",
+                "log_login": -1.659361565,
+                "ratio_unique_login": 0.0219098010817274,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Serbia",
+        "pushes": 4817.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Serbia",
+                "log_pushes": 3.682776646,
+                "population": 7344847.0,
+                "country": "Serbia",
+                "log_ratio": -0.1832061071,
+                "ratio": 0.65583394725581,
+                "country2": "Serbia",
+                "log_login": -0.3133145373,
+                "ratio_unique_login": 0.486055053291103,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Sierra Leone",
+        "pushes": 135.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Sierra Leone",
+                "log_pushes": 2.130333768,
+                "population": 5245695.0,
+                "country": "Sierra Leone",
+                "log_ratio": -1.589469267,
+                "ratio": 0.0257353887330468,
+                "country2": "Sierra Leone",
+                "log_login": -1.941651785,
+                "ratio_unique_login": 0.0114379505480208,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Slovakia",
+        "pushes": 4938.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Slovakia",
+                "log_pushes": 3.693551086,
+                "population": 5455000.0,
+                "country": "Slovakia",
+                "log_ratio": -0.04324366933,
+                "ratio": 0.905224564619615,
+                "country2": "Slovakia",
+                "log_login": -0.2330040719,
+                "ratio_unique_login": 0.584784601283226,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Slovenia",
+        "pushes": 4331.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Slovenia",
+                "log_pushes": 3.636588184,
+                "population": 2007000.0,
+                "country": "Slovenia",
+                "log_ratio": 0.3340408112,
+                "ratio": 2.15794718485301,
+                "country2": "Slovenia",
+                "log_login": 0.1124259755,
+                "ratio_unique_login": 1.2954658694569,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Solomon Islands",
+        "pushes": 7.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Solomon Islands",
+                "log_pushes": 0.84509804,
+                "population": 559198.0,
+                "country": "Solomon Islands",
+                "log_ratio": -1.902467569,
+                "ratio": 0.0125179274603986,
+                "country2": "Solomon Islands",
+                "log_login": -1.446535614,
+                "ratio_unique_login": 0.0357655070297104,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Somalia",
+        "pushes": 20.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Somalia",
+                "log_pushes": 1.301029996,
+                "population": 10112453.0,
+                "country": "Somalia",
+                "log_ratio": -2.70382652,
+                "ratio": 0.00197775950108247,
+                "country2": "Somalia",
+                "log_login": -2.527735261,
+                "ratio_unique_login": 0.00296663925162371,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "South Africa",
+        "pushes": 12318.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "South Africa",
+                "log_pushes": 4.0905402,
+                "population": 49000000.0,
+                "country": "South Africa",
+                "log_ratio": -0.5996558803,
+                "ratio": 0.25138775510204,
+                "country2": "South Africa",
+                "log_login": -0.7742688683,
+                "ratio_unique_login": 0.168163265306122,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "South Korea",
+        "pushes": 24823.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "South Korea",
+                "log_pushes": 4.394854267,
+                "population": 48422644.0,
+                "country": "South Korea",
+                "log_ratio": -0.2901942321,
+                "ratio": 0.512632065279211,
+                "country2": "South Korea",
+                "log_login": -0.5877911896,
+                "ratio_unique_login": 0.258350204916526,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "South Sudan",
+        "pushes": 92.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "South Sudan",
+                "log_pushes": 1.963787827,
+                "population": 8260490.0,
+                "country": "South Sudan",
+                "log_ratio": -1.953217982,
+                "ratio": 0.0111373538373631,
+                "country2": "South Sudan",
+                "log_login": -2.615975814,
+                "ratio_unique_login": 0.00242116387768764,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Spain",
+        "pushes": 60553.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Spain",
+                "log_pushes": 4.782135664,
+                "population": 46505963.0,
+                "country": "Spain",
+                "log_ratio": 0.1146270227,
+                "ratio": 1.30204808359736,
+                "country2": "Spain",
+                "log_login": -0.128432543,
+                "ratio_unique_login": 0.743990614708913,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Sri Lanka",
+        "pushes": 5241.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Sri Lanka",
+                "log_pushes": 3.71941416,
+                "population": 21513990.0,
+                "country": "Sri Lanka",
+                "log_ratio": -0.6133068027,
+                "ratio": 0.243608926098785,
+                "country2": "Sri Lanka",
+                "log_login": -0.8330338798,
+                "ratio_unique_login": 0.146881168950994,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Sudan",
+        "pushes": 75.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Sudan",
+                "log_pushes": 1.875061263,
+                "population": 35000000.0,
+                "country": "Sudan",
+                "log_ratio": -2.669006781,
+                "ratio": 0.00214285714285714,
+                "country2": "Sudan",
+                "log_login": -2.544068044,
+                "ratio_unique_login": 0.00285714285714285,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Suriname",
+        "pushes": 57.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Suriname",
+                "log_pushes": 1.755874856,
+                "population": 492829.0,
+                "country": "Suriname",
+                "log_ratio": -0.9368213998,
+                "ratio": 0.115658778196899,
+                "country2": "Suriname",
+                "log_login": -1.39166626,
+                "ratio_unique_login": 0.0405820274375087,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Swaziland",
+        "pushes": 254.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Swaziland",
+                "log_pushes": 2.404833717,
+                "population": 1354051.0,
+                "country": "Swaziland",
+                "log_ratio": -0.7268013056,
+                "ratio": 0.187585253435801,
+                "country2": "Swaziland",
+                "log_login": -0.7892123414,
+                "ratio_unique_login": 0.162475416361717,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Sweden",
+        "pushes": 51584.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Sweden",
+                "log_pushes": 4.712515016,
+                "population": 9555893.0,
+                "country": "Sweden",
+                "log_ratio": 0.7322437376,
+                "ratio": 5.39813495190873,
+                "country2": "Sweden",
+                "log_login": 0.4988719698,
+                "ratio_unique_login": 3.15407466366565,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Switzerland",
+        "pushes": 53652.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Switzerland",
+                "log_pushes": 4.729585916,
+                "population": 7581000.0,
+                "country": "Switzerland",
+                "log_ratio": 0.8498594193,
+                "ratio": 7.0771666007123,
+                "country2": "Switzerland",
+                "log_login": 0.4861357188,
+                "ratio_unique_login": 3.06292045904234,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Syria",
+        "pushes": 408.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Syria",
+                "log_pushes": 2.610660163,
+                "population": 22198110.0,
+                "country": "Syria",
+                "log_ratio": -1.735655836,
+                "ratio": 0.0183799431573228,
+                "country2": "Syria",
+                "log_login": -2.045286003,
+                "ratio_unique_login": 0.0090097760575112,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Taiwan",
+        "pushes": 35856.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Taiwan",
+                "log_pushes": 4.554561839,
+                "population": 22894384.0,
+                "country": "Taiwan",
+                "log_ratio": 0.1948328764,
+                "ratio": 1.56614827461616,
+                "country2": "Taiwan",
+                "log_login": -0.09846609403,
+                "ratio_unique_login": 0.79713872188044,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Tajikistan",
+        "pushes": 32.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Tajikistan",
+                "log_pushes": 1.505149978,
+                "population": 7487489.0,
+                "country": "Tajikistan",
+                "log_ratio": -2.369186219,
+                "ratio": 0.00427379592811421,
+                "country2": "Tajikistan",
+                "log_login": -2.029238157,
+                "ratio_unique_login": 0.00934892859274985,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Tanzania",
+        "pushes": 757.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Tanzania",
+                "log_pushes": 2.87909588,
+                "population": 41892895.0,
+                "country": "Tanzania",
+                "log_ratio": -1.743044494,
+                "ratio": 0.0180698898942171,
+                "country2": "Tanzania",
+                "log_login": -2.145019119,
+                "ratio_unique_login": 0.0071611188484348,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Thailand",
+        "pushes": 8678.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Thailand",
+                "log_pushes": 3.938419646,
+                "population": 67089500.0,
+                "country": "Thailand",
+                "log_ratio": -0.8882349094,
+                "ratio": 0.129349600160979,
+                "country2": "Thailand",
+                "log_login": -1.08314479,
+                "ratio_unique_login": 0.0825762600705028,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Togo",
+        "pushes": 15.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Togo",
+                "log_pushes": 1.176091259,
+                "population": 6587239.0,
+                "country": "Togo",
+                "log_ratio": -2.642612162,
+                "ratio": 0.00227713006921412,
+                "country2": "Togo",
+                "log_login": -2.21664343,
+                "ratio_unique_login": 0.00607234685123767,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Trinidad and Tobago",
+        "pushes": 326.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Trinidad and Tobago",
+                "log_pushes": 2.5132176,
+                "population": 1228691.0,
+                "country": "Trinidad and Tobago",
+                "log_ratio": -0.5762250771,
+                "ratio": 0.265323014492659,
+                "country2": "Trinidad and Tobago",
+                "log_login": -0.8589937558,
+                "ratio_unique_login": 0.138358627189423,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Tunisia",
+        "pushes": 988.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Tunisia",
+                "log_pushes": 2.994756945,
+                "population": 10589025.0,
+                "country": "Tunisia",
+                "log_ratio": -1.030099029,
+                "ratio": 0.0933041521764279,
+                "country2": "Tunisia",
+                "log_login": -1.016255802,
+                "ratio_unique_login": 0.0963261490080531,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Turkey",
+        "pushes": 16454.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Turkey",
+                "log_pushes": 4.216271493,
+                "population": 77804122.0,
+                "country": "Turkey",
+                "log_ratio": -0.6747311132,
+                "ratio": 0.211479797946951,
+                "country2": "Turkey",
+                "log_login": -0.8243040557,
+                "ratio_unique_login": 0.149863525225565,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Turkmenistan",
+        "pushes": 80.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Turkmenistan",
+                "log_pushes": 1.903089987,
+                "population": 4940916.0,
+                "country": "Turkmenistan",
+                "log_ratio": -1.790717484,
+                "ratio": 0.0161913297048563,
+                "country2": "Turkmenistan",
+                "log_login": -1.91565622,
+                "ratio_unique_login": 0.0121434972786422,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Uganda",
+        "pushes": 527.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Uganda",
+                "log_pushes": 2.721810615,
+                "population": 33398682.0,
+                "country": "Uganda",
+                "log_ratio": -1.801918714,
+                "ratio": 0.0157790657727152,
+                "country2": "Uganda",
+                "log_login": -1.932664722,
+                "ratio_unique_login": 0.0116771074978347,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Ukraine",
+        "pushes": 51811.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Ukraine",
+                "log_pushes": 4.714421975,
+                "population": 45415596.0,
+                "country": "Ukraine",
+                "log_ratio": 0.05721695674,
+                "ratio": 1.14081955458649,
+                "country2": "Ukraine",
+                "log_login": -0.1588944641,
+                "ratio_unique_login": 0.693594332660524,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "United Arab Emirates",
+        "pushes": 3313.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "United Arab Emirates",
+                "log_pushes": 3.520221436,
+                "population": 4975593.0,
+                "country": "United Arab Emirates",
+                "log_ratio": -0.1766234123,
+                "ratio": 0.665850281564428,
+                "country2": "United Arab Emirates",
+                "log_login": -0.4981877612,
+                "ratio_unique_login": 0.317550089004466,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "United Kingdom",
+        "pushes": 304752.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "United Kingdom",
+                "log_pushes": 5.483946564,
+                "population": 62348447.0,
+                "country": "United Kingdom",
+                "log_ratio": 0.6891209241,
+                "ratio": 4.88788437665496,
+                "country2": "United Kingdom",
+                "log_login": 0.3623590418,
+                "ratio_unique_login": 2.30334526215223,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "United States",
+        "pushes": 1709062.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "United States",
+                "log_pushes": 6.232757818,
+                "population": 310232863.0,
+                "country": "United States",
+                "log_ratio": 0.7410700172,
+                "ratio": 5.50896505119768,
+                "country2": "United States",
+                "log_login": 0.3258973991,
+                "ratio_unique_login": 2.11786073740356,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Uruguay",
+        "pushes": 2475.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Uruguay",
+                "log_pushes": 3.393575203,
+                "population": 3477000.0,
+                "country": "Uruguay",
+                "log_ratio": -0.1476294874,
+                "ratio": 0.711820534943917,
+                "country2": "Uruguay",
+                "log_login": -0.2294508296,
+                "ratio_unique_login": 0.589588725913143,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Uzbekistan",
+        "pushes": 251.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Uzbekistan",
+                "log_pushes": 2.399673721,
+                "population": 27865738.0,
+                "country": "Uzbekistan",
+                "log_ratio": -2.045396828,
+                "ratio": 0.00900747721090322,
+                "country2": "Uzbekistan",
+                "log_login": -1.982672552,
+                "ratio_unique_login": 0.0104070453831152,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Venezuela",
+        "pushes": 5851.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Venezuela",
+                "log_pushes": 3.767230098,
+                "population": 27223228.0,
+                "country": "Venezuela",
+                "log_ratio": -0.6677095224,
+                "ratio": 0.214926752991967,
+                "country2": "Venezuela",
+                "log_login": -0.8148035655,
+                "ratio_unique_login": 0.153178014010682,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Vietnam",
+        "pushes": 15855.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Vietnam",
+                "log_pushes": 4.200166246,
+                "population": 89571130.0,
+                "country": "Vietnam",
+                "log_ratio": -0.7520018068,
+                "ratio": 0.177010159411855,
+                "country2": "Vietnam",
+                "log_login": -0.9781171504,
+                "ratio_unique_login": 0.105167814674214,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Yemen",
+        "pushes": 116.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Yemen",
+                "log_pushes": 2.064457989,
+                "population": 23495361.0,
+                "country": "Yemen",
+                "log_ratio": -2.306524133,
+                "ratio": 0.00493714482616376,
+                "country2": "Yemen",
+                "log_login": -2.416739613,
+                "ratio_unique_login": 0.00383054339960982,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Zambia",
+        "pushes": 50.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Zambia",
+                "log_pushes": 1.698970004,
+                "population": 13460305.0,
+                "country": "Zambia",
+                "log_ratio": -2.430084896,
+                "ratio": 0.00371462608016683,
+                "country2": "Zambia",
+                "log_login": -2.283956861,
+                "ratio_unique_login": 0.00520047651223356,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    },
+    {
+        "c_country": "Zimbabwe",
+        "pushes": 263.0,
+        "Subset_Data ": [
+            {
+                "c_country.1": "Zimbabwe",
+                "log_pushes": 2.419955748,
+                "population": 11651858.0,
+                "country": "Zimbabwe",
+                "log_ratio": -1.646439435,
+                "ratio": 0.0225715074797513,
+                "country2": "Zimbabwe",
+                "log_login": -1.835946262,
+                "ratio_unique_login": 0.0145899478005996,
+                "Unnamed: 11": NaN,
+                "https://medium.com/@hoffa/github-top-countries-201608-13f642493773": NaN
+            }
+        ]
+    }
+]
