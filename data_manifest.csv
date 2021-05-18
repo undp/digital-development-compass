@@ -1,0 +1,5 @@
+,"* these data sources need to be xlsx or csv or json files, otherwise they need to be manually ingested",,,,,,
+name,endpoint,Excel sheet #,Excel sheet top row #,Data Column #,Country Column #,Year Column #,Update Frequency (Months)
+countries_ixp,https://www.pch.net/ixp/dir_data_csv,,,,,,3
+countries_mobile_connectivity,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,,,,12
+countries_mobile_connectivity_3G,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,Z,,,12
