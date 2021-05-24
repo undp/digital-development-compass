@@ -1,0 +1,28 @@
+name: process-manifest
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - data_manifest.csv
+      - .github/workflows/process-manifest.yml
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Run script
+        run: deno run -q -A --unstable process_manifest.js
+      - name: Commit & push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.WORKFLOW_WRITER }}
+          message: "Update flat.yml"
+          branch: main
+          force: true
