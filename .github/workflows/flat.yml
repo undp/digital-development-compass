@@ -1,0 +1,32 @@
+name: data
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - ./process_xlsx.js
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://www.pch.net/ixp/dir_data_csv
+           downloaded_filename: data/countries_ixp.csv
+           postprocess: ./process_csv.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           downloaded_filename: data/countries_mobile_connectivity.xlsx
+           postprocess: ./process_xlsx.js
