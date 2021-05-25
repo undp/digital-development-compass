@@ -1,0 +1,4322 @@
+[
+    {
+        "COUNTRY": "Afghanistan",
+        "CODE": "AFG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 1.948565,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.790851,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.10628,
+                "OVERALL_LPI_RANK": "160",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "155",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 29.629286034676852,
+                "CUSTOMS_SCORE": 1.7349,
+                "CUSTOMS_RANK": "158",
+                "INFRASTRUCTURE_SCORE": 1.807143,
+                "INFRASTRUCTURE_RANK": "158",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.104431,
+                "INTERNATIONAL_SHIPMENTS_RANK": "152",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 1.919246,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "158",
+                "TRACKING_AND_TRACING_SCORE": 1.697024,
+                "TRACKING_AND_TRACING_RANK": "159",
+                "TIMELINESS_SCORE": 2.382438,
+                "TIMELINESS_RANK": "153"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Albania",
+        "CODE": "ALB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.659603,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.460908,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.858299,
+                "OVERALL_LPI_RANK": "88",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "64",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 51.839201310408676,
+                "CUSTOMS_SCORE": 2.347126,
+                "CUSTOMS_RANK": "114",
+                "INFRASTRUCTURE_SCORE": 2.293674,
+                "INFRASTRUCTURE_RANK": "110",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.823862,
+                "INTERNATIONAL_SHIPMENTS_RANK": "69",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.558898,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "92",
+                "TRACKING_AND_TRACING_SCORE": 2.665647,
+                "TRACKING_AND_TRACING_RANK": "95",
+                "TIMELINESS_SCORE": 3.202666,
+                "TIMELINESS_RANK": "73"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Algeria",
+        "CODE": "DZA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.448071,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.209783,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.68636,
+                "OVERALL_LPI_RANK": "117",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "85",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "143",
+                "% of highest performer": 45.23180789668662,
+                "CUSTOMS_SCORE": 2.13028,
+                "CUSTOMS_RANK": "138",
+                "INFRASTRUCTURE_SCORE": 2.421383,
+                "INFRASTRUCTURE_RANK": "96",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.38747,
+                "INTERNATIONAL_SHIPMENTS_RANK": "122",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.391247,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "113",
+                "TRACKING_AND_TRACING_SCORE": 2.604862,
+                "TRACKING_AND_TRACING_RANK": "103",
+                "TIMELINESS_SCORE": 2.761177,
+                "TIMELINESS_RANK": "124"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Angola",
+        "CODE": "AGO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.046158,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.847173,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.245143,
+                "OVERALL_LPI_RANK": "159",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "142",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 32.677691691624155,
+                "CUSTOMS_SCORE": 1.571429,
+                "CUSTOMS_RANK": "160",
+                "INFRASTRUCTURE_SCORE": 1.857143,
+                "INFRASTRUCTURE_RANK": "153",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.202283,
+                "INTERNATIONAL_SHIPMENTS_RANK": "143",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.004317,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "155",
+                "TRACKING_AND_TRACING_SCORE": 2.004317,
+                "TRACKING_AND_TRACING_RANK": "157",
+                "TIMELINESS_SCORE": 2.594983,
+                "TIMELINESS_RANK": "140"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Argentina",
+        "CODE": "ARG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.886984,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.797332,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.976636,
+                "OVERALL_LPI_RANK": "61",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "57",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "72",
+                "% of highest performer": 58.941652579273594,
+                "CUSTOMS_SCORE": 2.417844,
+                "CUSTOMS_RANK": "98",
+                "INFRASTRUCTURE_SCORE": 2.773509,
+                "INFRASTRUCTURE_RANK": "62",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.923781,
+                "INTERNATIONAL_SHIPMENTS_RANK": "59",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.777043,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "68",
+                "TRACKING_AND_TRACING_SCORE": 3.046989,
+                "TRACKING_AND_TRACING_RANK": "58",
+                "TIMELINESS_SCORE": 3.368942,
+                "TIMELINESS_RANK": "58"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Armenia",
+        "CODE": "ARM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.607607,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.418165,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.79705,
+                "OVERALL_LPI_RANK": "92",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "73",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "122",
+                "% of highest performer": 50.215059204533944,
+                "CUSTOMS_SCORE": 2.573787,
+                "CUSTOMS_RANK": "81",
+                "INFRASTRUCTURE_SCORE": 2.484109,
+                "INFRASTRUCTURE_RANK": "86",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.649059,
+                "INTERNATIONAL_SHIPMENTS_RANK": "95",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.503441,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "97",
+                "TRACKING_AND_TRACING_SCORE": 2.511196,
+                "TRACKING_AND_TRACING_RANK": "113",
+                "TIMELINESS_SCORE": 2.896062,
+                "TIMELINESS_RANK": "111"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Australia",
+        "CODE": "AUS",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.751431,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.601817,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.901046,
+                "OVERALL_LPI_RANK": "18",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "14",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "26",
+                "% of highest performer": 85.94343677415566,
+                "CUSTOMS_SCORE": 3.867186,
+                "CUSTOMS_RANK": "7",
+                "INFRASTRUCTURE_SCORE": 3.968431,
+                "INFRASTRUCTURE_RANK": "16",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.247206,
+                "INTERNATIONAL_SHIPMENTS_RANK": "40",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.709445,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "21",
+                "TRACKING_AND_TRACING_SCORE": 3.816621,
+                "TRACKING_AND_TRACING_RANK": "20",
+                "TIMELINESS_SCORE": 3.976111,
+                "TIMELINESS_RANK": "21"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Austria",
+        "CODE": "AUT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.026005,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.88479,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.167221,
+                "OVERALL_LPI_RANK": "4",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "14",
+                "% of highest performer": 94.52000409815068,
+                "CUSTOMS_SCORE": 3.714068,
+                "CUSTOMS_RANK": "12",
+                "INFRASTRUCTURE_SCORE": 4.181584,
+                "INFRASTRUCTURE_RANK": "5",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.87753,
+                "INTERNATIONAL_SHIPMENTS_RANK": "3",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.083611,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "6",
+                "TRACKING_AND_TRACING_SCORE": 4.087098,
+                "TRACKING_AND_TRACING_RANK": "7",
+                "TIMELINESS_SCORE": 4.250803,
+                "TIMELINESS_RANK": "12"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahamas, The",
+        "CODE": "BHS",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.525412,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.365442,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.685381,
+                "OVERALL_LPI_RANK": "112",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "85",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "130",
+                "% of highest performer": 47.64762400966564,
+                "CUSTOMS_SCORE": 2.684211,
+                "CUSTOMS_RANK": "61",
+                "INFRASTRUCTURE_SCORE": 2.408433,
+                "INFRASTRUCTURE_RANK": "98",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.50145,
+                "INTERNATIONAL_SHIPMENTS_RANK": "114",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.267881,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "130",
+                "TRACKING_AND_TRACING_SCORE": 2.517881,
+                "TRACKING_AND_TRACING_RANK": "110",
+                "TIMELINESS_SCORE": 2.751119,
+                "TIMELINESS_RANK": "125"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahrain",
+        "CODE": "BHR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.934817,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.746803,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.122831,
+                "OVERALL_LPI_RANK": "59",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "48",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "76",
+                "% of highest performer": 60.43575961347441,
+                "CUSTOMS_SCORE": 2.669956,
+                "CUSTOMS_RANK": "63",
+                "INFRASTRUCTURE_SCORE": 2.72488,
+                "INFRASTRUCTURE_RANK": "68",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.024256,
+                "INTERNATIONAL_SHIPMENTS_RANK": "55",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.857267,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "58",
+                "TRACKING_AND_TRACING_SCORE": 3.012881,
+                "TRACKING_AND_TRACING_RANK": "60",
+                "TIMELINESS_SCORE": 3.285448,
+                "TIMELINESS_RANK": "68"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bangladesh",
+        "CODE": "BGD",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.576581,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.335623,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.817538,
+                "OVERALL_LPI_RANK": "100",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "68",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "134",
+                "% of highest performer": 49.24593402227244,
+                "CUSTOMS_SCORE": 2.3,
+                "CUSTOMS_RANK": "121",
+                "INFRASTRUCTURE_SCORE": 2.38868,
+                "INFRASTRUCTURE_RANK": "100",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.562778,
+                "INTERNATIONAL_SHIPMENTS_RANK": "104",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.483444,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "102",
+                "TRACKING_AND_TRACING_SCORE": 2.785,
+                "TRACKING_AND_TRACING_RANK": "79",
+                "TIMELINESS_SCORE": 2.923681,
+                "TIMELINESS_RANK": "107"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belarus",
+        "CODE": "BLR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.574633,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.411342,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.737924,
+                "OVERALL_LPI_RANK": "103",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "78",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "125",
+                "% of highest performer": 49.18508647972602,
+                "CUSTOMS_SCORE": 2.349962,
+                "CUSTOMS_RANK": "112",
+                "INFRASTRUCTURE_SCORE": 2.440539,
+                "INFRASTRUCTURE_RANK": "92",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.309091,
+                "INTERNATIONAL_SHIPMENTS_RANK": "134",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.641731,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "85",
+                "TRACKING_AND_TRACING_SCORE": 2.536468,
+                "TRACKING_AND_TRACING_RANK": "109",
+                "TIMELINESS_SCORE": 3.176941,
+                "TIMELINESS_RANK": "78"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belgium",
+        "CODE": "BEL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.039084,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.919175,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.158993,
+                "OVERALL_LPI_RANK": "3",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "12",
+                "% of highest performer": 94.9285384970032,
+                "CUSTOMS_SCORE": 3.663064,
+                "CUSTOMS_RANK": "14",
+                "INFRASTRUCTURE_SCORE": 3.984249,
+                "INFRASTRUCTURE_RANK": "14",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.994913,
+                "INTERNATIONAL_SHIPMENTS_RANK": "1",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.130972,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "2",
+                "TRACKING_AND_TRACING_SCORE": 4.051289,
+                "TRACKING_AND_TRACING_RANK": "9",
+                "TIMELINESS_SCORE": 4.410293,
+                "TIMELINESS_RANK": "1"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Benin",
+        "CODE": "BEN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.749889,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.539084,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.960693,
+                "OVERALL_LPI_RANK": "76",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "58",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "109",
+                "% of highest performer": 54.659366210997284,
+                "CUSTOMS_SCORE": 2.5625,
+                "CUSTOMS_RANK": "82",
+                "INFRASTRUCTURE_SCORE": 2.496995,
+                "INFRASTRUCTURE_RANK": "83",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.733894,
+                "INTERNATIONAL_SHIPMENTS_RANK": "83",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.502329,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "98",
+                "TRACKING_AND_TRACING_SCORE": 2.748422,
+                "TRACKING_AND_TRACING_RANK": "87",
+                "TIMELINESS_SCORE": 3.415745,
+                "TIMELINESS_RANK": "57"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bhutan",
+        "CODE": "BTN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.16898,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.950659,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.387302,
+                "OVERALL_LPI_RANK": "149",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "129",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 36.51414799071918,
+                "CUSTOMS_SCORE": 2.136382,
+                "CUSTOMS_RANK": "135",
+                "INFRASTRUCTURE_SCORE": 1.908333,
+                "INFRASTRUCTURE_RANK": "150",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 1.803902,
+                "INTERNATIONAL_SHIPMENTS_RANK": "160",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.346263,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "115",
+                "TRACKING_AND_TRACING_SCORE": 2.346263,
+                "TRACKING_AND_TRACING_RANK": "130",
+                "TIMELINESS_SCORE": 2.486475,
+                "TIMELINESS_RANK": "146"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bolivia",
+        "CODE": "BOL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.358376,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.194252,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.5225,
+                "OVERALL_LPI_RANK": "131",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "113",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "146",
+                "% of highest performer": 42.43010341583359,
+                "CUSTOMS_SCORE": 2.318927,
+                "CUSTOMS_RANK": "117",
+                "INFRASTRUCTURE_SCORE": 2.152436,
+                "INFRASTRUCTURE_RANK": "129",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.535217,
+                "INTERNATIONAL_SHIPMENTS_RANK": "106",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.210882,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "139",
+                "TRACKING_AND_TRACING_SCORE": 2.131688,
+                "TRACKING_AND_TRACING_RANK": "148",
+                "TIMELINESS_SCORE": 2.742127,
+                "TIMELINESS_RANK": "127"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bosnia and Herzegovina",
+        "CODE": "BIH",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.808565,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.615623,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.001508,
+                "OVERALL_LPI_RANK": "72",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "56",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "91",
+                "% of highest performer": 56.49216416092238,
+                "CUSTOMS_SCORE": 2.631579,
+                "CUSTOMS_RANK": "69",
+                "INFRASTRUCTURE_SCORE": 2.421053,
+                "INFRASTRUCTURE_RANK": "97",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.842105,
+                "INTERNATIONAL_SHIPMENTS_RANK": "66",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.801754,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "65",
+                "TRACKING_AND_TRACING_SCORE": 2.894737,
+                "TRACKING_AND_TRACING_RANK": "70",
+                "TIMELINESS_SCORE": 3.210526,
+                "TIMELINESS_RANK": "72"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brazil",
+        "CODE": "BRA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.98579,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.846858,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.124723,
+                "OVERALL_LPI_RANK": "56",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "48",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "64",
+                "% of highest performer": 62.02794738874083,
+                "CUSTOMS_SCORE": 2.406162,
+                "CUSTOMS_RANK": "102",
+                "INFRASTRUCTURE_SCORE": 2.926983,
+                "INFRASTRUCTURE_RANK": "50",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.881091,
+                "INTERNATIONAL_SHIPMENTS_RANK": "61",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.090163,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "46",
+                "TRACKING_AND_TRACING_SCORE": 3.111438,
+                "TRACKING_AND_TRACING_RANK": "51",
+                "TIMELINESS_SCORE": 3.510178,
+                "TIMELINESS_RANK": "51"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brunei Darussalam",
+        "CODE": "BRN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.706557,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.507244,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.90587,
+                "OVERALL_LPI_RANK": "80",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "114",
+                "% of highest performer": 53.30585198429209,
+                "CUSTOMS_SCORE": 2.622014,
+                "CUSTOMS_RANK": "73",
+                "INFRASTRUCTURE_SCORE": 2.460946,
+                "INFRASTRUCTURE_RANK": "89",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.51339,
+                "INTERNATIONAL_SHIPMENTS_RANK": "113",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.709827,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "77",
+                "TRACKING_AND_TRACING_SCORE": 2.747244,
+                "TRACKING_AND_TRACING_RANK": "88",
+                "TIMELINESS_SCORE": 3.173628,
+                "TIMELINESS_RANK": "80"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bulgaria",
+        "CODE": "BGR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.033965,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.841196,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.226735,
+                "OVERALL_LPI_RANK": "52",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "40",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "64",
+                "% of highest performer": 63.532737102382534,
+                "CUSTOMS_SCORE": 2.937588,
+                "CUSTOMS_RANK": "42",
+                "INFRASTRUCTURE_SCORE": 2.762986,
+                "INFRASTRUCTURE_RANK": "64",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.233723,
+                "INTERNATIONAL_SHIPMENTS_RANK": "41",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.881315,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "55",
+                "TRACKING_AND_TRACING_SCORE": 3.015289,
+                "TRACKING_AND_TRACING_RANK": "59",
+                "TIMELINESS_SCORE": 3.313491,
+                "TIMELINESS_RANK": "65"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burkina Faso",
+        "CODE": "BFA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.621464,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.341144,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.901783,
+                "OVERALL_LPI_RANK": "91",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "61",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "133",
+                "% of highest performer": 50.64789513731928,
+                "CUSTOMS_SCORE": 2.412879,
+                "CUSTOMS_RANK": "100",
+                "INFRASTRUCTURE_SCORE": 2.430736,
+                "INFRASTRUCTURE_RANK": "95",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.917749,
+                "INTERNATIONAL_SHIPMENTS_RANK": "60",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.459957,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "106",
+                "TRACKING_AND_TRACING_SCORE": 2.401515,
+                "TRACKING_AND_TRACING_RANK": "124",
+                "TIMELINESS_SCORE": 3.037879,
+                "TIMELINESS_RANK": "95"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burundi",
+        "CODE": "BDI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.063609,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.846792,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.280425,
+                "OVERALL_LPI_RANK": "158",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "139",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 33.222789466253346,
+                "CUSTOMS_SCORE": 1.6875,
+                "CUSTOMS_RANK": "159",
+                "INFRASTRUCTURE_SCORE": 1.952865,
+                "INFRASTRUCTURE_RANK": "146",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.214416,
+                "INTERNATIONAL_SHIPMENTS_RANK": "139",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.332091,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "117",
+                "TRACKING_AND_TRACING_SCORE": 2.006542,
+                "TRACKING_AND_TRACING_RANK": "156",
+                "TIMELINESS_SCORE": 2.165472,
+                "TIMELINESS_RANK": "158"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cambodia",
+        "CODE": "KHM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.578608,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.375486,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.781729,
+                "OVERALL_LPI_RANK": "98",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "75",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "129",
+                "% of highest performer": 49.30924920129791,
+                "CUSTOMS_SCORE": 2.369744,
+                "CUSTOMS_RANK": "109",
+                "INFRASTRUCTURE_SCORE": 2.144546,
+                "INFRASTRUCTURE_RANK": "130",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.793963,
+                "INTERNATIONAL_SHIPMENTS_RANK": "71",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.408093,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "111",
+                "TRACKING_AND_TRACING_SCORE": 2.515013,
+                "TRACKING_AND_TRACING_RANK": "111",
+                "TIMELINESS_SCORE": 3.155346,
+                "TIMELINESS_RANK": "84"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cameroon",
+        "CODE": "CMR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.595547,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.384544,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.806551,
+                "OVERALL_LPI_RANK": "95",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "73",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "129",
+                "% of highest performer": 49.83835419267054,
+                "CUSTOMS_SCORE": 2.459686,
+                "CUSTOMS_RANK": "90",
+                "INFRASTRUCTURE_SCORE": 2.57248,
+                "INFRASTRUCTURE_RANK": "76",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.872728,
+                "INTERNATIONAL_SHIPMENTS_RANK": "63",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.596936,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "87",
+                "TRACKING_AND_TRACING_SCORE": 2.471378,
+                "TRACKING_AND_TRACING_RANK": "118",
+                "TIMELINESS_SCORE": 2.565542,
+                "TIMELINESS_RANK": "142"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Canada",
+        "CODE": "CAN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.726715,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.560903,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.892527,
+                "OVERALL_LPI_RANK": "20",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "14",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "27",
+                "% of highest performer": 85.17141015116927,
+                "CUSTOMS_SCORE": 3.60393,
+                "CUSTOMS_RANK": "18",
+                "INFRASTRUCTURE_SCORE": 3.750496,
+                "INFRASTRUCTURE_RANK": "21",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.381662,
+                "INTERNATIONAL_SHIPMENTS_RANK": "30",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.89804,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "14",
+                "TRACKING_AND_TRACING_SCORE": 3.809804,
+                "TRACKING_AND_TRACING_RANK": "21",
+                "TIMELINESS_SCORE": 3.960503,
+                "TIMELINESS_RANK": "22"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Central African Republic",
+        "CODE": "CAF",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.148357,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.813745,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.482968,
+                "OVERALL_LPI_RANK": "151",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "116",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 35.86996992607085,
+                "CUSTOMS_SCORE": 2.238095,
+                "CUSTOMS_RANK": "126",
+                "INFRASTRUCTURE_SCORE": 1.928571,
+                "INFRASTRUCTURE_RANK": "148",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.304762,
+                "INTERNATIONAL_SHIPMENTS_RANK": "135",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 1.928571,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "157",
+                "TRACKING_AND_TRACING_SCORE": 2.104762,
+                "TRACKING_AND_TRACING_RANK": "151",
+                "TIMELINESS_SCORE": 2.333333,
+                "TIMELINESS_RANK": "156"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chad",
+        "CODE": "TCD",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.417437,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.073582,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.761292,
+                "OVERALL_LPI_RANK": "123",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "75",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "156",
+                "% of highest performer": 44.27492718910592,
+                "CUSTOMS_SCORE": 2.153846,
+                "CUSTOMS_RANK": "134",
+                "INFRASTRUCTURE_SCORE": 2.372041,
+                "INFRASTRUCTURE_RANK": "104",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.369527,
+                "INTERNATIONAL_SHIPMENTS_RANK": "125",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.619823,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "86",
+                "TRACKING_AND_TRACING_SCORE": 2.372041,
+                "TRACKING_AND_TRACING_RANK": "127",
+                "TIMELINESS_SCORE": 2.619823,
+                "TIMELINESS_RANK": "138"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chile",
+        "CODE": "CHL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.317145,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.207844,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.426447,
+                "OVERALL_LPI_RANK": "34",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "41",
+                "% of highest performer": 72.37812062306882,
+                "CUSTOMS_SCORE": 3.274026,
+                "CUSTOMS_RANK": "32",
+                "INFRASTRUCTURE_SCORE": 3.209678,
+                "INFRASTRUCTURE_RANK": "34",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.271893,
+                "INTERNATIONAL_SHIPMENTS_RANK": "38",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.125072,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "43",
+                "TRACKING_AND_TRACING_SCORE": 3.203612,
+                "TRACKING_AND_TRACING_RANK": "44",
+                "TIMELINESS_SCORE": 3.797014,
+                "TIMELINESS_RANK": "31"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China",
+        "CODE": "CHN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.605147,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.547488,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.662806,
+                "OVERALL_LPI_RANK": "26",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "23",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "27",
+                "% of highest performer": 81.37412367669089,
+                "CUSTOMS_SCORE": 3.285924,
+                "CUSTOMS_RANK": "31",
+                "INFRASTRUCTURE_SCORE": 3.753218,
+                "INFRASTRUCTURE_RANK": "20",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.535715,
+                "INTERNATIONAL_SHIPMENTS_RANK": "18",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.594975,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "27",
+                "TRACKING_AND_TRACING_SCORE": 3.648469,
+                "TRACKING_AND_TRACING_RANK": "27",
+                "TIMELINESS_SCORE": 3.840015,
+                "TIMELINESS_RANK": "27"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Colombia",
+        "CODE": "COL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.9416,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.771627,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.111572,
+                "OVERALL_LPI_RANK": "58",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "49",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "74",
+                "% of highest performer": 60.64763275571898,
+                "CUSTOMS_SCORE": 2.612357,
+                "CUSTOMS_RANK": "75",
+                "INFRASTRUCTURE_SCORE": 2.666667,
+                "INFRASTRUCTURE_RANK": "72",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.194444,
+                "INTERNATIONAL_SHIPMENTS_RANK": "46",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.866024,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "56",
+                "TRACKING_AND_TRACING_SCORE": 3.084774,
+                "TRACKING_AND_TRACING_RANK": "53",
+                "TIMELINESS_SCORE": 3.17097,
+                "TIMELINESS_RANK": "81"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Comoros",
+        "CODE": "COM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.557098,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.20179,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.912405,
+                "OVERALL_LPI_RANK": "107",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "144",
+                "% of highest performer": 48.63736488909378,
+                "CUSTOMS_SCORE": 2.625,
+                "CUSTOMS_RANK": "72",
+                "INFRASTRUCTURE_SCORE": 2.25,
+                "INFRASTRUCTURE_RANK": "113",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.494978,
+                "INTERNATIONAL_SHIPMENTS_RANK": "116",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.213542,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "138",
+                "TRACKING_AND_TRACING_SCORE": 2.927827,
+                "TRACKING_AND_TRACING_RANK": "68",
+                "TIMELINESS_SCORE": 2.804502,
+                "TIMELINESS_RANK": "120"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Congo, Dem. Rep.",
+        "CODE": "ZAR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.428379,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.283902,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.572856,
+                "OVERALL_LPI_RANK": "120",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "104",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "138",
+                "% of highest performer": 44.61671045940519,
+                "CUSTOMS_SCORE": 2.369953,
+                "CUSTOMS_RANK": "108",
+                "INFRASTRUCTURE_SCORE": 2.116204,
+                "INFRASTRUCTURE_RANK": "132",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.366204,
+                "INTERNATIONAL_SHIPMENTS_RANK": "127",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.493663,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "100",
+                "TRACKING_AND_TRACING_SCORE": 2.508333,
+                "TRACKING_AND_TRACING_RANK": "114",
+                "TIMELINESS_SCORE": 2.686857,
+                "TIMELINESS_RANK": "133"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Congo, Rep.",
+        "CODE": "COG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.485858,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.123704,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.848013,
+                "OVERALL_LPI_RANK": "115",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "65",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "151",
+                "% of highest performer": 46.41211903128712,
+                "CUSTOMS_SCORE": 2.272727,
+                "CUSTOMS_RANK": "123",
+                "INFRASTRUCTURE_SCORE": 2.066116,
+                "INFRASTRUCTURE_RANK": "138",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.866116,
+                "INTERNATIONAL_SHIPMENTS_RANK": "64",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.281405,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "127",
+                "TRACKING_AND_TRACING_SCORE": 2.377966,
+                "TRACKING_AND_TRACING_RANK": "125",
+                "TIMELINESS_SCORE": 2.949395,
+                "TIMELINESS_RANK": "103"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Costa Rica",
+        "CODE": "CRI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.791664,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.628661,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.954667,
+                "OVERALL_LPI_RANK": "73",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "58",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "90",
+                "% of highest performer": 55.96424613393205,
+                "CUSTOMS_SCORE": 2.627541,
+                "CUSTOMS_RANK": "70",
+                "INFRASTRUCTURE_SCORE": 2.494408,
+                "INFRASTRUCTURE_RANK": "84",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.777327,
+                "INTERNATIONAL_SHIPMENTS_RANK": "76",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.704966,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "79",
+                "TRACKING_AND_TRACING_SCORE": 2.95836,
+                "TRACKING_AND_TRACING_RANK": "67",
+                "TIMELINESS_SCORE": 3.155408,
+                "TIMELINESS_RANK": "83"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Croatia",
+        "CODE": "HRV",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.10409,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.840257,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.3679230000000002,
+                "OVERALL_LPI_RANK": "49",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "34",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "65",
+                "% of highest performer": 65.72315492633948,
+                "CUSTOMS_SCORE": 2.978555,
+                "CUSTOMS_RANK": "39",
+                "INFRASTRUCTURE_SCORE": 3.01282,
+                "INFRASTRUCTURE_RANK": "46",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.929487,
+                "INTERNATIONAL_SHIPMENTS_RANK": "58",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.096154,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "45",
+                "TRACKING_AND_TRACING_SCORE": 3.01282,
+                "TRACKING_AND_TRACING_RANK": "61",
+                "TIMELINESS_SCORE": 3.593939,
+                "TIMELINESS_RANK": "47"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cuba",
+        "CODE": "CUB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.197159,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.004872,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.389446,
+                "OVERALL_LPI_RANK": "146",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "128",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 37.3943445520209,
+                "CUSTOMS_SCORE": 2.029672,
+                "CUSTOMS_RANK": "143",
+                "INFRASTRUCTURE_SCORE": 2.041667,
+                "INFRASTRUCTURE_RANK": "139",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.270412,
+                "INTERNATIONAL_SHIPMENTS_RANK": "137",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.202441,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "143",
+                "TRACKING_AND_TRACING_SCORE": 2.146886,
+                "TRACKING_AND_TRACING_RANK": "147",
+                "TIMELINESS_SCORE": 2.462494,
+                "TIMELINESS_RANK": "147"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cyprus",
+        "CODE": "CYP",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.150837,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.847448,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.454227,
+                "OVERALL_LPI_RANK": "45",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "64",
+                "% of highest performer": 67.18333976792972,
+                "CUSTOMS_SCORE": 3.051648,
+                "CUSTOMS_RANK": "37",
+                "INFRASTRUCTURE_SCORE": 2.892454,
+                "INFRASTRUCTURE_RANK": "55",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.147619,
+                "INTERNATIONAL_SHIPMENTS_RANK": "50",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.004762,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "53",
+                "TRACKING_AND_TRACING_SCORE": 3.147619,
+                "TRACKING_AND_TRACING_RANK": "48",
+                "TIMELINESS_SCORE": 3.622711,
+                "TIMELINESS_RANK": "45"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Czech Republic",
+        "CODE": "CZE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.68033,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.526523,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.834138,
+                "OVERALL_LPI_RANK": "22",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "17",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "28",
+                "% of highest performer": 83.7225327071159,
+                "CUSTOMS_SCORE": 3.286673,
+                "CUSTOMS_RANK": "30",
+                "INFRASTRUCTURE_SCORE": 3.4646,
+                "INFRASTRUCTURE_RANK": "26",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.746009,
+                "INTERNATIONAL_SHIPMENTS_RANK": "10",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.715632,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "20",
+                "TRACKING_AND_TRACING_SCORE": 3.703427,
+                "TRACKING_AND_TRACING_RANK": "24",
+                "TIMELINESS_SCORE": 4.13362,
+                "TIMELINESS_RANK": "16"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "C\u00f4te d'Ivoire",
+        "CODE": "CIV",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.082253,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.860591,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.303915,
+                "OVERALL_LPI_RANK": "50",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "38",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "63",
+                "% of highest performer": 65.04105647326644,
+                "CUSTOMS_SCORE": 2.779167,
+                "CUSTOMS_RANK": "51",
+                "INFRASTRUCTURE_SCORE": 2.886806,
+                "INFRASTRUCTURE_RANK": "56",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.207318,
+                "INTERNATIONAL_SHIPMENTS_RANK": "45",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.227109,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "37",
+                "TRACKING_AND_TRACING_SCORE": 3.1362,
+                "TRACKING_AND_TRACING_RANK": "49",
+                "TIMELINESS_SCORE": 3.227109,
+                "TIMELINESS_RANK": "71"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Denmark",
+        "CODE": "DNK",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.991859,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.8243,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.159419,
+                "OVERALL_LPI_RANK": "8",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "17",
+                "% of highest performer": 93.45342289291956,
+                "CUSTOMS_SCORE": 3.918058,
+                "CUSTOMS_RANK": "4",
+                "INFRASTRUCTURE_SCORE": 3.95873,
+                "INFRASTRUCTURE_RANK": "17",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.530159,
+                "INTERNATIONAL_SHIPMENTS_RANK": "19",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.007843,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "9",
+                "TRACKING_AND_TRACING_SCORE": 4.176078,
+                "TRACKING_AND_TRACING_RANK": "3",
+                "TIMELINESS_SCORE": 4.407843,
+                "TIMELINESS_RANK": "2"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Djibouti",
+        "CODE": "DJI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.634621,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.366299,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.902943,
+                "OVERALL_LPI_RANK": "90",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "61",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "130",
+                "% of highest performer": 51.058865936746045,
+                "CUSTOMS_SCORE": 2.347337,
+                "CUSTOMS_RANK": "113",
+                "INFRASTRUCTURE_SCORE": 2.791781,
+                "INFRASTRUCTURE_RANK": "60",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.454545,
+                "INTERNATIONAL_SHIPMENTS_RANK": "118",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.249587,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "135",
+                "TRACKING_AND_TRACING_SCORE": 2.849587,
+                "TRACKING_AND_TRACING_RANK": "72",
+                "TIMELINESS_SCORE": 3.150413,
+                "TIMELINESS_RANK": "85"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Dominican Republic",
+        "CODE": "DOM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.661765,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.485613,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.837918,
+                "OVERALL_LPI_RANK": "87",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "66",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 51.906733336581866,
+                "CUSTOMS_SCORE": 2.405002,
+                "CUSTOMS_RANK": "103",
+                "INFRASTRUCTURE_SCORE": 2.357383,
+                "INFRASTRUCTURE_RANK": "105",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.770082,
+                "INTERNATIONAL_SHIPMENTS_RANK": "77",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.441572,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "108",
+                "TRACKING_AND_TRACING_SCORE": 2.974905,
+                "TRACKING_AND_TRACING_RANK": "65",
+                "TIMELINESS_SCORE": 2.980595,
+                "TIMELINESS_RANK": "101"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ecuador",
+        "CODE": "ECU",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.881649,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.716391,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.046907,
+                "OVERALL_LPI_RANK": "62",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "52",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "79",
+                "% of highest performer": 58.77500902717647,
+                "CUSTOMS_SCORE": 2.801656,
+                "CUSTOMS_RANK": "48",
+                "INFRASTRUCTURE_SCORE": 2.721777,
+                "INFRASTRUCTURE_RANK": "69",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.751355,
+                "INTERNATIONAL_SHIPMENTS_RANK": "80",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.750736,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "70",
+                "TRACKING_AND_TRACING_SCORE": 3.070736,
+                "TRACKING_AND_TRACING_RANK": "55",
+                "TIMELINESS_SCORE": 3.189954,
+                "TIMELINESS_RANK": "75"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Egypt, Arab Rep.",
+        "CODE": "EGY",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.824902,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.483564,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.16624,
+                "OVERALL_LPI_RANK": "67",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "45",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 57.00246513760664,
+                "CUSTOMS_SCORE": 2.6,
+                "CUSTOMS_RANK": "77",
+                "INFRASTRUCTURE_SCORE": 2.817778,
+                "INFRASTRUCTURE_RANK": "58",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.791889,
+                "INTERNATIONAL_SHIPMENTS_RANK": "73",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.817778,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "63",
+                "TRACKING_AND_TRACING_SCORE": 2.724389,
+                "TRACKING_AND_TRACING_RANK": "89",
+                "TIMELINESS_SCORE": 3.194389,
+                "TIMELINESS_RANK": "74"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "El Salvador",
+        "CODE": "SLV",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.575521,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.447198,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.703845,
+                "OVERALL_LPI_RANK": "101",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "82",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "118",
+                "% of highest performer": 49.212823963186615,
+                "CUSTOMS_SCORE": 2.301136,
+                "CUSTOMS_RANK": "120",
+                "INFRASTRUCTURE_SCORE": 2.249457,
+                "INFRASTRUCTURE_RANK": "114",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.710675,
+                "INTERNATIONAL_SHIPMENTS_RANK": "86",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.560868,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "91",
+                "TRACKING_AND_TRACING_SCORE": 2.471675,
+                "TRACKING_AND_TRACING_RANK": "117",
+                "TIMELINESS_SCORE": 3.098685,
+                "TIMELINESS_RANK": "90"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Equatorial Guinea",
+        "CODE": "GNQ",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.317643,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.934691,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.700594,
+                "OVERALL_LPI_RANK": "136",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "82",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 41.1577713056983,
+                "CUSTOMS_SCORE": 1.910268,
+                "CUSTOMS_RANK": "151",
+                "INFRASTRUCTURE_SCORE": 1.875,
+                "INFRASTRUCTURE_RANK": "151",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.875,
+                "INTERNATIONAL_SHIPMENTS_RANK": "62",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.25,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "133",
+                "TRACKING_AND_TRACING_SCORE": 2.125,
+                "TRACKING_AND_TRACING_RANK": "149",
+                "TIMELINESS_SCORE": 2.75,
+                "TIMELINESS_RANK": "126"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Eritrea",
+        "CODE": "ERI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.087142,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.789646,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.384639,
+                "OVERALL_LPI_RANK": "155",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "130",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 33.95786401386374,
+                "CUSTOMS_SCORE": 2.133929,
+                "CUSTOMS_RANK": "137",
+                "INFRASTRUCTURE_SCORE": 1.8625,
+                "INFRASTRUCTURE_RANK": "152",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.0875,
+                "INTERNATIONAL_SHIPMENTS_RANK": "154",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.167262,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "146",
+                "TRACKING_AND_TRACING_SCORE": 2.167262,
+                "TRACKING_AND_TRACING_RANK": "145",
+                "TIMELINESS_SCORE": 2.081548,
+                "TIMELINESS_RANK": "159"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Estonia",
+        "CODE": "EST",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.311613,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.064361,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.558865,
+                "OVERALL_LPI_RANK": "36",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "28",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "50",
+                "% of highest performer": 72.2053235977265,
+                "CUSTOMS_SCORE": 3.322037,
+                "CUSTOMS_RANK": "28",
+                "INFRASTRUCTURE_SCORE": 3.098638,
+                "INFRASTRUCTURE_RANK": "44",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.262154,
+                "INTERNATIONAL_SHIPMENTS_RANK": "39",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.147851,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "40",
+                "TRACKING_AND_TRACING_SCORE": 3.206675,
+                "TRACKING_AND_TRACING_RANK": "43",
+                "TIMELINESS_SCORE": 3.798684,
+                "TIMELINESS_RANK": "30"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Fiji",
+        "CODE": "FJI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.351727,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.102838,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.600617,
+                "OVERALL_LPI_RANK": "133",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "94",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "154",
+                "% of highest performer": 42.22241588483196,
+                "CUSTOMS_SCORE": 2.412106,
+                "CUSTOMS_RANK": "101",
+                "INFRASTRUCTURE_SCORE": 2.402761,
+                "INFRASTRUCTURE_RANK": "99",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.162106,
+                "INTERNATIONAL_SHIPMENTS_RANK": "149",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.307692,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "119",
+                "TRACKING_AND_TRACING_SCORE": 2.307692,
+                "TRACKING_AND_TRACING_RANK": "132",
+                "TIMELINESS_SCORE": 2.538461,
+                "TIMELINESS_RANK": "143"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Finland",
+        "CODE": "FIN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.969148,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.683032,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.255264,
+                "OVERALL_LPI_RANK": "10",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "1",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "21",
+                "% of highest performer": 92.74402425905309,
+                "CUSTOMS_SCORE": 3.815046,
+                "CUSTOMS_RANK": "8",
+                "INFRASTRUCTURE_SCORE": 4.003472,
+                "INFRASTRUCTURE_RANK": "11",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.562732,
+                "INTERNATIONAL_SHIPMENTS_RANK": "16",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.887269,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "15",
+                "TRACKING_AND_TRACING_SCORE": 4.323166,
+                "TRACKING_AND_TRACING_RANK": "1",
+                "TIMELINESS_SCORE": 4.279861,
+                "TIMELINESS_RANK": "8"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "France",
+        "CODE": "FRA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.844475,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.791702,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.897247,
+                "OVERALL_LPI_RANK": "16",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "14",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "17",
+                "% of highest performer": 88.84975030017704,
+                "CUSTOMS_SCORE": 3.589643,
+                "CUSTOMS_RANK": "19",
+                "INFRASTRUCTURE_SCORE": 3.99688,
+                "INFRASTRUCTURE_RANK": "12",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.545295,
+                "INTERNATIONAL_SHIPMENTS_RANK": "17",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.838338,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "17",
+                "TRACKING_AND_TRACING_SCORE": 3.999365,
+                "TRACKING_AND_TRACING_RANK": "12",
+                "TIMELINESS_SCORE": 4.152037,
+                "TIMELINESS_RANK": "14"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gabon",
+        "CODE": "GAB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.161902,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.874066,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.449739,
+                "OVERALL_LPI_RANK": "150",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "117",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 36.29306025655922,
+                "CUSTOMS_SCORE": 1.95554,
+                "CUSTOMS_RANK": "148",
+                "INFRASTRUCTURE_SCORE": 2.091861,
+                "INFRASTRUCTURE_RANK": "136",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.098679,
+                "INTERNATIONAL_SHIPMENTS_RANK": "153",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.074762,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "151",
+                "TRACKING_AND_TRACING_SCORE": 2.06746,
+                "TRACKING_AND_TRACING_RANK": "153",
+                "TIMELINESS_SCORE": 2.672265,
+                "TIMELINESS_RANK": "135"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gambia, The",
+        "CODE": "GMB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.401189,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.111041,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.691337,
+                "OVERALL_LPI_RANK": "127",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "84",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "153",
+                "% of highest performer": 43.76740620794865,
+                "CUSTOMS_SCORE": 2.076923,
+                "CUSTOMS_RANK": "141",
+                "INFRASTRUCTURE_SCORE": 1.818935,
+                "INFRASTRUCTURE_RANK": "155",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.705325,
+                "INTERNATIONAL_SHIPMENTS_RANK": "87",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.205325,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "142",
+                "TRACKING_AND_TRACING_SCORE": 2.805326,
+                "TRACKING_AND_TRACING_RANK": "73",
+                "TIMELINESS_SCORE": 2.705325,
+                "TIMELINESS_RANK": "131"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Georgia",
+        "CODE": "GEO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.442824,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.193391,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.692257,
+                "OVERALL_LPI_RANK": "119",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "84",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "146",
+                "% of highest performer": 45.06791310421172,
+                "CUSTOMS_SCORE": 2.423617,
+                "CUSTOMS_RANK": "95",
+                "INFRASTRUCTURE_SCORE": 2.382213,
+                "INFRASTRUCTURE_RANK": "102",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.375546,
+                "INTERNATIONAL_SHIPMENTS_RANK": "124",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.25668,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "132",
+                "TRACKING_AND_TRACING_SCORE": 2.25668,
+                "TRACKING_AND_TRACING_RANK": "139",
+                "TIMELINESS_SCORE": 2.945344,
+                "TIMELINESS_RANK": "105"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Germany",
+        "CODE": "DEU",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.201444,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 4.155037,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.247851,
+                "OVERALL_LPI_RANK": "1",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "1",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "1",
+                "% of highest performer": 100.0,
+                "CUSTOMS_SCORE": 4.092256,
+                "CUSTOMS_RANK": "1",
+                "INFRASTRUCTURE_SCORE": 4.374447,
+                "INFRASTRUCTURE_RANK": "1",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.858998,
+                "INTERNATIONAL_SHIPMENTS_RANK": "4",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.31065,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "1",
+                "TRACKING_AND_TRACING_SCORE": 4.239401,
+                "TRACKING_AND_TRACING_RANK": "2",
+                "TIMELINESS_SCORE": 4.392114,
+                "TIMELINESS_RANK": "3"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ghana",
+        "CODE": "GHA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.565348,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.285594,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.845102,
+                "OVERALL_LPI_RANK": "106",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "65",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "138",
+                "% of highest performer": 48.895061103676966,
+                "CUSTOMS_SCORE": 2.452214,
+                "CUSTOMS_RANK": "92",
+                "INFRASTRUCTURE_SCORE": 2.44289,
+                "INFRASTRUCTURE_RANK": "90",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.533799,
+                "INTERNATIONAL_SHIPMENTS_RANK": "109",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.506604,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "95",
+                "TRACKING_AND_TRACING_SCORE": 2.57094,
+                "TRACKING_AND_TRACING_RANK": "106",
+                "TIMELINESS_SCORE": 2.87094,
+                "TIMELINESS_RANK": "115"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Greece",
+        "CODE": "GRC",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.204561,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.043642,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.36548,
+                "OVERALL_LPI_RANK": "42",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "34",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "51",
+                "% of highest performer": 68.8614575172953,
+                "CUSTOMS_SCORE": 2.839182,
+                "CUSTOMS_RANK": "47",
+                "INFRASTRUCTURE_SCORE": 3.172495,
+                "INFRASTRUCTURE_RANK": "38",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.303071,
+                "INTERNATIONAL_SHIPMENTS_RANK": "35",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.055823,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "48",
+                "TRACKING_AND_TRACING_SCORE": 3.175104,
+                "TRACKING_AND_TRACING_RANK": "45",
+                "TIMELINESS_SCORE": 3.662264,
+                "TIMELINESS_RANK": "42"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guatemala",
+        "CODE": "GTM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.414617,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.223334,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.6059,
+                "OVERALL_LPI_RANK": "125",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "93",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "143",
+                "% of highest performer": 44.18684193757566,
+                "CUSTOMS_SCORE": 2.157708,
+                "CUSTOMS_RANK": "132",
+                "INFRASTRUCTURE_SCORE": 2.19619,
+                "INFRASTRUCTURE_RANK": "122",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.332191,
+                "INTERNATIONAL_SHIPMENTS_RANK": "130",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.248857,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "136",
+                "TRACKING_AND_TRACING_SCORE": 2.415524,
+                "TRACKING_AND_TRACING_RANK": "122",
+                "TIMELINESS_SCORE": 3.111029,
+                "TIMELINESS_RANK": "88"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guinea",
+        "CODE": "GIN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.200858,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.989779,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.411937,
+                "OVERALL_LPI_RANK": "145",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "126",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 37.50988616386856,
+                "CUSTOMS_SCORE": 2.447016,
+                "CUSTOMS_RANK": "93",
+                "INFRASTRUCTURE_SCORE": 1.555556,
+                "INFRASTRUCTURE_RANK": "160",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.322016,
+                "INTERNATIONAL_SHIPMENTS_RANK": "132",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.072016,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "152",
+                "TRACKING_AND_TRACING_SCORE": 2.697016,
+                "TRACKING_AND_TRACING_RANK": "91",
+                "TIMELINESS_SCORE": 2.03689,
+                "TIMELINESS_RANK": "160"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guinea-Bissau",
+        "CODE": "GNB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.387105,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.107225,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.666986,
+                "OVERALL_LPI_RANK": "129",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "86",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "153",
+                "% of highest performer": 43.327479724774186,
+                "CUSTOMS_SCORE": 2.007955,
+                "CUSTOMS_RANK": "144",
+                "INFRASTRUCTURE_SCORE": 1.77974,
+                "INFRASTRUCTURE_RANK": "159",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.534091,
+                "INTERNATIONAL_SHIPMENTS_RANK": "108",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.284091,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "126",
+                "TRACKING_AND_TRACING_SCORE": 2.784091,
+                "TRACKING_AND_TRACING_RANK": "80",
+                "TIMELINESS_SCORE": 2.856331,
+                "TIMELINESS_RANK": "116"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guyana",
+        "CODE": "GUY",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.358312,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.198101,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.518523,
+                "OVERALL_LPI_RANK": "132",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "114",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "145",
+                "% of highest performer": 42.42810431792654,
+                "CUSTOMS_SCORE": 2.553678,
+                "CUSTOMS_RANK": "84",
+                "INFRASTRUCTURE_SCORE": 2.089314,
+                "INFRASTRUCTURE_RANK": "137",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.167913,
+                "INTERNATIONAL_SHIPMENTS_RANK": "148",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.235694,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "137",
+                "TRACKING_AND_TRACING_SCORE": 2.439111,
+                "TRACKING_AND_TRACING_RANK": "121",
+                "TIMELINESS_SCORE": 2.646677,
+                "TIMELINESS_RANK": "137"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Haiti",
+        "CODE": "HTI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.112341,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.954931,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.269751,
+                "OVERALL_LPI_RANK": "153",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "140",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 34.74497757886753,
+                "CUSTOMS_SCORE": 2.031682,
+                "CUSTOMS_RANK": "142",
+                "INFRASTRUCTURE_SCORE": 1.944633,
+                "INFRASTRUCTURE_RANK": "147",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.005479,
+                "INTERNATIONAL_SHIPMENTS_RANK": "157",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.186149,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "145",
+                "TRACKING_AND_TRACING_SCORE": 2.054122,
+                "TRACKING_AND_TRACING_RANK": "154",
+                "TIMELINESS_SCORE": 2.439257,
+                "TIMELINESS_RANK": "149"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Honduras",
+        "CODE": "HND",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.603918,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.451471,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.756365,
+                "OVERALL_LPI_RANK": "93",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "76",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "116",
+                "% of highest performer": 50.09982995173428,
+                "CUSTOMS_SCORE": 2.238815,
+                "CUSTOMS_RANK": "125",
+                "INFRASTRUCTURE_SCORE": 2.473403,
+                "INFRASTRUCTURE_RANK": "88",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.662292,
+                "INTERNATIONAL_SHIPMENTS_RANK": "93",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.722923,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "75",
+                "TRACKING_AND_TRACING_SCORE": 2.677468,
+                "TRACKING_AND_TRACING_RANK": "93",
+                "TIMELINESS_SCORE": 2.833523,
+                "TIMELINESS_RANK": "118"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hong Kong SAR, China",
+        "CODE": "HKG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.920067,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.827736,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.012399,
+                "OVERALL_LPI_RANK": "12",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "7",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "17",
+                "% of highest performer": 91.21093481566443,
+                "CUSTOMS_SCORE": 3.814775,
+                "CUSTOMS_RANK": "9",
+                "INFRASTRUCTURE_SCORE": 3.969004,
+                "INFRASTRUCTURE_RANK": "15",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.768129,
+                "INTERNATIONAL_SHIPMENTS_RANK": "8",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.931662,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "12",
+                "TRACKING_AND_TRACING_SCORE": 3.918231,
+                "TRACKING_AND_TRACING_RANK": "15",
+                "TIMELINESS_SCORE": 4.139137,
+                "TIMELINESS_RANK": "15"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hungary",
+        "CODE": "HUN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.418764,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.249404,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.588123,
+                "OVERALL_LPI_RANK": "31",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "28",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "39",
+                "% of highest performer": 75.55228203273272,
+                "CUSTOMS_SCORE": 3.354866,
+                "CUSTOMS_RANK": "27",
+                "INFRASTRUCTURE_SCORE": 3.270945,
+                "INFRASTRUCTURE_RANK": "30",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.22188,
+                "INTERNATIONAL_SHIPMENTS_RANK": "43",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.213207,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "38",
+                "TRACKING_AND_TRACING_SCORE": 3.670508,
+                "TRACKING_AND_TRACING_RANK": "26",
+                "TIMELINESS_SCORE": 3.785941,
+                "TIMELINESS_RANK": "32"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iceland",
+        "CODE": "ISL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.225014,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.803478,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.64655,
+                "OVERALL_LPI_RANK": "40",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "23",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "72",
+                "% of highest performer": 69.50032547812798,
+                "CUSTOMS_SCORE": 2.769231,
+                "CUSTOMS_RANK": "54",
+                "INFRASTRUCTURE_SCORE": 3.185584,
+                "INFRASTRUCTURE_RANK": "37",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.792351,
+                "INTERNATIONAL_SHIPMENTS_RANK": "72",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.605164,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "25",
+                "TRACKING_AND_TRACING_SCORE": 3.353416,
+                "TRACKING_AND_TRACING_RANK": "37",
+                "TIMELINESS_SCORE": 3.696966,
+                "TIMELINESS_RANK": "37"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "India",
+        "CODE": "IND",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.176569,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.097555,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.255584,
+                "OVERALL_LPI_RANK": "44",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "40",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "49",
+                "% of highest performer": 67.98710207019082,
+                "CUSTOMS_SCORE": 2.964512,
+                "CUSTOMS_RANK": "40",
+                "INFRASTRUCTURE_SCORE": 2.905174,
+                "INFRASTRUCTURE_RANK": "52",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.211983,
+                "INTERNATIONAL_SHIPMENTS_RANK": "44",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.128073,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "42",
+                "TRACKING_AND_TRACING_SCORE": 3.319387,
+                "TRACKING_AND_TRACING_RANK": "38",
+                "TIMELINESS_SCORE": 3.497141,
+                "TIMELINESS_RANK": "52"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Indonesia",
+        "CODE": "IDN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.150061,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.850217,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.449905,
+                "OVERALL_LPI_RANK": "46",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "64",
+                "% of highest performer": 67.1591007058065,
+                "CUSTOMS_SCORE": 2.672778,
+                "CUSTOMS_RANK": "62",
+                "INFRASTRUCTURE_SCORE": 2.895,
+                "INFRASTRUCTURE_RANK": "54",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.228333,
+                "INTERNATIONAL_SHIPMENTS_RANK": "42",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.1,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "44",
+                "TRACKING_AND_TRACING_SCORE": 3.3,
+                "TRACKING_AND_TRACING_RANK": "39",
+                "TIMELINESS_SCORE": 3.669556,
+                "TIMELINESS_RANK": "41"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iran, Islamic Rep.",
+        "CODE": "IRN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.852721,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.50429,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.201153,
+                "OVERALL_LPI_RANK": "64",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "43",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "114",
+                "% of highest performer": 57.871416773181096,
+                "CUSTOMS_SCORE": 2.625,
+                "CUSTOMS_RANK": "71",
+                "INFRASTRUCTURE_SCORE": 2.766704,
+                "INFRASTRUCTURE_RANK": "63",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.756771,
+                "INTERNATIONAL_SHIPMENTS_RANK": "79",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.838132,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "62",
+                "TRACKING_AND_TRACING_SCORE": 2.766704,
+                "TRACKING_AND_TRACING_RANK": "85",
+                "TIMELINESS_SCORE": 3.355769,
+                "TIMELINESS_RANK": "60"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iraq",
+        "CODE": "IRQ",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.176271,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.038652,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.31389,
+                "OVERALL_LPI_RANK": "147",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "137",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 36.7418889726011,
+                "CUSTOMS_SCORE": 1.839437,
+                "CUSTOMS_RANK": "153",
+                "INFRASTRUCTURE_SCORE": 2.0335,
+                "INFRASTRUCTURE_RANK": "140",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.324812,
+                "INTERNATIONAL_SHIPMENTS_RANK": "131",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 1.908431,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "159",
+                "TRACKING_AND_TRACING_SCORE": 2.191533,
+                "TRACKING_AND_TRACING_RANK": "144",
+                "TIMELINESS_SCORE": 2.719949,
+                "TIMELINESS_RANK": "129"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ireland",
+        "CODE": "IRL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.510413,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.284731,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.736095,
+                "OVERALL_LPI_RANK": "29",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "20",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "37",
+                "% of highest performer": 78.41502147156095,
+                "CUSTOMS_SCORE": 3.357716,
+                "CUSTOMS_RANK": "26",
+                "INFRASTRUCTURE_SCORE": 3.293335,
+                "INFRASTRUCTURE_RANK": "29",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.423977,
+                "INTERNATIONAL_SHIPMENTS_RANK": "28",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.595856,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "26",
+                "TRACKING_AND_TRACING_SCORE": 3.623034,
+                "TRACKING_AND_TRACING_RANK": "28",
+                "TIMELINESS_SCORE": 3.756367,
+                "TIMELINESS_RANK": "33"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Israel",
+        "CODE": "ISR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.307796,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.128123,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.487468,
+                "OVERALL_LPI_RANK": "37",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "30",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "47",
+                "% of highest performer": 72.0860961491127,
+                "CUSTOMS_SCORE": 3.316621,
+                "CUSTOMS_RANK": "29",
+                "INFRASTRUCTURE_SCORE": 3.328609,
+                "INFRASTRUCTURE_RANK": "28",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.783154,
+                "INTERNATIONAL_SHIPMENTS_RANK": "75",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.389333,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "34",
+                "TRACKING_AND_TRACING_SCORE": 3.500444,
+                "TRACKING_AND_TRACING_RANK": "32",
+                "TIMELINESS_SCORE": 3.591467,
+                "TIMELINESS_RANK": "48"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Italy",
+        "CODE": "ITA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.739152,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.676977,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.801327,
+                "OVERALL_LPI_RANK": "19",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "18",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "22",
+                "% of highest performer": 85.5598910991415,
+                "CUSTOMS_SCORE": 3.472044,
+                "CUSTOMS_RANK": "23",
+                "INFRASTRUCTURE_SCORE": 3.852904,
+                "INFRASTRUCTURE_RANK": "18",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.512059,
+                "INTERNATIONAL_SHIPMENTS_RANK": "21",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.655042,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "24",
+                "TRACKING_AND_TRACING_SCORE": 3.854946,
+                "TRACKING_AND_TRACING_RANK": "18",
+                "TIMELINESS_SCORE": 4.126595,
+                "TIMELINESS_RANK": "17"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jamaica",
+        "CODE": "JAM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.518664,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.32031,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.717017,
+                "OVERALL_LPI_RANK": "113",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "79",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "135",
+                "% of highest performer": 47.43684412408899,
+                "CUSTOMS_SCORE": 2.415685,
+                "CUSTOMS_RANK": "99",
+                "INFRASTRUCTURE_SCORE": 2.324362,
+                "INFRASTRUCTURE_RANK": "107",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.534271,
+                "INTERNATIONAL_SHIPMENTS_RANK": "107",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.536251,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "94",
+                "TRACKING_AND_TRACING_SCORE": 2.480695,
+                "TRACKING_AND_TRACING_RANK": "116",
+                "TIMELINESS_SCORE": 2.79256,
+                "TIMELINESS_RANK": "121"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Japan",
+        "CODE": "JPN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.02565,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.957147,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.094152,
+                "OVERALL_LPI_RANK": "5",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "10",
+                "% of highest performer": 94.50891535194742,
+                "CUSTOMS_SCORE": 3.99399,
+                "CUSTOMS_RANK": "3",
+                "INFRASTRUCTURE_SCORE": 4.24824,
+                "INFRASTRUCTURE_RANK": "2",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.591916,
+                "INTERNATIONAL_SHIPMENTS_RANK": "14",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.088451,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "4",
+                "TRACKING_AND_TRACING_SCORE": 4.049101,
+                "TRACKING_AND_TRACING_RANK": "10",
+                "TIMELINESS_SCORE": 4.254069,
+                "TIMELINESS_RANK": "10"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jordan",
+        "CODE": "JOR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.687973,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.520306,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.85564,
+                "OVERALL_LPI_RANK": "84",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "64",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "112",
+                "% of highest performer": 52.72536392952679,
+                "CUSTOMS_SCORE": 2.491395,
+                "CUSTOMS_RANK": "88",
+                "INFRASTRUCTURE_SCORE": 2.718464,
+                "INFRASTRUCTURE_RANK": "70",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.443329,
+                "INTERNATIONAL_SHIPMENTS_RANK": "119",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.545078,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "93",
+                "TRACKING_AND_TRACING_SCORE": 2.77235,
+                "TRACKING_AND_TRACING_RANK": "84",
+                "TIMELINESS_SCORE": 3.183243,
+                "TIMELINESS_RANK": "76"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kazakhstan",
+        "CODE": "KAZ",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.809936,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.631136,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.988736,
+                "OVERALL_LPI_RANK": "71",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "56",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "90",
+                "% of highest performer": 56.534988586400374,
+                "CUSTOMS_SCORE": 2.663851,
+                "CUSTOMS_RANK": "65",
+                "INFRASTRUCTURE_SCORE": 2.54616,
+                "INFRASTRUCTURE_RANK": "81",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.73366,
+                "INTERNATIONAL_SHIPMENTS_RANK": "84",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.577002,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "90",
+                "TRACKING_AND_TRACING_SCORE": 2.777002,
+                "TRACKING_AND_TRACING_RANK": "83",
+                "TIMELINESS_SCORE": 3.525493,
+                "TIMELINESS_RANK": "50"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kenya",
+        "CODE": "KEN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.814935,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.617273,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.012598,
+                "OVERALL_LPI_RANK": "68",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "55",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "91",
+                "% of highest performer": 56.69113687448539,
+                "CUSTOMS_SCORE": 2.653857,
+                "CUSTOMS_RANK": "67",
+                "INFRASTRUCTURE_SCORE": 2.553886,
+                "INFRASTRUCTURE_RANK": "79",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.621849,
+                "INTERNATIONAL_SHIPMENTS_RANK": "99",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.810438,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "64",
+                "TRACKING_AND_TRACING_SCORE": 3.069486,
+                "TRACKING_AND_TRACING_RANK": "56",
+                "TIMELINESS_SCORE": 3.176152,
+                "TIMELINESS_RANK": "79"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Korea, Rep.",
+        "CODE": "KOR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.612164,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.48872,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.735609,
+                "OVERALL_LPI_RANK": "25",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "20",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "29",
+                "% of highest performer": 81.59330602065818,
+                "CUSTOMS_SCORE": 3.402588,
+                "CUSTOMS_RANK": "25",
+                "INFRASTRUCTURE_SCORE": 3.725528,
+                "INFRASTRUCTURE_RANK": "22",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.330246,
+                "INTERNATIONAL_SHIPMENTS_RANK": "33",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.587763,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "28",
+                "TRACKING_AND_TRACING_SCORE": 3.754119,
+                "TRACKING_AND_TRACING_RANK": "22",
+                "TIMELINESS_SCORE": 3.919574,
+                "TIMELINESS_RANK": "25"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kuwait",
+        "CODE": "KWT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.861212,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.543294,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.179129,
+                "OVERALL_LPI_RANK": "63",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "44",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "108",
+                "% of highest performer": 58.136640840820576,
+                "CUSTOMS_SCORE": 2.725455,
+                "CUSTOMS_RANK": "56",
+                "INFRASTRUCTURE_SCORE": 3.021818,
+                "INFRASTRUCTURE_RANK": "45",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.627273,
+                "INTERNATIONAL_SHIPMENTS_RANK": "98",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.796537,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "67",
+                "TRACKING_AND_TRACING_SCORE": 2.658442,
+                "TRACKING_AND_TRACING_RANK": "96",
+                "TIMELINESS_SCORE": 3.367965,
+                "TIMELINESS_RANK": "59"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kyrgyz Republic",
+        "CODE": "KGZ",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.54609,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.287254,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.804927,
+                "OVERALL_LPI_RANK": "108",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "73",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "138",
+                "% of highest performer": 48.29352004907785,
+                "CUSTOMS_SCORE": 2.75,
+                "CUSTOMS_RANK": "55",
+                "INFRASTRUCTURE_SCORE": 2.375,
+                "INFRASTRUCTURE_RANK": "103",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.215402,
+                "INTERNATIONAL_SHIPMENTS_RANK": "138",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.358259,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "114",
+                "TRACKING_AND_TRACING_SCORE": 2.643973,
+                "TRACKING_AND_TRACING_RANK": "99",
+                "TIMELINESS_SCORE": 2.940848,
+                "TIMELINESS_RANK": "106"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lao PDR",
+        "CODE": "LAO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.70029,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.467671,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.932909,
+                "OVERALL_LPI_RANK": "82",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 53.11009656892327,
+                "CUSTOMS_SCORE": 2.61287,
+                "CUSTOMS_RANK": "74",
+                "INFRASTRUCTURE_SCORE": 2.441327,
+                "INFRASTRUCTURE_RANK": "91",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.715686,
+                "INTERNATIONAL_SHIPMENTS_RANK": "85",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.64902,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "83",
+                "TRACKING_AND_TRACING_SCORE": 2.914022,
+                "TRACKING_AND_TRACING_RANK": "69",
+                "TIMELINESS_SCORE": 2.842594,
+                "TIMELINESS_RANK": "117"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Latvia",
+        "CODE": "LVA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.809949,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.621994,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.997904,
+                "OVERALL_LPI_RANK": "70",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "56",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "90",
+                "% of highest performer": 56.535394653162754,
+                "CUSTOMS_SCORE": 2.79657,
+                "CUSTOMS_RANK": "49",
+                "INFRASTRUCTURE_SCORE": 2.983,
+                "INFRASTRUCTURE_RANK": "49",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.744904,
+                "INTERNATIONAL_SHIPMENTS_RANK": "81",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.69255,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "81",
+                "TRACKING_AND_TRACING_SCORE": 2.787563,
+                "TRACKING_AND_TRACING_RANK": "77",
+                "TIMELINESS_SCORE": 2.878851,
+                "TIMELINESS_RANK": "113"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lebanon",
+        "CODE": "LBN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.716853,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.431211,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.002494,
+                "OVERALL_LPI_RANK": "79",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "56",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "119",
+                "% of highest performer": 53.62745686009187,
+                "CUSTOMS_SCORE": 2.384615,
+                "CUSTOMS_RANK": "106",
+                "INFRASTRUCTURE_SCORE": 2.637081,
+                "INFRASTRUCTURE_RANK": "73",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.803747,
+                "INTERNATIONAL_SHIPMENTS_RANK": "70",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.470414,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "104",
+                "TRACKING_AND_TRACING_SCORE": 2.803747,
+                "TRACKING_AND_TRACING_RANK": "74",
+                "TIMELINESS_SCORE": 3.179649,
+                "TIMELINESS_RANK": "77"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lesotho",
+        "CODE": "LSO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.277266,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.992172,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.562361,
+                "OVERALL_LPI_RANK": "139",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "107",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 39.89655917767107,
+                "CUSTOMS_SCORE": 2.361111,
+                "CUSTOMS_RANK": "110",
+                "INFRASTRUCTURE_SCORE": 1.958333,
+                "INFRASTRUCTURE_RANK": "145",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.208333,
+                "INTERNATIONAL_SHIPMENTS_RANK": "140",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.032408,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "154",
+                "TRACKING_AND_TRACING_SCORE": 2.365741,
+                "TRACKING_AND_TRACING_RANK": "129",
+                "TIMELINESS_SCORE": 2.699074,
+                "TIMELINESS_RANK": "132"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Liberia",
+        "CODE": "LBR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.229198,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.966897,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.491498,
+                "OVERALL_LPI_RANK": "143",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "115",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 38.39511170584273,
+                "CUSTOMS_SCORE": 1.905628,
+                "CUSTOMS_RANK": "152",
+                "INFRASTRUCTURE_SCORE": 1.914419,
+                "INFRASTRUCTURE_RANK": "149",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.082001,
+                "INTERNATIONAL_SHIPMENTS_RANK": "155",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.139074,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "148",
+                "TRACKING_AND_TRACING_SCORE": 2.048165,
+                "TRACKING_AND_TRACING_RANK": "155",
+                "TIMELINESS_SCORE": 3.246348,
+                "TIMELINESS_RANK": "69"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Libya",
+        "CODE": "LBY",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.106462,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.88832,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.324604,
+                "OVERALL_LPI_RANK": "154",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "136",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 34.561341694560326,
+                "CUSTOMS_SCORE": 1.953632,
+                "CUSTOMS_RANK": "149",
+                "INFRASTRUCTURE_SCORE": 2.248718,
+                "INFRASTRUCTURE_RANK": "115",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 1.989135,
+                "INTERNATIONAL_SHIPMENTS_RANK": "159",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.045299,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "153",
+                "TRACKING_AND_TRACING_SCORE": 1.635844,
+                "TRACKING_AND_TRACING_RANK": "160",
+                "TIMELINESS_SCORE": 2.770085,
+                "TIMELINESS_RANK": "123"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lithuania",
+        "CODE": "LTU",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.017524,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.758875,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.276172,
+                "OVERALL_LPI_RANK": "54",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "38",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "74",
+                "% of highest performer": 63.019187591599284,
+                "CUSTOMS_SCORE": 2.846491,
+                "CUSTOMS_RANK": "46",
+                "INFRASTRUCTURE_SCORE": 2.729618,
+                "INFRASTRUCTURE_RANK": "66",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.78999,
+                "INTERNATIONAL_SHIPMENTS_RANK": "74",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.955624,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "54",
+                "TRACKING_AND_TRACING_SCORE": 3.123323,
+                "TRACKING_AND_TRACING_RANK": "50",
+                "TIMELINESS_SCORE": 3.646595,
+                "TIMELINESS_RANK": "43"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Luxembourg",
+        "CODE": "LUX",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.629998,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.449278,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.810719,
+                "OVERALL_LPI_RANK": "24",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "18",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "30",
+                "% of highest performer": 82.15036714682498,
+                "CUSTOMS_SCORE": 3.527956,
+                "CUSTOMS_RANK": "20",
+                "INFRASTRUCTURE_SCORE": 3.631442,
+                "INFRASTRUCTURE_RANK": "25",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.371425,
+                "INTERNATIONAL_SHIPMENTS_RANK": "31",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.757625,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "19",
+                "TRACKING_AND_TRACING_SCORE": 3.61474,
+                "TRACKING_AND_TRACING_RANK": "29",
+                "TIMELINESS_SCORE": 3.903863,
+                "TIMELINESS_RANK": "26"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Macedonia, FYR",
+        "CODE": "MKD",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.704895,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.438972,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.970817,
+                "OVERALL_LPI_RANK": "81",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "58",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "119",
+                "% of highest performer": 53.25393791051787,
+                "CUSTOMS_SCORE": 2.452814,
+                "CUSTOMS_RANK": "91",
+                "INFRASTRUCTURE_SCORE": 2.473593,
+                "INFRASTRUCTURE_RANK": "87",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.837229,
+                "INTERNATIONAL_SHIPMENTS_RANK": "67",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.74329,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "72",
+                "TRACKING_AND_TRACING_SCORE": 2.64329,
+                "TRACKING_AND_TRACING_RANK": "100",
+                "TIMELINESS_SCORE": 3.034922,
+                "TIMELINESS_RANK": "96"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Madagascar",
+        "CODE": "MDG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.389411,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.190754,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.588067,
+                "OVERALL_LPI_RANK": "128",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "97",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "146",
+                "% of highest performer": 43.39950972123829,
+                "CUSTOMS_SCORE": 2.31615,
+                "CUSTOMS_RANK": "118",
+                "INFRASTRUCTURE_SCORE": 2.159544,
+                "INFRASTRUCTURE_RANK": "128",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.185464,
+                "INTERNATIONAL_SHIPMENTS_RANK": "146",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.329992,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "118",
+                "TRACKING_AND_TRACING_SCORE": 2.610218,
+                "TRACKING_AND_TRACING_RANK": "102",
+                "TIMELINESS_SCORE": 2.732839,
+                "TIMELINESS_RANK": "128"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malawi",
+        "CODE": "MWI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.585645,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.280256,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.891034,
+                "OVERALL_LPI_RANK": "97",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "61",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "138",
+                "% of highest performer": 49.529056263361156,
+                "CUSTOMS_SCORE": 2.425926,
+                "CUSTOMS_RANK": "94",
+                "INFRASTRUCTURE_SCORE": 2.175926,
+                "INFRASTRUCTURE_RANK": "126",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.550926,
+                "INTERNATIONAL_SHIPMENTS_RANK": "105",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.675926,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "82",
+                "TRACKING_AND_TRACING_SCORE": 2.666667,
+                "TRACKING_AND_TRACING_RANK": "94",
+                "TIMELINESS_SCORE": 2.975,
+                "TIMELINESS_RANK": "102"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malaysia",
+        "CODE": "MYS",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.220886,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.001216,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.440555,
+                "OVERALL_LPI_RANK": "41",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "55",
+                "% of highest performer": 69.37138366312202,
+                "CUSTOMS_SCORE": 2.898268,
+                "CUSTOMS_RANK": "43",
+                "INFRASTRUCTURE_SCORE": 3.147186,
+                "INFRASTRUCTURE_RANK": "40",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.347836,
+                "INTERNATIONAL_SHIPMENTS_RANK": "32",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.297836,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "36",
+                "TRACKING_AND_TRACING_SCORE": 3.147835,
+                "TRACKING_AND_TRACING_RANK": "47",
+                "TIMELINESS_SCORE": 3.463814,
+                "TIMELINESS_RANK": "53"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Maldives",
+        "CODE": "MDV",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.665471,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.44205,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.888893,
+                "OVERALL_LPI_RANK": "86",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "61",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "119",
+                "% of highest performer": 52.0224935997631,
+                "CUSTOMS_SCORE": 2.398724,
+                "CUSTOMS_RANK": "105",
+                "INFRASTRUCTURE_SCORE": 2.717922,
+                "INFRASTRUCTURE_RANK": "71",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.659099,
+                "INTERNATIONAL_SHIPMENTS_RANK": "94",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.28615,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "125",
+                "TRACKING_AND_TRACING_SCORE": 2.600275,
+                "TRACKING_AND_TRACING_RANK": "104",
+                "TIMELINESS_SCORE": 3.322872,
+                "TIMELINESS_RANK": "64"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mali",
+        "CODE": "MLI",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.590265,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.300811,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.879719,
+                "OVERALL_LPI_RANK": "96",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "63",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "136",
+                "% of highest performer": 49.67336614352773,
+                "CUSTOMS_SCORE": 2.153846,
+                "CUSTOMS_RANK": "133",
+                "INFRASTRUCTURE_SCORE": 2.302539,
+                "INFRASTRUCTURE_RANK": "109",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.702539,
+                "INTERNATIONAL_SHIPMENTS_RANK": "88",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.450493,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "107",
+                "TRACKING_AND_TRACING_SCORE": 3.077022,
+                "TRACKING_AND_TRACING_RANK": "54",
+                "TIMELINESS_SCORE": 2.827022,
+                "TIMELINESS_RANK": "119"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malta",
+        "CODE": "MLT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.813784,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.414581,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.212988,
+                "OVERALL_LPI_RANK": "69",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "42",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "125",
+                "% of highest performer": 56.65518434806293,
+                "CUSTOMS_SCORE": 2.697778,
+                "CUSTOMS_RANK": "60",
+                "INFRASTRUCTURE_SCORE": 2.9,
+                "INFRASTRUCTURE_RANK": "53",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.7,
+                "INTERNATIONAL_SHIPMENTS_RANK": "89",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.8,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "66",
+                "TRACKING_AND_TRACING_SCORE": 2.8,
+                "TRACKING_AND_TRACING_RANK": "75",
+                "TIMELINESS_SCORE": 3.005445,
+                "TIMELINESS_RANK": "98"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritania",
+        "CODE": "MRT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.331071,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.110509,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.551633,
+                "OVERALL_LPI_RANK": "135",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "108",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "153",
+                "% of highest performer": 41.57720703532531,
+                "CUSTOMS_SCORE": 2.2,
+                "CUSTOMS_RANK": "128",
+                "INFRASTRUCTURE_SCORE": 2.262861,
+                "INFRASTRUCTURE_RANK": "112",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.192369,
+                "INTERNATIONAL_SHIPMENTS_RANK": "145",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.192369,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "144",
+                "TRACKING_AND_TRACING_SCORE": 2.46841,
+                "TRACKING_AND_TRACING_RANK": "119",
+                "TIMELINESS_SCORE": 2.676646,
+                "TIMELINESS_RANK": "134"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritius",
+        "CODE": "MUS",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.732952,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.451482,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.014423,
+                "OVERALL_LPI_RANK": "78",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "55",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "116",
+                "% of highest performer": 54.130323691434235,
+                "CUSTOMS_SCORE": 2.705,
+                "CUSTOMS_RANK": "59",
+                "INFRASTRUCTURE_SCORE": 2.8,
+                "INFRASTRUCTURE_RANK": "59",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.12,
+                "INTERNATIONAL_SHIPMENTS_RANK": "151",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.85631,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "59",
+                "TRACKING_AND_TRACING_SCORE": 2.999167,
+                "TRACKING_AND_TRACING_RANK": "63",
+                "TIMELINESS_SCORE": 2.999167,
+                "TIMELINESS_RANK": "99"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mexico",
+        "CODE": "MEX",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.051375,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.898451,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.204299,
+                "OVERALL_LPI_RANK": "51",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "43",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "60",
+                "% of highest performer": 64.07655420491503,
+                "CUSTOMS_SCORE": 2.769794,
+                "CUSTOMS_RANK": "53",
+                "INFRASTRUCTURE_SCORE": 2.846917,
+                "INFRASTRUCTURE_RANK": "57",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.102816,
+                "INTERNATIONAL_SHIPMENTS_RANK": "51",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.019504,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "52",
+                "TRACKING_AND_TRACING_SCORE": 3.004811,
+                "TRACKING_AND_TRACING_RANK": "62",
+                "TIMELINESS_SCORE": 3.529618,
+                "TIMELINESS_RANK": "49"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Moldova",
+        "CODE": "MDA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.455908,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.296292,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.615524,
+                "OVERALL_LPI_RANK": "116",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "92",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "137",
+                "% of highest performer": 45.47660368258823,
+                "CUSTOMS_SCORE": 2.253755,
+                "CUSTOMS_RANK": "124",
+                "INFRASTRUCTURE_SCORE": 2.019938,
+                "INFRASTRUCTURE_RANK": "141",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.693258,
+                "INTERNATIONAL_SHIPMENTS_RANK": "90",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.299887,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "122",
+                "TRACKING_AND_TRACING_SCORE": 2.205764,
+                "TRACKING_AND_TRACING_RANK": "142",
+                "TIMELINESS_SCORE": 3.166819,
+                "TIMELINESS_RANK": "82"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mongolia",
+        "CODE": "MNG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.373274,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.169652,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.576895,
+                "OVERALL_LPI_RANK": "130",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "100",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "148",
+                "% of highest performer": 42.8954559255136,
+                "CUSTOMS_SCORE": 2.224493,
+                "CUSTOMS_RANK": "127",
+                "INFRASTRUCTURE_SCORE": 2.096491,
+                "INFRASTRUCTURE_RANK": "135",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.48538,
+                "INTERNATIONAL_SHIPMENTS_RANK": "117",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.207602,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "140",
+                "TRACKING_AND_TRACING_SCORE": 2.099759,
+                "TRACKING_AND_TRACING_RANK": "152",
+                "TIMELINESS_SCORE": 3.060681,
+                "TIMELINESS_RANK": "93"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Montenegro",
+        "CODE": "MNE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.745632,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.557852,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.933411,
+                "OVERALL_LPI_RANK": "77",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "106",
+                "% of highest performer": 54.52639496427236,
+                "CUSTOMS_SCORE": 2.561131,
+                "CUSTOMS_RANK": "83",
+                "INFRASTRUCTURE_SCORE": 2.574761,
+                "INFRASTRUCTURE_RANK": "75",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.684087,
+                "INTERNATIONAL_SHIPMENTS_RANK": "92",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.723714,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "74",
+                "TRACKING_AND_TRACING_SCORE": 2.57516,
+                "TRACKING_AND_TRACING_RANK": "105",
+                "TIMELINESS_SCORE": 3.329044,
+                "TIMELINESS_RANK": "63"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Morocco",
+        "CODE": "MAR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.539661,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.351484,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.727837,
+                "OVERALL_LPI_RANK": "109",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "79",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "133",
+                "% of highest performer": 48.09270441713177,
+                "CUSTOMS_SCORE": 2.328104,
+                "CUSTOMS_RANK": "115",
+                "INFRASTRUCTURE_SCORE": 2.434603,
+                "INFRASTRUCTURE_RANK": "93",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.575211,
+                "INTERNATIONAL_SHIPMENTS_RANK": "103",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.489252,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "101",
+                "TRACKING_AND_TRACING_SCORE": 2.512709,
+                "TRACKING_AND_TRACING_RANK": "112",
+                "TIMELINESS_SCORE": 2.878139,
+                "TIMELINESS_RANK": "114"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Myanmar",
+        "CODE": "MMR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.297734,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.097773,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.497695,
+                "OVERALL_LPI_RANK": "137",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "115",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "154",
+                "% of highest performer": 40.535895677075715,
+                "CUSTOMS_SCORE": 2.166667,
+                "CUSTOMS_RANK": "131",
+                "INFRASTRUCTURE_SCORE": 1.994689,
+                "INFRASTRUCTURE_RANK": "143",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.199142,
+                "INTERNATIONAL_SHIPMENTS_RANK": "144",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.279251,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "128",
+                "TRACKING_AND_TRACING_SCORE": 2.202327,
+                "TRACKING_AND_TRACING_RANK": "143",
+                "TIMELINESS_SCORE": 2.908419,
+                "TIMELINESS_RANK": "108"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nepal",
+        "CODE": "NPL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.513022,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.279357,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.746688,
+                "OVERALL_LPI_RANK": "114",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "77",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "138",
+                "% of highest performer": 47.26061114921891,
+                "CUSTOMS_SCORE": 2.289835,
+                "CUSTOMS_RANK": "122",
+                "INFRASTRUCTURE_SCORE": 2.194139,
+                "INFRASTRUCTURE_RANK": "123",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.360806,
+                "INTERNATIONAL_SHIPMENTS_RANK": "129",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.464161,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "105",
+                "TRACKING_AND_TRACING_SCORE": 2.645979,
+                "TRACKING_AND_TRACING_RANK": "98",
+                "TIMELINESS_SCORE": 3.100524,
+                "TIMELINESS_RANK": "89"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Netherlands",
+        "CODE": "NLD",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.019269,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.951432,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.087106,
+                "OVERALL_LPI_RANK": "6",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "11",
+                "% of highest performer": 94.30959904343166,
+                "CUSTOMS_SCORE": 3.917559,
+                "CUSTOMS_RANK": "5",
+                "INFRASTRUCTURE_SCORE": 4.207611,
+                "INFRASTRUCTURE_RANK": "4",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.682287,
+                "INTERNATIONAL_SHIPMENTS_RANK": "11",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.087875,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "5",
+                "TRACKING_AND_TRACING_SCORE": 4.024758,
+                "TRACKING_AND_TRACING_RANK": "11",
+                "TIMELINESS_SCORE": 4.253336,
+                "TIMELINESS_RANK": "11"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "New Zealand",
+        "CODE": "NZL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.875644,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.63464,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.116649,
+                "OVERALL_LPI_RANK": "15",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "23",
+                "% of highest performer": 89.82334221682464,
+                "CUSTOMS_SCORE": 3.708625,
+                "CUSTOMS_RANK": "13",
+                "INFRASTRUCTURE_SCORE": 3.990676,
+                "INFRASTRUCTURE_RANK": "13",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.428905,
+                "INTERNATIONAL_SHIPMENTS_RANK": "27",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.016317,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "8",
+                "TRACKING_AND_TRACING_SCORE": 3.916317,
+                "TRACKING_AND_TRACING_RANK": "16",
+                "TIMELINESS_SCORE": 4.255307,
+                "TIMELINESS_RANK": "9"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Niger",
+        "CODE": "NER",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.06995,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.657845,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.482054,
+                "OVERALL_LPI_RANK": "157",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "116",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 33.42085633857721,
+                "CUSTOMS_SCORE": 1.7655,
+                "CUSTOMS_RANK": "157",
+                "INFRASTRUCTURE_SCORE": 2.001111,
+                "INFRASTRUCTURE_RANK": "142",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.001111,
+                "INTERNATIONAL_SHIPMENTS_RANK": "158",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.1,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "150",
+                "TRACKING_AND_TRACING_SCORE": 2.223333,
+                "TRACKING_AND_TRACING_RANK": "141",
+                "TIMELINESS_SCORE": 2.334445,
+                "TIMELINESS_RANK": "155"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nigeria",
+        "CODE": "NGA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.532085,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.205165,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.859006,
+                "OVERALL_LPI_RANK": "110",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "64",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "144",
+                "% of highest performer": 47.85606120238241,
+                "CUSTOMS_SCORE": 1.966667,
+                "CUSTOMS_RANK": "147",
+                "INFRASTRUCTURE_SCORE": 2.559722,
+                "INFRASTRUCTURE_RANK": "78",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.522222,
+                "INTERNATIONAL_SHIPMENTS_RANK": "110",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.398611,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "112",
+                "TRACKING_AND_TRACING_SCORE": 2.684722,
+                "TRACKING_AND_TRACING_RANK": "92",
+                "TIMELINESS_SCORE": 3.068333,
+                "TIMELINESS_RANK": "92"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Norway",
+        "CODE": "NOR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.696623,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.450002,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.943244,
+                "OVERALL_LPI_RANK": "21",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "12",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "30",
+                "% of highest performer": 84.23145930398907,
+                "CUSTOMS_SCORE": 3.52,
+                "CUSTOMS_RANK": "21",
+                "INFRASTRUCTURE_SCORE": 3.691019,
+                "INFRASTRUCTURE_RANK": "24",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.429029,
+                "INTERNATIONAL_SHIPMENTS_RANK": "26",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.688636,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "23",
+                "TRACKING_AND_TRACING_SCORE": 3.944192,
+                "TRACKING_AND_TRACING_RANK": "14",
+                "TIMELINESS_SCORE": 3.942627,
+                "TIMELINESS_RANK": "24"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Oman",
+        "CODE": "OMN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.196838,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.927186,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.466489,
+                "OVERALL_LPI_RANK": "43",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "59",
+                "% of highest performer": 68.62022262454067,
+                "CUSTOMS_SCORE": 2.866667,
+                "CUSTOMS_RANK": "44",
+                "INFRASTRUCTURE_SCORE": 3.155275,
+                "INFRASTRUCTURE_RANK": "39",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.299365,
+                "INTERNATIONAL_SHIPMENTS_RANK": "36",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.054147,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "49",
+                "TRACKING_AND_TRACING_SCORE": 2.970814,
+                "TRACKING_AND_TRACING_RANK": "66",
+                "TIMELINESS_SCORE": 3.804147,
+                "TIMELINESS_RANK": "29"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Pakistan",
+        "CODE": "PAK",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.419197,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.258158,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.580236,
+                "OVERALL_LPI_RANK": "122",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "98",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "140",
+                "% of highest performer": 44.32990238155032,
+                "CUSTOMS_SCORE": 2.122048,
+                "CUSTOMS_RANK": "139",
+                "INFRASTRUCTURE_SCORE": 2.197486,
+                "INFRASTRUCTURE_RANK": "121",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.629385,
+                "INTERNATIONAL_SHIPMENTS_RANK": "97",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.58688,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "89",
+                "TRACKING_AND_TRACING_SCORE": 2.265452,
+                "TRACKING_AND_TRACING_RANK": "136",
+                "TIMELINESS_SCORE": 2.663294,
+                "TIMELINESS_RANK": "136"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Panama",
+        "CODE": "PAN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.275982,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.121964,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.430001,
+                "OVERALL_LPI_RANK": "38",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "47",
+                "% of highest performer": 71.0923570738704,
+                "CUSTOMS_SCORE": 2.866262,
+                "CUSTOMS_RANK": "45",
+                "INFRASTRUCTURE_SCORE": 3.130318,
+                "INFRASTRUCTURE_RANK": "42",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.314538,
+                "INTERNATIONAL_SHIPMENTS_RANK": "34",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.333333,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "35",
+                "TRACKING_AND_TRACING_SCORE": 3.4,
+                "TRACKING_AND_TRACING_RANK": "36",
+                "TIMELINESS_SCORE": 3.596759,
+                "TIMELINESS_RANK": "46"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Papua New Guinea",
+        "CODE": "PNG",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.174101,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.950027,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.398175,
+                "OVERALL_LPI_RANK": "148",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "128",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 36.67410705918953,
+                "CUSTOMS_SCORE": 2.321008,
+                "CUSTOMS_RANK": "116",
+                "INFRASTRUCTURE_SCORE": 1.97076,
+                "INFRASTRUCTURE_RANK": "144",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.147231,
+                "INTERNATIONAL_SHIPMENTS_RANK": "150",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 1.882747,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "160",
+                "TRACKING_AND_TRACING_SCORE": 2.257747,
+                "TRACKING_AND_TRACING_RANK": "138",
+                "TIMELINESS_SCORE": 2.43608,
+                "TIMELINESS_RANK": "150"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Paraguay",
+        "CODE": "PRY",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.782299,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.578467,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.986131,
+                "OVERALL_LPI_RANK": "74",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "56",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "98",
+                "% of highest performer": 55.67172188549917,
+                "CUSTOMS_SCORE": 2.64,
+                "CUSTOMS_RANK": "68",
+                "INFRASTRUCTURE_SCORE": 2.547013,
+                "INFRASTRUCTURE_RANK": "80",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.693257,
+                "INTERNATIONAL_SHIPMENTS_RANK": "91",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.72195,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "76",
+                "TRACKING_AND_TRACING_SCORE": 2.613295,
+                "TRACKING_AND_TRACING_RANK": "101",
+                "TIMELINESS_SCORE": 3.445366,
+                "TIMELINESS_RANK": "55"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Peru",
+        "CODE": "PER",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.693249,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.47537,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.911128,
+                "OVERALL_LPI_RANK": "83",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 52.89016456324082,
+                "CUSTOMS_SCORE": 2.529412,
+                "CUSTOMS_RANK": "86",
+                "INFRASTRUCTURE_SCORE": 2.281358,
+                "INFRASTRUCTURE_RANK": "111",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.843858,
+                "INTERNATIONAL_SHIPMENTS_RANK": "65",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.421468,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "110",
+                "TRACKING_AND_TRACING_SCORE": 2.554801,
+                "TRACKING_AND_TRACING_RANK": "108",
+                "TIMELINESS_SCORE": 3.445582,
+                "TIMELINESS_RANK": "54"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Philippines",
+        "CODE": "PHL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.903657,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.733253,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.074062,
+                "OVERALL_LPI_RANK": "60",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "51",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "77",
+                "% of highest performer": 59.462448819969985,
+                "CUSTOMS_SCORE": 2.529412,
+                "CUSTOMS_RANK": "85",
+                "INFRASTRUCTURE_SCORE": 2.725952,
+                "INFRASTRUCTURE_RANK": "67",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.292618,
+                "INTERNATIONAL_SHIPMENTS_RANK": "37",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.776028,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "69",
+                "TRACKING_AND_TRACING_SCORE": 3.059174,
+                "TRACKING_AND_TRACING_RANK": "57",
+                "TIMELINESS_SCORE": 2.983609,
+                "TIMELINESS_RANK": "100"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Poland",
+        "CODE": "POL",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.539533,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.352324,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.726742,
+                "OVERALL_LPI_RANK": "28",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "20",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "33",
+                "% of highest performer": 79.32461101927754,
+                "CUSTOMS_SCORE": 3.253458,
+                "CUSTOMS_RANK": "33",
+                "INFRASTRUCTURE_SCORE": 3.208902,
+                "INFRASTRUCTURE_RANK": "35",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.678499,
+                "INTERNATIONAL_SHIPMENTS_RANK": "12",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.580044,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "29",
+                "TRACKING_AND_TRACING_SCORE": 3.505663,
+                "TRACKING_AND_TRACING_RANK": "31",
+                "TIMELINESS_SCORE": 3.954262,
+                "TIMELINESS_RANK": "23"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Portugal",
+        "CODE": "PRT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.643184,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.43944,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.846928,
+                "OVERALL_LPI_RANK": "23",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "16",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "30",
+                "% of highest performer": 82.56224378749089,
+                "CUSTOMS_SCORE": 3.17135,
+                "CUSTOMS_RANK": "35",
+                "INFRASTRUCTURE_SCORE": 3.247268,
+                "INFRASTRUCTURE_RANK": "32",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.826492,
+                "INTERNATIONAL_SHIPMENTS_RANK": "7",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.705938,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "22",
+                "TRACKING_AND_TRACING_SCORE": 3.719307,
+                "TRACKING_AND_TRACING_RANK": "23",
+                "TIMELINESS_SCORE": 4.125922,
+                "TIMELINESS_RANK": "18"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Qatar",
+        "CODE": "QAT",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.474205,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.206593,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.741817,
+                "OVERALL_LPI_RANK": "30",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "19",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "41",
+                "% of highest performer": 77.28403183063642,
+                "CUSTOMS_SCORE": 3.0,
+                "CUSTOMS_RANK": "38",
+                "INFRASTRUCTURE_SCORE": 3.375,
+                "INFRASTRUCTURE_RANK": "27",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.75,
+                "INTERNATIONAL_SHIPMENTS_RANK": "9",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.418651,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "31",
+                "TRACKING_AND_TRACING_SCORE": 3.561508,
+                "TRACKING_AND_TRACING_RANK": "30",
+                "TIMELINESS_SCORE": 3.704365,
+                "TIMELINESS_RANK": "36"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Romania",
+        "CODE": "ROM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.118601,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.005132,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.232069,
+                "OVERALL_LPI_RANK": "48",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "40",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "55",
+                "% of highest performer": 66.17641914086268,
+                "CUSTOMS_SCORE": 2.580718,
+                "CUSTOMS_RANK": "80",
+                "INFRASTRUCTURE_SCORE": 2.906903,
+                "INFRASTRUCTURE_RANK": "51",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.176497,
+                "INTERNATIONAL_SHIPMENTS_RANK": "48",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.073653,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "47",
+                "TRACKING_AND_TRACING_SCORE": 3.264727,
+                "TRACKING_AND_TRACING_RANK": "41",
+                "TIMELINESS_SCORE": 3.681887,
+                "TIMELINESS_RANK": "39"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Russian Federation",
+        "CODE": "RUS",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.756889,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.646469,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.867309,
+                "OVERALL_LPI_RANK": "75",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "63",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "89",
+                "% of highest performer": 54.878017544583,
+                "CUSTOMS_SCORE": 2.420382,
+                "CUSTOMS_RANK": "97",
+                "INFRASTRUCTURE_SCORE": 2.77518,
+                "INFRASTRUCTURE_RANK": "61",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.644032,
+                "INTERNATIONAL_SHIPMENTS_RANK": "96",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.74927,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "71",
+                "TRACKING_AND_TRACING_SCORE": 2.646039,
+                "TRACKING_AND_TRACING_RANK": "97",
+                "TIMELINESS_SCORE": 3.313303,
+                "TIMELINESS_RANK": "66"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Rwanda",
+        "CODE": "RWA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.974757,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.66413,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.285385,
+                "OVERALL_LPI_RANK": "57",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "38",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "86",
+                "% of highest performer": 61.683321651104926,
+                "CUSTOMS_SCORE": 2.666667,
+                "CUSTOMS_RANK": "64",
+                "INFRASTRUCTURE_SCORE": 2.75505,
+                "INFRASTRUCTURE_RANK": "65",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.391414,
+                "INTERNATIONAL_SHIPMENTS_RANK": "29",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.851178,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "60",
+                "TRACKING_AND_TRACING_SCORE": 2.751179,
+                "TRACKING_AND_TRACING_RANK": "86",
+                "TIMELINESS_SCORE": 3.351178,
+                "TIMELINESS_RANK": "61"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saudi Arabia",
+        "CODE": "SAU",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.011041,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.829881,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.1922,
+                "OVERALL_LPI_RANK": "55",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "44",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "66",
+                "% of highest performer": 62.81668522079411,
+                "CUSTOMS_SCORE": 2.660549,
+                "CUSTOMS_RANK": "66",
+                "INFRASTRUCTURE_SCORE": 3.107004,
+                "INFRASTRUCTURE_RANK": "43",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.985055,
+                "INTERNATIONAL_SHIPMENTS_RANK": "56",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.860055,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "57",
+                "TRACKING_AND_TRACING_SCORE": 3.171576,
+                "TRACKING_AND_TRACING_RANK": "46",
+                "TIMELINESS_SCORE": 3.300067,
+                "TIMELINESS_RANK": "67"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Senegal",
+        "CODE": "SEN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.252378,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.005599,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.499158,
+                "OVERALL_LPI_RANK": "141",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "115",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 39.119159979059454,
+                "CUSTOMS_SCORE": 2.169242,
+                "CUSTOMS_RANK": "130",
+                "INFRASTRUCTURE_SCORE": 2.224286,
+                "INFRASTRUCTURE_RANK": "118",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.363394,
+                "INTERNATIONAL_SHIPMENTS_RANK": "128",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.106639,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "149",
+                "TRACKING_AND_TRACING_SCORE": 2.106639,
+                "TRACKING_AND_TRACING_RANK": "150",
+                "TIMELINESS_SCORE": 2.518404,
+                "TIMELINESS_RANK": "145"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Serbia",
+        "CODE": "SRB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.840953,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.589503,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.092404,
+                "OVERALL_LPI_RANK": "65",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "50",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "96",
+                "% of highest performer": 57.5038326455187,
+                "CUSTOMS_SCORE": 2.597121,
+                "CUSTOMS_RANK": "78",
+                "INFRASTRUCTURE_SCORE": 2.599877,
+                "INFRASTRUCTURE_RANK": "74",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.971317,
+                "INTERNATIONAL_SHIPMENTS_RANK": "57",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.70465,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "80",
+                "TRACKING_AND_TRACING_SCORE": 2.789011,
+                "TRACKING_AND_TRACING_RANK": "76",
+                "TIMELINESS_SCORE": 3.333418,
+                "TIMELINESS_RANK": "62"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sierra Leone",
+        "CODE": "SLE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.078033,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.847638,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.308429,
+                "OVERALL_LPI_RANK": "156",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "137",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 33.673336157059126,
+                "CUSTOMS_SCORE": 1.818182,
+                "CUSTOMS_RANK": "155",
+                "INFRASTRUCTURE_SCORE": 1.818182,
+                "INFRASTRUCTURE_RANK": "156",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.184298,
+                "INTERNATIONAL_SHIPMENTS_RANK": "147",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.0,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "156",
+                "TRACKING_AND_TRACING_SCORE": 2.272727,
+                "TRACKING_AND_TRACING_RANK": "134",
+                "TIMELINESS_SCORE": 2.338329,
+                "TIMELINESS_RANK": "154"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Singapore",
+        "CODE": "SGP",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.996119,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.858964,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.133275,
+                "OVERALL_LPI_RANK": "7",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "15",
+                "% of highest performer": 93.58648784735887,
+                "CUSTOMS_SCORE": 3.887082,
+                "CUSTOMS_RANK": "6",
+                "INFRASTRUCTURE_SCORE": 4.063787,
+                "INFRASTRUCTURE_RANK": "6",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.580094,
+                "INTERNATIONAL_SHIPMENTS_RANK": "15",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.099996,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "3",
+                "TRACKING_AND_TRACING_SCORE": 4.080114,
+                "TRACKING_AND_TRACING_RANK": "8",
+                "TIMELINESS_SCORE": 4.319944,
+                "TIMELINESS_RANK": "6"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovak Republic",
+        "CODE": "SVK",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.02713,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.694342,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.359917,
+                "OVERALL_LPI_RANK": "53",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "34",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "82",
+                "% of highest performer": 63.31923969308849,
+                "CUSTOMS_SCORE": 2.789011,
+                "CUSTOMS_RANK": "50",
+                "INFRASTRUCTURE_SCORE": 3.0,
+                "INFRASTRUCTURE_RANK": "48",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.101099,
+                "INTERNATIONAL_SHIPMENTS_RANK": "52",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.139194,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "41",
+                "TRACKING_AND_TRACING_SCORE": 2.985348,
+                "TRACKING_AND_TRACING_RANK": "64",
+                "TIMELINESS_SCORE": 3.139194,
+                "TIMELINESS_RANK": "86"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovenia",
+        "CODE": "SVN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.31478,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.084186,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.545375,
+                "OVERALL_LPI_RANK": "35",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "28",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "49",
+                "% of highest performer": 72.30424770822165,
+                "CUSTOMS_SCORE": 3.418681,
+                "CUSTOMS_RANK": "24",
+                "INFRASTRUCTURE_SCORE": 3.261905,
+                "INFRASTRUCTURE_RANK": "31",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.187912,
+                "INTERNATIONAL_SHIPMENTS_RANK": "47",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.052381,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "50",
+                "TRACKING_AND_TRACING_SCORE": 3.266667,
+                "TRACKING_AND_TRACING_RANK": "40",
+                "TIMELINESS_SCORE": 3.695238,
+                "TIMELINESS_RANK": "38"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Solomon Islands",
+        "CODE": "SLB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.57124,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.229122,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.913357,
+                "OVERALL_LPI_RANK": "104",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "60",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "143",
+                "% of highest performer": 49.07910305474654,
+                "CUSTOMS_SCORE": 2.773972,
+                "CUSTOMS_RANK": "52",
+                "INFRASTRUCTURE_SCORE": 2.206511,
+                "INFRASTRUCTURE_RANK": "120",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.20487,
+                "INTERNATIONAL_SHIPMENTS_RANK": "142",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.733442,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "73",
+                "TRACKING_AND_TRACING_SCORE": 2.37316,
+                "TRACKING_AND_TRACING_RANK": "126",
+                "TIMELINESS_SCORE": 3.116667,
+                "TIMELINESS_RANK": "87"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Somalia",
+        "CODE": "SOM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.208677,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.967034,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.45032,
+                "OVERALL_LPI_RANK": "144",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "117",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "159",
+                "% of highest performer": 37.754119703483795,
+                "CUSTOMS_SCORE": 2.0,
+                "CUSTOMS_RANK": "145",
+                "INFRASTRUCTURE_SCORE": 1.812865,
+                "INFRASTRUCTURE_RANK": "157",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.612865,
+                "INTERNATIONAL_SHIPMENTS_RANK": "100",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.304539,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "121",
+                "TRACKING_AND_TRACING_SCORE": 2.23311,
+                "TRACKING_AND_TRACING_RANK": "140",
+                "TIMELINESS_SCORE": 2.204196,
+                "TIMELINESS_RANK": "157"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Africa",
+        "CODE": "ZAF",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.37611,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.245321,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.5069,
+                "OVERALL_LPI_RANK": "33",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "30",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "39",
+                "% of highest performer": 74.21994574948054,
+                "CUSTOMS_SCORE": 3.1746,
+                "CUSTOMS_RANK": "34",
+                "INFRASTRUCTURE_SCORE": 3.186554,
+                "INFRASTRUCTURE_RANK": "36",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.508124,
+                "INTERNATIONAL_SHIPMENTS_RANK": "22",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.192726,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "39",
+                "TRACKING_AND_TRACING_SCORE": 3.411336,
+                "TRACKING_AND_TRACING_RANK": "35",
+                "TIMELINESS_SCORE": 3.742441,
+                "TIMELINESS_RANK": "34"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Spain",
+        "CODE": "ESP",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.831336,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.740331,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.92234,
+                "OVERALL_LPI_RANK": "17",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "12",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "18",
+                "% of highest performer": 88.43934174703664,
+                "CUSTOMS_SCORE": 3.620888,
+                "CUSTOMS_RANK": "17",
+                "INFRASTRUCTURE_SCORE": 3.83987,
+                "INFRASTRUCTURE_RANK": "19",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.82952,
+                "INTERNATIONAL_SHIPMENTS_RANK": "6",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.800271,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "18",
+                "TRACKING_AND_TRACING_SCORE": 3.834502,
+                "TRACKING_AND_TRACING_RANK": "19",
+                "TIMELINESS_SCORE": 4.063369,
+                "TIMELINESS_RANK": "20"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sri Lanka",
+        "CODE": "LKA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.597928,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.322392,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.873463,
+                "OVERALL_LPI_RANK": "94",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "63",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "135",
+                "% of highest performer": 49.912726881994494,
+                "CUSTOMS_SCORE": 2.582417,
+                "CUSTOMS_RANK": "79",
+                "INFRASTRUCTURE_SCORE": 2.489011,
+                "INFRASTRUCTURE_RANK": "85",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.514735,
+                "INTERNATIONAL_SHIPMENTS_RANK": "112",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.423826,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "109",
+                "TRACKING_AND_TRACING_SCORE": 2.787462,
+                "TRACKING_AND_TRACING_RANK": "78",
+                "TIMELINESS_SCORE": 2.787462,
+                "TIMELINESS_RANK": "122"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sudan",
+        "CODE": "SDN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.427574,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.232223,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.622924,
+                "OVERALL_LPI_RANK": "121",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "91",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "141",
+                "% of highest performer": 44.59156555604282,
+                "CUSTOMS_SCORE": 2.135556,
+                "CUSTOMS_RANK": "136",
+                "INFRASTRUCTURE_SCORE": 2.181818,
+                "INFRASTRUCTURE_RANK": "125",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.581818,
+                "INTERNATIONAL_SHIPMENTS_RANK": "102",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.50505,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "96",
+                "TRACKING_AND_TRACING_SCORE": 2.50505,
+                "TRACKING_AND_TRACING_RANK": "115",
+                "TIMELINESS_SCORE": 2.616162,
+                "TIMELINESS_RANK": "139"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sweden",
+        "CODE": "SWE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 4.052905,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.904824,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.200986,
+                "OVERALL_LPI_RANK": "2",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "12",
+                "% of highest performer": 95.36024993721583,
+                "CUSTOMS_SCORE": 4.049361,
+                "CUSTOMS_RANK": "2",
+                "INFRASTRUCTURE_SCORE": 4.239947,
+                "INFRASTRUCTURE_RANK": "3",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.915837,
+                "INTERNATIONAL_SHIPMENTS_RANK": "2",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.976896,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "10",
+                "TRACKING_AND_TRACING_SCORE": 3.876315,
+                "TRACKING_AND_TRACING_RANK": "17",
+                "TIMELINESS_SCORE": 4.284866,
+                "TIMELINESS_RANK": "7"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Switzerland",
+        "CODE": "CHE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.901372,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.798316,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.004429,
+                "OVERALL_LPI_RANK": "13",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "7",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "17",
+                "% of highest performer": 90.62697957546656,
+                "CUSTOMS_SCORE": 3.629262,
+                "CUSTOMS_RANK": "16",
+                "INFRASTRUCTURE_SCORE": 4.021835,
+                "INFRASTRUCTURE_RANK": "9",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.514933,
+                "INTERNATIONAL_SHIPMENTS_RANK": "20",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.966859,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "11",
+                "TRACKING_AND_TRACING_SCORE": 4.096271,
+                "TRACKING_AND_TRACING_RANK": "5",
+                "TIMELINESS_SCORE": 4.24183,
+                "TIMELINESS_RANK": "13"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Syrian Arab Republic",
+        "CODE": "SYR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.295541,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.084718,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.506364,
+                "OVERALL_LPI_RANK": "138",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "115",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "155",
+                "% of highest performer": 40.46739533785379,
+                "CUSTOMS_SCORE": 1.819048,
+                "CUSTOMS_RANK": "154",
+                "INFRASTRUCTURE_SCORE": 2.514286,
+                "INFRASTRUCTURE_RANK": "82",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.3663,
+                "INTERNATIONAL_SHIPMENTS_RANK": "126",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.289377,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "124",
+                "TRACKING_AND_TRACING_SCORE": 2.3663,
+                "TRACKING_AND_TRACING_RANK": "128",
+                "TIMELINESS_SCORE": 2.443223,
+                "TIMELINESS_RANK": "148"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "S\u00e3o Tom\u00e9 and Principe",
+        "CODE": "STP",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.653207,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.470064,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.836349,
+                "OVERALL_LPI_RANK": "89",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "66",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "115",
+                "% of highest performer": 51.63941646332093,
+                "CUSTOMS_SCORE": 2.714286,
+                "CUSTOMS_RANK": "57",
+                "INFRASTRUCTURE_SCORE": 2.330496,
+                "INFRASTRUCTURE_RANK": "106",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.415986,
+                "INTERNATIONAL_SHIPMENTS_RANK": "121",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.646285,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "84",
+                "TRACKING_AND_TRACING_SCORE": 2.783317,
+                "TRACKING_AND_TRACING_RANK": "81",
+                "TIMELINESS_SCORE": 3.014706,
+                "TIMELINESS_RANK": "97"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Taiwan, China",
+        "CODE": "TWN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.599722,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.416402,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.783043,
+                "OVERALL_LPI_RANK": "27",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "18",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "31",
+                "% of highest performer": 81.20466889316195,
+                "CUSTOMS_SCORE": 3.474167,
+                "CUSTOMS_RANK": "22",
+                "INFRASTRUCTURE_SCORE": 3.720193,
+                "INFRASTRUCTURE_RANK": "23",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.476875,
+                "INTERNATIONAL_SHIPMENTS_RANK": "24",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.565054,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "30",
+                "TRACKING_AND_TRACING_SCORE": 3.670812,
+                "TRACKING_AND_TRACING_RANK": "25",
+                "TIMELINESS_SCORE": 3.720617,
+                "TIMELINESS_RANK": "35"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tajikistan",
+        "CODE": "TJK",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.339558,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.123195,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.555921,
+                "OVERALL_LPI_RANK": "134",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "108",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "151",
+                "% of highest performer": 41.84230615934558,
+                "CUSTOMS_SCORE": 1.923077,
+                "CUSTOMS_RANK": "150",
+                "INFRASTRUCTURE_SCORE": 2.166173,
+                "INFRASTRUCTURE_RANK": "127",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.312612,
+                "INTERNATIONAL_SHIPMENTS_RANK": "133",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.33284,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "116",
+                "TRACKING_AND_TRACING_SCORE": 2.33284,
+                "TRACKING_AND_TRACING_RANK": "131",
+                "TIMELINESS_SCORE": 2.948976,
+                "TIMELINESS_RANK": "104"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Thailand",
+        "CODE": "THA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.411058,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.291623,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.530493,
+                "OVERALL_LPI_RANK": "32",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "29",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "37",
+                "% of highest performer": 75.31157815035965,
+                "CUSTOMS_SCORE": 3.142497,
+                "CUSTOMS_RANK": "36",
+                "INFRASTRUCTURE_SCORE": 3.138133,
+                "INFRASTRUCTURE_RANK": "41",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.456898,
+                "INTERNATIONAL_SHIPMENTS_RANK": "25",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.410726,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "32",
+                "TRACKING_AND_TRACING_SCORE": 3.467161,
+                "TRACKING_AND_TRACING_RANK": "33",
+                "TIMELINESS_SCORE": 3.813817,
+                "TIMELINESS_RANK": "28"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Togo",
+        "CODE": "TGO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.447461,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.15782,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.737102,
+                "OVERALL_LPI_RANK": "118",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "78",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "150",
+                "% of highest performer": 45.212753994759865,
+                "CUSTOMS_SCORE": 2.314394,
+                "CUSTOMS_RANK": "119",
+                "INFRASTRUCTURE_SCORE": 2.23245,
+                "INFRASTRUCTURE_RANK": "116",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.518939,
+                "INTERNATIONAL_SHIPMENTS_RANK": "111",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.249719,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "134",
+                "TRACKING_AND_TRACING_SCORE": 2.449635,
+                "TRACKING_AND_TRACING_RANK": "120",
+                "TIMELINESS_SCORE": 2.878886,
+                "TIMELINESS_RANK": "112"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Trinidad and Tobago",
+        "CODE": "TTO",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.415642,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.224108,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.607176,
+                "OVERALL_LPI_RANK": "124",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "93",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "143",
+                "% of highest performer": 44.21885873999357,
+                "CUSTOMS_SCORE": 2.423196,
+                "CUSTOMS_RANK": "96",
+                "INFRASTRUCTURE_SCORE": 2.382692,
+                "INFRASTRUCTURE_RANK": "101",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.586367,
+                "INTERNATIONAL_SHIPMENTS_RANK": "101",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.270751,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "129",
+                "TRACKING_AND_TRACING_SCORE": 2.267067,
+                "TRACKING_AND_TRACING_RANK": "135",
+                "TIMELINESS_SCORE": 2.531926,
+                "TIMELINESS_RANK": "144"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tunisia",
+        "CODE": "TUN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.569547,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.375774,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.763321,
+                "OVERALL_LPI_RANK": "105",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "75",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "129",
+                "% of highest performer": 49.026220667923596,
+                "CUSTOMS_SCORE": 2.375,
+                "CUSTOMS_RANK": "107",
+                "INFRASTRUCTURE_SCORE": 2.097569,
+                "INFRASTRUCTURE_RANK": "133",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.49757,
+                "INTERNATIONAL_SHIPMENTS_RANK": "115",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.29757,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "123",
+                "TRACKING_AND_TRACING_SCORE": 2.864583,
+                "TRACKING_AND_TRACING_RANK": "71",
+                "TIMELINESS_SCORE": 3.236042,
+                "TIMELINESS_RANK": "70"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkey",
+        "CODE": "TUR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.145809,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.048446,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.243172,
+                "OVERALL_LPI_RANK": "47",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "40",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "51",
+                "% of highest performer": 67.02628563860557,
+                "CUSTOMS_SCORE": 2.713469,
+                "CUSTOMS_RANK": "58",
+                "INFRASTRUCTURE_SCORE": 3.210029,
+                "INFRASTRUCTURE_RANK": "33",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.060677,
+                "INTERNATIONAL_SHIPMENTS_RANK": "53",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.046799,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "51",
+                "TRACKING_AND_TRACING_SCORE": 3.233056,
+                "TRACKING_AND_TRACING_RANK": "42",
+                "TIMELINESS_SCORE": 3.628118,
+                "TIMELINESS_RANK": "44"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkmenistan",
+        "CODE": "TKM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.409804,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.229772,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.589836,
+                "OVERALL_LPI_RANK": "126",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "97",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "141",
+                "% of highest performer": 44.036503527783076,
+                "CUSTOMS_SCORE": 2.350292,
+                "CUSTOMS_RANK": "111",
+                "INFRASTRUCTURE_SCORE": 2.228861,
+                "INFRASTRUCTURE_RANK": "117",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.287685,
+                "INTERNATIONAL_SHIPMENTS_RANK": "136",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.307501,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "120",
+                "TRACKING_AND_TRACING_SCORE": 2.557501,
+                "TRACKING_AND_TRACING_RANK": "107",
+                "TIMELINESS_SCORE": 2.71865,
+                "TIMELINESS_RANK": "130"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uganda",
+        "CODE": "UGA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.575405,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.342655,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.808156,
+                "OVERALL_LPI_RANK": "102",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "73",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "133",
+                "% of highest performer": 49.20920059823005,
+                "CUSTOMS_SCORE": 2.610558,
+                "CUSTOMS_RANK": "76",
+                "INFRASTRUCTURE_SCORE": 2.193993,
+                "INFRASTRUCTURE_RANK": "124",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.760893,
+                "INTERNATIONAL_SHIPMENTS_RANK": "78",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.496367,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "99",
+                "TRACKING_AND_TRACING_SCORE": 2.414145,
+                "TRACKING_AND_TRACING_RANK": "123",
+                "TIMELINESS_SCORE": 2.899217,
+                "TIMELINESS_RANK": "110"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ukraine",
+        "CODE": "UKR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.830178,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.621232,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.039124,
+                "OVERALL_LPI_RANK": "66",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "52",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "91",
+                "% of highest performer": 57.16726577132069,
+                "CUSTOMS_SCORE": 2.49118,
+                "CUSTOMS_RANK": "89",
+                "INFRASTRUCTURE_SCORE": 2.221296,
+                "INFRASTRUCTURE_RANK": "119",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.829282,
+                "INTERNATIONAL_SHIPMENTS_RANK": "68",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.842631,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "61",
+                "TRACKING_AND_TRACING_SCORE": 3.109298,
+                "TRACKING_AND_TRACING_RANK": "52",
+                "TIMELINESS_SCORE": 3.422145,
+                "TIMELINESS_RANK": "56"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Arab Emirates",
+        "CODE": "ARE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.956437,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.859022,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.053852,
+                "OVERALL_LPI_RANK": "11",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "2",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "15",
+                "% of highest performer": 92.34698467316623,
+                "CUSTOMS_SCORE": 3.631403,
+                "CUSTOMS_RANK": "15",
+                "INFRASTRUCTURE_SCORE": 4.021292,
+                "INFRASTRUCTURE_RANK": "10",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.84737,
+                "INTERNATIONAL_SHIPMENTS_RANK": "5",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.919378,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "13",
+                "TRACKING_AND_TRACING_SCORE": 3.960279,
+                "TRACKING_AND_TRACING_RANK": "13",
+                "TIMELINESS_SCORE": 4.376292,
+                "TIMELINESS_RANK": "4"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Kingdom",
+        "CODE": "GBR",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.987057,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.927077,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 4.047037,
+                "OVERALL_LPI_RANK": "9",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "3",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "11",
+                "% of highest performer": 93.30342807807975,
+                "CUSTOMS_SCORE": 3.772005,
+                "CUSTOMS_RANK": "11",
+                "INFRASTRUCTURE_SCORE": 4.032786,
+                "INFRASTRUCTURE_RANK": "8",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.672469,
+                "INTERNATIONAL_SHIPMENTS_RANK": "13",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 4.04983,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "7",
+                "TRACKING_AND_TRACING_SCORE": 4.107993,
+                "TRACKING_AND_TRACING_RANK": "4",
+                "TIMELINESS_SCORE": 4.329937,
+                "TIMELINESS_RANK": "5"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United States",
+        "CODE": "USA",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.885129,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.829968,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.940291,
+                "OVERALL_LPI_RANK": "14",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "12",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "17",
+                "% of highest performer": 90.11961477383329,
+                "CUSTOMS_SCORE": 3.775142,
+                "CUSTOMS_RANK": "10",
+                "INFRASTRUCTURE_SCORE": 4.045132,
+                "INFRASTRUCTURE_RANK": "7",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.506325,
+                "INTERNATIONAL_SHIPMENTS_RANK": "23",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.874253,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "16",
+                "TRACKING_AND_TRACING_SCORE": 4.091751,
+                "TRACKING_AND_TRACING_RANK": "6",
+                "TIMELINESS_SCORE": 4.083623,
+                "TIMELINESS_RANK": "19"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uruguay",
+        "CODE": "URY",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.685087,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.504859,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.865315,
+                "OVERALL_LPI_RANK": "85",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "63",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "114",
+                "% of highest performer": 52.635217108279875,
+                "CUSTOMS_SCORE": 2.514882,
+                "CUSTOMS_RANK": "87",
+                "INFRASTRUCTURE_SCORE": 2.43324,
+                "INFRASTRUCTURE_RANK": "94",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.734974,
+                "INTERNATIONAL_SHIPMENTS_RANK": "82",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.708626,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "78",
+                "TRACKING_AND_TRACING_SCORE": 2.780353,
+                "TRACKING_AND_TRACING_RANK": "82",
+                "TIMELINESS_SCORE": 2.906435,
+                "TIMELINESS_RANK": "109"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uzbekistan",
+        "CODE": "UZB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.577256,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.380418,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.774094,
+                "OVERALL_LPI_RANK": "99",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "75",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "129",
+                "% of highest performer": 49.26701825801107,
+                "CUSTOMS_SCORE": 2.103333,
+                "CUSTOMS_RANK": "140",
+                "INFRASTRUCTURE_SCORE": 2.57,
+                "INFRASTRUCTURE_RANK": "77",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.423333,
+                "INTERNATIONAL_SHIPMENTS_RANK": "120",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.587714,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "88",
+                "TRACKING_AND_TRACING_SCORE": 2.709048,
+                "TRACKING_AND_TRACING_RANK": "90",
+                "TIMELINESS_SCORE": 3.09,
+                "TIMELINESS_RANK": "91"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Venezuela, RB",
+        "CODE": "VEN",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.229216,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.076098,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.382333,
+                "OVERALL_LPI_RANK": "142",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "130",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "156",
+                "% of highest performer": 38.3956739521291,
+                "CUSTOMS_SCORE": 1.787384,
+                "CUSTOMS_RANK": "156",
+                "INFRASTRUCTURE_SCORE": 2.096936,
+                "INFRASTRUCTURE_RANK": "134",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.379562,
+                "INTERNATIONAL_SHIPMENTS_RANK": "123",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.206915,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "141",
+                "TRACKING_AND_TRACING_SCORE": 2.294127,
+                "TRACKING_AND_TRACING_RANK": "133",
+                "TIMELINESS_SCORE": 2.581759,
+                "TIMELINESS_RANK": "141"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Vietnam",
+        "CODE": "VNM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 3.27398,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 3.110737,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 3.437223,
+                "OVERALL_LPI_RANK": "39",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "31",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "48",
+                "% of highest performer": 71.02982279246488,
+                "CUSTOMS_SCORE": 2.950154,
+                "CUSTOMS_RANK": "41",
+                "INFRASTRUCTURE_SCORE": 3.00549,
+                "INFRASTRUCTURE_RANK": "47",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.15549,
+                "INTERNATIONAL_SHIPMENTS_RANK": "49",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 3.39934,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "33",
+                "TRACKING_AND_TRACING_SCORE": 3.44978,
+                "TRACKING_AND_TRACING_RANK": "34",
+                "TIMELINESS_SCORE": 3.672003,
+                "TIMELINESS_RANK": "40"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Yemen, Rep.",
+        "CODE": "YEM",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.265255,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.823761,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.706749,
+                "OVERALL_LPI_RANK": "140",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "80",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 39.52138472514277,
+                "CUSTOMS_SCORE": 2.400794,
+                "CUSTOMS_RANK": "104",
+                "INFRASTRUCTURE_SCORE": 2.116794,
+                "INFRASTRUCTURE_RANK": "131",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.206984,
+                "INTERNATIONAL_SHIPMENTS_RANK": "141",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.259524,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "131",
+                "TRACKING_AND_TRACING_SCORE": 2.161905,
+                "TRACKING_AND_TRACING_RANK": "146",
+                "TIMELINESS_SCORE": 2.426191,
+                "TIMELINESS_RANK": "151"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zambia",
+        "CODE": "ZMB",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.526313,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 2.361903,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.690722,
+                "OVERALL_LPI_RANK": "111",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "84",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "130",
+                "% of highest performer": 47.6757675598886,
+                "CUSTOMS_SCORE": 2.180161,
+                "CUSTOMS_RANK": "129",
+                "INFRASTRUCTURE_SCORE": 2.303431,
+                "INFRASTRUCTURE_RANK": "108",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 3.052819,
+                "INTERNATIONAL_SHIPMENTS_RANK": "54",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.48139,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "103",
+                "TRACKING_AND_TRACING_SCORE": 1.98139,
+                "TRACKING_AND_TRACING_RANK": "158",
+                "TIMELINESS_SCORE": 3.052819,
+                "TIMELINESS_RANK": "94"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zimbabwe",
+        "CODE": "ZWE",
+        "COUNTRY_DATA ": [
+            {
+                "OVERALL_LPI_SCORE": 2.120121,
+                "OVERALL_LPI_SCORE_LOWER_BOUND": 1.841924,
+                "OVERALL_LPI_SCORE_UPPER_BOUND": 2.398318,
+                "OVERALL_LPI_RANK": "152",
+                "OVERALL_LPI_RANK_LOWER_BOUND": "128",
+                "OVERALL_LPI_RANK_UPPER_BOUND": "160",
+                "% of highest performer": 34.987992918195665,
+                "CUSTOMS_SCORE": 2.0,
+                "CUSTOMS_RANK": "146",
+                "INFRASTRUCTURE_SCORE": 1.833333,
+                "INFRASTRUCTURE_RANK": "154",
+                "INTERNATIONAL_SHIPMENTS_SCORE": 2.055556,
+                "INTERNATIONAL_SHIPMENTS_RANK": "156",
+                "LOGISTICS_QUALITY_AND_COMPETENCE_SCORE": 2.160494,
+                "LOGISTICS_QUALITY_AND_COMPETENCE_RANK": "147",
+                "TRACKING_AND_TRACING_SCORE": 2.262147,
+                "TRACKING_AND_TRACING_RANK": "137",
+                "TIMELINESS_SCORE": 2.385957,
+                "TIMELINESS_RANK": "152"
+            }
+        ]
+    }
+]
