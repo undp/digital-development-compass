@@ -2,7 +2,7 @@
 
 To get data into the app, it needs to go through a few steps:
 
-![Data flow diagram](./data-flow-diagram.png)
+![Data flow diagram](./undp-diagram.png)
 
 - `data_manifest.csv` describes where we want to download data from.
 - When the contents of `data_manifest.csv` update, the Github Action `process-manifest.yml` runs, kicking off `process_manifest.js` which generates the `flat.yml` file
