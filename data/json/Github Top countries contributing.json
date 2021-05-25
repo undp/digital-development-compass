@@ -1,0 +1,1850 @@
+[
+    {
+        "COUNTRY": "Afghanistan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 76.0,
+                "POPULATION": 29121286.0,
+                "RATIO": 0.00260977485678345,
+                "RATIO_UNIQUE_LOGIN": 0.00240373999966897
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Albania",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 239.0,
+                "POPULATION": 2986952.0,
+                "RATIO": 0.0800146771692347,
+                "RATIO_UNIQUE_LOGIN": 0.0569142055178657
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Algeria",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 523.0,
+                "POPULATION": 34586184.0,
+                "RATIO": 0.0151216451054559,
+                "RATIO_UNIQUE_LOGIN": 0.0112761789505312
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Angola",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 190.0,
+                "POPULATION": 13068161.0,
+                "RATIO": 0.0145391535962864,
+                "RATIO_UNIQUE_LOGIN": 0.0114782791549629
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Argentina",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 22286.0,
+                "POPULATION": 41343201.0,
+                "RATIO": 0.539048730164846,
+                "RATIO_UNIQUE_LOGIN": 0.406354602296034
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Armenia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 977.0,
+                "POPULATION": 2968000.0,
+                "RATIO": 0.329177897574123,
+                "RATIO_UNIQUE_LOGIN": 0.192048517520215
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Australia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 90174.0,
+                "POPULATION": 21515754.0,
+                "RATIO": 4.19106855376762,
+                "RATIO_UNIQUE_LOGIN": 2.27554191221929
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Austria",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 24734.0,
+                "POPULATION": 8205000.0,
+                "RATIO": 3.01450335161486,
+                "RATIO_UNIQUE_LOGIN": 1.49908592321755
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Azerbaijan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 759.0,
+                "POPULATION": 8303512.0,
+                "RATIO": 0.0914071058125766,
+                "RATIO_UNIQUE_LOGIN": 0.0662370331975193
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahamas",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 263.0,
+                "POPULATION": 301790.0,
+                "RATIO": 0.871466914079326,
+                "RATIO_UNIQUE_LOGIN": 0.662712482189602
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahrain",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 84.0,
+                "POPULATION": 738004.0,
+                "RATIO": 0.113820521297987,
+                "RATIO_UNIQUE_LOGIN": 0.121950558533558
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bangladesh",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5981.0,
+                "POPULATION": 156118464.0,
+                "RATIO": 0.0383106510707151,
+                "RATIO_UNIQUE_LOGIN": 0.034140740713411
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belarus",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 11583.0,
+                "POPULATION": 9685000.0,
+                "RATIO": 1.19597315436241,
+                "RATIO_UNIQUE_LOGIN": 0.845637583892617
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belgium",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 32486.0,
+                "POPULATION": 10403000.0,
+                "RATIO": 3.12275305200422,
+                "RATIO_UNIQUE_LOGIN": 1.55243679707776
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belize",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5.0,
+                "POPULATION": 314522.0,
+                "RATIO": 0.0158971391508384,
+                "RATIO_UNIQUE_LOGIN": 0.0635885566033536
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Benin",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1053.0,
+                "POPULATION": 9056010.0,
+                "RATIO": 0.116276373369729,
+                "RATIO_UNIQUE_LOGIN": 0.0596289094203738
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bhutan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 79.0,
+                "POPULATION": 699847.0,
+                "RATIO": 0.112881815596837,
+                "RATIO_UNIQUE_LOGIN": 0.0428665122519636
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bolivia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 999.0,
+                "POPULATION": 9947418.0,
+                "RATIO": 0.100428070882313,
+                "RATIO_UNIQUE_LOGIN": 0.0894704535387977
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bosnia and Herzegovina",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1073.0,
+                "POPULATION": 4590000.0,
+                "RATIO": 0.233769063180827,
+                "RATIO_UNIQUE_LOGIN": 0.154684095860566
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Botswana",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 439.0,
+                "POPULATION": 2029307.0,
+                "RATIO": 0.216330008224482,
+                "RATIO_UNIQUE_LOGIN": 0.0443501155813289
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brazil",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 104802.0,
+                "POPULATION": 201103330.0,
+                "RATIO": 0.521135080160035,
+                "RATIO_UNIQUE_LOGIN": 0.392086993288475
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brunei",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 34.0,
+                "POPULATION": 395027.0,
+                "RATIO": 0.0860700660967478,
+                "RATIO_UNIQUE_LOGIN": 0.0506294506451457
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bulgaria",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 10555.0,
+                "POPULATION": 7148785.0,
+                "RATIO": 1.47647467366832,
+                "RATIO_UNIQUE_LOGIN": 0.987580407020213
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burkina Faso",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 47.0,
+                "POPULATION": 16241811.0,
+                "RATIO": 0.00289376597227981,
+                "RATIO_UNIQUE_LOGIN": 0.00307847443859554
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burundi",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 25.0,
+                "POPULATION": 9863117.0,
+                "RATIO": 0.00253469567480543,
+                "RATIO_UNIQUE_LOGIN": 0.00202775653984435
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cambodia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1046.0,
+                "POPULATION": 14453680.0,
+                "RATIO": 0.0723691129179558,
+                "RATIO_UNIQUE_LOGIN": 0.0401281888072795
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cameroon",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 435.0,
+                "POPULATION": 19294149.0,
+                "RATIO": 0.0225456950705625,
+                "RATIO_UNIQUE_LOGIN": 0.0145121715396724
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Canada",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 143815.0,
+                "POPULATION": 33679000.0,
+                "RATIO": 4.27016835416728,
+                "RATIO_UNIQUE_LOGIN": 2.33528311410671
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cape Verde",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 13.0,
+                "POPULATION": 508659.0,
+                "RATIO": 0.0255573969987752,
+                "RATIO_UNIQUE_LOGIN": 0.039319072305808
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Central African Republic",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1.0,
+                "POPULATION": 4844927.0,
+                "RATIO": 0.000206401458680388,
+                "RATIO_UNIQUE_LOGIN": 0.00206401458680388
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chad",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 110.0,
+                "POPULATION": 10543464.0,
+                "RATIO": 0.0104330038021659,
+                "RATIO_UNIQUE_LOGIN": 0.000948454891105997
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chile",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 8133.0,
+                "POPULATION": 16746491.0,
+                "RATIO": 0.485653979690431,
+                "RATIO_UNIQUE_LOGIN": 0.371421093529384
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 250708.0,
+                "POPULATION": 1330044000.0,
+                "RATIO": 0.188496019680551,
+                "RATIO_UNIQUE_LOGIN": 0.115740531892178
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Colombia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 16109.0,
+                "POPULATION": 47790000.0,
+                "RATIO": 0.3370788867964,
+                "RATIO_UNIQUE_LOGIN": 0.218455743879472
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Costa Rica",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5340.0,
+                "POPULATION": 4516220.0,
+                "RATIO": 1.18240475441851,
+                "RATIO_UNIQUE_LOGIN": 0.52477514381496
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Croatia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5795.0,
+                "POPULATION": 4491000.0,
+                "RATIO": 1.29035849476731,
+                "RATIO_UNIQUE_LOGIN": 0.890670229347584
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cuba",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 850.0,
+                "POPULATION": 11423000.0,
+                "RATIO": 0.0744112754968047,
+                "RATIO_UNIQUE_LOGIN": 0.0402696314453296
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cyprus",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 538.0,
+                "POPULATION": 1102677.0,
+                "RATIO": 0.487903529320009,
+                "RATIO_UNIQUE_LOGIN": 0.435304264077331
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Czech Republic",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 25370.0,
+                "POPULATION": 10476000.0,
+                "RATIO": 2.4217258495609,
+                "RATIO_UNIQUE_LOGIN": 1.33734249713631
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Democratic Republic of the Congo",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 278.0,
+                "POPULATION": 70916439.0,
+                "RATIO": 0.00392010659192856,
+                "RATIO_UNIQUE_LOGIN": 0.0025381985127595
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Denmark",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 24939.0,
+                "POPULATION": 5484000.0,
+                "RATIO": 4.54759299781181,
+                "RATIO_UNIQUE_LOGIN": 2.68417213712618
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Dominican Republic",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 910.0,
+                "POPULATION": 9823821.0,
+                "RATIO": 0.0926319809776664,
+                "RATIO_UNIQUE_LOGIN": 0.0967037164052561
+            }
+        ]
+    },
+    {
+        "COUNTRY": "East Timor",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 27.0,
+                "POPULATION": 1154625.0,
+                "RATIO": 0.0233842156544332,
+                "RATIO_UNIQUE_LOGIN": 0.0173216412255061
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ecuador",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 2701.0,
+                "POPULATION": 14790608.0,
+                "RATIO": 0.182615887054812,
+                "RATIO_UNIQUE_LOGIN": 0.127783793607402
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Egypt",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 3997.0,
+                "POPULATION": 80471869.0,
+                "RATIO": 0.049669531100365,
+                "RATIO_UNIQUE_LOGIN": 0.0382742446307541
+            }
+        ]
+    },
+    {
+        "COUNTRY": "El Salvador",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 797.0,
+                "POPULATION": 6052064.0,
+                "RATIO": 0.131690610013377,
+                "RATIO_UNIQUE_LOGIN": 0.0958350737863975
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Estonia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 36515.0,
+                "POPULATION": 1291170.0,
+                "RATIO": 28.2805517476397,
+                "RATIO_UNIQUE_LOGIN": 2.1840656149074
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ethiopia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 257.0,
+                "POPULATION": 88013491.0,
+                "RATIO": 0.0029200068884894,
+                "RATIO_UNIQUE_LOGIN": 0.00295409257201262
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Fiji",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4.0,
+                "POPULATION": 875983.0,
+                "RATIO": 0.00456629866104707,
+                "RATIO_UNIQUE_LOGIN": 0.0114157466526176
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Finland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 22097.0,
+                "POPULATION": 5244000.0,
+                "RATIO": 4.21376811594202,
+                "RATIO_UNIQUE_LOGIN": 2.6926010678871
+            }
+        ]
+    },
+    {
+        "COUNTRY": "France",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 151529.0,
+                "POPULATION": 64768389.0,
+                "RATIO": 2.33955178350969,
+                "RATIO_UNIQUE_LOGIN": 1.21231979384264
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gabon",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 103.0,
+                "POPULATION": 1545255.0,
+                "RATIO": 0.0666556652461891,
+                "RATIO_UNIQUE_LOGIN": 0.0647142381030962
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gambia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 6.0,
+                "POPULATION": 1593256.0,
+                "RATIO": 0.00376587315534979,
+                "RATIO_UNIQUE_LOGIN": 0.0125529105178326
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Georgia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 906.0,
+                "POPULATION": 4630000.0,
+                "RATIO": 0.195680345572354,
+                "RATIO_UNIQUE_LOGIN": 0.11231101511879
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Germany",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 319787.0,
+                "POPULATION": 81802257.0,
+                "RATIO": 3.90926866479979,
+                "RATIO_UNIQUE_LOGIN": 1.43883560572173
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ghana",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 582.0,
+                "POPULATION": 24339838.0,
+                "RATIO": 0.0239114163372821,
+                "RATIO_UNIQUE_LOGIN": 0.0217750011318892
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Greece",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 30541.0,
+                "POPULATION": 11000000.0,
+                "RATIO": 2.77645454545454,
+                "RATIO_UNIQUE_LOGIN": 0.491818181818181
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guatemala",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1449.0,
+                "POPULATION": 13550440.0,
+                "RATIO": 0.106933796983714,
+                "RATIO_UNIQUE_LOGIN": 0.0988897777489144
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guinea",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 16.0,
+                "POPULATION": 10324025.0,
+                "RATIO": 0.0015497831514356,
+                "RATIO_UNIQUE_LOGIN": 0.000968614469647254
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guyana",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4.0,
+                "POPULATION": 748486.0,
+                "RATIO": 0.00534412133293074,
+                "RATIO_UNIQUE_LOGIN": 0.0267206066646537
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Haiti",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 83.0,
+                "POPULATION": 9648924.0,
+                "RATIO": 0.00860199541420369,
+                "RATIO_UNIQUE_LOGIN": 0.00829107991730476
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Honduras",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 494.0,
+                "POPULATION": 7989415.0,
+                "RATIO": 0.0618318112152141,
+                "RATIO_UNIQUE_LOGIN": 0.0550728682888546
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hong Kong",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 12.0,
+                "POPULATION": 6898686.0,
+                "RATIO": 0.00173946168879116,
+                "RATIO_UNIQUE_LOGIN": 0.00144955140732597
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hungary",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 428786.0,
+                "POPULATION": 9982000.0,
+                "RATIO": 42.9559206571829,
+                "RATIO_UNIQUE_LOGIN": 0.78040472851132
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iceland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1645.0,
+                "POPULATION": 308910.0,
+                "RATIO": 5.32517561749376,
+                "RATIO_UNIQUE_LOGIN": 4.82341134958402
+            }
+        ]
+    },
+    {
+        "COUNTRY": "India",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 109823.0,
+                "POPULATION": 1173108018.0,
+                "RATIO": 0.0936171250344314,
+                "RATIO_UNIQUE_LOGIN": 0.0709568076620204
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Indonesia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 17116.0,
+                "POPULATION": 242968342.0,
+                "RATIO": 0.070445391605792,
+                "RATIO_UNIQUE_LOGIN": 0.0509531402243342
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iran",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5271.0,
+                "POPULATION": 76923300.0,
+                "RATIO": 0.0685228012838762,
+                "RATIO_UNIQUE_LOGIN": 0.0527798469384438
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iraq",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 192.0,
+                "POPULATION": 29671605.0,
+                "RATIO": 0.00647083297314048,
+                "RATIO_UNIQUE_LOGIN": 0.0064034284630036
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ireland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 14956.0,
+                "POPULATION": 4622917.0,
+                "RATIO": 3.23518678790901,
+                "RATIO_UNIQUE_LOGIN": 2.18260461955081
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Israel",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 14189.0,
+                "POPULATION": 7353985.0,
+                "RATIO": 1.92943009810327,
+                "RATIO_UNIQUE_LOGIN": 1.10688286690821
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Italy",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 46350.0,
+                "POPULATION": 60340328.0,
+                "RATIO": 0.768142990538599,
+                "RATIO_UNIQUE_LOGIN": 0.449119202666581
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ivory Coast",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 174.0,
+                "POPULATION": 21058798.0,
+                "RATIO": 0.00826257984904931,
+                "RATIO_UNIQUE_LOGIN": 0.00617319184124374
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jamaica",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 673.0,
+                "POPULATION": 2847232.0,
+                "RATIO": 0.236369919978421,
+                "RATIO_UNIQUE_LOGIN": 0.112389857939219
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Japan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 108934.0,
+                "POPULATION": 127288000.0,
+                "RATIO": 0.855807303123625,
+                "RATIO_UNIQUE_LOGIN": 0.445289422412167
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jordan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 9543.0,
+                "POPULATION": 6407085.0,
+                "RATIO": 1.48944488796387,
+                "RATIO_UNIQUE_LOGIN": 0.0827209253506079
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kazakhstan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1700.0,
+                "POPULATION": 15340000.0,
+                "RATIO": 0.110821382007822,
+                "RATIO_UNIQUE_LOGIN": 0.0710560625814863
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kenya",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 3974.0,
+                "POPULATION": 40046566.0,
+                "RATIO": 0.0992344761845497,
+                "RATIO_UNIQUE_LOGIN": 0.0699186042568543
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kuwait",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 129.0,
+                "POPULATION": 2789132.0,
+                "RATIO": 0.0462509483237078,
+                "RATIO_UNIQUE_LOGIN": 0.0501948276381325
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kyrgyzstan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 590.0,
+                "POPULATION": 5508626.0,
+                "RATIO": 0.107104748080555,
+                "RATIO_UNIQUE_LOGIN": 0.0744287232424201
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Laos",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 316.0,
+                "POPULATION": 6368162.0,
+                "RATIO": 0.049621853212905,
+                "RATIO_UNIQUE_LOGIN": 0.0345468598317693
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Latvia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5216.0,
+                "POPULATION": 2217969.0,
+                "RATIO": 2.35170103820206,
+                "RATIO_UNIQUE_LOGIN": 0.987389814735913
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lebanon",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 584.0,
+                "POPULATION": 4125247.0,
+                "RATIO": 0.141567280698586,
+                "RATIO_UNIQUE_LOGIN": 0.118780766339567
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lesotho",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 30.0,
+                "POPULATION": 1919552.0,
+                "RATIO": 0.0156286466842263,
+                "RATIO_UNIQUE_LOGIN": 0.0052095488947421
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Liberia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 117.0,
+                "POPULATION": 3685076.0,
+                "RATIO": 0.0317496844027097,
+                "RATIO_UNIQUE_LOGIN": 0.0515593165514089
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Libya",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 145.0,
+                "POPULATION": 6461454.0,
+                "RATIO": 0.0224407695233921,
+                "RATIO_UNIQUE_LOGIN": 0.0123811142198025
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lithuania",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4209.0,
+                "POPULATION": 2944459.0,
+                "RATIO": 1.42946463170314,
+                "RATIO_UNIQUE_LOGIN": 1.01207046863277
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Luxembourg",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 2693.0,
+                "POPULATION": 497538.0,
+                "RATIO": 5.41265189794548,
+                "RATIO_UNIQUE_LOGIN": 2.23098537197158
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Macedonia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 795.0,
+                "POPULATION": 2062294.0,
+                "RATIO": 0.385493048032918,
+                "RATIO_UNIQUE_LOGIN": 0.353974748508214
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Madagascar",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 100.0,
+                "POPULATION": 21281844.0,
+                "RATIO": 0.00469884094630145,
+                "RATIO_UNIQUE_LOGIN": 0.0051687250409316
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malawi",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 156.0,
+                "POPULATION": 15447500.0,
+                "RATIO": 0.0100987214759669,
+                "RATIO_UNIQUE_LOGIN": 0.0045314775853698
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malaysia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 7006.0,
+                "POPULATION": 28274729.0,
+                "RATIO": 0.247783099883998,
+                "RATIO_UNIQUE_LOGIN": 0.121663411875671
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Maldives",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 108.0,
+                "POPULATION": 395650.0,
+                "RATIO": 0.272968532794136,
+                "RATIO_UNIQUE_LOGIN": 0.303298369771262
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mali",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 17.0,
+                "POPULATION": 13796354.0,
+                "RATIO": 0.00123220961132194,
+                "RATIO_UNIQUE_LOGIN": 0.00289931673252223
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malta",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 91.0,
+                "POPULATION": 403000.0,
+                "RATIO": 0.225806451612903,
+                "RATIO_UNIQUE_LOGIN": 0.248138957816377
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritania",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 60.0,
+                "POPULATION": 3205060.0,
+                "RATIO": 0.0187203983700773,
+                "RATIO_UNIQUE_LOGIN": 0.00936019918503865
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritius",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 104.0,
+                "POPULATION": 1294104.0,
+                "RATIO": 0.0803644838436478,
+                "RATIO_UNIQUE_LOGIN": 0.146819730098971
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mexico",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 27956.0,
+                "POPULATION": 112468855.0,
+                "RATIO": 0.248566592057863,
+                "RATIO_UNIQUE_LOGIN": 0.136571142295349
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Moldova",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1330.0,
+                "POPULATION": 4324000.0,
+                "RATIO": 0.307585568917668,
+                "RATIO_UNIQUE_LOGIN": 0.217391304347826
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mongolia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 133.0,
+                "POPULATION": 3086918.0,
+                "RATIO": 0.0430850446950647,
+                "RATIO_UNIQUE_LOGIN": 0.0550711097606091
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Montenegro",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 207.0,
+                "POPULATION": 666730.0,
+                "RATIO": 0.310470505301996,
+                "RATIO_UNIQUE_LOGIN": 0.299971502707242
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Morocco",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1049.0,
+                "POPULATION": 31627428.0,
+                "RATIO": 0.0331674140559263,
+                "RATIO_UNIQUE_LOGIN": 0.026559225745451
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mozambique",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 227.0,
+                "POPULATION": 22061451.0,
+                "RATIO": 0.0102894410707618,
+                "RATIO_UNIQUE_LOGIN": 0.00815902816183758
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Myanmar",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 338.0,
+                "POPULATION": 53414374.0,
+                "RATIO": 0.00632788470009963,
+                "RATIO_UNIQUE_LOGIN": 0.00805026751787824
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Namibia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 748.0,
+                "POPULATION": 2128471.0,
+                "RATIO": 0.351425976675275,
+                "RATIO_UNIQUE_LOGIN": 0.0469820824432186
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nepal",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 2626.0,
+                "POPULATION": 28951852.0,
+                "RATIO": 0.0907023150021629,
+                "RATIO_UNIQUE_LOGIN": 0.0818600481931173
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Netherlands",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 75198.0,
+                "POPULATION": 16645000.0,
+                "RATIO": 4.5177530790027,
+                "RATIO_UNIQUE_LOGIN": 2.56954040252328
+            }
+        ]
+    },
+    {
+        "COUNTRY": "New Zealand",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 24077.0,
+                "POPULATION": 4252277.0,
+                "RATIO": 5.66214289426582,
+                "RATIO_UNIQUE_LOGIN": 3.22180328327623
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nicaragua",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 396.0,
+                "POPULATION": 5995928.0,
+                "RATIO": 0.066044822419482,
+                "RATIO_UNIQUE_LOGIN": 0.0667119418378606
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Niger",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 13.0,
+                "POPULATION": 15878271.0,
+                "RATIO": 0.000818728940953331,
+                "RATIO_UNIQUE_LOGIN": 0.00125958298608204
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nigeria",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 2867.0,
+                "POPULATION": 154000000.0,
+                "RATIO": 0.0186168831168831,
+                "RATIO_UNIQUE_LOGIN": 0.0127922077922077
+            }
+        ]
+    },
+    {
+        "COUNTRY": "North Korea",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 212.0,
+                "POPULATION": 22912177.0,
+                "RATIO": 0.00925272181687493,
+                "RATIO_UNIQUE_LOGIN": 0.00523738970766505
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Norway",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 29659.0,
+                "POPULATION": 5009150.0,
+                "RATIO": 5.92096463471846,
+                "RATIO_UNIQUE_LOGIN": 3.01248714851821
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Oman",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 42.0,
+                "POPULATION": 2967717.0,
+                "RATIO": 0.014152292823069,
+                "RATIO_UNIQUE_LOGIN": 0.023587154705115
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Pakistan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4003.0,
+                "POPULATION": 184404791.0,
+                "RATIO": 0.0217076789507057,
+                "RATIO_UNIQUE_LOGIN": 0.0208237539771946
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Palestinian Territory",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 389.0,
+                "POPULATION": 3800000.0,
+                "RATIO": 0.102368421052631,
+                "RATIO_UNIQUE_LOGIN": 0.0789473684210526
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Panama",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 778.0,
+                "POPULATION": 3410676.0,
+                "RATIO": 0.228107272575876,
+                "RATIO_UNIQUE_LOGIN": 0.170054264902324
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Papua New Guinea",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1.0,
+                "POPULATION": 6064515.0,
+                "RATIO": 0.000164893647719562,
+                "RATIO_UNIQUE_LOGIN": 0.00164893647719562
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Paraguay",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 772.0,
+                "POPULATION": 6375830.0,
+                "RATIO": 0.121082274778342,
+                "RATIO_UNIQUE_LOGIN": 0.0941053949054476
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Peru",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 3563.0,
+                "POPULATION": 29907003.0,
+                "RATIO": 0.119135976279535,
+                "RATIO_UNIQUE_LOGIN": 0.114688857322146
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Philippines",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 11640.0,
+                "POPULATION": 99900177.0,
+                "RATIO": 0.116516310076207,
+                "RATIO_UNIQUE_LOGIN": 0.071571444763306
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Poland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 44280.0,
+                "POPULATION": 38500000.0,
+                "RATIO": 1.15012987012987,
+                "RATIO_UNIQUE_LOGIN": 0.793246753246753
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Portugal",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 15709.0,
+                "POPULATION": 10676000.0,
+                "RATIO": 1.47143124765829,
+                "RATIO_UNIQUE_LOGIN": 0.857999250655676
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Qatar",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 117.0,
+                "POPULATION": 840926.0,
+                "RATIO": 0.139132337447052,
+                "RATIO_UNIQUE_LOGIN": 0.225941402691794
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Republic of the Congo",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 20.0,
+                "POPULATION": 3039126.0,
+                "RATIO": 0.00658083935973697,
+                "RATIO_UNIQUE_LOGIN": 0.00987125903960546
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Romania",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 13462.0,
+                "POPULATION": 21959278.0,
+                "RATIO": 0.613043835047764,
+                "RATIO_UNIQUE_LOGIN": 0.399830996264995
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Russia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 101331.0,
+                "POPULATION": 140702000.0,
+                "RATIO": 0.720181660530767,
+                "RATIO_UNIQUE_LOGIN": 0.454151326917883
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Rwanda",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 214.0,
+                "POPULATION": 11055976.0,
+                "RATIO": 0.0193560478061819,
+                "RATIO_UNIQUE_LOGIN": 0.00633141750669502
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saudi Arabia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 741.0,
+                "POPULATION": 25731776.0,
+                "RATIO": 0.0287970795331033,
+                "RATIO_UNIQUE_LOGIN": 0.0209857259755409
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Senegal",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 458.0,
+                "POPULATION": 12323252.0,
+                "RATIO": 0.0371655144275228,
+                "RATIO_UNIQUE_LOGIN": 0.0219098010817274
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Serbia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4817.0,
+                "POPULATION": 7344847.0,
+                "RATIO": 0.65583394725581,
+                "RATIO_UNIQUE_LOGIN": 0.486055053291103
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sierra Leone",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 135.0,
+                "POPULATION": 5245695.0,
+                "RATIO": 0.0257353887330468,
+                "RATIO_UNIQUE_LOGIN": 0.0114379505480208
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovakia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4938.0,
+                "POPULATION": 5455000.0,
+                "RATIO": 0.905224564619615,
+                "RATIO_UNIQUE_LOGIN": 0.584784601283226
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovenia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 4331.0,
+                "POPULATION": 2007000.0,
+                "RATIO": 2.15794718485301,
+                "RATIO_UNIQUE_LOGIN": 1.2954658694569
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Solomon Islands",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 7.0,
+                "POPULATION": 559198.0,
+                "RATIO": 0.0125179274603986,
+                "RATIO_UNIQUE_LOGIN": 0.0357655070297104
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Somalia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 20.0,
+                "POPULATION": 10112453.0,
+                "RATIO": 0.00197775950108247,
+                "RATIO_UNIQUE_LOGIN": 0.00296663925162371
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Africa",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 12318.0,
+                "POPULATION": 49000000.0,
+                "RATIO": 0.25138775510204,
+                "RATIO_UNIQUE_LOGIN": 0.168163265306122
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Korea",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 24823.0,
+                "POPULATION": 48422644.0,
+                "RATIO": 0.512632065279211,
+                "RATIO_UNIQUE_LOGIN": 0.258350204916526
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Sudan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 92.0,
+                "POPULATION": 8260490.0,
+                "RATIO": 0.0111373538373631,
+                "RATIO_UNIQUE_LOGIN": 0.00242116387768764
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Spain",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 60553.0,
+                "POPULATION": 46505963.0,
+                "RATIO": 1.30204808359736,
+                "RATIO_UNIQUE_LOGIN": 0.743990614708913
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sri Lanka",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5241.0,
+                "POPULATION": 21513990.0,
+                "RATIO": 0.243608926098785,
+                "RATIO_UNIQUE_LOGIN": 0.146881168950994
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sudan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 75.0,
+                "POPULATION": 35000000.0,
+                "RATIO": 0.00214285714285714,
+                "RATIO_UNIQUE_LOGIN": 0.00285714285714285
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Suriname",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 57.0,
+                "POPULATION": 492829.0,
+                "RATIO": 0.115658778196899,
+                "RATIO_UNIQUE_LOGIN": 0.0405820274375087
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Swaziland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 254.0,
+                "POPULATION": 1354051.0,
+                "RATIO": 0.187585253435801,
+                "RATIO_UNIQUE_LOGIN": 0.162475416361717
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sweden",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 51584.0,
+                "POPULATION": 9555893.0,
+                "RATIO": 5.39813495190873,
+                "RATIO_UNIQUE_LOGIN": 3.15407466366565
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Switzerland",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 53652.0,
+                "POPULATION": 7581000.0,
+                "RATIO": 7.0771666007123,
+                "RATIO_UNIQUE_LOGIN": 3.06292045904234
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Syria",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 408.0,
+                "POPULATION": 22198110.0,
+                "RATIO": 0.0183799431573228,
+                "RATIO_UNIQUE_LOGIN": 0.0090097760575112
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Taiwan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 35856.0,
+                "POPULATION": 22894384.0,
+                "RATIO": 1.56614827461616,
+                "RATIO_UNIQUE_LOGIN": 0.79713872188044
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tajikistan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 32.0,
+                "POPULATION": 7487489.0,
+                "RATIO": 0.00427379592811421,
+                "RATIO_UNIQUE_LOGIN": 0.00934892859274985
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tanzania",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 757.0,
+                "POPULATION": 41892895.0,
+                "RATIO": 0.0180698898942171,
+                "RATIO_UNIQUE_LOGIN": 0.0071611188484348
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Thailand",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 8678.0,
+                "POPULATION": 67089500.0,
+                "RATIO": 0.129349600160979,
+                "RATIO_UNIQUE_LOGIN": 0.0825762600705028
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Togo",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 15.0,
+                "POPULATION": 6587239.0,
+                "RATIO": 0.00227713006921412,
+                "RATIO_UNIQUE_LOGIN": 0.00607234685123767
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Trinidad and Tobago",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 326.0,
+                "POPULATION": 1228691.0,
+                "RATIO": 0.265323014492659,
+                "RATIO_UNIQUE_LOGIN": 0.138358627189423
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tunisia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 988.0,
+                "POPULATION": 10589025.0,
+                "RATIO": 0.0933041521764279,
+                "RATIO_UNIQUE_LOGIN": 0.0963261490080531
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkey",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 16454.0,
+                "POPULATION": 77804122.0,
+                "RATIO": 0.211479797946951,
+                "RATIO_UNIQUE_LOGIN": 0.149863525225565
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkmenistan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 80.0,
+                "POPULATION": 4940916.0,
+                "RATIO": 0.0161913297048563,
+                "RATIO_UNIQUE_LOGIN": 0.0121434972786422
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uganda",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 527.0,
+                "POPULATION": 33398682.0,
+                "RATIO": 0.0157790657727152,
+                "RATIO_UNIQUE_LOGIN": 0.0116771074978347
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ukraine",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 51811.0,
+                "POPULATION": 45415596.0,
+                "RATIO": 1.14081955458649,
+                "RATIO_UNIQUE_LOGIN": 0.693594332660524
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Arab Emirates",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 3313.0,
+                "POPULATION": 4975593.0,
+                "RATIO": 0.665850281564428,
+                "RATIO_UNIQUE_LOGIN": 0.317550089004466
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Kingdom",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 304752.0,
+                "POPULATION": 62348447.0,
+                "RATIO": 4.88788437665496,
+                "RATIO_UNIQUE_LOGIN": 2.30334526215223
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United States",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 1709062.0,
+                "POPULATION": 310232863.0,
+                "RATIO": 5.50896505119768,
+                "RATIO_UNIQUE_LOGIN": 2.11786073740356
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uruguay",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 2475.0,
+                "POPULATION": 3477000.0,
+                "RATIO": 0.711820534943917,
+                "RATIO_UNIQUE_LOGIN": 0.589588725913143
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uzbekistan",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 251.0,
+                "POPULATION": 27865738.0,
+                "RATIO": 0.00900747721090322,
+                "RATIO_UNIQUE_LOGIN": 0.0104070453831152
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Venezuela",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 5851.0,
+                "POPULATION": 27223228.0,
+                "RATIO": 0.214926752991967,
+                "RATIO_UNIQUE_LOGIN": 0.153178014010682
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Vietnam",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 15855.0,
+                "POPULATION": 89571130.0,
+                "RATIO": 0.177010159411855,
+                "RATIO_UNIQUE_LOGIN": 0.105167814674214
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Yemen",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 116.0,
+                "POPULATION": 23495361.0,
+                "RATIO": 0.00493714482616376,
+                "RATIO_UNIQUE_LOGIN": 0.00383054339960982
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zambia",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 50.0,
+                "POPULATION": 13460305.0,
+                "RATIO": 0.00371462608016683,
+                "RATIO_UNIQUE_LOGIN": 0.00520047651223356
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zimbabwe",
+        "COUNTRY_DATA": [
+            {
+                "PUSHES": 263.0,
+                "POPULATION": 11651858.0,
+                "RATIO": 0.0225715074797513,
+                "RATIO_UNIQUE_LOGIN": 0.0145899478005996
+            }
+        ]
+    }
+]
