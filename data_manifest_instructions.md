@@ -14,7 +14,7 @@ To get data into the app, it needs to go through a few steps:
 
 First, we need to describe where we want the data from, and how to process it. That's where the `data_manifest.csv` comes in!
 
-Each row in the `data_manifest.csv` file will download data from a single url.
+Each row in the `data_manifest.csv` file will download data from a single url. Ideally, there should be one data file per row. This not only ensures that the GitHub action works more quickly (by only fetching a data file once), but also affords us full flexibility to slice and dice the ingested and processed data later on.
 
 Let's look at a few example rows:
 
@@ -22,7 +22,6 @@ Let's look at a few example rows:
 |----------------------------------	|--------	|--------------------------------------------------------------------------------------------	|---------------	|-----------------------	|------------------	|---------------	|
 | countries_ixp                    	| csv    	| https://www.pch.net/ixp/dir_data_csv                                                       	|               	|                       	|                  	|               	|
 | countries_mobile_connectivity    	| xlsx   	| https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx 	| 3             	| 3                     	|                  	|               	|
-| countries_mobile_connectivity_3G 	| xlsx   	| https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx 	| 3             	| 3                     	|                  	|               	|
 
 For example, `processed/countries_ixp.csv` will be downloaded from https://www.pch.net/ixp/dir_data_csv
 
