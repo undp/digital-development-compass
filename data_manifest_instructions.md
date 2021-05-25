@@ -23,7 +23,6 @@ Let's look at a few example rows:
 | countries_ixp                    	| csv    	| https://www.pch.net/ixp/dir_data_csv                                                       	|               	|                       	|                  	|               	|
 | countries_mobile_connectivity    	| xlsx   	| https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx 	| 3             	| 3                     	|                  	|               	|
 | countries_mobile_connectivity_3G 	| xlsx   	| https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx 	| 3             	| 3                     	|                  	|               	|
-| countries_mobile_connectivity_6G 	| xlsx   	| https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx 	| 3             	| 3                     	|                  	|               	|
 
 For example, `processed/countries_ixp.csv` will be downloaded from https://www.pch.net/ixp/dir_data_csv
 
