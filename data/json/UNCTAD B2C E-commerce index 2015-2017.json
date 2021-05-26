@@ -1,0 +1,3236 @@
+[
+    {
+        "ISO3": "AFG",
+        "COUNTRY": "Afghanistan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.1,
+                "2016": 17.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 130.0,
+                "2017": 132.0
+            }
+        ]
+    },
+    {
+        "ISO3": "AGO",
+        "COUNTRY": "Angola",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 21.1,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 113.0,
+                "2017": 113.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ALB",
+        "COUNTRY": "Albania",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 51.0,
+                "2016": 62.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 59.0,
+                "2017": 59.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ARE",
+        "COUNTRY": "United Arab Emirates",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 73.4,
+                "2016": 87.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 25.0,
+                "2017": 23.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ARG",
+        "COUNTRY": "Argentina",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 51.9,
+                "2016": 45.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 57.0,
+                "2017": 81.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ARM",
+        "COUNTRY": "Armenia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 36.6,
+                "2016": 47.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 87.0,
+                "2017": 78.0
+            }
+        ]
+    },
+    {
+        "ISO3": "AUS",
+        "COUNTRY": "Australia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 81.4,
+                "2016": 92.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 12.0,
+                "2017": 14.0
+            }
+        ]
+    },
+    {
+        "ISO3": "AUT",
+        "COUNTRY": "Austria",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 76.0,
+                "2016": 91.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 21.0,
+                "2017": 17.0
+            }
+        ]
+    },
+    {
+        "ISO3": "AZE",
+        "COUNTRY": "Azerbaijan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 50.5,
+                "2016": 58.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 60.0,
+                "2017": 68.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BDI",
+        "COUNTRY": "Burundi",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 10.6,
+                "2016": 10.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 135.0,
+                "2017": 140.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BEL",
+        "COUNTRY": "Belgium",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 76.0,
+                "2016": 88.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 22.0,
+                "2017": 22.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BEN",
+        "COUNTRY": "Benin",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 15.3,
+                "2016": 15.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 123.0,
+                "2017": 138.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BFA",
+        "COUNTRY": "Burkina Faso",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.9,
+                "2016": 18.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 125.0,
+                "2017": 128.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BGD",
+        "COUNTRY": "Bangladesh",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 16.7,
+                "2016": 35.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 121.0,
+                "2017": 103.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BGR",
+        "COUNTRY": "Bulgaria",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 56.4,
+                "2016": 66.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 50.0,
+                "2017": 50.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BHR",
+        "COUNTRY": "Bahrain",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 66.5,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 32.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "BIH",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 40.7,
+                "2016": 66.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 81.0,
+                "2017": 52.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BLR",
+        "COUNTRY": "Belarus",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 50.0,
+                "2016": 71.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 62.0,
+                "2017": 44.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BLZ",
+        "COUNTRY": "Belize",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 49.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 77.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BOL",
+        "COUNTRY": "Bolivia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 30.8,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 97.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "BRA",
+        "COUNTRY": "Brazil",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 56.2,
+                "2016": 62.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 51.0,
+                "2017": 62.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BTN",
+        "COUNTRY": "Bhutan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 27.8,
+                "2016": 36.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 104.0,
+                "2017": 100.0
+            }
+        ]
+    },
+    {
+        "ISO3": "BWA",
+        "COUNTRY": "Botswana",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 38.6,
+                "2016": 43.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 85.0,
+                "2017": 87.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CAN",
+        "COUNTRY": "Canada",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 86.3,
+                "2016": 92.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 4.0,
+                "2017": 15.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CHE",
+        "COUNTRY": "Switzerland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 83.3,
+                "2016": 96.43,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 9.0,
+                "2017": 2.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CHL",
+        "COUNTRY": "Chile",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 60.3,
+                "2016": 64.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 43.0,
+                "2017": 54.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CHN",
+        "COUNTRY": "China",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 49.1,
+                "2016": 60.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 64.0,
+                "2017": 65.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CIV",
+        "COUNTRY": "Cote d'Ivoire",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 15.4,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 122.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "CMR",
+        "COUNTRY": "Cameroon",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 20.0,
+                "2016": 35.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 116.0,
+                "2017": 107.0
+            }
+        ]
+    },
+    {
+        "ISO3": "COG",
+        "COUNTRY": "Congo, Rep.",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 16.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 135.0
+            }
+        ]
+    },
+    {
+        "ISO3": "COL",
+        "COUNTRY": "Colombia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 44.6,
+                "2016": 55.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 72.0,
+                "2017": 71.0
+            }
+        ]
+    },
+    {
+        "ISO3": "COM",
+        "COUNTRY": "Comoros",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 8.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 141.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CRI",
+        "COUNTRY": "Costa Rica",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 52.4,
+                "2016": 62.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 55.0,
+                "2017": 61.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CYP",
+        "COUNTRY": "Cyprus",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 64.8,
+                "2016": 86.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 36.0,
+                "2017": 27.0
+            }
+        ]
+    },
+    {
+        "ISO3": "CZE",
+        "COUNTRY": "Czech Republic",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 71.7,
+                "2016": 84.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 29.0,
+                "2017": 29.0
+            }
+        ]
+    },
+    {
+        "ISO3": "DEU",
+        "COUNTRY": "Germany",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 78.0,
+                "2016": 93.5,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 17.0,
+                "2017": 9.0
+            }
+        ]
+    },
+    {
+        "ISO3": "DJI",
+        "COUNTRY": "Djibouti",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 18.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 129.0
+            }
+        ]
+    },
+    {
+        "ISO3": "DNK",
+        "COUNTRY": "Denmark",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 78.7,
+                "2016": 93.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 16.0,
+                "2017": 13.0
+            }
+        ]
+    },
+    {
+        "ISO3": "DOM",
+        "COUNTRY": "Dominican Republic",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 39.9,
+                "2016": 42.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 83.0,
+                "2017": 88.0
+            }
+        ]
+    },
+    {
+        "ISO3": "DZA",
+        "COUNTRY": "Algeria",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 32.3,
+                "2016": 38.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 95.0,
+                "2017": 97.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ECU",
+        "COUNTRY": "Ecuador",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 45.0,
+                "2016": 41.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 71.0,
+                "2017": 91.0
+            }
+        ]
+    },
+    {
+        "ISO3": "EGY",
+        "COUNTRY": "Egypt, Arab Rep.",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 39.9,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 82.0,
+                "2017": 116.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ESP",
+        "COUNTRY": "Spain",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 75.0,
+                "2016": 80.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 24.0,
+                "2017": 33.0
+            }
+        ]
+    },
+    {
+        "ISO3": "EST",
+        "COUNTRY": "Estonia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 72.3,
+                "2016": 90.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 27.0,
+                "2017": 21.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ETH",
+        "COUNTRY": "Ethiopia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 21.2,
+                "2016": 16.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 112.0,
+                "2017": 133.0
+            }
+        ]
+    },
+    {
+        "ISO3": "FIN",
+        "COUNTRY": "Finland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 84.3,
+                "2016": 93.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 6.0,
+                "2017": 12.0
+            }
+        ]
+    },
+    {
+        "ISO3": "FRA",
+        "COUNTRY": "France",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 76.2,
+                "2016": 90.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 19.0,
+                "2017": 20.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GAB",
+        "COUNTRY": "Gabon",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 32.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 110.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GBR",
+        "COUNTRY": "United Kingdom",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 83.7,
+                "2016": 95.1,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 8.0,
+                "2017": 6.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GEO",
+        "COUNTRY": "Georgia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 39.2,
+                "2016": 57.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 84.0,
+                "2017": 70.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GHA",
+        "COUNTRY": "Ghana",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 30.5,
+                "2016": 35.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 99.0,
+                "2017": 105.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GIN",
+        "COUNTRY": "Guinea",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 7.9,
+                "2016": 7.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 136.0,
+                "2017": 142.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GRC",
+        "COUNTRY": "Greece",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 58.6,
+                "2016": 80.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 46.0,
+                "2017": 34.0
+            }
+        ]
+    },
+    {
+        "ISO3": "GTM",
+        "COUNTRY": "Guatemala",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 21.4,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 111.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "HKG",
+        "COUNTRY": "Hong Kong SAR, China",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 81.1,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 14.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "HND",
+        "COUNTRY": "Honduras",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 30.5,
+                "2016": 37.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 98.0,
+                "2017": 98.0
+            }
+        ]
+    },
+    {
+        "ISO3": "HRV",
+        "COUNTRY": "Croatia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 69.6,
+                "2016": 81.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 30.0,
+                "2017": 32.0
+            }
+        ]
+    },
+    {
+        "ISO3": "HTI",
+        "COUNTRY": "Haiti",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 16.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 134.0
+            }
+        ]
+    },
+    {
+        "ISO3": "HUN",
+        "COUNTRY": "Hungary",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 64.5,
+                "2016": 79.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 37.0,
+                "2017": 36.0
+            }
+        ]
+    },
+    {
+        "ISO3": "IDN",
+        "COUNTRY": "Indonesia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 33.0,
+                "2016": 36.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 93.0,
+                "2017": 101.0
+            }
+        ]
+    },
+    {
+        "ISO3": "IND",
+        "COUNTRY": "India",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 34.0,
+                "2016": 44.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 90.0,
+                "2017": 83.0
+            }
+        ]
+    },
+    {
+        "ISO3": "IRL",
+        "COUNTRY": "Ireland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 77.7,
+                "2016": 90.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 18.0,
+                "2017": 19.0
+            }
+        ]
+    },
+    {
+        "ISO3": "IRN",
+        "COUNTRY": "Iran, Islamic Rep.",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 42.6,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 77.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "IRQ",
+        "COUNTRY": "Iraq",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.3,
+                "2016": 14.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 127.0,
+                "2017": 139.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ISL",
+        "COUNTRY": "Iceland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 89.0,
+                "2016": 93.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 2.0,
+                "2017": 11.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ISR",
+        "COUNTRY": "Israel",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 76.1,
+                "2016": 81.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 20.0,
+                "2017": 31.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ITA",
+        "COUNTRY": "Italy",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 63.5,
+                "2016": 74.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 38.0,
+                "2017": 40.0
+            }
+        ]
+    },
+    {
+        "ISO3": "JAM",
+        "COUNTRY": "Jamaica",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 47.6,
+                "2016": 65.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 66.0,
+                "2017": 53.0
+            }
+        ]
+    },
+    {
+        "ISO3": "JOR",
+        "COUNTRY": "Jordan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 41.3,
+                "2016": 50.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 80.0,
+                "2017": 75.0
+            }
+        ]
+    },
+    {
+        "ISO3": "JPN",
+        "COUNTRY": "Japan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 86.1,
+                "2016": 93.6,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 5.0,
+                "2017": 8.0
+            }
+        ]
+    },
+    {
+        "ISO3": "KAZ",
+        "COUNTRY": "Kazakhstan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 36.5,
+                "2016": 66.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 88.0,
+                "2017": 51.0
+            }
+        ]
+    },
+    {
+        "ISO3": "KEN",
+        "COUNTRY": "Kenya",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 37.9,
+                "2016": 45.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 86.0,
+                "2017": 82.0
+            }
+        ]
+    },
+    {
+        "ISO3": "KGZ",
+        "COUNTRY": "Kyrgyz Republic",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 23.8,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 109.0,
+                "2017": 117.0
+            }
+        ]
+    },
+    {
+        "ISO3": "KHM",
+        "COUNTRY": "Cambodia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 19.5,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 119.0,
+                "2017": 115.0
+            }
+        ]
+    },
+    {
+        "ISO3": "KOR",
+        "COUNTRY": "Korea, Rep.",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 84.3,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 7.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "KWT",
+        "COUNTRY": "Kuwait",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 61.9,
+                "2016": 63.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 40.0,
+                "2017": 57.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LAO",
+        "COUNTRY": "Lao PDR",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 20.3,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 115.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "LBN",
+        "COUNTRY": "Lebanon",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 57.4,
+                "2016": 63.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 48.0,
+                "2017": 56.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LBR",
+        "COUNTRY": "Liberia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 15.1,
+                "2016": 18.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 124.0,
+                "2017": 130.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LKA",
+        "COUNTRY": "Sri Lanka",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 33.2,
+                "2016": 52.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 92.0,
+                "2017": 73.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LSO",
+        "COUNTRY": "Lesotho",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.5,
+                "2016": 22.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 126.0,
+                "2017": 125.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LTU",
+        "COUNTRY": "Lithuania",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 61.3,
+                "2016": 79.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 41.0,
+                "2017": 35.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LUX",
+        "COUNTRY": "Luxembourg",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 89.7,
+                "2016": 96.5,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 1.0,
+                "2017": 1.0
+            }
+        ]
+    },
+    {
+        "ISO3": "LVA",
+        "COUNTRY": "Latvia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 66.2,
+                "2016": 87.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 34.0,
+                "2017": 24.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MAR",
+        "COUNTRY": "Morocco",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 41.5,
+                "2016": 43.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 79.0,
+                "2017": 85.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MDA",
+        "COUNTRY": "Moldova",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 51.4,
+                "2016": 59.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 58.0,
+                "2017": 66.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MDG",
+        "COUNTRY": "Madagascar",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 11.7,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 134.0,
+                "2017": 118.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MEX",
+        "COUNTRY": "Mexico",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 49.1,
+                "2016": 42.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 63.0,
+                "2017": 90.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MKD",
+        "COUNTRY": "Macedonia, FYR",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 60.0,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 45.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "MLI",
+        "COUNTRY": "Mali",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 13.5,
+                "2016": 23.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 131.0,
+                "2017": 124.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MLT",
+        "COUNTRY": "Malta",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 66.3,
+                "2016": 85.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 33.0,
+                "2017": 28.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MMR",
+        "COUNTRY": "Myanmar",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 12.0,
+                "2016": 23.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 133.0,
+                "2017": 123.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MNE",
+        "COUNTRY": "Montenegro",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 41.5,
+                "2016": 57.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 78.0,
+                "2017": 69.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MNG",
+        "COUNTRY": "Mongolia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 29.8,
+                "2016": 64.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 101.0,
+                "2017": 55.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MRT",
+        "COUNTRY": "Mauritania",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 21.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 126.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MUS",
+        "COUNTRY": "Mauritius",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 45.9,
+                "2016": 76.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 70.0,
+                "2017": 39.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MWI",
+        "COUNTRY": "Malawi",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.2,
+                "2016": 17.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 129.0,
+                "2017": 131.0
+            }
+        ]
+    },
+    {
+        "ISO3": "MYS",
+        "COUNTRY": "Malaysia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 60.1,
+                "2016": 77.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 44.0,
+                "2017": 38.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NAM",
+        "COUNTRY": "Namibia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 42.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 89.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NER",
+        "COUNTRY": "Niger",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 6.5,
+                "2016": 3.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 137.0,
+                "2017": 144.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NGA",
+        "COUNTRY": "Nigeria",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 30.4,
+                "2016": 46.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 100.0,
+                "2017": 80.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NIC",
+        "COUNTRY": "Nicaragua",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 20.7,
+                "2016": 23.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 114.0,
+                "2017": 122.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NLD",
+        "COUNTRY": "Netherlands",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 79.5,
+                "2016": 95.9,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 15.0,
+                "2017": 4.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NOR",
+        "COUNTRY": "Norway",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 87.1,
+                "2016": 96.39,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 3.0,
+                "2017": 3.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NPL",
+        "COUNTRY": "Nepal",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 19.9,
+                "2016": 35.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 118.0,
+                "2017": 108.0
+            }
+        ]
+    },
+    {
+        "ISO3": "NZL",
+        "COUNTRY": "New Zealand",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 82.9,
+                "2016": 93.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 10.0,
+                "2017": 10.0
+            }
+        ]
+    },
+    {
+        "ISO3": "OMN",
+        "COUNTRY": "Oman",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 48.8,
+                "2016": 60.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 65.0,
+                "2017": 64.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PAK",
+        "COUNTRY": "Pakistan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 27.7,
+                "2016": 24.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 105.0,
+                "2017": 120.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PAN",
+        "COUNTRY": "Panama",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 47.2,
+                "2016": 43.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 68.0,
+                "2017": 84.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PER",
+        "COUNTRY": "Peru",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 43.1,
+                "2016": 41.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 76.0,
+                "2017": 94.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PHL",
+        "COUNTRY": "Philippines",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 35.7,
+                "2016": 40.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 89.0,
+                "2017": 96.0
+            }
+        ]
+    },
+    {
+        "ISO3": "POL",
+        "COUNTRY": "Poland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 65.2,
+                "2016": 78.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 35.0,
+                "2017": 37.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PRT",
+        "COUNTRY": "Portugal",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 60.4,
+                "2016": 68.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 42.0,
+                "2017": 48.0
+            }
+        ]
+    },
+    {
+        "ISO3": "PRY",
+        "COUNTRY": "Paraguay",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 43.8,
+                "2016": 41.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 74.0,
+                "2017": 93.0
+            }
+        ]
+    },
+    {
+        "ISO3": "QAT",
+        "COUNTRY": "Qatar",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 72.4,
+                "2016": 62.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 26.0,
+                "2017": 58.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ROU",
+        "COUNTRY": "Romania",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 55.0,
+                "2016": 69.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 53.0,
+                "2017": 45.0
+            }
+        ]
+    },
+    {
+        "ISO3": "RUS",
+        "COUNTRY": "Russian Federation",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 57.6,
+                "2016": 71.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 47.0,
+                "2017": 43.0
+            }
+        ]
+    },
+    {
+        "ISO3": "RWA",
+        "COUNTRY": "Rwanda",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 19.9,
+                "2016": 37.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 117.0,
+                "2017": 99.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SAU",
+        "COUNTRY": "Saudi Arabia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 52.2,
+                "2016": 69.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 56.0,
+                "2017": 46.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SDN",
+        "COUNTRY": "Sudan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 12.4,
+                "2016": 15.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 132.0,
+                "2017": 137.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SEN",
+        "COUNTRY": "Senegal",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 33.4,
+                "2016": 30.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 91.0,
+                "2017": 112.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SGP",
+        "COUNTRY": "Singapore",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 75.8,
+                "2016": 90.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 23.0,
+                "2017": 18.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SLE",
+        "COUNTRY": "Sierra Leone",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 14.3,
+                "2016": 16.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 128.0,
+                "2017": 136.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SLV",
+        "COUNTRY": "El Salvador",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 31.7,
+                "2016": 49.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 96.0,
+                "2017": 76.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SRB",
+        "COUNTRY": "Serbia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 55.9,
+                "2016": 73.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 52.0,
+                "2017": 41.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SVK",
+        "COUNTRY": "Slovak Republic",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 68.2,
+                "2016": 82.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 31.0,
+                "2017": 30.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SVN",
+        "COUNTRY": "Slovenia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 71.9,
+                "2016": 87.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 28.0,
+                "2017": 25.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SWE",
+        "COUNTRY": "Sweden",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 81.4,
+                "2016": 94.6,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 13.0,
+                "2017": 7.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SWZ",
+        "COUNTRY": "Swaziland",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 26.8,
+                "2016": 29.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 106.0,
+                "2017": 114.0
+            }
+        ]
+    },
+    {
+        "ISO3": "SYR",
+        "COUNTRY": "Syrian Arab Republic",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 21.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 127.0
+            }
+        ]
+    },
+    {
+        "ISO3": "TCD",
+        "COUNTRY": "Chad",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": NaN,
+                "2016": 6.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": NaN,
+                "2017": 143.0
+            }
+        ]
+    },
+    {
+        "ISO3": "TGO",
+        "COUNTRY": "Togo",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 18.4,
+                "2016": 32.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 120.0,
+                "2017": 111.0
+            }
+        ]
+    },
+    {
+        "ISO3": "THA",
+        "COUNTRY": "Thailand",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 47.2,
+                "2016": 68.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 69.0,
+                "2017": 49.0
+            }
+        ]
+    },
+    {
+        "ISO3": "TTO",
+        "COUNTRY": "Trinidad and Tobago",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 47.5,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 67.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "TUN",
+        "COUNTRY": "Tunisia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 44.5,
+                "2016": 47.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 73.0,
+                "2017": 79.0
+            }
+        ]
+    },
+    {
+        "ISO3": "TUR",
+        "COUNTRY": "Turkey",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 56.5,
+                "2016": 62.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 49.0,
+                "2017": 60.0
+            }
+        ]
+    },
+    {
+        "ISO3": "TZA",
+        "COUNTRY": "Tanzania",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 26.5,
+                "2016": 27.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 107.0,
+                "2017": 119.0
+            }
+        ]
+    },
+    {
+        "ISO3": "UGA",
+        "COUNTRY": "Uganda",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 29.7,
+                "2016": 43.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 102.0,
+                "2017": 86.0
+            }
+        ]
+    },
+    {
+        "ISO3": "UKR",
+        "COUNTRY": "Ukraine",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 54.6,
+                "2016": 60.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 54.0,
+                "2017": 63.0
+            }
+        ]
+    },
+    {
+        "ISO3": "URY",
+        "COUNTRY": "Uruguay",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 62.6,
+                "2016": 59.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 39.0,
+                "2017": 67.0
+            }
+        ]
+    },
+    {
+        "ISO3": "USA",
+        "COUNTRY": "United States",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 82.6,
+                "2016": 87.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 11.0,
+                "2017": 26.0
+            }
+        ]
+    },
+    {
+        "ISO3": "UZB",
+        "COUNTRY": "Uzbekistan",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 26.1,
+                "2016": 35.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 108.0,
+                "2017": 106.0
+            }
+        ]
+    },
+    {
+        "ISO3": "VEN",
+        "COUNTRY": "Venezuela, RB",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 32.8,
+                "2016": NaN,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 94.0,
+                "2017": NaN
+            }
+        ]
+    },
+    {
+        "ISO3": "VNM",
+        "COUNTRY": "Vietnam",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 43.1,
+                "2016": 50.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 75.0,
+                "2017": 74.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ZAF",
+        "COUNTRY": "South Africa",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 50.3,
+                "2016": 54.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 61.0,
+                "2017": 72.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ZMB",
+        "COUNTRY": "Zambia",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 22.8,
+                "2016": 24.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 110.0,
+                "2017": 121.0
+            }
+        ]
+    },
+    {
+        "ISO3": "ZWE",
+        "COUNTRY": "Zimbabwe",
+        "SUBSET_DATA ": [
+            {
+                "INDICATOR_ID": "24717",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Value",
+                "2015": 28.7,
+                "2016": 33.0,
+                "2017": NaN
+            },
+            {
+                "INDICATOR_ID": "24718",
+                "INDICATOR": "Country rank and value in the UNCTAD B2C E-commerce Index",
+                "SUBINDICATOR_TYPE": "Rank",
+                "2015": NaN,
+                "2016": 103.0,
+                "2017": 109.0
+            }
+        ]
+    }
+]
