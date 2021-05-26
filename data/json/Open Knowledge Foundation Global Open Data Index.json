@@ -1,0 +1,1224 @@
+[
+    {
+        "ID": "af",
+        "COUNTRY": "Afghanistan",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "afghanistan",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "84",
+                "SCORE": "12"
+            }
+        ]
+    },
+    {
+        "ID": "ag",
+        "COUNTRY": "Antigua and Barbuda",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "Antigua_Barbuda",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "90",
+                "SCORE": "5"
+            }
+        ]
+    },
+    {
+        "ID": "al",
+        "COUNTRY": "Albania",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "albania",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "47",
+                "SCORE": "36"
+            }
+        ]
+    },
+    {
+        "ID": "ar",
+        "COUNTRY": "Argentina",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "argentina",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "17",
+                "SCORE": "60"
+            }
+        ]
+    },
+    {
+        "ID": "at",
+        "COUNTRY": "Austria",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "austria",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "28",
+                "SCORE": "49"
+            }
+        ]
+    },
+    {
+        "ID": "au",
+        "COUNTRY": "Australia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "australia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "2",
+                "SCORE": "79"
+            }
+        ]
+    },
+    {
+        "ID": "ba",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bosnia_and_herzegovina",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "58",
+                "SCORE": "26"
+            }
+        ]
+    },
+    {
+        "ID": "bb",
+        "COUNTRY": "Barbados",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "barbados",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "92",
+                "SCORE": "4"
+            }
+        ]
+    },
+    {
+        "ID": "bd",
+        "COUNTRY": "Bangladesh",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bangladesh",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "61",
+                "SCORE": "25"
+            }
+        ]
+    },
+    {
+        "ID": "be",
+        "COUNTRY": "Belgium",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "belgium",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "22",
+                "SCORE": "52"
+            }
+        ]
+    },
+    {
+        "ID": "bg",
+        "COUNTRY": "Bulgaria",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bulgaria",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "36",
+                "SCORE": "45"
+            }
+        ]
+    },
+    {
+        "ID": "bo",
+        "COUNTRY": "Bolivia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bolivia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "53",
+                "SCORE": "30"
+            }
+        ]
+    },
+    {
+        "ID": "br",
+        "COUNTRY": "Brazil",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "brazil",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "8",
+                "SCORE": "68"
+            }
+        ]
+    },
+    {
+        "ID": "bs",
+        "COUNTRY": "The Bahamas",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bahamas",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "74",
+                "SCORE": "17"
+            }
+        ]
+    },
+    {
+        "ID": "bt",
+        "COUNTRY": "Bhutan",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "bhutan",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "64",
+                "SCORE": "23"
+            }
+        ]
+    },
+    {
+        "ID": "bw",
+        "COUNTRY": "Botswana",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "botswana",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "88",
+                "SCORE": "9"
+            }
+        ]
+    },
+    {
+        "ID": "ca",
+        "COUNTRY": "Canada",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "canada",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "5",
+                "SCORE": "69"
+            }
+        ]
+    },
+    {
+        "ID": "ch",
+        "COUNTRY": "Switzerland",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "switzerland",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "47",
+                "SCORE": "36"
+            }
+        ]
+    },
+    {
+        "ID": "cl",
+        "COUNTRY": "Chile",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "chile",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "22",
+                "SCORE": "52"
+            }
+        ]
+    },
+    {
+        "ID": "cm",
+        "COUNTRY": "Cameroon",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "cameroon",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "86",
+                "SCORE": "11"
+            }
+        ]
+    },
+    {
+        "ID": "co",
+        "COUNTRY": "Colombia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "colombia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "14",
+                "SCORE": "64"
+            }
+        ]
+    },
+    {
+        "ID": "cr",
+        "COUNTRY": "Costa Rica",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "costa_rica",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "64",
+                "SCORE": "23"
+            }
+        ]
+    },
+    {
+        "ID": "cz",
+        "COUNTRY": "Czech Republic",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "czech_republic",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "27",
+                "SCORE": "50"
+            }
+        ]
+    },
+    {
+        "ID": "de",
+        "COUNTRY": "Germany",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "germany",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "24",
+                "SCORE": "51"
+            }
+        ]
+    },
+    {
+        "ID": "dk",
+        "COUNTRY": "Denmark",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "denmark",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "11",
+                "SCORE": "65"
+            }
+        ]
+    },
+    {
+        "ID": "do",
+        "COUNTRY": "Dominican Republic",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "dominican_republic",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "57",
+                "SCORE": "27"
+            }
+        ]
+    },
+    {
+        "ID": "fi",
+        "COUNTRY": "Finland",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "finland",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "5",
+                "SCORE": "69"
+            }
+        ]
+    },
+    {
+        "ID": "fr",
+        "COUNTRY": "France",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "france",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "4",
+                "SCORE": "70"
+            }
+        ]
+    },
+    {
+        "ID": "gb",
+        "COUNTRY": "Great Britain",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "united_kingdom",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "2",
+                "SCORE": "79"
+            }
+        ]
+    },
+    {
+        "ID": "gh",
+        "COUNTRY": "Ghana",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "ghana",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "76",
+                "SCORE": "16"
+            }
+        ]
+    },
+    {
+        "ID": "gr",
+        "COUNTRY": "Greece",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "greece",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "35",
+                "SCORE": "46"
+            }
+        ]
+    },
+    {
+        "ID": "gt",
+        "COUNTRY": "Guatemala",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "guatemala",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "56",
+                "SCORE": "28"
+            }
+        ]
+    },
+    {
+        "ID": "gy",
+        "COUNTRY": "Guyana",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "guyana",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "69",
+                "SCORE": "20"
+            }
+        ]
+    },
+    {
+        "ID": "hk",
+        "COUNTRY": "Hong Kong",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "hong_kong",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "24",
+                "SCORE": "51"
+            }
+        ]
+    },
+    {
+        "ID": "hr",
+        "COUNTRY": "Croatia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "croatia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "44",
+                "SCORE": "39"
+            }
+        ]
+    },
+    {
+        "ID": "ID",
+        "COUNTRY": "Indonesia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "indonesia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "61",
+                "SCORE": "25"
+            }
+        ]
+    },
+    {
+        "ID": "il",
+        "COUNTRY": "Israel",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "israel",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "41",
+                "SCORE": "41"
+            }
+        ]
+    },
+    {
+        "ID": "im",
+        "COUNTRY": "Isle of Man",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "isle_man",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "38",
+                "SCORE": "43"
+            }
+        ]
+    },
+    {
+        "ID": "in",
+        "COUNTRY": "India",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "india",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "32",
+                "SCORE": "47"
+            }
+        ]
+    },
+    {
+        "ID": "ir",
+        "COUNTRY": "Iran",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "iran",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "67",
+                "SCORE": "21"
+            }
+        ]
+    },
+    {
+        "ID": "it",
+        "COUNTRY": "Italy",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "italy",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "32",
+                "SCORE": "47"
+            }
+        ]
+    },
+    {
+        "ID": "jm",
+        "COUNTRY": "Jamaica",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "jamaica",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "58",
+                "SCORE": "26"
+            }
+        ]
+    },
+    {
+        "ID": "jp",
+        "COUNTRY": "Japan",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "japan",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "16",
+                "SCORE": "61"
+            }
+        ]
+    },
+    {
+        "ID": "ke",
+        "COUNTRY": "Kenya",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "kenya",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "78",
+                "SCORE": "15"
+            }
+        ]
+    },
+    {
+        "ID": "kh",
+        "COUNTRY": "Cambodia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "cambodia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "74",
+                "SCORE": "17"
+            }
+        ]
+    },
+    {
+        "ID": "kn",
+        "COUNTRY": "Saint Kitts and Nevis",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "saint_kitts_nevis",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "92",
+                "SCORE": "4"
+            }
+        ]
+    },
+    {
+        "ID": "ko",
+        "COUNTRY": "Kosovo",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "kosovo",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "58",
+                "SCORE": "26"
+            }
+        ]
+    },
+    {
+        "ID": "lc",
+        "COUNTRY": "Saint Lucia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "saint_lucia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "78",
+                "SCORE": "15"
+            }
+        ]
+    },
+    {
+        "ID": "ls",
+        "COUNTRY": "Lesotho",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "lesotho",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "76",
+                "SCORE": "16"
+            }
+        ]
+    },
+    {
+        "ID": "lv",
+        "COUNTRY": "Latvia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "latvia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "14",
+                "SCORE": "64"
+            }
+        ]
+    },
+    {
+        "ID": "me",
+        "COUNTRY": "Montenegro",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "montenegro",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "49",
+                "SCORE": "35"
+            }
+        ]
+    },
+    {
+        "ID": "mk",
+        "COUNTRY": "Macedonia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "macedonia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "52",
+                "SCORE": "31"
+            }
+        ]
+    },
+    {
+        "ID": "mm",
+        "COUNTRY": "Myanmar",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "myanmar",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "94",
+                "SCORE": "1"
+            }
+        ]
+    },
+    {
+        "ID": "mw",
+        "COUNTRY": "Malawi",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "malawi",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "90",
+                "SCORE": "5"
+            }
+        ]
+    },
+    {
+        "ID": "mx",
+        "COUNTRY": "Mexico",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "mexico",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "11",
+                "SCORE": "65"
+            }
+        ]
+    },
+    {
+        "ID": "my",
+        "COUNTRY": "Malaysia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "malaysia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "87",
+                "SCORE": "10"
+            }
+        ]
+    },
+    {
+        "ID": "mz",
+        "COUNTRY": "Mozambique",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "mozambique",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "84",
+                "SCORE": "12"
+            }
+        ]
+    },
+    {
+        "ID": "na",
+        "COUNTRY": "Namibia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "namibia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "78",
+                "SCORE": "15"
+            }
+        ]
+    },
+    {
+        "ID": "nir",
+        "COUNTRY": "Northern Ireland",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "northern_ireland",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "10",
+                "SCORE": "67"
+            }
+        ]
+    },
+    {
+        "ID": "nl",
+        "COUNTRY": "Netherlands",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "netherlands",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "20",
+                "SCORE": "54"
+            }
+        ]
+    },
+    {
+        "ID": "no",
+        "COUNTRY": "Norway",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "norway",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "5",
+                "SCORE": "69"
+            }
+        ]
+    },
+    {
+        "ID": "np",
+        "COUNTRY": "Nepal",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "nepal",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "69",
+                "SCORE": "20"
+            }
+        ]
+    },
+    {
+        "ID": "nz",
+        "COUNTRY": "New Zealand",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "new_zealand",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "8",
+                "SCORE": "68"
+            }
+        ]
+    },
+    {
+        "ID": "om",
+        "COUNTRY": "Oman",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "oman",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "81",
+                "SCORE": "14"
+            }
+        ]
+    },
+    {
+        "ID": "pa",
+        "COUNTRY": "Panama",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "panama",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "61",
+                "SCORE": "25"
+            }
+        ]
+    },
+    {
+        "ID": "pe",
+        "COUNTRY": "Peru",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "peru",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "55",
+                "SCORE": "29"
+            }
+        ]
+    },
+    {
+        "ID": "ph",
+        "COUNTRY": "Philippines",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "philippines",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "53",
+                "SCORE": "30"
+            }
+        ]
+    },
+    {
+        "ID": "pk",
+        "COUNTRY": "Pakistan",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "pakistan",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "72",
+                "SCORE": "19"
+            }
+        ]
+    },
+    {
+        "ID": "pl",
+        "COUNTRY": "Poland",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "poland",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "28",
+                "SCORE": "49"
+            }
+        ]
+    },
+    {
+        "ID": "pr",
+        "COUNTRY": "Puerto Rico",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "puerto_rico",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "38",
+                "SCORE": "43"
+            }
+        ]
+    },
+    {
+        "ID": "pt",
+        "COUNTRY": "Portugal",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "portugal",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "45",
+                "SCORE": "37"
+            }
+        ]
+    },
+    {
+        "ID": "py",
+        "COUNTRY": "Paraguay",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "paraguay",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "37",
+                "SCORE": "44"
+            }
+        ]
+    },
+    {
+        "ID": "ro",
+        "COUNTRY": "Romania",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "romania",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "24",
+                "SCORE": "51"
+            }
+        ]
+    },
+    {
+        "ID": "rs",
+        "COUNTRY": "Serbia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "serbia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "41",
+                "SCORE": "41"
+            }
+        ]
+    },
+    {
+        "ID": "ru",
+        "COUNTRY": "Russia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "russia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "38",
+                "SCORE": "43"
+            }
+        ]
+    },
+    {
+        "ID": "se",
+        "COUNTRY": "Sweden",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "sweden",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "21",
+                "SCORE": "53"
+            }
+        ]
+    },
+    {
+        "ID": "sg",
+        "COUNTRY": "Singapore",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "singapore",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "17",
+                "SCORE": "60"
+            }
+        ]
+    },
+    {
+        "ID": "si",
+        "COUNTRY": "Slovenia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "slovenia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "28",
+                "SCORE": "49"
+            }
+        ]
+    },
+    {
+        "ID": "sk",
+        "COUNTRY": "Slovakia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "slovakia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "32",
+                "SCORE": "47"
+            }
+        ]
+    },
+    {
+        "ID": "sv",
+        "COUNTRY": "El Salvador",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "el_salvador",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "49",
+                "SCORE": "35"
+            }
+        ]
+    },
+    {
+        "ID": "th",
+        "COUNTRY": "Thailand",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "thailand",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "51",
+                "SCORE": "34"
+            }
+        ]
+    },
+    {
+        "ID": "tn",
+        "COUNTRY": "Tunisia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "tunisia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "66",
+                "SCORE": "22"
+            }
+        ]
+    },
+    {
+        "ID": "tr",
+        "COUNTRY": "Turkey",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "turkey",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "45",
+                "SCORE": "37"
+            }
+        ]
+    },
+    {
+        "ID": "tt",
+        "COUNTRY": "TrinIDad and Tobago",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "trinIDad_tobago",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "67",
+                "SCORE": "21"
+            }
+        ]
+    },
+    {
+        "ID": "tw",
+        "COUNTRY": "Taiwan",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "taiwan",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "1",
+                "SCORE": "90"
+            }
+        ]
+    },
+    {
+        "ID": "tz",
+        "COUNTRY": "Tanzania",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "tanzania",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "69",
+                "SCORE": "20"
+            }
+        ]
+    },
+    {
+        "ID": "ua",
+        "COUNTRY": "Ukraine",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "ukraine",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "31",
+                "SCORE": "48"
+            }
+        ]
+    },
+    {
+        "ID": "us",
+        "COUNTRY": "United States",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "United_states",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "11",
+                "SCORE": "65"
+            }
+        ]
+    },
+    {
+        "ID": "uy",
+        "COUNTRY": "Uruguay",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "uruguay",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "19",
+                "SCORE": "55"
+            }
+        ]
+    },
+    {
+        "ID": "vc",
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "saint_vincent_grenadines",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "89",
+                "SCORE": "7"
+            }
+        ]
+    },
+    {
+        "ID": "ve",
+        "COUNTRY": "Venezuela",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "venezuela",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "81",
+                "SCORE": "14"
+            }
+        ]
+    },
+    {
+        "ID": "za",
+        "COUNTRY": "South Africa",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "south_africa",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "43",
+                "SCORE": "40"
+            }
+        ]
+    },
+    {
+        "ID": "zm",
+        "COUNTRY": "Zambia",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "zambia",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "72",
+                "SCORE": "19"
+            }
+        ]
+    },
+    {
+        "ID": "zw",
+        "COUNTRY": "Zimbabwe",
+        "COUNTRY_DATA ": [
+            {
+                "SLUG": "zimbabwe",
+                "REGION": NaN,
+                "CONTINENT": NaN,
+                "RANK": "83",
+                "SCORE": "13"
+            }
+        ]
+    }
+]
