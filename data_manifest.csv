@@ -1,3 +1,4 @@
-name,format,endpoint,"Excel sheet #",Excel sheet top row #,Country Column #,Year Column #
+name,format,endpoint,Excel sheet #,Excel sheet top row #,Country Column #,Year Column #
 countries_ixp,csv,https://www.pch.net/ixp/dir_data_csv,,,,
-countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,"3",3,,
+countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,,
+numger_key_internet_controls_employed,xlsx,https://freedomhouse.org/sites/default/files/2020-10/FOTN_2020_Key_Internet_Controls_Updated.xlsx,1,1,A,
