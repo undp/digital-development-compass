@@ -30,3 +30,10 @@ jobs:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/countries_mobile_connectivity.xlsx
            postprocess: ./process_xlsx.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://freedomhouse.org/sites/default/files/2020-10/FOTN_2020_Key_Internet_Controls_Updated.xlsx
+           downloaded_filename: data/numger_key_internet_controls_employed.xlsx
+           postprocess: ./process_xlsx.js
