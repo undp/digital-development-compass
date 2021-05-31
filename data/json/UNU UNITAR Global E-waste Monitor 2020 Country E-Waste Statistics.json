@@ -1,0 +1,2522 @@
+[
+    {
+        "COUNTRY": "Afghanistan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 23.013192216027,
+                "E_WASTE_GENERATED (kpi)": 0.630325724898027,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Albania",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 21.368767750258602,
+                "E_WASTE_GENERATED (kpi)": 7.4455636760483,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Questionnaires conducted by UNSD and OECD",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Algeria",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 308.62165290859303,
+                "E_WASTE_GENERATED (kpi)": 7.10667678883168,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Angola",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 125.07185164563201,
+                "E_WASTE_GENERATED (kpi)": 4.15134929785025,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Antigua and Barbuda",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1.17855809021697,
+                "E_WASTE_GENERATED (kpi)": 12.6726676367416,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Questionnaires conducted by UNSD and OECD",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Argentina",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 464.694008758813,
+                "E_WASTE_GENERATED (kpi)": 10.3146144179795,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 11.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2013.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Telecom Argentina",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Armenia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 17.421920740033098,
+                "E_WASTE_GENERATED (kpi)": 5.8247812571157,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Questionnaires conducted by UNSD and OECD",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Aruba",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.16430989515781,
+                "E_WASTE_GENERATED (kpi)": 19.3241954924805,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Australia",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 554.278510476198,
+                "E_WASTE_GENERATED (kpi)": 21.6786025686873,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 58.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Australian Ministry of Environment",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Austria",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 168.274537605804,
+                "E_WASTE_GENERATED (kpi)": 18.8016243134977,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 117.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Azerbaijan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 80.1025637609843,
+                "E_WASTE_GENERATED (kpi)": 7.96327306501485,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahamas",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.56263033737869,
+                "E_WASTE_GENERATED (kpi)": 17.2247515416764,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bahrain",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 24.048232104257,
+                "E_WASTE_GENERATED (kpi)": 15.9154414985156,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bangladesh",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 198.707155746973,
+                "E_WASTE_GENERATED (kpi)": 1.19282025948743,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Barbados",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3.64715754333279,
+                "E_WASTE_GENERATED (kpi)": 12.7078660046439,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belarus",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 87.7957013851822,
+                "E_WASTE_GENERATED (kpi)": 9.33004265517346,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 6.2,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "UNSD Questionnaire (UNSD 2019)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belgium",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 234.104346017213,
+                "E_WASTE_GENERATED (kpi)": 20.4101435062958,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 128.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Belize",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.37141391610767,
+                "E_WASTE_GENERATED (kpi)": 5.84092097563465,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Benin",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 9.44338809242471,
+                "E_WASTE_GENERATED (kpi)": 0.805612360725534,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bhutan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3.35353765272168,
+                "E_WASTE_GENERATED (kpi)": 4.04040681050805,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bolivia (Plurinational State of)",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 40.8374122188968,
+                "E_WASTE_GENERATED (kpi)": 3.57345224176556,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bosnia and Herzegovina",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 27.2931161973477,
+                "E_WASTE_GENERATED (kpi)": 7.79357972511357,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Questionnaires conducted by UNSD and OECD",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Botswana",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 18.8375829023215,
+                "E_WASTE_GENERATED (kpi)": 7.9216076124144,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brazil",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2142.59494239268,
+                "E_WASTE_GENERATED (kpi)": 10.2129974231148,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.14,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2012.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Reporte de Sustentabilidad Bienal 2011-2012",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Brunei Darussalam",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 8.678959907309611,
+                "E_WASTE_GENERATED (kpi)": 19.7249088802491,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Bulgaria",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 81.8386988679844,
+                "E_WASTE_GENERATED (kpi)": 11.7415636826377,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 54.5,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burkina Faso",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 12.7948395184227,
+                "E_WASTE_GENERATED (kpi)": 0.639869949911116,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Burundi",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 5.283346536363579,
+                "E_WASTE_GENERATED (kpi)": 0.458265811116626,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cabo Verde",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.7526683241157204,
+                "E_WASTE_GENERATED (kpi)": 4.92427249394582,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Questionnaires conducted by UNSD and OECD",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cambodia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 18.8630654680718,
+                "E_WASTE_GENERATED (kpi)": 1.14342398424391,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cameroon",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 26.3917426536633,
+                "E_WASTE_GENERATED (kpi)": 1.03472683500601,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.05,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Solidarite Technologique",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Canada",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 757.276232663216,
+                "E_WASTE_GENERATED (kpi)": 20.2128982427123,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 101.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Central African Republic",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.50310455246493,
+                "E_WASTE_GENERATED (kpi)": 0.483131548439477,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chad",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 10.484693619838799,
+                "E_WASTE_GENERATED (kpi)": 0.818988722062088,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Chile",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 186.09829408456,
+                "E_WASTE_GENERATED (kpi)": 9.93265873636636,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 5.5,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Ministry of Environment (Chile)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 10129.446724097199,
+                "E_WASTE_GENERATED (kpi)": 7.23444062085119,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 1546.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Ministry of Environment (China)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China, Hong Kong Special Administrative REGION",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 152.81365350553398,
+                "E_WASTE_GENERATED (kpi)": 20.2321797306414,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 55.8,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2013.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Hong Kong Environmental Protection Department",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "China, Macao Special Administrative REGION",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 12.1879457454138,
+                "E_WASTE_GENERATED (kpi)": 18.1368240259134,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Colombia",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 317.551614816982,
+                "E_WASTE_GENERATED (kpi)": 6.30287830608117,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 2.7,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2014.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Comoros",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.6410726936678629,
+                "E_WASTE_GENERATED (kpi)": 0.735175107417274,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Congo",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 18.273965338119602,
+                "E_WASTE_GENERATED (kpi)": 4.00043024039395,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Costa Rica",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 50.9208718830413,
+                "E_WASTE_GENERATED (kpi)": 10.0178776083103,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Croatia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 48.349993936663,
+                "E_WASTE_GENERATED (kpi)": 11.8883683148913,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 36.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Cyprus",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 14.6128148114082,
+                "E_WASTE_GENERATED (kpi)": 16.7963388636875,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 2.5,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Czech Republic",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 166.57024424319798,
+                "E_WASTE_GENERATED (kpi)": 15.705284201697,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 91.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "C\u00f4te d'Ivoire",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 29.9958565036524,
+                "E_WASTE_GENERATED (kpi)": 1.1416120458098,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Denmark",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 130.434473109879,
+                "E_WASTE_GENERATED (kpi)": 22.392184224872,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 70.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Djibouti",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1.11924379056461,
+                "E_WASTE_GENERATED (kpi)": 1.0382595459783,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Dominica",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.562810010931039,
+                "E_WASTE_GENERATED (kpi)": 7.926901562409,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Dominican Republic",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 66.865590552604,
+                "E_WASTE_GENERATED (kpi)": 6.44549745060768,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ecuador",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 99.1399132510504,
+                "E_WASTE_GENERATED (kpi)": 5.74125047782316,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.005,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "UNSD Questionnaire (UNSD 2019)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Egypt",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 585.767179545039,
+                "E_WASTE_GENERATED (kpi)": 5.90425637827498,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "El Salvador",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 37.16648094699,
+                "E_WASTE_GENERATED (kpi)": 5.54640814012684,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.56,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2012.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Ministry of Education (El Salvador)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Eritrea",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3.4216621830284697,
+                "E_WASTE_GENERATED (kpi)": 0.555554827574034,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Estonia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 17.2481251067588,
+                "E_WASTE_GENERATED (kpi)": 13.0766680111894,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 13.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ethiopia",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 55.2262839999033,
+                "E_WASTE_GENERATED (kpi)": 0.577415039102331,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Fiji",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 5.43000360370754,
+                "E_WASTE_GENERATED (kpi)": 6.06704313263412,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Finland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 109.850207566161,
+                "E_WASTE_GENERATED (kpi)": 19.8178256478731,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 65.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "France",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1362.45033144844,
+                "E_WASTE_GENERATED (kpi)": 20.9540045746518,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 742.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gabon",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 18.0248766412148,
+                "E_WASTE_GENERATED (kpi)": 8.66580607750712,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Gambia (Republic of The)",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.74014788020345,
+                "E_WASTE_GENERATED (kpi)": 1.22437349428215,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Georgia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 26.8563793874179,
+                "E_WASTE_GENERATED (kpi)": 7.27223920590792,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Germany",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1606.70604272596,
+                "E_WASTE_GENERATED (kpi)": 19.3691055396611,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 837.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ghana",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 52.8943114415572,
+                "E_WASTE_GENERATED (kpi)": 1.7533250941911,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Greece",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 180.964296082668,
+                "E_WASTE_GENERATED (kpi)": 16.9410499983774,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 56.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Grenada",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.954477195019663,
+                "E_WASTE_GENERATED (kpi)": 8.75667151394186,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guatemala",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 75.42628008027789,
+                "E_WASTE_GENERATED (kpi)": 4.28242094363697,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guinea",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 10.861906593927701,
+                "E_WASTE_GENERATED (kpi)": 0.797087150064412,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guinea-Bissau",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.9672800658988421,
+                "E_WASTE_GENERATED (kpi)": 0.544639676744844,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Guyana",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 4.97191885721693,
+                "E_WASTE_GENERATED (kpi)": 6.3336545951808,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Honduras",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 24.8234543163105,
+                "E_WASTE_GENERATED (kpi)": 2.58739361229003,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.2,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2015.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Litterature (Rush Mart\u00ednez et. al 2015)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Hungary",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 132.851222510042,
+                "E_WASTE_GENERATED (kpi)": 13.6145954611644,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 63.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iceland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 7.641711793726871,
+                "E_WASTE_GENERATED (kpi)": 21.405355164501,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 5.3,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "India",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3229.82269690722,
+                "E_WASTE_GENERATED (kpi)": 2.38932858171673,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 30.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Assocham India",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Indonesia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1617.97644660477,
+                "E_WASTE_GENERATED (kpi)": 6.0598822710461,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iran (Islamic Republic of)",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 789.557223396385,
+                "E_WASTE_GENERATED (kpi)": 9.4820067899985,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Iraq",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 278.329547067464,
+                "E_WASTE_GENERATED (kpi)": 7.11567294049506,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ireland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 92.6401238094403,
+                "E_WASTE_GENERATED (kpi)": 18.6736794616892,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 52.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Israel",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 131.560917947412,
+                "E_WASTE_GENERATED (kpi)": 14.5306955983446,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Italy",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1063.0896142547801,
+                "E_WASTE_GENERATED (kpi)": 17.5022985553964,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 369.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jamaica",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 17.870222767968297,
+                "E_WASTE_GENERATED (kpi)": 6.21572965842376,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.05,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "National Solid Waste Management Authority (Jamaica)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Japan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2568.9590874340197,
+                "E_WASTE_GENERATED (kpi)": 20.3588338254772,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 488.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Jordan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 54.8533549591913,
+                "E_WASTE_GENERATED (kpi)": 5.44720506049566,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 1.3,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "National Statistics Office (Jordan)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kazakhstan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 171.732874507925,
+                "E_WASTE_GENERATED (kpi)": 9.16544134642286,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 10.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "UNSD Questionnaire (UNSD 2019)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kenya",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 51.2845808905928,
+                "E_WASTE_GENERATED (kpi)": 1.03890650860126,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kiribati",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.104144498130383,
+                "E_WASTE_GENERATED (kpi)": 0.890123915644296,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kuwait",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 74.413831104239,
+                "E_WASTE_GENERATED (kpi)": 15.8293620728013,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Kyrgyzstan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 10.0792694894136,
+                "E_WASTE_GENERATED (kpi)": 1.54827488316646,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lao People's Democratic Republic",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 16.842564126205602,
+                "E_WASTE_GENERATED (kpi)": 2.45018389965167,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Latvia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 20.472227658700298,
+                "E_WASTE_GENERATED (kpi)": 10.612870740643,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 9.3,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lebanon",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 49.810940509585,
+                "E_WASTE_GENERATED (kpi)": 8.21149695179442,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lesotho",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 2.3204696824935,
+                "E_WASTE_GENERATED (kpi)": 1.13304183715503,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Libya",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 75.892284068769,
+                "E_WASTE_GENERATED (kpi)": 11.5372885480038,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Lithuania",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 33.7817489608437,
+                "E_WASTE_GENERATED (kpi)": 12.3021664096299,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 13.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Luxembourg",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 11.663026918165901,
+                "E_WASTE_GENERATED (kpi)": 18.9027988949205,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 6.1,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Madagascar",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 15.3023607352073,
+                "E_WASTE_GENERATED (kpi)": 0.565601949185262,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malawi",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 9.69248801592563,
+                "E_WASTE_GENERATED (kpi)": 0.477721327612284,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malaysia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 364.039323555541,
+                "E_WASTE_GENERATED (kpi)": 11.0984214979891,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Maldives",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3.39893142433922,
+                "E_WASTE_GENERATED (kpi)": 9.1369124310194,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mali",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 15.2669409703257,
+                "E_WASTE_GENERATED (kpi)": 0.799525581059212,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Malta",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.84342395755133,
+                "E_WASTE_GENERATED (kpi)": 14.4681267601508,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 1.7,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritania",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.37688413514453,
+                "E_WASTE_GENERATED (kpi)": 1.36433122275236,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mauritius",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 12.7629737405354,
+                "E_WASTE_GENERATED (kpi)": 10.073381010683,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 2.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2011.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Africa Institute 2012",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mexico",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1220.20897270149,
+                "E_WASTE_GENERATED (kpi)": 9.68965824156067,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 36.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2014.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Micronesia (Federated States of)",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.197710036362617,
+                "E_WASTE_GENERATED (kpi)": 1.93833368982958,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mongolia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 17.1339492907494,
+                "E_WASTE_GENERATED (kpi)": 5.19210584568164,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Montenegro",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.68095458339506,
+                "E_WASTE_GENERATED (kpi)": 10.6895273334321,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Morocco",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 164.483551256287,
+                "E_WASTE_GENERATED (kpi)": 4.62201228696678,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Mozambique",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 16.708527133057398,
+                "E_WASTE_GENERATED (kpi)": 0.536268804219192,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Myanmar",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 82.41060459645611,
+                "E_WASTE_GENERATED (kpi)": 1.55435984451718,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Namibia",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 15.7224629258084,
+                "E_WASTE_GENERATED (kpi)": 6.39124509179203,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.05,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Namigreen",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nepal",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 27.8485906286198,
+                "E_WASTE_GENERATED (kpi)": 0.929525721916547,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Netherlands",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 372.537069553563,
+                "E_WASTE_GENERATED (kpi)": 21.6088787444062,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 166.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "New Zealand",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 96.19225756301091,
+                "E_WASTE_GENERATED (kpi)": 19.1885612533435,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nicaragua",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 15.6548725507441,
+                "E_WASTE_GENERATED (kpi)": 2.46184503078222,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Niger",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 9.32574952717313,
+                "E_WASTE_GENERATED (kpi)": 0.467714004071073,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Nigeria",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 461.336427978936,
+                "E_WASTE_GENERATED (kpi)": 2.31587616828276,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "North Macedonia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 16.3593694707955,
+                "E_WASTE_GENERATED (kpi)": 7.86886458431722,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Norway",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 139.477975081951,
+                "E_WASTE_GENERATED (kpi)": 26.0414441900581,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 99.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Oman",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 69.24738303983419,
+                "E_WASTE_GENERATED (kpi)": 15.7595318706951,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Pakistan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 432.792260866689,
+                "E_WASTE_GENERATED (kpi)": 2.11397633391796,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Palau",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.17336969806128102,
+                "E_WASTE_GENERATED (kpi)": 9.12472095059376,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Panama",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 39.7881713017403,
+                "E_WASTE_GENERATED (kpi)": 9.43071137751608,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Papua New Guinea",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 9.23991413281136,
+                "E_WASTE_GENERATED (kpi)": 1.07428370338465,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Paraguay",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 50.5054960999089,
+                "E_WASTE_GENERATED (kpi)": 7.06074319864517,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Peru",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 204.08321361864802,
+                "E_WASTE_GENERATED (kpi)": 6.28025645059846,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 2.7,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Ministry of Health (Peru)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Philippines",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 425.365403789198,
+                "E_WASTE_GENERATED (kpi)": 3.91205352416214,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Poland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 442.64143358869,
+                "E_WASTE_GENERATED (kpi)": 11.6610404275321,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 246.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Portugal",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 170.110343043553,
+                "E_WASTE_GENERATED (kpi)": 16.5589743058068,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 70.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Qatar",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 37.405685643365004,
+                "E_WASTE_GENERATED (kpi)": 13.5872450575245,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Republic of Korea",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 817.980073879646,
+                "E_WASTE_GENERATED (kpi)": 15.7685945537195,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 292.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Republic of Moldova",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 14.1697342781189,
+                "E_WASTE_GENERATED (kpi)": 4.00048963244463,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Romania",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 223.431035125475,
+                "E_WASTE_GENERATED (kpi)": 11.4450893927607,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 47.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Russian Federation",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1631.15497168262,
+                "E_WASTE_GENERATED (kpi)": 11.3356519408644,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 90.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2014.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Analytical Center for the Governament of Russian Federation",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Rwanda",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.97221914953531,
+                "E_WASTE_GENERATED (kpi)": 0.566754930054895,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.7,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Ministry of Trade and Industry (Rwanda) ",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saint Kitts and Nevis",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.705289053534794,
+                "E_WASTE_GENERATED (kpi)": 12.3734921672771,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saint Lucia",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1.72810513295388,
+                "E_WASTE_GENERATED (kpi)": 9.70845580311171,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.03,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2015.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Litterature (Roldan 2017)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.9075458637389351,
+                "E_WASTE_GENERATED (kpi)": 8.25041694308123,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Samoa",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.6170229052998639,
+                "E_WASTE_GENERATED (kpi)": 3.06976569800927,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sao Tome and Principe",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.32410305373690895,
+                "E_WASTE_GENERATED (kpi)": 1.45992366548157,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Saudi Arabia",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 594.916469517797,
+                "E_WASTE_GENERATED (kpi)": 17.5662582903061,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Senegal",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 19.826653629781003,
+                "E_WASTE_GENERATED (kpi)": 1.18255121256,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Serbia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 65.1725056350472,
+                "E_WASTE_GENERATED (kpi)": 9.35714366619487,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 13.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2015.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "IENE",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Seychelles",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1.20551609580782,
+                "E_WASTE_GENERATED (kpi)": 12.5574593313314,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sierra Leone",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 4.24734349232273,
+                "E_WASTE_GENERATED (kpi)": 0.548965166385257,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Singapore",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 113.226520867515,
+                "E_WASTE_GENERATED (kpi)": 19.9307376989113,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovakia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 69.5616246144321,
+                "E_WASTE_GENERATED (kpi)": 12.7612593312112,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 30.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Slovenia",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 31.170645284918702,
+                "E_WASTE_GENERATED (kpi)": 15.0655607950308,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 12.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2016.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Solomon Islands",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.514471762992497,
+                "E_WASTE_GENERATED (kpi)": 0.802608054590479,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "South Africa",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 415.51689459930196,
+                "E_WASTE_GENERATED (kpi)": 7.0855327080692,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 18.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2015.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Litterature (Lydall M. et al. 2017)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Spain",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 887.5968314602341,
+                "E_WASTE_GENERATED (kpi)": 19.024280509693,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 287.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sri Lanka",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 137.660411861283,
+                "E_WASTE_GENERATED (kpi)": 6.27611980766313,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sudan",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 90.0654521407253,
+                "E_WASTE_GENERATED (kpi)": 2.08378724123653,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Suriname",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 5.62529628763089,
+                "E_WASTE_GENERATED (kpi)": 9.40684997931588,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Swaziland",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6.981250381918979,
+                "E_WASTE_GENERATED (kpi)": 6.29508600714065,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Sweden",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 207.760869462842,
+                "E_WASTE_GENERATED (kpi)": 20.1279664273244,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 142.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Switzerland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 201.009077676999,
+                "E_WASTE_GENERATED (kpi)": 23.4112599204518,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 123.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "OECD Questionnaire",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Syrian Arab Republic",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 91.0517878615654,
+                "E_WASTE_GENERATED (kpi)": 5.18222417092137,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Thailand",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 621.410888461035,
+                "E_WASTE_GENERATED (kpi)": 9.15010216690523,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Timor-Leste",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 3.82882654657028,
+                "E_WASTE_GENERATED (kpi)": 2.94751851160145,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Togo",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 7.51205783357213,
+                "E_WASTE_GENERATED (kpi)": 0.916663555042359,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tonga",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.33795432153265303,
+                "E_WASTE_GENERATED (kpi)": 3.34608239141241,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Trinidad and Tobago",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 21.7231565010675,
+                "E_WASTE_GENERATED (kpi)": 15.7300191897665,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tunisia",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 75.747428936247,
+                "E_WASTE_GENERATED (kpi)": 6.42853508751991,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkey",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 846.822980363832,
+                "E_WASTE_GENERATED (kpi)": 10.1998600431667,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 125.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2015.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Exitcom",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Turkmenistan",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 38.6340208388434,
+                "E_WASTE_GENERATED (kpi)": 6.46919304066366,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Tuvalu",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.0166378952558583,
+                "E_WASTE_GENERATED (kpi)": 1.51253593235076,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uganda",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 32.1192619662204,
+                "E_WASTE_GENERATED (kpi)": 0.802841051971415,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.18,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2018.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Computers for School Uganda ",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Ukraine",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 324.13392495214003,
+                "E_WASTE_GENERATED (kpi)": 7.73995713625627,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 40.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "UNSD Questionnaire (UNSD 2019)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Arab Emirates",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 161.72668193835,
+                "E_WASTE_GENERATED (kpi)": 15.0457421098102,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "REGION": "Europe",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 1597.69567047205,
+                "E_WASTE_GENERATED (kpi)": 23.8936346848527,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 871.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Eurostat",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United Republic of Tanzania",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 50.200802013747904,
+                "E_WASTE_GENERATED (kpi)": 0.964157758537036,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "United States of America",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 6918.00494247865,
+                "E_WASTE_GENERATED (kpi)": 20.9917038905891,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 1020.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "Environmental Protection Agency (USA)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Uruguay",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 37.1039456447402,
+                "E_WASTE_GENERATED (kpi)": 10.5438890721058,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Vanuatu",
+        "REGION": "Oceania",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 0.311925451165553,
+                "E_WASTE_GENERATED (kpi)": 1.06823784645737,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Venezuela (Bolivarian Republic of)",
+        "REGION": "Americas",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 300.484094949863,
+                "E_WASTE_GENERATED (kpi)": 10.7059569939738,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Viet Nam",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 257.447320091021,
+                "E_WASTE_GENERATED (kpi)": 2.69595283568623,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Yemen",
+        "REGION": "Asia",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 47.9674510442707,
+                "E_WASTE_GENERATED (kpi)": 1.51565505069106,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zambia",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 18.9436565344627,
+                "E_WASTE_GENERATED (kpi)": 1.03398594697139,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": NaN,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": NaN,
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "Yes"
+            }
+        ]
+    },
+    {
+        "COUNTRY": "Zimbabwe",
+        "REGION": "Africa",
+        "SUBSET_DATA ": [
+            {
+                "E_WASTE_GENERATED_KT": 16.949078950373202,
+                "E_WASTE_GENERATED (kpi)": 1.08245490805807,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_KT": 0.03,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_REFERENCE_YEAR": 2017.0,
+                "E_WASTE_DOCUMENTED_TO_BE_COLLECTED_RECYCLED_SOURCE": "UNSD Questionnaire (UNSD 2019)",
+                "NATIONAL_E_WASTE_LEGISLATION_POLICY_REGULATION_IN_PLACE": "No"
+            }
+        ]
+    }
+]
