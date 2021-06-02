@@ -37,3 +37,17 @@ jobs:
            http_url: https://freedomhouse.org/sites/default/files/2020-10/FOTN_2020_Key_Internet_Controls_Updated.xlsx
            downloaded_filename: data/numger_key_internet_controls_employed.xlsx
            postprocess: ./process_xlsx.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
+           downloaded_filename: data/id4d_nid.xlsx
+           postprocess: ./process_xlsx.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
+           downloaded_filename: data/id4d_legal.xlsx
+           postprocess: ./process_xlsx.js
