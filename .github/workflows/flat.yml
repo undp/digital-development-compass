@@ -51,3 +51,10 @@ jobs:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
            downloaded_filename: data/id4d_legal.xlsx
            postprocess: ./process_xlsx.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+           http_url: https://opencellid.org/ocid/downloads?token=pk.6f7a8f2cfa2bb43ea72428ed4a4b4f47&type=full&file=cell_towers.csv.gz
+           downloaded_filename: data/cell_towers_geolocation.csv.gz
+           postprocess: ./process_csv.gz.js
