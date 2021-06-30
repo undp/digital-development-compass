@@ -46,7 +46,7 @@ time_start_bus,csv,https://databank.worldbank.org/reports.aspx?source=2&series=I
 ease_doing_bus,csv,https://databank.worldbank.org/reports.aspx?source=2&series=IC.BUS.EASE.XQ#,,,,
 Human_cap_idx,javascript,https://publicadministration.un.org/egovkb/Data-Center,,,,
 %_population_using_internet,csv,http://hdr.undp.org/en/content/download-data,,,,
-@_population_using_internet_gender_index,csv,https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019,,,,
+%_population_using_internet_gender_index,csv,https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019,,,,
 sdg_data,csv,https://apiportal.uis.unesco.org/bdds,,,,
 undp_human_developmnt,csv,http://hdr.undp.org/en/content/download-data,,,,
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv,,,,
