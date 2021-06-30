@@ -72,3 +72,5 @@ ict_services,javascript,https://unctadstat.unctad.org/wds/TableViewer/tableView.
 list_of_countries,xlsx,https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls,3,1,,
 mobile_coverage,pdf,https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=60621126&file=250621-Mobile-Economy-2021.pdf,,,,
 digital_payments_penetration,pdf,https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf,,,,
+digital_literacy,zip,ftp://ftp.uis.unesco.org/BDDS/SDG.zip,,,,
+countries_hdi,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx,2,6,,
