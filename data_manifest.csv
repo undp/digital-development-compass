@@ -60,7 +60,7 @@ mobile_device_penetration,pdf,https://www.itu.int/en/ITU-D/Statistics/Documents/
 intenet_usage,csv,http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv&source=2,,,,
 countries_digital_development_idx,pdf,https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf,,,,
 ppl_using_fb,html,https://sproutsocial.com/insights/facebook-stats-for-marketers/,,,,
-open_data_idx,csv,https://index.okfn.org/api/datasets.json,,,,
+open_data_idx,json,https://index.okfn.org/api/datasets.json,,,,
 mobile_broadband_pricing,html,https://a4ai.org/extra-baskets-a4ai-2020-mobile_broadband_pricing_gni/_wp_link_placeholder,,,,
 gender_gap_in_mobile_usage,csv,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,,,,
 tax_%_mobile_ownership,csv,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,,,,
