@@ -12,7 +12,7 @@ const steps = manifest.map(
         with:
            http_url: ${endpoint}
            downloaded_filename: data/${name}.${format}
-           postprocess: ./process_${format}.js
+           postprocess: ./process_raw_data.js
 `
 );
 
