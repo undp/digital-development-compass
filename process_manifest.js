@@ -9,6 +9,7 @@ const steps = manifest.map(
   ({ name, format, endpoint }) => `
       - name: Fetch data
         uses: githubocto/flat@v2
+        if: always()
         with:
            http_url: ${endpoint}
            downloaded_filename: data/${name}.${format}
