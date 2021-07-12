@@ -22,6 +22,10 @@ let fileContents
 
 if (fileType === "csv") {
   fileContents = await readCSV(inputFilename);
+} else if (fileType === "tsv") {
+  fileContents = await readCSV(inputFilename, {
+    separator: "\t",
+  });
 } else if (fileType === "csv.gz") {
   await gunzipFile(inputFilename, outputFilename);
   Deno.exit()
