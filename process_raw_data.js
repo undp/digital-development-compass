@@ -8,6 +8,7 @@ import { parse as parseYaml } from "https://deno.land/std@0.63.0/encoding/yaml.t
 import { parse } from "https://deno.land/std@0.92.0/encoding/csv.ts";
 import { unZipFromFile } from 'https://deno.land/x/zip@v1.1.0/mod.ts'
 import { walk, emptyDir } from "https://deno.land/std@0.100.0/fs/mod.ts";
+import { gunzipFile } from "https://deno.land/x/compress@v0.3.8/mod.ts";
 
 let inputFilename = Deno.args[0];
 const inputFilenameRoot = inputFilename.split("/")[1].split(".")[0];
