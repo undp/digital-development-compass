@@ -6,8 +6,10 @@ import {
 } from "https://deno.land/x/flat@0.0.11/mod.ts";
 import { parse as parseYaml } from "https://deno.land/std@0.63.0/encoding/yaml.ts";
 import { parse } from "https://deno.land/std@0.92.0/encoding/csv.ts";
+import { unZipFromFile } from 'https://deno.land/x/zip@v1.1.0/mod.ts'
+import { walk, emptyDir } from "https://deno.land/std@0.100.0/fs/mod.ts";
 
-const inputFilename = Deno.args[0];
+let inputFilename = Deno.args[0];
 const inputFilenameRoot = inputFilename.split("/")[1].split(".")[0];
 const outputFilename = `processed/${inputFilenameRoot}.csv`;
 
@@ -16,9 +18,23 @@ const config = manifest.find((d) => d.name === inputFilenameRoot);
 if (!config) Deno.exit();
 console.log("config", config);
 
-const fileType = config.format
+let fileType = config.format
 
 let fileContents
+
+if (fileType === "zip") {
+  await emptyDir("./tmp")
+  await unZipFromFile(inputFilename, "./tmp")
+
+  for await (const file of walk("./tmp")) {
+    const extension = file.path.split(".").pop();
+    if (["xlsx", "csv", "csv.gz", "tsv", "yaml", "json"].includes(extension)) {
+      fileType = extension
+      inputFilename = file.path
+      break
+    }
+  }
+}
 
 if (fileType === "csv") {
   fileContents = await readCSV(inputFilename);
@@ -57,5 +73,7 @@ if (fileType === "csv") {
     data_year: d[yearKey],
   }));
 }
+
+await emptyDir("./tmp")
 
 await writeCSV(outputFilename, fileContents);
