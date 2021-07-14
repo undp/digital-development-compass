@@ -35,7 +35,7 @@ undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statisti
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv,,,,
 ewaste_per_inhabitant,csv,https://www.gallup.com/file/analytics/313310/Gallup-WPE%20Partnership%20and%20GWI%20Announcement.pdf,,,,
 global_wellbeing_initiative ,csv,http://wdi.worldbank.org/tables,,,,
-financial_inclusiveness ,zip,https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip,,,,
+financial_inclusiveness ,zip,https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip,1,1,,
 intenet_usage,csv,http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv&source=2,,,,
 open_data_idx,json,https://index.okfn.org/api/datasets.json,,,,
 mobile_broadband_pricing,csv ,https://a4ai.org/extra/downloads/A4AI-Mobile-Broadband-Pricing-2019Q2.csv,,,,
