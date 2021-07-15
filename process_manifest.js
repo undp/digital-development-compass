@@ -1,4 +1,4 @@
-import { readCSV } from "https://deno.land/x/flat@0.0.10/mod.ts";
+import { readCSV } from "https://deno.land/x/flat@0.0.11/mod.ts";
 
 const inputFilename = "data_manifest.csv";
 const outputFilename = ".github/workflows/flat.yml";
@@ -9,10 +9,11 @@ const steps = manifest.map(
   ({ name, format, endpoint }) => `
       - name: Fetch data
         uses: githubocto/flat@v2
+        if: always()
         with:
            http_url: ${endpoint}
            downloaded_filename: data/${name}.${format}
-           postprocess: ./process_${format}.js
+           postprocess: ./process_raw_data.js
 `
 );
 
