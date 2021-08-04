@@ -21,16 +21,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.pch.net/ixp/dir_data_csv
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/countries_ixp.csv?token=AKK3IXYZ7P7LZQEHQJKKXNTBBVLYG
            downloaded_filename: data/countries_ixp.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/countries_mobile_connectivity.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -69,46 +61,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/%_population_internet_coverage_2g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2021.xlsx
-           downloaded_filename: data/%_population_internet_coverage_3g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/%_population_internet_coverage_4g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2023.xlsx
-           downloaded_filename: data/%_population_internet_coverage_5g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://biogeo.ucdavis.edu/data/gadm3.6/gadm36_gpkg.zip
-           downloaded_filename: data/gadm_database.zip
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
            downloaded_filename: data/%_population_electricity_coverage.xls
            postprocess: ./process_raw_data.js
@@ -125,24 +77,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://data.humdata.org/dataset/5040df47-96a2-4b3c-9a7f-2b7fb2b41316/resource/f1143ea6-0349-423d-9aeb-7eb905f5ffc8/download/electrical_grid_cote_divoire_15.csv
-           downloaded_filename: data/elec_dist_gride_maps.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/spectrum_allocated_mobile_providers.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://github.com/awslabs/open-data-registry/blob/main/datasets/speedtest-global-performance.yaml
-           downloaded_filename: data/isp_speeds.yaml
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/elec_dist_gride_maps.csv?token=AKK3IXY5XL4426LJTWHZCNTBBVMCI
+           downloaded_filename: data/elect_dist_grid_maps.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -157,32 +93,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2020/MobileCellularSubscriptions_2000-2019.xlsx
-           downloaded_filename: data/%_mobile_cell_sub.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://github.com/awslabs/open-data-registry/blob/main/datasets/speedtest-global-performance.yaml
-           downloaded_filename: data/fixed_broadband_speed_download_upload_latency.yaml
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://pls.upu.int/pls/ap/layout.flexible_rpt3
-           downloaded_filename: data/postal_coverage.txt
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://databank.worldbank.org/source/logistics-performance-index-(lpi)#
-           downloaded_filename: data/countries_lpi.csv
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/tax_%_mobile_ownership.xlsx?raw=true
+           downloaded_filename: data/tax_%_mobile_ownership.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -191,14 +103,6 @@ jobs:
         with:
            http_url: https://docs.google.com/spreadsheets/d/1UC6AuwnX6xu8-fUc9KyActyNXXio6rIST6ga5CQFWLQ/view
            downloaded_filename: data/software_developer_ecosystem_size.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://graph.linkedin.com/insights/labor-market#:~:text=ending%20April%202021-,Download%20data,-for%3A%20the%20Software
-           downloaded_filename: data/digital_work_ecosystem_size.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -237,22 +141,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://unctad.org/system/files/information-document/DP.xlsx
-           downloaded_filename: data/data_protect_privacy_legislation.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://tcdata360-backend.worldbank.org/api/v1/datasets/53/dump.csv
-           downloaded_filename: data/venture_cap_avail.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
            downloaded_filename: data/doing_bus_idx.xlsx
            postprocess: ./process_raw_data.js
@@ -261,56 +149,24 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/reports.aspx?source=2&series=IC.LGL.CRED.XQ#
-           downloaded_filename: data/legal_rights_strength.csv
+           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
+           downloaded_filename: data/%_population_using_internet.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/reports.aspx?source=2&series=IC.REG.DURS#
-           downloaded_filename: data/time_start_bus.csv
+           http_url: https://apimgmtstzgjpfeq2u763lag.blob.core.windows.net/content/MediaLibrary/bdds/SDG.zip
+           downloaded_filename: data/sdg_data.zip
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/reports.aspx?source=2&series=IC.BUS.EASE.XQ#
-           downloaded_filename: data/ease_doing_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://hdr.undp.org/en/content/download-data
-           downloaded_filename: data/%_population_using_internet.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019
-           downloaded_filename: data/%_population_using_internet_gender_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://apiportal.uis.unesco.org/bdds
-           downloaded_filename: data/sdg_data.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://hdr.undp.org/en/content/download-data
-           downloaded_filename: data/undp_human_developmnt.csv
+           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
+           downloaded_filename: data/undp_human_developmnt.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -325,8 +181,24 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
+           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv
+           downloaded_filename: data/ewaste_per_inhabitant.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/global_wellbeing_initiative%20.csv?token=AKK3IX6UQCPGXLD5JJOLFT3BBVMEE
+           downloaded_filename: data/global_wellbeing_initiative .csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
            http_url: https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip
-           downloaded_filename: data/financial_inclusiveness.zip
+           downloaded_filename: data/financial_inclusiveness .zip
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -334,7 +206,7 @@ jobs:
         if: always()
         with:
            http_url: http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv&source=2
-           downloaded_filename: data/intenet_usage.zip
+           downloaded_filename: data/intenet_usage.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -342,23 +214,15 @@ jobs:
         if: always()
         with:
            http_url: https://index.okfn.org/api/datasets.json
-           downloaded_filename: data/open_data_idx.csv
+           downloaded_filename: data/open_data_idx.json
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/gender_gap_in_mobile_usage.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/tax_%_mobile_ownership.csv
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/spectrum_allocated_mobile_providers.xlsx?raw=true
+           downloaded_filename: data/spectrum_allocated_mobile_providers.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -373,6 +237,318 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
+           http_url: https://unctadstat.unctad.org/7zip/US_IctGoodsShare.csv.7z
+           downloaded_filename: data/ict_goods.7z
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://unctadstat.unctad.org/7zip/US_TradeServICT.csv.7z
+           downloaded_filename: data/ict_services.7z
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
            http_url: https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls
-           downloaded_filename: data/list_of_countries.xlsx
+           downloaded_filename: data/list_of_countries.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
+           downloaded_filename: data/countries_hdi.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/mobile_coverage.csv?token=AKK3IXZJGSYNE2E74QG2EHDBBVMSO
+           downloaded_filename: data/mobile_coverage.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/%25_population_internet_coverage_2g.xlsx?raw=true
+           downloaded_filename: data/%_population_internet_coverage_2g.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/%25_population_internet_coverage_3g.xlsx?raw=true
+           downloaded_filename: data/%_population_internet_coverage_3g.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/%25_population_internet_coverage_4g.xlsx?raw=true
+           downloaded_filename: data/%_population_internet_coverage_4g.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/%25_population_internet_coverage_5g.xlsx?raw=true
+           downloaded_filename: data/%_population_internet_coverage_5g.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/mobile_broadband_pricing.csv?token=AKK3IX5TEVZ2U6I6CDC3EOTBBVMRQ
+           downloaded_filename: data/mobile_broadband_pricing.csv 
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/mob_dev_pen.csv?token=AKK3IX5XX6MUJYZPB45YUFLBBVMQO
+           downloaded_filename: data/mob_dev_pen.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/gender_gap_in_mobile_usage.xlsx?raw=true
+           downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/ease_doing_bus.csv?token=AKK3IXYKT2DEN2LIZHW3D3DBBVL7A
+           downloaded_filename: data/ease_doing_bus.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/time_start_bus.csv?token=AKK3IX5FKWGF6AOUARIHBMDBBVMZE
+           downloaded_filename: data/time_start_bus.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/venture_cap_avail.xlsx?raw=true
+           downloaded_filename: data/venture_cap_avail.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/b2c_ecommerse_idx.csv?token=AKK3IXY2NOHT7FVMCA5TVYDBBVLSO
+           downloaded_filename: data/b2c_ecommerse_idx.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/pop_dens_map.csv?token=AKK3IX7TAGVSAU4Y5YAV4VLBBVMTC
+           downloaded_filename: data/pop_dens_map.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx
+           downloaded_filename: data/countries_lpi.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/countries_gci.xls
+           downloaded_filename: data/countries_gci.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/gov_osi.csv?token=AKK3IX2EXUS25P7IKKLB7LTBBVMHG
+           downloaded_filename: data/gov_osi.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/countres_epi.csv?token=AKK3IXZG6KYJNHPEPMN6EVLBBVLVS
+           downloaded_filename: data/countries_epi.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/blob/main/data/gov_encrypted_traffic.csv.zip?raw=true
+           downloaded_filename: data/gov_encrypted_traffic.zip
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://unctad.org/system/files/information-document/DP.xlsx
+           downloaded_filename: data/glob_data_priv_law.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/countries_mobile_connectivity.xlsx?raw=true
+           downloaded_filename: data/countries_mobile_connectivity.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
+           downloaded_filename: data/encrytion_data.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/rli.csv?token=AKK3IXYCHVZO6E4MUU4K57LBBVMU4
+           downloaded_filename: data/rli.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://databank.worldbank.org/data/download/HCI_csv.zip
+           downloaded_filename: data/countries_hci.zip
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: time_start_bus
+           downloaded_filename: data/sci.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/top_sites.csv?token=AKK3IX5BB6NO25ANF2FAXADBBVM2S
+           downloaded_filename: data/top_sites.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://github.com/undp/digital-readiness-assessment/tree/main/data/google_trends.xlsx?raw=true
+           downloaded_filename: data/google_trends.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/youtube_searches.csv?token=AKK3IXYYEFLEK5WDW6DZ2FLBBVM3K
+           downloaded_filename: data/youtube_searches.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2020/MobileCellularSubscriptions_2000-2019.xlsx
+           downloaded_filename: data/%_mobile_cell_sub.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx
+           downloaded_filename: data/electricity_yearbook.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2020.xlsx
+           downloaded_filename: data/tii_countries.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://datahub.io/world-bank/tx.val.tech.cd/r/data.csv
+           downloaded_filename: data/tech_hubs.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/undp/digital-readiness-assessment/main/data/legal_rights_strength.csv?token=AKK3IXZ2KR7JKRSKCY57A2TBBVMMA
+           downloaded_filename: data/legal_rights_strength.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://microdata.worldbank.org/index.php/metadata/export/1533/json
+           downloaded_filename: data/postal_coverage.json
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
+           downloaded_filename: data/school_w_internet.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: 
+           downloaded_filename: data/dice_export_global_cybersecurity_index (1).csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: 
+           downloaded_filename: data/ecosystem.csv
            postprocess: ./process_raw_data.js
