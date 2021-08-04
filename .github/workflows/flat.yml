@@ -109,7 +109,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://github.com/mbelinsky/public_development_data/blob/8251e333d64e7a585d21fd5483df525aaf2c19fa/%25_population_electricity_coverage.xls?raw=true
+           http_url: https://github.com/mbelinsky/public_development_data/raw/main/%25_population_electricity_coverage.xls
            downloaded_filename: data/%_population_electricity_coverage.xls
            postprocess: ./process_raw_data.js
 
@@ -773,7 +773,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://microdata.worldbank.org/index.php/metadata/export/1533/json
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv
            downloaded_filename: data/postal_coverage.json
            postprocess: ./process_raw_data.js
 
@@ -799,36 +799,4 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv
            downloaded_filename: data/ecosystem.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: 
-           downloaded_filename: data/.
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: 
-           downloaded_filename: data/.
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: 
-           downloaded_filename: data/.
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: 
-           downloaded_filename: data/.
            postprocess: ./process_raw_data.js
