@@ -1,0 +1,1999 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2021-08-04T13:09:18</o:Created>
+     <o:LastSaved>2021-08-04T13:09:50</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-3.3.1.5149</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#000000;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font23
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent6";}
+.style17
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent6";}
+.style18
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent5";}
+.style19
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style20
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent5";}
+.style21
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent5";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent4";}
+.style23
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style24
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent4";}
+.style25
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style26
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Linked Cell";}
+.style27
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent3";}
+.style28
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent2";}
+.style29
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style30
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent2";}
+.style31
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent2";}
+.style32
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style33
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent1";}
+.style34
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent1";}
+.style35
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style36
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Neutral";}
+.style37
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent1";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Bad";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent4";}
+.style40
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style41
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style42
+	{mso-number-format:"_\(\\$* \#\,\#\#0\.00_\)\;_\(\\$* \\\(\#\,\#\#0\.00\\\)\;_\(\\$* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style43
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent3";}
+.style44
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style45
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Input";}
+.style46
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Heading 4";}
+.style47
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calculation";}
+.style48
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Good";}
+.style49
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Heading 3";}
+.style50
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"CExplanatory Text";}
+.style51
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 1";}
+.style52
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma [0]";
+	mso-style-id:6;}
+.style53
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent6";}
+.style54
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Title";}
+.style55
+	{mso-number-format:"_\(\\$* \#\,\#\#0_\)\;_\(\\$* \\\(\#\,\#\#0\\\)\;_\(\\$* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Currency [0]";
+	mso-style-id:7;}
+.style56
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Warning Text";}
+.style57
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style58
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 2";}
+.style59
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style60
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Check Cell";}
+.style61
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";}
+.style62
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style63
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl70
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	mso-font-charset:134;}
+.xl71
+	{mso-style-parent:style63;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#0000FF;
+	text-decoration:underline;
+	text-underline-style:single;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:1.0pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>software_developer_ecosystem_si</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>272</x:DefaultRowHeight>
+        <x:StandardWidth>2340</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>0</x:ActiveRow>
+          <x:RangeSelection>1:1</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>16740</x:WindowHeight>
+     <x:WindowWidth>24860</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple" class="xl65">
+  <table width="1238.95" border="0" cellpadding="0" cellspacing="0" style='width:1238.95pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="36.20" class="xl65" style='mso-width-source:userset;mso-width-alt:1544;'/>
+   <col width="180.20" class="xl65" style='mso-width-source:userset;mso-width-alt:7688;'/>
+   <col width="216" class="xl65" style='mso-width-source:userset;mso-width-alt:9216;'/>
+   <col width="93.50" class="xl65" style='mso-width-source:userset;mso-width-alt:3989;'/>
+   <col width="97.55" class="xl65" style='mso-width-source:userset;mso-width-alt:4162;'/>
+   <col width="94.20" class="xl65" style='mso-width-source:userset;mso-width-alt:4019;'/>
+   <col width="14.05" class="xl65" style='mso-width-source:userset;mso-width-alt:599;'/>
+   <col width="216" class="xl65" style='mso-width-source:userset;mso-width-alt:9216;'/>
+   <col width="15.65" class="xl65" style='mso-width-source:userset;mso-width-alt:667;'/>
+   <col width="16.05" class="xl65" style='mso-width-source:userset;mso-width-alt:684;'/>
+   <col width="15.25" class="xl65" style='mso-width-source:userset;mso-width-alt:650;'/>
+   <col width="16.05" class="xl65" style='mso-width-source:userset;mso-width-alt:684;'/>
+   <col width="15.65" class="xl65" style='mso-width-source:userset;mso-width-alt:667;'/>
+   <col width="15.25" class="xl65" style='mso-width-source:userset;mso-width-alt:650;'/>
+   <col width="14.45" class="xl65" style='mso-width-source:userset;mso-width-alt:616;'/>
+   <col width="15.65" class="xl65" style='mso-width-source:userset;mso-width-alt:667;'/>
+   <col width="15.25" class="xl65" style='mso-width-source:userset;mso-width-alt:650;'/>
+   <col width="18.05" class="xl65" style='mso-width-source:userset;mso-width-alt:770;'/>
+   <col width="15.25" span="2" class="xl65" style='mso-width-source:userset;mso-width-alt:650;'/>
+   <col width="14.45" class="xl65" style='mso-width-source:userset;mso-width-alt:616;'/>
+   <col width="22.05" span="2" class="xl65" style='mso-width-source:userset;mso-width-alt:940;'/>
+   <col width="22.45" span="2" class="xl65" style='mso-width-source:userset;mso-width-alt:957;'/>
+   <col width="51.20" span="231" class="xl65" style='mso-width-source:userset;mso-width-alt:2184;'/>
+   <tr height="14.40" style='height:14.40pt;mso-outline-level:4;'>
+    <td class="xl66" height="14.40" width="525.90" colspan="4" style='height:14.40pt;width:525.90pt;mso-ignore:colspan;' x:str>Top countries contributing to GitHub https://medium.com/@hoffa/github-top-countries-201608-13f642493773</td>
+    <td class="xl65" width="97.55" style='width:97.55pt;'></td>
+    <td class="xl65" width="94.20" style='width:94.20pt;'></td>
+    <td class="xl65" width="14.05" style='width:14.05pt;'></td>
+    <td class="xl65" width="216" style='width:216.00pt;'></td>
+    <td class="xl65" width="15.65" style='width:15.65pt;'></td>
+    <td class="xl65" width="16.05" style='width:16.05pt;'></td>
+    <td class="xl65" width="15.25" style='width:15.25pt;'></td>
+    <td class="xl65" width="16.05" style='width:16.05pt;'></td>
+    <td class="xl65" width="15.65" style='width:15.65pt;'></td>
+    <td class="xl65" width="15.25" style='width:15.25pt;'></td>
+    <td class="xl65" width="14.45" style='width:14.45pt;'></td>
+    <td class="xl65" width="15.65" style='width:15.65pt;'></td>
+    <td class="xl65" width="15.25" style='width:15.25pt;'></td>
+    <td class="xl65" width="18.05" style='width:18.05pt;'></td>
+    <td class="xl65" width="15.25" style='width:15.25pt;'></td>
+    <td class="xl65" width="15.25" style='width:15.25pt;'></td>
+    <td class="xl65" width="14.45" style='width:14.45pt;'></td>
+    <td class="xl65" width="22.05" style='width:22.05pt;'></td>
+    <td class="xl65" width="22.05" style='width:22.05pt;'></td>
+    <td class="xl65" width="22.45" style='width:22.45pt;'></td>
+    <td class="xl65" width="22.45" style='width:22.45pt;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl67" height="15" style='height:15.00pt;'></td>
+    <td class="xl68" id="1419375063c0" x:str>A</td>
+    <td class="xl68" id="1419375063c1" x:str>B</td>
+    <td class="xl68" id="1419375063c4" x:str>E</td>
+    <td class="xl68" id="1419375063c7" x:str>H</td>
+    <td class="xl68" id="1419375063c10" x:str>K</td>
+    <td class="xl68" id="1419375063c11" x:str>L</td>
+    <td class="xl68" id="1419375063c12" x:str>M</td>
+    <td class="xl68" id="1419375063c13" x:str>N</td>
+    <td class="xl68" id="1419375063c14" x:str>O</td>
+    <td class="xl68" id="1419375063c15" x:str>P</td>
+    <td class="xl68" id="1419375063c16" x:str>Q</td>
+    <td class="xl68" id="1419375063c17" x:str>R</td>
+    <td class="xl68" id="1419375063c18" x:str>S</td>
+    <td class="xl68" id="1419375063c19" x:str>T</td>
+    <td class="xl68" id="1419375063c20" x:str>U</td>
+    <td class="xl68" id="1419375063c21" x:str>V</td>
+    <td class="xl68" id="1419375063c22" x:str>W</td>
+    <td class="xl68" id="1419375063c23" x:str>X</td>
+    <td class="xl68" id="1419375063c24" x:str>Y</td>
+    <td class="xl68" id="1419375063c25" x:str>Z</td>
+    <td class="xl68" id="1419375063c26" x:str>AA</td>
+    <td class="xl68" id="1419375063c27" x:str>AB</td>
+    <td class="xl68" id="1419375063c28" x:str>AC</td>
+    <td class="xl68" id="1419375063c29" x:str>AD</td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>1</td>
+    <td class="xl69" x:str>c_country</td>
+    <td class="xl69" x:str>pushes</td>
+    <td class="xl69" x:str>population</td>
+    <td class="xl69" x:str>ratio</td>
+    <td class="xl69" x:str>ratio_unique_login</td>
+    <td class="xl70"></td>
+    <td class="xl69" x:str>https://medium.com/@hoffa/github-top-countries-201608-13f642493773</td>
+    <td class="xl70" colspan="17" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>2</td>
+    <td class="xl69" x:str>Iceland</td>
+    <td class="xl69" align="right" x:num>1645</td>
+    <td class="xl69" align="right" x:num>308910</td>
+    <td class="xl69" align="right" x:num>5.325175617</td>
+    <td class="xl69" align="right" x:num>4.82341135</td>
+    <td class="xl70"></td>
+    <td class="xl69" x:str>http://twitter.com/felipehoffa</td>
+    <td class="xl70" colspan="17" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>3</td>
+    <td class="xl69" x:str>New Zealand</td>
+    <td class="xl69" align="right" x:num>24077</td>
+    <td class="xl69" align="right" x:num>4252277</td>
+    <td class="xl69" align="right" x:num>5.662142894</td>
+    <td class="xl69" align="right" x:num>3.221803283</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>4</td>
+    <td class="xl69" x:str>Sweden</td>
+    <td class="xl69" align="right" x:num>51584</td>
+    <td class="xl69" align="right" x:num>9555893</td>
+    <td class="xl69" align="right" x:num>5.398134952</td>
+    <td class="xl69" align="right" x:num>3.154074664</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>5</td>
+    <td class="xl69" x:str>Switzerland</td>
+    <td class="xl69" align="right" x:num>53652</td>
+    <td class="xl69" align="right" x:num>7581000</td>
+    <td class="xl69" align="right" x:num>7.077166601</td>
+    <td class="xl69" align="right" x:num>3.062920459</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>6</td>
+    <td class="xl69" x:str>Norway</td>
+    <td class="xl69" align="right" x:num>29659</td>
+    <td class="xl69" align="right" x:num>5009150</td>
+    <td class="xl69" align="right" x:num>5.920964635</td>
+    <td class="xl69" align="right" x:num>3.012487149</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>7</td>
+    <td class="xl69" x:str>Finland</td>
+    <td class="xl69" align="right" x:num>22097</td>
+    <td class="xl69" align="right" x:num>5244000</td>
+    <td class="xl69" align="right" x:num>4.213768116</td>
+    <td class="xl69" align="right" x:num>2.692601068</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>8</td>
+    <td class="xl69" x:str>Denmark</td>
+    <td class="xl69" align="right" x:num>24939</td>
+    <td class="xl69" align="right" x:num>5484000</td>
+    <td class="xl69" align="right" x:num>4.547592998</td>
+    <td class="xl69" align="right" x:num>2.684172137</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>9</td>
+    <td class="xl69" x:str>Netherlands</td>
+    <td class="xl69" align="right" x:num>75198</td>
+    <td class="xl69" align="right" x:num>16645000</td>
+    <td class="xl69" align="right" x:num>4.517753079</td>
+    <td class="xl69" align="right" x:num>2.569540403</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>10</td>
+    <td class="xl69" x:str>Canada</td>
+    <td class="xl69" align="right" x:num>143815</td>
+    <td class="xl69" align="right" x:num>33679000</td>
+    <td class="xl69" align="right" x:num>4.270168354</td>
+    <td class="xl69" align="right" x:num>2.335283114</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>11</td>
+    <td class="xl69" x:str>United Kingdom</td>
+    <td class="xl69" align="right" x:num>304752</td>
+    <td class="xl69" align="right" x:num>62348447</td>
+    <td class="xl69" align="right" x:num>4.887884377</td>
+    <td class="xl69" align="right" x:num>2.303345262</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>12</td>
+    <td class="xl69" x:str>Australia</td>
+    <td class="xl69" align="right" x:num>90174</td>
+    <td class="xl69" align="right" x:num>21515754</td>
+    <td class="xl69" align="right" x:num>4.191068554</td>
+    <td class="xl69" align="right" x:num>2.275541912</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>13</td>
+    <td class="xl69" x:str>Luxembourg</td>
+    <td class="xl69" align="right" x:num>2693</td>
+    <td class="xl69" align="right" x:num>497538</td>
+    <td class="xl69" align="right" x:num>5.412651898</td>
+    <td class="xl69" align="right" x:num>2.230985372</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>14</td>
+    <td class="xl69" x:str>Estonia</td>
+    <td class="xl69" align="right" x:num>36515</td>
+    <td class="xl69" align="right" x:num>1291170</td>
+    <td class="xl69" align="right" x:num>28.28055175</td>
+    <td class="xl69" align="right" x:num>2.184065615</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>15</td>
+    <td class="xl69" x:str>Ireland</td>
+    <td class="xl69" align="right" x:num>14956</td>
+    <td class="xl69" align="right" x:num>4622917</td>
+    <td class="xl69" align="right" x:num>3.235186788</td>
+    <td class="xl69" align="right" x:num>2.18260462</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>16</td>
+    <td class="xl69" x:str>United States</td>
+    <td class="xl69" align="right" x:num>1709062</td>
+    <td class="xl69" align="right" x:num>310232863</td>
+    <td class="xl69" align="right" x:num>5.508965051</td>
+    <td class="xl69" align="right" x:num>2.117860737</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>17</td>
+    <td class="xl69" x:str>Belgium</td>
+    <td class="xl69" align="right" x:num>32486</td>
+    <td class="xl69" align="right" x:num>10403000</td>
+    <td class="xl69" align="right" x:num>3.122753052</td>
+    <td class="xl69" align="right" x:num>1.552436797</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>18</td>
+    <td class="xl69" x:str>Austria</td>
+    <td class="xl69" align="right" x:num>24734</td>
+    <td class="xl69" align="right" x:num>8205000</td>
+    <td class="xl69" align="right" x:num>3.014503352</td>
+    <td class="xl69" align="right" x:num>1.499085923</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>19</td>
+    <td class="xl69" x:str>Germany</td>
+    <td class="xl69" align="right" x:num>319787</td>
+    <td class="xl69" align="right" x:num>81802257</td>
+    <td class="xl69" align="right" x:num>3.909268665</td>
+    <td class="xl69" align="right" x:num>1.438835606</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>20</td>
+    <td class="xl69" x:str>Czech Republic</td>
+    <td class="xl69" align="right" x:num>25370</td>
+    <td class="xl69" align="right" x:num>10476000</td>
+    <td class="xl69" align="right" x:num>2.42172585</td>
+    <td class="xl69" align="right" x:num>1.337342497</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>21</td>
+    <td class="xl69" x:str>Slovenia</td>
+    <td class="xl69" align="right" x:num>4331</td>
+    <td class="xl69" align="right" x:num>2007000</td>
+    <td class="xl69" align="right" x:num>2.157947185</td>
+    <td class="xl69" align="right" x:num>1.295465869</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>22</td>
+    <td class="xl69" x:str>France</td>
+    <td class="xl69" align="right" x:num>151529</td>
+    <td class="xl69" align="right" x:num>64768389</td>
+    <td class="xl69" align="right" x:num>2.339551784</td>
+    <td class="xl69" align="right" x:num>1.212319794</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>23</td>
+    <td class="xl69" x:str>Israel</td>
+    <td class="xl69" align="right" x:num>14189</td>
+    <td class="xl69" align="right" x:num>7353985</td>
+    <td class="xl69" align="right" x:num>1.929430098</td>
+    <td class="xl69" align="right" x:num>1.106882867</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>24</td>
+    <td class="xl69" x:str>Lithuania</td>
+    <td class="xl69" align="right" x:num>4209</td>
+    <td class="xl69" align="right" x:num>2944459</td>
+    <td class="xl69" align="right" x:num>1.429464632</td>
+    <td class="xl69" align="right" x:num>1.012070469</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>25</td>
+    <td class="xl69" x:str>Bulgaria</td>
+    <td class="xl69" align="right" x:num>10555</td>
+    <td class="xl69" align="right" x:num>7148785</td>
+    <td class="xl69" align="right" x:num>1.476474674</td>
+    <td class="xl69" align="right" x:num>0.987580407</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>26</td>
+    <td class="xl69" x:str>Latvia</td>
+    <td class="xl69" align="right" x:num>5216</td>
+    <td class="xl69" align="right" x:num>2217969</td>
+    <td class="xl69" align="right" x:num>2.351701038</td>
+    <td class="xl69" align="right" x:num="0.98738981469999998">0.987389815</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>27</td>
+    <td class="xl69" x:str>Croatia</td>
+    <td class="xl69" align="right" x:num>5795</td>
+    <td class="xl69" align="right" x:num>4491000</td>
+    <td class="xl69" align="right" x:num>1.290358495</td>
+    <td class="xl69" align="right" x:num="0.89067022929999995">0.890670229</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>28</td>
+    <td class="xl69" x:str>Portugal</td>
+    <td class="xl69" align="right" x:num>15709</td>
+    <td class="xl69" align="right" x:num>10676000</td>
+    <td class="xl69" align="right" x:num>1.471431248</td>
+    <td class="xl69" align="right" x:num="0.85799925070000005">0.857999251</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>29</td>
+    <td class="xl69" x:str>Belarus</td>
+    <td class="xl69" align="right" x:num>11583</td>
+    <td class="xl69" align="right" x:num>9685000</td>
+    <td class="xl69" align="right" x:num>1.195973154</td>
+    <td class="xl69" align="right" x:num="0.84563758389999999">0.845637584</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>30</td>
+    <td class="xl69" x:str>Taiwan</td>
+    <td class="xl69" align="right" x:num>35856</td>
+    <td class="xl69" align="right" x:num>22894384</td>
+    <td class="xl69" align="right" x:num>1.566148275</td>
+    <td class="xl69" align="right" x:num="0.79713872190000001">0.797138722</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>31</td>
+    <td class="xl69" x:str>Poland</td>
+    <td class="xl69" align="right" x:num>44280</td>
+    <td class="xl69" align="right" x:num>38500000</td>
+    <td class="xl69" align="right" x:num>1.15012987</td>
+    <td class="xl69" align="right" x:num="0.79324675320000004">0.793246753</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>32</td>
+    <td class="xl69" x:str>Hungary</td>
+    <td class="xl69" align="right" x:num>428786</td>
+    <td class="xl69" align="right" x:num>9982000</td>
+    <td class="xl69" align="right" x:num>42.95592066</td>
+    <td class="xl69" align="right" x:num="0.78040472849999998">0.780404729</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>33</td>
+    <td class="xl69" x:str>Spain</td>
+    <td class="xl69" align="right" x:num>60553</td>
+    <td class="xl69" align="right" x:num>46505963</td>
+    <td class="xl69" align="right" x:num>1.302048084</td>
+    <td class="xl69" align="right" x:num="0.74399061470000005">0.743990615</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>34</td>
+    <td class="xl69" x:str>Ukraine</td>
+    <td class="xl69" align="right" x:num>51811</td>
+    <td class="xl69" align="right" x:num>45415596</td>
+    <td class="xl69" align="right" x:num>1.140819555</td>
+    <td class="xl69" align="right" x:num="0.69359433270000004">0.693594333</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>35</td>
+    <td class="xl69" x:str>Bahamas</td>
+    <td class="xl69" align="right" x:num>263</td>
+    <td class="xl69" align="right" x:num>301790</td>
+    <td class="xl69" align="right" x:num="0.87146691409999999">0.871466914</td>
+    <td class="xl69" align="right" x:num="0.66271248220000001">0.662712482</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>36</td>
+    <td class="xl69" x:str>Uruguay</td>
+    <td class="xl69" align="right" x:num>2475</td>
+    <td class="xl69" align="right" x:num>3477000</td>
+    <td class="xl69" align="right" x:num="0.71182053489999997">0.711820535</td>
+    <td class="xl69" align="right" x:num="0.5895887259">0.589588726</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>37</td>
+    <td class="xl69" x:str>Slovakia</td>
+    <td class="xl69" align="right" x:num>4938</td>
+    <td class="xl69" align="right" x:num>5455000</td>
+    <td class="xl69" align="right" x:num="0.9052245646">0.905224565</td>
+    <td class="xl69" align="right" x:num="0.58478460129999998">0.584784601</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>38</td>
+    <td class="xl69" x:str>Costa Rica</td>
+    <td class="xl69" align="right" x:num>5340</td>
+    <td class="xl69" align="right" x:num>4516220</td>
+    <td class="xl69" align="right" x:num>1.182404754</td>
+    <td class="xl69" align="right" x:num="0.52477514380000001">0.524775144</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>39</td>
+    <td class="xl69" x:str>Greece</td>
+    <td class="xl69" align="right" x:num>30541</td>
+    <td class="xl69" align="right" x:num>11000000</td>
+    <td class="xl69" align="right" x:num>2.776454545</td>
+    <td class="xl69" align="right" x:num="0.49181818179999998">0.491818182</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>40</td>
+    <td class="xl69" x:str>Serbia</td>
+    <td class="xl69" align="right" x:num>4817</td>
+    <td class="xl69" align="right" x:num>7344847</td>
+    <td class="xl69" align="right" x:num="0.6558339473">0.655833947</td>
+    <td class="xl69" align="right" x:num="0.48605505329999998">0.486055053</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>41</td>
+    <td class="xl69" x:str>Russia</td>
+    <td class="xl69" align="right" x:num>101331</td>
+    <td class="xl69" align="right" x:num>140702000</td>
+    <td class="xl69" align="right" x:num="0.72018166049999999">0.720181661</td>
+    <td class="xl69" align="right" x:num="0.45415132689999999">0.454151327</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>42</td>
+    <td class="xl69" x:str>Italy</td>
+    <td class="xl69" align="right" x:num>46350</td>
+    <td class="xl69" align="right" x:num>60340328</td>
+    <td class="xl69" align="right" x:num="0.76814299050000001">0.768142991</td>
+    <td class="xl69" align="right" x:num="0.4491192027">0.449119203</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>43</td>
+    <td class="xl69" x:str>Japan</td>
+    <td class="xl69" align="right" x:num>108934</td>
+    <td class="xl69" align="right" x:num>127288000</td>
+    <td class="xl69" align="right" x:num="0.85580730309999997">0.855807303</td>
+    <td class="xl69" align="right" x:num="0.44528942240000002">0.445289422</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>44</td>
+    <td class="xl69" x:str>Cyprus</td>
+    <td class="xl69" align="right" x:num>538</td>
+    <td class="xl69" align="right" x:num>1102677</td>
+    <td class="xl69" align="right" x:num="0.48790352930000003">0.487903529</td>
+    <td class="xl69" align="right" x:num="0.4353042641">0.435304264</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>45</td>
+    <td class="xl69" x:str>Argentina</td>
+    <td class="xl69" align="right" x:num>22286</td>
+    <td class="xl69" align="right" x:num>41343201</td>
+    <td class="xl69" align="right" x:num="0.53904873019999999">0.53904873</td>
+    <td class="xl69" align="right" x:num="0.40635460229999998">0.406354602</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>46</td>
+    <td class="xl69" x:str>Romania</td>
+    <td class="xl69" align="right" x:num>13462</td>
+    <td class="xl69" align="right" x:num>21959278</td>
+    <td class="xl69" align="right" x:num>0.613043835</td>
+    <td class="xl69" align="right" x:num="0.39983099630000002">0.399830996</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>47</td>
+    <td class="xl69" x:str>Brazil</td>
+    <td class="xl69" align="right" x:num>104802</td>
+    <td class="xl69" align="right" x:num>201103330</td>
+    <td class="xl69" align="right" x:num="0.52113508019999999">0.52113508</td>
+    <td class="xl69" align="right" x:num="0.39208699330000002">0.392086993</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>48</td>
+    <td class="xl69" x:str>Chile</td>
+    <td class="xl69" align="right" x:num>8133</td>
+    <td class="xl69" align="right" x:num>16746491</td>
+    <td class="xl69" align="right" x:num="0.48565397970000002">0.48565398</td>
+    <td class="xl69" align="right" x:num="0.37142109350000002">0.371421094</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>49</td>
+    <td class="xl69" x:str>Macedonia</td>
+    <td class="xl69" align="right" x:num>795</td>
+    <td class="xl69" align="right" x:num>2062294</td>
+    <td class="xl69" align="right" x:num>0.385493048</td>
+    <td class="xl69" align="right" x:num="0.35397474849999999">0.353974749</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>50</td>
+    <td class="xl69" x:str>United Arab Emirates</td>
+    <td class="xl69" align="right" x:num>3313</td>
+    <td class="xl69" align="right" x:num>4975593</td>
+    <td class="xl69" align="right" x:num="0.66585028160000004">0.665850282</td>
+    <td class="xl69" align="right" x:num>0.317550089</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>51</td>
+    <td class="xl69" x:str>Maldives</td>
+    <td class="xl69" align="right" x:num>108</td>
+    <td class="xl69" align="right" x:num>395650</td>
+    <td class="xl69" align="right" x:num="0.2729685328">0.272968533</td>
+    <td class="xl69" align="right" x:num="0.30329836980000002">0.30329837</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>52</td>
+    <td class="xl69" x:str>Montenegro</td>
+    <td class="xl69" align="right" x:num>207</td>
+    <td class="xl69" align="right" x:num>666730</td>
+    <td class="xl69" align="right" x:num="0.31047050529999998">0.310470505</td>
+    <td class="xl69" align="right" x:num="0.2999715027">0.299971503</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>53</td>
+    <td class="xl69" x:str>South Korea</td>
+    <td class="xl69" align="right" x:num>24823</td>
+    <td class="xl69" align="right" x:num>48422644</td>
+    <td class="xl69" align="right" x:num="0.51263206530000005">0.512632065</td>
+    <td class="xl69" align="right" x:num="0.25835020489999999">0.258350205</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>54</td>
+    <td class="xl69" x:str>Malta</td>
+    <td class="xl69" align="right" x:num>91</td>
+    <td class="xl69" align="right" x:num>403000</td>
+    <td class="xl69" align="right" x:num="0.22580645160000001">0.225806452</td>
+    <td class="xl69" align="right" x:num="0.2481389578">0.248138958</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>55</td>
+    <td class="xl69" x:str>Qatar</td>
+    <td class="xl69" align="right" x:num>117</td>
+    <td class="xl69" align="right" x:num>840926</td>
+    <td class="xl69" align="right" x:num="0.1391323374">0.139132337</td>
+    <td class="xl69" align="right" x:num="0.22594140269999999">0.225941403</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>56</td>
+    <td class="xl69" x:str>Colombia</td>
+    <td class="xl69" align="right" x:num>16109</td>
+    <td class="xl69" align="right" x:num>47790000</td>
+    <td class="xl69" align="right" x:num="0.33707888679999998">0.337078887</td>
+    <td class="xl69" align="right" x:num="0.2184557439">0.218455744</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>57</td>
+    <td class="xl69" x:str>Moldova</td>
+    <td class="xl69" align="right" x:num>1330</td>
+    <td class="xl69" align="right" x:num>4324000</td>
+    <td class="xl69" align="right" x:num="0.30758556889999999">0.307585569</td>
+    <td class="xl69" align="right" x:num="0.2173913043">0.217391304</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>58</td>
+    <td class="xl69" x:str>Armenia</td>
+    <td class="xl69" align="right" x:num>977</td>
+    <td class="xl69" align="right" x:num>2968000</td>
+    <td class="xl69" align="right" x:num="0.32917789759999999">0.329177898</td>
+    <td class="xl69" align="right" x:num="0.19204851749999999">0.192048518</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>59</td>
+    <td class="xl69" x:str>Panama</td>
+    <td class="xl69" align="right" x:num>778</td>
+    <td class="xl69" align="right" x:num>3410676</td>
+    <td class="xl69" align="right" x:num="0.22810727259999999">0.228107273</td>
+    <td class="xl69" align="right" x:num="0.1700542649">0.170054265</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>60</td>
+    <td class="xl69" x:str>South Africa</td>
+    <td class="xl69" align="right" x:num>12318</td>
+    <td class="xl69" align="right" x:num>49000000</td>
+    <td class="xl69" align="right" x:num="0.2513877551">0.251387755</td>
+    <td class="xl69" align="right" x:num="0.1681632653">0.168163265</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>61</td>
+    <td class="xl69" x:str>Swaziland</td>
+    <td class="xl69" align="right" x:num>254</td>
+    <td class="xl69" align="right" x:num>1354051</td>
+    <td class="xl69" align="right" x:num="0.18758525340000001">0.187585253</td>
+    <td class="xl69" align="right" x:num="0.16247541639999999">0.162475416</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>62</td>
+    <td class="xl69" x:str>Bosnia and Herzegovina</td>
+    <td class="xl69" align="right" x:num>1073</td>
+    <td class="xl69" align="right" x:num>4590000</td>
+    <td class="xl69" align="right" x:num="0.23376906319999999">0.233769063</td>
+    <td class="xl69" align="right" x:num="0.15468409590000001">0.154684096</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>63</td>
+    <td class="xl69" x:str>Venezuela</td>
+    <td class="xl69" align="right" x:num>5851</td>
+    <td class="xl69" align="right" x:num>27223228</td>
+    <td class="xl69" align="right" x:num>0.214926753</td>
+    <td class="xl69" align="right" x:num>0.153178014</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>64</td>
+    <td class="xl69" x:str>Turkey</td>
+    <td class="xl69" align="right" x:num>16454</td>
+    <td class="xl69" align="right" x:num>77804122</td>
+    <td class="xl69" align="right" x:num="0.21147979789999999">0.211479798</td>
+    <td class="xl69" align="right" x:num="0.14986352519999999">0.149863525</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>65</td>
+    <td class="xl69" x:str>Sri Lanka</td>
+    <td class="xl69" align="right" x:num>5241</td>
+    <td class="xl69" align="right" x:num>21513990</td>
+    <td class="xl69" align="right" x:num="0.24360892610000001">0.243608926</td>
+    <td class="xl69" align="right" x:num>0.146881169</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>66</td>
+    <td class="xl69" x:str>Mauritius</td>
+    <td class="xl69" align="right" x:num>104</td>
+    <td class="xl69" align="right" x:num>1294104</td>
+    <td class="xl69" align="right" x:num="8.0364483840000001e-02">0.080364484</td>
+    <td class="xl69" align="right" x:num="0.14681973009999999">0.14681973</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>67</td>
+    <td class="xl69" x:str>Trinidad and Tobago</td>
+    <td class="xl69" align="right" x:num>326</td>
+    <td class="xl69" align="right" x:num>1228691</td>
+    <td class="xl69" align="right" x:num="0.26532301450000001">0.265323015</td>
+    <td class="xl69" align="right" x:num="0.1383586272">0.138358627</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>68</td>
+    <td class="xl69" x:str>Mexico</td>
+    <td class="xl69" align="right" x:num>27956</td>
+    <td class="xl69" align="right" x:num>112468855</td>
+    <td class="xl69" align="right" x:num="0.24856659210000001">0.248566592</td>
+    <td class="xl69" align="right" x:num="0.1365711423">0.136571142</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>69</td>
+    <td class="xl69" x:str>Ecuador</td>
+    <td class="xl69" align="right" x:num>2701</td>
+    <td class="xl69" align="right" x:num>14790608</td>
+    <td class="xl69" align="right" x:num="0.18261588710000001">0.182615887</td>
+    <td class="xl69" align="right" x:num="0.1277837936">0.127783794</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>70</td>
+    <td class="xl69" x:str>Bahrain</td>
+    <td class="xl69" align="right" x:num>84</td>
+    <td class="xl69" align="right" x:num>738004</td>
+    <td class="xl69" align="right" x:num="0.1138205213">0.113820521</td>
+    <td class="xl69" align="right" x:num="0.1219505585">0.121950559</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>71</td>
+    <td class="xl69" x:str>Malaysia</td>
+    <td class="xl69" align="right" x:num>7006</td>
+    <td class="xl69" align="right" x:num>28274729</td>
+    <td class="xl69" align="right" x:num="0.2477830999">0.2477831</td>
+    <td class="xl69" align="right" x:num="0.1216634119">0.121663412</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>72</td>
+    <td class="xl69" x:str>Lebanon</td>
+    <td class="xl69" align="right" x:num>584</td>
+    <td class="xl69" align="right" x:num>4125247</td>
+    <td class="xl69" align="right" x:num="0.14156728069999999">0.141567281</td>
+    <td class="xl69" align="right" x:num="0.11878076630000001">0.118780766</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>73</td>
+    <td class="xl69" x:str>China</td>
+    <td class="xl69" align="right" x:num>250708</td>
+    <td class="xl69" align="right" x:num>1330044000</td>
+    <td class="xl69" align="right" x:num="0.18849601969999999">0.18849602</td>
+    <td class="xl69" align="right" x:num="0.1157405319">0.115740532</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>74</td>
+    <td class="xl69" x:str>Peru</td>
+    <td class="xl69" align="right" x:num>3563</td>
+    <td class="xl69" align="right" x:num>29907003</td>
+    <td class="xl69" align="right" x:num="0.1191359763">0.119135976</td>
+    <td class="xl69" align="right" x:num="0.1146888573">0.114688857</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>75</td>
+    <td class="xl69" x:str>Jamaica</td>
+    <td class="xl69" align="right" x:num>673</td>
+    <td class="xl69" align="right" x:num>2847232</td>
+    <td class="xl69" align="right" x:num>0.23636992</td>
+    <td class="xl69" align="right" x:num="0.1123898579">0.112389858</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>76</td>
+    <td class="xl69" x:str>Georgia</td>
+    <td class="xl69" align="right" x:num>906</td>
+    <td class="xl69" align="right" x:num>4630000</td>
+    <td class="xl69" align="right" x:num="0.1956803456">0.195680346</td>
+    <td class="xl69" align="right" x:num="0.11231101509999999">0.112311015</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>77</td>
+    <td class="xl69" x:str>Vietnam</td>
+    <td class="xl69" align="right" x:num>15855</td>
+    <td class="xl69" align="right" x:num>89571130</td>
+    <td class="xl69" align="right" x:num="0.17701015940000001">0.177010159</td>
+    <td class="xl69" align="right" x:num="0.1051678147">0.105167815</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>78</td>
+    <td class="xl69" x:str>Guatemala</td>
+    <td class="xl69" align="right" x:num>1449</td>
+    <td class="xl69" align="right" x:num>13550440</td>
+    <td class="xl69" align="right" x:num>0.106933797</td>
+    <td class="xl69" align="right" x:num="9.8889777750000005e-02">0.098889778</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>79</td>
+    <td class="xl69" x:str>Dominican Republic</td>
+    <td class="xl69" align="right" x:num>910</td>
+    <td class="xl69" align="right" x:num>9823821</td>
+    <td class="xl69" align="right" x:num="9.263198098e-02">0.092631981</td>
+    <td class="xl69" align="right" x:num="9.6703716410000001e-02">0.096703716</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>80</td>
+    <td class="xl69" x:str>Tunisia</td>
+    <td class="xl69" align="right" x:num>988</td>
+    <td class="xl69" align="right" x:num>10589025</td>
+    <td class="xl69" align="right" x:num="9.3304152180000002e-02">0.093304152</td>
+    <td class="xl69" align="right" x:num="9.6326149010000001e-02">0.096326149</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>81</td>
+    <td class="xl69" x:str>El Salvador</td>
+    <td class="xl69" align="right" x:num>797</td>
+    <td class="xl69" align="right" x:num>6052064</td>
+    <td class="xl69" align="right" x:num>0.13169061</td>
+    <td class="xl69" align="right" x:num="9.5835073790000003e-02">0.095835074</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>82</td>
+    <td class="xl69" x:str>Paraguay</td>
+    <td class="xl69" align="right" x:num>772</td>
+    <td class="xl69" align="right" x:num>6375830</td>
+    <td class="xl69" align="right" x:num="0.1210822748">0.121082275</td>
+    <td class="xl69" align="right" x:num="9.4105394910000001e-02">0.094105395</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>83</td>
+    <td class="xl69" x:str>Bolivia</td>
+    <td class="xl69" align="right" x:num>999</td>
+    <td class="xl69" align="right" x:num>9947418</td>
+    <td class="xl69" align="right" x:num="0.1004280709">0.100428071</td>
+    <td class="xl69" align="right" x:num="8.9470453539999995e-02">0.089470454</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>84</td>
+    <td class="xl69" x:str>Jordan</td>
+    <td class="xl69" align="right" x:num>9543</td>
+    <td class="xl69" align="right" x:num>6407085</td>
+    <td class="xl69" align="right" x:num>1.489444888</td>
+    <td class="xl69" align="right" x:num="8.2720925350000002e-02">0.082720925</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>85</td>
+    <td class="xl69" x:str>Thailand</td>
+    <td class="xl69" align="right" x:num>8678</td>
+    <td class="xl69" align="right" x:num>67089500</td>
+    <td class="xl69" align="right" x:num="0.1293496002">0.1293496</td>
+    <td class="xl69" align="right" x:num="8.2576260070000004e-02">0.08257626</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>86</td>
+    <td class="xl69" x:str>Nepal</td>
+    <td class="xl69" align="right" x:num>2626</td>
+    <td class="xl69" align="right" x:num>28951852</td>
+    <td class="xl69" align="right" x:num>0.090702315</td>
+    <td class="xl69" align="right" x:num="8.1860048190000007e-02">0.081860048</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>87</td>
+    <td class="xl69" x:str>Palestinian Territory</td>
+    <td class="xl69" align="right" x:num>389</td>
+    <td class="xl69" align="right" x:num>3800000</td>
+    <td class="xl69" align="right" x:num="0.1023684211">0.102368421</td>
+    <td class="xl69" align="right" x:num="7.8947368419999997e-02">0.078947368</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>88</td>
+    <td class="xl69" x:str>Kyrgyzstan</td>
+    <td class="xl69" align="right" x:num>590</td>
+    <td class="xl69" align="right" x:num>5508626</td>
+    <td class="xl69" align="right" x:num="0.10710474809999999">0.107104748</td>
+    <td class="xl69" align="right" x:num="7.4428723239999994e-02">0.074428723</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>89</td>
+    <td class="xl69" x:str>Philippines</td>
+    <td class="xl69" align="right" x:num>11640</td>
+    <td class="xl69" align="right" x:num>99900177</td>
+    <td class="xl69" align="right" x:num="0.11651631010000001">0.11651631</td>
+    <td class="xl69" align="right" x:num="7.1571444760000005e-02">0.071571445</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>90</td>
+    <td class="xl69" x:str>Kazakhstan</td>
+    <td class="xl69" align="right" x:num>1700</td>
+    <td class="xl69" align="right" x:num>15340000</td>
+    <td class="xl69" align="right" x:num>0.110821382</td>
+    <td class="xl69" align="right" x:num="7.1056062579999996e-02">0.071056063</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>91</td>
+    <td class="xl69" x:str>India</td>
+    <td class="xl69" align="right" x:num>109823</td>
+    <td class="xl69" align="right" x:num>1173108018</td>
+    <td class="xl69" align="right" x:num="9.3617125029999998e-02">0.093617125</td>
+    <td class="xl69" align="right" x:num="7.0956807659999996e-02">0.070956808</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>92</td>
+    <td class="xl69" x:str>Kenya</td>
+    <td class="xl69" align="right" x:num>3974</td>
+    <td class="xl69" align="right" x:num>40046566</td>
+    <td class="xl69" align="right" x:num="9.9234476180000003e-02">0.099234476</td>
+    <td class="xl69" align="right" x:num="6.9918604260000003e-02">0.069918604</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>93</td>
+    <td class="xl69" x:str>Nicaragua</td>
+    <td class="xl69" align="right" x:num>396</td>
+    <td class="xl69" align="right" x:num>5995928</td>
+    <td class="xl69" align="right" x:num="6.6044822419999996e-02">0.066044822</td>
+    <td class="xl69" align="right" x:num="6.6711941839999997e-02">0.066711942</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>94</td>
+    <td class="xl69" x:str>Azerbaijan</td>
+    <td class="xl69" align="right" x:num>759</td>
+    <td class="xl69" align="right" x:num>8303512</td>
+    <td class="xl69" align="right" x:num="9.140710581e-02">0.091407106</td>
+    <td class="xl69" align="right" x:num="6.6237033200000003e-02">0.066237033</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>95</td>
+    <td class="xl69" x:str>Gabon</td>
+    <td class="xl69" align="right" x:num>103</td>
+    <td class="xl69" align="right" x:num>1545255</td>
+    <td class="xl69" align="right" x:num="6.6655665249999996e-02">0.066655665</td>
+    <td class="xl69" align="right" x:num="6.4714238100000002e-02">0.064714238</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>96</td>
+    <td class="xl69" x:str>Belize</td>
+    <td class="xl69" align="right" x:num>5</td>
+    <td class="xl69" align="right" x:num>314522</td>
+    <td class="xl69" align="right" x:num="1.589713915e-02">0.015897139</td>
+    <td class="xl69" align="right" x:num="6.3588556599999999e-02">0.063588557</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>97</td>
+    <td class="xl69" x:str>Benin</td>
+    <td class="xl69" align="right" x:num>1053</td>
+    <td class="xl69" align="right" x:num>9056010</td>
+    <td class="xl69" align="right" x:num="0.11627637339999999">0.116276373</td>
+    <td class="xl69" align="right" x:num="5.9628909420000001e-02">0.059628909</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>98</td>
+    <td class="xl69" x:str>Albania</td>
+    <td class="xl69" align="right" x:num>239</td>
+    <td class="xl69" align="right" x:num>2986952</td>
+    <td class="xl69" align="right" x:num="8.0014677170000006e-02">0.080014677</td>
+    <td class="xl69" align="right" x:num="5.6914205519999997e-02">0.056914206</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>99</td>
+    <td class="xl69" x:str>Honduras</td>
+    <td class="xl69" align="right" x:num>494</td>
+    <td class="xl69" align="right" x:num>7989415</td>
+    <td class="xl69" align="right" x:num="6.1831811219999998e-02">0.061831811</td>
+    <td class="xl69" align="right" x:num="5.507286829e-02">0.055072868</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="17.55" style='height:17.55pt;mso-height-source:userset;mso-height-alt:351;'>
+    <td class="xl68" height="17.55" style='height:17.55pt;' x:num>100</td>
+    <td class="xl69" x:str>Mongolia</td>
+    <td class="xl69" align="right" x:num>133</td>
+    <td class="xl69" align="right" x:num>3086918</td>
+    <td class="xl69" align="right" x:num="4.3085044699999998e-02">0.043085045</td>
+    <td class="xl69" align="right" x:num="5.507110976e-02">0.05507111</td>
+    <td class="xl70" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:560;'>
+    <td class="xl71" height="0" colspan="5" id="waffle-disclaimer-content" style='height:0.00pt;border-right:none;border-bottom:none;' x:str><a href="http://www.google.com/googlefinance/disclaimer/" target="_parent">Quotes are not sourced from all markets and may be delayed up to 20 minutes. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.Disclaimer</a></td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" height="75.75" rowspan="5" style='height:75.75pt;border-right:none;border-bottom:none;'></td>
+    <td class="xl69" rowspan="5" style='border-right:none;border-bottom:none;'></td>
+    <td class="xl69" x:str>results-20160907-233536.csv</td>
+    <td class="xl69" rowspan="5" style='border-right:none;border-bottom:none;'></td>
+    <td class="xl65" rowspan="5"></td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart push events</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart unique_users / population</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart push_events / population</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15.75" style='height:15.75pt;'>
+    <td class="xl69" x:str>Sheet1</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;mso-outline-level:2;'>
+    <td class="xl72" height="14.35" id="diverrorie" style='height:14.35pt;' x:str>A brows<span style='display:none;'>er error has occurred.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;'>
+    <td class="xl72" height="14.35" id="diverrorie" style='height:14.35pt;' x:str>Please p<span style='display:none;'>ress Ctrl-F5 to refresh the page and try again.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;mso-outline-level:6;'>
+    <td class="xl72" height="14.35" id="diverror" style='height:14.35pt;' x:str>A brows<span style='display:none;'>er error has occurred.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;'>
+    <td class="xl72" height="14.35" id="diverror" style='height:14.35pt;' x:str>Please h<span style='display:none;'>old the Shift key and click the Refresh button to try again.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:560;'>
+    <td class="xl71" height="0" colspan="5" id="waffle-disclaimer-content" style='height:0.00pt;border-right:none;border-bottom:none;' x:str><a href="http://www.google.com/googlefinance/disclaimer/" target="_parent">Quotes are not sourced from all markets and may be delayed up to 20 minutes. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.Disclaimer</a></td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" height="75.75" rowspan="5" style='height:75.75pt;border-right:none;border-bottom:none;'></td>
+    <td class="xl69" rowspan="5" style='border-right:none;border-bottom:none;'></td>
+    <td class="xl69" x:str>results-20160907-233536.csv</td>
+    <td class="xl69" rowspan="5" style='border-right:none;border-bottom:none;'></td>
+    <td class="xl65" rowspan="5"></td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart push events</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart unique_users / population</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15" style='height:15.00pt;'>
+    <td class="xl69" x:str>chart push_events / population</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="15.75" style='height:15.75pt;'>
+    <td class="xl69" x:str>Sheet1</td>
+    <td class="xl65" colspan="20" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;mso-outline-level:4;'>
+    <td class="xl72" height="14.35" id="diverrorie" style='height:14.35pt;' x:str>A brows<span style='display:none;'>er error has occurred.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;'>
+    <td class="xl72" height="14.35" id="diverrorie" style='height:14.35pt;' x:str>Please p<span style='display:none;'>ress Ctrl-F5 to refresh the page and try again.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;mso-outline-level:2;'>
+    <td class="xl72" height="14.35" id="diverror" style='height:14.35pt;' x:str>A brows<span style='display:none;'>er error has occurred.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="14.35" style='height:14.35pt;'>
+    <td class="xl72" height="14.35" id="diverror" style='height:14.35pt;' x:str>Please h<span style='display:none;'>old the Shift key and click the Refresh button to try again.</span></td>
+    <td class="xl65" colspan="24" style='mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="36" style='width:36;'></td>
+     <td width="180" style='width:180;'></td>
+     <td width="216" style='width:216;'></td>
+     <td width="94" style='width:94;'></td>
+     <td width="98" style='width:98;'></td>
+     <td width="94" style='width:94;'></td>
+     <td width="14" style='width:14;'></td>
+     <td width="216" style='width:216;'></td>
+     <td width="16" style='width:16;'></td>
+     <td width="16" style='width:16;'></td>
+     <td width="15" style='width:15;'></td>
+     <td width="16" style='width:16;'></td>
+     <td width="16" style='width:16;'></td>
+     <td width="15" style='width:15;'></td>
+     <td width="14" style='width:14;'></td>
+     <td width="16" style='width:16;'></td>
+     <td width="15" style='width:15;'></td>
+     <td width="18" style='width:18;'></td>
+     <td width="15" style='width:15;'></td>
+     <td width="14" style='width:14;'></td>
+     <td width="22" style='width:22;'></td>
+     <td width="22" style='width:22;'></td>
+     <td width="51" style='width:51;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
