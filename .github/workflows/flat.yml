@@ -181,14 +181,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_electricity_coverage.xls
-           downloaded_filename: data/%_population_electricity_coverage.xls
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
            downloaded_filename: data/elec_supply_quality.xlsx
            postprocess: ./process_raw_data.js
@@ -303,22 +295,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
            downloaded_filename: data/time_start_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_using_internet.csv
-           downloaded_filename: data/%_population_using_internet.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_using_internet_gender_index.csv
-           downloaded_filename: data/%_population_using_internet_gender_index.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
