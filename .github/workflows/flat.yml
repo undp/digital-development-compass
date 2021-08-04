@@ -109,8 +109,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://github.com/mbelinsky/public_development_data/raw/main/%25_population_electricity_coverage.xls
-           downloaded_filename: data/%_population_electricity_coverage.xls
+           http_url: https://github.com/mbelinsky/public_development_data/raw/main/%25_population_electricity_coverage.csv
+           downloaded_filename: data/%_population_electricity_coverage.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data

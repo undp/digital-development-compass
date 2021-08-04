@@ -1,0 +1,100 @@
+Region,Subregion,Country_Name,ISO3,Cost_100_MB_USD,Cost_100_MB_Share_GNICM,Cost_500_MB_USD,Cost_500_MB_Share_GNICM,Cost_1_GB_USD,Cost_1_GB_Share_GNICM,Cost_2_GB_USD,Cost_2_GB_Share_GNICM,Cost_5_GB_USD,Cost_5_GB_Share_GNICM,Cost_10_GB_USD,Cost_10_GB_Share_GNICM,GBs_per_2%_GNICM
+Asia,Southern Asia,Afghanistan,AFG,1.91,0.04,1.91,0.04,1.91,0.04,2.55,0.06,6.38,0.14,12.74,0.28,0.48
+Africa,Northern Africa,Algeria,DZA,6.70,0.02,6.70,0.02,6.70,0.02,12.57,0.04,16.76,0.05,16.76,0.05,1.01
+Africa,Middle Africa,Angola,AGO,2.13,0.01,6.10,0.02,6.10,0.02,9.15,0.03,15.25,0.05,30.49,0.11,0.92
+Americas,Southern America,Argentina,ARG,6.84,0.01,6.84,0.01,6.84,0.01,6.84,0.01,8.44,0.01,15.05,0.01,3.01
+Asia,Southern Asia,Bangladesh,BGD,0.59,0.00,1.89,0.01,2.24,0.02,3.43,0.02,4.73,0.03,7.69,0.05,1.30
+Americas,Central America,Belize,BLZ,17.38,0.04,17.38,0.04,17.38,0.04,17.38,0.04,17.38,0.04,34.75,0.09,0.45
+Africa,Western Africa,Benin,BEN,4.28,0.06,4.28,0.06,4.28,0.06,6.85,0.09,10.28,0.14,20.55,0.28,0.34
+Americas,Southern America,Bolivia,BOL,1.30,0.00,2.90,0.01,5.79,0.02,7.24,0.03,12.16,0.04,24.32,0.09,0.97
+Africa,Southern Africa,Botswana,BWA,5.59,0.01,8.85,0.01,8.85,0.01,13.51,0.02,32.01,0.05,62.29,0.10,1.46
+Americas,Southern America,Brazil,BRA,9.83,0.01,9.83,0.01,9.83,0.01,9.83,0.01,13.47,0.02,16.38,0.02,1.55
+Africa,Western Africa,Burkina Faso,BFA,2.57,0.05,2.57,0.05,4.28,0.08,6.85,0.12,13.70,0.25,25.69,0.47,0.26
+Africa,Eastern Africa,Burundi,BDI,0.55,0.02,2.18,0.09,3.17,0.14,3.51,0.15,8.42,0.36,16.37,0.70,0.15
+Asia,South-Eastern Asia,Cambodia,KHM,1.00,0.01,1.00,0.01,2.00,0.02,2.50,0.02,4.50,0.04,8.50,0.07,1.15
+Africa,Middle Africa,Cameroon,CMR,1.32,0.01,2.91,0.02,3.43,0.03,5.14,0.04,8.56,0.07,17.13,0.14,0.70
+Africa,Western Africa,Cape Verde,CPV,5.09,0.02,5.09,0.02,5.09,0.02,5.09,0.02,5.09,0.02,10.19,0.04,1.13
+Africa,Middle Africa,Central African Republic,CAF,5.14,0.13,7.34,0.18,9.05,0.23,13.58,0.34,25.69,0.64,42.82,1.07,0.09
+Africa,Middle Africa,Chad,TCD,5.14,0.09,10.28,0.18,11.99,0.21,17.13,0.31,20.55,0.37,34.25,0.61,0.09
+Asia,Eastern Asia,China,CHN,5.57,0.01,5.57,0.01,5.57,0.01,8.50,0.01,12.90,0.02,20.23,0.03,2.83
+Americas,Southern America,Colombia,COL,9.26,0.02,9.26,0.02,9.26,0.02,12.35,0.02,28.41,0.06,56.81,0.11,1.11
+Africa,Eastern Africa,Comoros,COM,5.99,0.05,5.99,0.05,5.99,0.05,9.13,0.08,17.12,0.16,22.82,0.21,0.37
+Africa,Middle Africa,Congo Brazzaville,COG,3.67,0.03,4.53,0.03,8.73,0.06,17.13,0.13,30.83,0.23,42.82,0.31,0.31
+Americas,Central America,Costa Rica,CRI,6.75,0.01,6.75,0.01,6.75,0.01,6.75,0.01,20.26,0.02,33.76,0.04,2.84
+Africa,Western Africa,Cote d'Ivoire,CIV,3.43,0.03,3.43,0.03,6.85,0.05,8.56,0.06,17.13,0.13,25.69,0.19,0.39
+Americas,Caribbean,Cuba,CUB,7.01,NA,7.01,NA,10.01,NA,20.02,NA,40.03,NA,80.06,NA,NA
+Africa,Middle Africa,D.R. Congo,COD,10.71,0.26,10.71,0.26,10.71,0.26,13.21,0.32,25.00,0.61,50.00,1.22,0.08
+Americas,Caribbean,Dominican Republic,DOM,7.90,0.01,7.90,0.01,7.90,0.01,11.85,0.02,16.59,0.03,16.59,0.03,1.56
+Americas,Southern America,Ecuador,ECU,10.00,0.02,10.00,0.02,10.00,0.02,10.00,0.02,20.00,0.04,40.00,0.08,1.02
+Africa,Northern Africa,Egypt,EGY,0.29,0.00,0.59,0.00,1.18,0.01,2.35,0.01,4.71,0.02,8.82,0.04,3.97
+Americas,Central America,El Salvador,SLV,10.00,0.03,10.00,0.03,10.00,0.03,15.00,0.05,15.00,0.05,15.00,0.05,0.64
+Africa,West Africa,Equatorial Guinea,GNQ,25.69,NA,29.11,NA,34.25,NA,68.51,NA,137.01,NA,274.02,NA,NA
+Africa,Eastern Africa,Ethiopia,ETH,3.13,0.05,3.13,0.05,3.48,0.05,6.61,0.10,14.70,0.22,24.34,0.37,0.38
+Oceania,Melanesia,Fiji,FJI,13.94,0.03,13.94,0.03,13.94,0.03,13.94,0.03,13.94,0.03,13.94,0.03,0.70
+Africa,Middle Africa,Gabon,GAB,5.14,0.01,5.14,0.01,6.85,0.01,10.28,0.02,25.69,0.05,25.69,0.05,1.65
+Africa,Western Africa,Gambia,GMB,0.81,0.01,2.92,0.05,5.04,0.09,9.98,0.17,15.53,0.27,26.21,0.45,0.23
+Asia,Western Asia,Georgia,GEO,1.82,0.01,1.82,0.01,1.82,0.01,3.28,0.01,4.37,0.01,8.74,0.03,3.78
+Africa,Western Africa,Ghana,GHA,0.82,0.00,2.45,0.01,3.60,0.02,6.46,0.04,10.08,0.06,17.17,0.10,0.99
+Americas,Central America,Guatemala,GTM,12.91,0.04,12.91,0.04,12.91,0.04,12.91,0.04,12.91,0.04,19.56,0.05,0.57
+Africa,Western Africa,Guinea,GIN,3.22,0.05,3.22,0.05,3.65,0.05,5.47,0.08,9.63,0.14,16.14,0.23,0.38
+Africa,Western Africa,Guinea-Bissau,GNB,5.14,0.08,7.34,0.12,12.48,0.20,17.13,0.27,17.13,0.27,25.69,0.41,0.10
+Americas,Southern America,Guyana,GUY,2.20,0.01,5.75,0.01,8.14,0.02,16.28,0.04,32.83,0.08,54.58,0.14,0.97
+Americas,Caribbean,Haiti,HTI,2.03,0.03,2.03,0.03,2.03,0.03,2.03,0.03,3.26,0.05,5.09,0.08,0.66
+Americas,Central America,Honduras,HND,18.76,0.10,18.76,0.10,18.76,0.10,22.28,0.11,28.14,0.14,49.58,0.26,0.21
+Asia,Southern Asia,India,IND,0.43,0.00,0.51,0.00,0.75,0.00,0.75,0.00,1.46,0.01,2.86,0.02,4.47
+Asia,South-Eastern Asia,Indonesia,IDN,3.86,0.01,3.86,0.01,3.86,0.01,4.07,0.01,8.14,0.03,12.21,0.04,1.66
+Asia,Southern Asia,Iran,IRN,1.92,NA,1.92,NA,1.92,NA,3.84,NA,6.12,NA,8.82,NA,NA
+Americas,Caribbean,Jamaica,JAM,2.03,0.00,3.93,0.01,7.72,0.02,10.98,0.03,16.69,0.04,22.76,0.05,1.08
+Asia,Western Asia,Jordan,JOR,4.09,0.01,5.73,0.02,8.18,0.02,11.09,0.03,11.09,0.03,11.45,0.03,0.86
+Asia,Central Asia,Kazakhstan,KAZ,2.08,0.00,2.08,0.00,2.08,0.00,2.08,0.00,4.18,0.01,8.35,0.01,6.29
+Africa,Eastern Africa,Kenya,KEN,1.48,0.01,2.61,0.02,4.19,0.03,4.94,0.04,9.88,0.07,19.75,0.15,0.64
+Asia,Central Asia,Kyrgyzstan,KGZ,3.07,0.03,3.07,0.03,3.07,0.03,3.07,0.03,3.79,0.04,6.06,0.06,0.66
+Asia,South-Eastern Asia,Laos,LAO,1.15,0.01,2.30,0.01,4.61,0.02,4.94,0.02,4.94,0.02,6.91,0.03,0.89
+Asia,Western Asia,Lebanon,LBN,11.10,0.02,11.10,0.02,21.09,0.03,28.86,0.05,28.86,0.05,36.63,0.06,0.61
+Africa,Southern Africa,Lesotho,LSO,4.17,0.04,5.36,0.05,5.36,0.05,7.87,0.07,14.90,0.13,23.84,0.21,0.43
+Africa,Western Africa,Liberia,LBR,1.15,0.02,4.60,0.09,8.63,0.17,11.50,0.23,27.37,0.55,27.60,0.55,0.12
+Africa,Northern Africa,Libya,LBY,3.07,0.01,7.37,0.01,11.37,0.02,11.47,0.02,17.92,0.03,17.92,0.03,0.93
+Africa,Eastern Africa,Madagascar,MDG,2.74,0.07,3.52,0.10,5.99,0.16,6.85,0.19,18.10,0.49,31.51,0.86,0.12
+Africa,Eastern Africa,Malawi,MWI,1.75,0.06,3.49,0.12,4.75,0.16,6.79,0.23,14.26,0.48,21.06,0.70,0.13
+Asia,South-Eastern Asia,Malaysia,MYS,3.62,0.00,3.62,0.00,3.62,0.00,3.62,0.00,7.23,0.01,7.23,0.01,4.82
+Africa,Western Africa,Mali,MLI,1.80,0.03,3.43,0.05,6.85,0.10,8.56,0.12,17.13,0.25,34.25,0.50,0.20
+Africa,Eastern Africa,Mauritius,MUS,5.96,0.01,5.96,0.01,5.96,0.01,8.49,0.01,14.16,0.01,28.32,0.03,3.37
+Americas,Central America,Mexico,MEX,8.41,0.01,8.41,0.01,8.41,0.01,8.41,0.01,15.70,0.02,26.16,0.03,1.82
+Asia,Eastern Asia,Mongolia,MNG,6.30,0.02,6.30,0.02,6.30,0.02,6.30,0.02,11.45,0.04,11.45,0.04,0.95
+Africa,Northern Africa,Morocco,MAR,5.19,0.02,5.19,0.02,5.19,0.02,5.19,0.02,5.19,0.02,10.38,0.04,0.99
+Africa,Eastern Africa,Mozambique,MOZ,0.47,0.01,1.67,0.05,2.50,0.07,4.17,0.11,7.89,0.22,15.77,0.43,0.29
+Asia,South-Eastern Asia,Myanmar,MMR,0.46,0.00,0.66,0.01,0.66,0.01,1.31,0.01,3.28,0.03,6.56,0.06,3.33
+Africa,Southern Africa,Namibia,NAM,3.12,0.01,8.57,0.02,8.57,0.02,10.57,0.02,13.52,0.03,18.16,0.04,1.02
+Asia,Southern Asia,Nepal,NPL,1.32,0.02,3.05,0.04,5.08,0.06,10.15,0.13,18.27,0.23,28.42,0.36,0.32
+Americas,Central America,Nicaragua,NIC,9.12,0.05,9.12,0.05,9.12,0.05,11.25,0.07,14.33,0.08,24.36,0.14,0.37
+Africa,Western Africa,Niger,NER,3.43,0.11,3.43,0.11,3.43,0.11,6.85,0.22,10.28,0.32,13.70,0.43,0.18
+Africa,Western Africa,Nigeria,NGA,2.78,0.02,2.78,0.02,2.78,0.02,3.33,0.02,9.72,0.06,13.88,0.08,1.18
+Asia,Southern Asia,Pakistan,PAK,1.43,0.01,1.43,0.01,1.43,0.01,1.43,0.01,2.86,0.02,4.75,0.04,1.84
+Oceania,Melanesia,Papua New Guinea,PNG,8.88,0.04,10.07,0.05,19.84,0.09,22.85,0.11,38.50,0.18,68.12,0.32,0.21
+Americas,Southern America,Paraguay,PRY,7.19,0.02,7.19,0.02,7.19,0.02,7.19,0.02,9.58,0.02,10.27,0.02,1.32
+Americas,Southern America,Peru,PER,9.04,0.02,9.04,0.02,9.04,0.02,9.04,0.02,15.06,0.03,30.12,0.06,1.20
+Asia,South-Eastern Asia,Philippines,PHL,4.33,0.01,4.33,0.01,4.33,0.01,5.77,0.02,7.12,0.02,9.15,0.03,1.47
+Africa,Eastern Africa,Rwanda,RWA,2.21,0.03,2.21,0.03,2.21,0.03,3.31,0.05,5.51,0.08,9.45,0.15,0.59
+Africa,Western Africa,Senegal,SEN,2.57,0.02,3.43,0.03,3.43,0.03,3.43,0.03,6.85,0.06,13.70,0.12,0.69
+Africa,Western Africa,Sierra Leone,SLE,0.96,0.02,2.06,0.05,4.11,0.10,6.21,0.15,18.63,0.45,31.04,0.75,0.20
+Oceania,Melanesia,Solomon Islands,SLB,7.86,0.05,7.86,0.05,9.69,0.06,18.33,0.11,30.56,0.18,62.34,0.37,0.34
+Africa,Eastern Africa,Somalia,SOM,2.00,NA,2.00,NA,4.00,NA,5.00,NA,10.00,NA,20.00,NA,NA
+Africa,Southern Africa,South Africa,ZAF,2.02,0.00,6.25,0.01,10.37,0.02,14.91,0.03,28.18,0.06,42.09,0.09,0.92
+Africa,Eastern Africa,South Sudan,SSD,1.07,NA,2.90,NA,5.36,NA,10.72,NA,20.81,NA,40.98,NA,NA
+Asia,Southern Asia,Sri Lanka,LKA,0.51,0.00,0.51,0.00,0.78,0.00,1.13,0.00,2.55,0.01,5.11,0.02,8.62
+Africa,Northern Africa,Sudan,SDN,0.98,0.01,0.98,0.01,0.98,0.01,1.42,0.01,3.36,0.03,4.81,0.04,2.66
+Americas,Southern America,Suriname,SUR,11.93,0.03,11.93,0.03,11.93,0.03,11.93,0.03,20.11,0.05,22.79,0.05,0.70
+Asia,Central Asia,Tajikistan,TJK,1.59,0.02,3.71,0.04,3.71,0.04,7.42,0.09,14.84,0.18,25.44,0.30,0.45
+Africa,Eastern Africa,Tanzania,TZA,2.17,0.03,2.17,0.03,4.34,0.05,5.58,0.07,13.02,0.15,15.19,0.18,0.39
+Asia,South-Eastern Asia,Thailand,THA,6.30,0.01,6.30,0.01,6.30,0.01,7.57,0.01,12.35,0.02,16.15,0.03,1.75
+Asia,South-Eastern Asia,Timor-Leste,TLS,7.50,0.05,7.50,0.05,7.50,0.05,7.50,0.05,12.50,0.08,25.00,0.16,0.40
+Africa,Western Africa,Togo,TGO,2.57,0.05,3.60,0.07,7.19,0.13,9.54,0.18,14.56,0.27,29.11,0.54,0.15
+Americas,Caribbean,Trinidad and Tobago,TTO,49.35,0.04,49.35,0.04,49.35,0.04,49.35,0.04,49.35,0.04,49.35,0.04,0.55
+Africa,Northern Africa,Tunisia,TUN,3.52,0.01,3.52,0.01,3.52,0.01,3.52,0.01,5.03,0.02,8.39,0.03,1.66
+Asia,Western Asia,Turkey,TUR,4.26,0.00,4.26,0.00,4.26,0.00,5.11,0.01,8.51,0.01,12.77,0.01,4.07
+Africa,Eastern Africa,Uganda,UGA,1.47,0.03,2.27,0.04,4.00,0.08,5.34,0.10,9.08,0.18,13.35,0.26,0.26
+Europe,Eastern Europe,Ukraine,UKR,2.83,0.01,2.83,0.01,2.83,0.01,2.83,0.01,3.77,0.02,7.54,0.03,1.57
+Asia,Central Asia,Uzbekistan,UZB,1.05,0.01,2.81,0.02,2.94,0.02,4.83,0.03,11.78,0.07,16.16,0.10,1.15
+Asia,South-Eastern Asia,Vietnam,VNM,2.15,0.01,2.15,0.01,2.15,0.01,2.15,0.01,3.87,0.02,6.44,0.03,1.86
+Africa,Eastern Africa,Zambia,ZMB,3.34,0.03,3.90,0.03,3.90,0.03,7.79,0.07,7.79,0.07,15.59,0.13,0.61
+Africa,Eastern Africa,Zimbabwe,ZWE,3.00,0.02,12.86,0.09,15.00,0.10,20.00,0.13,30.00,0.20,40.00,0.27,0.20
