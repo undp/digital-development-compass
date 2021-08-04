@@ -141,14 +141,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://github.com/awslabs/open-data-registry/blob/main/datasets/speedtest-global-performance.yaml
-           downloaded_filename: data/isp_speeds.yaml
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/PercentIndividualsUsingInternet.xlsx
            downloaded_filename: data/%_individual_internet_usage.xlsx
            postprocess: ./process_raw_data.js
@@ -165,16 +157,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://github.com/awslabs/open-data-registry/blob/main/datasets/speedtest-global-performance.yaml
-           downloaded_filename: data/fixed_broadband_speed_download_upload_latency.yaml
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://pls.upu.int/pls/ap/layout.flexible_rpt3
-           downloaded_filename: data/postal_coverage.txt
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv
+           downloaded_filename: data/fixed_bdbd_spd_dl_ul.yaml
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
