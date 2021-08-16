@@ -1,12 +1,8 @@
 name: data
 on:
   schedule:
-    - cron: 0 * * * *
+    - cron: 0 4 * * *
   workflow_dispatch: {}
-  push:
-    paths:
-      - .github/workflows/flat.yml
-      - ./process_xlsx.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
