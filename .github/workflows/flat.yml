@@ -118,15 +118,7 @@ jobs:
         if: always()
         with:
            http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
-           downloaded_filename: data/elec_supply_quality.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://data.humdata.org/dataset/5040df47-96a2-4b3c-9a7f-2b7fb2b41316/resource/f1143ea6-0349-423d-9aeb-7eb905f5ffc8/download/electrical_grid_cote_divoire_15.csv
-           downloaded_filename: data/elec_dist_gride_maps.csv
+           downloaded_filename: data/elect_supply_quality.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -182,7 +174,7 @@ jobs:
         if: always()
         with:
            http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
-           downloaded_filename: data/elec_supply_quality.xlsx
+           downloaded_filename: data/elect_supply_quality.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -742,7 +734,7 @@ jobs:
         if: always()
         with:
            http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
-           downloaded_filename: data/school_w_internet.xls
+           downloaded_filename: data/schools_w_internet.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
