@@ -20,7 +20,7 @@ const steps = manifest.map(
 const top = `name: data
 on:
   schedule:
-    - cron: 0 * * * *
+    - cron: 0 0 13 * *
   workflow_dispatch: {}
   push:
     paths:
