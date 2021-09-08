@@ -98,3 +98,5 @@ RD_Percentage_GDP,xls,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.Z
 ICT_Investment,zip,https://goingdigital.oecd.org/api/zip?destinations=https%3A%2F%2Fstats.oecd.org%2FSDMX-JSON%2Fdata%2FGD_BREAKDOWNS_1%2F5-1-2..ICT_TTL_GDP%2BICT_EQP_GDP%2BICT_CMP_GDP%2BICT_TLC_GDP%2BICT_SFW_GDP%2BIPP_TTL_GDP%2BIPP_RD_GDP%2BICT_TTL_GFCF%2BGFCF_TTL_GDP..%2Fall%3FcontentType%3Dcsv%26detail%3Dlabel,,,,
 gender_gap_internet_usage,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/July/IndividualsUsingInternetByGender.xlsx,1,2,,
 %_mobile_subscription,xls,https://api.worldbank.org/v2/en/indicator/IT.CEL.SETS.P2?downloadformat=excel,1,4,,
+start_up_investment,xls,https://stats.oecd.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=9cd053e5-f9bc-488c-857a-21aaf62abbec&Random=0.4350978803289305,,,,
+SDG 4.4_Digital_literacy_data,xls,http://data.uis.unesco.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=e57d4d68-c6ff-433b-be0f-a5741c503486&Random=0.14650437893528356,,,,
