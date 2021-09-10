@@ -44,7 +44,7 @@ tax_%_mobile_ownership,xlsx,https://www.mobileconnectivityindex.com/widgets/conn
 %_population_digital_financial_services,xlsx,https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx,1,1,,
 list_of_countries,xlsx,https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls,3,1,,
 doing_bus_idx,xlsx,https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx,1,2,,
-%_population_using_internet,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx,14,5,,
+%_population_using_internet,xls,https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel,1,4,,
 sdg_data,zip,https://apimgmtstzgjpfeq2u763lag.blob.core.windows.net/content/MediaLibrary/bdds/SDG.zip,,,,
 undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx,1,5,,
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv,,,,
