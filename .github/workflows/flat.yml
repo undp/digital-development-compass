@@ -325,8 +325,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv&source=2
-           downloaded_filename: data/intenet_usage.zip
+           http_url: https://databank.worldbank.org/AjaxDownload/FileDownloadHandler.ashx?filename=364c4202-f6cd-4bcc-a02a-7f6e35e6b92a.xlsx&filetype=EXCEL&language=en&displayfile=Data_Extract_From_World_Development_Indicators.xlsx
+           downloaded_filename: data/intenet_usage.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -381,8 +381,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
-           downloaded_filename: data/%_population_using_internet.xlsx
+           http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
+           downloaded_filename: data/%_population_using_internet.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -421,7 +421,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gloabl_wellbeing_initiative.csv
+           http_url: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls
            downloaded_filename: data/global_wellbeing_initiative .csv
            postprocess: ./process_raw_data.js
 
@@ -437,7 +437,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv&source=2
+           http_url: https://databank.worldbank.org/AjaxDownload/FileDownloadHandler.ashx?filename=364c4202-f6cd-4bcc-a02a-7f6e35e6b92a.xlsx&filetype=EXCEL&language=en&displayfile=Data_Extract_From_World_Development_Indicators.xlsx
            downloaded_filename: data/intenet_usage.csv
            postprocess: ./process_raw_data.js
 
@@ -501,7 +501,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_coverage.xls
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_coverage.csv
            downloaded_filename: data/mobile_coverage.xls
            postprocess: ./process_raw_data.js
 
@@ -605,7 +605,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv.zip
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv
            downloaded_filename: data/gov_encrypted_traffic.zip
            postprocess: ./process_raw_data.js
 
@@ -751,4 +751,92 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv
            downloaded_filename: data/ecosystem.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel
+           downloaded_filename: data/population_density.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.BBND.P2?downloadformat=excel
+           downloaded_filename: data/fixed_broadband_density.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
+           downloaded_filename: data/sustainability_index.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel
+           downloaded_filename: data/RD_Percentage_GDP.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://goingdigital.oecd.org/api/zip?destinations=https%3A%2F%2Fstats.oecd.org%2FSDMX-JSON%2Fdata%2FGD_BREAKDOWNS_1%2F5-1-2..ICT_TTL_GDP%2BICT_EQP_GDP%2BICT_CMP_GDP%2BICT_TLC_GDP%2BICT_SFW_GDP%2BIPP_TTL_GDP%2BIPP_RD_GDP%2BICT_TTL_GFCF%2BGFCF_TTL_GDP..%2Fall%3FcontentType%3Dcsv%26detail%3Dlabel
+           downloaded_filename: data/ICT_Investment.zip
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/July/IndividualsUsingInternetByGender.xlsx
+           downloaded_filename: data/gender_gap_internet_usage.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://api.worldbank.org/v2/en/indicator/IT.CEL.SETS.P2?downloadformat=excel
+           downloaded_filename: data/%_mobile_subscription.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://stats.oecd.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=9cd053e5-f9bc-488c-857a-21aaf62abbec&Random=0.4350978803289305
+           downloaded_filename: data/start_up_investment.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: http://data.uis.unesco.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=e57d4d68-c6ff-433b-be0f-a5741c503486&Random=0.14650437893528356
+           downloaded_filename: data/SDG 4.4_Digital_literacy_data.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
+           downloaded_filename: data/%_population_access_internet.xls
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx
+           downloaded_filename: data/wbg_govtech-dataset_dec2020.xlsx
            postprocess: ./process_raw_data.js
