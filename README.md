@@ -26,3 +26,6 @@ A snapshot of the digital state of a nation, this tool leverages our Inclusive D
 
 # Inclusive Digital Data Repository
 Combining public international data sets on inclusive digital transformation with local country data sets and scoring them against our Stages of Digital Readiness (from 1 to 6). Leverages the [data manifest](data_manifest_instructions.md) to pull compile data sources and uses [Digital Assessment Data Framework Filename Matching](UNDP%20Digital%20Assessment%20Data%20Framework%20Filename%20Matching%20V7.xlsx) as the main source document for matching.
+
+# Learn More
+For more information or suggestions on how to improve this approach, please [contact us](mailto:digital@undp.org?cc=mark.belinsky@undp.org&?subject=[GitHub]%20Digital%20Readiness%20Assessment%20Code%20Inquiry)
