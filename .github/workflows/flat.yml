@@ -920,3 +920,67 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv
            downloaded_filename: data/automation_led_unemployment.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_returning.csv
+           downloaded_filename: data/not_buying_online_concern_about_returning.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_security.csv
+           downloaded_filename: data/not_buying_online_concern_about_security.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_proportion.csv
+           downloaded_filename: data/ICT_proportion.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/network_readiness_index.csv
+           downloaded_filename: data/network_readiness_index.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/happiness_score.csv
+           downloaded_filename: data/happiness_score.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_interacting_public_officials.csv
+           downloaded_filename: data/%_population_interacting_public_officials.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payment_penetration.csv
+           downloaded_filename: data/digital_payment_penetration.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv
+           downloaded_filename: data/cloud_services.csv
+           postprocess: ./process_raw_data.js
