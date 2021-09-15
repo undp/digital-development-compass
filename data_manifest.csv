@@ -1,5 +1,5 @@
 name,format,endpoint,Excel sheet #,Excel sheet top row #,Country Column #,Year Column #
-countries_ixp,csv,https://www.pch.net/ixp/dir_data_csv,,,,
+countries_ixp,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv,,,,
 countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,,
 countries_ixp,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv,,,,
 countries_ixp_2,svg,blob:https://www.pch.net/e201c2a4-3b8b-4599-bb20-dfbba0077864,,,,
@@ -50,7 +50,7 @@ sdg_data,zip,https://apimgmtstzgjpfeq2u763lag.blob.core.windows.net/content/Medi
 undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx,1,5,,
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv,,,,
 ewaste_per_inhabitant,csv,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv,,,,
-global_wellbeing_initiative ,csv,https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls,,,,
+global_wellbeing_initiative ,xls,https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls,,,,
 financial_inclusiveness ,zip,https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip,1,1,,
 intenet_usage,csv,https://databank.worldbank.org/AjaxDownload/FileDownloadHandler.ashx?filename=364c4202-f6cd-4bcc-a02a-7f6e35e6b92a.xlsx&filetype=EXCEL&language=en&displayfile=Data_Extract_From_World_Development_Indicators.xlsx,,,,
 open_data_idx,json,https://index.okfn.org/api/datasets.json,,,,
@@ -65,7 +65,7 @@ mobile_broadband_pricing,csv ,https://raw.githubusercontent.com/mbelinsky/public
 mob_dev_pen,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv,,,,
 gender_gap_in_mobile_usage,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gap_in_mobile_usage.xlsx,3,3,,
 ease_doing_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv,,,,
-time_start_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_broadband_pricing.csv,,,,
+time_start_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv,,,,
 venture_cap_avail,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.xlsx,1,1,,
 b2c_ecommerse_idx,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/b2c_ecommerse_idx.csv,,,,
 pop_dens_map,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv,,,,
@@ -77,7 +77,7 @@ gov_encrypted_traffic,zip,https://raw.githubusercontent.com/mbelinsky/public_dev
 glob_data_priv_law,xlsx,https://unctad.org/system/files/information-document/DP.xlsx,1,1,,
 countries_mobile_connectivity,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_mobile_connectivity.xlsx,3,3,,
 encrytion_data,xlsx,https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls,1,2,,
-rli,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.csv,,,,
+rli,csv,https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,,,,
 countries_hci,zip,https://databank.worldbank.org/data/download/HCI_csv.zip,,,,
 sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv,,,,
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,,,,
@@ -102,9 +102,6 @@ gender_gap_internet_usage,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents
 start_up_investment,xls,https://stats.oecd.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=9cd053e5-f9bc-488c-857a-21aaf62abbec&Random=0.4350978803289305,,,,
 SDG 4.4_Digital_literacy_data,xls,http://data.uis.unesco.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=e57d4d68-c6ff-433b-be0f-a5741c503486&Random=0.14650437893528356,,,,
 %_population_access_internet,xls,https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel,1,4,,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Egov_strategy,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,,,,
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,,,,
@@ -123,12 +120,3 @@ happiness_score,csv,https://raw.githubusercontent.com/mbelinsky/public_developme
 %_population_interacting_public_officials,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_interacting_public_officials.csv,,,,
 digital_payment_penetration,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payment_penetration.csv,,,,
 cloud_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv,,,,
-=======
-wbg_govtech-dataset_dec2020,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
->>>>>>> parent of 78266ed (update files)
-=======
-wbg_govtech-dataset_dec2020,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
->>>>>>> parent of 78266ed (update files)
-=======
-wbg_govtech-dataset_dec2020,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
->>>>>>> parent of 78266ed (update files)
