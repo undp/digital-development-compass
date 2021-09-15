@@ -77,7 +77,7 @@ gov_encrypted_traffic,zip,https://raw.githubusercontent.com/mbelinsky/public_dev
 glob_data_priv_law,xlsx,https://unctad.org/system/files/information-document/DP.xlsx,1,1,,
 countries_mobile_connectivity,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_mobile_connectivity.xlsx,3,3,,
 encrytion_data,xlsx,https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls,1,2,,
-rli,csv,https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,,,,
+rli,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.csv,,,,
 countries_hci,zip,https://databank.worldbank.org/data/download/HCI_csv.zip,,,,
 sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv,,,,
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,,,,
