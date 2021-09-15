@@ -21,7 +21,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.pch.net/ixp/dir_data_csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
            downloaded_filename: data/countries_ixp.csv
            postprocess: ./process_raw_data.js
 
@@ -430,7 +430,7 @@ jobs:
         if: always()
         with:
            http_url: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls
-           downloaded_filename: data/global_wellbeing_initiative .csv
+           downloaded_filename: data/global_wellbeing_initiative .xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -549,7 +549,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_broadband_pricing.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
            downloaded_filename: data/time_start_bus.csv
            postprocess: ./process_raw_data.js
 
@@ -846,5 +846,77 @@ jobs:
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx
-           downloaded_filename: data/wbg_govtech-dataset_dec2020.xlsx
+           downloaded_filename: data/Egov_strategy.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv
+           downloaded_filename: data/digital_public_service_use.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv
+           downloaded_filename: data/angel_investment.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Bank assets, percent of GDP.csv
+           downloaded_filename: data/Bank assets, percent of GDP.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv
+           downloaded_filename: data/startup_eco_size.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv
+           downloaded_filename: data/mobile_speed.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv
+           downloaded_filename: data/gender_gaps.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv
+           downloaded_filename: data/prevalance_gig_economy.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/size_digital_economy.csv
+           downloaded_filename: data/size_digital_economy.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv
+           downloaded_filename: data/automation_led_unemployment.csv
            postprocess: ./process_raw_data.js

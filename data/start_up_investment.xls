@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	OECD.Stat
+</title><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/dialog.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/layout.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/metadata.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/pages.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/treeview.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/WebTableStyles.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/jqueryui/1-jquery-ui-1.8.14.custom.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/jqueryui/2-jquery.ui.menu.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/jqueryui/3-jquery.ui.menubar.css"></link><link rel="stylesheet" type="text/css" href="Content/themes/OECD/styles/jqueryui/4-jquery.ui.selectmenu.css"></link></head>
+<body>
+    <form name="form1" method="post" action="./SessionProblem.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="gK13Y3zUf/cl7VmMipb0IfWeIzvAo3X/XyD3lJwn2vcV3fd+aNaSmFvUQhfES73eXySX20dYM/gBu935ZW0UQzyYCHPqfDRucTNIWGjue+Rpf7rflseQ7/3FkSJ3pNqsN/jrlfpqsszRwrGM95UhVXOmV97x8ky11fkcy7G7Ym1jf7xX" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CE2AE725" />
+    <div>
+        <span id="lblSessionProblem">Your session has expired. Please refresh your browser</span>
+    </div>
+    </form>
+</body>
+</html>
