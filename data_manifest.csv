@@ -104,6 +104,7 @@ SDG 4.4_Digital_literacy_data,xls,http://data.uis.unesco.org/modalexports.aspx?e
 %_population_access_internet,xls,https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel,1,4,,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Egov_strategy,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,,,,
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,,,,
@@ -122,6 +123,9 @@ happiness_score,csv,https://raw.githubusercontent.com/mbelinsky/public_developme
 %_population_interacting_public_officials,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_interacting_public_officials.csv,,,,
 digital_payment_penetration,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payment_penetration.csv,,,,
 cloud_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv,,,,
+=======
+wbg_govtech-dataset_dec2020,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
+>>>>>>> parent of 78266ed (update files)
 =======
 wbg_govtech-dataset_dec2020,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,1,,
 >>>>>>> parent of 78266ed (update files)
