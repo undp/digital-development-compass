@@ -45,6 +45,14 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
+           http_url: blob:https://www.pch.net/e201c2a4-3b8b-4599-bb20-dfbba0077864
+           downloaded_filename: data/countries_ixp_2.svg
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
            http_url: https://freedomhouse.org/sites/default/files/2020-10/FOTN_2020_Key_Internet_Controls_Updated.xlsx
            downloaded_filename: data/number_key_internet_controls_employed.xlsx
            postprocess: ./process_raw_data.js
@@ -109,8 +117,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://github.com/mbelinsky/public_development_data/raw/main/%25_population_electricity_coverage.csv
-           downloaded_filename: data/%_population_electricity_coverage.csv
+           http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
+           downloaded_filename: data/%_population_electricity_coverage.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
