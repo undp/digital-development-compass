@@ -158,7 +158,15 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv
-           downloaded_filename: data/fixed_bdbd_spd_dl_ul.yaml
+           downloaded_filename: data/fixed_bdbd_spd_dl_ul.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_broadband_speed_download_upload_latency.yaml
+           downloaded_filename: data/fixed_broadband_speed_download_upload_latency.yaml
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -653,8 +661,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/data/download/HCI_csv.zip
-           downloaded_filename: data/countries_hci.zip
+           http_url: https://api.worldbank.org/v2/en/indicator/HD.HCI.OVRL?downloadformat=csv
+           downloaded_filename: data/countries_hci.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -829,8 +837,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://data.uis.unesco.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=e57d4d68-c6ff-433b-be0f-a5741c503486&Random=0.14650437893528356
-           downloaded_filename: data/SDG 4.4_Digital_literacy_data.xls
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG 4.4_Digital_literacy_data.csv
+           downloaded_filename: data/SDG 4.4_Digital_literacy_data.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -869,8 +877,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Bank assets, percent of GDP.csv
-           downloaded_filename: data/Bank assets, percent of GDP.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv
+           downloaded_filename: data/banking_sector_size.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -983,4 +991,140 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv
            downloaded_filename: data/cloud_services.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv
+           downloaded_filename: data/mobile_density.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx
+           downloaded_filename: data/World Bank The Logistics Performance Index 2007 to 2018.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv
+           downloaded_filename: data/national_cybersecurity_index.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv
+           downloaded_filename: data/digital_platform_economy_index.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv
+           downloaded_filename: data/global_fintech_ranking.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level.csv
+           downloaded_filename: data/digital_skill_level.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_work_ecosystem_size.csv
+           downloaded_filename: data/digital_work_ecosystem_size.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_internet.csv
+           downloaded_filename: data/%_business_internet.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_broadband.csv
+           downloaded_filename: data/%_business_broadband.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv
+           downloaded_filename: data/share_of_businesses_online_presence.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv
+           downloaded_filename: data/ease_of_finding_skilled_employees.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_use_female.csv
+           downloaded_filename: data/internet_use_female.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_use_male.csv
+           downloaded_filename: data/internet_use_male.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language.csv
+           downloaded_filename: data/apps_in_national_language.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv
+           downloaded_filename: data/time_spent_online.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv
+           downloaded_filename: data/cryptocurrency_adoption.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv
+           downloaded_filename: data/cyberbullying_rate.csv
            postprocess: ./process_raw_data.js
