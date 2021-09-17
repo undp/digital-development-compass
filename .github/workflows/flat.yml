@@ -181,14 +181,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.xlsx
-           downloaded_filename: data/software_developer_ecosystem_size.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
            downloaded_filename: data/elect_supply_quality.xlsx
            postprocess: ./process_raw_data.js
@@ -215,14 +207,6 @@ jobs:
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/tax_%_mobile_ownership.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.xlsx
-           downloaded_filename: data/software_developer_ecosystem_size.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -349,8 +333,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://index.okfn.org/api/datasets.json
-           downloaded_filename: data/open_data_idx.json
+           http_url: https://index.okfn.org/api/entries.csv
+           downloaded_filename: data/open_data_idx.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -711,14 +695,6 @@ jobs:
         with:
            http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2020.xlsx
            downloaded_filename: data/tii_countries.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://datahub.io/world-bank/tx.val.tech.cd/r/data.csv
-           downloaded_filename: data/tech_hubs.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -1159,4 +1135,28 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv
            downloaded_filename: data/digital_payments_penetration.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tech_hubs.csv
+           downloaded_filename: data/tech_hubs.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.xlsx
+           downloaded_filename: data/software_developer_ecosystem_size.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://biogeo.ucdavis.edu/data/gadm3.6/gadm36_gpkg.zip
+           downloaded_filename: data/gadm_database.zip
            postprocess: ./process_raw_data.js
