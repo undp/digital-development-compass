@@ -213,7 +213,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tax_%25_mobile_ownership.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/tax_%_mobile_ownership.xlsx
            postprocess: ./process_raw_data.js
 
@@ -309,7 +309,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://apimgmtstzgjpfeq2u763lag.blob.core.windows.net/content/MediaLibrary/bdds/SDG.zip
+           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
            downloaded_filename: data/sdg_data.zip
            postprocess: ./process_raw_data.js
 
@@ -341,7 +341,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/AjaxDownload/FileDownloadHandler.ashx?filename=364c4202-f6cd-4bcc-a02a-7f6e35e6b92a.xlsx&filetype=EXCEL&language=en&displayfile=Data_Extract_From_World_Development_Indicators.xlsx
+           http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
            downloaded_filename: data/intenet_usage.xlsx
            postprocess: ./process_raw_data.js
 
@@ -405,14 +405,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://apimgmtstzgjpfeq2u763lag.blob.core.windows.net/content/MediaLibrary/bdds/SDG.zip
-           downloaded_filename: data/sdg_data.zip
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
            downloaded_filename: data/undp_human_developmnt.xlsx
            postprocess: ./process_raw_data.js
@@ -445,8 +437,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip
-           downloaded_filename: data/financial_inclusiveness .zip
+           http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx
+           downloaded_filename: data/financial_inclusiveness .xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -485,16 +477,16 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://unctadstat.unctad.org/7zip/US_IctGoodsShare.csv.7z
-           downloaded_filename: data/ict_goods.7z
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv
+           downloaded_filename: data/ict_goods.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://unctadstat.unctad.org/7zip/US_TradeServICT.csv.7z
-           downloaded_filename: data/ict_services.7z
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
+           downloaded_filename: data/ict_services.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -541,7 +533,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gap_in_mobile_usage.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
            postprocess: ./process_raw_data.js
 
@@ -654,7 +646,7 @@ jobs:
         if: always()
         with:
            http_url: https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
-           downloaded_filename: data/rli.csv
+           downloaded_filename: data/rli.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -1127,4 +1119,44 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv
            downloaded_filename: data/cyberbullying_rate.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/% of individuals buying online and frequency.csv
+           downloaded_filename: data/% of individuals buying online and frequency.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e-commerce_activity.csv
+           downloaded_filename: data/e-commerce_activity.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_household_internet_access.csv
+           downloaded_filename: data/%_household_internet_access.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users.csv
+           downloaded_filename: data/FB_users.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv
+           downloaded_filename: data/digital_payments_penetration.csv
            postprocess: ./process_raw_data.js
