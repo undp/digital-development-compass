@@ -1149,8 +1149,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.xlsx
-           downloaded_filename: data/software_developer_ecosystem_size.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv
+           downloaded_filename: data/software_developer_ecosystem_size.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -1159,4 +1159,12 @@ jobs:
         with:
            http_url: https://biogeo.ucdavis.edu/data/gadm3.6/gadm36_gpkg.zip
            downloaded_filename: data/gadm_database.zip
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_with_smartphones.csv
+           downloaded_filename: data/%_population_with_smartphones.csv
            postprocess: ./process_raw_data.js
