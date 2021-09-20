@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="LinkedIn Economic Graph">
+    <meta property="og:image" content="https://graph.linkedin.com/insights/assets/images/economic-graph.png">
+    <meta property="og:description" content="Creating economic opportunity around the world. One member at a time.">
+
+    
+<meta name="k2-web/config/environment" content="%7B%22modulePrefix%22%3A%22k2-web%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2Finsights%2F%22%2C%22locationType%22%3A%22auto%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22k2-web%22%2C%22version%22%3A%22k2-web_0.0.307%2Be0bd59e8%22%7D%2C%22deviceFormFactor%22%3A%22DESKTOP%22%2C%22tracking%22%3A%7B%22appId%22%3A%22com.linkedin.k2-web.d_web%22%2C%22pageKeyPrefix%22%3A%22d_eginsights_ida_%22%7D%2C%22ember-a11y-testing%22%3A%7B%22componentOptions%22%3A%7B%22turnAuditOff%22%3Atrue%2C%22excludeAxeCore%22%3Atrue%7D%7D%2C%22googleAnalytics%22%3A%7B%22trackingId%22%3A%22UA-62256447-1%22%7D%2C%22appVersion%22%3A%220.0.307%22%2C%22exportApplicationGlobal%22%3Afalse%7D">
+<!-- EMBER_CLI_FASTBOOT_TITLE --><!-- EMBER_CLI_FASTBOOT_HEAD -->
+<meta name="__init" content="{&quot;lixV3Mode&quot;:false,&quot;lix&quot;:{}}">
+<meta name="isGuest" content="true">
+<meta name="renderingMode" data-mode="VANILLA">
+<!--%SSR_HEAD*[]%-->
+<meta name="isQueryTunnelRequestSupported" content="false" /> 
+
+<meta name="bprPageInstance" content="urn:li:page:bpr;dc7d3398-9949-4c14-a61a-c6f9def6ad12">
+<meta name="applicationInstance" content="{&quot;applicationUrn&quot;: &quot;urn:li:application:(k2-web,k2-web)&quot;, &quot;version&quot;: &quot;0.0.307&quot;, &quot;trackingId&quot;: [-127, 51, -27, -116, 57, 68, 70, 86, -101, 69, -13, -52, 96, -89, 117, 78]}">
+<meta name="clientPageInstanceId" content="9c23ed6c-0637-4abd-89b8-b8ea1859df3a">
+<meta name="service" content="k2-web">
+<meta name="serviceInstance" content="i001">
+<meta name="serviceVersion" content="0.0.307">
+<meta name="treeID" content="N0t1HsTKkRaAZypTVn8AAA&#61;&#61;">
+<link rel="shortcut icon" href="https://static-exp1.licdn.com/assets/sc/h/3m4lyvbs6efg8pyhv7kupo6dh" id="favicon-ico">
+<link rel="apple-touch-icon" href="https://static-exp1.licdn.com/assets/sc/h/bgsy6v435pgzegckur5tz0u2m">
+<link rel="apple-touch-icon-precomposed" href="https://static-exp1.licdn.com/assets/sc/h/dhra8axxv5afjd3u90gduwpcj">
+<link rel="apple-touch-icon-precomposed" href="https://static-exp1.licdn.com/assets/sc/h/bgsy6v435pgzegckur5tz0u2m" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="https://static-exp1.licdn.com/assets/sc/h/dhra8axxv5afjd3u90gduwpcj" sizes="144x144">
+<meta name="spark/hash-includes" content="{&quot;assets/images/insights/members.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/eyohnxmijfrukwiex41haa4mr&quot;,&quot;assets/images/insights/companies.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/5onig9m72dt3mivyelxkl2nr5&quot;,&quot;assets/images/insights/jobs.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/ar9plm98em6unuvcpk7rwse54&quot;,&quot;assets/images/insights/skills.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/50o8n0y5veql43bvbnwjcdeoq&quot;,&quot;assets/images/insights/schools.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/2qf8xkbi36czoat2ofau0s1e4&quot;,&quot;assets/images/three-office-scapes.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/4tsxssd7v3aa9stb8spdwjbv3&quot;,&quot;assets/images/four-workers-around-table.png&quot;:&quot;https://static-exp1.licdn.com/assets/sc/h/dwinqls27t6vaqup8x77is97g&quot;}">
+<meta name="i18nDefaultLocale" content="en_US">
+<meta name="i18nLocale" content="en_US">
+<meta name="i18nIntlPolyfillUrl" content="https://static-exp1.licdn.com/assets/sc/h/3tcj8jk3gjqujqug1btrwlqfm">
+<meta name="requestIpCountryCode" content="">
+    <meta name="asset-url" id="artdeco/static/images/icons.svg" content="https://static-exp1.licdn.com/assets/sc/h/6sz1e821vgereyxaakx87tt4z">
+
+
+    <link rel="stylesheet" href="https://static-exp1.licdn.com/assets/sc/h/9suvfngulkqn69nixeujjk5i1">
+    <link rel="stylesheet" href="https://static-exp1.licdn.com/assets/sc/h/d0ghuvxyc6xbrbumdcbbong9f">
+  </head>
+  <body>
+    <!-- EMBER_CLI_FASTBOOT_BODY -->
+    <!--%SSR_BODY*[]%-->
+
+
+<div id="ember-basic-dropdown-wormhole"></div>
+
+    <script src="https://static-exp1.licdn.com/assets/sc/h/dv5navfet4i1clojlnftl9ug2" crossorigin="" data-fastboot-src="assets/vendor.js"></script>
+    <script data-embroider-ignore="" src="https://static-exp1.licdn.com/assets/sc/h/evhit7h4ryntjp5irlhxj5rqt" crossorigin="" data-fastboot-src="assets/i18n/support_en_US.js"></script>
+    <script src="https://static-exp1.licdn.com/assets/sc/h/7orpgm8amtwr89ejny1tsda3f" crossorigin="" data-fastboot-src="assets/k2-web.js"></script>
+
+  
+
+</body></html>
