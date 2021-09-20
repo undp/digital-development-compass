@@ -1157,14 +1157,14 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://biogeo.ucdavis.edu/data/gadm3.6/gadm36_gpkg.zip
-           downloaded_filename: data/gadm_database.zip
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_with_smartphones.csv
+           downloaded_filename: data/%_population_with_smartphones.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_with_smartphones.csv
-           downloaded_filename: data/%_population_with_smartphones.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv
+           downloaded_filename: data/cyber_attacks.csv
            postprocess: ./process_raw_data.js
