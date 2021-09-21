@@ -70,7 +70,7 @@ jobs:
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
-           downloaded_filename: data/id4d_legal.xlsx
+           downloaded_filename: data/id4d_services.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
