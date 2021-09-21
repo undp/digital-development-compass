@@ -69,8 +69,6 @@ b2c_ecommerse_idx,csv,https://raw.githubusercontent.com/mbelinsky/public_develop
 pop_dens_map,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv,,,,
 countries_lpi,xlsx,https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx,1,1,,
 countries_gci,xls,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx,1,2,,
-gov_osi,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_osi.csv,,,,
-countries_epi,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countres_epi.csv,,,,
 gov_encrypted_traffic,zip,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv,,,,
 glob_data_priv_law,xlsx,https://unctad.org/system/files/information-document/DP.xlsx,1,1,,
 countries_mobile_connectivity,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_mobile_connectivity.xlsx,3,3,,
@@ -143,3 +141,4 @@ tech_hubs,csv,https://raw.githubusercontent.com/mbelinsky/public_development_dat
 software_developer_ecosystem_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv,,,,
 %_population_with_smartphones,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_with_smartphones.csv,,,,
 cyber_attacks,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv,,,,
+e_government_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv,,,,
