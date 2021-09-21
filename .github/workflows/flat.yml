@@ -581,22 +581,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_osi.csv
-           downloaded_filename: data/gov_osi.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countres_epi.csv
-           downloaded_filename: data/countries_epi.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv
            downloaded_filename: data/gov_encrypted_traffic.zip
            postprocess: ./process_raw_data.js
@@ -1167,4 +1151,12 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv
            downloaded_filename: data/cyber_attacks.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv
+           downloaded_filename: data/e_government_index.csv
            postprocess: ./process_raw_data.js
