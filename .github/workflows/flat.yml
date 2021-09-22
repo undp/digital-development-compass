@@ -21,8 +21,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
-           downloaded_filename: data/countries_ixp.csv
+           http_url: https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls
+           downloaded_filename: data/list_of_countries.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -39,14 +39,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
            downloaded_filename: data/countries_ixp.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: blob:https://www.pch.net/e201c2a4-3b8b-4599-bb20-dfbba0077864
-           downloaded_filename: data/countries_ixp_2.svg
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -167,14 +159,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_broadband_speed_download_upload_latency.yaml
            downloaded_filename: data/fixed_broadband_speed_download_upload_latency.yaml
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_lpi.csv
-           downloaded_filename: data/countries_lpi.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -365,14 +349,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls
-           downloaded_filename: data/list_of_countries.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
            downloaded_filename: data/doing_bus_idx.xlsx
            postprocess: ./process_raw_data.js
@@ -471,14 +447,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
            downloaded_filename: data/ict_services.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls
-           downloaded_filename: data/list_of_countries.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -615,14 +583,6 @@ jobs:
         with:
            http_url: https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
            downloaded_filename: data/rli.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://api.worldbank.org/v2/en/indicator/HD.HCI.OVRL?downloadformat=csv
-           downloaded_filename: data/countries_hci.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
