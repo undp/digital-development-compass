@@ -221,8 +221,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://stats.oecd.org/SDMX-JSON/data/PATS_COOP/EPO_A+PCT_A+USPTO_A.FOR_APP+FOR_APP_S+FOR_INV+FOR_INV_S+CO_INV+CO_INV_S.AUS+CAN+JPN+NLD+USA+EU27+EU28+WLD.TOTAL+WRD+JPN+USA+EU27+EU28.PRIORITY+APPLICATION/all?startTime=1999&endTime=2019&dimensionAtObservation=allDimensions&pid=0cb10255-1a67-42b2-a2f2-37ecfe3ebbd7
-           downloaded_filename: data/international_co_inventions.json
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/international_co_inventions.csv
+           downloaded_filename: data/international_co_inventions.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
