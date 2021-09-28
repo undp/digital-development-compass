@@ -293,14 +293,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
-           downloaded_filename: data/intenet_usage.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://index.okfn.org/api/entries.csv
            downloaded_filename: data/open_data_idx.csv
            postprocess: ./process_raw_data.js
@@ -383,14 +375,6 @@ jobs:
         with:
            http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx
            downloaded_filename: data/financial_inclusiveness .xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://databank.worldbank.org/AjaxDownload/FileDownloadHandler.ashx?filename=364c4202-f6cd-4bcc-a02a-7f6e35e6b92a.xlsx&filetype=EXCEL&language=en&displayfile=Data_Extract_From_World_Development_Indicators.xlsx
-           downloaded_filename: data/intenet_usage.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -534,7 +518,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
-           downloaded_filename: data/encrytion_data.xlsx
+           downloaded_filename: data/encrytion_data.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
