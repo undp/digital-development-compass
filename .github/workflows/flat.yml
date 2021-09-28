@@ -21,8 +21,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://unstats.un.org/unsd/demographic-social/products/worldswomen/annex_tables/List%20of%20countries%20-%20Table%209.xls
-           downloaded_filename: data/list_of_countries.xls
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.csv
+           downloaded_filename: data/Countries.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -181,14 +181,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/PercentIndividualsUsingInternet.xlsx
-           downloaded_filename: data/%_individual_internet_usage.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/tax_%_mobile_ownership.xlsx
            postprocess: ./process_raw_data.js
@@ -278,7 +270,7 @@ jobs:
         if: always()
         with:
            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
-           downloaded_filename: data/sdg_data.zip
+           downloaded_filename: data/sdg_data.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -421,8 +413,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/spectrum_allocated_mobile_providers.xlsx
-           downloaded_filename: data/spectrum_allocated_mobile_providers.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/spectrum_allocated_mobile_providers.csv
+           downloaded_filename: data/spectrum_allocated_mobile_providers.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -447,14 +439,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
            downloaded_filename: data/ict_services.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_all.xlsx
-           downloaded_filename: data/countries_hdi.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -533,14 +517,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx
-           downloaded_filename: data/countries_lpi.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
            downloaded_filename: data/countries_gci.xls
            postprocess: ./process_raw_data.js
@@ -551,14 +527,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv
            downloaded_filename: data/gov_encrypted_traffic.zip
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://unctad.org/system/files/information-document/DP.xlsx
-           downloaded_filename: data/glob_data_priv_law.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -637,14 +605,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2020.xlsx
-           downloaded_filename: data/tii_countries.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv
            downloaded_filename: data/legal_rights_strength.csv
            postprocess: ./process_raw_data.js
@@ -717,8 +677,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://goingdigital.oecd.org/api/zip?destinations=https%3A%2F%2Fstats.oecd.org%2FSDMX-JSON%2Fdata%2FGD_BREAKDOWNS_1%2F5-1-2..ICT_TTL_GDP%2BICT_EQP_GDP%2BICT_CMP_GDP%2BICT_TLC_GDP%2BICT_SFW_GDP%2BIPP_TTL_GDP%2BIPP_RD_GDP%2BICT_TTL_GFCF%2BGFCF_TTL_GDP..%2Fall%3FcontentType%3Dcsv%26detail%3Dlabel
-           downloaded_filename: data/ICT_Investment.zip
+           http_url: https://stats.oecd.org/sdmx-json/data/DP_LIVE/.ICTINVST.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+           downloaded_filename: data/ICT_Investment.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -741,7 +701,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://stats.oecd.org/modalexports.aspx?exporttype=excel&FirstDataPointIndexPerPage=&SubSessionId=9cd053e5-f9bc-488c-857a-21aaf62abbec&Random=0.4350978803289305
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv
            downloaded_filename: data/start_up_investment.xls
            postprocess: ./process_raw_data.js
 
@@ -989,16 +949,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_use_female.csv
-           downloaded_filename: data/internet_use_female.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_use_male.csv
-           downloaded_filename: data/internet_use_male.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_use_gender_gap.csv
+           downloaded_filename: data/internet_use_gender_gap.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
