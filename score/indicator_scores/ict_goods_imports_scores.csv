@@ -1,0 +1,101 @@
+Country Name,Indicator,data_col,new_rank_score,higher_is_better
+Afghanistan,ICT services Imports,2.02267,1.1011335,True
+Albania,ICT services Imports,3.38082,1.169041,True
+Angola,ICT services Imports,1.80954,1.090477,True
+Azerbaijan,ICT services Imports,0.99593,1.0497965,True
+Argentina,ICT services Imports,6.40331,1.3201655,True
+Australia,ICT services Imports,4.53975,1.2269875,True
+Austria,ICT services Imports,9.3637,1.468185,True
+Bangladesh,ICT services Imports,0.96116,1.048058,True
+Armenia,ICT services Imports,1.45146,1.072573,True
+Belgium,ICT services Imports,7.88662,1.394331,True
+Bolivia (Plurinational State of),ICT services Imports,2.42999,1.1214995,True
+Bosnia and Herzegovina,ICT services Imports,6.23054,1.311527,True
+Brazil,ICT services Imports,7.67516,1.383758,True
+Belize,ICT services Imports,6.53528,1.326764,True
+Bulgaria,ICT services Imports,6.35222,1.3176109999999999,True
+Belarus,ICT services Imports,6.84257,1.3421285,True
+Cambodia,ICT services Imports,4.56518,1.228259,True
+Cameroon,ICT services Imports,3.81595,1.1907975,True
+Cabo Verde,ICT services Imports,4.11784,1.205892,True
+Sri Lanka,ICT services Imports,7.77962,1.388981,True
+Chile,ICT services Imports,4.22953,1.2114765,True
+China,ICT services Imports,5.36483,1.2682415,True
+Colombia,ICT services Imports,5.56202,1.278101,True
+Costa Rica,ICT services Imports,6.37941,1.3189705,True
+Croatia,ICT services Imports,7.75235,1.3876175,True
+Cyprus,ICT services Imports,21.85836,2.092918,True
+Czechia,ICT services Imports,8.36134,1.418067,True
+Denmark,ICT services Imports,7.98079,1.3990395,True
+Dominican Republic,ICT services Imports,1.61307,1.0806535,True
+Ecuador,ICT services Imports,2.3882,1.11941,True
+El Salvador,ICT services Imports,2.7456,1.13728,True
+Estonia,ICT services Imports,9.41196,1.470598,True
+Fiji,ICT services Imports,4.45656,1.222828,True
+Finland,ICT services Imports,12.68977,1.6344884999999998,True
+France,ICT services Imports,8.1401,1.407005,True
+Georgia,ICT services Imports,3.18869,1.1594345,True
+Gambia,ICT services Imports,3.32085,1.1660425,True
+Germany,ICT services Imports,10.8449,1.542245,True
+Greece,ICT services Imports,3.57787,1.1788935,True
+Guatemala,ICT services Imports,8.72916,1.436458,True
+Honduras,ICT services Imports,6.93663,1.3468315,True
+Hungary,ICT services Imports,8.35626,1.417813,True
+India,ICT services Imports,5.1082,1.25541,True
+Indonesia,ICT services Imports,7.9919,1.399595,True
+Iraq,ICT services Imports,2.63454,1.131727,True
+Ireland,ICT services Imports,1.76475,1.0882375,True
+Italy,ICT services Imports,8.9766,1.44883,True
+Japan,ICT services Imports,9.28567,1.4642835,True
+Kazakhstan,ICT services Imports,2.21744,1.110872,True
+"Korea, Republic of",ICT services Imports,2.23178,1.111589,True
+Kuwait,ICT services Imports,1.34096,1.067048,True
+Kyrgyzstan,ICT services Imports,2.22095,1.1110475,True
+Lesotho,ICT services Imports,1.76687,1.0883435,True
+Latvia,ICT services Imports,9.76453,1.4882265000000001,True
+Malta,ICT services Imports,2.80294,1.140147,True
+Mauritius,ICT services Imports,4.52969,1.2264845,True
+Mongolia,ICT services Imports,3.54743,1.1773715,True
+"Moldova, Republic of",ICT services Imports,7.80782,1.3903910000000002,True
+Montenegro,ICT services Imports,9.19718,1.459859,True
+Morocco,ICT services Imports,3.32068,1.166034,True
+Namibia,ICT services Imports,5.39567,1.2697835,True
+Netherlands,ICT services Imports,6.91324,1.345662,True
+Curaçao,ICT services Imports,5.47155,1.2735775,True
+Sint Maarten (Dutch part),ICT services Imports,3.16137,1.1580685,True
+Nigeria,ICT services Imports,0.73577,1.0367885000000001,True
+Norway,ICT services Imports,8.56886,1.4284430000000001,True
+Pakistan,ICT services Imports,4.39576,1.2197879999999999,True
+Panama,ICT services Imports,1.39224,1.069612,True
+Paraguay,ICT services Imports,0.08007,1.0040035,True
+Philippines,ICT services Imports,4.67874,1.233937,True
+Poland,ICT services Imports,9.19307,1.4596535,True
+Portugal,ICT services Imports,5.34792,1.267396,True
+Timor-Leste,ICT services Imports,0.36621,1.0183105,True
+Romania,ICT services Imports,12.48612,1.624306,True
+Russian Federation,ICT services Imports,4.80833,1.2404165,True
+Sao Tome and Principe,ICT services Imports,2.17173,1.1085865,True
+Serbia,ICT services Imports,9.98599,1.4992995,True
+Seychelles,ICT services Imports,0.23484,1.011742,True
+Singapore,ICT services Imports,6.92204,1.346102,True
+Slovakia,ICT services Imports,7.72518,1.386259,True
+Viet Nam,ICT services Imports,1.47716,1.073858,True
+Slovenia,ICT services Imports,8.60778,1.430389,True
+Suriname,ICT services Imports,4.96799,1.2483995,True
+Eswatini,ICT services Imports,1.91773,1.0958865,True
+Sweden,ICT services Imports,10.53007,1.5265035,True
+Tajikistan,ICT services Imports,1.20786,1.060393,True
+Thailand,ICT services Imports,1.61118,1.080559,True
+Trinidad and Tobago,ICT services Imports,2.54976,1.127488,True
+United Arab Emirates,ICT services Imports,4.85294,1.242647,True
+Turkey,ICT services Imports,5.77348,1.2886739999999999,True
+Uganda,ICT services Imports,0.72693,1.0363465,True
+Ukraine,ICT services Imports,4.3818,1.21909,True
+North Macedonia,ICT services Imports,6.69244,1.334622,True
+Egypt,ICT services Imports,3.11157,1.1555785,True
+United States of America,ICT services Imports,6.73466,1.336733,True
+Uruguay,ICT services Imports,9.72071,1.4860355,True
+Uzbekistan,ICT services Imports,1.27386,1.063693,True
+Samoa,ICT services Imports,2.42661,1.1213305,True
+Zambia,ICT services Imports,4.87508,1.243754,True
+United Kingdom,ICT services Imports,4.2194,1.21097,True

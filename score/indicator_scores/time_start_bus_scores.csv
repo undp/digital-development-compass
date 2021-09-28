@@ -1,0 +1,267 @@
+Country Name,Country Code,Indicator,data_col,new_rank_score,higher_is_better
+Afghanistan,AFG,Time required to start a business (days),2.0,2.666666666666667,True
+Albania,ALB,Time required to start a business (days),3.0,4.333333333333334,True
+Algeria,DZA,Time required to start a business (days),1.0,1.0,True
+American Samoa,ASM,Time required to start a business (days),,,True
+Andorra,AND,Time required to start a business (days),,,True
+Angola,AGO,Time required to start a business (days),1.0,1.0,True
+Antigua and Barbuda,ATG,Time required to start a business (days),1.0,1.0,True
+Argentina,ARG,Time required to start a business (days),1.0,1.0,True
+Armenia,ARM,Time required to start a business (days),3.0,4.333333333333334,True
+Aruba,ABW,Time required to start a business (days),,,True
+Australia,AUS,Time required to start a business (days),4.0,6.0,True
+Austria,AUT,Time required to start a business (days),1.0,1.0,True
+Azerbaijan,AZE,Time required to start a business (days),3.0,4.333333333333334,True
+"Bahamas, The",BHS,Time required to start a business (days),1.0,1.0,True
+Bahrain,BHR,Time required to start a business (days),2.0,2.666666666666667,True
+Bangladesh,BGD,Time required to start a business (days),1.0,1.0,True
+Barbados,BRB,Time required to start a business (days),1.0,1.0,True
+Belarus,BLR,Time required to start a business (days),2.0,2.666666666666667,True
+Belgium,BEL,Time required to start a business (days),3.0,4.333333333333334,True
+Belize,BLZ,Time required to start a business (days),1.0,1.0,True
+Benin,BEN,Time required to start a business (days),2.0,2.666666666666667,True
+Bermuda,BMU,Time required to start a business (days),,,True
+Bhutan,BTN,Time required to start a business (days),1.0,1.0,True
+Bolivia,BOL,Time required to start a business (days),1.0,1.0,True
+Bosnia and Herzegovina,BIH,Time required to start a business (days),1.0,1.0,True
+Botswana,BWA,Time required to start a business (days),1.0,1.0,True
+Brazil,BRA,Time required to start a business (days),1.0,1.0,True
+British Virgin Islands,VGB,Time required to start a business (days),,,True
+Brunei Darussalam,BRN,Time required to start a business (days),3.0,4.333333333333334,True
+Bulgaria,BGR,Time required to start a business (days),1.0,1.0,True
+Burkina Faso,BFA,Time required to start a business (days),1.0,1.0,True
+Burundi,BDI,Time required to start a business (days),3.0,4.333333333333334,True
+Cabo Verde,CPV,Time required to start a business (days),2.0,2.666666666666667,True
+Cambodia,KHM,Time required to start a business (days),1.0,1.0,True
+Cameroon,CMR,Time required to start a business (days),1.0,1.0,True
+Canada,CAN,Time required to start a business (days),4.0,6.0,True
+Cayman Islands,CYM,Time required to start a business (days),,,True
+Central African Republic,CAF,Time required to start a business (days),1.0,1.0,True
+Chad,TCD,Time required to start a business (days),1.0,1.0,True
+Channel Islands,CHI,Time required to start a business (days),,,True
+Chile,CHL,Time required to start a business (days),3.0,4.333333333333334,True
+China,CHN,Time required to start a business (days),2.0,2.666666666666667,True
+Colombia,COL,Time required to start a business (days),2.0,2.666666666666667,True
+Comoros,COM,Time required to start a business (days),1.0,1.0,True
+"Congo, Dem. Rep.",COD,Time required to start a business (days),2.0,2.666666666666667,True
+"Congo, Rep.",COG,Time required to start a business (days),1.0,1.0,True
+Costa Rica,CRI,Time required to start a business (days),1.0,1.0,True
+Cote d'Ivoire,CIV,Time required to start a business (days),2.0,2.666666666666667,True
+Croatia,HRV,Time required to start a business (days),1.0,1.0,True
+Cuba,CUB,Time required to start a business (days),,,True
+Curacao,CUW,Time required to start a business (days),,,True
+Cyprus,CYP,Time required to start a business (days),2.0,2.666666666666667,True
+Czech Republic,CZE,Time required to start a business (days),1.0,1.0,True
+Denmark,DNK,Time required to start a business (days),3.0,4.333333333333334,True
+Djibouti,DJI,Time required to start a business (days),1.0,1.0,True
+Dominica,DMA,Time required to start a business (days),1.0,1.0,True
+Dominican Republic,DOM,Time required to start a business (days),1.0,1.0,True
+Ecuador,ECU,Time required to start a business (days),1.0,1.0,True
+"Egypt, Arab Rep.",EGY,Time required to start a business (days),1.0,1.0,True
+El Salvador,SLV,Time required to start a business (days),1.0,1.0,True
+Equatorial Guinea,GNQ,Time required to start a business (days),1.0,1.0,True
+Eritrea,ERI,Time required to start a business (days),1.0,1.0,True
+Estonia,EST,Time required to start a business (days),3.0,4.333333333333334,True
+Eswatini,SWZ,Time required to start a business (days),1.0,1.0,True
+Ethiopia,ETH,Time required to start a business (days),1.0,1.0,True
+Faroe Islands,FRO,Time required to start a business (days),,,True
+Fiji,FJI,Time required to start a business (days),1.0,1.0,True
+Finland,FIN,Time required to start a business (days),1.0,1.0,True
+France,FRA,Time required to start a business (days),3.0,4.333333333333334,True
+French Polynesia,PYF,Time required to start a business (days),,,True
+Gabon,GAB,Time required to start a business (days),2.0,2.666666666666667,True
+"Gambia, The",GMB,Time required to start a business (days),2.0,2.666666666666667,True
+Georgia,GEO,Time required to start a business (days),4.0,6.0,True
+Germany,DEU,Time required to start a business (days),2.0,2.666666666666667,True
+Ghana,GHA,Time required to start a business (days),1.0,1.0,True
+Gibraltar,GIB,Time required to start a business (days),,,True
+Greece,GRC,Time required to start a business (days),3.0,4.333333333333334,True
+Greenland,GRL,Time required to start a business (days),,,True
+Grenada,GRD,Time required to start a business (days),1.0,1.0,True
+Guam,GUM,Time required to start a business (days),,,True
+Guatemala,GTM,Time required to start a business (days),1.0,1.0,True
+Guinea,GIN,Time required to start a business (days),1.0,1.0,True
+Guinea-Bissau,GNB,Time required to start a business (days),2.0,2.666666666666667,True
+Guyana,GUY,Time required to start a business (days),1.0,1.0,True
+Haiti,HTI,Time required to start a business (days),1.0,1.0,True
+Honduras,HND,Time required to start a business (days),1.0,1.0,True
+"Hong Kong SAR, China",HKG,Time required to start a business (days),4.0,6.0,True
+Hungary,HUN,Time required to start a business (days),2.0,2.666666666666667,True
+Iceland,ISL,Time required to start a business (days),1.0,1.0,True
+India,IND,Time required to start a business (days),1.0,1.0,True
+Indonesia,IDN,Time required to start a business (days),1.0,1.0,True
+"Iran, Islamic Rep.",IRN,Time required to start a business (days),1.0,1.0,True
+Iraq,IRQ,Time required to start a business (days),1.0,1.0,True
+Ireland,IRL,Time required to start a business (days),1.0,1.0,True
+Isle of Man,IMN,Time required to start a business (days),,,True
+Israel,ISR,Time required to start a business (days),1.0,1.0,True
+Italy,ITA,Time required to start a business (days),1.0,1.0,True
+Jamaica,JAM,Time required to start a business (days),3.0,4.333333333333334,True
+Japan,JPN,Time required to start a business (days),1.0,1.0,True
+Jordan,JOR,Time required to start a business (days),1.0,1.0,True
+Kazakhstan,KAZ,Time required to start a business (days),3.0,4.333333333333334,True
+Kenya,KEN,Time required to start a business (days),1.0,1.0,True
+Kiribati,KIR,Time required to start a business (days),1.0,1.0,True
+"Korea, Dem. People's Rep.",PRK,Time required to start a business (days),,,True
+"Korea, Rep.",KOR,Time required to start a business (days),2.0,2.666666666666667,True
+Kosovo,XKX,Time required to start a business (days),3.0,4.333333333333334,True
+Kuwait,KWT,Time required to start a business (days),1.0,1.0,True
+Kyrgyz Republic,KGZ,Time required to start a business (days),2.0,2.666666666666667,True
+Lao PDR,LAO,Time required to start a business (days),1.0,1.0,True
+Latvia,LVA,Time required to start a business (days),3.0,4.333333333333334,True
+Lebanon,LBN,Time required to start a business (days),1.0,1.0,True
+Lesotho,LSO,Time required to start a business (days),1.0,1.0,True
+Liberia,LBR,Time required to start a business (days),1.0,1.0,True
+Libya,LBY,Time required to start a business (days),1.0,1.0,True
+Liechtenstein,LIE,Time required to start a business (days),1.0,1.0,True
+Lithuania,LTU,Time required to start a business (days),3.0,4.333333333333334,True
+Luxembourg,LUX,Time required to start a business (days),1.0,1.0,True
+"Macao SAR, China",MAC,Time required to start a business (days),,,True
+Madagascar,MDG,Time required to start a business (days),2.0,2.666666666666667,True
+Malawi,MWI,Time required to start a business (days),1.0,1.0,True
+Malaysia,MYS,Time required to start a business (days),1.0,1.0,True
+Maldives,MDV,Time required to start a business (days),1.0,1.0,True
+Mali,MLI,Time required to start a business (days),1.0,1.0,True
+Malta,MLT,Time required to start a business (days),1.0,1.0,True
+Marshall Islands,MHL,Time required to start a business (days),1.0,1.0,True
+Mauritania,MRT,Time required to start a business (days),2.0,2.666666666666667,True
+Mauritius,MUS,Time required to start a business (days),3.0,4.333333333333334,True
+Mexico,MEX,Time required to start a business (days),2.0,2.666666666666667,True
+"Micronesia, Fed. Sts.",FSM,Time required to start a business (days),1.0,1.0,True
+Moldova,MDA,Time required to start a business (days),3.0,4.333333333333334,True
+Monaco,MCO,Time required to start a business (days),,,True
+Mongolia,MNG,Time required to start a business (days),1.0,1.0,True
+Montenegro,MNE,Time required to start a business (days),1.0,1.0,True
+Morocco,MAR,Time required to start a business (days),2.0,2.666666666666667,True
+Mozambique,MOZ,Time required to start a business (days),1.0,1.0,True
+Myanmar,MMR,Time required to start a business (days),2.0,2.666666666666667,True
+Namibia,NAM,Time required to start a business (days),1.0,1.0,True
+Nauru,NRU,Time required to start a business (days),,,True
+Nepal,NPL,Time required to start a business (days),1.0,1.0,True
+Netherlands,NLD,Time required to start a business (days),3.0,4.333333333333334,True
+New Caledonia,NCL,Time required to start a business (days),,,True
+New Zealand,NZL,Time required to start a business (days),4.0,6.0,True
+Nicaragua,NIC,Time required to start a business (days),1.0,1.0,True
+Niger,NER,Time required to start a business (days),2.0,2.666666666666667,True
+Nigeria,NGA,Time required to start a business (days),2.0,2.666666666666667,True
+North Macedonia,MKD,Time required to start a business (days),1.0,1.0,True
+Northern Mariana Islands,MNP,Time required to start a business (days),,,True
+Norway,NOR,Time required to start a business (days),3.0,4.333333333333334,True
+Oman,OMN,Time required to start a business (days),3.0,4.333333333333334,True
+Pakistan,PAK,Time required to start a business (days),1.0,1.0,True
+Palau,PLW,Time required to start a business (days),1.0,1.0,True
+Panama,PAN,Time required to start a business (days),2.0,2.666666666666667,True
+Papua New Guinea,PNG,Time required to start a business (days),1.0,1.0,True
+Paraguay,PRY,Time required to start a business (days),1.0,1.0,True
+Peru,PER,Time required to start a business (days),1.0,1.0,True
+Philippines,PHL,Time required to start a business (days),1.0,1.0,True
+Poland,POL,Time required to start a business (days),1.0,1.0,True
+Portugal,PRT,Time required to start a business (days),2.0,2.666666666666667,True
+Puerto Rico,PRI,Time required to start a business (days),3.0,4.333333333333334,True
+Qatar,QAT,Time required to start a business (days),2.0,2.666666666666667,True
+Romania,ROU,Time required to start a business (days),1.0,1.0,True
+Russian Federation,RUS,Time required to start a business (days),2.0,2.666666666666667,True
+Rwanda,RWA,Time required to start a business (days),3.0,4.333333333333334,True
+Samoa,WSM,Time required to start a business (days),2.0,2.666666666666667,True
+San Marino,SMR,Time required to start a business (days),1.0,1.0,True
+Sao Tome and Principe,STP,Time required to start a business (days),2.0,2.666666666666667,True
+Saudi Arabia,SAU,Time required to start a business (days),2.0,2.666666666666667,True
+Senegal,SEN,Time required to start a business (days),2.0,2.666666666666667,True
+Serbia,SRB,Time required to start a business (days),2.0,2.666666666666667,True
+Seychelles,SYC,Time required to start a business (days),1.0,1.0,True
+Sierra Leone,SLE,Time required to start a business (days),2.0,2.666666666666667,True
+Singapore,SGP,Time required to start a business (days),4.0,6.0,True
+Sint Maarten (Dutch part),SXM,Time required to start a business (days),,,True
+Slovak Republic,SVK,Time required to start a business (days),1.0,1.0,True
+Slovenia,SVN,Time required to start a business (days),2.0,2.666666666666667,True
+Solomon Islands,SLB,Time required to start a business (days),2.0,2.666666666666667,True
+Somalia,SOM,Time required to start a business (days),1.0,1.0,True
+South Africa,ZAF,Time required to start a business (days),1.0,1.0,True
+South Sudan,SSD,Time required to start a business (days),1.0,1.0,True
+Spain,ESP,Time required to start a business (days),1.0,1.0,True
+Sri Lanka,LKA,Time required to start a business (days),2.0,2.666666666666667,True
+St. Kitts and Nevis,KNA,Time required to start a business (days),1.0,1.0,True
+St. Lucia,LCA,Time required to start a business (days),1.0,1.0,True
+St. Martin (French part),MAF,Time required to start a business (days),,,True
+St. Vincent and the Grenadines,VCT,Time required to start a business (days),2.0,2.666666666666667,True
+Sudan,SDN,Time required to start a business (days),1.0,1.0,True
+Suriname,SUR,Time required to start a business (days),1.0,1.0,True
+Sweden,SWE,Time required to start a business (days),2.0,2.666666666666667,True
+Switzerland,CHE,Time required to start a business (days),2.0,2.666666666666667,True
+Syrian Arab Republic,SYR,Time required to start a business (days),1.0,1.0,True
+Tajikistan,TJK,Time required to start a business (days),2.0,2.666666666666667,True
+Tanzania,TZA,Time required to start a business (days),1.0,1.0,True
+Thailand,THA,Time required to start a business (days),2.0,2.666666666666667,True
+Timor-Leste,TLS,Time required to start a business (days),1.0,1.0,True
+Togo,TGO,Time required to start a business (days),3.0,4.333333333333334,True
+Tonga,TON,Time required to start a business (days),1.0,1.0,True
+Trinidad and Tobago,TTO,Time required to start a business (days),2.0,2.666666666666667,True
+Tunisia,TUN,Time required to start a business (days),2.0,2.666666666666667,True
+Turkey,TUR,Time required to start a business (days),2.0,2.666666666666667,True
+Turkmenistan,TKM,Time required to start a business (days),,,True
+Turks and Caicos Islands,TCA,Time required to start a business (days),,,True
+Tuvalu,TUV,Time required to start a business (days),,,True
+Uganda,UGA,Time required to start a business (days),1.0,1.0,True
+Ukraine,UKR,Time required to start a business (days),2.0,2.666666666666667,True
+United Arab Emirates,ARE,Time required to start a business (days),3.0,4.333333333333334,True
+United Kingdom,GBR,Time required to start a business (days),3.0,4.333333333333334,True
+United States,USA,Time required to start a business (days),3.0,4.333333333333334,True
+Uruguay,URY,Time required to start a business (days),2.0,2.666666666666667,True
+Uzbekistan,UZB,Time required to start a business (days),3.0,4.333333333333334,True
+Vanuatu,VUT,Time required to start a business (days),1.0,1.0,True
+"Venezuela, RB",VEN,Time required to start a business (days),1.0,1.0,True
+Vietnam,VNM,Time required to start a business (days),1.0,1.0,True
+Virgin Islands (U.S.),VIR,Time required to start a business (days),,,True
+West Bank and Gaza,PSE,Time required to start a business (days),1.0,1.0,True
+"Yemen, Rep.",YEM,Time required to start a business (days),1.0,1.0,True
+Zambia,ZMB,Time required to start a business (days),2.0,2.666666666666667,True
+Zimbabwe,ZWE,Time required to start a business (days),1.0,1.0,True
+Africa Eastern and Southern,AFE,Time required to start a business (days),1.0,1.0,True
+Africa Western and Central,AFW,Time required to start a business (days),1.0,1.0,True
+Arab World,ARB,Time required to start a business (days),1.0,1.0,True
+Caribbean small states,CSS,Time required to start a business (days),1.0,1.0,True
+Central Europe and the Baltics,CEB,Time required to start a business (days),1.0,1.0,True
+Early-demographic dividend,EAR,Time required to start a business (days),1.0,1.0,True
+East Asia & Pacific,EAS,Time required to start a business (days),1.0,1.0,True
+East Asia & Pacific (excluding high income),EAP,Time required to start a business (days),1.0,1.0,True
+East Asia & Pacific (IDA & IBRD countries),TEA,Time required to start a business (days),1.0,1.0,True
+Euro area,EMU,Time required to start a business (days),2.0,2.666666666666667,True
+Europe & Central Asia,ECS,Time required to start a business (days),1.0,1.0,True
+Europe & Central Asia (excluding high income),ECA,Time required to start a business (days),1.0,1.0,True
+Europe & Central Asia (IDA & IBRD countries),TEC,Time required to start a business (days),1.0,1.0,True
+European Union,EUU,Time required to start a business (days),1.0,1.0,True
+Fragile and conflict affected situations,FCS,Time required to start a business (days),1.0,1.0,True
+Heavily indebted poor countries (HIPC),HPC,Time required to start a business (days),1.0,1.0,True
+High income,HIC,Time required to start a business (days),2.0,2.666666666666667,True
+IBRD only,IBD,Time required to start a business (days),1.0,1.0,True
+IDA & IBRD total,IBT,Time required to start a business (days),1.0,1.0,True
+IDA blend,IDB,Time required to start a business (days),1.0,1.0,True
+IDA only,IDX,Time required to start a business (days),1.0,1.0,True
+IDA total,IDA,Time required to start a business (days),1.0,1.0,True
+Late-demographic dividend,LTE,Time required to start a business (days),1.0,1.0,True
+Latin America & Caribbean,LCN,Time required to start a business (days),1.0,1.0,True
+Latin America & Caribbean (excluding high income),LAC,Time required to start a business (days),1.0,1.0,True
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Time required to start a business (days),1.0,1.0,True
+Least developed countries: UN classification,LDC,Time required to start a business (days),1.0,1.0,True
+Low & middle income,LMY,Time required to start a business (days),1.0,1.0,True
+Low income,LIC,Time required to start a business (days),1.0,1.0,True
+Lower middle income,LMC,Time required to start a business (days),1.0,1.0,True
+Middle East & North Africa,MEA,Time required to start a business (days),1.0,1.0,True
+Middle East & North Africa (excluding high income),MNA,Time required to start a business (days),1.0,1.0,True
+Middle East & North Africa (IDA & IBRD countries),TMN,Time required to start a business (days),1.0,1.0,True
+Middle income,MIC,Time required to start a business (days),1.0,1.0,True
+North America,NAC,Time required to start a business (days),3.0,4.333333333333334,True
+Not classified,INX,Time required to start a business (days),,,True
+OECD members,OED,Time required to start a business (days),2.0,2.666666666666667,True
+Other small states,OSS,Time required to start a business (days),1.0,1.0,True
+Pacific island small states,PSS,Time required to start a business (days),1.0,1.0,True
+Post-demographic dividend,PST,Time required to start a business (days),1.0,1.0,True
+Pre-demographic dividend,PRE,Time required to start a business (days),1.0,1.0,True
+Small states,SST,Time required to start a business (days),1.0,1.0,True
+South Asia,SAS,Time required to start a business (days),1.0,1.0,True
+South Asia (IDA & IBRD),TSA,Time required to start a business (days),1.0,1.0,True
+Sub-Saharan Africa,SSF,Time required to start a business (days),1.0,1.0,True
+Sub-Saharan Africa (excluding high income),SSA,Time required to start a business (days),1.0,1.0,True
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Time required to start a business (days),1.0,1.0,True
+Upper middle income,UMC,Time required to start a business (days),1.0,1.0,True
+World,WLD,Time required to start a business (days),1.0,1.0,True
