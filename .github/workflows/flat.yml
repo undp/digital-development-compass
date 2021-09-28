@@ -22,7 +22,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.csv
-           downloaded_filename: data/Countries.xls
+           downloaded_filename: data/Countries.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
