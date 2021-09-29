@@ -141,7 +141,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2020/MobileCellularSubscriptions_2000-2019.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_mobile_cell_sub.csv
            downloaded_filename: data/%_mobile_cell_sub.xlsx
            postprocess: ./process_raw_data.js
 
