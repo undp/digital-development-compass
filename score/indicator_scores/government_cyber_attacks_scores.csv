@@ -1,0 +1,21 @@
+Country Name,Indicator,data_col,new_rank_score,higher_is_better
+United States,Security incidents (# of relevant issues),20.0,1.0,True
+United Kingdom,Security incidents (# of relevant issues),19.0,1.2631578947368425,True
+India,Security incidents (# of relevant issues),18.0,1.526315789473684,True
+Germany,Security incidents (# of relevant issues),17.0,1.7894736842105265,True
+South Korea,Security incidents (# of relevant issues),16.0,2.052631578947368,True
+Australia,Security incidents (# of relevant issues),15.0,2.3157894736842106,True
+Ukraine,Security incidents (# of relevant issues),15.0,2.3157894736842106,True
+China,Security incidents (# of relevant issues),13.0,2.8421052631578947,True
+Iran,Security incidents (# of relevant issues),13.0,2.8421052631578947,True
+Saudi Arabia,Security incidents (# of relevant issues),13.0,2.8421052631578947,True
+Japan,Security incidents (# of relevant issues),10.0,3.6315789473684212,True
+Canada,Security incidents (# of relevant issues),9.0,3.8947368421052633,True
+France,Security incidents (# of relevant issues),8.0,4.157894736842105,True
+Israel,Security incidents (# of relevant issues),8.0,4.157894736842105,True
+Pakistan,Security incidents (# of relevant issues),6.0,4.684210526315789,True
+Russia,Security incidents (# of relevant issues),5.0,4.947368421052632,True
+Hong Kong,Security incidents (# of relevant issues),4.0,5.2105263157894735,True
+Vietnam,Security incidents (# of relevant issues),3.0,5.473684210526316,True
+Turkey,Security incidents (# of relevant issues),3.0,5.473684210526316,True
+North Korea,Security incidents (# of relevant issues),1.0,6.0,True
