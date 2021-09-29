@@ -565,14 +565,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2020/MobileCellularSubscriptions_2000-2019.xlsx
-           downloaded_filename: data/%_mobile_cell_sub.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx
            downloaded_filename: data/electricity_yearbook.xlsx
            postprocess: ./process_raw_data.js
