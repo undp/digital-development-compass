@@ -1,0 +1,1021 @@
+,ISO Code,Country,Region,Year,Mobile latencies
+1,AFG,Afghanistan,South Asia,2014,0
+2,AFG,Afghanistan,South Asia,2015,0
+3,AFG,Afghanistan,South Asia,2016,11.84210587
+4,AFG,Afghanistan,South Asia,2017,56.23499298
+5,AFG,Afghanistan,South Asia,2018,49.762146
+6,AFG,Afghanistan,South Asia,2019,42.6276207
+7,AGO,Angola,Sub-Saharan Africa,2014,0
+8,AGO,Angola,Sub-Saharan Africa,2015,36.97515488
+9,AGO,Angola,Sub-Saharan Africa,2016,50.95807266
+10,AGO,Angola,Sub-Saharan Africa,2017,66.05263519
+11,AGO,Angola,Sub-Saharan Africa,2018,74.4171524
+12,AGO,Angola,Sub-Saharan Africa,2019,66.2856369
+13,ALB,Albania,Europe & Central Asia,2014,34.73684311
+14,ALB,Albania,Europe & Central Asia,2015,57.33976364
+15,ALB,Albania,Europe & Central Asia,2016,73.42005157
+16,ALB,Albania,Europe & Central Asia,2017,80.21868134
+17,ALB,Albania,Europe & Central Asia,2018,84.70823669
+18,ALB,Albania,Europe & Central Asia,2019,84.63645935
+19,ARE,United Arab Emirates,Middle East & North Africa,2014,32.69297409
+20,ARE,United Arab Emirates,Middle East & North Africa,2015,50.95933151
+21,ARE,United Arab Emirates,Middle East & North Africa,2016,74.99968719
+22,ARE,United Arab Emirates,Middle East & North Africa,2017,81.47822571
+23,ARE,United Arab Emirates,Middle East & North Africa,2018,83.50496674
+24,ARE,United Arab Emirates,Middle East & North Africa,2019,84.95167542
+25,ARG,Argentina,Latin America & Caribbean,2014,0
+26,ARG,Argentina,Latin America & Caribbean,2015,28.81908989
+27,ARG,Argentina,Latin America & Caribbean,2016,55.8623085
+28,ARG,Argentina,Latin America & Caribbean,2017,73.34654999
+29,ARG,Argentina,Latin America & Caribbean,2018,77.38037872
+30,ARG,Argentina,Latin America & Caribbean,2019,80.72720337
+31,ARM,Armenia,Europe & Central Asia,2014,21.75917816
+32,ARM,Armenia,Europe & Central Asia,2015,52.80808258
+33,ARM,Armenia,Europe & Central Asia,2016,76.69247437
+34,ARM,Armenia,Europe & Central Asia,2017,86.2015686
+35,ARM,Armenia,Europe & Central Asia,2018,87.86780548
+36,ARM,Armenia,Europe & Central Asia,2019,88.43795013
+37,AUS,Australia,East Asia & Pacific,2014,67.65474701
+38,AUS,Australia,East Asia & Pacific,2015,75.93653107
+39,AUS,Australia,East Asia & Pacific,2016,82.74655914
+40,AUS,Australia,East Asia & Pacific,2017,86.31546783
+41,AUS,Australia,East Asia & Pacific,2018,87.38205719
+42,AUS,Australia,East Asia & Pacific,2019,86.0691452
+43,AUT,Austria,Europe & Central Asia,2014,57.35907745
+44,AUT,Austria,Europe & Central Asia,2015,72.42852783
+45,AUT,Austria,Europe & Central Asia,2016,82.63532257
+46,AUT,Austria,Europe & Central Asia,2017,83.87520599
+47,AUT,Austria,Europe & Central Asia,2018,84.59786987
+48,AUT,Austria,Europe & Central Asia,2019,85.845047
+49,AZE,Azerbaijan,Europe & Central Asia,2014,23.57065201
+50,AZE,Azerbaijan,Europe & Central Asia,2015,51.123703
+51,AZE,Azerbaijan,Europe & Central Asia,2016,63.42027283
+52,AZE,Azerbaijan,Europe & Central Asia,2017,80.41269684
+53,AZE,Azerbaijan,Europe & Central Asia,2018,83.56892395
+54,AZE,Azerbaijan,Europe & Central Asia,2019,85.6875
+55,BDI,Burundi,Sub-Saharan Africa,2014,30.00000191
+56,BDI,Burundi,Sub-Saharan Africa,2015,12.36842155
+57,BDI,Burundi,Sub-Saharan Africa,2016,53.19210815
+58,BDI,Burundi,Sub-Saharan Africa,2017,46.92947769
+59,BDI,Burundi,Sub-Saharan Africa,2018,61.25745773
+60,BDI,Burundi,Sub-Saharan Africa,2019,51.73629379
+61,BEL,Belgium,Europe & Central Asia,2014,65.53321075
+62,BEL,Belgium,Europe & Central Asia,2015,75.08374023
+63,BEL,Belgium,Europe & Central Asia,2016,82.49643707
+64,BEL,Belgium,Europe & Central Asia,2017,85.01912689
+65,BEL,Belgium,Europe & Central Asia,2018,86.22314453
+66,BEL,Belgium,Europe & Central Asia,2019,82.73025513
+67,BEN,Benin,Sub-Saharan Africa,2014,0
+68,BEN,Benin,Sub-Saharan Africa,2015,0
+69,BEN,Benin,Sub-Saharan Africa,2016,0
+70,BEN,Benin,Sub-Saharan Africa,2017,57.36299896
+71,BEN,Benin,Sub-Saharan Africa,2018,47.54114151
+72,BEN,Benin,Sub-Saharan Africa,2019,68.67870331
+73,BFA,Burkina Faso,Sub-Saharan Africa,2014,0
+74,BFA,Burkina Faso,Sub-Saharan Africa,2015,21.57894707
+75,BFA,Burkina Faso,Sub-Saharan Africa,2016,4.210526466
+76,BFA,Burkina Faso,Sub-Saharan Africa,2017,5.789473534
+77,BFA,Burkina Faso,Sub-Saharan Africa,2018,6.315789223
+78,BFA,Burkina Faso,Sub-Saharan Africa,2019,54.46979904
+79,BGD,Bangladesh,South Asia,2014,4.722418785
+80,BGD,Bangladesh,South Asia,2015,33.48055649
+81,BGD,Bangladesh,South Asia,2016,52.31586075
+82,BGD,Bangladesh,South Asia,2017,73.24757385
+83,BGD,Bangladesh,South Asia,2018,76.46273041
+84,BGD,Bangladesh,South Asia,2019,74.70111084
+85,BGR,Bulgaria,Europe & Central Asia,2014,44.51687241
+86,BGR,Bulgaria,Europe & Central Asia,2015,61.40545654
+87,BGR,Bulgaria,Europe & Central Asia,2016,77.00474548
+88,BGR,Bulgaria,Europe & Central Asia,2017,82.16394806
+89,BGR,Bulgaria,Europe & Central Asia,2018,83.68644714
+90,BGR,Bulgaria,Europe & Central Asia,2019,83.99253845
+91,BHR,Bahrain,Middle East & North Africa,2014,41.55490875
+92,BHR,Bahrain,Middle East & North Africa,2015,54.84939957
+93,BHR,Bahrain,Middle East & North Africa,2016,71.93808746
+94,BHR,Bahrain,Middle East & North Africa,2017,81.77004242
+95,BHR,Bahrain,Middle East & North Africa,2018,85.32577515
+96,BHR,Bahrain,Middle East & North Africa,2019,87.42061615
+97,BHS,Bahamas,Latin America & Caribbean,2014,34.83531952
+98,BHS,Bahamas,Latin America & Caribbean,2015,62.73776245
+99,BHS,Bahamas,Latin America & Caribbean,2016,70.52133942
+100,BHS,Bahamas,Latin America & Caribbean,2017,84.04237366
+101,BHS,Bahamas,Latin America & Caribbean,2018,83.6053009
+102,BHS,Bahamas,Latin America & Caribbean,2019,78.23744965
+103,BIH,Bosnia and Herzegovina,Europe & Central Asia,2014,38.42105103
+104,BIH,Bosnia and Herzegovina,Europe & Central Asia,2015,51.84210587
+105,BIH,Bosnia and Herzegovina,Europe & Central Asia,2016,71.57894897
+106,BIH,Bosnia and Herzegovina,Europe & Central Asia,2017,81.05262756
+107,BIH,Bosnia and Herzegovina,Europe & Central Asia,2018,82.10526276
+108,BIH,Bosnia and Herzegovina,Europe & Central Asia,2019,84.97593689
+109,BLR,Belarus,Europe & Central Asia,2014,37.36841965
+110,BLR,Belarus,Europe & Central Asia,2015,61.3382225
+111,BLR,Belarus,Europe & Central Asia,2016,79.45975494
+112,BLR,Belarus,Europe & Central Asia,2017,87.41914368
+113,BLR,Belarus,Europe & Central Asia,2018,85.90319061
+114,BLR,Belarus,Europe & Central Asia,2019,86.26157379
+115,BLZ,Belize,Latin America & Caribbean,2014,29.4736824
+116,BLZ,Belize,Latin America & Caribbean,2015,34.49147797
+117,BLZ,Belize,Latin America & Caribbean,2016,67.26718903
+118,BLZ,Belize,Latin America & Caribbean,2017,79.76537323
+119,BLZ,Belize,Latin America & Caribbean,2018,80.84965515
+120,BLZ,Belize,Latin America & Caribbean,2019,84.1601944
+121,BOL,Bolivia,Latin America & Caribbean,2014,6.141108513
+122,BOL,Bolivia,Latin America & Caribbean,2015,39.21141815
+123,BOL,Bolivia,Latin America & Caribbean,2016,62.03824234
+124,BOL,Bolivia,Latin America & Caribbean,2017,78.43280029
+125,BOL,Bolivia,Latin America & Caribbean,2018,78.87944794
+126,BOL,Bolivia,Latin America & Caribbean,2019,80.42672729
+127,BRA,Brazil,Latin America & Caribbean,2014,0
+128,BRA,Brazil,Latin America & Caribbean,2015,13.7933197
+129,BRA,Brazil,Latin America & Caribbean,2016,45.2000351
+130,BRA,Brazil,Latin America & Caribbean,2017,67.32558441
+131,BRA,Brazil,Latin America & Caribbean,2018,73.09700012
+132,BRA,Brazil,Latin America & Caribbean,2019,77.20741272
+133,BRB,Barbados,Latin America & Caribbean,2014,29.4736824
+134,BRB,Barbados,Latin America & Caribbean,2015,21.31578827
+135,BRB,Barbados,Latin America & Caribbean,2016,56.19872665
+136,BRB,Barbados,Latin America & Caribbean,2017,85.02107239
+137,BRB,Barbados,Latin America & Caribbean,2018,84.88495636
+138,BRB,Barbados,Latin America & Caribbean,2019,87.31311035
+139,BRN,Brunei Darussalam,East Asia & Pacific,2014,43.05082703
+140,BRN,Brunei Darussalam,East Asia & Pacific,2015,26.93390465
+141,BRN,Brunei Darussalam,East Asia & Pacific,2016,42.90874481
+142,BRN,Brunei Darussalam,East Asia & Pacific,2017,73.05325317
+143,BRN,Brunei Darussalam,East Asia & Pacific,2018,78.30590057
+144,BRN,Brunei Darussalam,East Asia & Pacific,2019,80.26225281
+145,BTN,Bhutan,South Asia,2014,0
+146,BTN,Bhutan,South Asia,2015,43.01363373
+147,BTN,Bhutan,South Asia,2016,47.90024185
+148,BTN,Bhutan,South Asia,2017,67.56710052
+149,BTN,Bhutan,South Asia,2018,68.14131927
+150,BTN,Bhutan,South Asia,2019,80.00563812
+151,BWA,Botswana,Sub-Saharan Africa,2014,0
+152,BWA,Botswana,Sub-Saharan Africa,2015,0
+153,BWA,Botswana,Sub-Saharan Africa,2016,38.12358856
+154,BWA,Botswana,Sub-Saharan Africa,2017,51.3552742
+155,BWA,Botswana,Sub-Saharan Africa,2018,67.22367859
+156,BWA,Botswana,Sub-Saharan Africa,2019,69.842659
+157,CAF,Central African Republic,Sub-Saharan Africa,2014,0
+158,CAF,Central African Republic,Sub-Saharan Africa,2015,0
+159,CAF,Central African Republic,Sub-Saharan Africa,2016,0
+160,CAF,Central African Republic,Sub-Saharan Africa,2017,0
+161,CAF,Central African Republic,Sub-Saharan Africa,2018,0
+162,CAF,Central African Republic,Sub-Saharan Africa,2019,0
+163,CAN,Canada,North America,2014,57.06797409
+164,CAN,Canada,North America,2015,66.16358185
+165,CAN,Canada,North America,2016,75.58096313
+166,CAN,Canada,North America,2017,80.98020935
+167,CAN,Canada,North America,2018,81.53892517
+168,CAN,Canada,North America,2019,82.5782547
+169,CHE,Switzerland,Europe & Central Asia,2014,52.02465057
+170,CHE,Switzerland,Europe & Central Asia,2015,71.01480865
+171,CHE,Switzerland,Europe & Central Asia,2016,82.90575409
+172,CHE,Switzerland,Europe & Central Asia,2017,85.18927002
+173,CHE,Switzerland,Europe & Central Asia,2018,85.82559204
+174,CHE,Switzerland,Europe & Central Asia,2019,85.71635437
+175,CHL,Chile,Latin America & Caribbean,2014,0
+176,CHL,Chile,Latin America & Caribbean,2015,40.15229797
+177,CHL,Chile,Latin America & Caribbean,2016,67.48571777
+178,CHL,Chile,Latin America & Caribbean,2017,81.56349945
+179,CHL,Chile,Latin America & Caribbean,2018,83.71027374
+180,CHL,Chile,Latin America & Caribbean,2019,84.57044983
+181,CHN,China,East Asia & Pacific,2014,37.23763657
+182,CHN,China,East Asia & Pacific,2015,62.73335266
+183,CHN,China,East Asia & Pacific,2016,69.83921814
+184,CHN,China,East Asia & Pacific,2017,76.93350983
+185,CHN,China,East Asia & Pacific,2018,81.74280548
+186,CHN,China,East Asia & Pacific,2019,83.3423233
+187,CIV,Cote d'Ivoire,Sub-Saharan Africa,2014,0
+188,CIV,Cote d'Ivoire,Sub-Saharan Africa,2015,15.58632278
+189,CIV,Cote d'Ivoire,Sub-Saharan Africa,2016,59.44384384
+190,CIV,Cote d'Ivoire,Sub-Saharan Africa,2017,64.27611542
+191,CIV,Cote d'Ivoire,Sub-Saharan Africa,2018,71.7644043
+192,CIV,Cote d'Ivoire,Sub-Saharan Africa,2019,74.6656189
+193,CMR,Cameroon,Sub-Saharan Africa,2014,0
+194,CMR,Cameroon,Sub-Saharan Africa,2015,0
+195,CMR,Cameroon,Sub-Saharan Africa,2016,16.73829651
+196,CMR,Cameroon,Sub-Saharan Africa,2017,59.58612442
+197,CMR,Cameroon,Sub-Saharan Africa,2018,64.93013763
+198,CMR,Cameroon,Sub-Saharan Africa,2019,59.53656387
+199,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2014,0
+200,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2015,0
+201,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2016,0
+202,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2017,44.73684311
+203,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2018,39.091362
+204,COD,"Congo, Democratic Republic",Sub-Saharan Africa,2019,52.66521454
+205,COG,Congo,Sub-Saharan Africa,2014,0
+206,COG,Congo,Sub-Saharan Africa,2015,0
+207,COG,Congo,Sub-Saharan Africa,2016,0
+208,COG,Congo,Sub-Saharan Africa,2017,41.90991974
+209,COG,Congo,Sub-Saharan Africa,2018,57.98326874
+210,COG,Congo,Sub-Saharan Africa,2019,71.18615723
+211,COL,Colombia,Latin America & Caribbean,2014,20.60830307
+212,COL,Colombia,Latin America & Caribbean,2015,22.96230888
+213,COL,Colombia,Latin America & Caribbean,2016,24.92630768
+214,COL,Colombia,Latin America & Caribbean,2017,65.66056824
+215,COL,Colombia,Latin America & Caribbean,2018,71.92485046
+216,COL,Colombia,Latin America & Caribbean,2019,73.36600494
+217,COM,Comoros,Middle East & North Africa,2014,1.784611702
+218,COM,Comoros,Middle East & North Africa,2015,1.784611702
+219,COM,Comoros,Middle East & North Africa,2016,1.784611702
+220,COM,Comoros,Middle East & North Africa,2017,1.784611702
+221,COM,Comoros,Middle East & North Africa,2018,1.784611702
+222,COM,Comoros,Middle East & North Africa,2019,29.06758499
+223,CPV,Cabo Verde,Sub-Saharan Africa,2014,39.47368622
+224,CPV,Cabo Verde,Sub-Saharan Africa,2015,43.15789413
+225,CPV,Cabo Verde,Sub-Saharan Africa,2016,71.57894897
+226,CPV,Cabo Verde,Sub-Saharan Africa,2017,79.47368622
+227,CPV,Cabo Verde,Sub-Saharan Africa,2018,79.47368622
+228,CPV,Cabo Verde,Sub-Saharan Africa,2019,75.06734467
+229,CRI,Costa Rica,Latin America & Caribbean,2014,0
+230,CRI,Costa Rica,Latin America & Caribbean,2015,24.59475136
+231,CRI,Costa Rica,Latin America & Caribbean,2016,35.63502884
+232,CRI,Costa Rica,Latin America & Caribbean,2017,54.22376251
+233,CRI,Costa Rica,Latin America & Caribbean,2018,63.52130127
+234,CRI,Costa Rica,Latin America & Caribbean,2019,68.46898651
+235,CYP,Cyprus,Europe & Central Asia,2014,36.31578827
+236,CYP,Cyprus,Europe & Central Asia,2015,58.97864532
+237,CYP,Cyprus,Europe & Central Asia,2016,66.20630646
+238,CYP,Cyprus,Europe & Central Asia,2017,81.03490448
+239,CYP,Cyprus,Europe & Central Asia,2018,81.56380463
+240,CYP,Cyprus,Europe & Central Asia,2019,83.8875351
+241,CZE,Czechia,Europe & Central Asia,2014,54.86772537
+242,CZE,Czechia,Europe & Central Asia,2015,67.29266357
+243,CZE,Czechia,Europe & Central Asia,2016,77.02166748
+244,CZE,Czechia,Europe & Central Asia,2017,85.55774689
+245,CZE,Czechia,Europe & Central Asia,2018,85.24573517
+246,CZE,Czechia,Europe & Central Asia,2019,87.35509491
+247,DEU,Germany,Europe & Central Asia,2014,50.67826462
+248,DEU,Germany,Europe & Central Asia,2015,63.20631409
+249,DEU,Germany,Europe & Central Asia,2016,73.60006714
+250,DEU,Germany,Europe & Central Asia,2017,79.25222778
+251,DEU,Germany,Europe & Central Asia,2018,80.81737518
+252,DEU,Germany,Europe & Central Asia,2019,81.40789032
+253,DNK,Denmark,Europe & Central Asia,2014,65.56204224
+254,DNK,Denmark,Europe & Central Asia,2015,74.69012451
+255,DNK,Denmark,Europe & Central Asia,2016,84.02944183
+256,DNK,Denmark,Europe & Central Asia,2017,88.60199738
+257,DNK,Denmark,Europe & Central Asia,2018,88.09359741
+258,DNK,Denmark,Europe & Central Asia,2019,88.17297363
+259,DOM,Dominican Republic,Latin America & Caribbean,2014,19.1191349
+260,DOM,Dominican Republic,Latin America & Caribbean,2015,36.17428589
+261,DOM,Dominican Republic,Latin America & Caribbean,2016,57.08547211
+262,DOM,Dominican Republic,Latin America & Caribbean,2017,69.97990417
+263,DOM,Dominican Republic,Latin America & Caribbean,2018,74.75769806
+264,DOM,Dominican Republic,Latin America & Caribbean,2019,73.42481995
+265,DZA,Algeria,Middle East & North Africa,2014,0
+266,DZA,Algeria,Middle East & North Africa,2015,30.52631569
+267,DZA,Algeria,Middle East & North Africa,2016,43.64052582
+268,DZA,Algeria,Middle East & North Africa,2017,68.18387604
+269,DZA,Algeria,Middle East & North Africa,2018,67.26785278
+270,DZA,Algeria,Middle East & North Africa,2019,65.19542694
+271,ECU,Ecuador,Latin America & Caribbean,2014,0
+272,ECU,Ecuador,Latin America & Caribbean,2015,7.932908058
+273,ECU,Ecuador,Latin America & Caribbean,2016,38.94345856
+274,ECU,Ecuador,Latin America & Caribbean,2017,68.21437836
+275,ECU,Ecuador,Latin America & Caribbean,2018,77.51537323
+276,ECU,Ecuador,Latin America & Caribbean,2019,81.45951843
+277,EGY,Egypt,Middle East & North Africa,2014,36.31578827
+278,EGY,Egypt,Middle East & North Africa,2015,53.94737244
+279,EGY,Egypt,Middle East & North Africa,2016,71.31578827
+280,EGY,Egypt,Middle East & North Africa,2017,76.7294693
+281,EGY,Egypt,Middle East & North Africa,2018,79.13261414
+282,EGY,Egypt,Middle East & North Africa,2019,77.11512756
+283,ESP,Spain,Europe & Central Asia,2014,42.34326935
+284,ESP,Spain,Europe & Central Asia,2015,61.51369858
+285,ESP,Spain,Europe & Central Asia,2016,71.72674561
+286,ESP,Spain,Europe & Central Asia,2017,77.19164276
+287,ESP,Spain,Europe & Central Asia,2018,78.15730286
+288,ESP,Spain,Europe & Central Asia,2019,78.81275177
+289,EST,Estonia,Europe & Central Asia,2014,62.88412857
+290,EST,Estonia,Europe & Central Asia,2015,74.99906158
+291,EST,Estonia,Europe & Central Asia,2016,83.77482605
+292,EST,Estonia,Europe & Central Asia,2017,88.60142517
+293,EST,Estonia,Europe & Central Asia,2018,89.07342529
+294,EST,Estonia,Europe & Central Asia,2019,89.35057068
+295,ETH,Ethiopia,Sub-Saharan Africa,2014,25.52631569
+296,ETH,Ethiopia,Sub-Saharan Africa,2015,54.70565033
+297,ETH,Ethiopia,Sub-Saharan Africa,2016,47.12823486
+298,ETH,Ethiopia,Sub-Saharan Africa,2017,43.15559769
+299,ETH,Ethiopia,Sub-Saharan Africa,2018,54.69908142
+300,ETH,Ethiopia,Sub-Saharan Africa,2019,52.54718018
+301,FIN,Finland,Europe & Central Asia,2014,61.49966812
+302,FIN,Finland,Europe & Central Asia,2015,76.67639923
+303,FIN,Finland,Europe & Central Asia,2016,83.91498566
+304,FIN,Finland,Europe & Central Asia,2017,87.36192322
+305,FIN,Finland,Europe & Central Asia,2018,88.24637604
+306,FIN,Finland,Europe & Central Asia,2019,89.50313568
+307,FJI,Fiji,East Asia & Pacific,2014,15.42597008
+308,FJI,Fiji,East Asia & Pacific,2015,56.34912109
+309,FJI,Fiji,East Asia & Pacific,2016,70.24875641
+310,FJI,Fiji,East Asia & Pacific,2017,79.12236786
+311,FJI,Fiji,East Asia & Pacific,2018,79.71685791
+312,FJI,Fiji,East Asia & Pacific,2019,80.30860901
+313,FRA,France,Europe & Central Asia,2014,36.22440338
+314,FRA,France,Europe & Central Asia,2015,62.22737885
+315,FRA,France,Europe & Central Asia,2016,72.88174438
+316,FRA,France,Europe & Central Asia,2017,79.48134613
+317,FRA,France,Europe & Central Asia,2018,78.88253021
+318,FRA,France,Europe & Central Asia,2019,79.07080078
+319,GAB,Gabon,Sub-Saharan Africa,2014,0
+320,GAB,Gabon,Sub-Saharan Africa,2015,0
+321,GAB,Gabon,Sub-Saharan Africa,2016,25.7821312
+322,GAB,Gabon,Sub-Saharan Africa,2017,50.04970932
+323,GAB,Gabon,Sub-Saharan Africa,2018,68.90818787
+324,GAB,Gabon,Sub-Saharan Africa,2019,58.89127731
+325,GBR,United Kingdom,Europe & Central Asia,2014,44.91003799
+326,GBR,United Kingdom,Europe & Central Asia,2015,66.43971252
+327,GBR,United Kingdom,Europe & Central Asia,2016,78.85836792
+328,GBR,United Kingdom,Europe & Central Asia,2017,81.26203918
+329,GBR,United Kingdom,Europe & Central Asia,2018,81.74971008
+330,GBR,United Kingdom,Europe & Central Asia,2019,81.64401245
+331,GEO,Georgia,Europe & Central Asia,2014,30.91560936
+332,GEO,Georgia,Europe & Central Asia,2015,46.70275879
+333,GEO,Georgia,Europe & Central Asia,2016,60.67789078
+334,GEO,Georgia,Europe & Central Asia,2017,76.50276184
+335,GEO,Georgia,Europe & Central Asia,2018,77.60428619
+336,GEO,Georgia,Europe & Central Asia,2019,76.18167877
+337,GHA,Ghana,Sub-Saharan Africa,2014,0
+338,GHA,Ghana,Sub-Saharan Africa,2015,17.89528275
+339,GHA,Ghana,Sub-Saharan Africa,2016,31.88710213
+340,GHA,Ghana,Sub-Saharan Africa,2017,62.42891693
+341,GHA,Ghana,Sub-Saharan Africa,2018,67.94709778
+342,GHA,Ghana,Sub-Saharan Africa,2019,69.83360291
+343,GIN,Guinea,Sub-Saharan Africa,2014,0
+344,GIN,Guinea,Sub-Saharan Africa,2015,0
+345,GIN,Guinea,Sub-Saharan Africa,2016,0
+346,GIN,Guinea,Sub-Saharan Africa,2017,0
+347,GIN,Guinea,Sub-Saharan Africa,2018,6.842104912
+348,GIN,Guinea,Sub-Saharan Africa,2019,21.47462463
+349,GMB,Gambia,Sub-Saharan Africa,2014,0
+350,GMB,Gambia,Sub-Saharan Africa,2015,0
+351,GMB,Gambia,Sub-Saharan Africa,2016,31.31578827
+352,GMB,Gambia,Sub-Saharan Africa,2017,62.36001205
+353,GMB,Gambia,Sub-Saharan Africa,2018,64.9775238
+354,GMB,Gambia,Sub-Saharan Africa,2019,73.35793304
+355,GNB,Guinea-Bissau,Sub-Saharan Africa,2014,31.02314186
+356,GNB,Guinea-Bissau,Sub-Saharan Africa,2015,31.02314186
+357,GNB,Guinea-Bissau,Sub-Saharan Africa,2016,48.33556747
+358,GNB,Guinea-Bissau,Sub-Saharan Africa,2017,54.31361771
+359,GNB,Guinea-Bissau,Sub-Saharan Africa,2018,51.95449448
+360,GNB,Guinea-Bissau,Sub-Saharan Africa,2019,73.61985779
+361,GRC,Greece,Europe & Central Asia,2014,49.59745407
+362,GRC,Greece,Europe & Central Asia,2015,63.02372742
+363,GRC,Greece,Europe & Central Asia,2016,74.45775604
+364,GRC,Greece,Europe & Central Asia,2017,83.18183136
+365,GRC,Greece,Europe & Central Asia,2018,84.78166962
+366,GRC,Greece,Europe & Central Asia,2019,85.48458862
+367,GTM,Guatemala,Latin America & Caribbean,2014,0
+368,GTM,Guatemala,Latin America & Caribbean,2015,14.10780239
+369,GTM,Guatemala,Latin America & Caribbean,2016,63.06828308
+370,GTM,Guatemala,Latin America & Caribbean,2017,75.44252014
+371,GTM,Guatemala,Latin America & Caribbean,2018,73.07139587
+372,GTM,Guatemala,Latin America & Caribbean,2019,77.56829071
+373,GUY,Guyana,Latin America & Caribbean,2014,62.36842346
+374,GUY,Guyana,Latin America & Caribbean,2015,62.36842346
+375,GUY,Guyana,Latin America & Caribbean,2016,62.36842346
+376,GUY,Guyana,Latin America & Caribbean,2017,76.84210205
+377,GUY,Guyana,Latin America & Caribbean,2018,81.57894897
+378,GUY,Guyana,Latin America & Caribbean,2019,82.12057495
+379,HKG,Hong Kong,East Asia & Pacific,2014,60.82965088
+380,HKG,Hong Kong,East Asia & Pacific,2015,72.6633606
+381,HKG,Hong Kong,East Asia & Pacific,2016,82.13199615
+382,HKG,Hong Kong,East Asia & Pacific,2017,86.29277802
+383,HKG,Hong Kong,East Asia & Pacific,2018,87.11788177
+384,HKG,Hong Kong,East Asia & Pacific,2019,86.95218658
+385,HND,Honduras,Latin America & Caribbean,2014,0
+386,HND,Honduras,Latin America & Caribbean,2015,41.11368561
+387,HND,Honduras,Latin America & Caribbean,2016,50.35012436
+388,HND,Honduras,Latin America & Caribbean,2017,71.69352722
+389,HND,Honduras,Latin America & Caribbean,2018,73.95262146
+390,HND,Honduras,Latin America & Caribbean,2019,72.1292038
+391,HRV,Croatia,Europe & Central Asia,2014,33.11517715
+392,HRV,Croatia,Europe & Central Asia,2015,56.75930786
+393,HRV,Croatia,Europe & Central Asia,2016,71.61862946
+394,HRV,Croatia,Europe & Central Asia,2017,81.5129776
+395,HRV,Croatia,Europe & Central Asia,2018,81.33116913
+396,HRV,Croatia,Europe & Central Asia,2019,83.40629578
+397,HTI,Haiti,Latin America & Caribbean,2014,7.631578922
+398,HTI,Haiti,Latin America & Caribbean,2015,41.57894897
+399,HTI,Haiti,Latin America & Caribbean,2016,59.4736824
+400,HTI,Haiti,Latin America & Caribbean,2017,67.89473724
+401,HTI,Haiti,Latin America & Caribbean,2018,69.47368622
+402,HTI,Haiti,Latin America & Caribbean,2019,72.15071869
+403,HUN,Hungary,Europe & Central Asia,2014,63.39210892
+404,HUN,Hungary,Europe & Central Asia,2015,72.24776459
+405,HUN,Hungary,Europe & Central Asia,2016,80.93907928
+406,HUN,Hungary,Europe & Central Asia,2017,85.24693298
+407,HUN,Hungary,Europe & Central Asia,2018,86.38314056
+408,HUN,Hungary,Europe & Central Asia,2019,85.8157196
+409,IDN,Indonesia,East Asia & Pacific,2014,1.837270737
+410,IDN,Indonesia,East Asia & Pacific,2015,36.59420776
+411,IDN,Indonesia,East Asia & Pacific,2016,60.22187042
+412,IDN,Indonesia,East Asia & Pacific,2017,71.53058624
+413,IDN,Indonesia,East Asia & Pacific,2018,74.18569183
+414,IDN,Indonesia,East Asia & Pacific,2019,75.11997223
+415,IND,India,South Asia,2014,11.43306541
+416,IND,India,South Asia,2015,28.1174984
+417,IND,India,South Asia,2016,49.23330307
+418,IND,India,South Asia,2017,67.10868073
+419,IND,India,South Asia,2018,65.62783813
+420,IND,India,South Asia,2019,70.37320709
+421,IRL,Ireland,Europe & Central Asia,2014,38.36715698
+422,IRL,Ireland,Europe & Central Asia,2015,59.46083832
+423,IRL,Ireland,Europe & Central Asia,2016,74.6544342
+424,IRL,Ireland,Europe & Central Asia,2017,80.33366394
+425,IRL,Ireland,Europe & Central Asia,2018,81.60951233
+426,IRL,Ireland,Europe & Central Asia,2019,82.04259491
+427,IRN,Iran,Middle East & North Africa,2014,23.22515488
+428,IRN,Iran,Middle East & North Africa,2015,23.22515488
+429,IRN,Iran,Middle East & North Africa,2016,58.55960846
+430,IRN,Iran,Middle East & North Africa,2017,75.35659027
+431,IRN,Iran,Middle East & North Africa,2018,73.18004608
+432,IRN,Iran,Middle East & North Africa,2019,80.21309662
+433,IRQ,Iraq,Middle East & North Africa,2014,23.77626228
+434,IRQ,Iraq,Middle East & North Africa,2015,45.56892776
+435,IRQ,Iraq,Middle East & North Africa,2016,34.5146637
+436,IRQ,Iraq,Middle East & North Africa,2017,45.43629456
+437,IRQ,Iraq,Middle East & North Africa,2018,41.0092926
+438,IRQ,Iraq,Middle East & North Africa,2019,41.89470291
+439,ISL,Iceland,Europe & Central Asia,2014,65.3870163
+440,ISL,Iceland,Europe & Central Asia,2015,74.08205414
+441,ISL,Iceland,Europe & Central Asia,2016,79.94841003
+442,ISL,Iceland,Europe & Central Asia,2017,87.72192383
+443,ISL,Iceland,Europe & Central Asia,2018,89.12346649
+444,ISL,Iceland,Europe & Central Asia,2019,88.516922
+445,ISR,Israel,Middle East & North Africa,2014,45.18363571
+446,ISR,Israel,Middle East & North Africa,2015,60.47511673
+447,ISR,Israel,Middle East & North Africa,2016,67.90522003
+448,ISR,Israel,Middle East & North Africa,2017,80.54431152
+449,ISR,Israel,Middle East & North Africa,2018,82.5096817
+450,ISR,Israel,Middle East & North Africa,2019,83.61986542
+451,ITA,Italy,Europe & Central Asia,2014,39.37748718
+452,ITA,Italy,Europe & Central Asia,2015,59.48215866
+453,ITA,Italy,Europe & Central Asia,2016,70.97031403
+454,ITA,Italy,Europe & Central Asia,2017,79.69031525
+455,ITA,Italy,Europe & Central Asia,2018,73.55097198
+456,ITA,Italy,Europe & Central Asia,2019,73.66220856
+457,JAM,Jamaica,Latin America & Caribbean,2014,0
+458,JAM,Jamaica,Latin America & Caribbean,2015,51.05263138
+459,JAM,Jamaica,Latin America & Caribbean,2016,61.9272995
+460,JAM,Jamaica,Latin America & Caribbean,2017,77.03105164
+461,JAM,Jamaica,Latin America & Caribbean,2018,75.41259003
+462,JAM,Jamaica,Latin America & Caribbean,2019,76.58874512
+463,JOR,Jordan,Middle East & North Africa,2014,13.15789509
+464,JOR,Jordan,Middle East & North Africa,2015,41.94007492
+465,JOR,Jordan,Middle East & North Africa,2016,60.11516953
+466,JOR,Jordan,Middle East & North Africa,2017,78.85797882
+467,JOR,Jordan,Middle East & North Africa,2018,82.80435944
+468,JOR,Jordan,Middle East & North Africa,2019,85.16642761
+469,JPN,Japan,East Asia & Pacific,2014,24.5396347
+470,JPN,Japan,East Asia & Pacific,2015,44.07656097
+471,JPN,Japan,East Asia & Pacific,2016,60.78871536
+472,JPN,Japan,East Asia & Pacific,2017,68.53520203
+473,JPN,Japan,East Asia & Pacific,2018,72.73410797
+474,JPN,Japan,East Asia & Pacific,2019,74.01976013
+475,KAZ,Kazakhstan,Europe & Central Asia,2014,31.50482178
+476,KAZ,Kazakhstan,Europe & Central Asia,2015,45.12635803
+477,KAZ,Kazakhstan,Europe & Central Asia,2016,57.00967407
+478,KAZ,Kazakhstan,Europe & Central Asia,2017,71.64323425
+479,KAZ,Kazakhstan,Europe & Central Asia,2018,74.77911377
+480,KAZ,Kazakhstan,Europe & Central Asia,2019,74.9133606
+481,KEN,Kenya,Sub-Saharan Africa,2014,0
+482,KEN,Kenya,Sub-Saharan Africa,2015,39.66909409
+483,KEN,Kenya,Sub-Saharan Africa,2016,63.52431107
+484,KEN,Kenya,Sub-Saharan Africa,2017,74.48255157
+485,KEN,Kenya,Sub-Saharan Africa,2018,76.15979767
+486,KEN,Kenya,Sub-Saharan Africa,2019,76.24150848
+487,KGZ,Kyrgyzstan,Europe & Central Asia,2014,37.03505707
+488,KGZ,Kyrgyzstan,Europe & Central Asia,2015,49.0568924
+489,KGZ,Kyrgyzstan,Europe & Central Asia,2016,64.88879395
+490,KGZ,Kyrgyzstan,Europe & Central Asia,2017,76.2467804
+491,KGZ,Kyrgyzstan,Europe & Central Asia,2018,74.93873596
+492,KGZ,Kyrgyzstan,Europe & Central Asia,2019,77.34314728
+493,KHM,Cambodia,East Asia & Pacific,2014,12.43881226
+494,KHM,Cambodia,East Asia & Pacific,2015,55.27960205
+495,KHM,Cambodia,East Asia & Pacific,2016,68.56874847
+496,KHM,Cambodia,East Asia & Pacific,2017,75.81163025
+497,KHM,Cambodia,East Asia & Pacific,2018,76.37672424
+498,KHM,Cambodia,East Asia & Pacific,2019,73.27211761
+499,KOR,"Korea, South",East Asia & Pacific,2014,40.97012711
+500,KOR,"Korea, South",East Asia & Pacific,2015,76.26409912
+501,KOR,"Korea, South",East Asia & Pacific,2016,80.49428558
+502,KOR,"Korea, South",East Asia & Pacific,2017,82.33099365
+503,KOR,"Korea, South",East Asia & Pacific,2018,84.76446533
+504,KOR,"Korea, South",East Asia & Pacific,2019,85.02626038
+505,KWT,Kuwait,Middle East & North Africa,2014,36.79909897
+506,KWT,Kuwait,Middle East & North Africa,2015,51.35639954
+507,KWT,Kuwait,Middle East & North Africa,2016,69.18400574
+508,KWT,Kuwait,Middle East & North Africa,2017,79.73911285
+509,KWT,Kuwait,Middle East & North Africa,2018,78.94542694
+510,KWT,Kuwait,Middle East & North Africa,2019,82.11436462
+511,LAO,Laos,East Asia & Pacific,2014,28.15789604
+512,LAO,Laos,East Asia & Pacific,2015,45.29099274
+513,LAO,Laos,East Asia & Pacific,2016,60.66733551
+514,LAO,Laos,East Asia & Pacific,2017,76.10896301
+515,LAO,Laos,East Asia & Pacific,2018,75.27902222
+516,LAO,Laos,East Asia & Pacific,2019,77.69900513
+517,LBN,Lebanon,Middle East & North Africa,2014,45.82683945
+518,LBN,Lebanon,Middle East & North Africa,2015,51.00802231
+519,LBN,Lebanon,Middle East & North Africa,2016,65.62739563
+520,LBN,Lebanon,Middle East & North Africa,2017,78.47236633
+521,LBN,Lebanon,Middle East & North Africa,2018,79.83997345
+522,LBN,Lebanon,Middle East & North Africa,2019,83.00037384
+523,LBR,Liberia,Sub-Saharan Africa,2014,0
+524,LBR,Liberia,Sub-Saharan Africa,2015,0
+525,LBR,Liberia,Sub-Saharan Africa,2016,51.98432922
+526,LBR,Liberia,Sub-Saharan Africa,2017,65.673172
+527,LBR,Liberia,Sub-Saharan Africa,2018,70.22323608
+528,LBR,Liberia,Sub-Saharan Africa,2019,75.35897827
+529,LBY,Libya,Middle East & North Africa,2014,0
+530,LBY,Libya,Middle East & North Africa,2015,0
+531,LBY,Libya,Middle East & North Africa,2016,42.24136353
+532,LBY,Libya,Middle East & North Africa,2017,69.80326843
+533,LBY,Libya,Middle East & North Africa,2018,66.71909332
+534,LBY,Libya,Middle East & North Africa,2019,60.00273132
+535,LCA,Saint Lucia,Latin America & Caribbean,2014,41.31578827
+536,LCA,Saint Lucia,Latin America & Caribbean,2015,11.05263138
+537,LCA,Saint Lucia,Latin America & Caribbean,2016,24.47368431
+538,LCA,Saint Lucia,Latin America & Caribbean,2017,40.10009003
+539,LCA,Saint Lucia,Latin America & Caribbean,2018,40.87759399
+540,LCA,Saint Lucia,Latin America & Caribbean,2019,49.25951385
+541,LKA,Sri Lanka,South Asia,2014,0
+542,LKA,Sri Lanka,South Asia,2015,27.51625443
+543,LKA,Sri Lanka,South Asia,2016,53.7876358
+544,LKA,Sri Lanka,South Asia,2017,75.0845108
+545,LKA,Sri Lanka,South Asia,2018,76.2477951
+546,LKA,Sri Lanka,South Asia,2019,79.09151459
+547,LSO,Lesotho,Sub-Saharan Africa,2014,42.00413132
+548,LSO,Lesotho,Sub-Saharan Africa,2015,49.64989853
+549,LSO,Lesotho,Sub-Saharan Africa,2016,65.39722443
+550,LSO,Lesotho,Sub-Saharan Africa,2017,79.64364624
+551,LSO,Lesotho,Sub-Saharan Africa,2018,81.56965637
+552,LSO,Lesotho,Sub-Saharan Africa,2019,83.424263
+553,LTU,Lithuania,Europe & Central Asia,2014,58.69377899
+554,LTU,Lithuania,Europe & Central Asia,2015,68.70144653
+555,LTU,Lithuania,Europe & Central Asia,2016,77.98283386
+556,LTU,Lithuania,Europe & Central Asia,2017,86.85217285
+557,LTU,Lithuania,Europe & Central Asia,2018,87.50012207
+558,LTU,Lithuania,Europe & Central Asia,2019,88.65822601
+559,LUX,Luxembourg,Europe & Central Asia,2014,56.80011368
+560,LUX,Luxembourg,Europe & Central Asia,2015,66.42398834
+561,LUX,Luxembourg,Europe & Central Asia,2016,72.88775635
+562,LUX,Luxembourg,Europe & Central Asia,2017,79.69944
+563,LUX,Luxembourg,Europe & Central Asia,2018,80.25852966
+564,LUX,Luxembourg,Europe & Central Asia,2019,83.67604828
+565,LVA,Latvia,Europe & Central Asia,2014,61.16230392
+566,LVA,Latvia,Europe & Central Asia,2015,74.23228455
+567,LVA,Latvia,Europe & Central Asia,2016,82.8250885
+568,LVA,Latvia,Europe & Central Asia,2017,86.7126236
+569,LVA,Latvia,Europe & Central Asia,2018,87.03490448
+570,LVA,Latvia,Europe & Central Asia,2019,86.99420929
+571,MAR,Morocco,Middle East & North Africa,2014,21.57894707
+572,MAR,Morocco,Middle East & North Africa,2015,48.7686615
+573,MAR,Morocco,Middle East & North Africa,2016,54.25616455
+574,MAR,Morocco,Middle East & North Africa,2017,76.40621948
+575,MAR,Morocco,Middle East & North Africa,2018,78.09990692
+576,MAR,Morocco,Middle East & North Africa,2019,78.998909
+577,MDA,Moldova,Europe & Central Asia,2014,60.9736557
+578,MDA,Moldova,Europe & Central Asia,2015,72.04004669
+579,MDA,Moldova,Europe & Central Asia,2016,79.21312714
+580,MDA,Moldova,Europe & Central Asia,2017,85.46255493
+581,MDA,Moldova,Europe & Central Asia,2018,87.6190033
+582,MDA,Moldova,Europe & Central Asia,2019,87.02775574
+583,MDG,Madagascar,Sub-Saharan Africa,2014,0
+584,MDG,Madagascar,Sub-Saharan Africa,2015,0
+585,MDG,Madagascar,Sub-Saharan Africa,2016,46.40287781
+586,MDG,Madagascar,Sub-Saharan Africa,2017,55.47654724
+587,MDG,Madagascar,Sub-Saharan Africa,2018,65.61878967
+588,MDG,Madagascar,Sub-Saharan Africa,2019,66.27646637
+589,MDV,Maldives,South Asia,2014,0
+590,MDV,Maldives,South Asia,2015,45.10249329
+591,MDV,Maldives,South Asia,2016,60.95329666
+592,MDV,Maldives,South Asia,2017,82.75652313
+593,MDV,Maldives,South Asia,2018,85.75479126
+594,MDV,Maldives,South Asia,2019,84.25305176
+595,MEX,Mexico,Latin America & Caribbean,2014,0
+596,MEX,Mexico,Latin America & Caribbean,2015,26.37591743
+597,MEX,Mexico,Latin America & Caribbean,2016,48.91547012
+598,MEX,Mexico,Latin America & Caribbean,2017,59.80614853
+599,MEX,Mexico,Latin America & Caribbean,2018,67.98719025
+600,MEX,Mexico,Latin America & Caribbean,2019,67.51120758
+601,MKD,North Macedonia,Europe & Central Asia,2014,33.78587341
+602,MKD,North Macedonia,Europe & Central Asia,2015,54.06142044
+603,MKD,North Macedonia,Europe & Central Asia,2016,71.25613403
+604,MKD,North Macedonia,Europe & Central Asia,2017,77.91348267
+605,MKD,North Macedonia,Europe & Central Asia,2018,79.38132477
+606,MKD,North Macedonia,Europe & Central Asia,2019,82.39633179
+607,MLI,Mali,Sub-Saharan Africa,2014,23.94736862
+608,MLI,Mali,Sub-Saharan Africa,2015,7.631578922
+609,MLI,Mali,Sub-Saharan Africa,2016,36.84210587
+610,MLI,Mali,Sub-Saharan Africa,2017,59.02271271
+611,MLI,Mali,Sub-Saharan Africa,2018,65.15367126
+612,MLI,Mali,Sub-Saharan Africa,2019,76.26432037
+613,MLT,Malta,Europe & Central Asia,2014,63.08003616
+614,MLT,Malta,Europe & Central Asia,2015,67.02056885
+615,MLT,Malta,Europe & Central Asia,2016,77.27469635
+616,MLT,Malta,Europe & Central Asia,2017,75.12760162
+617,MLT,Malta,Europe & Central Asia,2018,77.79098511
+618,MLT,Malta,Europe & Central Asia,2019,85.62003326
+619,MMR,Myanmar,East Asia & Pacific,2014,0
+620,MMR,Myanmar,East Asia & Pacific,2015,22.63158798
+621,MMR,Myanmar,East Asia & Pacific,2016,46.78234863
+622,MMR,Myanmar,East Asia & Pacific,2017,60.94248962
+623,MMR,Myanmar,East Asia & Pacific,2018,71.78398132
+624,MMR,Myanmar,East Asia & Pacific,2019,79.79179382
+625,MNE,Montenegro,Europe & Central Asia,2014,42.07102585
+626,MNE,Montenegro,Europe & Central Asia,2015,59.50084305
+627,MNE,Montenegro,Europe & Central Asia,2016,74.03887177
+628,MNE,Montenegro,Europe & Central Asia,2017,87.14611816
+629,MNE,Montenegro,Europe & Central Asia,2018,87.40729523
+630,MNE,Montenegro,Europe & Central Asia,2019,87.90982056
+631,MNG,Mongolia,East Asia & Pacific,2014,19.47368431
+632,MNG,Mongolia,East Asia & Pacific,2015,61.31578827
+633,MNG,Mongolia,East Asia & Pacific,2016,72.78134155
+634,MNG,Mongolia,East Asia & Pacific,2017,70.9430542
+635,MNG,Mongolia,East Asia & Pacific,2018,71.21800232
+636,MNG,Mongolia,East Asia & Pacific,2019,69.22419739
+637,MOZ,Mozambique,Sub-Saharan Africa,2014,0
+638,MOZ,Mozambique,Sub-Saharan Africa,2015,0
+639,MOZ,Mozambique,Sub-Saharan Africa,2016,40
+640,MOZ,Mozambique,Sub-Saharan Africa,2017,71.05262756
+641,MOZ,Mozambique,Sub-Saharan Africa,2018,70.39380646
+642,MOZ,Mozambique,Sub-Saharan Africa,2019,63.75968933
+643,MRT,Mauritania,Middle East & North Africa,2014,0
+644,MRT,Mauritania,Middle East & North Africa,2015,0
+645,MRT,Mauritania,Middle East & North Africa,2016,2.105263233
+646,MRT,Mauritania,Middle East & North Africa,2017,0
+647,MRT,Mauritania,Middle East & North Africa,2018,31.05263138
+648,MRT,Mauritania,Middle East & North Africa,2019,24.21052551
+649,MUS,Mauritius,Sub-Saharan Africa,2014,0
+650,MUS,Mauritius,Sub-Saharan Africa,2015,61.51359558
+651,MUS,Mauritius,Sub-Saharan Africa,2016,64.61902618
+652,MUS,Mauritius,Sub-Saharan Africa,2017,70.74539948
+653,MUS,Mauritius,Sub-Saharan Africa,2018,75.13197327
+654,MUS,Mauritius,Sub-Saharan Africa,2019,75.95424652
+655,MWI,Malawi,Sub-Saharan Africa,2014,0
+656,MWI,Malawi,Sub-Saharan Africa,2015,12.63157845
+657,MWI,Malawi,Sub-Saharan Africa,2016,60.29544449
+658,MWI,Malawi,Sub-Saharan Africa,2017,51.18686676
+659,MWI,Malawi,Sub-Saharan Africa,2018,65.48264313
+660,MWI,Malawi,Sub-Saharan Africa,2019,72.47364807
+661,MYS,Malaysia,East Asia & Pacific,2014,19.90165329
+662,MYS,Malaysia,East Asia & Pacific,2015,38.27087021
+663,MYS,Malaysia,East Asia & Pacific,2016,61.19862366
+664,MYS,Malaysia,East Asia & Pacific,2017,77.30989075
+665,MYS,Malaysia,East Asia & Pacific,2018,80.23265839
+666,MYS,Malaysia,East Asia & Pacific,2019,80.7954483
+667,NAM,Namibia,Sub-Saharan Africa,2014,41.14685822
+668,NAM,Namibia,Sub-Saharan Africa,2015,54.75497818
+669,NAM,Namibia,Sub-Saharan Africa,2016,72.94274139
+670,NAM,Namibia,Sub-Saharan Africa,2017,81.2570343
+671,NAM,Namibia,Sub-Saharan Africa,2018,82.82414246
+672,NAM,Namibia,Sub-Saharan Africa,2019,80.41703796
+673,NER,Niger,Sub-Saharan Africa,2014,0
+674,NER,Niger,Sub-Saharan Africa,2015,0
+675,NER,Niger,Sub-Saharan Africa,2016,0
+676,NER,Niger,Sub-Saharan Africa,2017,0
+677,NER,Niger,Sub-Saharan Africa,2018,0
+678,NER,Niger,Sub-Saharan Africa,2019,0
+679,NGA,Nigeria,Sub-Saharan Africa,2014,0
+680,NGA,Nigeria,Sub-Saharan Africa,2015,0
+681,NGA,Nigeria,Sub-Saharan Africa,2016,13.44569206
+682,NGA,Nigeria,Sub-Saharan Africa,2017,52.9520874
+683,NGA,Nigeria,Sub-Saharan Africa,2018,54.90443802
+684,NGA,Nigeria,Sub-Saharan Africa,2019,64.02388
+685,NIC,Nicaragua,Latin America & Caribbean,2014,24.73684311
+686,NIC,Nicaragua,Latin America & Caribbean,2015,44.29692078
+687,NIC,Nicaragua,Latin America & Caribbean,2016,41.66812515
+688,NIC,Nicaragua,Latin America & Caribbean,2017,75.32220459
+689,NIC,Nicaragua,Latin America & Caribbean,2018,75.7846756
+690,NIC,Nicaragua,Latin America & Caribbean,2019,80.25515747
+691,NLD,Netherlands,Europe & Central Asia,2014,61.96316528
+692,NLD,Netherlands,Europe & Central Asia,2015,73.67832184
+693,NLD,Netherlands,Europe & Central Asia,2016,82.9309845
+694,NLD,Netherlands,Europe & Central Asia,2017,86.5406189
+695,NLD,Netherlands,Europe & Central Asia,2018,87.03688812
+696,NLD,Netherlands,Europe & Central Asia,2019,87.24908447
+697,NOR,Norway,Europe & Central Asia,2014,61.79316711
+698,NOR,Norway,Europe & Central Asia,2015,77.09011078
+699,NOR,Norway,Europe & Central Asia,2016,83.83561707
+700,NOR,Norway,Europe & Central Asia,2017,85.28291321
+701,NOR,Norway,Europe & Central Asia,2018,85.21517181
+702,NOR,Norway,Europe & Central Asia,2019,84.58065033
+703,NPL,Nepal,South Asia,2014,19.61429787
+704,NPL,Nepal,South Asia,2015,55.42932892
+705,NPL,Nepal,South Asia,2016,68.95966339
+706,NPL,Nepal,South Asia,2017,74.12205505
+707,NPL,Nepal,South Asia,2018,74.45428467
+708,NPL,Nepal,South Asia,2019,78.17490387
+709,NZL,New Zealand,East Asia & Pacific,2014,58.92909241
+710,NZL,New Zealand,East Asia & Pacific,2015,70.60913086
+711,NZL,New Zealand,East Asia & Pacific,2016,77.62792969
+712,NZL,New Zealand,East Asia & Pacific,2017,80.2571106
+713,NZL,New Zealand,East Asia & Pacific,2018,80.49180603
+714,NZL,New Zealand,East Asia & Pacific,2019,79.79162598
+715,OMN,Oman,Middle East & North Africa,2014,28.94667625
+716,OMN,Oman,Middle East & North Africa,2015,48.51317978
+717,OMN,Oman,Middle East & North Africa,2016,65.70911407
+718,OMN,Oman,Middle East & North Africa,2017,70.11482239
+719,OMN,Oman,Middle East & North Africa,2018,78.30080414
+720,OMN,Oman,Middle East & North Africa,2019,82.24913788
+721,PAK,Pakistan,South Asia,2014,0
+722,PAK,Pakistan,South Asia,2015,36.23804092
+723,PAK,Pakistan,South Asia,2016,48.25098801
+724,PAK,Pakistan,South Asia,2017,66.53198242
+725,PAK,Pakistan,South Asia,2018,69.93121338
+726,PAK,Pakistan,South Asia,2019,77.61958313
+727,PAN,Panama,Latin America & Caribbean,2014,0
+728,PAN,Panama,Latin America & Caribbean,2015,33.35185242
+729,PAN,Panama,Latin America & Caribbean,2016,48.78081131
+730,PAN,Panama,Latin America & Caribbean,2017,63.96355057
+731,PAN,Panama,Latin America & Caribbean,2018,68.71079254
+732,PAN,Panama,Latin America & Caribbean,2019,68.69229889
+733,PER,Peru,Latin America & Caribbean,2014,0
+734,PER,Peru,Latin America & Caribbean,2015,21.13630676
+735,PER,Peru,Latin America & Caribbean,2016,55.7962532
+736,PER,Peru,Latin America & Caribbean,2017,63.8715744
+737,PER,Peru,Latin America & Caribbean,2018,77.56380463
+738,PER,Peru,Latin America & Caribbean,2019,79.76686859
+739,PHL,Philippines,East Asia & Pacific,2014,0
+740,PHL,Philippines,East Asia & Pacific,2015,0
+741,PHL,Philippines,East Asia & Pacific,2016,12.3499012
+742,PHL,Philippines,East Asia & Pacific,2017,48.59228897
+743,PHL,Philippines,East Asia & Pacific,2018,57.21964264
+744,PHL,Philippines,East Asia & Pacific,2019,63.32881546
+745,PNG,Papua New Guinea,East Asia & Pacific,2014,3.10465765
+746,PNG,Papua New Guinea,East Asia & Pacific,2015,18.12939262
+747,PNG,Papua New Guinea,East Asia & Pacific,2016,29.72294044
+748,PNG,Papua New Guinea,East Asia & Pacific,2017,25.94434929
+749,PNG,Papua New Guinea,East Asia & Pacific,2018,41.79937363
+750,PNG,Papua New Guinea,East Asia & Pacific,2019,47.02816772
+751,POL,Poland,Europe & Central Asia,2014,42.54298401
+752,POL,Poland,Europe & Central Asia,2015,63.33813095
+753,POL,Poland,Europe & Central Asia,2016,74.86472321
+754,POL,Poland,Europe & Central Asia,2017,78.38819885
+755,POL,Poland,Europe & Central Asia,2018,80.0528183
+756,POL,Poland,Europe & Central Asia,2019,79.29411316
+757,PRT,Portugal,Europe & Central Asia,2014,57.63131332
+758,PRT,Portugal,Europe & Central Asia,2015,66.40657806
+759,PRT,Portugal,Europe & Central Asia,2016,76.79473114
+760,PRT,Portugal,Europe & Central Asia,2017,84.31689453
+761,PRT,Portugal,Europe & Central Asia,2018,86.43634796
+762,PRT,Portugal,Europe & Central Asia,2019,86.81982422
+763,PRY,Paraguay,Latin America & Caribbean,2014,0.36151284
+764,PRY,Paraguay,Latin America & Caribbean,2015,24.82514191
+765,PRY,Paraguay,Latin America & Caribbean,2016,41.93696213
+766,PRY,Paraguay,Latin America & Caribbean,2017,65.10021973
+767,PRY,Paraguay,Latin America & Caribbean,2018,72.54641724
+768,PRY,Paraguay,Latin America & Caribbean,2019,76.31613922
+769,QAT,Qatar,Middle East & North Africa,2014,28.9511261
+770,QAT,Qatar,Middle East & North Africa,2015,43.34048462
+771,QAT,Qatar,Middle East & North Africa,2016,66.85769653
+772,QAT,Qatar,Middle East & North Africa,2017,80.04257202
+773,QAT,Qatar,Middle East & North Africa,2018,85.00465393
+774,QAT,Qatar,Middle East & North Africa,2019,86.51947784
+775,ROU,Romania,Europe & Central Asia,2014,44.40048981
+776,ROU,Romania,Europe & Central Asia,2015,55.72984695
+777,ROU,Romania,Europe & Central Asia,2016,71.6925354
+778,ROU,Romania,Europe & Central Asia,2017,81.53769684
+779,ROU,Romania,Europe & Central Asia,2018,83.43382263
+780,ROU,Romania,Europe & Central Asia,2019,83.87529755
+781,RUS,Russian Federation,Europe & Central Asia,2014,24.63314629
+782,RUS,Russian Federation,Europe & Central Asia,2015,48.81746674
+783,RUS,Russian Federation,Europe & Central Asia,2016,63.18573761
+784,RUS,Russian Federation,Europe & Central Asia,2017,74.07271576
+785,RUS,Russian Federation,Europe & Central Asia,2018,76.51660919
+786,RUS,Russian Federation,Europe & Central Asia,2019,76.55381775
+787,RWA,Rwanda,Sub-Saharan Africa,2014,50.34447861
+788,RWA,Rwanda,Sub-Saharan Africa,2015,64.76089478
+789,RWA,Rwanda,Sub-Saharan Africa,2016,40.15367508
+790,RWA,Rwanda,Sub-Saharan Africa,2017,78.74569702
+791,RWA,Rwanda,Sub-Saharan Africa,2018,79.95056152
+792,RWA,Rwanda,Sub-Saharan Africa,2019,84.04305267
+793,SAU,Saudi Arabia,Middle East & North Africa,2014,25.09044456
+794,SAU,Saudi Arabia,Middle East & North Africa,2015,43.04910278
+795,SAU,Saudi Arabia,Middle East & North Africa,2016,56.96879196
+796,SAU,Saudi Arabia,Middle East & North Africa,2017,69.23187256
+797,SAU,Saudi Arabia,Middle East & North Africa,2018,73.69837952
+798,SAU,Saudi Arabia,Middle East & North Africa,2019,79.71383667
+799,SDN,Sudan,Middle East & North Africa,2014,0
+800,SDN,Sudan,Middle East & North Africa,2015,0
+801,SDN,Sudan,Middle East & North Africa,2016,33.59923553
+802,SDN,Sudan,Middle East & North Africa,2017,39.40829849
+803,SDN,Sudan,Middle East & North Africa,2018,63.97022629
+804,SDN,Sudan,Middle East & North Africa,2019,33.07539368
+805,SEN,Senegal,Sub-Saharan Africa,2014,0
+806,SEN,Senegal,Sub-Saharan Africa,2015,32.63158035
+807,SEN,Senegal,Sub-Saharan Africa,2016,24.40061951
+808,SEN,Senegal,Sub-Saharan Africa,2017,56.38057709
+809,SEN,Senegal,Sub-Saharan Africa,2018,64.86186981
+810,SEN,Senegal,Sub-Saharan Africa,2019,68.03138733
+811,SGP,Singapore,East Asia & Pacific,2014,57.41811371
+812,SGP,Singapore,East Asia & Pacific,2015,69.06626892
+813,SGP,Singapore,East Asia & Pacific,2016,78.03926086
+814,SGP,Singapore,East Asia & Pacific,2017,86.80040741
+815,SGP,Singapore,East Asia & Pacific,2018,89.00022125
+816,SGP,Singapore,East Asia & Pacific,2019,89.33781433
+817,SLB,Solomon Islands,East Asia & Pacific,2014,0
+818,SLB,Solomon Islands,East Asia & Pacific,2015,0
+819,SLB,Solomon Islands,East Asia & Pacific,2016,37.10526276
+820,SLB,Solomon Islands,East Asia & Pacific,2017,3.054584742
+821,SLB,Solomon Islands,East Asia & Pacific,2018,10.32030582
+822,SLB,Solomon Islands,East Asia & Pacific,2019,0
+823,SLE,Sierra Leone,Sub-Saharan Africa,2014,0
+824,SLE,Sierra Leone,Sub-Saharan Africa,2015,0
+825,SLE,Sierra Leone,Sub-Saharan Africa,2016,6.315789223
+826,SLE,Sierra Leone,Sub-Saharan Africa,2017,44.21052551
+827,SLE,Sierra Leone,Sub-Saharan Africa,2018,64.41216278
+828,SLE,Sierra Leone,Sub-Saharan Africa,2019,81.89720154
+829,SLV,El Salvador,Latin America & Caribbean,2014,0
+830,SLV,El Salvador,Latin America & Caribbean,2015,18.68420982
+831,SLV,El Salvador,Latin America & Caribbean,2016,41.42592621
+832,SLV,El Salvador,Latin America & Caribbean,2017,68.92458344
+833,SLV,El Salvador,Latin America & Caribbean,2018,71.55515289
+834,SLV,El Salvador,Latin America & Caribbean,2019,74.7379303
+835,SRB,Serbia,Europe & Central Asia,2014,36.05263138
+836,SRB,Serbia,Europe & Central Asia,2015,61.53104782
+837,SRB,Serbia,Europe & Central Asia,2016,76.32150269
+838,SRB,Serbia,Europe & Central Asia,2017,83.36692047
+839,SRB,Serbia,Europe & Central Asia,2018,85.32714081
+840,SRB,Serbia,Europe & Central Asia,2019,86.33026123
+841,SSD,South Sudan,Sub-Saharan Africa,2014,0
+842,SSD,South Sudan,Sub-Saharan Africa,2015,0
+843,SSD,South Sudan,Sub-Saharan Africa,2016,0
+844,SSD,South Sudan,Sub-Saharan Africa,2017,0
+845,SSD,South Sudan,Sub-Saharan Africa,2018,0
+846,SSD,South Sudan,Sub-Saharan Africa,2019,0
+847,SUR,Suriname,Latin America & Caribbean,2014,19.73684311
+848,SUR,Suriname,Latin America & Caribbean,2015,51.31579208
+849,SUR,Suriname,Latin America & Caribbean,2016,61.21746826
+850,SUR,Suriname,Latin America & Caribbean,2017,69.80430603
+851,SUR,Suriname,Latin America & Caribbean,2018,71.84699249
+852,SUR,Suriname,Latin America & Caribbean,2019,79.03834534
+853,SVK,Slovakia,Europe & Central Asia,2014,58.69607162
+854,SVK,Slovakia,Europe & Central Asia,2015,68.23903656
+855,SVK,Slovakia,Europe & Central Asia,2016,80.13939667
+856,SVK,Slovakia,Europe & Central Asia,2017,86.11740875
+857,SVK,Slovakia,Europe & Central Asia,2018,85.53288269
+858,SVK,Slovakia,Europe & Central Asia,2019,86.45021057
+859,SVN,Slovenia,Europe & Central Asia,2014,45.84460449
+860,SVN,Slovenia,Europe & Central Asia,2015,72.90252686
+861,SVN,Slovenia,Europe & Central Asia,2016,82.32243347
+862,SVN,Slovenia,Europe & Central Asia,2017,87.51612854
+863,SVN,Slovenia,Europe & Central Asia,2018,88.37813568
+864,SVN,Slovenia,Europe & Central Asia,2019,88.21338654
+865,SWE,Sweden,Europe & Central Asia,2014,60.9431076
+866,SWE,Sweden,Europe & Central Asia,2015,73.99311066
+867,SWE,Sweden,Europe & Central Asia,2016,80.88395691
+868,SWE,Sweden,Europe & Central Asia,2017,85.45378113
+869,SWE,Sweden,Europe & Central Asia,2018,85.55023956
+870,SWE,Sweden,Europe & Central Asia,2019,86.57021332
+871,SWZ,Eswatini,Sub-Saharan Africa,2014,28.42105293
+872,SWZ,Eswatini,Sub-Saharan Africa,2015,35
+873,SWZ,Eswatini,Sub-Saharan Africa,2016,40.29185867
+874,SWZ,Eswatini,Sub-Saharan Africa,2017,50.17644882
+875,SWZ,Eswatini,Sub-Saharan Africa,2018,60.5085144
+876,SWZ,Eswatini,Sub-Saharan Africa,2019,80.93630219
+877,TCD,Chad,Sub-Saharan Africa,2014,0
+878,TCD,Chad,Sub-Saharan Africa,2015,0
+879,TCD,Chad,Sub-Saharan Africa,2016,0
+880,TCD,Chad,Sub-Saharan Africa,2017,31.88955116
+881,TCD,Chad,Sub-Saharan Africa,2018,30.96266937
+882,TCD,Chad,Sub-Saharan Africa,2019,24.36997986
+883,TGO,Togo,Sub-Saharan Africa,2014,0
+884,TGO,Togo,Sub-Saharan Africa,2015,0
+885,TGO,Togo,Sub-Saharan Africa,2016,36.05263138
+886,TGO,Togo,Sub-Saharan Africa,2017,38.42105103
+887,TGO,Togo,Sub-Saharan Africa,2018,68.62732697
+888,TGO,Togo,Sub-Saharan Africa,2019,81.37611389
+889,THA,Thailand,East Asia & Pacific,2014,47.73336029
+890,THA,Thailand,East Asia & Pacific,2015,59.98169708
+891,THA,Thailand,East Asia & Pacific,2016,76.19918823
+892,THA,Thailand,East Asia & Pacific,2017,80.98800659
+893,THA,Thailand,East Asia & Pacific,2018,84.3157196
+894,THA,Thailand,East Asia & Pacific,2019,85.3970108
+895,TJK,Tajikistan,Europe & Central Asia,2014,19.28700447
+896,TJK,Tajikistan,Europe & Central Asia,2015,48.23672104
+897,TJK,Tajikistan,Europe & Central Asia,2016,57.6167984
+898,TJK,Tajikistan,Europe & Central Asia,2017,74.99725342
+899,TJK,Tajikistan,Europe & Central Asia,2018,73.99331665
+900,TJK,Tajikistan,Europe & Central Asia,2019,75.69949341
+901,TLS,Timor-Leste,East Asia & Pacific,2014,0
+902,TLS,Timor-Leste,East Asia & Pacific,2015,0
+903,TLS,Timor-Leste,East Asia & Pacific,2016,10
+904,TLS,Timor-Leste,East Asia & Pacific,2017,61.31314087
+905,TLS,Timor-Leste,East Asia & Pacific,2018,63.20178604
+906,TLS,Timor-Leste,East Asia & Pacific,2019,69.69882965
+907,TON,Tonga,East Asia & Pacific,2014,0
+908,TON,Tonga,East Asia & Pacific,2015,1.617174625
+909,TON,Tonga,East Asia & Pacific,2016,0
+910,TON,Tonga,East Asia & Pacific,2017,34.45505142
+911,TON,Tonga,East Asia & Pacific,2018,56.60020065
+912,TON,Tonga,East Asia & Pacific,2019,56.70352554
+913,TTO,Trinidad and Tobago,Latin America & Caribbean,2014,0
+914,TTO,Trinidad and Tobago,Latin America & Caribbean,2015,47.36842346
+915,TTO,Trinidad and Tobago,Latin America & Caribbean,2016,64.04650116
+916,TTO,Trinidad and Tobago,Latin America & Caribbean,2017,75.07509613
+917,TTO,Trinidad and Tobago,Latin America & Caribbean,2018,81.83029938
+918,TTO,Trinidad and Tobago,Latin America & Caribbean,2019,84.49706268
+919,TUN,Tunisia,Middle East & North Africa,2014,0
+920,TUN,Tunisia,Middle East & North Africa,2015,40.52631378
+921,TUN,Tunisia,Middle East & North Africa,2016,66.97109985
+922,TUN,Tunisia,Middle East & North Africa,2017,83.31281281
+923,TUN,Tunisia,Middle East & North Africa,2018,85.41008759
+924,TUN,Tunisia,Middle East & North Africa,2019,86.27637482
+925,TUR,Turkey,Middle East & North Africa,2014,38.15789413
+926,TUR,Turkey,Middle East & North Africa,2015,62.72773743
+927,TUR,Turkey,Middle East & North Africa,2016,82.83046722
+928,TUR,Turkey,Middle East & North Africa,2017,87.56822968
+929,TUR,Turkey,Middle East & North Africa,2018,89.05600739
+930,TUR,Turkey,Middle East & North Africa,2019,89.45713043
+931,TZA,Tanzania,Sub-Saharan Africa,2014,0
+932,TZA,Tanzania,Sub-Saharan Africa,2015,2.2630229
+933,TZA,Tanzania,Sub-Saharan Africa,2016,48.34505463
+934,TZA,Tanzania,Sub-Saharan Africa,2017,72.4008255
+935,TZA,Tanzania,Sub-Saharan Africa,2018,73.68865967
+936,TZA,Tanzania,Sub-Saharan Africa,2019,75.68654633
+937,UGA,Uganda,Sub-Saharan Africa,2014,1.349832654
+938,UGA,Uganda,Sub-Saharan Africa,2015,53.1618576
+939,UGA,Uganda,Sub-Saharan Africa,2016,40.60958862
+940,UGA,Uganda,Sub-Saharan Africa,2017,73.22332001
+941,UGA,Uganda,Sub-Saharan Africa,2018,77.84642792
+942,UGA,Uganda,Sub-Saharan Africa,2019,82.0958786
+943,UKR,Ukraine,Europe & Central Asia,2014,40.78947449
+944,UKR,Ukraine,Europe & Central Asia,2015,59.4736824
+945,UKR,Ukraine,Europe & Central Asia,2016,70.53269958
+946,UKR,Ukraine,Europe & Central Asia,2017,77.93365479
+947,UKR,Ukraine,Europe & Central Asia,2018,80.76039124
+948,UKR,Ukraine,Europe & Central Asia,2019,79.60639954
+949,URY,Uruguay,Latin America & Caribbean,2014,12.25518513
+950,URY,Uruguay,Latin America & Caribbean,2015,46.94760895
+951,URY,Uruguay,Latin America & Caribbean,2016,66.83934784
+952,URY,Uruguay,Latin America & Caribbean,2017,76.98853302
+953,URY,Uruguay,Latin America & Caribbean,2018,78.95983124
+954,URY,Uruguay,Latin America & Caribbean,2019,80.38775635
+955,USA,United States of America,North America,2014,44.81562805
+956,USA,United States of America,North America,2015,57.69048309
+957,USA,United States of America,North America,2016,69.03772736
+958,USA,United States of America,North America,2017,72.903862
+959,USA,United States of America,North America,2018,76.1322937
+960,USA,United States of America,North America,2019,76.95912933
+961,UZB,Uzbekistan,Europe & Central Asia,2014,14.7256155
+962,UZB,Uzbekistan,Europe & Central Asia,2015,48.95544434
+963,UZB,Uzbekistan,Europe & Central Asia,2016,50.88860321
+964,UZB,Uzbekistan,Europe & Central Asia,2017,71.85604858
+965,UZB,Uzbekistan,Europe & Central Asia,2018,70.63336945
+966,UZB,Uzbekistan,Europe & Central Asia,2019,67.22479248
+967,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2014,35.78947449
+968,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2015,9.473684311
+969,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2016,19.21052551
+970,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2017,40.52631378
+971,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2018,42.1326828
+972,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,2019,56.59251404
+973,VEN,Venezuela,Latin America & Caribbean,2014,0
+974,VEN,Venezuela,Latin America & Caribbean,2015,6.04095459
+975,VEN,Venezuela,Latin America & Caribbean,2016,50.75283813
+976,VEN,Venezuela,Latin America & Caribbean,2017,60.73273849
+977,VEN,Venezuela,Latin America & Caribbean,2018,56.29639053
+978,VEN,Venezuela,Latin America & Caribbean,2019,49.70928574
+979,VNM,Vietnam,East Asia & Pacific,2014,0
+980,VNM,Vietnam,East Asia & Pacific,2015,36.31578827
+981,VNM,Vietnam,East Asia & Pacific,2016,71.05452728
+982,VNM,Vietnam,East Asia & Pacific,2017,84.26501465
+983,VNM,Vietnam,East Asia & Pacific,2018,83.91098022
+984,VNM,Vietnam,East Asia & Pacific,2019,84.55747223
+985,VUT,Vanuatu,East Asia & Pacific,2014,0
+986,VUT,Vanuatu,East Asia & Pacific,2015,0
+987,VUT,Vanuatu,East Asia & Pacific,2016,41.72783279
+988,VUT,Vanuatu,East Asia & Pacific,2017,65.37967682
+989,VUT,Vanuatu,East Asia & Pacific,2018,58.23972321
+990,VUT,Vanuatu,East Asia & Pacific,2019,64.29122162
+991,WSM,Samoa,East Asia & Pacific,2014,0
+992,WSM,Samoa,East Asia & Pacific,2015,0
+993,WSM,Samoa,East Asia & Pacific,2016,22.44192886
+994,WSM,Samoa,East Asia & Pacific,2017,63.81005096
+995,WSM,Samoa,East Asia & Pacific,2018,76.56383514
+996,WSM,Samoa,East Asia & Pacific,2019,70.36003876
+997,YEM,Yemen,Middle East & North Africa,2014,0
+998,YEM,Yemen,Middle East & North Africa,2015,0
+999,YEM,Yemen,Middle East & North Africa,2016,0
+1000,YEM,Yemen,Middle East & North Africa,2017,29.4736824
+1001,YEM,Yemen,Middle East & North Africa,2018,0
+1002,YEM,Yemen,Middle East & North Africa,2019,9.473684311
+1003,ZAF,South Africa,Sub-Saharan Africa,2014,35.84975433
+1004,ZAF,South Africa,Sub-Saharan Africa,2015,55.43595123
+1005,ZAF,South Africa,Sub-Saharan Africa,2016,72.48373413
+1006,ZAF,South Africa,Sub-Saharan Africa,2017,78.95500946
+1007,ZAF,South Africa,Sub-Saharan Africa,2018,80.2493515
+1008,ZAF,South Africa,Sub-Saharan Africa,2019,78.4385376
+1009,ZMB,Zambia,Sub-Saharan Africa,2014,0.182206005
+1010,ZMB,Zambia,Sub-Saharan Africa,2015,35.32024765
+1011,ZMB,Zambia,Sub-Saharan Africa,2016,49.38668823
+1012,ZMB,Zambia,Sub-Saharan Africa,2017,60.13282394
+1013,ZMB,Zambia,Sub-Saharan Africa,2018,61.47105789
+1014,ZMB,Zambia,Sub-Saharan Africa,2019,60.04498672
+1015,ZWE,Zimbabwe,Sub-Saharan Africa,2014,25.80606651
+1016,ZWE,Zimbabwe,Sub-Saharan Africa,2015,43.22419357
+1017,ZWE,Zimbabwe,Sub-Saharan Africa,2016,51.98531723
+1018,ZWE,Zimbabwe,Sub-Saharan Africa,2017,67.40426636
+1019,ZWE,Zimbabwe,Sub-Saharan Africa,2018,73.4125061
+1020,ZWE,Zimbabwe,Sub-Saharan Africa,2019,72.70591736

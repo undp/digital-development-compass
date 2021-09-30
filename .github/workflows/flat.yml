@@ -1008,3 +1008,11 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv
            downloaded_filename: data/internet_speed.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv
+           downloaded_filename: data/mobile_latency.csv
+           postprocess: ./process_raw_data.js
