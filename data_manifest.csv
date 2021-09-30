@@ -64,7 +64,7 @@ sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,,,,
 google_trends,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx,2,3,,
 youtube_searches,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/youtube_searches.csv,,,,
-electricity_yearbook,xlsx,https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx,17,1,,
+electricity_yearbook,xlsx,https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx,18,3,,
 legal_rights_strength,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv,,,,
 postal_coverage,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv,,,,
 schools_w_internet,xls,https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls,1,1,,
