@@ -14,7 +14,7 @@ population_electricity_coverage,xls,https://api.worldbank.org/v2/en/indicator/EG
 elect_supply_quality,xlsx,http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx,2,4,,
 spectrum_allocated_mobile_providers,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,N,
 individual_internet_usage,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/PercentIndividualsUsingInternet.xlsx,1,1,,
-mobile_cell_sub,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_cell_sub.csv,,,,
+mobile_cell_sub,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_cell_sub.csv,,,,
 fixed_bdbd_spd_dl_ul,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv,,,,
 fixed_broadband_speed_download_upload_latency,yaml,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_broadband_speed_download_upload_latency.yaml,,,,
 elect_supply_quality,xlsx,http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx,2,4,,
