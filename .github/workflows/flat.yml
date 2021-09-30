@@ -182,7 +182,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/tax_%_mobile_ownership.xlsx
+           downloaded_filename: data/tax_percent_mobile_ownership.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -309,16 +309,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/tax_%_mobile_ownership.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx
-           downloaded_filename: data/%_population_digital_financial_services.xlsx
+           downloaded_filename: data/population_digital_financial_services.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -334,7 +326,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
-           downloaded_filename: data/%_population_using_internet.xls
+           downloaded_filename: data/population_using_internet.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -391,14 +383,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/spectrum_allocated_mobile_providers.csv
            downloaded_filename: data/spectrum_allocated_mobile_providers.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx
-           downloaded_filename: data/%_population_digital_financial_services.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -678,7 +662,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=excel
-           downloaded_filename: data/%_population_access_internet.xls
+           downloaded_filename: data/population_access_internet.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -806,7 +790,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_interacting_public_officials.csv
-           downloaded_filename: data/%_population_interacting_public_officials.csv
+           downloaded_filename: data/population_interacting_public_officials.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -878,7 +862,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_internet.csv
-           downloaded_filename: data/%_business_internet.csv
+           downloaded_filename: data/business_internet.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -886,7 +870,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_broadband.csv
-           downloaded_filename: data/%_business_broadband.csv
+           downloaded_filename: data/business_broadband.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
