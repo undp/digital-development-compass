@@ -789,7 +789,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_interacting_public_officials.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv
            downloaded_filename: data/population_interacting_public_officials.csv
            postprocess: ./process_raw_data.js
 
@@ -861,7 +861,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_internet.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv
            downloaded_filename: data/business_internet.csv
            postprocess: ./process_raw_data.js
 
@@ -869,7 +869,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_business_broadband.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv
            downloaded_filename: data/business_broadband.csv
            postprocess: ./process_raw_data.js
 
