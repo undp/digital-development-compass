@@ -69,6 +69,14 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
+           http_url: https://opencellid.org/ocid/downloads?token=pk.6f7a8f2cfa2bb43ea72428ed4a4b4f47&type=full&file=cell_towers.csv.gz
+           downloaded_filename: data/cell_towers_geolocation.csv.gz
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
            downloaded_filename: data/population_internet_coverage_2g.xlsx
            postprocess: ./process_raw_data.js
@@ -991,4 +999,12 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv
            downloaded_filename: data/e_government_index.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv
+           downloaded_filename: data/internet_speed.csv
            postprocess: ./process_raw_data.js
