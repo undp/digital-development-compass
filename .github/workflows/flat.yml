@@ -78,7 +78,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/%_population_internet_coverage_2g.xlsx
+           downloaded_filename: data/population_internet_coverage_2g.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -86,7 +86,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/%_population_internet_coverage_3g.xlsx
+           downloaded_filename: data/population_internet_coverage_3g.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -94,7 +94,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/%_population_internet_coverage_4g.xlsx
+           downloaded_filename: data/population_internet_coverage_4g.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -102,7 +102,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/%_population_internet_coverage_5g.xlsx
+           downloaded_filename: data/population_internet_coverage_5g.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -110,7 +110,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
-           downloaded_filename: data/%_population_electricity_coverage.xls
+           downloaded_filename: data/population_electricity_coverage.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -134,15 +134,15 @@ jobs:
         if: always()
         with:
            http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/PercentIndividualsUsingInternet.xlsx
-           downloaded_filename: data/%_individual_internet_usage.xlsx
+           downloaded_filename: data/individual_internet_usage.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_mobile_cell_sub.csv
-           downloaded_filename: data/%_mobile_cell_sub.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_cell_sub.csv
+           downloaded_filename: data/mobile_cell_sub.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -501,14 +501,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gov_encrypted_traffic.csv
-           downloaded_filename: data/gov_encrypted_traffic.zip
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_mobile_connectivity.xlsx
            downloaded_filename: data/countries_mobile_connectivity.xlsx
            postprocess: ./process_raw_data.js
@@ -662,7 +654,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/IT.CEL.SETS.P2?downloadformat=excel
-           downloaded_filename: data/%_mobile_subscription.xls
+           downloaded_filename: data/percent_mobile_subscription.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -949,8 +941,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/% of individuals buying online and frequency.csv
-           downloaded_filename: data/% of individuals buying online and frequency.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/individuals buying online and frequency.csv
+           downloaded_filename: data/individuals buying online and frequency.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -965,8 +957,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_household_internet_access.csv
-           downloaded_filename: data/%_household_internet_access.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/household_internet_access.csv
+           downloaded_filename: data/household_internet_access.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -1005,8 +997,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/%_population_with_smartphones.csv
-           downloaded_filename: data/%_population_with_smartphones.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_with_smartphones.csv
+           downloaded_filename: data/population_with_smartphones.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
