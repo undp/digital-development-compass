@@ -5,7 +5,6 @@ countries_ixp,csv,https://raw.githubusercontent.com/mbelinsky/public_development
 number_key_internet_controls_employed,xlsx,https://freedomhouse.org/sites/default/files/2020-10/FOTN_2020_Key_Internet_Controls_Updated.xlsx,1,1,A,
 id4d_nid,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx,6,1,,
 id4d_services,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx,9,1,,
-cell_towers_geolocation,csv.gz,https://opencellid.org/ocid/downloads?token=pk.6f7a8f2cfa2bb43ea72428ed4a4b4f47&type=full&file=cell_towers.csv.gz,,,,
 population_internet_coverage_2g,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,Y,
 population_internet_coverage_3g,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,Z,
 population_internet_coverage_4g,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,AA,
