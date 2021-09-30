@@ -406,7 +406,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_coverage.csv
-           downloaded_filename: data/mobile_coverage.xls
+           downloaded_filename: data/mobile_coverage.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
