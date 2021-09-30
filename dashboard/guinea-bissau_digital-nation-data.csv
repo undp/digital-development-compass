@@ -1,9 +1,11 @@
-Pillar,Sub-Pillar,Score
+﻿Pillars,Sub-Pillars,Data Average
+Strategy,Ambition,
+Strategy,Approach,
 Foundations,Digital Payments,
-Foundations,Digital Legal Identity,
+Foundations,Digital Legal Identity,3.6
 Foundations,Data Exchange,
-Infrastructure,Connectivity technology,
-Infrastructure,Innovation Ecosystem,
+Infrastructure,Connectivity technology,3.2
+Infrastructure,Innovation Ecosystem,1.8
 Government,Digital public services,
 Government,Funding and procurement,
 Government,Leadership and coordination,
@@ -18,7 +20,8 @@ Business,Technology adoption,
 Business,Financing Incentives,
 Business,Impact Commitments,
 Business,Startup Environment,
-People,Digital Literacy Skills,
+People,Digital Literacy Skills,2.4
 People,Culture,
 People,Digital Wellbeing,
-People,Usage and Ownership,
+People,Usage and Ownership,3.1
+,,
