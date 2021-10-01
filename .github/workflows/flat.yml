@@ -606,7 +606,7 @@ jobs:
         if: always()
         with:
            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
-           downloaded_filename: data/sustainability_index.xls
+           downloaded_filename: data/sustainability_index.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
