@@ -1,117 +1,117 @@
-﻿Rank ,Country,DPE 2020  ,GDP per capita 2017,
-1,United States,"85,0",54225,
-2,United Kingdom,"82,7",39753,
-3,Netherlands,"82,4",48473,
-4,Canada,"78,2",44018,
-5,Sweden,"76,8",46949,
-6,Switzerland,"76,3",57410,
-7,Norway,"74,4",64800,
-8,Denmark,"71,1",46683,
-9,Australia,"69,3",44649,
-10,Finland  ,"68,9",40586,
-11,Ireland,"66,0",67335,
-12,Luxembourg,"65,6",94278,
-13,New Zealand,"65,3",36086,
-14,Germany France,"64,4",45229,
-15,,"63,6",38606,
-16,Iceland,"62,6",46483,
-17,Belgium Estonia,"62,5",42659,
-18,,"60,0",29481,
-19,Hong Kong,"58,5",56055,
-20,Austria,"57,0",45437,
-21,Japan,"56,8",39002,
-22,South Korea,"56,4",35938,
-23,Israel,"56,2",33132,
-24,Singapore,"55,8",85535,
-25,Spain  ,"53,5",34272,
-26,Malta,"53,4",36513,
-27,Portugal,"50,8",27937,
-28,Czech Republic,"48,9",32606,
-29,Taiwan,"47,1",50294,
-30,Italy   ,"46,1",35220,
-31,Slovenia,"45,1",31401,
-32,Lithuania,"44,3",29524,
-33,Cyprus,"44,3",32415,
-34,United Arab Emirates,"43,1",67293,
-35,Latvia,"42,8",25064,
-36,Malaysia,"42,1",26808,
-37,Qatar,"40,7",116936,
-38,Chile,"40,6",22767,
-39,Poland,"40,6",27216,
-40  ,Slovakia,"40,5",30155,
-41  ,Hungary,"38,4",26778,
-42,Uruguay,"36,3",20551,
-43,Greece,"35,9",24574,
-44,Bulgaria,"35,0",18563,
-45,Croatia,"34,8",22670,
-46,Costa Rica,"34,1",15525,
-47,Romania,"33,0",23313,
-48,Russia,"32,7",24766,
-49,Turkey,"32,3",25129,
-50,Mauritius,"32,0",20293,
-51,Brazil,"31,2",14103,
-52,Argentina,"30,4",18934,
-53,Mexico,"29,4",17336,
-54,Ukraine,"29,3",7894,
-55,Saudi Arabia,"29,3",49045,
-56,Oman,"28,8",37961,
-57,Montenegro,"28,5",16409,
-58,China,"28,1",15309,
-59,Colombia,"28,0",13255,
-60,Panama,"28,0",22267,
-61,Bahrain,"27,6",43291,
-62,Serbia,"27,5",14049,
-63,Thailand,"27,2",16278,
-64,Georgia,"26,5",9745,
-65,South Africa,"26,4",12295,
-66,Macedonia,"25,3",13111,
-67,Jordan,"25,0",8337,
-68,Armenia,"25,0",8788,
-69,Moldova,"24,4",5190,
-70,Morocco,"24,4",7485,
-71,Philippines,"24,3",7599,
-72,Azerbaijan,"23,9",15847,
-73,India,"23,8",6427,
-74,Peru,"23,6",12237,
-75,Kazakhstan,"23,5",24056,
-76,Indonesia,"23,1",11189,
-77,Kuwait,"22,8",65531,
-78,Bosnia and Herzegovina,"21,4",11714,
-79,Ecuador,"21,3",10582,
-80,Tunisia,"21,1",10849,
-81,Albania,"20,5",11803,
-82,Vietnam,"20,3",6172,
-83,Dominican Republic,"19,8",14601,
-84,Jamaica,"19,7",8194,
-85,Egypt,"19,5",10550,
-86,Iran,"19,5",19083,
-87,Botswana,"19,5",15807,
-88,Namibia,"18,3",9542,
-89,Sri Lanka,"18,3",11669,
-90,Lebanon,"17,6",13368,
-91,Kenya,"17,5",2993,
-92,Mongolia,"17,3",11841,
-93,El Salvador,"16,7",7292,
-94,Paraguay,"15,6",8827,
-95,Guatemala,"15,0",7424,
-96,Senegal,"14,5",2471,
-97,Pakistan,"14,0",5035,
-98,Honduras,"13,9",4542,
-99,Nigeria,"13,7",5338,
-100,Zambia,"13,4",3689,
-101,Algeria,"12,5",13914,
-102,Rwanda,"11,9",1854,
-103,Nepal,"11,6",2443,
-104,Kyrgyzstan,"11,5",3393,
-105,Bangladesh,"11,2",3524,
-106,Uganda,"11,0",1698,
-107,Cameroon,"10,8",3365,
-108,Mali,"10,4",2014,
-109,Zimbabwe,"10,0",1900,
-110,Cambodia,"9,8",3645,
-111,Tanzania,"9,8",2683,
-112,Malawi,"9,8",1095,
-113,Benin,"9,6",2064,
-114,Madagascar,"7,3",1416,
-115,Burundi,"6,9",702,
-116,Ethiopia,"6,0",1730,
+﻿Rank ,Country,DPE 2020,GDP per capita 2017
+1,United States,85,54225
+2,United Kingdom,82.7,39753
+3,Netherlands,82.4,48473
+4,Canada,78.2,44018
+5,Sweden,76.8,46949
+6,Switzerland,76.3,57410
+7,Norway,74.4,64800
+8,Denmark,71.1,46683
+9,Australia,69.3,44649
+10,Finland  ,68.9,40586
+11,Ireland,66,67335
+12,Luxembourg,65.6,94278
+13,New Zealand,65.3,36086
+14,Germany France,64.4,45229
+15,,63.6,38606
+16,Iceland,62.6,46483
+17,Belgium Estonia,62.5,42659
+18,,60,29481
+19,Hong Kong,58.5,56055
+20,Austria,57,45437
+21,Japan,56.8,39002
+22,South Korea,56.4,35938
+23,Israel,56.2,33132
+24,Singapore,55.8,85535
+25,Spain  ,53.5,34272
+26,Malta,53.4,36513
+27,Portugal,50.8,27937
+28,Czech Republic,48.9,32606
+29,Taiwan,47.1,50294
+30,Italy   ,46.1,35220
+31,Slovenia,45.1,31401
+32,Lithuania,44.3,29524
+33,Cyprus,44.3,32415
+34,United Arab Emirates,43.1,67293
+35,Latvia,42.8,25064
+36,Malaysia,42.1,26808
+37,Qatar,40.7,116936
+38,Chile,40.6,22767
+39,Poland,40.6,27216
+40  ,Slovakia,40.5,30155
+41  ,Hungary,38.4,26778
+42,Uruguay,36.3,20551
+43,Greece,35.9,24574
+44,Bulgaria,35,18563
+45,Croatia,34.8,22670
+46,Costa Rica,34.1,15525
+47,Romania,33,23313
+48,Russia,32.7,24766
+49,Turkey,32.3,25129
+50,Mauritius,32,20293
+51,Brazil,31.2,14103
+52,Argentina,30.4,18934
+53,Mexico,29.4,17336
+54,Ukraine,29.3,7894
+55,Saudi Arabia,29.3,49045
+56,Oman,28.8,37961
+57,Montenegro,28.5,16409
+58,China,28.1,15309
+59,Colombia,28,13255
+60,Panama,28,22267
+61,Bahrain,27.6,43291
+62,Serbia,27.5,14049
+63,Thailand,27.2,16278
+64,Georgia,26.5,9745
+65,South Africa,26.4,12295
+66,Macedonia,25.3,13111
+67,Jordan,25,8337
+68,Armenia,25,8788
+69,Moldova,24.4,5190
+70,Morocco,24.4,7485
+71,Philippines,24.3,7599
+72,Azerbaijan,23.9,15847
+73,India,23.8,6427
+74,Peru,23.6,12237
+75,Kazakhstan,23.5,24056
+76,Indonesia,23.1,11189
+77,Kuwait,22.8,65531
+78,Bosnia and Herzegovina,21.4,11714
+79,Ecuador,21.3,10582
+80,Tunisia,21.1,10849
+81,Albania,20.5,11803
+82,Vietnam,20.3,6172
+83,Dominican Republic,19.8,14601
+84,Jamaica,19.7,8194
+85,Egypt,19.5,10550
+86,Iran,19.5,19083
+87,Botswana,19.5,15807
+88,Namibia,18.3,9542
+89,Sri Lanka,18.3,11669
+90,Lebanon,17.6,13368
+91,Kenya,17.5,2993
+92,Mongolia,17.3,11841
+93,El Salvador,16.7,7292
+94,Paraguay,15.6,8827
+95,Guatemala,15,7424
+96,Senegal,14.5,2471
+97,Pakistan,14,5035
+98,Honduras,13.9,4542
+99,Nigeria,13.7,5338
+100,Zambia,13.4,3689
+101,Algeria,12.5,13914
+102,Rwanda,11.9,1854
+103,Nepal,11.6,2443
+104,Kyrgyzstan,11.5,3393
+105,Bangladesh,11.2,3524
+106,Uganda,11,1698
+107,Cameroon,10.8,3365
+108,Mali,10.4,2014
+109,Zimbabwe,10,1900
+110,Cambodia,9.8,3645
+111,Tanzania,9.8,2683
+112,Malawi,9.8,1095
+113,Benin,9.6,2064
+114,Madagascar,7.3,1416
+115,Burundi,6.9,702
+116,Ethiopia,6,1730
