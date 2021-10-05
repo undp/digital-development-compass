@@ -74,7 +74,7 @@ fixed_broadband_density,xls,https://api.worldbank.org/v2/en/indicator/IT.NET.BBN
 sustainability_index,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx,3,1,,
 RD_Percentage_GDP,xls,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel,1,4,,
 ICT_Investment,csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.ICTINVST.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en,1,1,,
-gender_gap_internet_usage,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/July/IndividualsUsingInternetByGender.xlsx,1,2,,
+gender_gap_internet_usage,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2021/July/IndividualsUsingInternetByGender.xlsx,1,3,,
 percent_mobile_subscription,xls,https://api.worldbank.org/v2/en/indicator/IT.CEL.SETS.P2?downloadformat=excel,1,4,,
 start_up_investment,xls,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv,,,,
 SDG 4.4_Digital_literacy_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG 4.4_Digital_literacy_data.csv,,,,
