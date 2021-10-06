@@ -645,8 +645,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG 4.4_Digital_literacy_data.csv
-           downloaded_filename: data/SDG 4.4_Digital_literacy_data.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv
+           downloaded_filename: data/SDG_digital_literacy_data.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
