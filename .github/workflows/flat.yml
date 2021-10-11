@@ -141,14 +141,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
-           downloaded_filename: data/elect_supply_quality.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/elect_dist_grid_map.csv
            downloaded_filename: data/elect_dist_grid_map.csv
            postprocess: ./process_raw_data.js
@@ -277,32 +269,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
-           downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx
            downloaded_filename: data/population_digital_financial_services.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
-           downloaded_filename: data/doing_bus_idx.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv
-           downloaded_filename: data/fb_social_connectedness.tsv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -327,22 +295,6 @@ jobs:
         with:
            http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx
            downloaded_filename: data/financial_inclusiveness .xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://index.okfn.org/api/datasets.json
-           downloaded_filename: data/open_data_idx.json
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/spectrum_allocated_mobile_providers.csv
-           downloaded_filename: data/spectrum_allocated_mobile_providers.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -389,22 +341,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv
-           downloaded_filename: data/ease_doing_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
-           downloaded_filename: data/time_start_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv
            downloaded_filename: data/venture_cap_avail.csv
            postprocess: ./process_raw_data.js
@@ -431,14 +367,6 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
            downloaded_filename: data/countries_gci.xls
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_mobile_connectivity.xlsx
-           downloaded_filename: data/countries_mobile_connectivity.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -495,14 +423,6 @@ jobs:
         with:
            http_url: https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx
            downloaded_filename: data/electricity_yearbook.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv
-           downloaded_filename: data/legal_rights_strength.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
