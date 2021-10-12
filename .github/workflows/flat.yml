@@ -278,7 +278,7 @@ jobs:
         if: always()
         with:
            http_url: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls
-           downloaded_filename: data/global_wellbeing_initiative .xls
+           downloaded_filename: data/global_wellbeing_initiative.xls
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
