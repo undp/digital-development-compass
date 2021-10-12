@@ -104,3 +104,4 @@ internet_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_developmen
 mobile_latency,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv,,,,
 ITU_database,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_dataset_v202104.xlsx,1,1,,
 Chainalysis_2020_Geography_Cryptocurrency_Report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv,,,,
+speedtest-global-performance,yaml,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/speedtest-global-performance.yaml,,,,
