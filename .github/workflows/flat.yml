@@ -646,7 +646,7 @@ jobs:
         if: always()
         with:
            http_url: https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx
-           downloaded_filename: data/World Bank The Logistics Performance Index 2007 to 2018.xlsx
+           downloaded_filename: data/logistics_performance_index.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
