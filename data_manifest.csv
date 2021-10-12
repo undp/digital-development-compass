@@ -35,7 +35,6 @@ global_wellbeing_initiative,xls,https://happiness-report.s3.amazonaws.com/2021/D
 financial_inclusiveness,xlsx,https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx,1,1,,
 ict_goods,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv,,,,
 ict_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv,,,,
-mobile_broadband_pricing,csv ,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_broadband_pricing.csv,,,,
 mob_dev_pen,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv,,,,
 gender_gap_in_mobile_usage,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,,
 venture_cap_avail,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv,1,1,,
