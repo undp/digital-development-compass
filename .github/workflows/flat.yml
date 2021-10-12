@@ -286,7 +286,7 @@ jobs:
         if: always()
         with:
            http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx
-           downloaded_filename: data/financial_inclusiveness .xlsx
+           downloaded_filename: data/financial_inclusiveness.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
