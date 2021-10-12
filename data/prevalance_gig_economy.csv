@@ -1,138 +1,135 @@
-﻿Prevalence of gig economy,,,,
-"Average answer to the question: In your country, to what extent is the online gig economy prevalent?
-[1 = Not at all; 7 = To a great extent] | 2018–19",,,,
-RANK,COUNTRY/ECONOMY,VALUE,SCORE,
-1,United States,5.4,100,
-2,Netherlands,5.22,94.63,
-3,United Kingdom,5.19,93.8,
-4,Saudi Arabia,5.08,90.33,
-5,Malaysia,5.07,90.19,
-6,Egypt,5.05,89.46,
-7,Israel,5.02,88.42,
-8,Canada,4.94,86.07,
-9,Singapore,4.92,85.52,
-10,United Arab Emirates,4.87,83.82,
-11,Australia,4.81,82.16,
-12,Germany,4.81,82.07,
-13,Qatar,4.57,74.83,
-14,New Zealand,4.54,73.86,
-15,Azerbaijan,4.53,73.58,
-16,Indonesia,4.52,73.2,
-17,Hong Kong (China),4.49,72.5,
-18,Sweden,4.49,72.37,
-19,"Korea, Rep.",4.47,71.77,
-20,France,4.42,70.1,
-21,Viet Nam,4.39,69.47,
-22,Finland,4.35,68.15,
-23,Bulgaria,4.32,67.17,
-24,Bahrain,4.31,66.86,
-25,Russian Federation,4.31,66.77,
-26,Estonia,4.3,66.54,
-27,Switzerland,4.28,66.09,
-28,Iceland,4.26,65.25,
-29,Oman,4.25,65.07,
-30,Ireland,4.24,64.67,
-31,Italy,4.23,64.53,
-32,Algeria,4.17,62.63,
-33,Malta,4.17,62.52,
-34,Guinea,4.13,61.34,
-35,Philippines,4.11,60.82,
-36,Portugal,4.11,60.68,
-36,Ukraine,4.11,60.68,
-38,Jordan,4.09,60.24,
-39,Latvia,4.06,59.25,
-40,Kenya,4.05,59.1,
-41,Cameroon,4.05,58.96,
-42,Lao PDR,3.99,57.02,
-43,Lithuania,3.97,56.48,
-44,Sri Lanka,3.96,56.16,
-45,Kuwait,3.95,55.93,
-46,Poland,3.93,55.24,
-47,Spain,3.88,53.85,
-48,Thailand,3.87,53.47,
-49,Japan,3.85,52.99,
-50,Luxembourg,3.85,52.86,
-51,Costa Rica,3.69,48.05,
-52,Pakistan,3.68,47.72,
-53,Czech Republic,3.68,47.65,
-54,Senegal,3.67,47.27,
-55,Rwanda,3.66,47.13,
-56,Jamaica,3.66,46.94,
-57,Armenia,3.65,46.85,
-58,Madagascar,3.64,46.4,
-59,Benin,3.62,45.91,
-60,Mexico,3.59,44.84,
-61,Moldova,3.57,44.2,
-62,Montenegro,3.55,43.69,
-63,Côte d'Ivoire,3.53,42.96,
-64,Chile,3.51,42.48,
-65,Turkey,3.49,42,
-66,Morocco,3.49,41.75,
-67,North Macedonia,3.44,40.36,
-68,Lebanon,3.44,40.34,
-69,Tanzania,3.43,39.92,
-70,India,3.41,39.56,
-71,Namibia,3.41,39.52,
-72,Slovenia,3.41,39.47,
-73,Gambia,3.41,39.39,
-74,Ghana,3.38,38.59,
-75,Romania,3.37,38.31,
-76,Slovakia,3.36,37.99,
-77,Kazakhstan,3.35,37.65,
-78,Dominican Republic,3.34,37.45,
-79,Austria,3.34,37.17,
-80,Colombia,3.33,37.01,
-81,Argentina,3.33,37,
-82,Serbia,3.33,36.99,
-83,Cabo Verde,3.29,35.88,
-84,Mauritius,3.29,35.85,
-85,South Africa,3.28,35.6,
-86,Cyprus,3.28,35.44,
-87,Lesotho,3.27,35.11,
-88,Panama,3.22,33.59,
-89,Mali,3.19,32.59,
-90,Burundi,3.18,32.45,
-91,Mongolia,3.14,31.17,
-91,Nigeria,3.14,31.17,
-93,Brazil,3.13,31.02,
-94,Kyrgyzstan,3.1,30.02,
-95,Ethiopia,3.08,29.51,
-96,Cambodia,3.07,29.12,
-97,Uruguay,3.07,29.09,
-98,Hungary,3.06,28.8,
-99,Albania,3.04,28.16,
-100,"Iran, Islamic Rep.",3.02,27.55,
-101,Uganda,2.99,26.61,
-102,Bangladesh,2.96,25.67,
-103,Croatia,2.93,24.91,
-104,Greece,2.92,24.4,
-105,Tajikistan,2.92,24.36,
-106,Nepal,2.88,23.33,
-107,Tunisia,2.88,23.3,
-108,Bosnia and Herzegovina,2.87,22.92,
-109,Guatemala,2.8,20.84,
-110,El Salvador,2.78,20.27,
-111,Trinidad and Tobago,2.78,20.09,
-112,Zambia,2.77,20.04,
-113,Peru,2.74,18.9,
-114,Yemen,2.69,17.52,
-115,Burkina Faso,2.67,16.77,
-116,Ecuador,2.62,15.46,
-117,Venezuela,2.59,14.55,
-118,"Congo, Dem. Rep.",2.58,14.1,
-119,Botswana,2.53,12.56,
-120,Chad,2.49,11.52,
-121,Eswatini,2.47,10.79,
-122,Mozambique,2.31,5.83,
-123,Angola,2.3,5.46,
-124,Bolivia,2.29,5.31,
-125,Paraguay,2.29,5.26,
-126,Malawi,2.24,3.78,
-127,Zimbabwe,2.12,0,
-,Belarus,n/a,n/a,
-,Belgium,n/a,n/a,
-,China,n/a,n/a,
-,Denmark,n/a,n/a,
-,Georgia,n/a,n/a,
-,Honduras,n/a,n/a,
-,Norway,n/a,n/a,
+﻿RANK,COUNTRY/ECONOMY,VALUE,SCORE
+1,United States,5.4,100
+2,Netherlands,5.22,94.63
+3,United Kingdom,5.19,93.8
+4,Saudi Arabia,5.08,90.33
+5,Malaysia,5.07,90.19
+6,Egypt,5.05,89.46
+7,Israel,5.02,88.42
+8,Canada,4.94,86.07
+9,Singapore,4.92,85.52
+10,United Arab Emirates,4.87,83.82
+11,Australia,4.81,82.16
+12,Germany,4.81,82.07
+13,Qatar,4.57,74.83
+14,New Zealand,4.54,73.86
+15,Azerbaijan,4.53,73.58
+16,Indonesia,4.52,73.2
+17,Hong Kong (China),4.49,72.5
+18,Sweden,4.49,72.37
+19,"Korea, Rep.",4.47,71.77
+20,France,4.42,70.1
+21,Viet Nam,4.39,69.47
+22,Finland,4.35,68.15
+23,Bulgaria,4.32,67.17
+24,Bahrain,4.31,66.86
+25,Russian Federation,4.31,66.77
+26,Estonia,4.3,66.54
+27,Switzerland,4.28,66.09
+28,Iceland,4.26,65.25
+29,Oman,4.25,65.07
+30,Ireland,4.24,64.67
+31,Italy,4.23,64.53
+32,Algeria,4.17,62.63
+33,Malta,4.17,62.52
+34,Guinea,4.13,61.34
+35,Philippines,4.11,60.82
+36,Portugal,4.11,60.68
+36,Ukraine,4.11,60.68
+38,Jordan,4.09,60.24
+39,Latvia,4.06,59.25
+40,Kenya,4.05,59.1
+41,Cameroon,4.05,58.96
+42,Lao PDR,3.99,57.02
+43,Lithuania,3.97,56.48
+44,Sri Lanka,3.96,56.16
+45,Kuwait,3.95,55.93
+46,Poland,3.93,55.24
+47,Spain,3.88,53.85
+48,Thailand,3.87,53.47
+49,Japan,3.85,52.99
+50,Luxembourg,3.85,52.86
+51,Costa Rica,3.69,48.05
+52,Pakistan,3.68,47.72
+53,Czech Republic,3.68,47.65
+54,Senegal,3.67,47.27
+55,Rwanda,3.66,47.13
+56,Jamaica,3.66,46.94
+57,Armenia,3.65,46.85
+58,Madagascar,3.64,46.4
+59,Benin,3.62,45.91
+60,Mexico,3.59,44.84
+61,Moldova,3.57,44.2
+62,Montenegro,3.55,43.69
+63,Côte d'Ivoire,3.53,42.96
+64,Chile,3.51,42.48
+65,Turkey,3.49,42
+66,Morocco,3.49,41.75
+67,North Macedonia,3.44,40.36
+68,Lebanon,3.44,40.34
+69,Tanzania,3.43,39.92
+70,India,3.41,39.56
+71,Namibia,3.41,39.52
+72,Slovenia,3.41,39.47
+73,Gambia,3.41,39.39
+74,Ghana,3.38,38.59
+75,Romania,3.37,38.31
+76,Slovakia,3.36,37.99
+77,Kazakhstan,3.35,37.65
+78,Dominican Republic,3.34,37.45
+79,Austria,3.34,37.17
+80,Colombia,3.33,37.01
+81,Argentina,3.33,37
+82,Serbia,3.33,36.99
+83,Cabo Verde,3.29,35.88
+84,Mauritius,3.29,35.85
+85,South Africa,3.28,35.6
+86,Cyprus,3.28,35.44
+87,Lesotho,3.27,35.11
+88,Panama,3.22,33.59
+89,Mali,3.19,32.59
+90,Burundi,3.18,32.45
+91,Mongolia,3.14,31.17
+91,Nigeria,3.14,31.17
+93,Brazil,3.13,31.02
+94,Kyrgyzstan,3.1,30.02
+95,Ethiopia,3.08,29.51
+96,Cambodia,3.07,29.12
+97,Uruguay,3.07,29.09
+98,Hungary,3.06,28.8
+99,Albania,3.04,28.16
+100,"Iran, Islamic Rep.",3.02,27.55
+101,Uganda,2.99,26.61
+102,Bangladesh,2.96,25.67
+103,Croatia,2.93,24.91
+104,Greece,2.92,24.4
+105,Tajikistan,2.92,24.36
+106,Nepal,2.88,23.33
+107,Tunisia,2.88,23.3
+108,Bosnia and Herzegovina,2.87,22.92
+109,Guatemala,2.8,20.84
+110,El Salvador,2.78,20.27
+111,Trinidad and Tobago,2.78,20.09
+112,Zambia,2.77,20.04
+113,Peru,2.74,18.9
+114,Yemen,2.69,17.52
+115,Burkina Faso,2.67,16.77
+116,Ecuador,2.62,15.46
+117,Venezuela,2.59,14.55
+118,"Congo, Dem. Rep.",2.58,14.1
+119,Botswana,2.53,12.56
+120,Chad,2.49,11.52
+121,Eswatini,2.47,10.79
+122,Mozambique,2.31,5.83
+123,Angola,2.3,5.46
+124,Bolivia,2.29,5.31
+125,Paraguay,2.29,5.26
+126,Malawi,2.24,3.78
+127,Zimbabwe,2.12,0
+,Belarus,n/a,n/a
+,Belgium,n/a,n/a
+,China,n/a,n/a
+,Denmark,n/a,n/a
+,Georgia,n/a,n/a
+,Honduras,n/a,n/a
+,Norway,n/a,n/a

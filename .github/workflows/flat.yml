@@ -102,7 +102,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
-           downloaded_filename: data/population_electricity_coverage.xls
+           downloaded_filename: data/population_electricity_coverage.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -270,7 +270,7 @@ jobs:
         if: always()
         with:
            http_url: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls
-           downloaded_filename: data/global_wellbeing_initiative.xls
+           downloaded_filename: data/global_wellbeing_initiative.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -342,7 +342,7 @@ jobs:
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
-           downloaded_filename: data/countries_gci.xls
+           downloaded_filename: data/countries_gci.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -350,7 +350,7 @@ jobs:
         if: always()
         with:
            http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
-           downloaded_filename: data/encrytion_data.xls
+           downloaded_filename: data/encrytion_data.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -414,15 +414,15 @@ jobs:
         if: always()
         with:
            http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
-           downloaded_filename: data/schools_w_internet.xls
+           downloaded_filename: data/schools_w_internet.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.xlsx
-           downloaded_filename: data/dice_export_global_cybersecurity_index.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv
+           downloaded_filename: data/dice_export_global_cybersecurity_index.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
@@ -454,7 +454,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel
-           downloaded_filename: data/RD_Percentage_GDP.xls
+           downloaded_filename: data/RD_Percentage_GDP.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
