@@ -253,14 +253,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://databank.worldbank.org/data/download/FINDEX_EXCEL.zip
-           downloaded_filename: data/financial_inclusiveness.zip
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
            http_url: https://index.okfn.org/api/entries.csv
            downloaded_filename: data/open_data_idx.csv
            postprocess: ./process_raw_data.js
