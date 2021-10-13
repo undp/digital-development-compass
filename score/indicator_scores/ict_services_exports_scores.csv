@@ -1,321 +1,297 @@
-Country Name,Indicator,data_col,new_rank_score,higher_is_better
-World,Total ICT goods Exports,12.48824,1.624412,True
-Antigua and Barbuda,Total ICT goods Exports,0.69518,1.034759,True
-Azerbaijan,Total ICT goods Exports,0.02084,1.001042,True
-Argentina,Total ICT goods Exports,0.07246,1.003623,True
-Australia,Total ICT goods Exports,1.10187,1.0550935,True
-Austria,Total ICT goods Exports,3.12856,1.156428,True
-Armenia,Total ICT goods Exports,0.28329,1.0141645,True
-Barbados,Total ICT goods Exports,0.28104,1.014052,True
-Belgium,Total ICT goods Exports,2.03564,1.101782,True
-Bermuda,Total ICT goods Exports,3.86205,1.1931025,True
-Bosnia and Herzegovina,Total ICT goods Exports,0.19875,1.0099375,True
-Botswana,Total ICT goods Exports,0.16818,1.0084089999999999,True
-Brazil,Total ICT goods Exports,0.34592,1.017296,True
-Belize,Total ICT goods Exports,0.42933,1.0214665,True
-Brunei Darussalam,Total ICT goods Exports,0.0694,1.00347,True
-Bulgaria,Total ICT goods Exports,3.21416,1.160708,True
-Myanmar,Total ICT goods Exports,0.59468,1.029734,True
-Burundi,Total ICT goods Exports,0.09398,1.004699,True
-Developed economies,Total ICT goods Exports,5.61901,1.2809504999999999,True
-Belarus,Total ICT goods Exports,0.80623,1.0403115,True
-Developed economies: America,Total ICT goods Exports,7.28617,1.3643085,True
-Developed economies: Asia,Total ICT goods Exports,8.15175,1.4075875,True
-Developed economies: Europe,Total ICT goods Exports,5.00181,1.2500905,True
-Developed economies: Oceania,Total ICT goods Exports,1.09309,1.0546545,True
-Cambodia,Total ICT goods Exports,0.98532,1.049266,True
-Developing economies,Total ICT goods Exports,21.78952,2.089476,True
-Developing economies: Africa,Total ICT goods Exports,1.04943,1.0524715,True
-Developing economies: America,Total ICT goods Exports,7.04372,1.352186,True
-Developing economies: Asia,Total ICT goods Exports,24.93512,2.246756,True
-Canada,Total ICT goods Exports,1.9197,1.095985,True
-Developing economies: Oceania,Total ICT goods Exports,5.65499,1.2827495,True
-Transition economies,Total ICT goods Exports,0.48853,1.0244265,True
-Chile,Total ICT goods Exports,0.32409,1.0162045,True
-China,Total ICT goods Exports,26.50223,2.3251115,True
-"China, Taiwan Province of",Total ICT goods Exports,46.39929,3.3199645,True
-Colombia,Total ICT goods Exports,0.2737,1.013685,True
-Comoros,Total ICT goods Exports,0.51554,1.025777,True
-Congo,Total ICT goods Exports,0.01465,1.0007325,True
-Costa Rica,Total ICT goods Exports,0.80905,1.0404525,True
-Croatia,Total ICT goods Exports,2.32681,1.1163405,True
-Cyprus,Total ICT goods Exports,2.29766,1.114883,True
-Czechia,Total ICT goods Exports,16.17047,1.8085235000000002,True
-Benin,Total ICT goods Exports,0.19375,1.0096875,True
-Denmark,Total ICT goods Exports,3.64799,1.1823995,True
-Developed economies: Asia and Oceania,Total ICT goods Exports,6.13373,1.3066865,True
-Developing economies: Asia and Oceania,Total ICT goods Exports,24.93198,2.246599,True
-Sub-Saharan Africa excluding South Africa,Total ICT goods Exports,0.09304,1.004652,True
-Africa excluding South Africa,Total ICT goods Exports,1.10235,1.0551175,True
-Developing economies excluding China,Total ICT goods Exports,19.62269,1.9811345,True
-Developing economies excluding LDCs,Total ICT goods Exports,21.9537,2.0976850000000002,True
-Ecuador,Total ICT goods Exports,0.04718,1.002359,True
-M49 developing regions,Total ICT goods Exports,21.51783,2.0758915,True
-M49 developed regions,Total ICT goods Exports,5.37319,1.2686595,True
-LDCs (Least developed countries),Total ICT goods Exports,1.01096,1.050548,True
-LDCs: Africa and Haiti,Total ICT goods Exports,0.12626,1.006313,True
-LDCs: Asia,Total ICT goods Exports,1.549,1.07745,True
-LDCs: Islands,Total ICT goods Exports,0.50296,1.025148,True
-El Salvador,Total ICT goods Exports,0.24241,1.0121205,True
-LLDCs (Landlocked developing countries),Total ICT goods Exports,0.35538,1.017769,True
-LDCs: Africa,Total ICT goods Exports,0.12626,1.006313,True
-LDCs: Islands and Haiti,Total ICT goods Exports,0.50296,1.025148,True
-SIDS (Small island developing States) (UNCTAD),Total ICT goods Exports,1.767,1.08835,True
-SIDS: Atlantic and Indian Ocean,Total ICT goods Exports,1.0896,1.05448,True
-SIDS: Caribbean,Total ICT goods Exports,0.72468,1.036234,True
-SIDS: Pacific,Total ICT goods Exports,5.65499,1.2827495,True
-SIDS (Small island developing States) (UN-OHRLLS),Total ICT goods Exports,28.47064,2.423532,True
-Estonia,Total ICT goods Exports,7.58978,1.379489,True
-Selected exporters of petroleum,Total ICT goods Exports,0.25432,1.012716,True
-Selected exporters of manufactured goods,Total ICT goods Exports,27.44022,2.3720109999999996,True
-Selected exporters of manufactured goods and primary commodities,Total ICT goods Exports,24.79522,2.239761,True
-Selected exporters of agricultural products,Total ICT goods Exports,0.13734,1.006867,True
-Selected exporters of minerals and mining products,Total ICT goods Exports,0.19726,1.009863,True
-Selected LIFDC (Low-income food-deficit countries),Total ICT goods Exports,15.98393,1.7991965,True
-LIFDC (Low-income food-deficit countries) (FAO),Total ICT goods Exports,14.89145,1.7445724999999999,True
-Net food-importing economies,Total ICT goods Exports,15.38075,1.7690375,True
-Net food-exporting economies,Total ICT goods Exports,8.01513,1.4007565,True
-Net food-exporting developing economies,Total ICT goods Exports,11.50658,1.575329,True
-Net food-exporting transition economies,Total ICT goods Exports,0.86093,1.0430465,True
-Net food-exporting developed economies,Total ICT goods Exports,6.20197,1.3100985,True
-Major net food-exporting economies,Total ICT goods Exports,8.12974,1.406487,True
-Fiji,Total ICT goods Exports,5.91469,1.2957345,True
-Net food-importing developing economies,Total ICT goods Exports,26.52849,2.3264245,True
-Net food-importing transition economies,Total ICT goods Exports,0.45043,1.0225215,True
-Net food-importing developed economies,Total ICT goods Exports,5.09301,1.2546505,True
-Major net food-importing economies,Total ICT goods Exports,15.9458,1.7972899999999998,True
-Finland,Total ICT goods Exports,2.57737,1.1288685,True
-Industrialized economies (UNIDO),Total ICT goods Exports,10.9303,1.546515,True
-EIEs (Emerging Industrial Economies) (UNIDO),Total ICT goods Exports,15.32872,1.7664360000000001,True
-France,Total ICT goods Exports,3.78505,1.1892525,True
-Emerging markets,Total ICT goods Exports,19.86905,1.9934525,True
-Emerging markets: Africa,Total ICT goods Exports,0.98193,1.0490965,True
-Emerging markets: America,Total ICT goods Exports,7.42107,1.3710535,True
-Emerging markets: Asia,Total ICT goods Exports,24.8372,2.24186,True
-Emerging markets: Europe and Kazakhstan,Total ICT goods Exports,5.95741,1.2978705,True
-HIPCs (Heavily indebted poor countries) (IMF),Total ICT goods Exports,0.07734,1.003867,True
-High-income developing economies,Total ICT goods Exports,23.39287,2.1696435000000003,True
-Middle-income developing economies,Total ICT goods Exports,12.46131,1.6230655,True
-Low-income developing economies,Total ICT goods Exports,0.1548,1.00774,True
-Low-income economies (World Bank),Total ICT goods Exports,0.1898,1.00949,True
-Lower-middle-income economies (World Bank),Total ICT goods Exports,12.64094,1.632047,True
-Upper-middle-income economies (World Bank),Total ICT goods Exports,17.57838,1.8789189999999998,True
-High-income economies (World Bank),Total ICT goods Exports,10.47033,1.5235165,True
-High-income OECD members (World Bank),Total ICT goods Exports,6.6862,1.33431,True
-High-income non OECD members (World Bank),Total ICT goods Exports,29.01734,2.450867,True
-Georgia,Total ICT goods Exports,0.3999,1.019995,True
-Gambia,Total ICT goods Exports,0.03671,1.0018355,True
-BASIC,Total ICT goods Exports,21.36898,2.068449,True
-BRICS,Total ICT goods Exports,18.87343,1.9436715,True
-Germany,Total ICT goods Exports,4.90076,1.245038,True
-Ghana,Total ICT goods Exports,0.02247,1.0011235,True
-Greece,Total ICT goods Exports,3.11251,1.1556255,True
-AMU (Arab Maghreb Union),Total ICT goods Exports,2.8916,1.14458,True
-COMESA (Common Market for Eastern and Southern Africa),Total ICT goods Exports,2.19925,1.1099625,True
-ECCAS (Economic Community of Central African States),Total ICT goods Exports,0.16272,1.008136,True
-ECOWAS (Economic Community of West African States),Total ICT goods Exports,0.02136,1.001068,True
-MRU (Mano River Union),Total ICT goods Exports,0.05324,1.002662,True
-SADC (Southern African Development Community),Total ICT goods Exports,0.74525,1.0372625,True
-CEMAC (Economic and Monetary Community of Central Africa),Total ICT goods Exports,0.01465,1.0007325,True
-WAEMU (West African Economic and Monetary Union),Total ICT goods Exports,0.06765,1.0033825,True
-CEPGL (Economic Community of the Great Lakes Countries),Total ICT goods Exports,0.77566,1.038783,True
-EAC (East African Community),Total ICT goods Exports,0.48945,1.0244725,True
-SACU (Southern African Customs Union),Total ICT goods Exports,0.83105,1.0415525,True
-CEN-SAD (Community of Sahel-Saharan States),Total ICT goods Exports,1.3237,1.066185,True
-IGAD (Intergovernmental Authority on Development),Total ICT goods Exports,0.42361,1.0211805,True
-United Nations member States,Total ICT goods Exports,10.48167,1.5240835000000001,True
-Guatemala,Total ICT goods Exports,0.18886,1.009443,True
-CAN (Andean Community),Total ICT goods Exports,0.13519,1.0067595,True
-CACM (Central American Common Market),Total ICT goods Exports,0.36644,1.018322,True
-CARICOM (Caribbean Community),Total ICT goods Exports,0.31389,1.0156945,True
-FTAA (Free Trade Area of the Americas),Total ICT goods Exports,7.20848,1.360424,True
-LAIA (Latin American Integration Association),Total ICT goods Exports,7.36145,1.3680725,True
-NAFTA (North American Free Trade Agreement),Total ICT goods Exports,8.64776,1.432388,True
-OECS (Organisation of Eastern Caribbean States),Total ICT goods Exports,4.13255,1.2066275,True
-MERCOSUR (Southern Common Market),Total ICT goods Exports,0.27475,1.0137375,True
-ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty),Total ICT goods Exports,0.18897,1.0094485,True
-UNASUR (Union of South American Nations),Total ICT goods Exports,0.12364,1.006182,True
-ACS (Association of Caribbean States),Total ICT goods Exports,12.58182,1.629091,True
-Guyana,Total ICT goods Exports,0.15839,1.0079195,True
-ASEAN (Association of Southeast Asian Nations),Total ICT goods Exports,25.37989,2.2689945,True
-APTA (Asia-Pacific Trade Agreement),Total ICT goods Exports,23.94514,2.1972569999999996,True
-GCC (The Cooperation Council for the Arab States of the Gulf),Total ICT goods Exports,3.91036,1.195518,True
-SAARC (South Asian Association for Regional Cooperation),Total ICT goods Exports,1.87167,1.0935835,True
-"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea",Total ICT goods Exports,23.58659,2.1793295,True
-ECO (Economic Cooperation Organization),Total ICT goods Exports,0.72989,1.0364945,True
-African Union,Total ICT goods Exports,1.04943,1.0524715,True
-"ADB (African Development Bank), developing member countries",Total ICT goods Exports,22.99492,2.1497460000000004,True
-ADB: Group A,Total ICT goods Exports,1.4812,1.07406,True
-ADB: Group B,Total ICT goods Exports,1.76237,1.0881185,True
-ADB: Group C,Total ICT goods Exports,25.44634,2.272317,True
-ECA (Economic Commission for Africa),Total ICT goods Exports,1.04943,1.0524715,True
-ECA: North Africa,Total ICT goods Exports,2.88252,1.144126,True
-ECA: East Africa,Total ICT goods Exports,0.34454,1.017227,True
-ECA: Central Africa,Total ICT goods Exports,0.0154,1.00077,True
-ECA: Southern Africa,Total ICT goods Exports,0.76634,1.038317,True
-ECA: West Africa,Total ICT goods Exports,0.02136,1.001068,True
-ECLAC (Economic Commission for Latin America and the Caribbean),Total ICT goods Exports,7.04372,1.352186,True
-ECLAC: Caribbean,Total ICT goods Exports,0.32437,1.0162185,True
-ECLAC: Latin America,Total ICT goods Exports,7.09737,1.3548685,True
-ESCAP (Economic and Social Commission for Asia and the Pacific),Total ICT goods Exports,21.72263,2.0861314999999996,True
-ESCAP: Africa,Total ICT goods Exports,1.04943,1.0524715,True
-ESCAP: Latin America,Total ICT goods Exports,7.04372,1.352186,True
-ESCAP: Europe,Total ICT goods Exports,4.95764,1.247882,True
-ESCAP: East and North-East Asia (ENEA),Total ICT goods Exports,27.08277,2.3541385,True
-ESCAP: North and Central Asia,Total ICT goods Exports,0.45038,1.022519,True
-ESCAP: South and South-West Asia,Total ICT goods Exports,1.62318,1.081159,True
-ESCAP: Pacific,Total ICT goods Exports,1.10917,1.0554585,True
-ESCAP: Pacific island developing economies (PIDE),Total ICT goods Exports,24.68091,2.2340454999999997,True
-ESCAP: Other area,Total ICT goods Exports,4.3133,1.215665,True
-"ESCAP: East and North-East Asia, incl. the Russian Federation",Total ICT goods Exports,24.68091,2.2340454999999997,True
-UNECE (Economic Commission for Europe),Total ICT goods Exports,5.17902,1.2589510000000002,True
-"UNECE: Eastern Europe, Caucasus and Central Asia",Total ICT goods Exports,0.47026,1.023513,True
-UNECE: West Balkans,Total ICT goods Exports,1.31403,1.0657015,True
-ESCWA (Economic and Social Commission for Western Asia),Total ICT goods Exports,3.80138,1.190069,True
-ESCWA: Arab countries,Total ICT goods Exports,3.80119,1.1900595,True
-Honduras,Total ICT goods Exports,0.13682,1.006841,True
-EFTA (European Free Trade Association),Total ICT goods Exports,1.0959,1.054795,True
-EU25 (European Union 2004 … 2007),Total ICT goods Exports,5.31848,1.265924,True
-EU15 (European Union 1995 … 2004),Total ICT goods Exports,4.5464,1.22732,True
-Euro area,Total ICT goods Exports,4.73633,1.2368165,True
-EU27 (European Union 2007 … 2013),Total ICT goods Exports,5.28012,1.264006,True
-EU28 (European Union 2013 … 2020),Total ICT goods Exports,5.27188,1.2635939999999999,True
-CEFTA (Central European Free Trade Agreement),Total ICT goods Exports,0.75537,1.0377685,True
-European Union (2020 …),Total ICT goods Exports,5.37766,1.268883,True
-"China, Hong Kong SAR",Total ICT goods Exports,56.64507,3.8322534999999998,True
-Hungary,Total ICT goods Exports,12.81948,1.640974,True
-MSG (Melanesian Spearhead Group),Total ICT goods Exports,5.91469,1.2957345,True
-Iceland,Total ICT goods Exports,0.16982,1.008491,True
-India,Total ICT goods Exports,2.00399,1.1001995,True
-Indonesia,Total ICT goods Exports,2.7754,1.13877,True
-Northern America and Europe,Total ICT goods Exports,5.284,1.2642,True
-Central and Southern Asia,Total ICT goods Exports,1.56109,1.0780545,True
-Eastern and South-Eastern Asia,Total ICT goods Exports,27.73991,2.3869955,True
-Western Asia and Northern Africa,Total ICT goods Exports,3.61863,1.1809315,True
-Ireland,Total ICT goods Exports,8.79934,1.439967,True
-Israel,Total ICT goods Exports,9.98852,1.499426,True
-Italy,Total ICT goods Exports,1.95693,1.0978465,True
-Côte d'Ivoire,Total ICT goods Exports,0.05324,1.002662,True
-Jamaica,Total ICT goods Exports,0.47763,1.0238814999999999,True
-APEC (Asia-Pacific Economic Cooperation),Total ICT goods Exports,20.23379,2.0116895,True
-CIS (Commonwealth of Independent States),Total ICT goods Exports,0.47074,1.023537,True
-OECD (Organisation for Economic Cooperation and Development),Total ICT goods Exports,6.94024,1.3470119999999999,True
-OPEC (Organization of the Petroleum Exporting Countries),Total ICT goods Exports,3.86928,1.193464,True
-"ACP (African, Caribbean and Pacific Group of States)",Total ICT goods Exports,0.43902,1.021951,True
-LAS (League of Arab States),Total ICT goods Exports,3.80119,1.1900595,True
-OIC (Organisation of Islamic Cooperation),Total ICT goods Exports,7.06967,1.3534835,True
-OAS (Organization of American States),Total ICT goods Exports,7.20848,1.360424,True
-G7 (Group of Seven),Total ICT goods Exports,5.6808,1.28404,True
-G8 (Group of Eight),Total ICT goods Exports,5.33043,1.2665215,True
-G20 (Group of Twenty),Total ICT goods Exports,9.86464,1.493232,True
-G-77 (Group of 77),Total ICT goods Exports,17.97019,1.8985094999999998,True
-Japan,Total ICT goods Exports,7.99951,1.3999755,True
-GSTP (Global System of Trade Preferences among Developing Countries),Total ICT goods Exports,17.0461,1.8523049999999999,True
-GSTP: Africa,Total ICT goods Exports,1.48415,1.0742075,True
-GSTP: Latin America,Total ICT goods Exports,7.29204,1.364602,True
-GSTP: Asia,Total ICT goods Exports,22.17002,2.108501,True
-TPP (Trans-Pacific Partnership),Total ICT goods Exports,14.35815,1.7179075,True
-ACP: Africa,Total ICT goods Exports,0.41851,1.0209255,True
-ACP: Western Africa,Total ICT goods Exports,0.02085,1.0010425,True
-ACP: Eastern Africa,Total ICT goods Exports,0.31587,1.0157935,True
-ACP: Central Africa,Total ICT goods Exports,0.0154,1.00077,True
-ACP: Southern Africa,Total ICT goods Exports,0.83105,1.0415525,True
-ACP: Caribbean,Total ICT goods Exports,0.31389,1.0156945,True
-ACP: Pacific,Total ICT goods Exports,5.65499,1.2827495,True
-ACP: LDCs,Total ICT goods Exports,0.1272,1.00636,True
-ACP: LLDCs,Total ICT goods Exports,0.13968,1.006984,True
-ACP: islands states,Total ICT goods Exports,1.24189,1.0620945,True
-Kazakhstan,Total ICT goods Exports,0.11513,1.0057565,True
-Jordan,Total ICT goods Exports,2.13528,1.106764,True
-Kenya,Total ICT goods Exports,0.42361,1.0211805,True
-"Korea, Republic of",Total ICT goods Exports,25.77178,2.288589,True
-Kuwait,Total ICT goods Exports,0.13965,1.0069825,True
-Kyrgyzstan,Total ICT goods Exports,0.17533,1.0087665,True
-Lao People's Dem. Rep.,Total ICT goods Exports,5.95021,1.2975105,True
-Latvia,Total ICT goods Exports,8.94257,1.4471285,True
-Lithuania,Total ICT goods Exports,3.44376,1.172188,True
-Luxembourg,Total ICT goods Exports,2.20065,1.1100325,True
-"China, Macao SAR",Total ICT goods Exports,23.68559,2.1842795,True
-Madagascar,Total ICT goods Exports,0.04939,1.0024695,True
-Malawi,Total ICT goods Exports,0.3632,1.01816,True
-Malaysia,Total ICT goods Exports,32.50135,2.6250675,True
-Malta,Total ICT goods Exports,13.58925,1.6794625,True
-Mauritius,Total ICT goods Exports,1.60706,1.080353,True
-Mexico,Total ICT goods Exports,14.82555,1.7412774999999998,True
-Mongolia,Total ICT goods Exports,0.00808,1.000404,True
-"Moldova, Republic of",Total ICT goods Exports,0.26006,1.013003,True
-Morocco,Total ICT goods Exports,2.42744,1.121372,True
-Africa,Total ICT goods Exports,1.04943,1.0524715,True
-Northern Africa,Total ICT goods Exports,2.96974,1.148487,True
-Sub-Saharan Africa,Total ICT goods Exports,0.41851,1.0209255,True
-Eastern Africa,Total ICT goods Exports,0.31587,1.0157935,True
-Middle Africa,Total ICT goods Exports,0.0154,1.00077,True
-Southern Africa,Total ICT goods Exports,0.83105,1.0415525,True
-Western Africa,Total ICT goods Exports,0.02085,1.0010425,True
-Namibia,Total ICT goods Exports,0.31121,1.0155605,True
-America,Total ICT goods Exports,7.20829,1.3604145,True
-Northern America,Total ICT goods Exports,7.28617,1.3643085,True
-Latin America and the Caribbean,Total ICT goods Exports,7.04372,1.352186,True
-Caribbean,Total ICT goods Exports,0.74557,1.0372785,True
-Central America,Total ICT goods Exports,13.74279,1.6871395,True
-South America,Total ICT goods Exports,0.24948,1.012474,True
-Netherlands,Total ICT goods Exports,10.26887,1.5134435,True
-Asia,Total ICT goods Exports,22.89315,2.1446575,True
-Central Asia,Total ICT goods Exports,0.11715,1.0058575,True
-Southern Asia,Total ICT goods Exports,1.87167,1.0935835,True
-Aruba,Total ICT goods Exports,1.29593,1.0647965,True
-Eastern Asia,Total ICT goods Exports,28.4603,2.4230150000000004,True
-Western Asia,Total ICT goods Exports,3.66481,1.1832405,True
-South-eastern Asia,Total ICT goods Exports,25.37989,2.2689945,True
-Europe,Total ICT goods Exports,4.68906,1.234453,True
-Eastern Europe,Total ICT goods Exports,6.66664,1.333332,True
-Northern Europe,Total ICT goods Exports,4.70574,1.235287,True
-Southern Europe,Total ICT goods Exports,1.99438,1.099719,True
-Western Europe,Total ICT goods Exports,4.80666,1.2403330000000001,True
-Oceania,Total ICT goods Exports,1.10917,1.0554585,True
-New Zealand,Total ICT goods Exports,1.03396,1.051698,True
-Nicaragua,Total ICT goods Exports,0.05972,1.002986,True
-Asia and Oceania,Total ICT goods Exports,22.03701,2.1018505,True
-Nigeria,Total ICT goods Exports,0.0021,1.000105,True
-Norway,Total ICT goods Exports,1.13326,1.056663,True
-Pakistan,Total ICT goods Exports,0.07062,1.003531,True
-Paraguay,Total ICT goods Exports,0.06414,1.003207,True
-Peru,Total ICT goods Exports,0.05922,1.002961,True
-Philippines,Total ICT goods Exports,49.01819,3.4509095,True
-Poland,Total ICT goods Exports,6.54966,1.327483,True
-Portugal,Total ICT goods Exports,3.4001,1.170005,True
-Romania,Total ICT goods Exports,3.2022,1.16011,True
-Russian Federation,Total ICT goods Exports,0.5299,1.026495,True
-Rwanda,Total ICT goods Exports,0.8817,1.044085,True
-Saint Lucia,Total ICT goods Exports,6.56263,1.3281315,True
-Saint Vincent and the Grenadines,Total ICT goods Exports,1.30789,1.0653945,True
-Sao Tome and Principe,Total ICT goods Exports,0.44038,1.022019,True
-Saudi Arabia,Total ICT goods Exports,0.00159,1.0000795,True
-Senegal,Total ICT goods Exports,0.09817,1.0049085,True
-Serbia,Total ICT goods Exports,1.0378,1.05189,True
-Seychelles,Total ICT goods Exports,0.03505,1.0017525,True
-Singapore,Total ICT goods Exports,29.29847,2.4649235,True
-Slovakia,Total ICT goods Exports,13.28175,1.6640875,True
-Viet Nam,Total ICT goods Exports,35.01057,2.7505285,True
-Slovenia,Total ICT goods Exports,1.78636,1.089318,True
-South Africa,Total ICT goods Exports,0.92307,1.0461535,True
-Zimbabwe,Total ICT goods Exports,0.03435,1.0017175,True
-Spain,Total ICT goods Exports,1.62771,1.0813855,True
-Suriname,Total ICT goods Exports,0.08403,1.0042015,True
-Eswatini,Total ICT goods Exports,0.08072,1.004036,True
-Sweden,Total ICT goods Exports,6.15142,1.307571,True
-"Switzerland, Liechtenstein",Total ICT goods Exports,1.09895,1.0549475,True
-Thailand,Total ICT goods Exports,14.35475,1.7177375,True
-Togo,Total ICT goods Exports,0.09042,1.004521,True
-United Arab Emirates,Total ICT goods Exports,7.795,1.38975,True
-Tunisia,Total ICT goods Exports,4.24106,1.212053,True
-Turkey,Total ICT goods Exports,1.14636,1.057318,True
-North Macedonia,Total ICT goods Exports,0.68483,1.0342415,True
-Egypt,Total ICT goods Exports,2.86874,1.143437,True
-United States of America,Total ICT goods Exports,8.74211,1.4371055,True
-Burkina Faso,Total ICT goods Exports,0.04541,1.0022705,True
-Uruguay,Total ICT goods Exports,0.11396,1.005698,True
-Uzbekistan,Total ICT goods Exports,0.11722,1.005861,True
-Samoa,Total ICT goods Exports,0.21088,1.010544,True
-Zambia,Total ICT goods Exports,0.09263,1.0046315,True
-United Kingdom,Total ICT goods Exports,3.99634,1.199817,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+World,2019,ICT services Exports,10.34718,1.517359,True
+Afghanistan,2019,ICT services Exports,7.49154,1.374577,True
+Albania,2019,ICT services Exports,2.78304,1.139152,True
+Angola,2019,ICT services Exports,4.288,1.2144,True
+Azerbaijan,2019,ICT services Exports,1.05807,1.0529035,True
+Argentina,2019,ICT services Exports,13.52078,1.6760389999999998,True
+Australia,2019,ICT services Exports,4.53489,1.2267445000000001,True
+Austria,2019,ICT services Exports,10.02456,1.501228,True
+Bangladesh,2019,ICT services Exports,8.11738,1.405869,True
+Armenia,2019,ICT services Exports,10.06948,1.503474,True
+Belgium,2019,ICT services Exports,11.07537,1.5537684999999999,True
+Bolivia (Plurinational State of),2019,ICT services Exports,5.46676,1.273338,True
+Bosnia and Herzegovina,2019,ICT services Exports,7.07824,1.353912,True
+Brazil,2019,ICT services Exports,7.21535,1.3607675,True
+Belize,2019,ICT services Exports,3.46369,1.1731845,True
+Solomon Islands,2019,ICT services Exports,2.14614,1.107307,True
+Bulgaria,2019,ICT services Exports,13.50752,1.675376,True
+Developed economies,2019,ICT services Exports,10.30909,1.5154545,True
+Belarus,2019,ICT services Exports,24.78162,2.239081,True
+Developed economies: America,2019,ICT services Exports,5.3762,1.26881,True
+Developed economies: Asia,2019,ICT services Exports,8.73413,1.4367065,True
+Developed economies: Europe,2019,ICT services Exports,12.32583,1.6162915,True
+Developed economies: Oceania,2019,ICT services Exports,4.41223,1.2206115,True
+Cambodia,2019,ICT services Exports,1.52937,1.0764685,True
+Cameroon,2019,ICT services Exports,4.65308,1.232654,True
+Developing economies,2019,ICT services Exports,10.37012,1.518506,True
+Developing economies: Africa,2019,ICT services Exports,5.14358,1.257179,True
+Developing economies: America,2019,ICT services Exports,4.7414,1.23707,True
+Developing economies: Asia,2019,ICT services Exports,11.56015,1.5780075,True
+Canada,2019,ICT services Exports,7.80524,1.390262,True
+Developing economies: Oceania,2019,ICT services Exports,,,True
+Transition economies,2019,ICT services Exports,11.20041,1.5600204999999998,True
+Cabo Verde,2019,ICT services Exports,1.23236,1.061618,True
+Sri Lanka,2019,ICT services Exports,14.1021,1.705105,True
+Chile,2019,ICT services Exports,4.57658,1.228829,True
+China,2019,ICT services Exports,18.99235,1.9496175,True
+Colombia,2019,ICT services Exports,4.33654,1.2168269999999999,True
+Costa Rica,2019,ICT services Exports,13.14388,1.657194,True
+Croatia,2019,ICT services Exports,5.4759,1.273795,True
+Cyprus,2019,ICT services Exports,20.14044,2.007022,True
+Czechia,2019,ICT services Exports,14.82031,1.7410155,True
+Denmark,2019,ICT services Exports,6.12896,1.306448,True
+Developed economies: Asia and Oceania,2019,ICT services Exports,7.65325,1.3826625,True
+Developing economies: Asia and Oceania,2019,ICT services Exports,11.52703,1.5763515,True
+Sub-Saharan Africa excluding South Africa,2019,ICT services Exports,5.24105,1.2620525,True
+Africa excluding South Africa,2019,ICT services Exports,5.27753,1.2638764999999998,True
+Dominican Republic,2019,ICT services Exports,0.97372,1.048686,True
+Developing economies excluding China,2019,ICT services Exports,8.79472,1.439736,True
+Developing economies excluding LDCs,2019,ICT services Exports,10.5226,1.52613,True
+Ecuador,2019,ICT services Exports,1.8644,1.09322,True
+M49 developing regions,2019,ICT services Exports,10.27029,1.5135144999999999,True
+M49 developed regions,2019,ICT services Exports,10.38055,1.5190275,True
+LDCs (Least developed countries),2019,ICT services Exports,4.87126,1.243563,True
+LDCs: Africa and Haiti,2019,ICT services Exports,5.24176,1.2620879999999999,True
+LDCs: Asia,2019,ICT services Exports,4.51453,1.2257265,True
+LDCs: Islands,2019,ICT services Exports,3.67095,1.1835475,True
+El Salvador,2019,ICT services Exports,7.62151,1.3810755,True
+LLDCs (Landlocked developing countries),2019,ICT services Exports,5.19376,1.2596880000000001,True
+LDCs: Africa,2019,ICT services Exports,5.26737,1.2633685,True
+LDCs: Islands and Haiti,2019,ICT services Exports,3.68497,1.1842485,True
+SIDS (Small island developing States) (UNCTAD),2019,ICT services Exports,1.95179,1.0975895,True
+SIDS: Atlantic and Indian Ocean,2019,ICT services Exports,2.72674,1.136337,True
+SIDS: Caribbean,2019,ICT services Exports,1.47611,1.0738055,True
+SIDS: Pacific,2019,ICT services Exports,2.11399,1.1056995,True
+SIDS (Small island developing States) (UN-OHRLLS),2019,ICT services Exports,5.77773,1.2888865,True
+Estonia,2019,ICT services Exports,12.07021,1.6035105,True
+Selected exporters of petroleum,2019,ICT services Exports,8.39552,1.419776,True
+Selected exporters of manufactured goods,2019,ICT services Exports,12.40696,1.620348,True
+Selected exporters of manufactured goods and primary commodities,2019,ICT services Exports,10.57075,1.5285375,True
+Selected exporters of agricultural products,2019,ICT services Exports,7.27728,1.363864,True
+Selected exporters of minerals and mining products,2019,ICT services Exports,4.04941,1.2024705,True
+Selected LIFDC (Low-income food-deficit countries),2019,ICT services Exports,24.5883,2.2294150000000004,True
+LIFDC (Low-income food-deficit countries) (FAO),2019,ICT services Exports,23.01266,2.150633,True
+Net food-importing economies,2019,ICT services Exports,8.85008,1.442504,True
+Net food-exporting economies,2019,ICT services Exports,12.14805,1.6074025,True
+Net food-exporting developing economies,2019,ICT services Exports,12.59869,1.6299345,True
+Net food-exporting transition economies,2019,ICT services Exports,22.47805,2.1239025,True
+Net food-exporting developed economies,2019,ICT services Exports,11.82117,1.5910585,True
+Major net food-exporting economies,2019,ICT services Exports,12.26093,1.6130465,True
+Fiji,2019,ICT services Exports,1.43226,1.071613,True
+Net food-importing developing economies,2019,ICT services Exports,9.15092,1.457546,True
+Net food-importing transition economies,2019,ICT services Exports,6.8527,1.342635,True
+Net food-importing developed economies,2019,ICT services Exports,8.77401,1.4387005,True
+Major net food-importing economies,2019,ICT services Exports,9.30553,1.4652764999999999,True
+Finland,2019,ICT services Exports,34.81992,2.740996,True
+Industrialized economies (UNIDO),2019,ICT services Exports,9.69583,1.4847915,True
+EIEs (Emerging Industrial Economies) (UNIDO),2019,ICT services Exports,14.39981,1.7199905,True
+France,2019,ICT services Exports,6.32979,1.3164894999999999,True
+Emerging markets,2019,ICT services Exports,11.7284,1.58642,True
+Emerging markets: America,2019,ICT services Exports,5.27596,1.263798,True
+Emerging markets: Asia,2019,ICT services Exports,12.47518,1.6237590000000002,True
+Emerging markets: Europe and Kazakhstan,2019,ICT services Exports,12.03772,1.601886,True
+HIPCs (Heavily indebted poor countries) (IMF),2019,ICT services Exports,4.84849,1.2424245,True
+High-income developing economies,2019,ICT services Exports,7.9851,1.399255,True
+Middle-income developing economies,2019,ICT services Exports,17.39685,1.8698425,True
+Low-income developing economies,2019,ICT services Exports,5.86282,1.2931409999999999,True
+Low-income economies (World Bank),2019,ICT services Exports,5.7668,1.28834,True
+Lower-middle-income economies (World Bank),2019,ICT services Exports,18.45031,1.9225155,True
+Upper-middle-income economies (World Bank),2019,ICT services Exports,10.27633,1.5138165,True
+High-income economies (World Bank),2019,ICT services Exports,9.61199,1.4805995,True
+High-income OECD members (World Bank),2019,ICT services Exports,10.09002,1.504501,True
+High-income non OECD members (World Bank),2019,ICT services Exports,6.42777,1.3213884999999999,True
+Georgia,2019,ICT services Exports,2.36637,1.1183185,True
+Gambia,2019,ICT services Exports,4.41003,1.2205015,True
+BASIC,2019,ICT services Exports,22.23976,2.111988,True
+BRICS,2019,ICT services Exports,20.82671,2.0413354999999997,True
+Germany,2019,ICT services Exports,11.78207,1.5891034999999998,True
+Greece,2019,ICT services Exports,2.41149,1.1205745,True
+AMU (Arab Maghreb Union),2019,ICT services Exports,7.52858,1.376429,True
+COMESA (Common Market for Eastern and Southern Africa),2019,ICT services Exports,4.73614,1.236807,True
+ECCAS (Economic Community of Central African States),2019,ICT services Exports,5.05585,1.2527925,True
+ECOWAS (Economic Community of West African States),2019,ICT services Exports,5.18001,1.2590005,True
+MRU (Mano River Union),2019,ICT services Exports,14.77024,1.738512,True
+CEMAC (Economic and Monetary Community of Central Africa),2019,ICT services Exports,6.18672,1.309336,True
+WAEMU (West African Economic and Monetary Union),2019,ICT services Exports,14.95647,1.7478235,True
+CEPGL (Economic Community of the Great Lakes Countries),2019,ICT services Exports,2.18261,1.1091305,True
+EAC (East African Community),2019,ICT services Exports,6.80546,1.340273,True
+CEN-SAD (Community of Sahel-Saharan States),2019,ICT services Exports,5.48351,1.2741755,True
+IGAD (Intergovernmental Authority on Development),2019,ICT services Exports,6.62937,1.3314685,True
+United Nations member States,2019,ICT services Exports,10.60263,1.5301315,True
+Guatemala,2019,ICT services Exports,17.88975,1.8944874999999999,True
+CAN (Andean Community),2019,ICT services Exports,3.08228,1.154114,True
+CACM (Central American Common Market),2019,ICT services Exports,12.04097,1.6020485,True
+CARICOM (Caribbean Community),2019,ICT services Exports,1.65799,1.0828995,True
+FTAA (Free Trade Area of the Americas),2019,ICT services Exports,5.35597,1.2677985,True
+LAIA (Latin American Integration Association),2019,ICT services Exports,4.50449,1.2252245,True
+NAFTA (North American Free Trade Agreement),2019,ICT services Exports,5.22096,1.261048,True
+MERCOSUR (Southern Common Market),2019,ICT services Exports,9.04123,1.4520615000000001,True
+ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty),2019,ICT services Exports,,,True
+UNASUR (Union of South American Nations),2019,ICT services Exports,9.01036,1.450518,True
+ACS (Association of Caribbean States),2019,ICT services Exports,3.26801,1.1634005,True
+ASEAN (Association of Southeast Asian Nations),2019,ICT services Exports,5.8044,1.2902200000000001,True
+APTA (Asia-Pacific Trade Agreement),2019,ICT services Exports,20.04971,2.0024855,True
+GCC (The Cooperation Council for the Arab States of the Gulf),2019,ICT services Exports,10.7006,1.53503,True
+SAARC (South Asian Association for Regional Cooperation),2019,ICT services Exports,28.30209,2.4151045,True
+"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea",2019,ICT services Exports,8.64717,1.4323584999999999,True
+ECO (Economic Cooperation Organization),2019,ICT services Exports,3.44981,1.1724904999999999,True
+African Union,2019,ICT services Exports,5.20184,1.260092,True
+"ADB (African Development Bank), developing member countries",2019,ICT services Exports,16.92078,1.8460390000000002,True
+ADB: Group A,2019,ICT services Exports,2.60726,1.130363,True
+ADB: Group B,2019,ICT services Exports,28.84013,2.4420064999999997,True
+ADB: Group C,2019,ICT services Exports,12.4129,1.6206450000000001,True
+ECA (Economic Commission for Africa),2019,ICT services Exports,5.14358,1.257179,True
+ECA: North Africa,2019,ICT services Exports,5.3404,1.26702,True
+ECA: East Africa,2019,ICT services Exports,5.62831,1.2814155,True
+ECA: Central Africa,2019,ICT services Exports,5.99579,1.2997895,True
+ECA: West Africa,2019,ICT services Exports,5.18001,1.2590005,True
+ECLAC (Economic Commission for Latin America and the Caribbean),2019,ICT services Exports,4.7414,1.23707,True
+ECLAC: Caribbean,2019,ICT services Exports,1.32314,1.066157,True
+ECLAC: Latin America,2019,ICT services Exports,5.21722,1.260861,True
+ESCAP (Economic and Social Commission for Asia and the Pacific),2019,ICT services Exports,10.2724,1.51362,True
+ESCAP: Africa,2019,ICT services Exports,5.20184,1.260092,True
+ESCAP: Latin America,2019,ICT services Exports,4.7414,1.23707,True
+ESCAP: Europe,2019,ICT services Exports,12.43697,1.6218485,True
+ESCAP: East and North-East Asia (ENEA),2019,ICT services Exports,9.03355,1.4516775,True
+ESCAP: North and Central Asia,2019,ICT services Exports,6.98392,1.349196,True
+ESCAP: South and South-West Asia,2019,ICT services Exports,22.31538,2.1157690000000002,True
+ESCAP: Pacific,2019,ICT services Exports,4.26063,1.2130315,True
+ESCAP: Pacific island developing economies (PIDE),2019,ICT services Exports,8.99304,1.449652,True
+ESCAP: Other area,2019,ICT services Exports,14.18893,1.7094464999999999,True
+"ESCAP: East and North-East Asia, incl. the Russian Federation",2019,ICT services Exports,8.99304,1.449652,True
+UNECE (Economic Commission for Europe),2019,ICT services Exports,10.69953,1.5349765,True
+"UNECE: Eastern Europe, Caucasus and Central Asia",2019,ICT services Exports,11.17764,1.558882,True
+UNECE: West Balkans,2019,ICT services Exports,8.62048,1.431024,True
+ESCWA (Economic and Social Commission for Western Asia),2019,ICT services Exports,8.41333,1.4206665,True
+ESCWA: Arab countries,2019,ICT services Exports,8.31283,1.4156415,True
+Honduras,2019,ICT services Exports,5.88135,1.2940675000000001,True
+EU25 (European Union 2004 … 2007),2019,ICT services Exports,12.611,1.63055,True
+EU15 (European Union 1995 … 2004),2019,ICT services Exports,12.76099,1.6380495,True
+Euro area,2019,ICT services Exports,14.14894,1.707447,True
+EU27 (European Union 2007 … 2013),2019,ICT services Exports,12.67895,1.6339475,True
+CEFTA (Central European Free Trade Agreement),2019,ICT services Exports,11.64367,1.5821835,True
+European Union (2020 …),2019,ICT services Exports,13.9044,1.69522,True
+Hungary,2019,ICT services Exports,8.6443,1.432215,True
+MSG (Melanesian Spearhead Group),2019,ICT services Exports,1.46677,1.0733385,True
+India,2019,ICT services Exports,30.15234,2.5076169999999998,True
+Indonesia,2019,ICT services Exports,4.14537,1.2072685,True
+Northern America and Europe,2019,ICT services Exports,10.62109,1.5310545000000002,True
+Central and Southern Asia,2019,ICT services Exports,26.1578,2.3078900000000004,True
+Eastern and South-Eastern Asia,2019,ICT services Exports,7.76676,1.388338,True
+Western Asia and Northern Africa,2019,ICT services Exports,10.35831,1.5179155,True
+Iraq,2019,ICT services Exports,1.33985,1.0669925,True
+Ireland,2019,ICT services Exports,51.34596,3.567298,True
+Israel,2019,ICT services Exports,29.51915,2.4759575,True
+Italy,2019,ICT services Exports,7.28998,1.364499,True
+APEC (Asia-Pacific Economic Cooperation),2019,ICT services Exports,6.71906,1.335953,True
+CIS (Commonwealth of Independent States),2019,ICT services Exports,9.26522,1.463261,True
+OECD (Organisation for Economic Cooperation and Development),2019,ICT services Exports,9.90134,1.495067,True
+OPEC (Organization of the Petroleum Exporting Countries),2019,ICT services Exports,10.55708,1.527854,True
+"ACP (African, Caribbean and Pacific Group of States)",2019,ICT services Exports,3.49129,1.1745645,True
+LAS (League of Arab States),2019,ICT services Exports,8.31283,1.4156415,True
+OIC (Organisation of Islamic Cooperation),2019,ICT services Exports,6.6026,1.33013,True
+OAS (Organization of American States),2019,ICT services Exports,5.30191,1.2650955,True
+G7 (Group of Seven),2019,ICT services Exports,6.38941,1.3194705,True
+G8 (Group of Eight),2019,ICT services Exports,6.44476,1.322238,True
+G20 (Group of Twenty),2019,ICT services Exports,11.17274,1.558637,True
+G-77 (Group of 77),2019,ICT services Exports,12.45831,1.6229155,True
+Japan,2019,ICT services Exports,3.12393,1.1561965,True
+GSTP (Global System of Trade Preferences among Developing Countries),2019,ICT services Exports,10.72493,1.5362465,True
+GSTP: Africa,2019,ICT services Exports,4.30707,1.2153535,True
+GSTP: Latin America,2019,ICT services Exports,4.82991,1.2414955,True
+GSTP: Asia,2019,ICT services Exports,12.3325,1.616625,True
+TPP (Trans-Pacific Partnership),2019,ICT services Exports,5.08531,1.2542655,True
+ACP: Africa,2019,ICT services Exports,4.92272,1.246136,True
+ACP: Western Africa,2019,ICT services Exports,5.25045,1.2625225,True
+ACP: Eastern Africa,2019,ICT services Exports,5.39248,1.2696239999999999,True
+ACP: Central Africa,2019,ICT services Exports,5.78133,1.2890665000000001,True
+ACP: Caribbean,2019,ICT services Exports,,,True
+ACP: Pacific,2019,ICT services Exports,1.855,1.09275,True
+ACP: LDCs,2019,ICT services Exports,5.21732,1.260866,True
+ACP: LLDCs,2019,ICT services Exports,5.41513,1.2707565,True
+ACP: islands states,2019,ICT services Exports,,,True
+ACP: Northern Africa,2019,ICT services Exports,0.00841,1.0004205,True
+Kazakhstan,2019,ICT services Exports,1.60171,1.0800855,True
+"Korea, Republic of",2019,ICT services Exports,3.39637,1.1698185,True
+Kuwait,2019,ICT services Exports,58.43777,3.9218885,True
+Kyrgyzstan,2019,ICT services Exports,1.11375,1.0556875,True
+Lesotho,2019,ICT services Exports,0.72126,1.036063,True
+Latvia,2019,ICT services Exports,13.8707,1.693535,True
+Malawi,2019,ICT services Exports,24.46886,2.223443,True
+Maldives,2019,ICT services Exports,1.43936,1.071968,True
+Malta,2019,ICT services Exports,0.70953,1.0354765,True
+Mauritius,2019,ICT services Exports,4.65415,1.2327075,True
+Mongolia,2019,ICT services Exports,2.90793,1.1453965,True
+"Moldova, Republic of",2019,ICT services Exports,15.51229,1.7756145,True
+Montenegro,2019,ICT services Exports,3.30816,1.165408,True
+Morocco,2019,ICT services Exports,8.15129,1.4075644999999999,True
+Mozambique,2019,ICT services Exports,2.51878,1.125939,True
+Africa,2019,ICT services Exports,5.14358,1.257179,True
+Northern Africa,2019,ICT services Exports,5.31428,1.265714,True
+Sub-Saharan Africa,2019,ICT services Exports,5.0106,1.25053,True
+Eastern Africa,2019,ICT services Exports,5.36397,1.2681985,True
+Middle Africa,2019,ICT services Exports,5.78133,1.2890665000000001,True
+Western Africa,2019,ICT services Exports,5.25045,1.2625225,True
+Namibia,2019,ICT services Exports,1.33883,1.0669415,True
+America,2019,ICT services Exports,5.26938,1.263469,True
+Northern America,2019,ICT services Exports,5.3762,1.26881,True
+Latin America and the Caribbean,2019,ICT services Exports,4.7414,1.23707,True
+Caribbean,2019,ICT services Exports,,,True
+Central America,2019,ICT services Exports,4.39601,1.2198005,True
+South America,2019,ICT services Exports,6.97231,1.3486155,True
+Netherlands,2019,ICT services Exports,7.61335,1.3806675,True
+Asia,2019,ICT services Exports,11.02927,1.5514635,True
+Curaçao,2019,ICT services Exports,2.56037,1.1280185,True
+Central Asia,2019,ICT services Exports,3.15242,1.157621,True
+Southern Asia,2019,ICT services Exports,27.62588,2.381294,True
+Eastern Asia,2019,ICT services Exports,8.87025,1.4435125,True
+Sint Maarten (Dutch part),2019,ICT services Exports,1.1182,1.05591,True
+Western Asia,2019,ICT services Exports,11.24825,1.5624125,True
+South-eastern Asia,2019,ICT services Exports,5.80349,1.2901745,True
+Europe,2019,ICT services Exports,12.35391,1.6176955,True
+Eastern Europe,2019,ICT services Exports,13.11896,1.655948,True
+Northern Europe,2019,ICT services Exports,19.95268,1.9976340000000001,True
+Southern Europe,2019,ICT services Exports,7.49612,1.374806,True
+Western Europe,2019,ICT services Exports,8.53492,1.426746,True
+Oceania,2019,ICT services Exports,4.26063,1.2130315,True
+Asia and Oceania,2019,ICT services Exports,10.6996,1.53498,True
+Nigeria,2019,ICT services Exports,4.28254,1.214127,True
+Norway,2019,ICT services Exports,5.76333,1.2881665,True
+Pakistan,2019,ICT services Exports,22.20233,2.1101165,True
+Panama,2019,ICT services Exports,2.11953,1.1059765,True
+Papua New Guinea,2019,ICT services Exports,0.9221,1.046105,True
+Paraguay,2019,ICT services Exports,1.29884,1.064942,True
+Philippines,2019,ICT services Exports,14.32103,1.7160515,True
+Poland,2019,ICT services Exports,11.62461,1.5812305000000002,True
+Portugal,2019,ICT services Exports,4.82453,1.2412265,True
+Timor-Leste,2019,ICT services Exports,1.43038,1.0715189999999999,True
+Romania,2019,ICT services Exports,18.26297,1.9131485,True
+Russian Federation,2019,ICT services Exports,8.51721,1.4258605,True
+Sao Tome and Principe,2019,ICT services Exports,0.88958,1.044479,True
+Serbia,2019,ICT services Exports,17.07813,1.8539065000000001,True
+Seychelles,2019,ICT services Exports,1.18698,1.059349,True
+Singapore,2019,ICT services Exports,6.99883,1.3499415,True
+Slovakia,2019,ICT services Exports,13.05879,1.6529395,True
+Viet Nam,2019,ICT services Exports,1.96879,1.0984395,True
+Slovenia,2019,ICT services Exports,6.718,1.3359,True
+Spain,2019,ICT services Exports,9.18538,1.459269,True
+Sudan,2019,ICT services Exports,0.00841,1.0004205,True
+Suriname,2019,ICT services Exports,6.65717,1.3328585,True
+Eswatini,2019,ICT services Exports,3.10955,1.1554775,True
+Sweden,2019,ICT services Exports,19.35869,1.9679345,True
+Tajikistan,2019,ICT services Exports,2.75336,1.1376680000000001,True
+Thailand,2019,ICT services Exports,0.85917,1.0429585,True
+Trinidad and Tobago,2019,ICT services Exports,2.06793,1.1033965000000001,True
+United Arab Emirates,2019,ICT services Exports,9.41438,1.4707189999999999,True
+Turkey,2019,ICT services Exports,2.22664,1.111332,True
+Uganda,2019,ICT services Exports,1.10861,1.0554305,True
+Ukraine,2019,ICT services Exports,24.83245,2.2416225,True
+North Macedonia,2019,ICT services Exports,12.33972,1.616986,True
+Egypt,2019,ICT services Exports,3.25766,1.162883,True
+United States of America,2019,ICT services Exports,5.09839,1.2549195,True
+Uruguay,2019,ICT services Exports,11.44591,1.5722955,True
+Uzbekistan,2019,ICT services Exports,5.28325,1.2641624999999999,True
+Samoa,2019,ICT services Exports,2.94409,1.1472045,True
+Zambia,2019,ICT services Exports,1.82655,1.0913275,True
+United Kingdom,2019,ICT services Exports,5.73625,1.2868125,True
