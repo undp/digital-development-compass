@@ -1,21 +1,21 @@
-2008,2009,2010,Country
-76.94,76.01,82.06,Austria
-79.33,77.31,86.52,Czech Republic
-87.53,86.08,88.08,Estonia
-No data,91.68,93.31,France
-83.46,87.9,89.34,Germany
-70.37,74.19,79.61,Hungary
-No data,No data,95.43,Iceland
-No data,76.11,86.84,Ireland
-No data,82.92,84.12,Italy
-No data,88.03,87.91,Luxembourg
-No data,86.38,90.93,Netherlands
-84.36,88.28,86.92,Norway
-59.12,58.47,69.34,Poland
-No data,81.7,84.75,Portugal
-73.72,78.37,78.32,Slovak Republic
-No data,No data,No data,Slovenia
-No data,93.04,95.44,Spain
-No data,88.3,91.41,Sweden
-No data,No data,88.86,Turkey
-No data,84.94,88.03,United Kingdom
+Country,2008,2009,2010
+Austria,76.94,76.01,82.06
+Czech Republic,79.33,77.31,86.52
+Estonia,87.53,86.08,88.08
+France,,91.68,93.31
+Germany,83.46,87.9,89.34
+Hungary,70.37,74.19,79.61
+Iceland,,,95.43
+Ireland,,76.11,86.84
+Italy,,82.92,84.12
+Luxembourg,,88.03,87.91
+Netherlands,,86.38,90.93
+Norway,84.36,88.28,86.92
+Poland,59.12,58.47,69.34
+Portugal,,81.7,84.75
+Slovak Republic,73.72,78.37,78.32
+Slovenia,,,
+Spain,,93.04,95.44
+Sweden,,88.3,91.41
+Turkey,,,88.86
+United Kingdom,,84.94,88.03
