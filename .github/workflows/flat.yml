@@ -245,7 +245,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://index.okfn.org/api/entries.csv
+           http_url: https://index.okfn.org/api/places.csv
            downloaded_filename: data/open_data_idx.csv
            postprocess: ./process_raw_data.js
 
