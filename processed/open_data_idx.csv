@@ -1,0 +1,95 @@
+id,site,name,slug,region,continent,rank,score
+tw,global,Taiwan,taiwan,,,1,90
+au,global,Australia,australia,,,2,79
+gb,global,Great Britain,united_kingdom,,,2,79
+fr,global,France,france,,,4,70
+fi,global,Finland,finland,,,5,69
+ca,global,Canada,canada,,,5,69
+no,global,Norway,norway,,,5,69
+br,global,Brazil,brazil,,,8,68
+nz,global,New Zealand,new_zealand,,,8,68
+nir,global,Northern Ireland,northern_ireland,,,10,67
+us,global,United States,United_states,,,11,65
+dk,global,Denmark,denmark,,,11,65
+mx,global,Mexico,mexico,,,11,65
+co,global,Colombia,colombia,,,14,64
+lv,global,Latvia,latvia,,,14,64
+jp,global,Japan,japan,,,16,61
+ar,global,Argentina,argentina,,,17,60
+sg,global,Singapore,singapore,,,17,60
+uy,global,Uruguay,uruguay,,,19,55
+nl,global,Netherlands,netherlands,,,20,54
+se,global,Sweden,sweden,,,21,53
+be,global,Belgium,belgium,,,22,52
+cl,global,Chile,chile,,,22,52
+de,global,Germany,germany,,,24,51
+hk,global,Hong Kong,hong_kong,,,24,51
+ro,global,Romania,romania,,,24,51
+cz,global,Czech Republic,czech_republic,,,27,50
+pl,global,Poland,poland,,,28,49
+at,global,Austria,austria,,,28,49
+si,global,Slovenia,slovenia,,,28,49
+ua,global,Ukraine,ukraine,,,31,48
+in,global,India,india,,,32,47
+it,global,Italy,italy,,,32,47
+sk,global,Slovakia,slovakia,,,32,47
+gr,global,Greece,greece,,,35,46
+bg,global,Bulgaria,bulgaria,,,36,45
+py,global,Paraguay,paraguay,,,37,44
+pr,global,Puerto Rico,puerto_rico,,,38,43
+ru,global,Russia,russia,,,38,43
+im,global,Isle of Man,isle_man,,,38,43
+rs,global,Serbia,serbia,,,41,41
+il,global,Israel,israel,,,41,41
+za,global,South Africa,south_africa,,,43,40
+hr,global,Croatia,croatia,,,44,39
+pt,global,Portugal,portugal,,,45,37
+tr,global,Turkey,turkey,,,45,37
+al,global,Albania,albania,,,47,36
+ch,global,Switzerland,switzerland,,,47,36
+sv,global,El Salvador,el_salvador,,,49,35
+me,global,Montenegro,montenegro,,,49,35
+th,global,Thailand,thailand,,,51,34
+mk,global,Macedonia,macedonia,,,52,31
+bo,global,Bolivia,bolivia,,,53,30
+ph,global,Philippines,philippines,,,53,30
+pe,global,Peru,peru,,,55,29
+gt,global,Guatemala,guatemala,,,56,28
+do,global,Dominican Republic,dominican_republic,,,57,27
+ba,global,Bosnia and Herzegovina,bosnia_and_herzegovina,,,58,26
+ko,global,Kosovo,kosovo,,,58,26
+jm,global,Jamaica,jamaica,,,58,26
+id,global,Indonesia,indonesia,,,61,25
+pa,global,Panama,panama,,,61,25
+bd,global,Bangladesh,bangladesh,,,61,25
+cr,global,Costa Rica,costa_rica,,,64,23
+bt,global,Bhutan,bhutan,,,64,23
+tn,global,Tunisia,tunisia,,,66,22
+ir,global,Iran,iran,,,67,21
+tt,global,Trinidad and Tobago,trinidad_tobago,,,67,21
+np,global,Nepal,nepal,,,69,20
+tz,global,Tanzania,tanzania,,,69,20
+gy,global,Guyana,guyana,,,69,20
+pk,global,Pakistan,pakistan,,,72,19
+zm,global,Zambia,zambia,,,72,19
+kh,global,Cambodia,cambodia,,,74,17
+bs,global,The Bahamas,bahamas,,,74,17
+ls,global,Lesotho,lesotho,,,76,16
+gh,global,Ghana,ghana,,,76,16
+na,global,Namibia,namibia,,,78,15
+lc,global,Saint Lucia,saint_lucia,,,78,15
+ke,global,Kenya,kenya,,,78,15
+om,global,Oman,oman,,,81,14
+ve,global,Venezuela,venezuela,,,81,14
+zw,global,Zimbabwe,zimbabwe,,,83,13
+mz,global,Mozambique,mozambique,,,84,12
+af,global,Afghanistan,afghanistan,,,84,12
+cm,global,Cameroon,cameroon,,,86,11
+my,global,Malaysia,malaysia,,,87,10
+bw,global,Botswana,botswana,,,88,9
+vc,global,Saint Vincent and the Grenadines,saint_vincent_grenadines,,,89,7
+ag,global,Antigua and Barbuda,Antigua_Barbuda,,,90,5
+mw,global,Malawi,malawi,,,90,5
+bb,global,Barbados,barbados,,,92,4
+kn,global,Saint Kitts and Nevis,saint_kitts_nevis,,,92,4
+mm,global,Myanmar,myanmar,,,94,1
