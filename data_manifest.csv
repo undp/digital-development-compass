@@ -27,7 +27,7 @@ time_start_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_developmen
 sdg_data,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx,3,1,,
 undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx,1,6,,
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv,,,,
-open_data_idx,csv,https://index.okfn.org/api/entries.csv,,,,
+open_data_idx,csv,https://index.okfn.org/api/places.csv,1,1,,
 population_digital_financial_services,xlsx,https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx,1,1,,
 ewaste_per_inhabitant,csv,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv,1,1,,
 global_wellbeing_initiative,xlsx,https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls,1,1,,
