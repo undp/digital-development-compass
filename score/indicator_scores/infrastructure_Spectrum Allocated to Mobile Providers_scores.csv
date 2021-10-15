@@ -1,0 +1,171 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+5,Afghanistan,2019,Spectrum Allocated to Mobile Providers,17.62,1.5776848591549295,True
+11,Angola,2019,Spectrum Allocated to Mobile Providers,48.22,3.261223591549296,True
+17,Albania,2019,Spectrum Allocated to Mobile Providers,52.85,3.5159551056338034,True
+23,United Arab Emirates,2019,Spectrum Allocated to Mobile Providers,82.44,5.143926056338028,True
+29,Argentina,2019,Spectrum Allocated to Mobile Providers,63.38,4.095290492957747,True
+35,Armenia,2019,Spectrum Allocated to Mobile Providers,21.43,1.7873019366197185,True
+41,Australia,2019,Spectrum Allocated to Mobile Providers,75.45,4.759352992957746,True
+47,Austria,2019,Spectrum Allocated to Mobile Providers,73.33,4.642715669014084,True
+53,Azerbaijan,2019,Spectrum Allocated to Mobile Providers,15.36,1.453345070422535,True
+59,Burundi,2019,Spectrum Allocated to Mobile Providers,16.29,1.5045114436619718,True
+65,Belgium,2019,Spectrum Allocated to Mobile Providers,58.62,3.833406690140845,True
+71,Benin,2019,Spectrum Allocated to Mobile Providers,61.31,3.9814040492957754,True
+77,Burkina Faso,2019,Spectrum Allocated to Mobile Providers,23.82,1.918794014084507,True
+83,Bangladesh,2019,Spectrum Allocated to Mobile Providers,19.97,1.706976232394366,True
+89,Bulgaria,2019,Spectrum Allocated to Mobile Providers,27.49,2.120708626760563,True
+95,Bahrain,2019,Spectrum Allocated to Mobile Providers,52.45,3.4939480633802824,True
+101,Bahamas,2019,Spectrum Allocated to Mobile Providers,51.41,3.436729753521127,True
+107,Bosnia and Herzegovina,2019,Spectrum Allocated to Mobile Providers,43.15,2.982284330985916,True
+113,Belarus,2019,Spectrum Allocated to Mobile Providers,19.99,1.7080765845070423,True
+119,Belize,2019,Spectrum Allocated to Mobile Providers,37.42,2.6670334507042255,True
+125,Bolivia,2019,Spectrum Allocated to Mobile Providers,36.34,2.607614436619719,True
+131,Brazil,2019,Spectrum Allocated to Mobile Providers,55.5,3.6617517605633805,True
+137,Barbados,2019,Spectrum Allocated to Mobile Providers,30.73,2.2989656690140845,True
+143,Brunei Darussalam,2019,Spectrum Allocated to Mobile Providers,31.25,2.327574823943662,True
+149,Bhutan,2019,Spectrum Allocated to Mobile Providers,67.5,4.321963028169014,True
+155,Botswana,2019,Spectrum Allocated to Mobile Providers,14.09,1.3834727112676057,True
+161,Central African Republic,2019,Spectrum Allocated to Mobile Providers,16.34,1.507262323943662,True
+167,Canada,2019,Spectrum Allocated to Mobile Providers,65.31,4.201474471830986,True
+173,Switzerland,2019,Spectrum Allocated to Mobile Providers,93.33,5.743067781690141,True
+179,Chile,2019,Spectrum Allocated to Mobile Providers,54.9,3.628741197183099,True
+185,China,2019,Spectrum Allocated to Mobile Providers,53.71,3.5632702464788735,True
+191,Cote d'Ivoire,2019,Spectrum Allocated to Mobile Providers,50.18,3.3690580985915495,True
+197,Cameroon,2019,Spectrum Allocated to Mobile Providers,20.12,1.7152288732394365,True
+203,"Congo, Democratic Republic",2019,Spectrum Allocated to Mobile Providers,21.62,1.797755281690141,True
+209,Congo,2019,Spectrum Allocated to Mobile Providers,16.34,1.507262323943662,True
+215,Colombia,2019,Spectrum Allocated to Mobile Providers,36.15,2.5971610915492955,True
+221,Comoros,2019,Spectrum Allocated to Mobile Providers,38.45,2.7237015845070425,True
+227,Cabo Verde,2019,Spectrum Allocated to Mobile Providers,17.62,1.5776848591549295,True
+233,Costa Rica,2019,Spectrum Allocated to Mobile Providers,28.9,2.198283450704225,True
+239,Cyprus,2019,Spectrum Allocated to Mobile Providers,58.95,3.8515625000000004,True
+245,Czechia,2019,Spectrum Allocated to Mobile Providers,70.54,4.489216549295775,True
+251,Germany,2019,Spectrum Allocated to Mobile Providers,82.88,5.168133802816901,True
+257,Denmark,2019,Spectrum Allocated to Mobile Providers,70.24,4.472711267605634,True
+263,Dominican Republic,2019,Spectrum Allocated to Mobile Providers,29.45,2.228543133802817,True
+269,Algeria,2019,Spectrum Allocated to Mobile Providers,21.59,1.7961047535211268,True
+275,Ecuador,2019,Spectrum Allocated to Mobile Providers,32.65,2.404599471830986,True
+281,Egypt,2019,Spectrum Allocated to Mobile Providers,23.91,1.9237455985915493,True
+287,Spain,2019,Spectrum Allocated to Mobile Providers,55.96,3.68705985915493,True
+293,Estonia,2019,Spectrum Allocated to Mobile Providers,63.03,4.076034330985916,True
+299,Ethiopia,2019,Spectrum Allocated to Mobile Providers,16.29,1.5045114436619718,True
+305,Finland,2019,Spectrum Allocated to Mobile Providers,93.08,5.72931338028169,True
+311,Fiji,2019,Spectrum Allocated to Mobile Providers,40.77,2.851342429577465,True
+317,France,2019,Spectrum Allocated to Mobile Providers,59.79,3.897777288732395,True
+323,Gabon,2019,Spectrum Allocated to Mobile Providers,20.17,1.7179797535211268,True
+329,United Kingdom,2019,Spectrum Allocated to Mobile Providers,56.78,3.732174295774648,True
+335,Georgia,2019,Spectrum Allocated to Mobile Providers,37.83,2.6895906690140845,True
+341,Ghana,2019,Spectrum Allocated to Mobile Providers,32.68,2.40625,True
+347,Guinea,2019,Spectrum Allocated to Mobile Providers,11.42,1.236575704225352,True
+353,Gambia,2019,Spectrum Allocated to Mobile Providers,13.29,1.3394586267605633,True
+359,Guinea-Bissau,2019,Spectrum Allocated to Mobile Providers,15.18,1.4434419014084507,True
+365,Greece,2019,Spectrum Allocated to Mobile Providers,60.52,3.9379401408450705,True
+371,Guatemala,2019,Spectrum Allocated to Mobile Providers,37.34,2.6626320422535215,True
+377,Guyana,2019,Spectrum Allocated to Mobile Providers,12.53,1.2976452464788732,True
+383,Hong Kong,2019,Spectrum Allocated to Mobile Providers,44.99,3.083516725352113,True
+389,Honduras,2019,Spectrum Allocated to Mobile Providers,34.52,2.507482394366197,True
+395,Croatia,2019,Spectrum Allocated to Mobile Providers,57.78,3.787191901408451,True
+401,Haiti,2019,Spectrum Allocated to Mobile Providers,22.65,1.8544234154929577,True
+407,Hungary,2019,Spectrum Allocated to Mobile Providers,62.17,4.028719190140845,True
+413,Indonesia,2019,Spectrum Allocated to Mobile Providers,24.01,1.9292473591549295,True
+419,India,2019,Spectrum Allocated to Mobile Providers,21.5,1.7911531690140845,True
+425,Ireland,2019,Spectrum Allocated to Mobile Providers,61.15,3.972601232394366,True
+431,Iran,2019,Spectrum Allocated to Mobile Providers,30.35,2.2780589788732395,True
+437,Iraq,2019,Spectrum Allocated to Mobile Providers,21.5,1.7911531690140845,True
+443,Iceland,2019,Spectrum Allocated to Mobile Providers,69.62,4.438600352112677,True
+449,Israel,2019,Spectrum Allocated to Mobile Providers,19.93,1.704775528169014,True
+455,Italy,2019,Spectrum Allocated to Mobile Providers,67.75,4.335717429577466,True
+461,Jamaica,2019,Spectrum Allocated to Mobile Providers,45.38,3.104973591549296,True
+467,Jordan,2019,Spectrum Allocated to Mobile Providers,27.51,2.1218089788732395,True
+473,Japan,2019,Spectrum Allocated to Mobile Providers,83.91,5.224801936619718,True
+479,Kazakhstan,2019,Spectrum Allocated to Mobile Providers,31.05,2.3165713028169015,True
+485,Kenya,2019,Spectrum Allocated to Mobile Providers,36.56,2.619718309859155,True
+491,Kyrgyzstan,2019,Spectrum Allocated to Mobile Providers,39.52,2.782570422535212,True
+497,Cambodia,2019,Spectrum Allocated to Mobile Providers,21.14,1.7713468309859155,True
+503,"Korea, South",2019,Spectrum Allocated to Mobile Providers,48.76,3.2909330985915495,True
+509,Kuwait,2019,Spectrum Allocated to Mobile Providers,35.15,2.542143485915493,True
+515,Laos,2019,Spectrum Allocated to Mobile Providers,22.88,1.8670774647887323,True
+521,Lebanon,2019,Spectrum Allocated to Mobile Providers,53.66,3.560519366197183,True
+527,Liberia,2019,Spectrum Allocated to Mobile Providers,17.62,1.5776848591549295,True
+533,Libya,2019,Spectrum Allocated to Mobile Providers,38.85,2.7457086267605635,True
+539,Saint Lucia,2019,Spectrum Allocated to Mobile Providers,11.44,1.2376760563380282,True
+545,Sri Lanka,2019,Spectrum Allocated to Mobile Providers,25.23,1.996368838028169,True
+551,Lesotho,2019,Spectrum Allocated to Mobile Providers,51.84,3.4603873239436624,True
+557,Lithuania,2019,Spectrum Allocated to Mobile Providers,57.56,3.7750880281690145,True
+563,Luxembourg,2019,Spectrum Allocated to Mobile Providers,59.39,3.8757702464788735,True
+569,Latvia,2019,Spectrum Allocated to Mobile Providers,73.1,4.63006161971831,True
+575,Morocco,2019,Spectrum Allocated to Mobile Providers,53.06,3.527508802816902,True
+581,Moldova,2019,Spectrum Allocated to Mobile Providers,39.21,2.765514964788733,True
+587,Madagascar,2019,Spectrum Allocated to Mobile Providers,23.28,1.8890845070422535,True
+593,Maldives,2019,Spectrum Allocated to Mobile Providers,66.02,4.240536971830986,True
+599,Mexico,2019,Spectrum Allocated to Mobile Providers,71.49,4.541483274647887,True
+605,North Macedonia,2019,Spectrum Allocated to Mobile Providers,65.85,4.23118397887324,True
+611,Mali,2019,Spectrum Allocated to Mobile Providers,12.87,1.3163512323943662,True
+617,Malta,2019,Spectrum Allocated to Mobile Providers,56.07,3.693111795774648,True
+623,Myanmar,2019,Spectrum Allocated to Mobile Providers,27.1,2.0992517605633805,True
+629,Montenegro,2019,Spectrum Allocated to Mobile Providers,55.37,3.654599471830986,True
+635,Mongolia,2019,Spectrum Allocated to Mobile Providers,47.0,3.1941021126760565,True
+641,Mozambique,2019,Spectrum Allocated to Mobile Providers,35.27,2.5487455985915495,True
+647,Mauritania,2019,Spectrum Allocated to Mobile Providers,29.85,2.250550176056338,True
+653,Mauritius,2019,Spectrum Allocated to Mobile Providers,7.25,1.0071522887323943,True
+659,Malawi,2019,Spectrum Allocated to Mobile Providers,30.11,2.264854753521127,True
+665,Malaysia,2019,Spectrum Allocated to Mobile Providers,38.89,2.7479093309859155,True
+671,Namibia,2019,Spectrum Allocated to Mobile Providers,31.34,2.332526408450704,True
+677,Niger,2019,Spectrum Allocated to Mobile Providers,7.12,1.0,True
+683,Nigeria,2019,Spectrum Allocated to Mobile Providers,33.93,2.4750220070422535,True
+689,Nicaragua,2019,Spectrum Allocated to Mobile Providers,49.94,3.3558538732394365,True
+695,Netherlands,2019,Spectrum Allocated to Mobile Providers,63.33,4.092539612676056,True
+701,Norway,2019,Spectrum Allocated to Mobile Providers,82.38,5.140625,True
+707,Nepal,2019,Spectrum Allocated to Mobile Providers,25.02,1.9848151408450705,True
+713,New Zealand,2019,Spectrum Allocated to Mobile Providers,74.93,4.73074383802817,True
+719,Oman,2019,Spectrum Allocated to Mobile Providers,65.99,4.238886443661972,True
+725,Pakistan,2019,Spectrum Allocated to Mobile Providers,20.14,1.7163292253521125,True
+731,Panama,2019,Spectrum Allocated to Mobile Providers,32.27,2.383692781690141,True
+737,Peru,2019,Spectrum Allocated to Mobile Providers,49.02,3.3052376760563384,True
+743,Philippines,2019,Spectrum Allocated to Mobile Providers,98.0,6.0,True
+749,Papua New Guinea,2019,Spectrum Allocated to Mobile Providers,45.31,3.10112235915493,True
+755,Poland,2019,Spectrum Allocated to Mobile Providers,47.03,3.1957526408450705,True
+761,Portugal,2019,Spectrum Allocated to Mobile Providers,55.27,3.649097711267606,True
+767,Paraguay,2019,Spectrum Allocated to Mobile Providers,44.47,3.0549075704225355,True
+773,Qatar,2019,Spectrum Allocated to Mobile Providers,64.66,4.165713028169014,True
+779,Romania,2019,Spectrum Allocated to Mobile Providers,47.33,3.2122579225352115,True
+785,Russian Federation,2019,Spectrum Allocated to Mobile Providers,41.36,2.883802816901409,True
+791,Rwanda,2019,Spectrum Allocated to Mobile Providers,64.65,4.165162852112676,True
+797,Saudi Arabia,2019,Spectrum Allocated to Mobile Providers,80.0,5.009683098591549,True
+803,Sudan,2019,Spectrum Allocated to Mobile Providers,32.5,2.3963468309859155,True
+809,Senegal,2019,Spectrum Allocated to Mobile Providers,36.25,2.602662852112676,True
+815,Singapore,2019,Spectrum Allocated to Mobile Providers,71.43,4.53818221830986,True
+821,Solomon Islands,2019,Spectrum Allocated to Mobile Providers,36.88,2.637323943661972,True
+827,Sierra Leone,2019,Spectrum Allocated to Mobile Providers,8.26,1.0627200704225352,True
+833,El Salvador,2019,Spectrum Allocated to Mobile Providers,21.58,1.7955545774647885,True
+839,Serbia,2019,Spectrum Allocated to Mobile Providers,44.2,3.040052816901409,True
+845,South Sudan,2019,Spectrum Allocated to Mobile Providers,16.29,1.5045114436619718,True
+851,Suriname,2019,Spectrum Allocated to Mobile Providers,33.59,2.456316021126761,True
+857,Slovakia,2019,Spectrum Allocated to Mobile Providers,48.16,3.2579225352112675,True
+863,Slovenia,2019,Spectrum Allocated to Mobile Providers,48.2,3.2601232394366204,True
+869,Sweden,2019,Spectrum Allocated to Mobile Providers,58.17,3.8086487676056344,True
+875,Eswatini,2019,Spectrum Allocated to Mobile Providers,23.14,1.881382042253521,True
+881,Chad,2019,Spectrum Allocated to Mobile Providers,18.02,1.5996919014084505,True
+887,Togo,2019,Spectrum Allocated to Mobile Providers,24.38,1.9496038732394365,True
+893,Thailand,2019,Spectrum Allocated to Mobile Providers,43.65,3.009793133802817,True
+899,Tajikistan,2019,Spectrum Allocated to Mobile Providers,31.05,2.3165713028169015,True
+905,Timor-Leste,2019,Spectrum Allocated to Mobile Providers,28.46,2.174075704225352,True
+911,Tonga,2019,Spectrum Allocated to Mobile Providers,24.48,1.955105633802817,True
+917,Trinidad and Tobago,2019,Spectrum Allocated to Mobile Providers,56.05,3.692011443661972,True
+923,Tunisia,2019,Spectrum Allocated to Mobile Providers,46.34,3.157790492957747,True
+929,Turkey,2019,Spectrum Allocated to Mobile Providers,59.48,3.880721830985916,True
+935,Tanzania,2019,Spectrum Allocated to Mobile Providers,27.64,2.128961267605634,True
+941,Uganda,2019,Spectrum Allocated to Mobile Providers,23.28,1.8890845070422535,True
+947,Ukraine,2019,Spectrum Allocated to Mobile Providers,35.21,2.545444542253521,True
+953,Uruguay,2019,Spectrum Allocated to Mobile Providers,64.87,4.177266725352114,True
+959,United States of America,2019,Spectrum Allocated to Mobile Providers,62.56,4.050176056338029,True
+965,Uzbekistan,2019,Spectrum Allocated to Mobile Providers,31.05,2.3165713028169015,True
+971,Saint Vincent and the Grenadines,2019,Spectrum Allocated to Mobile Providers,47.66,3.230413732394366,True
+977,Venezuela,2019,Spectrum Allocated to Mobile Providers,22.92,1.8692781690140845,True
+983,Vietnam,2019,Spectrum Allocated to Mobile Providers,20.59,1.741087147887324,True
+989,Vanuatu,2019,Spectrum Allocated to Mobile Providers,16.34,1.507262323943662,True
+995,Samoa,2019,Spectrum Allocated to Mobile Providers,30.78,2.301716549295775,True
+1001,Yemen,2019,Spectrum Allocated to Mobile Providers,18.55,1.6288512323943662,True
+1007,South Africa,2019,Spectrum Allocated to Mobile Providers,30.66,2.295114436619718,True
+1013,Zambia,2019,Spectrum Allocated to Mobile Providers,23.28,1.8890845070422535,True
+1019,Zimbabwe,2019,Spectrum Allocated to Mobile Providers,29.95,2.256051936619718,True

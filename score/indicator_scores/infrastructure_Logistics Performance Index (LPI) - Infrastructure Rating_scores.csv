@@ -1,0 +1,161 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Germany,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.39,5.957805907172995,True
+1,Sweden,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.28,5.725738396624473,True
+2,Belgium,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.41,6.0,True
+3,Austria,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.25,5.662447257383966,True
+4,Japan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.25,5.662447257383966,True
+5,Netherlands,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.25,5.662447257383966,True
+6,Singapore,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.32,5.810126582278482,True
+7,Denmark,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.41,6.0,True
+8,United Kingdom,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.33,5.8312236286919825,True
+9,Finland,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.28,5.725738396624473,True
+10,United Arab Emirates,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.38,5.936708860759493,True
+11,"Hong Kong SAR, China",2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.14,5.430379746835442,True
+12,Switzerland,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.24,5.641350210970464,True
+13,United States,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.08,5.30379746835443,True
+14,New Zealand,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.26,5.683544303797468,True
+15,France,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.15,5.451476793248945,True
+16,Spain,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.06,5.261603375527425,True
+17,Australia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.98,5.092827004219409,True
+18,Italy,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.13,5.40928270042194,True
+19,Canada,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.96,5.0506329113924044,True
+20,Norway,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.94,5.0084388185654,True
+21,Czech Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.13,5.40928270042194,True
+22,Portugal,2018,Logistics Performance Index (LPI) - Infrastructure Rating,4.13,5.40928270042194,True
+23,Luxembourg,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.9,4.924050632911392,True
+24,"Korea, Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.92,4.966244725738395,True
+25,China,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.84,4.7974683544303796,True
+26,"Taiwan, China",2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.72,4.544303797468354,True
+27,Poland,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.95,5.029535864978903,True
+28,Ireland,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.76,4.628691983122362,True
+29,Qatar,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.7,4.5021097046413505,True
+30,Hungary,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.79,4.691983122362869,True
+31,Thailand,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.81,4.734177215189873,True
+32,South Africa,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.74,4.586497890295359,True
+33,Chile,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.8,4.71308016877637,True
+34,Slovenia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.7,4.5021097046413505,True
+35,Estonia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.8,4.71308016877637,True
+36,Israel,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.59,4.270042194092826,True
+37,Panama,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.6,4.291139240506329,True
+38,Vietnam,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.67,4.438818565400843,True
+39,Iceland,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.7,4.5021097046413505,True
+40,Malaysia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.46,3.9957805907172994,True
+41,Greece,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.66,4.417721518987342,True
+42,Oman,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.8,4.71308016877637,True
+43,India,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.5,4.080168776371307,True
+44,Cyprus,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.62,4.333333333333334,True
+45,Indonesia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.67,4.438818565400843,True
+46,Turkey,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.63,4.3544303797468356,True
+47,Romania,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.68,4.459915611814346,True
+48,Croatia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.59,4.270042194092826,True
+49,Côte d'Ivoire,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.23,3.510548523206751,True
+50,Mexico,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.53,4.143459915611814,True
+51,Bulgaria,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.31,3.679324894514768,True
+52,Slovak Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.14,3.320675105485232,True
+53,Lithuania,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.65,4.396624472573839,True
+54,Saudi Arabia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.3,3.6582278481012653,True
+55,Brazil,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.51,4.101265822784809,True
+56,Rwanda,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.35,3.7637130801687766,True
+57,Colombia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.17,3.383966244725738,True
+58,Bahrain,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.29,3.6371308016877637,True
+59,Philippines,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.98,2.9831223628691976,True
+60,Argentina,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.37,3.8059071729957807,True
+61,Ecuador,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.19,3.4261603375527425,True
+62,Kuwait,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.37,3.8059071729957807,True
+63,"Iran, Islamic Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.36,3.7848101265822782,True
+64,Serbia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.33,3.721518987341772,True
+65,Ukraine,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.42,3.9113924050632907,True
+66,"Egypt, Arab Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.19,3.4261603375527425,True
+67,Kenya,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.18,3.405063291139241,True
+68,Malta,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.01,3.046413502109704,True
+69,Latvia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.88,2.772151898734177,True
+70,Kazakhstan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.53,4.143459915611814,True
+71,Bosnia and Herzegovina,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.21,3.4683544303797467,True
+72,Costa Rica,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.16,3.3628691983122363,True
+73,Paraguay,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.45,3.9746835443037978,True
+74,Russian Federation,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.31,3.679324894514768,True
+75,Benin,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.42,3.9113924050632907,True
+76,Montenegro,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.33,3.721518987341772,True
+77,Mauritius,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.0,3.0253164556962022,True
+78,Lebanon,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.18,3.405063291139241,True
+79,Brunei Darussalam,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.17,3.383966244725738,True
+80,"Macedonia, FYR",2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.03,3.0886075949367084,True
+81,Lao PDR,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.84,2.6877637130801686,True
+82,Peru,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.45,3.9746835443037978,True
+83,Jordan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.18,3.405063291139241,True
+84,Uruguay,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.91,2.8354430379746836,True
+85,Maldives,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.32,3.7004219409282695,True
+86,Dominican Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.98,2.9831223628691976,True
+87,Albania,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.2,3.447257383966245,True
+88,São Tomé and Principe,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.01,3.046413502109704,True
+89,Djibouti,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.15,3.341772151898734,True
+90,Burkina Faso,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.04,3.109704641350211,True
+91,Armenia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.9,2.814345991561181,True
+92,Honduras,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.83,2.666666666666667,True
+93,Sri Lanka,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.79,2.5822784810126582,True
+94,Cameroon,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.57,2.1181434599156113,True
+95,Mali,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.83,2.666666666666667,True
+96,Malawi,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.98,2.9831223628691976,True
+97,Cambodia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.16,3.3628691983122363,True
+98,Uzbekistan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.09,3.215189873417721,True
+99,Bangladesh,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.92,2.856540084388185,True
+100,El Salvador,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.1,3.236286919831224,True
+101,Uganda,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.9,2.814345991561181,True
+102,Belarus,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.18,3.405063291139241,True
+103,Solomon Islands,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.12,3.278481012658228,True
+104,Tunisia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.24,3.5316455696202533,True
+105,Ghana,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.87,2.7510548523206753,True
+106,Comoros,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.8,2.60337552742616,True
+107,Kyrgyz Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.94,2.8987341772151898,True
+108,Morocco,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.88,2.772151898734177,True
+109,Nigeria,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.07,3.1729957805907167,True
+110,Zambia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.05,3.1308016877637126,True
+111,"Bahamas, The",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.75,2.4978902953586495,True
+112,Jamaica,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.79,2.5822784810126582,True
+113,Nepal,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.1,3.236286919831224,True
+114,"Congo, Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.95,2.9198312236286923,True
+115,Moldova,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.17,3.383966244725738,True
+116,Algeria,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.76,2.518987341772151,True
+117,Togo,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.88,2.772151898734177,True
+118,Georgia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.95,2.9198312236286923,True
+119,"Congo, Dem. Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.69,2.371308016877637,True
+120,Sudan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.62,2.2236286919831225,True
+121,Pakistan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.66,2.3080168776371313,True
+122,Chad,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.62,2.2236286919831225,True
+123,Trinidad and Tobago,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.53,2.033755274261603,True
+124,Guatemala,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.11,3.2573839662447255,True
+125,Turkmenistan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.72,2.4345991561181437,True
+126,"Gambia, The",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.71,2.413502109704641,True
+127,Madagascar,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.73,2.4556962025316453,True
+128,Guinea-Bissau,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.86,2.7299578059071727,True
+129,Mongolia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.06,3.151898734177215,True
+130,Bolivia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.74,2.476793248945148,True
+131,Guyana,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.65,2.2869198312236283,True
+132,Fiji,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.54,2.0548523206751055,True
+133,Tajikistan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.95,2.9198312236286923,True
+134,Mauritania,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.68,2.3502109704641354,True
+135,Equatorial Guinea,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.75,2.4978902953586495,True
+136,Myanmar,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.91,2.8354430379746836,True
+137,Syrian Arab Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.44,1.8438818565400843,True
+138,Lesotho,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.7,2.3924050632911396,True
+139,"Yemen, Rep.",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.43,1.8227848101265827,True
+140,Senegal,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.52,2.0126582278481013,True
+141,"Venezuela, RB",2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.58,2.1392405063291138,True
+142,Liberia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,3.25,3.552742616033755,True
+143,Somalia,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.2,1.337552742616034,True
+144,Guinea,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.04,1.0,True
+145,Cuba,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.46,1.8860759493670884,True
+146,Iraq,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.72,2.4345991561181437,True
+147,Papua New Guinea,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.44,1.8438818565400843,True
+148,Bhutan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.49,1.949367088607595,True
+149,Gabon,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.67,2.329113924050633,True
+150,Central African Republic,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.33,1.6118143459915613,True
+151,Zimbabwe,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.39,1.738396624472574,True
+152,Haiti,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.44,1.8438818565400843,True
+153,Libya,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.77,2.5400843881856536,True
+154,Eritrea,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.08,1.0843881856540085,True
+155,Sierra Leone,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.34,1.632911392405063,True
+156,Niger,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.33,1.6118143459915613,True
+157,Burundi,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.17,1.2742616033755272,True
+158,Angola,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.59,2.1603375527426154,True
+159,Afghanistan,2018,Logistics Performance Index (LPI) - Infrastructure Rating,2.38,1.7172995780590714,True

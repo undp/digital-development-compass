@@ -1,0 +1,163 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,1. Hong Kong,2017,Banking Ecosystem size,256.63,6.0,True
+1,2. China,2017,Banking Ecosystem size,174.54,4.380612325416239,True
+2,3. Denmark,2017,Banking Ecosystem size,172.28,4.3360293537441805,True
+3,4. New Zealand,2017,Banking Ecosystem size,157.73,4.049001814882033,True
+4,5. Japan,2017,Banking Ecosystem size,157.51,4.044661879586522,True
+5,6. Lebanon,2017,Banking Ecosystem size,157.18,4.038151976643258,True
+6,7. Singapore,2017,Banking Ecosystem size,151.67,3.9294563244693443,True
+7,8. Qatar,2017,Banking Ecosystem size,149.95,3.8955259212499014,True
+8,9. South Korea,2017,Banking Ecosystem size,141.52,3.7292274915173995,True
+9,10. Australia,2017,Banking Ecosystem size,140.47,3.708514163970646,True
+10,11. Thailand,2017,Banking Ecosystem size,138.96,3.678726426260554,True
+11,12. Vietnam,2017,Banking Ecosystem size,137.43,3.6485441489781425,True
+12,13. Sweden,2017,Banking Ecosystem size,135.27,3.6059338751676795,True
+13,14. Norway,2017,Banking Ecosystem size,134.37,3.58817959441332,True
+14,15. Malaysia,2017,Banking Ecosystem size,131.91,3.5396512270180702,True
+15,16. UK,2017,Banking Ecosystem size,131.7,3.535508561508719,True
+16,17. Spain,2017,Banking Ecosystem size,129.89,3.49980273021384,True
+17,18. Portugal,2017,Banking Ecosystem size,125.85,3.4201057366053815,True
+18,19. Netherlands,2017,Banking Ecosystem size,123.33,3.3703937504931742,True
+19,20. Mauritius,2017,Banking Ecosystem size,121.75,3.3392251242799653,True
+20,21. Italy,2017,Banking Ecosystem size,118.1,3.267221652331729,True
+21,22. Jordan,2017,Banking Ecosystem size,113.97,3.185749230647834,True
+22,23. France,2017,Banking Ecosystem size,112.95,3.1656277124595595,True
+23,24. Greece,2017,Banking Ecosystem size,112.26,3.152016097214551,True
+24,25. San Marino,2017,Banking Ecosystem size,110.9,3.125187406296851,True
+25,26. UA Emirates,2017,Banking Ecosystem size,109.65,3.1005286830269077,True
+26,27. Luxembourg,2017,Banking Ecosystem size,109.09,3.089481575001973,True
+27,28. Kuwait,2017,Banking Ecosystem size,108.57,3.079223546121676,True
+28,29. Macao,2017,Banking Ecosystem size,108.2,3.0719245640337722,True
+29,30. Barbados,2017,Banking Ecosystem size,106.1,3.0304979089402666,True
+30,31. Brazil,2017,Banking Ecosystem size,105.26,3.0139272469028646,True
+31,32. Finland,2017,Banking Ecosystem size,100.34,2.916870512112365,True
+32,33. Austria,2017,Banking Ecosystem size,97.14,2.8537441805413084,True
+33,34. Malta,2017,Banking Ecosystem size,92.55,2.763197348694074,True
+34,35. Iceland,2017,Banking Ecosystem size,92.05,2.753333859386096,True
+35,36. Germany,2017,Banking Ecosystem size,91.07,2.73400142034246,True
+36,37. Tunisia,2017,Banking Ecosystem size,90.0,2.712893553223388,True
+37,38. Egypt,2017,Banking Ecosystem size,89.26,2.6982955890475813,True
+38,39. Oman,2017,Banking Ecosystem size,88.57,2.684683973802572,True
+39,40. Nepal,2017,Banking Ecosystem size,85.42,2.6225439911623134,True
+40,41. Morocco,2017,Banking Ecosystem size,84.1,2.596504379389253,True
+41,42. Croatia,2017,Banking Ecosystem size,82.69,2.5686893395407555,True
+42,43. Panama,2017,Banking Ecosystem size,81.4,2.543241537126174,True
+43,44. Chile,2017,Banking Ecosystem size,81.11,2.5375207133275466,True
+44,45. Belgium,2017,Banking Ecosystem size,80.91,2.5335753176043556,True
+45,46. Cambodia,2017,Banking Ecosystem size,80.17,2.518977353428549,True
+46,47. Saint Lucia,2017,Banking Ecosystem size,79.43,2.504379389252742,True
+47,48. South Africa,2017,Banking Ecosystem size,77.97,2.4755780004734476,True
+48,49. Fiji,2017,Banking Ecosystem size,77.03,2.4570346405744496,True
+49,50. Turkey,2017,Banking Ecosystem size,72.94,2.3763512980351926,True
+50,51. Israel,2017,Banking Ecosystem size,72.69,2.371419553381204,True
+51,52. Aruba,2017,Banking Ecosystem size,72.35,2.3647123806517794,True
+52,53. Bahamas,2017,Banking Ecosystem size,70.71,2.3323601357216126,True
+53,54. Poland,2017,Banking Ecosystem size,70.11,2.3205239485520397,True
+54,55. Slovakia,2017,Banking Ecosystem size,68.45,2.287777164049554,True
+55,56. India,2017,Banking Ecosystem size,68.35,2.2858044661879586,True
+56,57. Estonia,2017,Banking Ecosystem size,67.42,2.2674583760751204,True
+57,58. Vanuatu,2017,Banking Ecosystem size,67.02,2.259567584628738,True
+58,59. Costa Rica,2017,Banking Ecosystem size,66.89,2.2570030774086645,True
+59,60. Sri Lanka,2017,Banking Ecosystem size,66.09,2.2412214945158997,True
+60,61. Saudi Arabia,2017,Banking Ecosystem size,65.46,2.228793497987848,True
+61,62. USA,2017,Banking Ecosystem size,62.45,2.169415292353823,True
+62,63. Czechia,2017,Banking Ecosystem size,61.28,2.1463347273731554,True
+63,64. Belize,2017,Banking Ecosystem size,61.12,2.1431784107946026,True
+64,65. Bosnia & Herz.,2017,Banking Ecosystem size,60.93,2.1394302848575713,True
+65,66. Bulgaria,2017,Banking Ecosystem size,60.86,2.1380493963544542,True
+66,67. Georgia,2017,Banking Ecosystem size,60.81,2.1370630474236565,True
+67,68. Honduras,2017,Banking Ecosystem size,60.8,2.136865777637497,True
+68,69. Mongolia,2017,Banking Ecosystem size,60.6,2.132920381914306,True
+69,70. Ant.& Barb.,2017,Banking Ecosystem size,60.53,2.1315394934111893,True
+70,71. Namibia,2017,Banking Ecosystem size,60.0,2.121084194744733,True
+71,72. Slovenia,2017,Banking Ecosystem size,58.99,2.1011599463426185,True
+72,73. Montenegro,2017,Banking Ecosystem size,58.98,2.1009626765564584,True
+73,74. Tr.&Tobago,2017,Banking Ecosystem size,58.51,2.0916909966069595,True
+74,75. Philippines,2017,Banking Ecosystem size,58.33,2.0881401404560878,True
+75,76. Algeria,2017,Banking Ecosystem size,58.27,2.0869565217391304,True
+76,77. Russia,2017,Banking Ecosystem size,58.08,2.0832083958020986,True
+77,78. Bangladesh,2017,Banking Ecosystem size,57.37,2.0692022409847706,True
+78,79. St. Vincent & ...,2017,Banking Ecosystem size,57.23,2.0664404639785365,True
+79,80. Dominica,2017,Banking Ecosystem size,57.06,2.0630868776138245,True
+80,81. Albania,2017,Banking Ecosystem size,56.78,2.0575633236013573,True
+81,82. Bolivia,2017,Banking Ecosystem size,55.92,2.0405981219916356,True
+82,83. Bhutan,2017,Banking Ecosystem size,55.72,2.0366527262684446,True
+83,84. Grenada,2017,Banking Ecosystem size,54.94,2.0212656829479996,True
+84,85. Colombia,2017,Banking Ecosystem size,54.41,2.0108103842815437,True
+85,86. Hungary,2017,Banking Ecosystem size,54.3,2.0086404166337886,True
+86,87. Togo,2017,Banking Ecosystem size,53.94,2.0015387043320443,True
+87,88. Armenia,2017,Banking Ecosystem size,53.87,2.0001578158289277,True
+88,89. North Macedonia,2017,Banking Ecosystem size,53.54,1.9936479128856623,True
+89,90. Palestine,2017,Banking Ecosystem size,53.12,1.9853625818669611,True
+90,91. El Salvador,2017,Banking Ecosystem size,51.88,1.9609011283831768,True
+91,92. Ireland,2017,Banking Ecosystem size,50.8,1.9395959914779453,True
+92,93. Seychelles,2017,Banking Ecosystem size,48.58,1.8958020989505247,True
+93,94. Samoa,2017,Banking Ecosystem size,47.82,1.8808095952023987,True
+94,95. Latvia,2017,Banking Ecosystem size,46.93,1.8632525842341985,True
+95,96. Ukraine,2017,Banking Ecosystem size,46.43,1.853389094926221,True
+96,97. Belarus,2017,Banking Ecosystem size,45.89,1.8427365264736053,True
+97,98. Guyana,2017,Banking Ecosystem size,45.58,1.836621163102659,True
+98,99. Libya,2017,Banking Ecosystem size,45.12,1.8275467529393197,True
+99,100. Tonga,2017,Banking Ecosystem size,44.68,1.8188668823482994,True
+100,101. Lithuania,2017,Banking Ecosystem size,44.63,1.8178805334175019,True
+101,102. Maldives,2017,Banking Ecosystem size,44.63,1.8178805334175019,True
+102,103. Pakistan,2017,Banking Ecosystem size,44.58,1.816894184486704,True
+103,104. Mozambique,2017,Banking Ecosystem size,44.03,1.8060443462479285,True
+104,105. Brunei,2017,Banking Ecosystem size,43.42,1.794010889292196,True
+105,106. Kenya,2017,Banking Ecosystem size,42.88,1.7833583208395802,True
+106,107. Peru,2017,Banking Ecosystem size,41.52,1.756529629921881,True
+107,108. Burma,2017,Banking Ecosystem size,41.47,1.7555432809910834,True
+108,109. Mexico,2017,Banking Ecosystem size,41.26,1.7514006154817328,True
+109,110. Guatemala,2017,Banking Ecosystem size,40.84,1.7431152844630318,True
+110,111. Paraguay,2017,Banking Ecosystem size,40.78,1.7419316657460744,True
+111,112. Suriname,2017,Banking Ecosystem size,39.76,1.7218101475577998,True
+112,113. Nicaragua,2017,Banking Ecosystem size,39.07,1.708198532312791,True
+113,114. Indonesia,2017,Banking Ecosystem size,38.08,1.6886688234829954,True
+114,115. Romania,2017,Banking Ecosystem size,36.68,1.661051053420658,True
+115,116. Senegal,2017,Banking Ecosystem size,36.33,1.6541466109050735,True
+116,117. Burkina Faso,2017,Banking Ecosystem size,36.22,1.6519766432573186,True
+117,118. Papua N.G.,2017,Banking Ecosystem size,34.36,1.6152844630316419,True
+118,119. Benin,2017,Banking Ecosystem size,34.15,1.6111417975222913,True
+119,120. Mali,2017,Banking Ecosystem size,33.42,1.5967411031326442,True
+120,121. Botswana,2017,Banking Ecosystem size,33.24,1.5931902469817723,True
+121,122. Angola,2017,Banking Ecosystem size,32.79,1.5843131066045923,True
+122,123. Ivory Coast,2017,Banking Ecosystem size,32.61,1.5807622504537204,True
+123,124. Djibouti,2017,Banking Ecosystem size,32.09,1.5705042215734237,True
+124,125. Ecuador,2017,Banking Ecosystem size,31.58,1.5604434624792867,True
+125,126. Domin. Rep.,2017,Banking Ecosystem size,31.14,1.5517635918882664,True
+126,127. Kazakhstan,2017,Banking Ecosystem size,30.1,1.531247534127673,True
+127,128. Uruguay,2017,Banking Ecosystem size,30.04,1.5300639154107156,True
+128,129. Comoros,2017,Banking Ecosystem size,28.04,1.4906099581788053,True
+129,130. Azerbaijan,2017,Banking Ecosystem size,27.92,1.4882427207448907,True
+130,131. R. of Congo,2017,Banking Ecosystem size,27.72,1.4842973250216995,True
+131,132. Gambia,2017,Banking Ecosystem size,26.73,1.464767616191904,True
+132,133. S.T.&Principe,2017,Banking Ecosystem size,26.17,1.453720508166969,True
+133,134. Zimbabwe,2017,Banking Ecosystem size,25.63,1.4430679397143533,True
+134,135. Ghana,2017,Banking Ecosystem size,25.54,1.4412925116389173,True
+135,136. Burundi,2017,Banking Ecosystem size,24.85,1.4276808963939083,True
+136,137. Moldova,2017,Banking Ecosystem size,24.49,1.4205791840921644,True
+137,138. Rwanda,2017,Banking Ecosystem size,24.48,1.420381914306005,True
+138,139. Swaziland,2017,Banking Ecosystem size,24.43,1.419395565375207,True
+139,140. Solomon Isl.,2017,Banking Ecosystem size,22.62,1.3836897340803282,True
+140,141. Iraq,2017,Banking Ecosystem size,22.03,1.3720508166969148,True
+141,142. Kyrgyzstan,2017,Banking Ecosystem size,21.98,1.371064467766117,True
+142,143. Niger,2017,Banking Ecosystem size,21.5,1.3615955180304584,True
+143,144. Argentina,2017,Banking Ecosystem size,20.79,1.3475893632131302,True
+144,145. Haiti,2017,Banking Ecosystem size,19.53,1.3227333701570267,True
+145,146. Nigeria,2017,Banking Ecosystem size,19.25,1.3172098161445591,True
+146,147. Gabon,2017,Banking Ecosystem size,19.16,1.3154343880691233,True
+147,148. Uganda,2017,Banking Ecosystem size,19.09,1.3140534995660065,True
+148,149. Lesotho,2017,Banking Ecosystem size,19.03,1.3128698808490493,True
+149,150. Cameroon,2017,Banking Ecosystem size,18.77,1.3077408664089007,True
+150,151. Tanzania,2017,Banking Ecosystem size,18.5,1.302414582182593,True
+151,152. Cyprus,2017,Banking Ecosystem size,18.32,1.2988637260317208,True
+152,153. Zambia,2017,Banking Ecosystem size,17.43,1.281306715063521,True
+153,154. Eq. Guinea,2017,Banking Ecosystem size,17.09,1.2745995423340961,True
+154,155. Madagascar,2017,Banking Ecosystem size,17.01,1.2730213840448197,True
+155,156. G.-Bissau,2017,Banking Ecosystem size,16.49,1.262763355164523,True
+156,157. Chad,2017,Banking Ecosystem size,15.3,1.2392882506115364,True
+157,158. Sierra Leone,2017,Banking Ecosystem size,15.06,1.234553775743707,True
+158,159. C.A. Republic,2017,Banking Ecosystem size,14.26,1.218772192850943,True
+159,160. Sudan,2017,Banking Ecosystem size,11.86,1.1714274441726504,True
+160,161. Afghanistan,2017,Banking Ecosystem size,3.43,1.0051290144401483,True
+161,162. Mauritania,2017,Banking Ecosystem size,3.17,1.0,True

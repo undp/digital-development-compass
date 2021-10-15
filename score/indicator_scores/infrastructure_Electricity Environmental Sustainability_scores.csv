@@ -1,0 +1,206 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Afghanistan,2021,Electricity Environmental Sustainability,53.9,2.6386554621848735,True
+1,Angola,2021,Electricity Environmental Sustainability,50.3,2.2605042016806722,True
+2,Albania,2021,Electricity Environmental Sustainability,71.0,4.434873949579831,True
+3,Andorra,2021,Electricity Environmental Sustainability,,,True
+4,United Arab Emirates,2021,Electricity Environmental Sustainability,70.2,4.350840336134453,True
+5,Argentina,2021,Electricity Environmental Sustainability,72.8,4.623949579831932,True
+6,Armenia,2021,Electricity Environmental Sustainability,71.8,4.518907563025209,True
+7,Antigua and Barbuda,2021,Electricity Environmental Sustainability,,,True
+8,Australia,2021,Electricity Environmental Sustainability,75.6,4.918067226890756,True
+9,Austria,2021,Electricity Environmental Sustainability,82.1,5.6008403361344525,True
+10,Azerbaijan,2021,Electricity Environmental Sustainability,72.4,4.581932773109244,True
+11,Burundi,2021,Electricity Environmental Sustainability,51.8,2.418067226890756,True
+12,Belgium,2021,Electricity Environmental Sustainability,82.2,5.611344537815126,True
+13,Benin,2021,Electricity Environmental Sustainability,49.9,2.2184873949579833,True
+14,Burkina Faso,2021,Electricity Environmental Sustainability,53.5,2.596638655462185,True
+15,Bangladesh,2021,Electricity Environmental Sustainability,63.5,3.6470588235294117,True
+16,Bulgaria,2021,Electricity Environmental Sustainability,73.8,4.728991596638655,True
+17,Bahrain,2021,Electricity Environmental Sustainability,66.1,3.92016806722689,True
+18,"Bahamas, The",2021,Electricity Environmental Sustainability,,,True
+19,Bosnia and Herzegovina,2021,Electricity Environmental Sustainability,73.7,4.718487394957983,True
+20,Belarus,2021,Electricity Environmental Sustainability,78.8,5.254201680672268,True
+21,Belize,2021,Electricity Environmental Sustainability,64.4,3.741596638655463,True
+22,Bolivia,2021,Electricity Environmental Sustainability,67.6,4.077731092436974,True
+23,Brazil,2021,Electricity Environmental Sustainability,71.3,4.466386554621848,True
+24,Barbados,2021,Electricity Environmental Sustainability,68.4,4.161764705882353,True
+25,Brunei Darussalam,2021,Electricity Environmental Sustainability,68.3,4.15126050420168,True
+26,Bhutan,2021,Electricity Environmental Sustainability,70.0,4.329831932773109,True
+27,Botswana,2021,Electricity Environmental Sustainability,61.9,3.478991596638655,True
+28,Central African Republic,2021,Electricity Environmental Sustainability,38.3,1.0,True
+29,Canada,2021,Electricity Environmental Sustainability,79.2,5.296218487394958,True
+30,Switzerland,2021,Electricity Environmental Sustainability,80.1,5.390756302521008,True
+31,Chile,2021,Electricity Environmental Sustainability,77.1,5.075630252100839,True
+32,China,2021,Electricity Environmental Sustainability,72.1,4.550420168067227,True
+33,Cote d'Ivoire,2021,Electricity Environmental Sustainability,57.6,3.0273109243697482,True
+34,Cameroon,2021,Electricity Environmental Sustainability,55.3,2.7857142857142856,True
+35,"Congo, Dem. Rep.",2021,Electricity Environmental Sustainability,49.3,2.1554621848739495,True
+36,"Congo, Rep.",2021,Electricity Environmental Sustainability,52.9,2.533613445378151,True
+37,Colombia,2021,Electricity Environmental Sustainability,70.6,4.392857142857142,True
+38,Comoros,2021,Electricity Environmental Sustainability,,,True
+39,Cabo Verde,2021,Electricity Environmental Sustainability,68.1,4.130252100840336,True
+40,Costa Rica,2021,Electricity Environmental Sustainability,73.6,4.70798319327731,True
+41,Cuba,2021,Electricity Environmental Sustainability,73.7,4.718487394957983,True
+42,Cyprus,2021,Electricity Environmental Sustainability,74.9,4.844537815126051,True
+43,Czech Republic,2021,Electricity Environmental Sustainability,81.4,5.527310924369749,True
+44,Germany,2021,Electricity Environmental Sustainability,82.5,5.642857142857142,True
+45,Djibouti,2021,Electricity Environmental Sustainability,53.8,2.6281512605042012,True
+46,Dominica,2021,Electricity Environmental Sustainability,,,True
+47,Denmark,2021,Electricity Environmental Sustainability,84.9,5.894957983193278,True
+48,Dominican Republic,2021,Electricity Environmental Sustainability,70.8,4.413865546218487,True
+49,Algeria,2021,Electricity Environmental Sustainability,70.9,4.42436974789916,True
+50,Ecuador,2021,Electricity Environmental Sustainability,72.5,4.592436974789916,True
+51,"Egypt, Arab Rep.",2021,Electricity Environmental Sustainability,68.6,4.182773109243697,True
+52,Eritrea,2021,Electricity Environmental Sustainability,,,True
+53,Spain,2021,Electricity Environmental Sustainability,79.5,5.327731092436974,True
+54,Estonia,2021,Electricity Environmental Sustainability,81.6,5.548319327731091,True
+55,Ethiopia,2021,Electricity Environmental Sustainability,54.5,2.7016806722689077,True
+56,Finland,2021,Electricity Environmental Sustainability,85.9,6.0,True
+57,Fiji,2021,Electricity Environmental Sustainability,71.2,4.455882352941177,True
+58,France,2021,Electricity Environmental Sustainability,81.7,5.5588235294117645,True
+59,"Micronesia, Fed. Sts.",2021,Electricity Environmental Sustainability,,,True
+60,Gabon,2021,Electricity Environmental Sustainability,62.8,3.5735294117647056,True
+61,United Kingdom,2021,Electricity Environmental Sustainability,80.0,5.380252100840336,True
+62,Georgia,2021,Electricity Environmental Sustainability,72.2,4.560924369747899,True
+63,Ghana,2021,Electricity Environmental Sustainability,62.5,3.542016806722689,True
+64,Guinea,2021,Electricity Environmental Sustainability,51.0,2.3340336134453783,True
+65,"Gambia, The",2021,Electricity Environmental Sustainability,59.3,3.205882352941176,True
+66,Guinea-Bissau,2021,Electricity Environmental Sustainability,,,True
+67,Equatorial Guinea,2021,Electricity Environmental Sustainability,,,True
+68,Greece,2021,Electricity Environmental Sustainability,75.4,4.897058823529412,True
+69,Grenada,2021,Electricity Environmental Sustainability,,,True
+70,Guatemala,2021,Electricity Environmental Sustainability,59.9,3.2689075630252096,True
+71,Guyana,2021,Electricity Environmental Sustainability,57.9,3.0588235294117645,True
+72,Honduras,2021,Electricity Environmental Sustainability,62.8,3.5735294117647056,True
+73,Croatia,2021,Electricity Environmental Sustainability,80.4,5.4222689075630255,True
+74,Haiti,2021,Electricity Environmental Sustainability,51.4,2.376050420168067,True
+75,Hungary,2021,Electricity Environmental Sustainability,78.8,5.254201680672268,True
+76,Indonesia,2021,Electricity Environmental Sustainability,66.3,3.9411764705882346,True
+77,India,2021,Electricity Environmental Sustainability,60.1,3.289915966386555,True
+78,Ireland,2021,Electricity Environmental Sustainability,81.0,5.485294117647058,True
+79,"Iran, Islamic Rep.",2021,Electricity Environmental Sustainability,70.0,4.329831932773109,True
+80,Iraq,2021,Electricity Environmental Sustainability,63.8,3.678571428571428,True
+81,Iceland,2021,Electricity Environmental Sustainability,78.2,5.1911764705882355,True
+82,Israel,2021,Electricity Environmental Sustainability,75.0,4.855042016806722,True
+83,Italy,2021,Electricity Environmental Sustainability,78.8,5.254201680672268,True
+84,Jamaica,2021,Electricity Environmental Sustainability,69.0,4.224789915966386,True
+85,Jordan,2021,Electricity Environmental Sustainability,70.1,4.34033613445378,True
+86,Japan,2021,Electricity Environmental Sustainability,79.8,5.359243697478991,True
+87,Kazakhstan,2021,Electricity Environmental Sustainability,71.6,4.497899159663865,True
+88,Kenya,2021,Electricity Environmental Sustainability,60.6,3.342436974789916,True
+89,Kyrgyz Republic,2021,Electricity Environmental Sustainability,74.0,4.749999999999999,True
+90,Cambodia,2021,Electricity Environmental Sustainability,64.5,3.752100840336134,True
+91,Kiribati,2021,Electricity Environmental Sustainability,,,True
+92,St. Kitts and Nevis,2021,Electricity Environmental Sustainability,,,True
+93,"Korea, Rep.",2021,Electricity Environmental Sustainability,78.6,5.2331932773109235,True
+94,Kuwait,2021,Electricity Environmental Sustainability,62.5,3.542016806722689,True
+95,Lao PDR,2021,Electricity Environmental Sustainability,63.0,3.59453781512605,True
+96,Lebanon,2021,Electricity Environmental Sustainability,66.8,3.993697478991596,True
+97,Liberia,2021,Electricity Environmental Sustainability,48.6,2.081932773109244,True
+98,Libya,2021,Electricity Environmental Sustainability,,,True
+99,St. Lucia,2021,Electricity Environmental Sustainability,,,True
+100,Liechtenstein,2021,Electricity Environmental Sustainability,,,True
+101,Sri Lanka,2021,Electricity Environmental Sustainability,68.1,4.130252100840336,True
+102,Lesotho,2021,Electricity Environmental Sustainability,54.6,2.71218487394958,True
+103,Lithuania,2021,Electricity Environmental Sustainability,76.7,5.033613445378151,True
+104,Luxembourg,2021,Electricity Environmental Sustainability,74.2,4.7710084033613445,True
+105,Latvia,2021,Electricity Environmental Sustainability,79.2,5.296218487394958,True
+106,Morocco,2021,Electricity Environmental Sustainability,70.5,4.38235294117647,True
+107,Monaco,2021,Electricity Environmental Sustainability,,,True
+108,Moldova,2021,Electricity Environmental Sustainability,73.7,4.718487394957983,True
+109,Madagascar,2021,Electricity Environmental Sustainability,49.0,2.1239495798319328,True
+110,Maldives,2021,Electricity Environmental Sustainability,69.3,4.2563025210084025,True
+111,Mexico,2021,Electricity Environmental Sustainability,69.1,4.235294117647058,True
+112,Marshall Islands,2021,Electricity Environmental Sustainability,,,True
+113,North Macedonia,2021,Electricity Environmental Sustainability,72.5,4.592436974789916,True
+114,Mali,2021,Electricity Environmental Sustainability,52.2,2.4600840336134455,True
+115,Malta,2021,Electricity Environmental Sustainability,75.7,4.928571428571429,True
+116,Myanmar,2021,Electricity Environmental Sustainability,64.9,3.7941176470588243,True
+117,Montenegro,2021,Electricity Environmental Sustainability,68.2,4.140756302521009,True
+118,Mongolia,2021,Electricity Environmental Sustainability,63.8,3.678571428571428,True
+119,Mozambique,2021,Electricity Environmental Sustainability,51.1,2.344537815126051,True
+120,Mauritania,2021,Electricity Environmental Sustainability,55.5,2.80672268907563,True
+121,Mauritius,2021,Electricity Environmental Sustainability,66.7,3.9831932773109244,True
+122,Malawi,2021,Electricity Environmental Sustainability,51.4,2.376050420168067,True
+123,Malaysia,2021,Electricity Environmental Sustainability,70.9,4.42436974789916,True
+124,Namibia,2021,Electricity Environmental Sustainability,61.8,3.468487394957983,True
+125,Niger,2021,Electricity Environmental Sustainability,49.5,2.1764705882352944,True
+126,Nigeria,2021,Electricity Environmental Sustainability,48.9,2.1134453781512605,True
+127,Nicaragua,2021,Electricity Environmental Sustainability,66.3,3.9411764705882346,True
+128,Netherlands,2021,Electricity Environmental Sustainability,81.6,5.548319327731091,True
+129,Norway,2021,Electricity Environmental Sustainability,82.0,5.59033613445378,True
+130,Nepal,2021,Electricity Environmental Sustainability,66.5,3.9621848739495795,True
+131,Nauru,2021,Electricity Environmental Sustainability,,,True
+132,New Zealand,2021,Electricity Environmental Sustainability,79.1,5.285714285714285,True
+133,Oman,2021,Electricity Environmental Sustainability,70.1,4.34033613445378,True
+134,Pakistan,2021,Electricity Environmental Sustainability,57.7,3.0378151260504205,True
+135,Panama,2021,Electricity Environmental Sustainability,68.0,4.119747899159663,True
+136,Peru,2021,Electricity Environmental Sustainability,71.1,4.4453781512605035,True
+137,Philippines,2021,Electricity Environmental Sustainability,64.5,3.752100840336134,True
+138,Palau,2021,Electricity Environmental Sustainability,,,True
+139,Papua New Guinea,2021,Electricity Environmental Sustainability,51.3,2.3655462184873945,True
+140,Poland,2021,Electricity Environmental Sustainability,80.2,5.40126050420168,True
+141,"Korea, Dem. Rep.",2021,Electricity Environmental Sustainability,,,True
+142,Portugal,2021,Electricity Environmental Sustainability,78.6,5.2331932773109235,True
+143,Paraguay,2021,Electricity Environmental Sustainability,66.9,4.00420168067227,True
+144,Qatar,2021,Electricity Environmental Sustainability,66.7,3.9831932773109244,True
+145,Romania,2021,Electricity Environmental Sustainability,75.0,4.855042016806722,True
+146,Russian Federation,2021,Electricity Environmental Sustainability,73.8,4.728991596638655,True
+147,Rwanda,2021,Electricity Environmental Sustainability,57.6,3.0273109243697482,True
+148,Saudi Arabia,2021,Electricity Environmental Sustainability,66.3,3.9411764705882346,True
+149,Sudan,2021,Electricity Environmental Sustainability,49.5,2.1764705882352944,True
+150,Senegal,2021,Electricity Environmental Sustainability,58.4,3.1113445378151257,True
+151,Singapore,2021,Electricity Environmental Sustainability,69.9,4.319327731092438,True
+152,Solomon Islands,2021,Electricity Environmental Sustainability,,,True
+153,Sierra Leone,2021,Electricity Environmental Sustainability,51.7,2.4075630252100844,True
+154,El Salvador,2021,Electricity Environmental Sustainability,67.9,4.109243697478992,True
+155,San Marino,2021,Electricity Environmental Sustainability,,,True
+156,Somalia,2021,Electricity Environmental Sustainability,45.6,1.766806722689076,True
+157,Serbia,2021,Electricity Environmental Sustainability,75.6,4.918067226890756,True
+158,South Sudan,2021,Electricity Environmental Sustainability,38.9,1.0630252100840338,True
+159,Sao Tome and Principe,2021,Electricity Environmental Sustainability,58.8,3.1533613445378146,True
+160,Suriname,2021,Electricity Environmental Sustainability,67.0,4.01470588235294,True
+161,Slovak Republic,2021,Electricity Environmental Sustainability,79.6,5.338235294117646,True
+162,Slovenia,2021,Electricity Environmental Sustainability,81.6,5.548319327731091,True
+163,Sweden,2021,Electricity Environmental Sustainability,85.6,5.968487394957982,True
+164,Eswatini,2021,Electricity Environmental Sustainability,53.3,2.57563025210084,True
+165,Seychelles,2021,Electricity Environmental Sustainability,,,True
+166,Syrian Arab Republic,2021,Electricity Environmental Sustainability,58.0,3.0693277310924367,True
+167,Chad,2021,Electricity Environmental Sustainability,40.9,1.2731092436974791,True
+168,Togo,2021,Electricity Environmental Sustainability,53.2,2.5651260504201683,True
+169,Thailand,2021,Electricity Environmental Sustainability,74.2,4.7710084033613445,True
+170,Tajikistan,2021,Electricity Environmental Sustainability,69.8,4.3088235294117645,True
+171,Turkmenistan,2021,Electricity Environmental Sustainability,61.1,3.3949579831932777,True
+172,Timor-Leste,2021,Electricity Environmental Sustainability,,,True
+173,Tonga,2021,Electricity Environmental Sustainability,,,True
+174,Trinidad and Tobago,2021,Electricity Environmental Sustainability,63.5,3.6470588235294117,True
+175,Tunisia,2021,Electricity Environmental Sustainability,71.4,4.476890756302522,True
+176,Turkey,2021,Electricity Environmental Sustainability,70.4,4.371848739495799,True
+177,Tuvalu,2021,Electricity Environmental Sustainability,,,True
+178,Tanzania,2021,Electricity Environmental Sustainability,56.4,2.90126050420168,True
+179,Uganda,2021,Electricity Environmental Sustainability,53.5,2.596638655462185,True
+180,Ukraine,2021,Electricity Environmental Sustainability,75.5,4.9075630252100835,True
+181,Uruguay,2021,Electricity Environmental Sustainability,74.5,4.80252100840336,True
+182,United States,2021,Electricity Environmental Sustainability,76.0,4.960084033613445,True
+183,Uzbekistan,2021,Electricity Environmental Sustainability,69.8,4.3088235294117645,True
+184,St. Vincent and the Grenadines,2021,Electricity Environmental Sustainability,,,True
+185,"Venezuela, RB",2021,Electricity Environmental Sustainability,59.3,3.205882352941176,True
+186,Vietnam,2021,Electricity Environmental Sustainability,72.8,4.623949579831932,True
+187,Vanuatu,2021,Electricity Environmental Sustainability,60.5,3.3319327731092434,True
+188,Samoa,2021,Electricity Environmental Sustainability,,,True
+189,"Yemen, Rep.",2021,Electricity Environmental Sustainability,52.9,2.533613445378151,True
+190,South Africa,2021,Electricity Environmental Sustainability,63.7,3.6680672268907566,True
+191,Zambia,2021,Electricity Environmental Sustainability,53.4,2.5861344537815123,True
+192,Zimbabwe,2021,Electricity Environmental Sustainability,58.7,3.1428571428571432,True
+193,Eastern Europe and Central Asia,2021,Electricity Environmental Sustainability,71.4,4.476890756302522,True
+194,East and South Asia,2021,Electricity Environmental Sustainability,65.7,3.8781512605042017,True
+195,Latin America and the Caribbean,2021,Electricity Environmental Sustainability,68.6,4.182773109243697,True
+196,Middle East and North Africa,2021,Electricity Environmental Sustainability,67.1,4.025210084033613,True
+197,Oceania,2021,Electricity Environmental Sustainability,50.1,2.2394957983193278,True
+198,OECD members,2021,Electricity Environmental Sustainability,77.2,5.086134453781512,True
+199,Small Island Developing States,2021,Electricity Environmental Sustainability,62.5,3.542016806722689,True
+200,Sub-Saharan Africa,2021,Electricity Environmental Sustainability,51.9,2.4285714285714284,True
+201,Low-income Countries,2021,Electricity Environmental Sustainability,51.0,2.3340336134453783,True
+202,Lower-middle-income Countries,2021,Electricity Environmental Sustainability,60.1,3.289915966386555,True
+203,Upper-middle-income Countries,2021,Electricity Environmental Sustainability,70.8,4.413865546218487,True
+204,High-income Countries,2021,Electricity Environmental Sustainability,78.1,5.180672268907562,True

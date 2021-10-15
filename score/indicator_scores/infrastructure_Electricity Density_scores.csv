@@ -1,0 +1,62 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,World,2017,Electricity Density,25592.0,6.0,True
+1,OECD,2017,Electricity Density,11069.0,3.1594820841808793,True
+2,G7,2017,Electricity Density,7898.0,2.539273979033015,True
+3,BRICS,2017,Electricity Density,10000.0,2.9503989985917696,True
+4,Europe,2017,Electricity Density,3886.0,1.7545767485526522,True
+5,European Union,2017,Electricity Density,3275.0,1.6350727585667344,True
+6,Belgium,2017,Electricity Density,87.0,1.011539665154123,True
+7,Czech Rep.,2017,Electricity Density,87.0,1.011539665154123,True
+8,France,2017,Electricity Density,551.0,1.1022922860272257,True
+9,Germany,2017,Electricity Density,653.0,1.1222422156157097,True
+10,Italy,2017,Electricity Density,295.0,1.0522218745110312,True
+11,Netherlands,2017,Electricity Density,117.0,1.0174072915036771,True
+12,Poland,2017,Electricity Density,171.0,1.0279690189328743,True
+13,Portugal,2017,Electricity Density,60.0,1.0062588014395244,True
+14,Romania,2017,Electricity Density,64.0,1.0070411516194648,True
+15,Spain,2017,Electricity Density,275.0,1.0483101236113284,True
+16,Sweden,2017,Electricity Density,163.0,1.0264043185729932,True
+17,United Kingdom,2017,Electricity Density,336.0,1.0602409638554218,True
+18,Norway,2017,Electricity Density,149.0,1.0236660929432013,True
+19,Turkey,2017,Electricity Density,296.0,1.0524174620560163,True
+20,CIS,2017,Electricity Density,1566.0,1.300813644187138,True
+21,Kazakhstan,2017,Electricity Density,120.0,1.0179940541386325,True
+22,Russia,2017,Electricity Density,1090.0,1.2077139727742137,True
+23,Ukraine,2017,Electricity Density,158.0,1.0254263808480677,True
+24,Uzbekistan,2017,Electricity Density,60.0,1.0062588014395244,True
+25,America,2017,Electricity Density,6553.0,2.2762087310280084,True
+26,North America,2017,Electricity Density,4963.0,1.965224534501643,True
+27,Canada,2017,Electricity Density,712.0,1.1337818807698326,True
+28,United States,2017,Electricity Density,4251.0,1.8259662024722265,True
+29,Latin America,2017,Electricity Density,1590.0,1.3055077452667814,True
+30,Argentina,2017,Electricity Density,147.0,1.0232749178532312,True
+31,Brazil,2017,Electricity Density,585.0,1.1089422625567205,True
+32,Chile,2017,Electricity Density,79.0,1.009974964794242,True
+33,Colombia,2017,Electricity Density,69.0,1.0080190893443906,True
+34,Mexico,2017,Electricity Density,314.0,1.0559380378657488,True
+35,Venezuela,2017,Electricity Density,112.0,1.0164293537787514,True
+36,Asia,2017,Electricity Density,11274.0,3.199577530902832,True
+37,China,2017,Electricity Density,6529.0,2.271514629948365,True
+38,India,2017,Electricity Density,1541.0,1.2959239555625097,True
+39,Indonesia,2017,Electricity Density,260.0,1.0453763104365514,True
+40,Japan,2017,Electricity Density,1101.0,1.2098654357690501,True
+41,Malaysia,2017,Electricity Density,166.0,1.0269910812079486,True
+42,South Korea,2017,Electricity Density,579.0,1.1077687372868095,True
+43,Taiwan,2017,Electricity Density,271.0,1.047527773431388,True
+44,Thailand,2017,Electricity Density,177.0,1.029142544202785,True
+45,Pacific,2017,Electricity Density,304.0,1.0539821624158974,True
+46,Australia,2017,Electricity Density,255.0,1.0443983727116257,True
+47,New Zealand,2017,Electricity Density,44.0,1.0031294007197622,True
+48,Africa,2017,Electricity Density,818.0,1.154514160538257,True
+49,Algeria,2017,Electricity Density,83.0,1.0107573149741824,True
+50,Egypt,2017,Electricity Density,194.0,1.0324675324675325,True
+51,Nigeria,2017,Electricity Density,28.0,1.0,True
+52,South Africa,2017,Electricity Density,254.0,1.0442027851666407,True
+53,Middle-East,2017,Electricity Density,1190.0,1.2272727272727273,True
+54,Iran,2017,Electricity Density,311.0,1.0553512752307932,True
+55,Kuwait,2017,Electricity Density,73.0,1.008801439524331,True
+56,Saudi Arabia,2017,Electricity Density,345.0,1.062001251760288,True
+57,United Arab Emirates,2017,Electricity Density,137.0,1.0213190424033798,True
+58,n.a. : non avalaible ,2017,Electricity Density,,,True
+59,Source : ,2017,Electricity Density,,,True
+60,"© Copyright Enerdata. Reproduction and diffusion prohibited (web, photocopy, intranet...) without written permission. ",2017,Electricity Density,,,True

@@ -1,0 +1,267 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Aruba,2019,% of population covered by electricity,100.0,6.0,True
+1,Africa Eastern and Southern,2019,% of population covered by electricity,43.64066111,2.9790060943227292,True
+2,Afghanistan,2019,% of population covered by electricity,97.7,5.876714558404967,True
+3,Africa Western and Central,2019,% of population covered by electricity,51.34142147,3.3917850689314766,True
+4,Angola,2019,% of population covered by electricity,45.67031479,3.0878003335504602,True
+5,Albania,2019,% of population covered by electricity,100.0,6.0,True
+6,Andorra,2019,% of population covered by electricity,100.0,6.0,True
+7,Arab World,2019,% of population covered by electricity,89.51228232,5.437833519346597,True
+8,United Arab Emirates,2019,% of population covered by electricity,100.0,6.0,True
+9,Argentina,2019,% of population covered by electricity,100.0,6.0,True
+10,Armenia,2019,% of population covered by electricity,100.0,6.0,True
+11,American Samoa,2019,% of population covered by electricity,,,True
+12,Antigua and Barbuda,2019,% of population covered by electricity,100.0,6.0,True
+13,Australia,2019,% of population covered by electricity,100.0,6.0,True
+14,Austria,2019,% of population covered by electricity,100.0,6.0,True
+15,Azerbaijan,2019,% of population covered by electricity,100.0,6.0,True
+16,Burundi,2019,% of population covered by electricity,11.0647974,1.2328627278762356,True
+17,Belgium,2019,% of population covered by electricity,100.0,6.0,True
+18,Benin,2019,% of population covered by electricity,40.31874084,2.800943308483408,True
+19,Burkina Faso,2019,% of population covered by electricity,18.3791523,1.6249294556281,True
+20,Bangladesh,2019,% of population covered by electricity,92.2,5.581901545895108,True
+21,Bulgaria,2019,% of population covered by electricity,100.0,6.0,True
+22,Bahrain,2019,% of population covered by electricity,100.0,6.0,True
+23,"Bahamas, The",2019,% of population covered by electricity,100.0,6.0,True
+24,Bosnia and Herzegovina,2019,% of population covered by electricity,100.0,6.0,True
+25,Belarus,2019,% of population covered by electricity,100.0,6.0,True
+26,Belize,2019,% of population covered by electricity,92.72,5.609774776168767,True
+27,Bermuda,2019,% of population covered by electricity,100.0,6.0,True
+28,Bolivia,2019,% of population covered by electricity,96.30310059,5.8018374450894505,True
+29,Brazil,2019,% of population covered by electricity,99.8,5.989279526817823,True
+30,Barbados,2019,% of population covered by electricity,100.0,6.0,True
+31,Brunei Darussalam,2019,% of population covered by electricity,100.0,6.0,True
+32,Bhutan,2019,% of population covered by electricity,100.0,6.0,True
+33,Botswana,2019,% of population covered by electricity,70.18318176,4.401747998401212,True
+34,Central African Republic,2019,% of population covered by electricity,14.3,1.4062772414372775,True
+35,Canada,2019,% of population covered by electricity,100.0,6.0,True
+36,Central Europe and the Baltics,2019,% of population covered by electricity,100.0,6.0,True
+37,Switzerland,2019,% of population covered by electricity,100.0,6.0,True
+38,Channel Islands,2019,% of population covered by electricity,100.0,6.0,True
+39,Chile,2019,% of population covered by electricity,100.0,6.0,True
+40,China,2019,% of population covered by electricity,100.0,6.0,True
+41,Cote d'Ivoire,2019,% of population covered by electricity,68.55010986,4.314211480858631,True
+42,Cameroon,2019,% of population covered by electricity,63.45231247,4.040957479820303,True
+43,"Congo, Dem. Rep.",2019,% of population covered by electricity,19.1,1.6635685978095187,True
+44,"Congo, Rep.",2019,% of population covered by electricity,48.32972336,3.23035092482614,True
+45,Colombia,2019,% of population covered by electricity,99.7662735,5.98747170662393,True
+46,Comoros,2019,% of population covered by electricity,84.04824066,5.144947958934965,True
+47,Cabo Verde,2019,% of population covered by electricity,95.53353882,5.760587113502884,True
+48,Costa Rica,2019,% of population covered by electricity,99.71,5.984455313885843,True
+49,Caribbean small states,2019,% of population covered by electricity,98.28050491,5.907830995003852,True
+50,Cuba,2019,% of population covered by electricity,99.8,5.989279526817823,True
+51,Curacao,2019,% of population covered by electricity,100.0,6.0,True
+52,Cayman Islands,2019,% of population covered by electricity,100.0,6.0,True
+53,Cyprus,2019,% of population covered by electricity,100.0,6.0,True
+54,Czech Republic,2019,% of population covered by electricity,100.0,6.0,True
+55,Germany,2019,% of population covered by electricity,100.0,6.0,True
+56,Djibouti,2019,% of population covered by electricity,61.27593613,3.9242985588838337,True
+57,Dominica,2019,% of population covered by electricity,100.0,6.0,True
+58,Denmark,2019,% of population covered by electricity,100.0,6.0,True
+59,Dominican Republic,2019,% of population covered by electricity,100.0,6.0,True
+60,Algeria,2019,% of population covered by electricity,99.5,5.973198817044558,True
+61,East Asia & Pacific (excluding high income),2019,% of population covered by electricity,97.92847301,5.888961252287749,True
+62,Early-demographic dividend,2019,% of population covered by electricity,92.54255259,5.600263175168009,True
+63,East Asia & Pacific,2019,% of population covered by electricity,98.12820952,5.899667601782531,True
+64,Europe & Central Asia (excluding high income),2019,% of population covered by electricity,99.98532524,5.999213398144826,True
+65,Europe & Central Asia,2019,% of population covered by electricity,99.99332629,5.999642273354596,True
+66,Ecuador,2019,% of population covered by electricity,100.0,6.0,True
+67,"Egypt, Arab Rep.",2019,% of population covered by electricity,100.0,6.0,True
+68,Euro area,2019,% of population covered by electricity,100.0,6.0,True
+69,Eritrea,2019,% of population covered by electricity,50.38573074,3.340557784724377,True
+70,Spain,2019,% of population covered by electricity,100.0,6.0,True
+71,Estonia,2019,% of population covered by electricity,100.0,6.0,True
+72,Ethiopia,2019,% of population covered by electricity,48.2716217,3.2272365383867903,True
+73,European Union,2019,% of population covered by electricity,100.0,6.0,True
+74,Fragile and conflict affected situations,2019,% of population covered by electricity,54.06689684,3.537876996995317,True
+75,Finland,2019,% of population covered by electricity,100.0,6.0,True
+76,Fiji,2019,% of population covered by electricity,100.0,6.0,True
+77,France,2019,% of population covered by electricity,100.0,6.0,True
+78,Faroe Islands,2019,% of population covered by electricity,100.0,6.0,True
+79,"Micronesia, Fed. Sts.",2019,% of population covered by electricity,82.11694336,5.041425854377663,True
+80,Gabon,2019,% of population covered by electricity,90.68525696,5.500707735204064,True
+81,United Kingdom,2019,% of population covered by electricity,100.0,6.0,True
+82,Georgia,2019,% of population covered by electricity,100.0,6.0,True
+83,Ghana,2019,% of population covered by electricity,83.5,5.115560962470421,True
+84,Gibraltar,2019,% of population covered by electricity,100.0,6.0,True
+85,Guinea,2019,% of population covered by electricity,42.41838837,2.913489383670351,True
+86,"Gambia, The",2019,% of population covered by electricity,59.92128754,3.8516861894819914,True
+87,Guinea-Bissau,2019,% of population covered by electricity,31.0404129,2.303602979202353,True
+88,Equatorial Guinea,2019,% of population covered by electricity,66.59217834,4.209261719095138,True
+89,Greece,2019,% of population covered by electricity,100.0,6.0,True
+90,Grenada,2019,% of population covered by electricity,95.42874146,5.754969727065669,True
+91,Greenland,2019,% of population covered by electricity,100.0,6.0,True
+92,Guatemala,2019,% of population covered by electricity,95.72457123,5.770826902644541,True
+93,Guam,2019,% of population covered by electricity,100.0,6.0,True
+94,Guyana,2019,% of population covered by electricity,92.02169037,5.572343727862414,True
+95,High income,2019,% of population covered by electricity,99.99970841,5.999984370086124,True
+96,"Hong Kong SAR, China",2019,% of population covered by electricity,100.0,6.0,True
+97,Honduras,2019,% of population covered by electricity,92.77952576,5.612965497737411,True
+98,Heavily indebted poor countries (HIPC),2019,% of population covered by electricity,44.62496514,3.0317671191063464,True
+99,Croatia,2019,% of population covered by electricity,100.0,6.0,True
+100,Haiti,2019,% of population covered by electricity,45.37134552,3.0717748733438106,True
+101,Hungary,2019,% of population covered by electricity,100.0,6.0,True
+102,IBRD only,2019,% of population covered by electricity,98.50206442,5.9197071089299085,True
+103,IDA & IBRD total,2019,% of population covered by electricity,88.50726547,5.383962238406293,True
+104,IDA total,2019,% of population covered by electricity,59.69449796,3.8395297314300554,True
+105,IDA blend,2019,% of population covered by electricity,66.83906857,4.22249561954342,True
+106,Indonesia,2019,% of population covered by electricity,98.85,5.938357279202483,True
+107,IDA only,2019,% of population covered by electricity,56.07704629,3.6456257633497784,True
+108,Isle of Man,2019,% of population covered by electricity,100.0,6.0,True
+109,India,2019,% of population covered by electricity,97.81528473,5.882894092686365,True
+110,Not classified,2019,% of population covered by electricity,,,True
+111,Ireland,2019,% of population covered by electricity,100.0,6.0,True
+112,"Iran, Islamic Rep.",2019,% of population covered by electricity,100.0,6.0,True
+113,Iraq,2019,% of population covered by electricity,100.0,6.0,True
+114,Iceland,2019,% of population covered by electricity,100.0,6.0,True
+115,Israel,2019,% of population covered by electricity,100.0,6.0,True
+116,Italy,2019,% of population covered by electricity,100.0,6.0,True
+117,Jamaica,2019,% of population covered by electricity,99.3837738,5.966968817743727,True
+118,Jordan,2019,% of population covered by electricity,100.0,6.0,True
+119,Japan,2019,% of population covered by electricity,100.0,6.0,True
+120,Kazakhstan,2019,% of population covered by electricity,100.0,6.0,True
+121,Kenya,2019,% of population covered by electricity,69.7,4.375848312900228,True
+122,Kyrgyz Republic,2019,% of population covered by electricity,99.88175201,5.993661627971794,True
+123,Cambodia,2019,% of population covered by electricity,93.0,5.624783438623815,True
+124,Kiribati,2019,% of population covered by electricity,100.0,6.0,True
+125,St. Kitts and Nevis,2019,% of population covered by electricity,100.0,6.0,True
+126,"Korea, Rep.",2019,% of population covered by electricity,100.0,6.0,True
+127,Kuwait,2019,% of population covered by electricity,100.0,6.0,True
+128,Latin America & Caribbean (excluding high income),2019,% of population covered by electricity,98.27271963,5.907413685576573,True
+129,Lao PDR,2019,% of population covered by electricity,100.0,6.0,True
+130,Lebanon,2019,% of population covered by electricity,100.0,6.0,True
+131,Liberia,2019,% of population covered by electricity,27.64920998,2.1218264794064563,True
+132,Libya,2019,% of population covered by electricity,68.53218842,4.3132508492741,True
+133,St. Lucia,2019,% of population covered by electricity,99.54777527,5.975759684548589,True
+134,Latin America & Caribbean,2019,% of population covered by electricity,98.4242947,5.915538467941682,True
+135,Least developed countries: UN classification,2019,% of population covered by electricity,52.77828064,3.4688041199242248,True
+136,Low income,2019,% of population covered by electricity,40.92334181,2.8333513509074226,True
+137,Liechtenstein,2019,% of population covered by electricity,100.0,6.0,True
+138,Sri Lanka,2019,% of population covered by electricity,100.0,6.0,True
+139,Lower middle income,2019,% of population covered by electricity,89.03552552,5.412278226902495,True
+140,Low & middle income,2019,% of population covered by electricity,88.21043054,5.368051183873302,True
+141,Lesotho,2019,% of population covered by electricity,44.64067841,3.0326093875545426,True
+142,Late-demographic dividend,2019,% of population covered by electricity,99.37013627,5.966237813870546,True
+143,Lithuania,2019,% of population covered by electricity,100.0,6.0,True
+144,Luxembourg,2019,% of population covered by electricity,100.0,6.0,True
+145,Latvia,2019,% of population covered by electricity,100.0,6.0,True
+146,"Macao SAR, China",2019,% of population covered by electricity,100.0,6.0,True
+147,St. Martin (French part),2019,% of population covered by electricity,100.0,6.0,True
+148,Morocco,2019,% of population covered by electricity,99.6,5.978559053635646,True
+149,Monaco,2019,% of population covered by electricity,100.0,6.0,True
+150,Moldova,2019,% of population covered by electricity,100.0,6.0,True
+151,Madagascar,2019,% of population covered by electricity,26.9071846,2.0820521634725337,True
+152,Maldives,2019,% of population covered by electricity,100.0,6.0,True
+153,Middle East & North Africa,2019,% of population covered by electricity,97.2325398,5.851657585715793,True
+154,Mexico,2019,% of population covered by electricity,100.0,6.0,True
+155,Marshall Islands,2019,% of population covered by electricity,97.44360352,5.862971100465745,True
+156,Middle income,2019,% of population covered by electricity,93.50516872,5.651861677199987,True
+157,North Macedonia,2019,% of population covered by electricity,100.0,6.0,True
+158,Mali,2019,% of population covered by electricity,48.02124786,3.2138159082005977,True
+159,Malta,2019,% of population covered by electricity,100.0,6.0,True
+160,Myanmar,2019,% of population covered by electricity,68.35665131,4.303841644872942,True
+161,Middle East & North Africa (excluding high income),2019,% of population covered by electricity,96.75464785,5.826041446546028,True
+162,Montenegro,2019,% of population covered by electricity,100.0,6.0,True
+163,Mongolia,2019,% of population covered by electricity,99.12526703,5.953112243267746,True
+164,Northern Mariana Islands,2019,% of population covered by electricity,100.0,6.0,True
+165,Mozambique,2019,% of population covered by electricity,29.61616135,2.22725972647011,True
+166,Mauritania,2019,% of population covered by electricity,45.81206894,3.095398691368147,True
+167,Mauritius,2019,% of population covered by electricity,100.0,6.0,True
+168,Malawi,2019,% of population covered by electricity,11.2,1.2401099071135384,True
+169,Malaysia,2019,% of population covered by electricity,100.0,6.0,True
+170,North America,2019,% of population covered by electricity,100.0,6.0,True
+171,Namibia,2019,% of population covered by electricity,55.19511795,3.5983523177619205,True
+172,New Caledonia,2019,% of population covered by electricity,100.0,6.0,True
+173,Niger,2019,% of population covered by electricity,18.77472496,1.6461330860937613,True
+174,Nigeria,2019,% of population covered by electricity,55.4,3.6093344803745926,True
+175,Nicaragua,2019,% of population covered by electricity,88.21266937,5.368171190458174,True
+176,Netherlands,2019,% of population covered by electricity,100.0,6.0,True
+177,Norway,2019,% of population covered by electricity,100.0,6.0,True
+178,Nepal,2019,% of population covered by electricity,89.9,5.458616104300076,True
+179,Nauru,2019,% of population covered by electricity,100.0,6.0,True
+180,New Zealand,2019,% of population covered by electricity,100.0,6.0,True
+181,OECD members,2019,% of population covered by electricity,99.99030697,5.999480430659155,True
+182,Oman,2019,% of population covered by electricity,100.0,6.0,True
+183,Other small states,2019,% of population covered by electricity,78.2433314,4.833791088700969,True
+184,Pakistan,2019,% of population covered by electricity,73.91436005,4.601747982380537,True
+185,Panama,2019,% of population covered by electricity,95.83455658,5.776722377620077,True
+186,Peru,2019,% of population covered by electricity,98.34660339,5.911374029914965,True
+187,Philippines,2019,% of population covered by electricity,95.62862396,5.76568390196985,True
+188,Palau,2019,% of population covered by electricity,100.0,6.0,True
+189,Papua New Guinea,2019,% of population covered by electricity,63.46451187,4.041611396522997,True
+190,Poland,2019,% of population covered by electricity,100.0,6.0,True
+191,Pre-demographic dividend,2019,% of population covered by electricity,47.23105972,3.1714599543818767,True
+192,Puerto Rico,2019,% of population covered by electricity,100.0,6.0,True
+193,"Korea, Dem. People's Rep.",2019,% of population covered by electricity,49.37275696,3.286259993510686,True
+194,Portugal,2019,% of population covered by electricity,100.0,6.0,True
+195,Paraguay,2019,% of population covered by electricity,100.0,6.0,True
+196,West Bank and Gaza,2019,% of population covered by electricity,100.0,6.0,True
+197,Pacific island small states,2019,% of population covered by electricity,86.74578058,5.289542480786022,True
+198,Post-demographic dividend,2019,% of population covered by electricity,99.9979629,5.999890806620403,True
+199,French Polynesia,2019,% of population covered by electricity,100.0,6.0,True
+200,Qatar,2019,% of population covered by electricity,100.0,6.0,True
+201,Romania,2019,% of population covered by electricity,100.0,6.0,True
+202,Russian Federation,2019,% of population covered by electricity,100.0,6.0,True
+203,Rwanda,2019,% of population covered by electricity,37.78243637,2.664991388221058,True
+204,South Asia,2019,% of population covered by electricity,94.39872919,5.699758632476429,True
+205,Saudi Arabia,2019,% of population covered by electricity,100.0,6.0,True
+206,Sudan,2019,% of population covered by electricity,53.82707214,3.525021825671449,True
+207,Senegal,2019,% of population covered by electricity,70.4,4.413369969037847,True
+208,Singapore,2019,% of population covered by electricity,100.0,6.0,True
+209,Solomon Islands,2019,% of population covered by electricity,70.25849152,4.405784779713393,True
+210,Sierra Leone,2019,% of population covered by electricity,22.7,1.8565371150886996,True
+211,El Salvador,2019,% of population covered by electricity,100.0,6.0,True
+212,San Marino,2019,% of population covered by electricity,100.0,6.0,True
+213,Somalia,2019,% of population covered by electricity,36.0331955,2.5712279390410457,True
+214,Serbia,2019,% of population covered by electricity,99.8,5.989279526817823,True
+215,Sub-Saharan Africa (excluding high income),2019,% of population covered by electricity,46.74498892,3.145405409501681,True
+216,South Sudan,2019,% of population covered by electricity,6.720535278,1.0,True
+217,Sub-Saharan Africa,2019,% of population covered by electricity,46.74968559,3.1456571621255836,True
+218,Small states,2019,% of population covered by electricity,82.35172866,5.054010901938761,True
+219,Sao Tome and Principe,2019,% of population covered by electricity,75.18190765,4.669691532645199,True
+220,Suriname,2019,% of population covered by electricity,97.88735199,5.88675706832708,True
+221,Slovak Republic,2019,% of population covered by electricity,100.0,6.0,True
+222,Slovenia,2019,% of population covered by electricity,100.0,6.0,True
+223,Sweden,2019,% of population covered by electricity,100.0,6.0,True
+224,Eswatini,2019,% of population covered by electricity,77.16963959,4.77623866742583,True
+225,Sint Maarten (Dutch part),2019,% of population covered by electricity,100.0,6.0,True
+226,Seychelles,2019,% of population covered by electricity,100.0,6.0,True
+227,Syrian Arab Republic,2019,% of population covered by electricity,89.32488251,5.427788446159346,True
+228,Turks and Caicos Islands,2019,% of population covered by electricity,100.0,6.0,True
+229,Chad,2019,% of population covered by electricity,8.4,1.0900232825630645,True
+230,East Asia & Pacific (IDA & IBRD countries),2019,% of population covered by electricity,98.53113688,5.921265461568758,True
+231,Europe & Central Asia (IDA & IBRD countries),2019,% of population covered by electricity,99.98666379,5.999285147591715,True
+232,Togo,2019,% of population covered by electricity,52.44109726,3.4507302930103965,True
+233,Thailand,2019,% of population covered by electricity,99.9,5.994639763408912,True
+234,Tajikistan,2019,% of population covered by electricity,99.63539124,5.9804561078321665,True
+235,Turkmenistan,2019,% of population covered by electricity,99.9,5.994639763408912,True
+236,Latin America & the Caribbean (IDA & IBRD countries),2019,% of population covered by electricity,98.38844661,5.913616925504296,True
+237,Timor-Leste,2019,% of population covered by electricity,94.71617889,5.716774687454128,True
+238,Middle East & North Africa (IDA & IBRD countries),2019,% of population covered by electricity,96.7151297,5.823923180209606,True
+239,Tonga,2019,% of population covered by electricity,98.4,5.914236214542587,True
+240,South Asia (IDA & IBRD),2019,% of population covered by electricity,94.39872919,5.699758632476429,True
+241,Sub-Saharan Africa (IDA & IBRD countries),2019,% of population covered by electricity,46.74968559,3.1456571621255836,True
+242,Trinidad and Tobago,2019,% of population covered by electricity,100.0,6.0,True
+243,Tunisia,2019,% of population covered by electricity,100.0,6.0,True
+244,Turkey,2019,% of population covered by electricity,100.0,6.0,True
+245,Tuvalu,2019,% of population covered by electricity,100.0,6.0,True
+246,Tanzania,2019,% of population covered by electricity,37.7,2.6605726037519535,True
+247,Uganda,2019,% of population covered by electricity,41.3,2.8535411210311343,True
+248,Ukraine,2019,% of population covered by electricity,100.0,6.0,True
+249,Upper middle income,2019,% of population covered by electricity,99.37740261,5.966627306886059,True
+250,Uruguay,2019,% of population covered by electricity,99.9,5.994639763408912,True
+251,United States,2019,% of population covered by electricity,100.0,6.0,True
+252,Uzbekistan,2019,% of population covered by electricity,100.0,6.0,True
+253,St. Vincent and the Grenadines,2019,% of population covered by electricity,100.0,6.0,True
+254,"Venezuela, RB",2019,% of population covered by electricity,100.0,6.0,True
+255,British Virgin Islands,2019,% of population covered by electricity,100.0,6.0,True
+256,Virgin Islands (U.S.),2019,% of population covered by electricity,100.0,6.0,True
+257,Vietnam,2019,% of population covered by electricity,99.4,5.967838580453471,True
+258,Vanuatu,2019,% of population covered by electricity,64.66623688,4.106026700233277,True
+259,World,2019,% of population covered by electricity,90.08403052,5.468480575571886,True
+260,Samoa,2019,% of population covered by electricity,99.2,5.9571181072712935,True
+261,Kosovo,2019,% of population covered by electricity,100.0,6.0,True
+262,"Yemen, Rep.",2019,% of population covered by electricity,72.75170135,4.539426725313666,True
+263,South Africa,2019,% of population covered by electricity,85.0,5.195964511336746,True
+264,Zambia,2019,% of population covered by electricity,43.0,2.9446651430796362,True
+265,Zimbabwe,2019,% of population covered by electricity,41.08910751,2.8422367846142964,True
