@@ -53,7 +53,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
            downloaded_filename: data/id4d_nid.xlsx
            postprocess: ./process_raw_data.js
 
@@ -61,7 +61,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/94586/wb_id4d_dataset_2018_0.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
            downloaded_filename: data/id4d_services.xlsx
            postprocess: ./process_raw_data.js
 
@@ -253,7 +253,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
            downloaded_filename: data/population_digital_financial_services.xlsx
            postprocess: ./process_raw_data.js
 
@@ -277,7 +277,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://globalfindex.worldbank.org/sites/globalfindex/files/databank/Global%20Findex%20Database.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
            downloaded_filename: data/financial_inclusiveness.xlsx
            postprocess: ./process_raw_data.js
 
