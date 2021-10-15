@@ -1,0 +1,150 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Finland,2021,Global Wellbeing Initiative (World Happiness Index),7.842,6.0,True
+1,Denmark,2021,Global Wellbeing Initiative (World Happiness Index),7.62,5.791314156796391,True
+2,Switzerland,2021,Global Wellbeing Initiative (World Happiness Index),7.571,5.745252867080279,True
+3,Iceland,2021,Global Wellbeing Initiative (World Happiness Index),7.554,5.72927241962775,True
+4,Netherlands,2021,Global Wellbeing Initiative (World Happiness Index),7.464,5.644670050761423,True
+5,Norway,2021,Global Wellbeing Initiative (World Happiness Index),7.392,5.576988155668359,True
+6,Sweden,2021,Global Wellbeing Initiative (World Happiness Index),7.363,5.549727392366987,True
+7,Luxembourg,2021,Global Wellbeing Initiative (World Happiness Index),7.324,5.513066365858245,True
+8,New Zealand,2021,Global Wellbeing Initiative (World Happiness Index),7.277,5.468885128783606,True
+9,Austria,2021,Global Wellbeing Initiative (World Happiness Index),7.268,5.460424891896973,True
+10,Australia,2021,Global Wellbeing Initiative (World Happiness Index),7.183,5.380522654634331,True
+11,Israel,2021,Global Wellbeing Initiative (World Happiness Index),7.157,5.356081970295169,True
+12,Germany,2021,Global Wellbeing Initiative (World Happiness Index),7.155,5.354201917653694,True
+13,Canada,2021,Global Wellbeing Initiative (World Happiness Index),7.103,5.305320548975372,True
+14,Ireland,2021,Global Wellbeing Initiative (World Happiness Index),7.085,5.288400075202105,True
+15,Costa Rica,2021,Global Wellbeing Initiative (World Happiness Index),7.069,5.2733596540703145,True
+16,United Kingdom,2021,Global Wellbeing Initiative (World Happiness Index),7.064,5.26865952246663,True
+17,Czech Republic,2021,Global Wellbeing Initiative (World Happiness Index),6.965,5.175596916713669,True
+18,United States,2021,Global Wellbeing Initiative (World Happiness Index),6.951,5.16243654822335,True
+19,Belgium,2021,Global Wellbeing Initiative (World Happiness Index),6.834,5.0524534686971245,True
+20,France,2021,Global Wellbeing Initiative (World Happiness Index),6.69,4.917089678510999,True
+21,Bahrain,2021,Global Wellbeing Initiative (World Happiness Index),6.647,4.87666854671931,True
+22,Malta,2021,Global Wellbeing Initiative (World Happiness Index),6.602,4.834367362286145,True
+23,Taiwan Province of China,2021,Global Wellbeing Initiative (World Happiness Index),6.584,4.81744688851288,True
+24,United Arab Emirates,2021,Global Wellbeing Initiative (World Happiness Index),6.561,4.795826283135929,True
+25,Saudi Arabia,2021,Global Wellbeing Initiative (World Happiness Index),6.494,4.73284451964655,True
+26,Spain,2021,Global Wellbeing Initiative (World Happiness Index),6.491,4.730024440684339,True
+27,Italy,2021,Global Wellbeing Initiative (World Happiness Index),6.483,4.722504230118443,True
+28,Slovenia,2021,Global Wellbeing Initiative (World Happiness Index),6.461,4.701823651062231,True
+29,Guatemala,2021,Global Wellbeing Initiative (World Happiness Index),6.435,4.677382966723069,True
+30,Uruguay,2021,Global Wellbeing Initiative (World Happiness Index),6.431,4.673622861440121,True
+31,Singapore,2021,Global Wellbeing Initiative (World Happiness Index),6.377,4.6228614401203245,True
+32,Kosovo,2021,Global Wellbeing Initiative (World Happiness Index),6.372,4.618161308516639,True
+33,Slovakia,2021,Global Wellbeing Initiative (World Happiness Index),6.331,4.579620229366423,True
+34,Brazil,2021,Global Wellbeing Initiative (World Happiness Index),6.33,4.5786802030456855,True
+35,Mexico,2021,Global Wellbeing Initiative (World Happiness Index),6.317,4.566459860876105,True
+36,Jamaica,2021,Global Wellbeing Initiative (World Happiness Index),6.309,4.55893965031021,True
+37,Lithuania,2021,Global Wellbeing Initiative (World Happiness Index),6.255,4.508178228990412,True
+38,Cyprus,2021,Global Wellbeing Initiative (World Happiness Index),6.223,4.478097386726828,True
+39,Estonia,2021,Global Wellbeing Initiative (World Happiness Index),6.189,4.446136491821772,True
+40,Panama,2021,Global Wellbeing Initiative (World Happiness Index),6.18,4.437676254935138,True
+41,Uzbekistan,2021,Global Wellbeing Initiative (World Happiness Index),6.179,4.436736228614402,True
+42,Chile,2021,Global Wellbeing Initiative (World Happiness Index),6.172,4.430156044369243,True
+43,Poland,2021,Global Wellbeing Initiative (World Happiness Index),6.166,4.424515886444821,True
+44,Kazakhstan,2021,Global Wellbeing Initiative (World Happiness Index),6.152,4.411355517954503,True
+45,Romania,2021,Global Wellbeing Initiative (World Happiness Index),6.14,4.4000752021056595,True
+46,Kuwait,2021,Global Wellbeing Initiative (World Happiness Index),6.106,4.368114307200602,True
+47,Serbia,2021,Global Wellbeing Initiative (World Happiness Index),6.078,4.341793570219967,True
+48,El Salvador,2021,Global Wellbeing Initiative (World Happiness Index),6.061,4.325813122767437,True
+49,Mauritius,2021,Global Wellbeing Initiative (World Happiness Index),6.049,4.314532806918595,True
+50,Latvia,2021,Global Wellbeing Initiative (World Happiness Index),6.032,4.298552359466065,True
+51,Colombia,2021,Global Wellbeing Initiative (World Happiness Index),6.012,4.279751833051325,True
+52,Hungary,2021,Global Wellbeing Initiative (World Happiness Index),5.992,4.260951306636587,True
+53,Thailand,2021,Global Wellbeing Initiative (World Happiness Index),5.985,4.254371122391428,True
+54,Nicaragua,2021,Global Wellbeing Initiative (World Happiness Index),5.972,4.242150780221847,True
+55,Japan,2021,Global Wellbeing Initiative (World Happiness Index),5.94,4.212069937958264,True
+56,Argentina,2021,Global Wellbeing Initiative (World Happiness Index),5.929,4.201729648430157,True
+57,Portugal,2021,Global Wellbeing Initiative (World Happiness Index),5.929,4.201729648430157,True
+58,Honduras,2021,Global Wellbeing Initiative (World Happiness Index),5.919,4.192329385222786,True
+59,Croatia,2021,Global Wellbeing Initiative (World Happiness Index),5.882,4.157548411355519,True
+60,Philippines,2021,Global Wellbeing Initiative (World Happiness Index),5.88,4.155668358714045,True
+61,South Korea,2021,Global Wellbeing Initiative (World Happiness Index),5.845,4.12276743748825,True
+62,Peru,2021,Global Wellbeing Initiative (World Happiness Index),5.84,4.118067305884565,True
+63,Bosnia and Herzegovina,2021,Global Wellbeing Initiative (World Happiness Index),5.813,4.0926865952246665,True
+64,Moldova,2021,Global Wellbeing Initiative (World Happiness Index),5.766,4.048505358150029,True
+65,Ecuador,2021,Global Wellbeing Initiative (World Happiness Index),5.764,4.046625305508555,True
+66,Kyrgyzstan,2021,Global Wellbeing Initiative (World Happiness Index),5.744,4.027824779093814,True
+67,Greece,2021,Global Wellbeing Initiative (World Happiness Index),5.723,4.0080842263583385,True
+68,Bolivia,2021,Global Wellbeing Initiative (World Happiness Index),5.716,4.001504042113179,True
+69,Mongolia,2021,Global Wellbeing Initiative (World Happiness Index),5.677,3.964843015604437,True
+70,Paraguay,2021,Global Wellbeing Initiative (World Happiness Index),5.653,3.942282383906749,True
+71,Montenegro,2021,Global Wellbeing Initiative (World Happiness Index),5.581,3.8746004888136873,True
+72,Dominican Republic,2021,Global Wellbeing Initiative (World Happiness Index),5.545,3.840759541267156,True
+73,North Cyprus,2021,Global Wellbeing Initiative (World Happiness Index),5.536,3.832299304380523,True
+74,Belarus,2021,Global Wellbeing Initiative (World Happiness Index),5.534,3.8304192517390487,True
+75,Russia,2021,Global Wellbeing Initiative (World Happiness Index),5.477,3.7768377514570415,True
+76,Hong Kong S.A.R. of China,2021,Global Wellbeing Initiative (World Happiness Index),5.477,3.7768377514570415,True
+77,Tajikistan,2021,Global Wellbeing Initiative (World Happiness Index),5.466,3.7664974619289344,True
+78,Vietnam,2021,Global Wellbeing Initiative (World Happiness Index),5.411,3.7147960142884,True
+79,Libya,2021,Global Wellbeing Initiative (World Happiness Index),5.41,3.713855987967664,True
+80,Malaysia,2021,Global Wellbeing Initiative (World Happiness Index),5.384,3.6894153036285022,True
+81,Indonesia,2021,Global Wellbeing Initiative (World Happiness Index),5.345,3.6527542771197594,True
+82,Congo (Brazzaville),2021,Global Wellbeing Initiative (World Happiness Index),5.342,3.649934198157548,True
+83,China,2021,Global Wellbeing Initiative (World Happiness Index),5.339,3.6471141191953382,True
+84,Ivory Coast,2021,Global Wellbeing Initiative (World Happiness Index),5.306,3.6160932506110175,True
+85,Armenia,2021,Global Wellbeing Initiative (World Happiness Index),5.283,3.594472645234067,True
+86,Nepal,2021,Global Wellbeing Initiative (World Happiness Index),5.269,3.5813122767437493,True
+87,Bulgaria,2021,Global Wellbeing Initiative (World Happiness Index),5.266,3.5784921977815385,True
+88,Maldives,2021,Global Wellbeing Initiative (World Happiness Index),5.198,3.514570407971424,True
+89,Azerbaijan,2021,Global Wellbeing Initiative (World Happiness Index),5.171,3.489189697311525,True
+90,Cameroon,2021,Global Wellbeing Initiative (World Happiness Index),5.142,3.4619289340101527,True
+91,Senegal,2021,Global Wellbeing Initiative (World Happiness Index),5.132,3.4525286708027827,True
+92,Albania,2021,Global Wellbeing Initiative (World Happiness Index),5.117,3.438428275991728,True
+93,North Macedonia,2021,Global Wellbeing Initiative (World Happiness Index),5.101,3.423387854859936,True
+94,Ghana,2021,Global Wellbeing Initiative (World Happiness Index),5.088,3.411167512690356,True
+95,Niger,2021,Global Wellbeing Initiative (World Happiness Index),5.074,3.398007144200038,True
+96,Turkmenistan,2021,Global Wellbeing Initiative (World Happiness Index),5.066,3.3904869336341417,True
+97,Gambia,2021,Global Wellbeing Initiative (World Happiness Index),5.051,3.3763865388230876,True
+98,Benin,2021,Global Wellbeing Initiative (World Happiness Index),5.045,3.3707463808986655,True
+99,Laos,2021,Global Wellbeing Initiative (World Happiness Index),5.03,3.356645986087611,True
+100,Bangladesh,2021,Global Wellbeing Initiative (World Happiness Index),5.025,3.3519458544839265,True
+101,Guinea,2021,Global Wellbeing Initiative (World Happiness Index),4.984,3.31340477533371,True
+102,South Africa,2021,Global Wellbeing Initiative (World Happiness Index),4.956,3.2870840383530746,True
+103,Turkey,2021,Global Wellbeing Initiative (World Happiness Index),4.948,3.279563827787179,True
+104,Pakistan,2021,Global Wellbeing Initiative (World Happiness Index),4.934,3.2664034592968605,True
+105,Morocco,2021,Global Wellbeing Initiative (World Happiness Index),4.918,3.251363038165069,True
+106,Venezuela,2021,Global Wellbeing Initiative (World Happiness Index),4.892,3.2269223538259078,True
+107,Georgia,2021,Global Wellbeing Initiative (World Happiness Index),4.891,3.2259823275051707,True
+108,Algeria,2021,Global Wellbeing Initiative (World Happiness Index),4.887,3.222222222222222,True
+109,Ukraine,2021,Global Wellbeing Initiative (World Happiness Index),4.875,3.2109419063733786,True
+110,Iraq,2021,Global Wellbeing Initiative (World Happiness Index),4.854,3.191201353637902,True
+111,Gabon,2021,Global Wellbeing Initiative (World Happiness Index),4.852,3.1893213009964287,True
+112,Burkina Faso,2021,Global Wellbeing Initiative (World Happiness Index),4.834,3.172400827223162,True
+113,Cambodia,2021,Global Wellbeing Initiative (World Happiness Index),4.83,3.1686407219402146,True
+114,Mozambique,2021,Global Wellbeing Initiative (World Happiness Index),4.794,3.1347997743936826,True
+115,Nigeria,2021,Global Wellbeing Initiative (World Happiness Index),4.759,3.1018988531678895,True
+116,Mali,2021,Global Wellbeing Initiative (World Happiness Index),4.723,3.0680579056213575,True
+117,Iran,2021,Global Wellbeing Initiative (World Happiness Index),4.721,3.0661778529798838,True
+118,Uganda,2021,Global Wellbeing Initiative (World Happiness Index),4.636,2.9862756157172403,True
+119,Liberia,2021,Global Wellbeing Initiative (World Happiness Index),4.625,2.9759353261891337,True
+120,Kenya,2021,Global Wellbeing Initiative (World Happiness Index),4.607,2.959014852415868,True
+121,Tunisia,2021,Global Wellbeing Initiative (World Happiness Index),4.596,2.9486745628877613,True
+122,Lebanon,2021,Global Wellbeing Initiative (World Happiness Index),4.584,2.9373942470389167,True
+123,Namibia,2021,Global Wellbeing Initiative (World Happiness Index),4.574,2.9279939838315476,True
+124,Palestinian Territories,2021,Global Wellbeing Initiative (World Happiness Index),4.517,2.87441248354954,True
+125,Myanmar,2021,Global Wellbeing Initiative (World Happiness Index),4.426,2.788870088362475,True
+126,Jordan,2021,Global Wellbeing Initiative (World Happiness Index),4.395,2.7597292724196274,True
+127,Chad,2021,Global Wellbeing Initiative (World Happiness Index),4.355,2.7221282195901493,True
+128,Sri Lanka,2021,Global Wellbeing Initiative (World Happiness Index),4.325,2.6939274299680394,True
+129,Swaziland,2021,Global Wellbeing Initiative (World Happiness Index),4.308,2.67794698251551,True
+130,Comoros,2021,Global Wellbeing Initiative (World Happiness Index),4.289,2.660086482421508,True
+131,Egypt,2021,Global Wellbeing Initiative (World Happiness Index),4.283,2.654446324497086,True
+132,Ethiopia,2021,Global Wellbeing Initiative (World Happiness Index),4.275,2.6469261139311904,True
+133,Mauritania,2021,Global Wellbeing Initiative (World Happiness Index),4.227,2.6018048505358156,True
+134,Madagascar,2021,Global Wellbeing Initiative (World Happiness Index),4.208,2.5839443504418127,True
+135,Togo,2021,Global Wellbeing Initiative (World Happiness Index),4.107,2.4890016920473776,True
+136,Zambia,2021,Global Wellbeing Initiative (World Happiness Index),4.073,2.4570407971423203,True
+137,Sierra Leone,2021,Global Wellbeing Initiative (World Happiness Index),3.849,2.246474901297237,True
+138,India,2021,Global Wellbeing Initiative (World Happiness Index),3.819,2.218274111675127,True
+139,Burundi,2021,Global Wellbeing Initiative (World Happiness Index),3.775,2.1769129535626996,True
+140,Yemen,2021,Global Wellbeing Initiative (World Happiness Index),3.658,2.066929874036473,True
+141,Tanzania,2021,Global Wellbeing Initiative (World Happiness Index),3.623,2.034028952810679,True
+142,Haiti,2021,Global Wellbeing Initiative (World Happiness Index),3.615,2.026508742244783,True
+143,Malawi,2021,Global Wellbeing Initiative (World Happiness Index),3.6,2.012408347433728,True
+144,Lesotho,2021,Global Wellbeing Initiative (World Happiness Index),3.512,1.929686031208874,True
+145,Botswana,2021,Global Wellbeing Initiative (World Happiness Index),3.467,1.88738484677571,True
+146,Rwanda,2021,Global Wellbeing Initiative (World Happiness Index),3.415,1.8385034780973868,True
+147,Zimbabwe,2021,Global Wellbeing Initiative (World Happiness Index),3.145,1.584696371498402,True
+148,Afghanistan,2021,Global Wellbeing Initiative (World Happiness Index),2.523,1.0,True

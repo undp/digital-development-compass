@@ -1,0 +1,155 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Ukraine,2019,Crypto Adoption Index,1.0,6.0,True
+1,Russia,2019,Crypto Adoption Index,0.931,5.655,True
+2,Venezuela,2019,Crypto Adoption Index,0.799,4.995,True
+3,China,2019,Crypto Adoption Index,0.672,4.36,True
+4,Kenya,2019,Crypto Adoption Index,0.645,4.225,True
+5,United States of America,2019,Crypto Adoption Index,0.627,4.135,True
+6,South Africa,2019,Crypto Adoption Index,0.526,3.63,True
+7,Nigeria,2019,Crypto Adoption Index,0.459,3.295,True
+8,Colombia,2019,Crypto Adoption Index,0.444,3.22,True
+9,Vietnam,2019,Crypto Adoption Index,0.443,3.215,True
+10,lndia,2019,Crypto Adoption Index,0.395,2.975,True
+11,Thailand,2019,Crypto Adoption Index,0.365,2.825,True
+12,Brazil,2019,Crypto Adoption Index,0.338,2.6900000000000004,True
+13,United Kingdom,2019,Crypto Adoption Index,0.333,2.665,True
+14,Pakistan,2019,Crypto Adoption Index,0.272,2.3600000000000003,True
+15,Philippines,2019,Crypto Adoption Index,0.262,2.31,True
+16,South Korea,2019,Crypto Adoption Index,0.246,2.23,True
+17,Peru,2019,Crypto Adoption Index,0.242,2.21,True
+18,Belarus,2019,Crypto Adoption Index,0.241,2.205,True
+19,Australia,2019,Crypto Adoption Index,0.21,2.05,True
+20,France,2019,Crypto Adoption Index,0.208,2.04,True
+21,Latvia,2019,Crypto Adoption Index,0.204,2.02,True
+22,Hong Kong * **,2019,Crypto Adoption Index,0.202,2.01,True
+23,Canada,2019,Crypto Adoption Index,0.196,1.98,True
+24,Malaysia,2019,Crypto Adoption Index,0.192,1.96,True
+25,Netherlands,2019,Crypto Adoption Index,0.183,1.915,True
+26,Ghana,2019,Crypto Adoption Index,0.18,1.9,True
+27,Argentina,2019,Crypto Adoption Index,0.174,1.8699999999999999,True
+28,Turkey,2019,Crypto Adoption Index,0.174,1.8699999999999999,True
+29,Georgia,2019,Crypto Adoption Index,0.17,1.85,True
+30,Ecuador,2019,Crypto Adoption Index,0.157,1.7850000000000001,True
+31,lndonesia,2019,Crypto Adoption Index,0.151,1.755,True
+32,Germany,2019,Crypto Adoption Index,0.147,1.7349999999999999,True
+33,Chile,2019,Crypto Adoption Index,0.147,1.7349999999999999,True
+34,Lithuania,2019,Crypto Adoption Index,0.144,1.72,True
+35,Slovakia,2019,Crypto Adoption Index,0.143,1.7149999999999999,True
+36,Spain,2019,Crypto Adoption Index,0.138,1.69,True
+37,Poland,2019,Crypto Adoption Index,0.137,1.685,True
+38,Mexico,2019,Crypto Adoption Index,0.135,1.675,True
+39,Slovenia,2019,Crypto Adoption Index,0.133,1.665,True
+40,Estonia,2019,Crypto Adoption Index,0.13,1.65,True
+41,Morocco,2019,Crypto Adoption Index,0.127,1.635,True
+42,Portugal,2019,Crypto Adoption Index,0.126,1.63,True
+43,Belgium,2019,Crypto Adoption Index,0.125,1.625,True
+44,Bangladesh,2019,Crypto Adoption Index,0.118,1.5899999999999999,True
+45,Sweden,2019,Crypto Adoption Index,0.117,1.585,True
+46,Czech Republic,2019,Crypto Adoption Index,0.114,1.57,True
+47,Romania,2019,Crypto Adoption Index,0.112,1.56,True
+48,ltaly,2019,Crypto Adoption Index,0.109,1.545,True
+49,Singapore,2019,Crypto Adoption Index,0.102,1.51,True
+50,Panama,2019,Crypto Adoption Index,0.094,1.47,True
+51,Iran,2019,Crypto Adoption Index,0.092,1.46,True
+52,El Salvador,2019,Crypto Adoption Index,0.09,1.45,True
+53,Austria,2019,Crypto Adoption Index,0.087,1.435,True
+54,Cameroon,2019,Crypto Adoption Index,0.085,1.425,True
+55,Finland,2019,Crypto Adoption Index,0.085,1.425,True
+56,Greece,2019,Crypto Adoption Index,0.084,1.42,True
+57,Dominican Republic,2019,Crypto Adoption Index,0.083,1.415,True
+58,Bolivie,2019,Crypto Adoption Index,0.082,1.4100000000000001,True
+59,United Republic of Tanzanie,2019,Crypto Adoption Index,0.081,1.405,True
+60,Switzerland,2019,Crypto Adoption Index,0.08,1.4,True
+61,Uganda,2019,Crypto Adoption Index,0.079,1.395,True
+62,New Zeeland,2019,Crypto Adoption Index,0.075,1.375,True
+63,Egypt,2019,Crypto Adoption Index,0.074,1.37,True
+64,Bulgarie,2019,Crypto Adoption Index,0.073,1.365,True
+65,Republic of Serbie,2019,Crypto Adoption Index,0.073,1.365,True
+66,Kazakhstan,2019,Crypto Adoption Index,0.072,1.3599999999999999,True
+67,Norway,2019,Crypto Adoption Index,0.072,1.3599999999999999,True
+68,lreland,2019,Crypto Adoption Index,0.071,1.355,True
+69,Cyprus,2019,Crypto Adoption Index,0.067,1.335,True
+70,Japan,2019,Crypto Adoption Index,0.065,1.325,True
+71,Mozambique,2019,Crypto Adoption Index,0.061,1.305,True
+72,Togo,2019,Crypto Adoption Index,0.06,1.3,True
+73,Montenegro,2019,Crypto Adoption Index,0.06,1.3,True
+74,Mauritius,2019,Crypto Adoption Index,0.059,1.295,True
+75,United Arab Emirates,2019,Crypto Adoption Index,0.056,1.28,True
+76,Croatie,2019,Crypto Adoption Index,0.054,1.27,True
+77,Sri Lanka,2019,Crypto Adoption Index,0.053,1.2650000000000001,True
+78,Costa Rica,2019,Crypto Adoption Index,0.052,1.26,True
+79,Zambie,2019,Crypto Adoption Index,0.051,1.255,True
+80,Rwanda,2019,Crypto Adoption Index,0.049,1.245,True
+81,Nepal,2019,Crypto Adoption Index,0.049,1.245,True
+82,Malta,2019,Crypto Adoption Index,0.048,1.24,True
+83,Uruguay,2019,Crypto Adoption Index,0.048,1.24,True
+84,Denmark,2019,Crypto Adoption Index,0.042,1.21,True
+85,Bosnie and Herzegovina,2019,Crypto Adoption Index,0.042,1.21,True
+86,Hungary,2019,Crypto Adoption Index,0.041,1.205,True
+87,Moldova,2019,Crypto Adoption Index,0.04,1.2,True
+88,Cambodia,2019,Crypto Adoption Index,0.04,1.2,True
+89,Benin,2019,Crypto Adoption Index,0.039,1.195,True
+90,Guatemala,2019,Crypto Adoption Index,0.039,1.195,True
+91,Jamaica,2019,Crypto Adoption Index,0.038,1.19,True
+92,Saudi Arabie,2019,Crypto Adoption Index,0.036,1.18,True
+93,Ivory Coast,2019,Crypto Adoption Index,0.036,1.18,True
+94,Jordan,2019,Crypto Adoption Index,0.033,1.165,True
+95,Israel,2019,Crypto Adoption Index,0.033,1.165,True
+96,Puerto Rico,2019,Crypto Adoption Index,0.032,1.16,True
+97,Senegal,2019,Crypto Adoption Index,0.029,1.145,True
+98,Luxembourg,2019,Crypto Adoption Index,0.025,1.125,True
+99,Trinidad and Tobago,2019,Crypto Adoption Index,0.025,1.125,True
+100,Mali,2019,Crypto Adoption Index,0.023,1.115,True
+101,Macedonia,2019,Crypto Adoption Index,0.022,1.1099999999999999,True
+102,Kuwait,2019,Crypto Adoption Index,0.021,1.105,True
+103,Namibie,2019,Crypto Adoption Index,0.021,1.105,True
+104,Armenia,2019,Crypto Adoption Index,0.021,1.105,True
+105,Democratic Republic of the Congo,2019,Crypto Adoption Index,0.02,1.1,True
+106,Nicaragua,2019,Crypto Adoption Index,0.02,1.1,True
+107,Madagascar,2019,Crypto Adoption Index,0.018,1.09,True
+108,Angola,2019,Crypto Adoption Index,0.016,1.08,True
+109,Botswana,2019,Crypto Adoption Index,0.016,1.08,True
+110,Barbados,2019,Crypto Adoption Index,0.015,1.075,True
+111,Paraguay,2019,Crypto Adoption Index,0.015,1.075,True
+112,Tunisie,2019,Crypto Adoption Index,0.014,1.07,True
+113,Lebanon,2019,Crypto Adoption Index,0.013,1.065,True
+114,Uzbekistan,2019,Crypto Adoption Index,0.013,1.065,True
+115,Honduras,2019,Crypto Adoption Index,0.013,1.065,True
+116,Syria,2019,Crypto Adoption Index,0.012,1.06,True
+117,Albanie,2019,Crypto Adoption Index,0.01,1.05,True
+118,Qatar,2019,Crypto Adoption Index,0.01,1.05,True
+119,lceland,2019,Crypto Adoption Index,0.01,1.05,True
+120,Bahrein,2019,Crypto Adoption Index,0.009,1.045,True
+121,Ethiopie,2019,Crypto Adoption Index,0.009,1.045,True
+122,Kyrgyzstan,2019,Crypto Adoption Index,0.008,1.04,True
+123,Oman,2019,Crypto Adoption Index,0.008,1.04,True
+124,Azerbaijan,2019,Crypto Adoption Index,0.008,1.04,True
+125,Burkina Faso,2019,Crypto Adoption Index,0.006,1.03,True
+126,Maldives,2019,Crypto Adoption Index,0.006,1.03,True
+127,Haïti,2019,Crypto Adoption Index,0.006,1.03,True
+128,Yemen,2019,Crypto Adoption Index,0.005,1.025,True
+129,Suriname,2019,Crypto Adoption Index,0.005,1.025,True
+130,Iraq,2019,Crypto Adoption Index,0.005,1.025,True
+131,Malawi,2019,Crypto Adoption Index,0.004,1.02,True
+132,The Bahamas,2019,Crypto Adoption Index,0.003,1.015,True
+133,Sudan,2019,Crypto Adoption Index,0.003,1.015,True
+134,Brunei,2019,Crypto Adoption Index,0.003,1.015,True
+135,Myanmar,2019,Crypto Adoption Index,0.003,1.015,True
+136,Gabon,2019,Crypto Adoption Index,0.003,1.015,True
+137,Belize,2019,Crypto Adoption Index,0.002,1.01,True
+138,Macao * **,2019,Crypto Adoption Index,0.002,1.01,True
+139,Papua New Guinea,2019,Crypto Adoption Index,0.001,1.005,True
+140,Guyana,2019,Crypto Adoption Index,0.0,1.0,True
+141,Bermuda *,2019,Crypto Adoption Index,0.0,1.0,True
+142,Afghanistan,2019,Crypto Adoption Index,0.0,1.0,True
+143,Algeria,2019,Crypto Adoption Index,0.0,1.0,True
+144,Cape Verde,2019,Crypto Adoption Index,0.0,1.0,True
+145,Chade,2019,Crypto Adoption Index,0.0,1.0,True
+146,Fiji,2019,Crypto Adoption Index,0.0,1.0,True
+147,Laos,2019,Crypto Adoption Index,0.0,1.0,True
+148,Libya,2019,Crypto Adoption Index,0.0,1.0,True
+149,Mongolia,2019,Crypto Adoption Index,0.0,1.0,True
+150,Tajikistan,2019,Crypto Adoption Index,0.0,1.0,True
+151,Turkmenistan,2019,Crypto Adoption Index,0.0,1.0,True
+152,West Bank and Gaza*,2019,Crypto Adoption Index,0.0,1.0,True
+153,Zimbabwe,2019,Crypto Adoption Index,0.0,1.0,True

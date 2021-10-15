@@ -1,0 +1,194 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Iraq ,2020,Human Capital Index (HCI),0.4358,3.1790000000000003,True
+1,Ireland ,2020,Human Capital Index (HCI),0.9494,5.747,True
+2,Israel ,2020,Human Capital Index (HCI),0.8924,5.462,True
+3,Italy ,2020,Human Capital Index (HCI),0.8466,5.2330000000000005,True
+4,Jamaica ,2020,Human Capital Index (HCI),0.7142,4.571,True
+5,Japan ,2020,Human Capital Index (HCI),0.8684,5.342,True
+6,Jordan ,2020,Human Capital Index (HCI),0.68,4.4,True
+7,Kazakhstan ,2020,Human Capital Index (HCI),0.8866,5.433,True
+8,Kenya ,2020,Human Capital Index (HCI),0.5812,3.906,True
+9,Kiribati ,2020,Human Capital Index (HCI),0.6778,4.388999999999999,True
+10,Kuwait ,2020,Human Capital Index (HCI),0.747,4.734999999999999,True
+11,Kyrgyzstan ,2020,Human Capital Index (HCI),0.7873,4.9365000000000006,True
+12,Lao People's Democratic Republic ,2020,Human Capital Index (HCI),0.5539,3.7695,True
+13,Latvia ,2020,Human Capital Index (HCI),0.9172,5.586,True
+14,Lebanon ,2020,Human Capital Index (HCI),0.6567,4.2835,True
+15,Lesotho ,2020,Human Capital Index (HCI),0.5753,3.8765,True
+16,Liberia ,2020,Human Capital Index (HCI),0.3933,2.9665,True
+17,Libya,2020,Human Capital Index (HCI),0.7357,4.6785,True
+18,Liechtenstein,2020,Human Capital Index (HCI),0.8489,5.2445,True
+19,Lithuania ,2020,Human Capital Index (HCI),0.9218,5.609,True
+20,Luxembourg,2020,Human Capital Index (HCI),0.8097,5.0485,True
+21,Madagascar ,2020,Human Capital Index (HCI),0.5307,3.6534999999999997,True
+22,Malawi ,2020,Human Capital Index (HCI),0.4812,3.406,True
+23,Malaysia,2020,Human Capital Index (HCI),0.7513,4.7565,True
+24,Maldives,2020,Human Capital Index (HCI),0.6886,4.443,True
+25,Mali ,2020,Human Capital Index (HCI),0.2274,2.137,True
+26,Malta ,2020,Human Capital Index (HCI),0.829,5.145,True
+27,Marshall Islands ,2020,Human Capital Index (HCI),0.7506,4.753,True
+28,Mauritania ,2020,Human Capital Index (HCI),0.3575,2.7874999999999996,True
+29,Afghanistan,2020,Human Capital Index (HCI),0.3728,2.864,True
+30,Mauritius ,2020,Human Capital Index (HCI),0.7911,4.955500000000001,True
+31,Mexico ,2020,Human Capital Index (HCI),0.7727,4.8635,True
+32,Micronesia (Federated States of) ,2020,Human Capital Index (HCI),0.6747,4.3735,True
+33,Monaco ,2020,Human Capital Index (HCI),0.8187,5.0935,True
+34,Mongolia ,2020,Human Capital Index (HCI),0.8063,5.0315,True
+35,Montenegro,2020,Human Capital Index (HCI),0.8239,5.1194999999999995,True
+36,Albania ,2020,Human Capital Index (HCI),0.8001,5.000500000000001,True
+37,Algeria ,2020,Human Capital Index (HCI),0.6966,4.4830000000000005,True
+38,Andorra ,2020,Human Capital Index (HCI),0.7448,4.724,True
+39,Angola ,2020,Human Capital Index (HCI),0.5295,3.6475,True
+40,Antigua and Barbuda ,2020,Human Capital Index (HCI),0.7518,4.759,True
+41,Argentina ,2020,Human Capital Index (HCI),0.91,5.55,True
+42,Armenia ,2020,Human Capital Index (HCI),0.7872,4.936,True
+43,Morocco ,2020,Human Capital Index (HCI),0.6152,4.076,True
+44,Mozambique ,2020,Human Capital Index (HCI),0.4222,3.111,True
+45,Myanmar ,2020,Human Capital Index (HCI),0.5125,3.5625,True
+46,Namibia ,2020,Human Capital Index (HCI),0.6558,4.279,True
+47,Nauru ,2020,Human Capital Index (HCI),0.6006,4.003,True
+48,Dominica ,2020,Human Capital Index (HCI),0.6698,4.349,True
+49,Dominican Republic ,2020,Human Capital Index (HCI),0.7419,4.7095,True
+50,Ecuador ,2020,Human Capital Index (HCI),0.7793,4.8965,True
+51,Egypt ,2020,Human Capital Index (HCI),0.6192,4.096,True
+52,El Salvador ,2020,Human Capital Index (HCI),0.6242,4.121,True
+53,Equatorial Guinea ,2020,Human Capital Index (HCI),0.5547,3.7735,True
+54,Eritrea ,2020,Human Capital Index (HCI),0.3759,2.8795,True
+55,Estonia ,2020,Human Capital Index (HCI),0.9266,5.633,True
+56,Nepal ,2020,Human Capital Index (HCI),0.5405,3.7024999999999997,True
+57,Netherlands ,2020,Human Capital Index (HCI),0.9349,5.6745,True
+58,New Zealand ,2020,Human Capital Index (HCI),0.9516,5.758,True
+59,Nicaragua ,2020,Human Capital Index (HCI),0.6133,4.0665,True
+60,Niger ,2020,Human Capital Index (HCI),0.1304,1.652,True
+61,Nigeria ,2020,Human Capital Index (HCI),0.4507,3.2535,True
+62,Norway ,2020,Human Capital Index (HCI),0.9392,5.696,True
+63,Oman ,2020,Human Capital Index (HCI),0.7751,4.875500000000001,True
+64,Pakistan ,2020,Human Capital Index (HCI),0.3818,2.909,True
+65,Palau ,2020,Human Capital Index (HCI),0.8816,5.408,True
+66,Panama ,2020,Human Capital Index (HCI),0.7421,4.7105,True
+67,Papua New Guinea ,2020,Human Capital Index (HCI),0.5013,3.5065,True
+68,Paraguay ,2020,Human Capital Index (HCI),0.6968,4.484,True
+69,Peru ,2020,Human Capital Index (HCI),0.794,4.970000000000001,True
+70,Philippines ,2020,Human Capital Index (HCI),0.7544,4.772,True
+71,Poland ,2020,Human Capital Index (HCI),0.9001,5.5005,True
+72,Portugal ,2020,Human Capital Index (HCI),0.8463,5.2315000000000005,True
+73,Qatar ,2020,Human Capital Index (HCI),0.6698,4.349,True
+74,Republic of Korea ,2020,Human Capital Index (HCI),0.8997,5.4985,True
+75,Republic of Moldova ,2020,Human Capital Index (HCI),0.7432,4.715999999999999,True
+76,Romania ,2020,Human Capital Index (HCI),0.7995,4.9975000000000005,True
+77,Russian Federation ,2020,Human Capital Index (HCI),0.8833,5.4165,True
+78,Australia ,2020,Human Capital Index (HCI),1.0,6.0,True
+79,Austria,2020,Human Capital Index (HCI),0.9032,5.516,True
+80,Azerbaijan ,2020,Human Capital Index (HCI),0.7713,4.8565000000000005,True
+81,Bahamas ,2020,Human Capital Index (HCI),0.7546,4.773,True
+82,Chad ,2020,Human Capital Index (HCI),0.1782,1.891,True
+83,Chile ,2020,Human Capital Index (HCI),0.8643,5.3214999999999995,True
+84,China ,2020,Human Capital Index (HCI),0.7396,4.698,True
+85,Bahrain ,2020,Human Capital Index (HCI),0.8439,5.2195,True
+86,Bangladesh ,2020,Human Capital Index (HCI),0.5731,3.8655000000000004,True
+87,Barbados ,2020,Human Capital Index (HCI),0.8549,5.2745,True
+88,Belarus ,2020,Human Capital Index (HCI),0.8912,5.4559999999999995,True
+89,Belgium ,2020,Human Capital Index (HCI),0.9521,5.7604999999999995,True
+90,Belize ,2020,Human Capital Index (HCI),0.6919,4.4595,True
+91,Benin ,2020,Human Capital Index (HCI),0.4404,3.202,True
+92,Bhutan ,2020,Human Capital Index (HCI),0.5139,3.5695,True
+93,Bolivia ,2020,Human Capital Index (HCI),0.7379,4.6895,True
+94,Bosnia and Herzegovina ,2020,Human Capital Index (HCI),0.7468,4.734,True
+95,Botswana ,2020,Human Capital Index (HCI),0.6911,4.455500000000001,True
+96,Djibouti ,2020,Human Capital Index (HCI),0.3418,2.709,True
+97,Brazil ,2020,Human Capital Index (HCI),0.7803,4.9015,True
+98,Brunei Darussalam ,2020,Human Capital Index (HCI),0.7605,4.8025,True
+99,Bulgaria ,2020,Human Capital Index (HCI),0.8408,5.204,True
+100,Burkina Faso ,2020,Human Capital Index (HCI),0.2911,2.4555000000000002,True
+101,Burundi ,2020,Human Capital Index (HCI),0.4891,3.4455,True
+102,Cambodia ,2020,Human Capital Index (HCI),0.5344,3.6719999999999997,True
+103,Cameroon ,2020,Human Capital Index (HCI),0.5971,3.9855,True
+104,Canada ,2020,Human Capital Index (HCI),0.9029,5.5145,True
+105,Cabo Verde ,2020,Human Capital Index (HCI),0.6337,4.1685,True
+106,Central African Republic ,2020,Human Capital Index (HCI),0.2539,2.2695,True
+107,Colombia ,2020,Human Capital Index (HCI),0.7723,4.8614999999999995,True
+108,Comoros ,2020,Human Capital Index (HCI),0.4652,3.326,True
+109,Congo ,2020,Human Capital Index (HCI),0.5822,3.9110000000000005,True
+110,Costa Rica ,2020,Human Capital Index (HCI),0.8428,5.214,True
+111,Côte d'Ivoire ,2020,Human Capital Index (HCI),0.3808,2.904,True
+112,Croatia ,2020,Human Capital Index (HCI),0.8414,5.207,True
+113,Cuba ,2020,Human Capital Index (HCI),0.8215,5.1075,True
+114,Cyprus ,2020,Human Capital Index (HCI),0.8429,5.2145,True
+115,Czech Republic ,2020,Human Capital Index (HCI),0.903,5.515000000000001,True
+116,Democratic People's Republic of Korea ,2020,Human Capital Index (HCI),0.6402,4.2010000000000005,True
+117,Democratic Republic of the Congo ,2020,Human Capital Index (HCI),0.5303,3.6515,True
+118,Denmark ,2020,Human Capital Index (HCI),0.9588,5.794,True
+119,Ethiopia ,2020,Human Capital Index (HCI),0.3378,2.689,True
+120,Fiji ,2020,Human Capital Index (HCI),0.8227,5.1135,True
+121,Finland ,2020,Human Capital Index (HCI),0.9549,5.7745,True
+122,Guinea-Bissau ,2020,Human Capital Index (HCI),0.4265,3.1325,True
+123,Guyana ,2020,Human Capital Index (HCI),0.6462,4.231,True
+124,Spain ,2020,Human Capital Index (HCI),0.8989,5.4945,True
+125,Sierra Leone ,2020,Human Capital Index (HCI),0.3144,2.572,True
+126,France,2020,Human Capital Index (HCI),0.8612,5.306,True
+127,Gabon ,2020,Human Capital Index (HCI),0.6719,4.359500000000001,True
+128,Gambia ,2020,Human Capital Index (HCI),0.363,2.815,True
+129,Georgia (Country),2020,Human Capital Index (HCI),0.8717,5.3585,True
+130,Germany ,2020,Human Capital Index (HCI),0.9362,5.681,True
+131,Ghana ,2020,Human Capital Index (HCI),0.593,3.965,True
+132,Greece ,2020,Human Capital Index (HCI),0.8905,5.4525,True
+133,Grenada ,2020,Human Capital Index (HCI),0.8576,5.288,True
+134,Guatemala ,2020,Human Capital Index (HCI),0.552,3.7600000000000002,True
+135,Guinea ,2020,Human Capital Index (HCI),0.2591,2.2955,True
+136,Haiti ,2020,Human Capital Index (HCI),0.3839,2.9195,True
+137,Honduras ,2020,Human Capital Index (HCI),0.5568,3.784,True
+138,Hungary ,2020,Human Capital Index (HCI),0.8509,5.2545,True
+139,Iceland ,2020,Human Capital Index (HCI),0.9525,5.7625,True
+140,India ,2020,Human Capital Index (HCI),0.5848,3.924,True
+141,Indonesia ,2020,Human Capital Index (HCI),0.7342,4.670999999999999,True
+142,Iran (Islamic Republic of) ,2020,Human Capital Index (HCI),0.7686,4.843,True
+143,Slovenia ,2020,Human Capital Index (HCI),0.9256,5.628,True
+144,Solomon Islands ,2020,Human Capital Index (HCI),0.4985,3.4925,True
+145,Somalia ,2020,Human Capital Index (HCI),0.0,1.0,True
+146,South Africa ,2020,Human Capital Index (HCI),0.7371,4.685499999999999,True
+147,Sri Lanka ,2020,Human Capital Index (HCI),0.766,4.83,True
+148,Sudan ,2020,Human Capital Index (HCI),0.3559,2.7795,True
+149,Suriname ,2020,Human Capital Index (HCI),0.7098,4.5489999999999995,True
+150,Eswatini,2020,Human Capital Index (HCI),0.6392,4.196,True
+151,Uzbekistan ,2020,Human Capital Index (HCI),0.7434,4.717,True
+152,Vanuatu ,2020,Human Capital Index (HCI),0.6012,4.006,True
+153,Venezuela ,2020,Human Capital Index (HCI),0.7807,4.903499999999999,True
+154,Viet Nam ,2020,Human Capital Index (HCI),0.6779,4.3895,True
+155,Sweden ,2020,Human Capital Index (HCI),0.9471,5.7355,True
+156,Switzerland ,2020,Human Capital Index (HCI),0.8946,5.473,True
+157,Syrian Arab Republic ,2020,Human Capital Index (HCI),0.5073,3.5364999999999998,True
+158,Tajikistan ,2020,Human Capital Index (HCI),0.7274,4.6370000000000005,True
+159,Thailand ,2020,Human Capital Index (HCI),0.7751,4.875500000000001,True
+160,North Macedonia,2020,Human Capital Index (HCI),0.7395,4.6975,True
+161,Timor-Leste,2020,Human Capital Index (HCI),0.5599,3.7994999999999997,True
+162,Togo ,2020,Human Capital Index (HCI),0.5373,3.6865,True
+163,Tonga ,2020,Human Capital Index (HCI),0.8283,5.141500000000001,True
+164,Trinidad and Tobago ,2020,Human Capital Index (HCI),0.7434,4.717,True
+165,Tunisia ,2020,Human Capital Index (HCI),0.6974,4.487,True
+166,Turkey ,2020,Human Capital Index (HCI),0.8287,5.1434999999999995,True
+167,Turkmenistan ,2020,Human Capital Index (HCI),0.6783,4.391500000000001,True
+168,Tuvalu ,2020,Human Capital Index (HCI),0.6821,4.410500000000001,True
+169,Uganda ,2020,Human Capital Index (HCI),0.5395,3.6975,True
+170,Ukraine,2020,Human Capital Index (HCI),0.8591,5.2955,True
+171,United Arab Emirates ,2020,Human Capital Index (HCI),0.732,4.66,True
+172,United Kingdom of Great Britain and Northern Ireland,2020,Human Capital Index (HCI),0.9292,5.646,True
+173,United Republic of Tanzania ,2020,Human Capital Index (HCI),0.4659,3.3295,True
+174,United States of America ,2020,Human Capital Index (HCI),0.9239,5.6195,True
+175,Uruguay ,2020,Human Capital Index (HCI),0.8514,5.257000000000001,True
+176,Yemen ,2020,Human Capital Index (HCI),0.4142,3.071,True
+177,Zambia ,2020,Human Capital Index (HCI),0.6745,4.3725000000000005,True
+178,Zimbabwe ,2020,Human Capital Index (HCI),0.6135,4.067500000000001,True
+179,South Sudan,2020,Human Capital Index (HCI),0.1973,1.9865,True
+180,Rwanda ,2020,Human Capital Index (HCI),0.5261,3.6305,True
+181,Saint Kitts and Nevis ,2020,Human Capital Index (HCI),0.8035,5.0175,True
+182,Saint Lucia ,2020,Human Capital Index (HCI),0.7205,4.6025,True
+183,Saint Vincent and the Grenadines ,2020,Human Capital Index (HCI),0.7214,4.607,True
+184,Samoa ,2020,Human Capital Index (HCI),0.7414,4.707,True
+185,San Marino ,2020,Human Capital Index (HCI),0.7549,4.7745,True
+186,Sao Tome and Principe ,2020,Human Capital Index (HCI),0.6736,4.368,True
+187,Saudi Arabia ,2020,Human Capital Index (HCI),0.8648,5.324,True
+188,Senegal ,2020,Human Capital Index (HCI),0.3332,2.666,True
+189,Serbia,2020,Human Capital Index (HCI),0.828,5.14,True
+190,Seychelles ,2020,Human Capital Index (HCI),0.766,4.83,True
+191,Singapore ,2020,Human Capital Index (HCI),0.8904,5.452,True
+192,Slovakia ,2020,Human Capital Index (HCI),0.8286,5.143,True

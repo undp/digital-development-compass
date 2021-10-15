@@ -1,0 +1,1895 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+45916,Angola,2019,Internet Usage,2.8,1.1400000000000001,True
+45917,Benin,2019,Internet Usage,3.13,1.1564999999999999,True
+45918,Botswana,2019,Internet Usage,6.0,1.3,True
+45919,Burkina Faso,2019,Internet Usage,2.4,1.12,True
+45920,Burundi,2019,Internet Usage,1.0,1.05,True
+45921,Cabo Verde,2019,Internet Usage,30.0,2.5,True
+45922,Cameroon,2019,Internet Usage,4.3,1.215,True
+45923,Central African Rep.,2019,Internet Usage,2.0,1.1,True
+45924,Chad,2019,Internet Usage,1.7,1.085,True
+45925,Congo (Rep. of the),2019,Internet Usage,5.0,1.25,True
+45926,Côte d'Ivoire,2019,Internet Usage,2.7,1.135,True
+45927,Dem. Rep. of the Congo,2019,Internet Usage,0.72,1.036,True
+45928,Equatorial Guinea,2019,Internet Usage,6.0,1.3,True
+45929,Eritrea,2019,Internet Usage,0.61,1.0305,True
+45930,Eswatini,2019,Internet Usage,11.04,1.552,True
+45931,Ethiopia,2019,Internet Usage,0.75,1.0375,True
+45932,Gabon,2019,Internet Usage,13.0,1.65,True
+45933,Gambia,2019,Internet Usage,9.2,1.46,True
+45934,Ghana,2019,Internet Usage,7.8,1.3900000000000001,True
+45935,Guinea,2019,Internet Usage,1.0,1.05,True
+45936,Guinea-Bissau,2019,Internet Usage,2.45,1.1225,True
+45937,Kenya,2019,Internet Usage,7.2,1.3599999999999999,True
+45938,Lesotho,2019,Internet Usage,3.86,1.193,True
+45939,Liberia,2019,Internet Usage,2.3,1.115,True
+45940,Madagascar,2019,Internet Usage,1.7,1.085,True
+45941,Malawi,2019,Internet Usage,2.26,1.113,True
+45942,Mali,2019,Internet Usage,2.0,1.1,True
+45943,Mauritius,2019,Internet Usage,28.33,2.4165,True
+45944,Mozambique,2019,Internet Usage,4.17,1.2085,True
+45945,Namibia,2019,Internet Usage,11.6,1.58,True
+45946,Niger,2019,Internet Usage,0.83,1.0415,True
+45947,Nigeria,2019,Internet Usage,11.5,1.575,True
+45948,Rwanda,2019,Internet Usage,8.0,1.4,True
+45949,Sao Tome and Principe,2019,Internet Usage,18.75,1.9375,True
+45950,Senegal,2019,Internet Usage,8.0,1.4,True
+45951,Seychelles,2019,Internet Usage,41.0,3.05,True
+45952,Sierra Leone,2019,Internet Usage,0.58,1.029,True
+45953,South Africa,2019,Internet Usage,24.0,2.2,True
+45954,South Sudan,2019,Internet Usage,,,True
+45955,Tanzania,2019,Internet Usage,2.9,1.145,True
+45956,Togo,2019,Internet Usage,3.0,1.15,True
+45957,Uganda,2019,Internet Usage,,,True
+45958,Zambia,2019,Internet Usage,10.0,1.5,True
+45959,Zimbabwe,2019,Internet Usage,6.4,1.32,True
+45960,Algeria,2019,Internet Usage,12.5,1.625,True
+45961,Bahrain,2019,Internet Usage,55.0,3.75,True
+45962,Comoros,2019,Internet Usage,5.1,1.255,True
+45963,Djibouti,2019,Internet Usage,6.5,1.325,True
+45964,Egypt,2019,Internet Usage,21.6,2.08,True
+45965,Iraq,2019,Internet Usage,2.5,1.125,True
+45966,Jordan,2019,Internet Usage,27.2,2.3600000000000003,True
+45967,Kuwait,2019,Internet Usage,61.4,4.07,True
+45968,Lebanon,2019,Internet Usage,43.68,3.184,True
+45969,Libya,2019,Internet Usage,14.0,1.7,True
+45970,Mauritania,2019,Internet Usage,4.0,1.2,True
+45971,Morocco,2019,Internet Usage,52.0,3.6,True
+45972,Oman,2019,Internet Usage,35.8278,2.79139,True
+45973,Palestine,2019,Internet Usage,37.4,2.87,True
+45974,Qatar,2019,Internet Usage,69.0,4.45,True
+45975,Saudi Arabia,2019,Internet Usage,41.0,3.05,True
+45976,Sudan,2019,Internet Usage,16.7,1.835,True
+45977,Syrian Arab Republic,2019,Internet Usage,20.7,2.035,True
+45978,Tunisia,2019,Internet Usage,36.8,2.84,True
+45979,United Arab Emirates,2019,Internet Usage,68.0,4.4,True
+45980,Yemen,2019,Internet Usage,12.35,1.6175000000000002,True
+45981,Afghanistan,2019,Internet Usage,4.0,1.2,True
+45982,Australia,2019,Internet Usage,76.0,4.8,True
+45983,Bangladesh,2019,Internet Usage,3.7,1.185,True
+45984,Bhutan,2019,Internet Usage,13.6,1.6800000000000002,True
+45985,Brunei Darussalam,2019,Internet Usage,53.0,3.65,True
+45986,Cambodia,2019,Internet Usage,1.26,1.063,True
+45987,China,2019,Internet Usage,34.3,2.715,True
+45988,Dem. People's Rep. of Korea,2019,Internet Usage,0.0,1.0,True
+45989,Fiji,2019,Internet Usage,20.0,2.0,True
+45990,"Hong Kong, China",2019,Internet Usage,72.0,4.6,True
+45991,India,2019,Internet Usage,7.5,1.375,True
+45992,Indonesia,2019,Internet Usage,10.92,1.546,True
+45993,Iran (Islamic Republic of),2019,Internet Usage,15.9,1.795,True
+45994,Japan,2019,Internet Usage,78.21,4.910499999999999,True
+45995,Kiribati,2019,Internet Usage,9.07,1.4535,True
+45996,Korea (Rep. of),2019,Internet Usage,83.7,5.185,True
+45997,Lao P.D.R.,2019,Internet Usage,7.0,1.35,True
+45998,"Macao, China",2019,Internet Usage,55.198,3.7599,True
+45999,Malaysia,2019,Internet Usage,56.3,3.815,True
+46000,Maldives,2019,Internet Usage,26.53,2.3265000000000002,True
+46001,Marshall Islands,2019,Internet Usage,7.0,1.35,True
+46002,Micronesia,2019,Internet Usage,20.0,2.0,True
+46003,Mongolia,2019,Internet Usage,10.2,1.51,True
+46004,Myanmar,2019,Internet Usage,0.25,1.0125,True
+46005,Nauru,2019,Internet Usage,,,True
+46006,Nepal (Republic of),2019,Internet Usage,7.93,1.3965,True
+46007,New Zealand,2019,Internet Usage,80.46,5.023,True
+46008,Pakistan,2019,Internet Usage,8.0,1.4,True
+46009,Papua New Guinea,2019,Internet Usage,1.28,1.064,True
+46010,Philippines,2019,Internet Usage,25.0,2.25,True
+46011,Samoa,2019,Internet Usage,7.0,1.35,True
+46012,Singapore,2019,Internet Usage,71.0,4.55,True
+46013,Solomon Islands,2019,Internet Usage,5.0,1.25,True
+46014,Sri Lanka,2019,Internet Usage,,,True
+46015,Thailand,2019,Internet Usage,22.4,2.12,True
+46016,Timor-Leste,2019,Internet Usage,3.0,1.15,True
+46017,Tonga,2019,Internet Usage,16.0,1.8,True
+46018,Tuvalu,2019,Internet Usage,25.0,2.25,True
+46019,Vanuatu,2019,Internet Usage,8.0,1.4,True
+46020,Viet Nam,2019,Internet Usage,30.65,2.5324999999999998,True
+46021,Armenia,2019,Internet Usage,25.0,2.25,True
+46022,Azerbaijan,2019,Internet Usage,46.0,3.3,True
+46023,Belarus,2019,Internet Usage,31.8,2.59,True
+46024,Kazakhstan,2019,Internet Usage,31.6,2.58,True
+46025,Kyrgyzstan,2019,Internet Usage,16.3,1.815,True
+46026,Russian Federation,2019,Internet Usage,43.0,3.15,True
+46027,Tajikistan,2019,Internet Usage,11.55,1.5775000000000001,True
+46028,Turkmenistan,2019,Internet Usage,3.0,1.15,True
+46029,Uzbekistan,2019,Internet Usage,15.9,1.795,True
+46030,Albania,2019,Internet Usage,45.0,3.25,True
+46031,Andorra,2019,Internet Usage,81.0,5.05,True
+46032,Austria,2019,Internet Usage,75.17,4.7585,True
+46033,Belgium,2019,Internet Usage,75.0,4.75,True
+46034,Bosnia and Herzegovina,2019,Internet Usage,42.75,3.1375,True
+46035,Bulgaria,2019,Internet Usage,46.23,3.3114999999999997,True
+46036,Croatia,2019,Internet Usage,56.55,3.8275,True
+46037,Cyprus,2019,Internet Usage,52.99,3.6494999999999997,True
+46038,Czech Republic,2019,Internet Usage,68.82,4.441,True
+46039,Denmark,2019,Internet Usage,88.72,5.436,True
+46040,Estonia,2019,Internet Usage,74.1,4.705,True
+46041,Finland,2019,Internet Usage,86.89,5.3445,True
+46042,France,2019,Internet Usage,77.28,4.864,True
+46043,Georgia,2019,Internet Usage,26.9,2.3449999999999998,True
+46044,Germany,2019,Internet Usage,82.0,5.1,True
+46045,Greece,2019,Internet Usage,44.4,3.22,True
+46046,Hungary,2019,Internet Usage,65.0,4.25,True
+46047,Iceland,2019,Internet Usage,93.39,5.6695,True
+46048,Ireland,2019,Internet Usage,69.85,4.4925,True
+46049,Israel,2019,Internet Usage,67.5,4.375,True
+46050,Italy,2019,Internet Usage,53.68,3.6839999999999997,True
+46051,Latvia,2019,Internet Usage,68.42,4.421,True
+46052,Liechtenstein,2019,Internet Usage,80.0,5.0,True
+46053,Lithuania,2019,Internet Usage,62.12,4.106,True
+46054,Luxembourg,2019,Internet Usage,90.62,5.531000000000001,True
+46055,Malta,2019,Internet Usage,63.0,4.15,True
+46056,Moldova,2019,Internet Usage,32.3,2.615,True
+46057,Monaco,2019,Internet Usage,75.0,4.75,True
+46058,Montenegro,2019,Internet Usage,37.5,2.875,True
+46059,Netherlands,2019,Internet Usage,90.72,5.5360000000000005,True
+46060,North Macedonia,2019,Internet Usage,51.9,3.595,True
+46061,Norway,2019,Internet Usage,93.39,5.6695,True
+46062,Poland,2019,Internet Usage,62.32,4.116,True
+46063,Portugal,2019,Internet Usage,53.3,3.665,True
+46064,Romania,2019,Internet Usage,39.93,2.9965,True
+46065,San Marino,2019,Internet Usage,,,True
+46066,Serbia,2019,Internet Usage,40.9,3.045,True
+46067,Slovakia,2019,Internet Usage,75.71,4.785499999999999,True
+46068,Slovenia,2019,Internet Usage,70.0,4.5,True
+46069,Spain,2019,Internet Usage,65.8,4.29,True
+46070,Sweden,2019,Internet Usage,90.0,5.5,True
+46071,Switzerland,2019,Internet Usage,83.9,5.195,True
+46072,Turkey,2019,Internet Usage,39.82,2.9909999999999997,True
+46073,Ukraine,2019,Internet Usage,23.3,2.165,True
+46074,United Kingdom,2019,Internet Usage,85.0,5.25,True
+46075,Antigua and Barbuda,2019,Internet Usage,47.0,3.35,True
+46076,Argentina,2019,Internet Usage,45.0,3.25,True
+46077,Bahamas,2019,Internet Usage,43.0,3.15,True
+46078,Barbados,2019,Internet Usage,65.1,4.255,True
+46079,Belize,2019,Internet Usage,28.2,2.41,True
+46080,Bolivia (Plurinational State of),2019,Internet Usage,22.4,2.12,True
+46081,Brazil,2019,Internet Usage,40.65,3.0325,True
+46082,Canada,2019,Internet Usage,80.3,5.015,True
+46083,Chile,2019,Internet Usage,45.0,3.25,True
+46084,Colombia,2019,Internet Usage,36.5,2.825,True
+46085,Costa Rica,2019,Internet Usage,36.5,2.825,True
+46086,Cuba,2019,Internet Usage,15.9,1.795,True
+46087,Dominica,2019,Internet Usage,47.45,3.3725,True
+46088,Dominican Rep.,2019,Internet Usage,31.4,2.5700000000000003,True
+46089,Ecuador,2019,Internet Usage,29.03,2.4515000000000002,True
+46090,El Salvador,2019,Internet Usage,15.9,1.795,True
+46091,Grenada,2019,Internet Usage,27.0,2.35,True
+46092,Guatemala,2019,Internet Usage,10.5,1.525,True
+46093,Guyana,2019,Internet Usage,29.9,2.495,True
+46094,Haiti,2019,Internet Usage,8.37,1.4184999999999999,True
+46095,Honduras,2019,Internet Usage,11.09,1.5545,True
+46096,Jamaica,2019,Internet Usage,27.67,2.3835,True
+46097,Mexico,2019,Internet Usage,31.05,2.5525,True
+46098,Nicaragua,2019,Internet Usage,10.0,1.5,True
+46099,Panama,2019,Internet Usage,40.1,3.005,True
+46100,Paraguay,2019,Internet Usage,19.8,1.99,True
+46101,Peru,2019,Internet Usage,34.77,2.7385,True
+46102,Saint Kitts and Nevis,2019,Internet Usage,63.0,4.15,True
+46103,Saint Lucia,2019,Internet Usage,32.5,2.625,True
+46104,Saint Vincent and the Grenadines,2019,Internet Usage,33.7,2.685,True
+46105,Suriname,2019,Internet Usage,31.59,2.5795,True
+46106,Trinidad and Tobago,2019,Internet Usage,48.5,3.425,True
+46107,United States,2019,Internet Usage,71.69,4.5845,True
+46108,Uruguay,2019,Internet Usage,46.4,3.32,True
+46109,Venezuela,2019,Internet Usage,37.37,2.8685,True
+46110,Angola,2019,Internet Usage,3.1,1.155,True
+46111,Benin,2019,Internet Usage,4.148323066,1.2074161533,True
+46112,Botswana,2019,Internet Usage,9.0,1.45,True
+46113,Burkina Faso,2019,Internet Usage,3.0,1.15,True
+46114,Burundi,2019,Internet Usage,1.11,1.0555,True
+46115,Cabo Verde,2019,Internet Usage,32.0,2.6,True
+46116,Cameroon,2019,Internet Usage,5.0,1.25,True
+46117,Central African Rep.,2019,Internet Usage,2.2,1.11,True
+46118,Chad,2019,Internet Usage,1.9,1.095,True
+46119,Congo (Rep. of the),2019,Internet Usage,5.6,1.28,True
+46120,Côte d'Ivoire,2019,Internet Usage,2.9,1.145,True
+46121,Dem. Rep. of the Congo,2019,Internet Usage,1.2,1.06,True
+46122,Equatorial Guinea,2019,Internet Usage,11.5,1.575,True
+46123,Eritrea,2019,Internet Usage,0.7,1.035,True
+46124,Eswatini,2019,Internet Usage,18.13,1.9064999999999999,True
+46125,Ethiopia,2019,Internet Usage,1.1,1.055,True
+46126,Gabon,2019,Internet Usage,18.0,1.9,True
+46127,Gambia,2019,Internet Usage,10.8703,1.543515,True
+46128,Ghana,2019,Internet Usage,9.0,1.45,True
+46129,Guinea,2019,Internet Usage,2.0,1.1,True
+46130,Guinea-Bissau,2019,Internet Usage,2.672,1.1336,True
+46131,Kenya,2019,Internet Usage,8.8,1.44,True
+46132,Lesotho,2019,Internet Usage,7.0,1.35,True
+46133,Liberia,2019,Internet Usage,2.5,1.125,True
+46134,Madagascar,2019,Internet Usage,1.9,1.095,True
+46135,Malawi,2019,Internet Usage,3.33,1.1665,True
+46136,Mali,2019,Internet Usage,2.2,1.11,True
+46137,Mauritius,2019,Internet Usage,34.95,2.7475,True
+46138,Mozambique,2019,Internet Usage,4.6,1.23,True
+46139,Namibia,2019,Internet Usage,12.0,1.6,True
+46140,Niger,2019,Internet Usage,0.9,1.045,True
+46141,Nigeria,2019,Internet Usage,13.8,1.69,True
+46142,Rwanda,2019,Internet Usage,7.0,1.35,True
+46143,Sao Tome and Principe,2019,Internet Usage,20.1612,2.0080600000000004,True
+46144,Senegal,2019,Internet Usage,9.8,1.49,True
+46145,Seychelles,2019,Internet Usage,43.16400446,3.158200223,True
+46146,Sierra Leone,2019,Internet Usage,0.9,1.045,True
+46147,South Africa,2019,Internet Usage,33.97,2.6985,True
+46148,Tanzania,2019,Internet Usage,3.2,1.16,True
+46149,Togo,2019,Internet Usage,3.5,1.175,True
+46150,Uganda,2019,Internet Usage,,,True
+46151,Zambia,2019,Internet Usage,11.5,1.575,True
+46152,Zimbabwe,2019,Internet Usage,8.4,1.42,True
+46153,Algeria,2019,Internet Usage,14.9,1.745,True
+46154,Bahrain,2019,Internet Usage,76.9999665,4.849998325,True
+46155,Comoros,2019,Internet Usage,5.5,1.275,True
+46156,Djibouti,2019,Internet Usage,7.0,1.35,True
+46157,Egypt,2019,Internet Usage,25.6,2.2800000000000002,True
+46158,Iraq,2019,Internet Usage,5.0,1.25,True
+46159,Jordan,2019,Internet Usage,34.9,2.745,True
+46160,Kuwait,2019,Internet Usage,65.76907069,4.2884535345,True
+46161,Lebanon,2019,Internet Usage,52.0,3.6,True
+46162,Libya,2019,Internet Usage,14.0,1.7,True
+46163,Mauritania,2019,Internet Usage,4.5,1.225,True
+46164,Morocco,2019,Internet Usage,46.1074826,3.3053741299999997,True
+46165,Oman,2019,Internet Usage,48.0,3.4,True
+46166,Palestine,2019,Internet Usage,41.08,3.054,True
+46167,Qatar,2019,Internet Usage,69.0,4.45,True
+46168,Saudi Arabia,2019,Internet Usage,47.5,3.375,True
+46169,Somalia,2019,Internet Usage,1.25,1.0625,True
+46170,Sudan,2019,Internet Usage,17.46,1.8730000000000002,True
+46171,Syrian Arab Republic,2019,Internet Usage,22.5,2.125,True
+46172,Tunisia,2019,Internet Usage,39.1,2.955,True
+46173,United Arab Emirates,2019,Internet Usage,78.0,4.9,True
+46174,Yemen,2019,Internet Usage,14.905,1.74525,True
+46175,Afghanistan,2019,Internet Usage,5.0,1.25,True
+46176,Australia,2019,Internet Usage,79.48769771,4.974384885500001,True
+46177,Bangladesh,2019,Internet Usage,4.5,1.225,True
+46178,Bhutan,2019,Internet Usage,14.4,1.72,True
+46179,Brunei Darussalam,2019,Internet Usage,56.0,3.8,True
+46180,Cambodia,2019,Internet Usage,3.1,1.155,True
+46181,China,2019,Internet Usage,38.3,2.915,True
+46182,Dem. People's Rep. of Korea,2019,Internet Usage,0.0,1.0,True
+46183,Fiji,2019,Internet Usage,28.0,2.4,True
+46184,"Hong Kong, China",2019,Internet Usage,72.2,4.609999999999999,True
+46185,India,2019,Internet Usage,10.07,1.5035,True
+46186,Indonesia,2019,Internet Usage,12.28,1.6139999999999999,True
+46187,Iran (Islamic Republic of),2019,Internet Usage,19.0,1.95,True
+46188,Japan,2019,Internet Usage,79.05411352,4.952705676,True
+46189,Kiribati,2019,Internet Usage,10.0,1.5,True
+46190,Korea (Rep. of),2019,Internet Usage,83.75912015,5.1879560075,True
+46191,Lao P.D.R.,2019,Internet Usage,9.0,1.45,True
+46192,"Macao, China",2019,Internet Usage,60.20369672,4.0101848360000005,True
+46193,Malaysia,2019,Internet Usage,61.0,4.05,True
+46194,Maldives,2019,Internet Usage,34.0,2.7,True
+46195,Marshall Islands,2019,Internet Usage,10.0,1.5,True
+46196,Micronesia,2019,Internet Usage,22.8,2.1399999999999997,True
+46197,Mongolia,2019,Internet Usage,12.49999111,1.6249995555,True
+46198,Myanmar,2019,Internet Usage,0.98,1.049,True
+46199,Nauru,2019,Internet Usage,54.0,3.7,True
+46200,Nepal (Republic of),2019,Internet Usage,9.0,1.45,True
+46201,New Zealand,2019,Internet Usage,81.23,5.0615000000000006,True
+46202,Pakistan,2019,Internet Usage,8.0,1.4,True
+46203,Papua New Guinea,2019,Internet Usage,2.0,1.1,True
+46204,Philippines,2019,Internet Usage,29.0,2.45,True
+46205,Samoa,2019,Internet Usage,11.0,1.55,True
+46206,Singapore,2019,Internet Usage,71.0,4.55,True
+46207,Solomon Islands,2019,Internet Usage,6.0,1.3,True
+46208,Sri Lanka,2019,Internet Usage,,,True
+46209,Thailand,2019,Internet Usage,23.66992562,2.183496281,True
+46210,Timor-Leste,2019,Internet Usage,4.0,1.2,True
+46211,Tonga,2019,Internet Usage,25.0,2.25,True
+46212,Tuvalu,2019,Internet Usage,30.0,2.5,True
+46213,Vanuatu,2019,Internet Usage,9.2,1.46,True
+46214,Viet Nam,2019,Internet Usage,35.07,2.7535,True
+46215,Armenia,2019,Internet Usage,32.0,2.6,True
+46216,Azerbaijan,2019,Internet Usage,50.0,3.5,True
+46217,Belarus,2019,Internet Usage,39.64889566,2.982444783,True
+46218,Kazakhstan,2019,Internet Usage,50.6,3.53,True
+46219,Kyrgyzstan,2019,Internet Usage,17.5,1.875,True
+46220,Russian Federation,2019,Internet Usage,49.0,3.45,True
+46221,Tajikistan,2019,Internet Usage,13.03,1.6515,True
+46222,Turkmenistan,2019,Internet Usage,5.0,1.25,True
+46223,Uzbekistan,2019,Internet Usage,18.6,1.9300000000000002,True
+46224,Albania,2019,Internet Usage,47.0,3.35,True
+46225,Andorra,2019,Internet Usage,81.0,5.05,True
+46226,Austria,2019,Internet Usage,78.7399931,4.936999655,True
+46227,Belgium,2019,Internet Usage,81.609996,5.0804998,True
+46228,Bosnia and Herzegovina,2019,Internet Usage,43.88768653,3.1943843265000003,True
+46229,Bulgaria,2019,Internet Usage,47.97999305,3.3989996524999997,True
+46230,Croatia,2019,Internet Usage,57.78997899,3.8894989495,True
+46231,Cyprus,2019,Internet Usage,56.85989235,3.8429946175000005,True
+46232,Czech Republic,2019,Internet Usage,70.49,4.5245,True
+46233,Denmark,2019,Internet Usage,89.81001339,5.490500669499999,True
+46234,Estonia,2019,Internet Usage,76.5,4.825,True
+46235,Finland,2019,Internet Usage,88.70999491,5.4354997455,True
+46236,France,2019,Internet Usage,77.81999899,4.890999949499999,True
+46237,Georgia,2019,Internet Usage,31.52,2.5759999999999996,True
+46238,Germany,2019,Internet Usage,81.26999954,5.063499977,True
+46239,Greece,2019,Internet Usage,51.64999517,3.5824997585,True
+46240,Hungary,2019,Internet Usage,68.01998789,4.400999394499999,True
+46241,Iceland,2019,Internet Usage,94.8196868,5.74098434,True
+46242,Ireland,2019,Internet Usage,74.88997297,4.7444986485000005,True
+46243,Israel,2019,Internet Usage,68.87387799,4.4436938994999995,True
+46244,Italy,2019,Internet Usage,54.3899983,3.719499915,True
+46245,Latvia,2019,Internet Usage,69.74995456,4.487497728,True
+46246,Liechtenstein,2019,Internet Usage,85.0,5.25,True
+46247,Lithuania,2019,Internet Usage,63.6399774,4.181998869999999,True
+46248,Luxembourg,2019,Internet Usage,90.02985856,5.501492927999999,True
+46249,Malta,2019,Internet Usage,68.01982379,4.400991189500001,True
+46250,Moldova,2019,Internet Usage,38.0,2.9,True
+46251,Monaco,2019,Internet Usage,80.3,5.015,True
+46252,Montenegro,2019,Internet Usage,35.61154125,2.7805770625,True
+46253,Netherlands,2019,Internet Usage,91.41999576,5.570999788,True
+46254,North Macedonia,2019,Internet Usage,56.7,3.835,True
+46255,Norway,2019,Internet Usage,93.48998265,5.6744991325,True
+46256,Poland,2019,Internet Usage,61.94999897,4.097499948499999,True
+46257,Portugal,2019,Internet Usage,55.24999688,3.762499844,True
+46258,Romania,2019,Internet Usage,40.00999678,3.000499839,True
+46259,San Marino,2019,Internet Usage,49.6,3.48,True
+46260,Serbia,2019,Internet Usage,42.2,3.11,True
+46261,Slovakia,2019,Internet Usage,74.43999717,4.7219998585,True
+46262,Slovenia,2019,Internet Usage,67.33999481,4.3669997405,True
+46263,Spain,2019,Internet Usage,67.08999939,4.3544999695,True
+46264,Sweden,2019,Internet Usage,92.76998606,5.638499303,True
+46265,Switzerland,2019,Internet Usage,85.19302818,5.259651409,True
+46266,Turkey,2019,Internet Usage,43.06571043,3.1532855215,True
+46267,Ukraine,2019,Internet Usage,28.70826284,2.435413142,True
+46268,United Kingdom,2019,Internet Usage,85.37999855,5.2689999274999995,True
+46269,Antigua and Barbuda,2019,Internet Usage,52.0,3.6,True
+46270,Argentina,2019,Internet Usage,51.0,3.55,True
+46271,Bahamas,2019,Internet Usage,65.0,4.25,True
+46272,Barbados,2019,Internet Usage,66.5,4.325,True
+46273,Belize,2019,Internet Usage,30.7,2.535,True
+46274,Bolivia (Plurinational State of),2019,Internet Usage,30.0,2.5,True
+46275,Brazil,2019,Internet Usage,45.69,3.2845,True
+46276,Canada,2019,Internet Usage,83.0,5.15,True
+46277,Chile,2019,Internet Usage,52.24960729,3.6124803644999997,True
+46278,Colombia,2019,Internet Usage,40.35091575,3.0175457875,True
+46279,Costa Rica,2019,Internet Usage,39.212196,2.9606098000000003,True
+46280,Cuba,2019,Internet Usage,16.0172908,1.80086454,True
+46281,Dominica,2019,Internet Usage,48.6,3.43,True
+46282,Dominican Rep.,2019,Internet Usage,38.0,2.9,True
+46283,Ecuador,2019,Internet Usage,31.36680836,2.568340418,True
+46284,El Salvador,2019,Internet Usage,18.9,1.9449999999999998,True
+46285,Grenada,2019,Internet Usage,30.0,2.5,True
+46286,Guatemala,2019,Internet Usage,12.3,1.615,True
+46287,Guyana,2019,Internet Usage,30.0,2.5,True
+46288,Haiti,2019,Internet Usage,9.0,1.45,True
+46289,Honduras,2019,Internet Usage,15.9,1.795,True
+46290,Jamaica,2019,Internet Usage,37.43861341,2.8719306705000003,True
+46291,Mexico,2019,Internet Usage,37.17629541,2.8588147705,True
+46292,Nicaragua,2019,Internet Usage,10.6,1.53,True
+46293,Panama,2019,Internet Usage,42.7,3.135,True
+46294,Paraguay,2019,Internet Usage,24.76351588,2.238175794,True
+46295,Peru,2019,Internet Usage,36.01,2.8004999999999995,True
+46296,Saint Kitts and Nevis,2019,Internet Usage,63.2,4.16,True
+46297,Saint Lucia,2019,Internet Usage,34.0,2.7,True
+46298,Saint Vincent and the Grenadines,2019,Internet Usage,36.7,2.835,True
+46299,Suriname,2019,Internet Usage,32.0,2.6,True
+46300,Trinidad and Tobago,2019,Internet Usage,55.2,3.76,True
+46301,United States,2019,Internet Usage,69.72946076,4.486473038,True
+46302,Uruguay,2019,Internet Usage,51.40466106,3.570233053,True
+46303,Venezuela,2019,Internet Usage,40.22,3.011,True
+46304,Angola,2019,Internet Usage,6.5,1.325,True
+46305,Benin,2019,Internet Usage,4.5,1.225,True
+46306,Botswana,2019,Internet Usage,16.0,1.8,True
+46307,Burkina Faso,2019,Internet Usage,3.725034916,1.1862517458,True
+46308,Burundi,2019,Internet Usage,1.219999945,1.06099999725,True
+46309,Cabo Verde,2019,Internet Usage,34.74,2.737,True
+46310,Cameroon,2019,Internet Usage,7.5,1.375,True
+46311,Central African Rep.,2019,Internet Usage,3.0,1.15,True
+46312,Chad,2019,Internet Usage,2.1,1.105,True
+46313,Congo (Rep. of the),2019,Internet Usage,6.106695024,1.3053347512,True
+46314,Côte d'Ivoire,2019,Internet Usage,5.0,1.25,True
+46315,Dem. Rep. of the Congo,2019,Internet Usage,1.679961015,1.08399805075,True
+46316,Equatorial Guinea,2019,Internet Usage,13.94318219,1.6971591094999998,True
+46317,Eritrea,2019,Internet Usage,0.8,1.04,True
+46318,Eswatini,2019,Internet Usage,20.78178258,2.0390891289999997,True
+46319,Ethiopia,2019,Internet Usage,2.9,1.145,True
+46320,Gabon,2019,Internet Usage,24.0,2.2,True
+46321,Gambia,2019,Internet Usage,12.44922872,1.622461436,True
+46322,Ghana,2019,Internet Usage,10.6,1.53,True
+46323,Guinea,2019,Internet Usage,3.1,1.155,True
+46324,Guinea-Bissau,2019,Internet Usage,2.893990621,1.14469953105,True
+46325,Kenya,2019,Internet Usage,10.5,1.525,True
+46326,Lesotho,2019,Internet Usage,10.0,1.5,True
+46327,Liberia,2019,Internet Usage,2.6,1.13,True
+46328,Madagascar,2019,Internet Usage,2.3,1.115,True
+46329,Malawi,2019,Internet Usage,4.3506,1.21753,True
+46330,Mali,2019,Internet Usage,2.8,1.1400000000000001,True
+46331,Mauritius,2019,Internet Usage,35.42,2.771,True
+46332,Mozambique,2019,Internet Usage,5.0,1.25,True
+46333,Namibia,2019,Internet Usage,12.9414,1.6470699999999998,True
+46334,Niger,2019,Internet Usage,1.05,1.0525,True
+46335,Nigeria,2019,Internet Usage,16.1,1.8050000000000002,True
+46336,Rwanda,2019,Internet Usage,8.023854277,1.40119271385,True
+46337,Sao Tome and Principe,2019,Internet Usage,21.5724,2.07862,True
+46338,Senegal,2019,Internet Usage,10.8,1.54,True
+46339,Seychelles,2019,Internet Usage,47.076,3.3538,True
+46340,Sierra Leone,2019,Internet Usage,2.5,1.125,True
+46341,South Africa,2019,Internet Usage,41.0,3.05,True
+46342,Tanzania,2019,Internet Usage,3.95,1.1975,True
+46343,Togo,2019,Internet Usage,4.0,1.2,True
+46344,Uganda,2019,Internet Usage,,,True
+46345,Zambia,2019,Internet Usage,,,True
+46346,Zimbabwe,2019,Internet Usage,12.0,1.6,True
+46347,Algeria,2019,Internet Usage,18.2,1.9100000000000001,True
+46348,Bahrain,2019,Internet Usage,88.0,5.4,True
+46349,Comoros,2019,Internet Usage,5.975296308,1.2987648154,True
+46350,Djibouti,2019,Internet Usage,9.4,1.47,True
+46351,Egypt,2019,Internet Usage,26.4,2.3200000000000003,True
+46352,Iraq,2019,Internet Usage,7.1,1.355,True
+46353,Jordan,2019,Internet Usage,37.0,2.85,True
+46354,Kuwait,2019,Internet Usage,70.45,4.5225,True
+46355,Lebanon,2019,Internet Usage,61.24978572,4.062489286,True
+46356,Libya,2019,Internet Usage,,,True
+46357,Mauritania,2019,Internet Usage,5.0,1.25,True
+46358,Morocco,2019,Internet Usage,55.41605319,3.7708026595,True
+46359,Oman,2019,Internet Usage,60.0,4.0,True
+46360,Palestine,2019,Internet Usage,43.4,3.17,True
+46361,Qatar,2019,Internet Usage,69.3,4.465,True
+46362,Saudi Arabia,2019,Internet Usage,54.0,3.7,True
+46363,Somalia,2019,Internet Usage,1.3767,1.068835,True
+46364,Sudan,2019,Internet Usage,,,True
+46365,Syrian Arab Republic,2019,Internet Usage,24.3001,2.215005,True
+46366,Tunisia,2019,Internet Usage,41.4416,3.07208,True
+46367,United Arab Emirates,2019,Internet Usage,84.9999915,5.2499995749999995,True
+46368,Yemen,2019,Internet Usage,17.4465,1.872325,True
+46369,Afghanistan,2019,Internet Usage,5.454545455,1.27272727275,True
+46370,Australia,2019,Internet Usage,79.0,4.95,True
+46371,Bangladesh,2019,Internet Usage,5.0,1.25,True
+46372,Bhutan,2019,Internet Usage,15.6,1.78,True
+46373,Brunei Darussalam,2019,Internet Usage,60.27306504,4.013653251999999,True
+46374,Cambodia,2019,Internet Usage,4.94,1.247,True
+46375,China,2019,Internet Usage,42.30011749,3.1150058745,True
+46376,Dem. People's Rep. of Korea,2019,Internet Usage,0.0,1.0,True
+46377,Fiji,2019,Internet Usage,33.74235675,2.6871178374999998,True
+46378,"Hong Kong, China",2019,Internet Usage,72.9,4.645,True
+46379,India,2019,Internet Usage,11.1,1.5550000000000002,True
+46380,Indonesia,2019,Internet Usage,14.52,1.726,True
+46381,Iran (Islamic Republic of),2019,Internet Usage,22.73,2.1365,True
+46382,Japan,2019,Internet Usage,79.4964,4.974819999999999,True
+46383,Kiribati,2019,Internet Usage,10.74679768,1.537339884,True
+46384,Korea (Rep. of),2019,Internet Usage,84.07,5.2035,True
+46385,Lao P.D.R.,2019,Internet Usage,10.74767619,1.5373838095,True
+46386,"Macao, China",2019,Internet Usage,61.31,4.0655,True
+46387,Malaysia,2019,Internet Usage,65.8,4.29,True
+46388,Maldives,2019,Internet Usage,38.9301,2.946505,True
+46389,Marshall Islands,2019,Internet Usage,12.5,1.625,True
+46390,Micronesia,2019,Internet Usage,25.974423,2.29872115,True
+46391,Mongolia,2019,Internet Usage,16.4,1.8199999999999998,True
+46392,Myanmar,2019,Internet Usage,1.4,1.07,True
+46393,Nauru,2019,Internet Usage,,,True
+46394,Nepal (Republic of),2019,Internet Usage,11.1493,1.557465,True
+46395,New Zealand,2019,Internet Usage,81.64447018,5.082223508999999,True
+46396,Pakistan,2019,Internet Usage,8.1,1.405,True
+46397,Papua New Guinea,2019,Internet Usage,3.5,1.175,True
+46398,Philippines,2019,Internet Usage,30.8,2.54,True
+46399,Samoa,2019,Internet Usage,12.92249,1.6461245,True
+46400,Singapore,2019,Internet Usage,72.0,4.6,True
+46401,Solomon Islands,2019,Internet Usage,6.9974,1.3498700000000001,True
+46402,Sri Lanka,2019,Internet Usage,,,True
+46403,Thailand,2019,Internet Usage,26.46,2.3230000000000004,True
+46404,Timor-Leste,2019,Internet Usage,7.0,1.35,True
+46405,Tonga,2019,Internet Usage,30.0,2.5,True
+46406,Tuvalu,2019,Internet Usage,35.0,2.75,True
+46407,Vanuatu,2019,Internet Usage,10.598,1.5299,True
+46408,Viet Nam,2019,Internet Usage,36.8,2.84,True
+46409,Armenia,2019,Internet Usage,37.5,2.875,True
+46410,Azerbaijan,2019,Internet Usage,54.2,3.71,True
+46411,Belarus,2019,Internet Usage,46.91,3.3455,True
+46412,Kazakhstan,2019,Internet Usage,61.90662747,4.0953313735000005,True
+46413,Kyrgyzstan,2019,Internet Usage,19.8,1.99,True
+46414,Russian Federation,2019,Internet Usage,63.8,4.1899999999999995,True
+46415,Tajikistan,2019,Internet Usage,14.51,1.7254999999999998,True
+46416,Turkmenistan,2019,Internet Usage,7.1958,1.35979,True
+46417,Uzbekistan,2019,Internet Usage,23.6,2.1799999999999997,True
+46418,Albania,2019,Internet Usage,49.4,3.47,True
+46419,Andorra,2019,Internet Usage,,,True
+46420,Austria,2019,Internet Usage,80.02999392,5.001499696,True
+46421,Belgium,2019,Internet Usage,80.71999055,5.0359995275000005,True
+46422,Bosnia and Herzegovina,2019,Internet Usage,45.06450043,3.2532250215,True
+46423,Bulgaria,2019,Internet Usage,51.89998767,3.5949993835,True
+46424,Croatia,2019,Internet Usage,61.93997315,4.0969986575,True
+46425,Cyprus,2019,Internet Usage,60.6898684,4.03449342,True
+46426,Czech Republic,2019,Internet Usage,73.43000782,4.671500391,True
+46427,Denmark,2019,Internet Usage,92.26001172,5.613000585999999,True
+46428,Estonia,2019,Internet Usage,78.38992593,4.9194962965,True
+46429,Finland,2019,Internet Usage,89.87999797,5.4939998985,True
+46430,France,2019,Internet Usage,81.44,5.072,True
+46431,Georgia,2019,Internet Usage,36.94,2.847,True
+46432,Germany,2019,Internet Usage,82.34999847,5.1174999235000005,True
+46433,Greece,2019,Internet Usage,55.06999344,3.753499672,True
+46434,Hungary,2019,Internet Usage,70.57999815,4.528999907499999,True
+46435,Iceland,2019,Internet Usage,96.20979955,5.8104899775000005,True
+46436,Ireland,2019,Internet Usage,76.91999254,4.845999626999999,True
+46437,Israel,2019,Internet Usage,70.8,4.54,True
+46438,Italy,2019,Internet Usage,55.82999799,3.7914998995,True
+46439,Latvia,2019,Internet Usage,73.11994377,4.655997188500001,True
+46440,Liechtenstein,2019,Internet Usage,89.4077,5.470385,True
+46441,Lithuania,2019,Internet Usage,67.22998933,4.3614994665,True
+46442,Luxembourg,2019,Internet Usage,91.94992374,5.597496187000001,True
+46443,Malta,2019,Internet Usage,68.19987429,4.4099937145000006,True
+46444,Moldova,2019,Internet Usage,43.37,3.1685,True
+46445,Monaco,2019,Internet Usage,87.0,5.35,True
+46446,Montenegro,2019,Internet Usage,56.83878255,3.8419391275,True
+46447,Netherlands,2019,Internet Usage,92.85999236,5.642999618,True
+46448,North Macedonia,2019,Internet Usage,57.44994731,3.8724973654999997,True
+46449,Norway,2019,Internet Usage,94.64997805,5.732498902500001,True
+46450,Poland,2019,Internet Usage,62.30999727,4.1154998635,True
+46451,Portugal,2019,Internet Usage,60.33999749,4.0169998745,True
+46452,Romania,2019,Internet Usage,45.87999425,3.2939997125000002,True
+46453,San Marino,2019,Internet Usage,,,True
+46454,Serbia,2019,Internet Usage,48.1,3.405,True
+46455,Slovakia,2019,Internet Usage,76.70999012,4.835499506,True
+46456,Slovenia,2019,Internet Usage,68.34997453,4.4174987265,True
+46457,Spain,2019,Internet Usage,69.80999994,4.490499997000001,True
+46458,Sweden,2019,Internet Usage,93.17998801,5.6589994005,True
+46459,Switzerland,2019,Internet Usage,85.2,5.26,True
+46460,Turkey,2019,Internet Usage,45.13,3.2565,True
+46461,Ukraine,2019,Internet Usage,35.27,2.7635000000000005,True
+46462,United Kingdom,2019,Internet Usage,87.47999842,5.373999921,True
+46463,Antigua and Barbuda,2019,Internet Usage,58.0,3.9,True
+46464,Argentina,2019,Internet Usage,55.8,3.79,True
+46465,Bahamas,2019,Internet Usage,71.74820281,4.587410140499999,True
+46466,Barbados,2019,Internet Usage,71.2,4.5600000000000005,True
+46467,Belize,2019,Internet Usage,31.0,2.55,True
+46468,Bolivia (Plurinational State of),2019,Internet Usage,35.34,2.7670000000000003,True
+46469,Brazil,2019,Internet Usage,48.56,3.428,True
+46470,Canada,2019,Internet Usage,83.0,5.15,True
+46471,Chile,2019,Internet Usage,55.05,3.7525,True
+46472,Colombia,2019,Internet Usage,48.98,3.449,True
+46473,Costa Rica,2019,Internet Usage,47.5,3.375,True
+46474,Cuba,2019,Internet Usage,21.2,2.06,True
+46475,Dominica,2019,Internet Usage,49.8,3.49,True
+46476,Dominican Rep.,2019,Internet Usage,42.32,3.116,True
+46477,Ecuador,2019,Internet Usage,35.13514645,2.7567573225000004,True
+46478,El Salvador,2019,Internet Usage,20.32138772,2.016069386,True
+46479,Grenada,2019,Internet Usage,32.0,2.6,True
+46480,Guatemala,2019,Internet Usage,16.0,1.8,True
+46481,Guyana,2019,Internet Usage,30.5,2.525,True
+46482,Haiti,2019,Internet Usage,9.8,1.49,True
+46483,Honduras,2019,Internet Usage,18.12,1.9060000000000001,True
+46484,Jamaica,2019,Internet Usage,33.79,2.6895,True
+46485,Mexico,2019,Internet Usage,39.75,2.9875,True
+46486,Nicaragua,2019,Internet Usage,13.5,1.675,True
+46487,Panama,2019,Internet Usage,40.30189522,3.015094761,True
+46488,Paraguay,2019,Internet Usage,29.34,2.4669999999999996,True
+46489,Peru,2019,Internet Usage,38.2,2.91,True
+46490,Saint Kitts and Nevis,2019,Internet Usage,64.0,4.2,True
+46491,Saint Lucia,2019,Internet Usage,34.82,2.7409999999999997,True
+46492,Saint Vincent and the Grenadines,2019,Internet Usage,40.0,3.0,True
+46493,Suriname,2019,Internet Usage,34.6812,2.7340599999999995,True
+46494,Trinidad and Tobago,2019,Internet Usage,59.5162,3.97581,True
+46495,United States,2019,Internet Usage,74.7,4.734999999999999,True
+46496,Uruguay,2019,Internet Usage,54.45376868,3.722688434,True
+46497,Venezuela,2019,Internet Usage,49.05008307,3.4525041535,True
+46498,Angola,2019,Internet Usage,8.9,1.445,True
+46499,Benin,2019,Internet Usage,4.9,1.245,True
+46500,Botswana,2019,Internet Usage,30.0,2.5,True
+46501,Burkina Faso,2019,Internet Usage,5.0,1.25,True
+46502,Burundi,2019,Internet Usage,1.264218111,1.06321090555,True
+46503,Cabo Verde,2019,Internet Usage,37.5,2.875,True
+46504,Cameroon,2019,Internet Usage,10.0,1.5,True
+46505,Central African Rep.,2019,Internet Usage,3.4,1.17,True
+46506,Chad,2019,Internet Usage,2.5,1.125,True
+46507,Congo (Rep. of the),2019,Internet Usage,6.6,1.33,True
+46508,Côte d'Ivoire,2019,Internet Usage,12.0,1.6,True
+46509,Dem. Rep. of the Congo,2019,Internet Usage,2.2,1.11,True
+46510,Equatorial Guinea,2019,Internet Usage,16.4,1.8199999999999998,True
+46511,Eritrea,2019,Internet Usage,0.9,1.045,True
+46512,Eswatini,2019,Internet Usage,24.7,2.2350000000000003,True
+46513,Ethiopia,2019,Internet Usage,4.6,1.23,True
+46514,Gabon,2019,Internet Usage,30.53803344,2.526901672,True
+46515,Gambia,2019,Internet Usage,14.0,1.7,True
+46516,Ghana,2019,Internet Usage,15.0,1.75,True
+46517,Guinea,2019,Internet Usage,4.5,1.225,True
+46518,Guinea-Bissau,2019,Internet Usage,3.1,1.155,True
+46519,Kenya,2019,Internet Usage,13.0,1.65,True
+46520,Lesotho,2019,Internet Usage,15.0,1.75,True
+46521,Liberia,2019,Internet Usage,3.2,1.16,True
+46522,Madagascar,2019,Internet Usage,3.0,1.15,True
+46523,Malawi,2019,Internet Usage,5.05,1.2525,True
+46524,Mali,2019,Internet Usage,3.5,1.175,True
+46525,Mauritius,2019,Internet Usage,40.11682513,3.0058412565,True
+46526,Mozambique,2019,Internet Usage,5.5,1.275,True
+46527,Namibia,2019,Internet Usage,13.9,1.6949999999999998,True
+46528,Niger,2019,Internet Usage,1.15,1.0575,True
+46529,Nigeria,2019,Internet Usage,19.1,1.955,True
+46530,Rwanda,2019,Internet Usage,9.0,1.45,True
+46531,Sao Tome and Principe,2019,Internet Usage,23.0,2.15,True
+46532,Senegal,2019,Internet Usage,13.1,1.655,True
+46533,Seychelles,2019,Internet Usage,50.4,3.52,True
+46534,Sierra Leone,2019,Internet Usage,4.0,1.2,True
+46535,South Africa,2019,Internet Usage,46.5,3.325,True
+46536,South Sudan,2019,Internet Usage,3.829969245,1.19149846225,True
+46537,Tanzania,2019,Internet Usage,4.4,1.22,True
+46538,Togo,2019,Internet Usage,4.5,1.225,True
+46539,Uganda,2019,Internet Usage,,,True
+46540,Zambia,2019,Internet Usage,,,True
+46541,Zimbabwe,2019,Internet Usage,15.5,1.775,True
+46542,Algeria,2019,Internet Usage,22.5,2.125,True
+46543,Bahrain,2019,Internet Usage,90.0000397,5.500001985,True
+46544,Comoros,2019,Internet Usage,6.5,1.325,True
+46545,Djibouti,2019,Internet Usage,12.7,1.635,True
+46546,Egypt,2019,Internet Usage,29.4,2.4699999999999998,True
+46547,Iraq,2019,Internet Usage,9.2,1.46,True
+46548,Jordan,2019,Internet Usage,41.4,3.07,True
+46549,Kuwait,2019,Internet Usage,75.46,4.773,True
+46550,Lebanon,2019,Internet Usage,70.5,4.525,True
+46551,Libya,2019,Internet Usage,16.5,1.825,True
+46552,Mauritania,2019,Internet Usage,6.2,1.31,True
+46553,Morocco,2019,Internet Usage,56.0,3.8,True
+46554,Oman,2019,Internet Usage,66.45,4.3225,True
+46555,Palestine,2019,Internet Usage,46.6,3.33,True
+46556,Qatar,2019,Internet Usage,85.3,5.265,True
+46557,Saudi Arabia,2019,Internet Usage,60.5,4.025,True
+46558,Somalia,2019,Internet Usage,1.5,1.075,True
+46559,Sudan,2019,Internet Usage,,,True
+46560,Syrian Arab Republic,2019,Internet Usage,26.2,2.31,True
+46561,Tunisia,2019,Internet Usage,43.8,3.19,True
+46562,United Arab Emirates,2019,Internet Usage,88.0,5.4,True
+46563,Yemen,2019,Internet Usage,20.0,2.0,True
+46564,Afghanistan,2019,Internet Usage,5.9,1.295,True
+46565,Australia,2019,Internet Usage,83.45349717,5.1726748585,True
+46566,Bangladesh,2019,Internet Usage,6.63,1.3315,True
+46567,Bhutan,2019,Internet Usage,22.4,2.12,True
+46568,Brunei Darussalam,2019,Internet Usage,64.5,4.225,True
+46569,Cambodia,2019,Internet Usage,6.0,1.3,True
+46570,China,2019,Internet Usage,45.8,3.29,True
+46571,Fiji,2019,Internet Usage,35.2,2.76,True
+46572,"Hong Kong, China",2019,Internet Usage,74.2,4.71,True
+46573,India,2019,Internet Usage,12.3,1.615,True
+46574,Indonesia,2019,Internet Usage,14.94,1.7469999999999999,True
+46575,Iran (Islamic Republic of),2019,Internet Usage,29.95,2.4975,True
+46576,Japan,2019,Internet Usage,88.21942891,5.4109714455,True
+46577,Kiribati,2019,Internet Usage,11.5,1.575,True
+46578,Korea (Rep. of),2019,Internet Usage,84.77,5.238499999999999,True
+46579,Lao P.D.R.,2019,Internet Usage,12.5,1.625,True
+46580,"Macao, China",2019,Internet Usage,65.8,4.29,True
+46581,Malaysia,2019,Internet Usage,57.05751226,3.852875613,True
+46582,Maldives,2019,Internet Usage,44.1,3.205,True
+46583,Marshall Islands,2019,Internet Usage,14.0,1.7,True
+46584,Micronesia,2019,Internet Usage,27.8,2.3899999999999997,True
+46585,Mongolia,2019,Internet Usage,17.69998424,1.8849992119999999,True
+46586,Myanmar,2019,Internet Usage,1.8,1.09,True
+46587,Nepal (Republic of),2019,Internet Usage,13.3,1.665,True
+46588,New Zealand,2019,Internet Usage,82.78,5.138999999999999,True
+46589,Pakistan,2019,Internet Usage,9.0,1.45,True
+46590,Papua New Guinea,2019,Internet Usage,5.1,1.255,True
+46591,Philippines,2019,Internet Usage,32.7,2.635,True
+46592,Samoa,2019,Internet Usage,15.3,1.7650000000000001,True
+46593,Singapore,2019,Internet Usage,80.90205685,5.0451028424999995,True
+46594,Solomon Islands,2019,Internet Usage,8.0,1.4,True
+46595,Sri Lanka,2019,Internet Usage,,,True
+46596,Thailand,2019,Internet Usage,28.94,2.447,True
+46597,Timor-Leste,2019,Internet Usage,11.0,1.55,True
+46598,Tonga,2019,Internet Usage,32.75396061,2.6376980305,True
+46599,Tuvalu,2019,Internet Usage,37.0,2.85,True
+46600,Vanuatu,2019,Internet Usage,11.3,1.565,True
+46601,Viet Nam,2019,Internet Usage,38.5,2.925,True
+46602,Armenia,2019,Internet Usage,41.9,3.095,True
+46603,Azerbaijan,2019,Internet Usage,73.00000137,4.650000068500001,True
+46604,Belarus,2019,Internet Usage,54.17,3.7085000000000004,True
+46605,Kazakhstan,2019,Internet Usage,63.30422443,4.1652112215,True
+46606,Kyrgyzstan,2019,Internet Usage,23.0,2.15,True
+46607,Russian Federation,2019,Internet Usage,67.97,4.3985,True
+46608,Tajikistan,2019,Internet Usage,16.0,1.8,True
+46609,Turkmenistan,2019,Internet Usage,9.6,1.48,True
+46610,Uzbekistan,2019,Internet Usage,26.8,2.34,True
+46611,Albania,2019,Internet Usage,51.8,3.59,True
+46612,Andorra,2019,Internet Usage,,,True
+46613,Austria,2019,Internet Usage,80.6188,5.030939999999999,True
+46614,Belgium,2019,Internet Usage,82.1702,5.10851,True
+46615,Bosnia and Herzegovina,2019,Internet Usage,48.52131417,3.4260657084999995,True
+46616,Bulgaria,2019,Internet Usage,53.0615,3.653075,True
+46617,Croatia,2019,Internet Usage,66.7476,4.3373800000000005,True
+46618,Cyprus,2019,Internet Usage,65.4548,4.272740000000001,True
+46619,Czech Republic,2019,Internet Usage,74.1104,4.70552,True
+46620,Denmark,2019,Internet Usage,94.6297,5.731485,True
+46621,Estonia,2019,Internet Usage,80.0043,5.000215,True
+46622,Finland,2019,Internet Usage,91.5144,5.5757200000000005,True
+46623,France,2019,Internet Usage,81.9198,5.09599,True
+46624,Georgia,2019,Internet Usage,43.3,3.165,True
+46625,Germany,2019,Internet Usage,84.17,5.2085,True
+46626,Greece,2019,Internet Usage,59.8663,3.993315,True
+46627,Hungary,2019,Internet Usage,72.6439,4.632195,True
+46628,Iceland,2019,Internet Usage,96.5468,5.82734,True
+46629,Ireland,2019,Internet Usage,78.2477,4.9123850000000004,True
+46630,Israel,2019,Internet Usage,70.25031195,4.5125155975,True
+46631,Italy,2019,Internet Usage,58.4593,3.9229649999999996,True
+46632,Latvia,2019,Internet Usage,75.2344,4.7617199999999995,True
+46633,Liechtenstein,2019,Internet Usage,93.8,5.69,True
+46634,Lithuania,2019,Internet Usage,68.4529,4.422645,True
+46635,Luxembourg,2019,Internet Usage,93.7765,5.688825,True
+46636,Malta,2019,Internet Usage,68.9138,4.445689999999999,True
+46637,Moldova,2019,Internet Usage,60.0,4.0,True
+46638,Monaco,2019,Internet Usage,90.7,5.535,True
+46639,Montenegro,2019,Internet Usage,60.31,4.0155,True
+46640,Netherlands,2019,Internet Usage,93.9564,5.69782,True
+46641,North Macedonia,2019,Internet Usage,65.24,4.2620000000000005,True
+46642,Norway,2019,Internet Usage,95.0534,5.75267,True
+46643,Poland,2019,Internet Usage,62.8492,4.14246,True
+46644,Portugal,2019,Internet Usage,62.0956,4.10478,True
+46645,Romania,2019,Internet Usage,49.7645,3.488225,True
+46646,San Marino,2019,Internet Usage,,,True
+46647,Serbia,2019,Internet Usage,53.45036417,3.6725182085,True
+46648,Slovakia,2019,Internet Usage,77.8826,4.8941300000000005,True
+46649,Slovenia,2019,Internet Usage,72.6756,4.63378,True
+46650,Spain,2019,Internet Usage,71.635,4.5817499999999995,True
+46651,Sweden,2019,Internet Usage,94.7836,5.73918,True
+46652,Switzerland,2019,Internet Usage,86.34,5.317,True
+46653,Turkey,2019,Internet Usage,46.25,3.3125,True
+46654,Ukraine,2019,Internet Usage,40.954129,3.04770645,True
+46655,United Kingdom,2019,Internet Usage,89.8441,5.492205,True
+46656,Antigua and Barbuda,2019,Internet Usage,63.4,4.17,True
+46657,Argentina,2019,Internet Usage,59.9,3.995,True
+46658,Bahamas,2019,Internet Usage,72.0,4.6,True
+46659,Barbados,2019,Internet Usage,71.8,4.59,True
+46660,Belize,2019,Internet Usage,33.6,2.6799999999999997,True
+46661,Bolivia (Plurinational State of),2019,Internet Usage,36.99,2.8495,True
+46662,Brazil,2019,Internet Usage,51.04,3.552,True
+46663,Canada,2019,Internet Usage,85.8,5.29,True
+46664,Chile,2019,Internet Usage,58.0,3.9,True
+46665,Colombia,2019,Internet Usage,51.7,3.585,True
+46666,Costa Rica,2019,Internet Usage,45.96,3.298,True
+46667,Cuba,2019,Internet Usage,27.93,2.3965,True
+46668,Dominica,2019,Internet Usage,51.0,3.55,True
+46669,Dominican Rep.,2019,Internet Usage,45.9,3.295,True
+46670,Ecuador,2019,Internet Usage,40.27912194,3.0139560970000003,True
+46671,El Salvador,2019,Internet Usage,23.1093,2.1554650000000004,True
+46672,Grenada,2019,Internet Usage,35.0,2.75,True
+46673,Guatemala,2019,Internet Usage,19.7,1.9849999999999999,True
+46674,Guyana,2019,Internet Usage,31.0,2.55,True
+46675,Haiti,2019,Internet Usage,10.6,1.53,True
+46676,Honduras,2019,Internet Usage,17.8,1.8900000000000001,True
+46677,Jamaica,2019,Internet Usage,37.1,2.855,True
+46678,Mexico,2019,Internet Usage,43.46,3.173,True
+46679,Nicaragua,2019,Internet Usage,15.5,1.775,True
+46680,Panama,2019,Internet Usage,44.03,3.2015000000000002,True
+46681,Paraguay,2019,Internet Usage,36.9,2.8449999999999998,True
+46682,Peru,2019,Internet Usage,39.2,2.96,True
+46683,Saint Kitts and Nevis,2019,Internet Usage,64.6,4.23,True
+46684,Saint Lucia,2019,Internet Usage,36.0,2.8,True
+46685,Saint Vincent and the Grenadines,2019,Internet Usage,43.5,3.175,True
+46686,Suriname,2019,Internet Usage,37.4,2.87,True
+46687,Trinidad and Tobago,2019,Internet Usage,63.8,4.1899999999999995,True
+46688,United States,2019,Internet Usage,71.4,4.57,True
+46689,Uruguay,2019,Internet Usage,57.69,3.8845,True
+46690,Venezuela,2019,Internet Usage,54.9,3.745,True
+46691,Angola,2019,Internet Usage,21.4,2.0700000000000003,True
+46692,Benin,2019,Internet Usage,6.0,1.3,True
+46693,Botswana,2019,Internet Usage,36.74474744,2.8372373719999997,True
+46694,Burkina Faso,2019,Internet Usage,6.0,1.3,True
+46695,Burundi,2019,Internet Usage,1.4,1.07,True
+46696,Cabo Verde,2019,Internet Usage,40.26,3.013,True
+46697,Cameroon,2019,Internet Usage,16.21487223,1.8107436115,True
+46698,Central African Rep.,2019,Internet Usage,3.6,1.18,True
+46699,Chad,2019,Internet Usage,2.9,1.145,True
+46700,Congo (Rep. of the),2019,Internet Usage,7.11,1.3555000000000001,True
+46701,Côte d'Ivoire,2019,Internet Usage,19.2742298,1.9637114900000001,True
+46702,Dem. Rep. of the Congo,2019,Internet Usage,3.0,1.15,True
+46703,Equatorial Guinea,2019,Internet Usage,18.86,1.943,True
+46704,Eritrea,2019,Internet Usage,0.99,1.0495,True
+46705,Eswatini,2019,Internet Usage,25.0,2.25,True
+46706,Ethiopia,2019,Internet Usage,7.7,1.385,True
+46707,Gabon,2019,Internet Usage,38.07120929,2.9035604645,True
+46708,Gambia,2019,Internet Usage,15.56,1.778,True
+46709,Ghana,2019,Internet Usage,19.0,1.95,True
+46710,Guinea,2019,Internet Usage,6.4,1.32,True
+46711,Guinea-Bissau,2019,Internet Usage,3.32,1.166,True
+46712,Kenya,2019,Internet Usage,16.5,1.825,True
+46713,Lesotho,2019,Internet Usage,22.0,2.1,True
+46714,Liberia,2019,Internet Usage,5.41,1.2705,True
+46715,Madagascar,2019,Internet Usage,3.7,1.185,True
+46716,Malawi,2019,Internet Usage,5.83,1.2915,True
+46717,Mali,2019,Internet Usage,7.0,1.35,True
+46718,Mauritius,2019,Internet Usage,44.80327537,3.2401637685,True
+46719,Mozambique,2019,Internet Usage,6.0,1.3,True
+46720,Namibia,2019,Internet Usage,14.84,1.742,True
+46721,Niger,2019,Internet Usage,1.248675689,1.06243378445,True
+46722,Nigeria,2019,Internet Usage,21.0,2.05,True
+46723,Rwanda,2019,Internet Usage,10.6,1.53,True
+46724,Sao Tome and Principe,2019,Internet Usage,24.41,2.2205,True
+46725,Senegal,2019,Internet Usage,17.7,1.885,True
+46726,Seychelles,2019,Internet Usage,51.25470199,3.5627350995000002,True
+46727,Sierra Leone,2019,Internet Usage,6.057298984,1.3028649492,True
+46728,South Africa,2019,Internet Usage,49.0,3.45,True
+46729,South Sudan,2019,Internet Usage,4.51615373,1.2258076865,True
+46730,Tanzania,2019,Internet Usage,7.0,1.35,True
+46731,Togo,2019,Internet Usage,5.7,1.285,True
+46732,Uganda,2019,Internet Usage,,,True
+46733,Zambia,2019,Internet Usage,,,True
+46734,Zimbabwe,2019,Internet Usage,16.36473996,1.8182369980000002,True
+46735,Algeria,2019,Internet Usage,29.5,2.475,True
+46736,Bahrain,2019,Internet Usage,90.50313348,5.525156674,True
+46737,Comoros,2019,Internet Usage,6.98,1.349,True
+46738,Djibouti,2019,Internet Usage,17.0,1.85,True
+46739,Egypt,2019,Internet Usage,33.89460391,2.6947301955,True
+46740,Iraq,2019,Internet Usage,13.21,1.6605,True
+46741,Jordan,2019,Internet Usage,46.2,3.31,True
+46742,Kuwait,2019,Internet Usage,78.7,4.9350000000000005,True
+46743,Lebanon,2019,Internet Usage,73.0,4.65,True
+46744,Libya,2019,Internet Usage,17.76,1.8880000000000001,True
+46745,Mauritania,2019,Internet Usage,10.7,1.5350000000000001,True
+46746,Morocco,2019,Internet Usage,56.8,3.84,True
+46747,Oman,2019,Internet Usage,70.22,4.511,True
+46748,Palestine,2019,Internet Usage,53.67,3.6835000000000004,True
+46749,Qatar,2019,Internet Usage,91.49,5.5745,True
+46750,Saudi Arabia,2019,Internet Usage,64.71365737,4.2356828685000005,True
+46751,Somalia,2019,Internet Usage,1.63,1.0815,True
+46752,Sudan,2019,Internet Usage,,,True
+46753,Syrian Arab Republic,2019,Internet Usage,28.09,2.4044999999999996,True
+46754,Tunisia,2019,Internet Usage,46.16,3.308,True
+46755,United Arab Emirates,2019,Internet Usage,90.4,5.52,True
+46756,Yemen,2019,Internet Usage,22.55,2.1275,True
+46757,Afghanistan,2019,Internet Usage,7.0,1.35,True
+46758,Australia,2019,Internet Usage,84.0,5.2,True
+46759,Bangladesh,2019,Internet Usage,9.5,1.475,True
+46760,Bhutan,2019,Internet Usage,30.3,2.5149999999999997,True
+46761,Brunei Darussalam,2019,Internet Usage,68.77,4.4384999999999994,True
+46762,Cambodia,2019,Internet Usage,14.0,1.7,True
+46763,China,2019,Internet Usage,47.9,3.395,True
+46764,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+46765,Fiji,2019,Internet Usage,37.4,2.87,True
+46766,"Hong Kong, China",2019,Internet Usage,79.86627043,4.993313521499999,True
+46767,India,2019,Internet Usage,13.5,1.675,True
+46768,Indonesia,2019,Internet Usage,17.14,1.857,True
+46769,Iran (Islamic Republic of),2019,Internet Usage,39.35,2.9675000000000002,True
+46770,Japan,2019,Internet Usage,89.10683302,5.455341651,True
+46771,Kiribati,2019,Internet Usage,12.25,1.6125,True
+46772,Korea (Rep. of),2019,Internet Usage,87.55682649,5.3778413245,True
+46773,Lao P.D.R.,2019,Internet Usage,14.26,1.713,True
+46774,"Macao, China",2019,Internet Usage,69.78,4.489,True
+46775,Malaysia,2019,Internet Usage,63.66542588,4.183271294,True
+46776,Maldives,2019,Internet Usage,49.28,3.464,True
+46777,Marshall Islands,2019,Internet Usage,16.8,1.8399999999999999,True
+46778,Micronesia,2019,Internet Usage,29.65,2.4825,True
+46779,Mongolia,2019,Internet Usage,19.94244743,1.9971223715000002,True
+46780,Myanmar,2019,Internet Usage,7.4,1.37,True
+46781,Nepal (Republic of),2019,Internet Usage,15.44,1.772,True
+46782,New Zealand,2019,Internet Usage,84.0,5.2,True
+46783,Pakistan,2019,Internet Usage,10.0,1.5,True
+46784,Papua New Guinea,2019,Internet Usage,6.5,1.325,True
+46785,Philippines,2019,Internet Usage,34.7,2.7350000000000003,True
+46786,Samoa,2019,Internet Usage,21.2,2.06,True
+46787,Singapore,2019,Internet Usage,79.02923586,4.951461793,True
+46788,Solomon Islands,2019,Internet Usage,9.0,1.45,True
+46789,Sri Lanka,2019,Internet Usage,10.5,1.525,True
+46790,Thailand,2019,Internet Usage,34.89,2.7445,True
+46791,Timor-Leste,2019,Internet Usage,17.5,1.875,True
+46792,Tonga,2019,Internet Usage,35.95444145,2.7977220725,True
+46793,Tuvalu,2019,Internet Usage,39.2,2.96,True
+46794,Vanuatu,2019,Internet Usage,18.8,1.94,True
+46795,Viet Nam,2019,Internet Usage,41.0,3.05,True
+46796,Armenia,2019,Internet Usage,54.62280586,3.7311402929999997,True
+46797,Azerbaijan,2019,Internet Usage,75.00001564,4.750000782000001,True
+46798,Belarus,2019,Internet Usage,59.02,3.951,True
+46799,Kazakhstan,2019,Internet Usage,66.0,4.3,True
+46800,Kyrgyzstan,2019,Internet Usage,28.3,2.415,True
+46801,Russian Federation,2019,Internet Usage,70.52,4.526,True
+46802,Tajikistan,2019,Internet Usage,17.49,1.8744999999999998,True
+46803,Turkmenistan,2019,Internet Usage,12.2,1.6099999999999999,True
+46804,Uzbekistan,2019,Internet Usage,35.5,2.775,True
+46805,Albania,2019,Internet Usage,54.3,3.715,True
+46806,Andorra,2019,Internet Usage,,,True
+46807,Austria,2019,Internet Usage,80.99582496,5.049791248,True
+46808,Belgium,2019,Internet Usage,85.0,5.25,True
+46809,Bosnia and Herzegovina,2019,Internet Usage,49.91773243,3.4958866215,True
+46810,Bulgaria,2019,Internet Usage,55.49,3.7744999999999997,True
+46811,Croatia,2019,Internet Usage,68.57,4.4285,True
+46812,Cyprus,2019,Internet Usage,69.33,4.4665,True
+46813,Czech Republic,2019,Internet Usage,74.23171164,4.711585582,True
+46814,Denmark,2019,Internet Usage,95.99,5.7995,True
+46815,Estonia,2019,Internet Usage,84.24152803,5.2120764015,True
+46816,Finland,2019,Internet Usage,86.53039275,5.326519637500001,True
+46817,France,2019,Internet Usage,83.75,5.1875,True
+46818,Georgia,2019,Internet Usage,44.0,3.2,True
+46819,Germany,2019,Internet Usage,86.19,5.3095,True
+46820,Greece,2019,Internet Usage,63.21,4.160500000000001,True
+46821,Hungary,2019,Internet Usage,75.65319745,4.7826598725,True
+46822,Iceland,2019,Internet Usage,98.16,5.9079999999999995,True
+46823,Ireland,2019,Internet Usage,83.49172234,5.1745861170000005,True
+46824,Israel,2019,Internet Usage,75.01775316,4.750887658,True
+46825,Italy,2019,Internet Usage,55.63846022,3.781923011,True
+46826,Latvia,2019,Internet Usage,75.83,4.791499999999999,True
+46827,Liechtenstein,2019,Internet Usage,95.21,5.7604999999999995,True
+46828,Lithuania,2019,Internet Usage,72.13,4.6065,True
+46829,Luxembourg,2019,Internet Usage,94.67,5.7335,True
+46830,Malta,2019,Internet Usage,73.17,4.6585,True
+46831,Moldova,2019,Internet Usage,67.0,4.35,True
+46832,Monaco,2019,Internet Usage,92.4,5.62,True
+46833,Montenegro,2019,Internet Usage,61.0,4.05,True
+46834,Netherlands,2019,Internet Usage,91.666666,5.5833333000000005,True
+46835,North Macedonia,2019,Internet Usage,68.06,4.4030000000000005,True
+46836,Norway,2019,Internet Usage,96.3,5.815,True
+46837,Poland,2019,Internet Usage,66.6,4.33,True
+46838,Portugal,2019,Internet Usage,64.59,4.2295,True
+46839,Romania,2019,Internet Usage,54.08,3.7039999999999997,True
+46840,San Marino,2019,Internet Usage,,,True
+46841,Serbia,2019,Internet Usage,62.07508046,4.1037540230000005,True
+46842,Slovakia,2019,Internet Usage,79.98,4.9990000000000006,True
+46843,Slovenia,2019,Internet Usage,71.59,4.5795,True
+46844,Spain,2019,Internet Usage,76.19,4.8095,True
+46845,Sweden,2019,Internet Usage,92.52,5.6259999999999994,True
+46846,Switzerland,2019,Internet Usage,87.4,5.37,True
+46847,Turkey,2019,Internet Usage,51.04,3.552,True
+46848,Ukraine,2019,Internet Usage,46.23597546,3.311798773,True
+46849,United Kingdom,2019,Internet Usage,91.61,5.5805,True
+46850,Antigua and Barbuda,2019,Internet Usage,67.78,4.388999999999999,True
+46851,Argentina,2019,Internet Usage,64.7,4.234999999999999,True
+46852,Bahamas,2019,Internet Usage,76.92,4.846,True
+46853,Barbados,2019,Internet Usage,75.16,4.757999999999999,True
+46854,Belize,2019,Internet Usage,38.7,2.935,True
+46855,Bolivia (Plurinational State of),2019,Internet Usage,34.6,2.73,True
+46856,Brazil,2019,Internet Usage,54.55100188,3.727550094,True
+46857,Canada,2019,Internet Usage,87.12,5.356,True
+46858,Chile,2019,Internet Usage,61.11,4.0555,True
+46859,Colombia,2019,Internet Usage,52.57,3.6285000000000003,True
+46860,Costa Rica,2019,Internet Usage,53.0,3.65,True
+46861,Cuba,2019,Internet Usage,29.07018437,2.4535092185,True
+46862,Dominica,2019,Internet Usage,57.5,3.875,True
+46863,Dominican Rep.,2019,Internet Usage,49.58,3.4789999999999996,True
+46864,Ecuador,2019,Internet Usage,45.59039067,3.2795195335,True
+46865,El Salvador,2019,Internet Usage,24.76171215,2.2380856075,True
+46866,Grenada,2019,Internet Usage,51.6,3.58,True
+46867,Guatemala,2019,Internet Usage,23.4,2.17,True
+46868,Guyana,2019,Internet Usage,32.0,2.6,True
+46869,Haiti,2019,Internet Usage,11.4,1.5699999999999998,True
+46870,Honduras,2019,Internet Usage,23.0,2.15,True
+46871,Jamaica,2019,Internet Usage,40.4027351,3.0201367550000002,True
+46872,Mexico,2019,Internet Usage,44.39,3.2195,True
+46873,Nicaragua,2019,Internet Usage,17.6,1.88,True
+46874,Panama,2019,Internet Usage,44.92,3.2460000000000004,True
+46875,Paraguay,2019,Internet Usage,43.0,3.15,True
+46876,Peru,2019,Internet Usage,40.2,3.01,True
+46877,Saint Kitts and Nevis,2019,Internet Usage,68.0,4.4,True
+46878,Saint Lucia,2019,Internet Usage,39.7,2.9850000000000003,True
+46879,Saint Vincent and the Grenadines,2019,Internet Usage,47.4,3.37,True
+46880,Suriname,2019,Internet Usage,40.08,3.0039999999999996,True
+46881,Trinidad and Tobago,2019,Internet Usage,65.1,4.255,True
+46882,United States,2019,Internet Usage,73.0,4.65,True
+46883,Uruguay,2019,Internet Usage,61.46,4.073,True
+46884,Venezuela,2019,Internet Usage,57.0,3.85,True
+46885,Angola,2019,Internet Usage,29.0,2.45,True
+46886,Benin,2019,Internet Usage,11.25498791,1.5627493955,True
+46887,Botswana,2019,Internet Usage,37.31205037,2.8656025185000003,True
+46888,Burkina Faso,2019,Internet Usage,7.0,1.35,True
+46889,Burundi,2019,Internet Usage,2.1,1.105,True
+46890,Cabo Verde,2019,Internet Usage,42.68301416,3.134150708,True
+46891,Cameroon,2019,Internet Usage,18.3,1.915,True
+46892,Central African Rep.,2019,Internet Usage,3.8,1.19,True
+46893,Chad,2019,Internet Usage,3.5,1.175,True
+46894,Congo (Rep. of the),2019,Internet Usage,7.615974662,1.3807987331,True
+46895,Côte d'Ivoire,2019,Internet Usage,38.44000017,2.9220000084999995,True
+46896,Dem. Rep. of the Congo,2019,Internet Usage,3.799999507,1.18999997535,True
+46897,Equatorial Guinea,2019,Internet Usage,,,True
+46898,Eritrea,2019,Internet Usage,1.083733116,1.0541866558,True
+46899,Eswatini,2019,Internet Usage,25.64304231,2.2821521154999997,True
+46900,Ethiopia,2019,Internet Usage,13.85517556,1.692758778,True
+46901,Gabon,2019,Internet Usage,45.78453653,3.2892268264999998,True
+46902,Gambia,2019,Internet Usage,19.7,1.9849999999999999,True
+46903,Ghana,2019,Internet Usage,23.0,2.15,True
+46904,Guinea,2019,Internet Usage,8.2,1.41,True
+46905,Guinea-Bissau,2019,Internet Usage,,,True
+46906,Kenya,2019,Internet Usage,16.58785485,1.8293927425,True
+46907,Lesotho,2019,Internet Usage,25.0,2.25,True
+46908,Liberia,2019,Internet Usage,10.0,1.5,True
+46909,Madagascar,2019,Internet Usage,4.17397219,1.2086986095,True
+46910,Malawi,2019,Internet Usage,7.6,1.38,True
+46911,Mali,2019,Internet Usage,10.33,1.5165,True
+46912,Mauritius,2019,Internet Usage,50.13931848,3.5069659239999997,True
+46913,Mozambique,2019,Internet Usage,6.5,1.325,True
+46914,Namibia,2019,Internet Usage,25.68785182,2.2843925909999996,True
+46915,Niger,2019,Internet Usage,2.476219975,1.12381099875,True
+46916,Nigeria,2019,Internet Usage,24.5,2.225,True
+46917,Rwanda,2019,Internet Usage,18.0,1.9,True
+46918,Sao Tome and Principe,2019,Internet Usage,25.82,2.291,True
+46919,Senegal,2019,Internet Usage,21.7,2.085,True
+46920,Seychelles,2019,Internet Usage,54.25961786,3.712980893,True
+46921,Sierra Leone,2019,Internet Usage,6.344421603,1.31722108015,True
+46922,South Africa,2019,Internet Usage,51.91911572,3.595955786,True
+46923,South Sudan,2019,Internet Usage,5.5,1.275,True
+46924,Tanzania,2019,Internet Usage,10.0,1.5,True
+46925,Togo,2019,Internet Usage,7.12,1.356,True
+46926,Uganda,2019,Internet Usage,,,True
+46927,Zambia,2019,Internet Usage,,,True
+46928,Zimbabwe,2019,Internet Usage,22.7428181,2.137140905,True
+46929,Algeria,2019,Internet Usage,38.2,2.91,True
+46930,Bahrain,2019,Internet Usage,93.4783008,5.67391504,True
+46931,Comoros,2019,Internet Usage,7.459161386,1.3729580693,True
+46932,Djibouti,2019,Internet Usage,22.9,2.145,True
+46933,Egypt,2019,Internet Usage,37.81938343,2.8909691715,True
+46934,Iraq,2019,Internet Usage,16.8,1.8399999999999999,True
+46935,Jordan,2019,Internet Usage,60.11438269,4.0057191345,True
+46936,Kuwait,2019,Internet Usage,78.0,4.9,True
+46937,Lebanon,2019,Internet Usage,74.0,4.7,True
+46938,Libya,2019,Internet Usage,,,True
+46939,Mauritania,2019,Internet Usage,15.19912669,1.7599563345,True
+46940,Morocco,2019,Internet Usage,57.07999935,3.8539999675,True
+46941,Oman,2019,Internet Usage,73.53,4.6765,True
+46942,Palestine,2019,Internet Usage,56.7,3.835,True
+46943,Qatar,2019,Internet Usage,92.88482645,5.6442413225,True
+46944,Saudi Arabia,2019,Internet Usage,69.6162358,4.480811790000001,True
+46945,Somalia,2019,Internet Usage,1.76,1.088,True
+46946,Sudan,2019,Internet Usage,,,True
+46947,Syrian Arab Republic,2019,Internet Usage,29.97979724,2.498989862,True
+46948,Tunisia,2019,Internet Usage,46.49999434,3.324999717,True
+46949,United Arab Emirates,2019,Internet Usage,90.5,5.525,True
+46950,Yemen,2019,Internet Usage,24.08540947,2.2042704735000003,True
+46951,Afghanistan,2019,Internet Usage,8.26,1.413,True
+46952,Australia,2019,Internet Usage,84.56051491,5.2280257455,True
+46953,Bangladesh,2019,Internet Usage,13.6,1.6800000000000002,True
+46954,Bhutan,2019,Internet Usage,39.8,2.99,True
+46955,Brunei Darussalam,2019,Internet Usage,71.2,4.5600000000000005,True
+46956,Cambodia,2019,Internet Usage,18.0,1.9,True
+46957,China,2019,Internet Usage,50.3,3.515,True
+46958,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+46959,Fiji,2019,Internet Usage,42.5,3.125,True
+46960,"Hong Kong, China",2019,Internet Usage,84.94835296,5.247417647999999,True
+46961,India,2019,Internet Usage,14.9,1.745,True
+46962,Indonesia,2019,Internet Usage,22.0627426,2.1031371300000004,True
+46963,Iran (Islamic Republic of),2019,Internet Usage,45.33497615,3.2667488075,True
+46964,Japan,2019,Internet Usage,91.05802839,5.5529014195,True
+46965,Kiribati,2019,Internet Usage,12.99748389,1.6498741945000002,True
+46966,Korea (Rep. of),2019,Internet Usage,89.8962558,5.49481279,True
+46967,Lao P.D.R.,2019,Internet Usage,18.2,1.9100000000000001,True
+46968,"Macao, China",2019,Internet Usage,77.60013186,4.880006593000001,True
+46969,Malaysia,2019,Internet Usage,71.06406781,4.5532033905,True
+46970,Maldives,2019,Internet Usage,54.46195515,3.7230977575,True
+46971,Marshall Islands,2019,Internet Usage,19.2824418,1.96412209,True
+46972,Micronesia,2019,Internet Usage,31.50108128,2.5750540639999997,True
+46973,Mongolia,2019,Internet Usage,22.50000413,2.1250002065,True
+46974,Myanmar,2019,Internet Usage,10.9,1.545,True
+46975,Nauru,2019,Internet Usage,,,True
+46976,Nepal (Republic of),2019,Internet Usage,17.58161801,1.8790809005,True
+46977,New Zealand,2019,Internet Usage,85.2,5.26,True
+46978,Pakistan,2019,Internet Usage,11.0,1.55,True
+46979,Papua New Guinea,2019,Internet Usage,7.9,1.395,True
+46980,Philippines,2019,Internet Usage,36.9,2.8449999999999998,True
+46981,Samoa,2019,Internet Usage,25.40700977,2.2703504885,True
+46982,Singapore,2019,Internet Usage,79.012957,4.95064785,True
+46983,Solomon Islands,2019,Internet Usage,10.00046498,1.500023249,True
+46984,Sri Lanka,2019,Internet Usage,12.1,1.605,True
+46985,Thailand,2019,Internet Usage,39.31612674,2.965806337,True
+46986,Timor-Leste,2019,Internet Usage,23.0,2.15,True
+46987,Tonga,2019,Internet Usage,38.65127243,2.9325636215,True
+46988,Tuvalu,2019,Internet Usage,42.7,3.135,True
+46989,Vanuatu,2019,Internet Usage,22.35140458,2.117570229,True
+46990,Viet Nam,2019,Internet Usage,45.0,3.25,True
+46991,Armenia,2019,Internet Usage,59.10083377,3.9550416884999997,True
+46992,Azerbaijan,2019,Internet Usage,77.0,4.85,True
+46993,Belarus,2019,Internet Usage,62.23036091,4.1115180455,True
+46994,Kazakhstan,2019,Internet Usage,70.8299336,4.54149668,True
+46995,Kyrgyzstan,2019,Internet Usage,30.24704278,2.512352139,True
+46996,Russian Federation,2019,Internet Usage,70.09924123,4.504962061500001,True
+46997,Tajikistan,2019,Internet Usage,18.98,1.949,True
+46998,Turkmenistan,2019,Internet Usage,14.99677482,1.749838741,True
+46999,Uzbekistan,2019,Internet Usage,42.8,3.14,True
+47000,Albania,2019,Internet Usage,56.9,3.845,True
+47001,Andorra,2019,Internet Usage,,,True
+47002,Austria,2019,Internet Usage,83.94014193,5.197007096499999,True
+47003,Belgium,2019,Internet Usage,85.05294175,5.2526470875,True
+47004,Bosnia and Herzegovina,2019,Internet Usage,52.6,3.63,True
+47005,Bulgaria,2019,Internet Usage,56.65625161,3.8328125805,True
+47006,Croatia,2019,Internet Usage,69.84503592,4.492251796,True
+47007,Cyprus,2019,Internet Usage,71.71574092,4.585787046,True
+47008,Czech Republic,2019,Internet Usage,75.6688387,4.783441934999999,True
+47009,Denmark,2019,Internet Usage,96.33050162,5.816525081,True
+47010,Estonia,2019,Internet Usage,88.4097035,5.420485175,True
+47011,Finland,2019,Internet Usage,86.42213333,5.3211066664999995,True
+47012,France,2019,Internet Usage,78.00603771,4.900301885499999,True
+47013,Georgia,2019,Internet Usage,47.56975964,3.3784879820000002,True
+47014,Germany,2019,Internet Usage,87.58979935,5.3794899675000005,True
+47015,Greece,2019,Internet Usage,66.83495949,4.3417479745000005,True
+47016,Hungary,2019,Internet Usage,72.83473703,4.641736851499999,True
+47017,Iceland,2019,Internet Usage,98.2,5.91,True
+47018,Ireland,2019,Internet Usage,83.49479167,5.1747395835,True
+47019,Israel,2019,Internet Usage,77.35208966,4.867604483,True
+47020,Italy,2019,Internet Usage,58.14173496,3.9070867479999998,True
+47021,Latvia,2019,Internet Usage,79.20058292,4.960029146,True
+47022,Liechtenstein,2019,Internet Usage,96.6411951,5.832059755,True
+47023,Lithuania,2019,Internet Usage,71.37805901,4.5689029505,True
+47024,Luxembourg,2019,Internet Usage,96.37671417,5.8188357085,True
+47025,Malta,2019,Internet Usage,75.96001898,4.798000949,True
+47026,Moldova,2019,Internet Usage,69.00000447,4.4500002235,True
+47027,Monaco,2019,Internet Usage,93.36330202,5.6681651010000005,True
+47028,Montenegro,2019,Internet Usage,68.11978601,4.4059893005,True
+47029,Netherlands,2019,Internet Usage,91.72413793,5.586206896499999,True
+47030,North Macedonia,2019,Internet Usage,70.38020308,4.519010154,True
+47031,Norway,2019,Internet Usage,96.81032569,5.8405162845000005,True
+47032,Poland,2019,Internet Usage,67.99698716,4.399849358,True
+47033,Portugal,2019,Internet Usage,68.63286148,4.431643074,True
+47034,Romania,2019,Internet Usage,55.76315563,3.7881577815000003,True
+47035,San Marino,2019,Internet Usage,,,True
+47036,Serbia,2019,Internet Usage,65.3170254,4.265851270000001,True
+47037,Slovakia,2019,Internet Usage,77.63468203,4.881734101499999,True
+47038,Slovenia,2019,Internet Usage,73.09865997,4.6549329985,True
+47039,Spain,2019,Internet Usage,78.68963187,4.934481593499999,True
+47040,Sweden,2019,Internet Usage,90.61019664,5.530509832,True
+47041,Switzerland,2019,Internet Usage,87.4790556,5.37395278,True
+47042,Turkey,2019,Internet Usage,53.74497914,3.687248957,True
+47043,Ukraine,2019,Internet Usage,48.88464368,3.444232184,True
+47044,United Kingdom,2019,Internet Usage,92.00029987,5.6000149935,True
+47045,Vatican,2019,Internet Usage,,,True
+47046,Antigua and Barbuda,2019,Internet Usage,70.0,4.5,True
+47047,Argentina,2019,Internet Usage,68.04306411,4.4021532054999994,True
+47048,Bahamas,2019,Internet Usage,78.0,4.9,True
+47049,Barbados,2019,Internet Usage,76.11,4.8055,True
+47050,Belize,2019,Internet Usage,41.59,3.0795000000000003,True
+47051,Bolivia (Plurinational State of),2019,Internet Usage,37.49,2.8745000000000003,True
+47052,Brazil,2019,Internet Usage,58.32795173,3.9163975865000005,True
+47053,Canada,2019,Internet Usage,90.0,5.5,True
+47054,Chile,2019,Internet Usage,76.62959195,4.8314795975000004,True
+47055,Colombia,2019,Internet Usage,55.90497251,3.7952486255,True
+47056,Costa Rica,2019,Internet Usage,59.76295014,3.988147507,True
+47057,Cuba,2019,Internet Usage,37.30509742,2.8652548710000003,True
+47058,Dominica,2019,Internet Usage,65.0,4.25,True
+47059,Dominican Rep.,2019,Internet Usage,54.21576634,3.7107883170000004,True
+47060,Ecuador,2019,Internet Usage,48.94043379,3.4470216894999997,True
+47061,El Salvador,2019,Internet Usage,26.80260496,2.3401302480000004,True
+47062,Grenada,2019,Internet Usage,53.81,3.6905,True
+47063,Guatemala,2019,Internet Usage,28.80594156,2.4402970780000004,True
+47064,Guyana,2019,Internet Usage,34.0,2.7,True
+47065,Haiti,2019,Internet Usage,12.1977,1.6098849999999998,True
+47066,Honduras,2019,Internet Usage,27.1,2.355,True
+47067,Jamaica,2019,Internet Usage,42.22122119,3.1110610595,True
+47068,Mexico,2019,Internet Usage,57.43104299,3.8715521495000003,True
+47069,Nicaragua,2019,Internet Usage,19.7042915,1.985214575,True
+47070,Panama,2019,Internet Usage,51.20542499,3.5602712494999995,True
+47071,Paraguay,2019,Internet Usage,49.71630466,3.485815233,True
+47072,Peru,2019,Internet Usage,40.85260091,3.0426300455,True
+47073,Saint Kitts and Nevis,2019,Internet Usage,75.7,4.785,True
+47074,Saint Lucia,2019,Internet Usage,42.53093047,3.1265465235,True
+47075,Saint Vincent and the Grenadines,2019,Internet Usage,51.77,3.5885000000000002,True
+47076,Suriname,2019,Internet Usage,42.76382778,3.1381913889999997,True
+47077,Trinidad and Tobago,2019,Internet Usage,69.19847061,4.4599235305,True
+47078,United States,2019,Internet Usage,74.55420245,4.7277101225,True
+47079,Uruguay,2019,Internet Usage,64.5707871,4.2285393550000006,True
+47080,Venezuela,2019,Internet Usage,,,True
+47081,Angola,2019,Internet Usage,29.0,2.45,True
+47082,Benin,2019,Internet Usage,11.99,1.5995,True
+47083,Botswana,2019,Internet Usage,39.36299738,2.9681498690000003,True
+47084,Burkina Faso,2019,Internet Usage,9.0,1.45,True
+47085,Burundi,2019,Internet Usage,2.4,1.12,True
+47086,Cabo Verde,2019,Internet Usage,50.32281787,3.5161408935,True
+47087,Cameroon,2019,Internet Usage,20.6,2.0300000000000002,True
+47088,Central African Rep.,2019,Internet Usage,4.0,1.2,True
+47089,Chad,2019,Internet Usage,5.0,1.25,True
+47090,Congo (Rep. of the),2019,Internet Usage,8.121949323,1.40609746615,True
+47091,Côte d'Ivoire,2019,Internet Usage,41.20781493,3.0603907464999995,True
+47092,Dem. Rep. of the Congo,2019,Internet Usage,6.20997406,1.310498703,True
+47093,Equatorial Guinea,2019,Internet Usage,,,True
+47094,Eritrea,2019,Internet Usage,1.17711872,1.058855936,True
+47095,Eswatini,2019,Internet Usage,,,True
+47096,Ethiopia,2019,Internet Usage,15.36692386,1.768346193,True
+47097,Gabon,2019,Internet Usage,48.05227375,3.4026136874999997,True
+47098,Gambia,2019,Internet Usage,25.0,2.25,True
+47099,Ghana,2019,Internet Usage,28.0,2.4,True
+47100,Guinea,2019,Internet Usage,9.8,1.49,True
+47101,Guinea-Bissau,2019,Internet Usage,17.0,1.85,True
+47102,Kenya,2019,Internet Usage,16.6,1.83,True
+47103,Lesotho,2019,Internet Usage,32.45385695,2.6226928474999998,True
+47104,Liberia,2019,Internet Usage,15.7,1.7850000000000001,True
+47105,Madagascar,2019,Internet Usage,4.713662899,1.2356831449499999,True
+47106,Malawi,2019,Internet Usage,8.0,1.4,True
+47107,Mali,2019,Internet Usage,11.11218649,1.5556093245,True
+47108,Mauritius,2019,Internet Usage,52.19132594,3.609566297,True
+47109,Mozambique,2019,Internet Usage,7.0,1.35,True
+47110,Namibia,2019,Internet Usage,31.03334594,2.551667297,True
+47111,Niger,2019,Internet Usage,4.32275803,1.2161379015,True
+47112,Nigeria,2019,Internet Usage,25.67,2.2835,True
+47113,Rwanda,2019,Internet Usage,20.0,2.0,True
+47114,Sao Tome and Principe,2019,Internet Usage,28.0,2.4,True
+47115,Senegal,2019,Internet Usage,25.66476804,2.2832384020000003,True
+47116,Seychelles,2019,Internet Usage,56.51470815,3.8257354075,True
+47117,Sierra Leone,2019,Internet Usage,11.77318438,1.5886592190000002,True
+47118,South Africa,2019,Internet Usage,54.0,3.7,True
+47119,South Sudan,2019,Internet Usage,6.679728051,1.33398640255,True
+47120,Tanzania,2019,Internet Usage,13.50423285,1.6752116424999999,True
+47121,Togo,2019,Internet Usage,11.31,1.5655000000000001,True
+47122,Uganda,2019,Internet Usage,,,True
+47123,Zambia,2019,Internet Usage,,,True
+47124,Zimbabwe,2019,Internet Usage,23.11998904,2.155999452,True
+47125,Algeria,2019,Internet Usage,42.94552688,3.147276344,True
+47126,Bahrain,2019,Internet Usage,97.9999807,5.899999035,True
+47127,Comoros,2019,Internet Usage,7.938322771,1.39691613855,True
+47128,Djibouti,2019,Internet Usage,30.8,2.54,True
+47129,Egypt,2019,Internet Usage,41.24806709,3.0624033545000002,True
+47130,Iraq,2019,Internet Usage,37.67,2.8835,True
+47131,Jordan,2019,Internet Usage,62.30219257,4.1151096285,True
+47132,Kuwait,2019,Internet Usage,78.36738376,4.918369188,True
+47133,Lebanon,2019,Internet Usage,76.11,4.8055,True
+47134,Libya,2019,Internet Usage,,,True
+47135,Mauritania,2019,Internet Usage,18.0,1.9,True
+47136,Morocco,2019,Internet Usage,58.27123642,3.913561821,True
+47137,Oman,2019,Internet Usage,76.84539047,4.8422695235,True
+47138,Palestine,2019,Internet Usage,59.9,3.995,True
+47139,Qatar,2019,Internet Usage,95.12466217,5.756233108499999,True
+47140,Saudi Arabia,2019,Internet Usage,74.87927469,4.743963734499999,True
+47141,Somalia,2019,Internet Usage,1.88,1.094,True
+47142,Sudan,2019,Internet Usage,14.09999994,1.704999997,True
+47143,Syrian Arab Republic,2019,Internet Usage,31.86962727,2.5934813635,True
+47144,Tunisia,2019,Internet Usage,49.59999484,3.479999742,True
+47145,United Arab Emirates,2019,Internet Usage,90.60000732,5.530000366,True
+47146,Yemen,2019,Internet Usage,24.57920836,2.2289604179999998,True
+47147,Afghanistan,2019,Internet Usage,11.0,1.55,True
+47148,Australia,2019,Internet Usage,86.54,5.327000000000001,True
+47149,Bangladesh,2019,Internet Usage,19.5,1.975,True
+47150,Bhutan,2019,Internet Usage,41.77264453,3.0886322265,True
+47151,Brunei Darussalam,2019,Internet Usage,90.0,5.5,True
+47152,Cambodia,2019,Internet Usage,32.39845171,2.6199225855000003,True
+47153,China,2019,Internet Usage,53.2,3.66,True
+47154,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+47155,Fiji,2019,Internet Usage,49.42,3.471,True
+47156,"Hong Kong, China",2019,Internet Usage,87.47941467,5.373970733499999,True
+47157,India,2019,Internet Usage,16.5,1.825,True
+47158,Indonesia,2019,Internet Usage,25.4473537,2.272367685,True
+47159,Iran (Islamic Republic of),2019,Internet Usage,53.22677167,3.6613385834999996,True
+47160,Japan,2019,Internet Usage,93.18272128,5.659136064,True
+47161,Kiribati,2019,Internet Usage,13.7,1.685,True
+47162,Korea (Rep. of),2019,Internet Usage,92.84302568,5.642151284,True
+47163,Lao P.D.R.,2019,Internet Usage,21.87,2.0935,True
+47164,"Macao, China",2019,Internet Usage,81.64298546,5.082149273,True
+47165,Malaysia,2019,Internet Usage,78.78830993,4.9394154965,True
+47166,Maldives,2019,Internet Usage,59.09258997,3.9546294984999997,True
+47167,Marshall Islands,2019,Internet Usage,29.78777936,2.489388968,True
+47168,Micronesia,2019,Internet Usage,33.35216255,2.6676081275000003,True
+47169,Mongolia,2019,Internet Usage,22.2657705,2.1132885249999998,True
+47170,Myanmar,2019,Internet Usage,16.0,1.8,True
+47171,Nauru,2019,Internet Usage,,,True
+47172,Nepal (Republic of),2019,Internet Usage,19.68876384,1.984438192,True
+47173,New Zealand,2019,Internet Usage,86.5,5.325,True
+47174,Pakistan,2019,Internet Usage,12.38544676,1.619272338,True
+47175,Papua New Guinea,2019,Internet Usage,9.601538462,1.4800769231,True
+47176,Philippines,2019,Internet Usage,39.2,2.96,True
+47177,Samoa,2019,Internet Usage,29.41173011,2.4705865055,True
+47178,Singapore,2019,Internet Usage,84.45226789,5.222613394500001,True
+47179,Solomon Islands,2019,Internet Usage,11.00090227,1.5500451135,True
+47180,Sri Lanka,2019,Internet Usage,15.1,1.755,True
+47181,Thailand,2019,Internet Usage,47.50496562,3.375248281,True
+47182,Timor-Leste,2019,Internet Usage,25.24624959,2.2623124795000003,True
+47183,Tonga,2019,Internet Usage,39.95,2.9975,True
+47184,Tuvalu,2019,Internet Usage,46.00915151,3.3004575755000003,True
+47185,Vanuatu,2019,Internet Usage,24.0,2.2,True
+47186,Viet Nam,2019,Internet Usage,53.0,3.65,True
+47187,Armenia,2019,Internet Usage,64.34602977,4.2173014885,True
+47188,Azerbaijan,2019,Internet Usage,78.2,4.91,True
+47189,Belarus,2019,Internet Usage,71.11304576,4.555652288,True
+47190,Kazakhstan,2019,Internet Usage,74.58772647,4.7293863235,True
+47191,Kyrgyzstan,2019,Internet Usage,34.5,2.725,True
+47192,Russian Federation,2019,Internet Usage,73.09143462,4.654571731,True
+47193,Tajikistan,2019,Internet Usage,20.47,2.0235,True
+47194,Turkmenistan,2019,Internet Usage,17.99032446,1.899516223,True
+47195,Uzbekistan,2019,Internet Usage,46.79128694,3.339564347,True
+47196,Albania,2019,Internet Usage,59.6,3.98,True
+47197,Andorra,2019,Internet Usage,,,True
+47198,Austria,2019,Internet Usage,84.32374257,5.2161871285,True
+47199,Belgium,2019,Internet Usage,86.51647666,5.325823832999999,True
+47200,Bosnia and Herzegovina,2019,Internet Usage,60.25653543,4.0128267715,True
+47201,Bulgaria,2019,Internet Usage,59.82554766,3.991277383,True
+47202,Croatia,2019,Internet Usage,72.69726967,4.6348634835,True
+47203,Cyprus,2019,Internet Usage,75.9002054,4.795010270000001,True
+47204,Czech Republic,2019,Internet Usage,76.4811987,4.824059934999999,True
+47205,Denmark,2019,Internet Usage,96.96778525,5.8483892625000005,True
+47206,Estonia,2019,Internet Usage,87.24023275,5.3620116375,True
+47207,Finland,2019,Internet Usage,87.70364996,5.385182498000001,True
+47208,France,2019,Internet Usage,79.26981132,4.963490566000001,True
+47209,Georgia,2019,Internet Usage,58.45928961,3.9229644804999997,True
+47210,Germany,2019,Internet Usage,84.16520664,5.208260332,True
+47211,Greece,2019,Internet Usage,69.08791547,4.4543957735,True
+47212,Hungary,2019,Internet Usage,79.25941213,4.9629706065,True
+47213,Iceland,2019,Internet Usage,98.2400163,5.912000815,True
+47214,Ireland,2019,Internet Usage,83.5,5.175,True
+47215,Israel,2019,Internet Usage,79.65312418,4.982656209,True
+47216,Italy,2019,Internet Usage,61.32425277,4.0662126385,True
+47217,Latvia,2019,Internet Usage,79.84209778,4.992104889,True
+47218,Liechtenstein,2019,Internet Usage,98.09390389,5.9046951945,True
+47219,Lithuania,2019,Internet Usage,74.37664556,4.718832278,True
+47220,Luxembourg,2019,Internet Usage,98.13669867,5.9068349335,True
+47221,Malta,2019,Internet Usage,78.0751488,4.90375744,True
+47222,Moldova,2019,Internet Usage,70.99999911,4.549999955500001,True
+47223,Monaco,2019,Internet Usage,95.20817797,5.7604088985,True
+47224,Montenegro,2019,Internet Usage,69.88164684,4.4940823420000005,True
+47225,Netherlands,2019,Internet Usage,90.4109589,5.520547945,True
+47226,North Macedonia,2019,Internet Usage,72.15681447,4.6078407235,True
+47227,Norway,2019,Internet Usage,97.29820367,5.8649101835,True
+47228,Poland,2019,Internet Usage,73.3007041,4.665035205000001,True
+47229,Portugal,2019,Internet Usage,70.42356709,4.5211783545,True
+47230,Romania,2019,Internet Usage,59.50395129,3.9751975645000006,True
+47231,San Marino,2019,Internet Usage,,,True
+47232,Serbia,2019,Internet Usage,67.05684137,4.3528420685,True
+47233,Slovakia,2019,Internet Usage,80.47585728,5.023792864,True
+47234,Slovenia,2019,Internet Usage,75.49850426,4.774925213,True
+47235,Spain,2019,Internet Usage,80.56133294,5.028066647,True
+47236,Sweden,2019,Internet Usage,89.65094761,5.4825473805,True
+47237,Switzerland,2019,Internet Usage,89.13468774,5.456734387,True
+47238,Turkey,2019,Internet Usage,58.34773401,3.9173867005,True
+47239,Ukraine,2019,Internet Usage,53.0009696,3.6500484799999997,True
+47240,United Kingdom,2019,Internet Usage,94.77580063,5.7387900315,True
+47241,Vatican,2019,Internet Usage,,,True
+47242,Antigua and Barbuda,2019,Internet Usage,73.0,4.65,True
+47243,Argentina,2019,Internet Usage,70.96898082,4.548449041,True
+47244,Bahamas,2019,Internet Usage,80.0,5.0,True
+47245,Barbados,2019,Internet Usage,79.54939789,4.9774698945,True
+47246,Belize,2019,Internet Usage,44.57574032,3.228787016,True
+47247,Bolivia (Plurinational State of),2019,Internet Usage,39.6975146,2.9848757299999997,True
+47248,Brazil,2019,Internet Usage,60.87254007,4.0436270035,True
+47249,Canada,2019,Internet Usage,91.16,5.558,True
+47250,Chile,2019,Internet Usage,83.55858602,5.177929301000001,True
+47251,Colombia,2019,Internet Usage,58.13649357,3.9068246784999996,True
+47252,Costa Rica,2019,Internet Usage,65.88044919,4.294022459499999,True
+47253,Cuba,2019,Internet Usage,42.97867519,3.1489337594999998,True
+47254,Dominica,2019,Internet Usage,67.03,4.3515,True
+47255,Dominican Rep.,2019,Internet Usage,63.87086474,4.193543237,True
+47256,Ecuador,2019,Internet Usage,54.06292473,3.7031462365,True
+47257,El Salvador,2019,Internet Usage,28.99707305,2.4498536525,True
+47258,Grenada,2019,Internet Usage,55.85640782,3.7928203910000002,True
+47259,Guatemala,2019,Internet Usage,34.50932609,2.7254663045000003,True
+47260,Guyana,2019,Internet Usage,35.66,2.783,True
+47261,Haiti,2019,Internet Usage,12.23260161,1.6116300805,True
+47262,Honduras,2019,Internet Usage,29.5,2.475,True
+47263,Jamaica,2019,Internet Usage,44.36685637,3.2183428185,True
+47264,Mexico,2019,Internet Usage,59.540446,3.9770223,True
+47265,Nicaragua,2019,Internet Usage,24.57183396,2.228591698,True
+47266,Panama,2019,Internet Usage,54.0,3.7,True
+47267,Paraguay,2019,Internet Usage,53.40412748,3.670206374,True
+47268,Peru,2019,Internet Usage,45.46174069,3.2730870345,True
+47269,Saint Kitts and Nevis,2019,Internet Usage,76.81767491,4.840883745499999,True
+47270,Saint Lucia,2019,Internet Usage,46.72907806,3.336453903,True
+47271,Saint Vincent and the Grenadines,2019,Internet Usage,55.57,3.7785,True
+47272,Suriname,2019,Internet Usage,45.4,3.27,True
+47273,Trinidad and Tobago,2019,Internet Usage,73.29694122,4.664847061,True
+47274,United States,2019,Internet Usage,85.54442129,5.2772210645,True
+47275,Uruguay,2019,Internet Usage,66.4,4.32,True
+47276,Venezuela,2019,Internet Usage,,,True
+47277,Angola,2019,Internet Usage,32.0,2.6,True
+47278,Benin,2019,Internet Usage,13.3,1.665,True
+47279,Botswana,2019,Internet Usage,41.41379464,3.070689732,True
+47280,Burkina Faso,2019,Internet Usage,12.0,1.6,True
+47281,Burundi,2019,Internet Usage,2.660748535,1.13303742675,True
+47282,Cabo Verde,2019,Internet Usage,57.16214635,3.8581073175,True
+47283,Cameroon,2019,Internet Usage,23.20297197,2.1601485985,True
+47284,Central African Rep.,2019,Internet Usage,,,True
+47285,Chad,2019,Internet Usage,6.49999812,1.324999906,True
+47286,Congo (Rep. of the),2019,Internet Usage,8.65,1.4325,True
+47287,Côte d'Ivoire,2019,Internet Usage,43.83992085,3.1919960425,True
+47288,Dem. Rep. of the Congo,2019,Internet Usage,8.619904916,1.4309952458,True
+47289,Equatorial Guinea,2019,Internet Usage,,,True
+47290,Eritrea,2019,Internet Usage,1.30890698,1.065445349,True
+47291,Eswatini,2019,Internet Usage,,,True
+47292,Ethiopia,2019,Internet Usage,18.61805145,1.9309025725,True
+47293,Gabon,2019,Internet Usage,50.32012015,3.5160060075,True
+47294,Gambia,2019,Internet Usage,32.0,2.6,True
+47295,Ghana,2019,Internet Usage,37.88415262,2.8942076310000004,True
+47296,Guinea,2019,Internet Usage,11.40002077,1.5700010385,True
+47297,Guinea-Bissau,2019,Internet Usage,18.0,1.9,True
+47298,Kenya,2019,Internet Usage,17.82710021,1.8913550104999999,True
+47299,Lesotho,2019,Internet Usage,39.0,2.95,True
+47300,Liberia,2019,Internet Usage,16.3,1.815,True
+47301,Madagascar,2019,Internet Usage,,,True
+47302,Malawi,2019,Internet Usage,13.78216439,1.6891082195,True
+47303,Mali,2019,Internet Usage,15.6,1.78,True
+47304,Mauritius,2019,Internet Usage,55.4032403,3.7701620150000004,True
+47305,Mozambique,2019,Internet Usage,7.8,1.3900000000000001,True
+47306,Namibia,2019,Internet Usage,36.83740647,2.8418703235,True
+47307,Niger,2019,Internet Usage,10.22431156,1.511215578,True
+47308,Nigeria,2019,Internet Usage,28.0,2.4,True
+47309,Rwanda,2019,Internet Usage,21.76763262,2.088381631,True
+47310,Sao Tome and Principe,2019,Internet Usage,29.9312292,2.49656146,True
+47311,Senegal,2019,Internet Usage,29.64312367,2.4821561835,True
+47312,Seychelles,2019,Internet Usage,58.76981124,3.938490562,True
+47313,Sierra Leone,2019,Internet Usage,13.23693043,1.6618465214999998,True
+47314,South Africa,2019,Internet Usage,56.16739447,3.8083697235,True
+47315,South Sudan,2019,Internet Usage,7.977428907,1.39887144535,True
+47316,Tanzania,2019,Internet Usage,15.99999943,1.7999999715000001,True
+47317,Togo,2019,Internet Usage,12.36022497,1.6180112485000002,True
+47318,Uganda,2019,Internet Usage,,,True
+47319,Zambia,2019,Internet Usage,,,True
+47320,Zimbabwe,2019,Internet Usage,24.4,2.2199999999999998,True
+47321,Algeria,2019,Internet Usage,47.69105515,3.3845527575,True
+47322,Bahrain,2019,Internet Usage,95.87813575,5.7939067875,True
+47323,Comoros,2019,Internet Usage,8.478170295,1.42390851475,True
+47324,Djibouti,2019,Internet Usage,55.68140925,3.7840704625,True
+47325,Egypt,2019,Internet Usage,44.95020425,3.2475102125,True
+47326,Iraq,2019,Internet Usage,49.35999889,3.4679999445,True
+47327,Jordan,2019,Internet Usage,66.79031443,4.3395157215,True
+47328,Kuwait,2019,Internet Usage,97.99998933,5.899999466500001,True
+47329,Lebanon,2019,Internet Usage,78.18077489,4.9090387445,True
+47330,Libya,2019,Internet Usage,,,True
+47331,Mauritania,2019,Internet Usage,20.80096366,2.040048183,True
+47332,Morocco,2019,Internet Usage,61.76221201,4.0881106005,True
+47333,Oman,2019,Internet Usage,80.18563573,5.0092817865,True
+47334,Palestine,2019,Internet Usage,63.3,4.165,True
+47335,Qatar,2019,Internet Usage,97.38884917,5.8694424585,True
+47336,Saudi Arabia,2019,Internet Usage,94.17559961,5.7087799805,True
+47337,Somalia,2019,Internet Usage,2.004048698,1.1002024349,True
+47338,Sudan,2019,Internet Usage,18.6,1.9300000000000002,True
+47339,Syrian Arab Republic,2019,Internet Usage,34.25340193,2.7126700965,True
+47340,Tunisia,2019,Internet Usage,55.50015506,3.7750077529999997,True
+47341,United Arab Emirates,2019,Internet Usage,94.81992254,5.740996127,True
+47342,Yemen,2019,Internet Usage,26.71835477,2.3359177385,True
+47343,Afghanistan,2019,Internet Usage,15.58,1.779,True
+47344,Australia,2019,Internet Usage,86.54504885,5.3272524425,True
+47345,Bangladesh,2019,Internet Usage,28.0,2.4,True
+47346,Bhutan,2019,Internet Usage,46.2,3.31,True
+47347,Brunei Darussalam,2019,Internet Usage,94.86669164,5.743334582,True
+47348,Cambodia,2019,Internet Usage,32.90027854,2.645013927,True
+47349,China,2019,Internet Usage,54.3,3.715,True
+47350,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+47351,Fiji,2019,Internet Usage,65.78,4.289,True
+47352,"Hong Kong, China",2019,Internet Usage,89.41594465,5.470797232500001,True
+47353,India,2019,Internet Usage,18.2,1.9100000000000001,True
+47354,Indonesia,2019,Internet Usage,32.33580625,2.6167903125,True
+47355,Iran (Islamic Republic of),2019,Internet Usage,64.04397362,4.2021986810000005,True
+47356,Japan,2019,Internet Usage,91.72654724,5.5863273620000005,True
+47357,Kiribati,2019,Internet Usage,14.58181818,1.729090909,True
+47358,Korea (Rep. of),2019,Internet Usage,95.06942188,5.753471094,True
+47359,Lao P.D.R.,2019,Internet Usage,25.51043508,2.275521754,True
+47360,"Macao, China",2019,Internet Usage,83.17408907,5.1587044534999995,True
+47361,Malaysia,2019,Internet Usage,80.14047901,5.007023950500001,True
+47362,Maldives,2019,Internet Usage,61.25,4.0625,True
+47363,Marshall Islands,2019,Internet Usage,38.70116262,2.935058131,True
+47364,Micronesia,2019,Internet Usage,35.30405287,2.7652026435,True
+47365,Mongolia,2019,Internet Usage,23.71426517,2.1857132585,True
+47366,Myanmar,2019,Internet Usage,23.62108195,2.1810540975,True
+47367,Nauru,2019,Internet Usage,62.38512451,4.119256225499999,True
+47368,Nepal (Republic of),2019,Internet Usage,,,True
+47369,New Zealand,2019,Internet Usage,87.7,5.385,True
+47370,Pakistan,2019,Internet Usage,13.78,1.689,True
+47371,Papua New Guinea,2019,Internet Usage,11.20919659,1.5604598295,True
+47372,Philippines,2019,Internet Usage,41.6,3.08,True
+47373,Samoa,2019,Internet Usage,33.61093932,2.680546966,True
+47374,Singapore,2019,Internet Usage,84.45226789,5.222613394500001,True
+47375,Solomon Islands,2019,Internet Usage,11.92422906,1.596211453,True
+47376,Sri Lanka,2019,Internet Usage,21.3,2.065,True
+47377,Thailand,2019,Internet Usage,52.89192934,3.644596467,True
+47378,Timor-Leste,2019,Internet Usage,27.49273173,2.3746365865,True
+47379,Tonga,2019,Internet Usage,41.24872764,3.062436382,True
+47380,Tuvalu,2019,Internet Usage,49.31833862,3.4659169309999998,True
+47381,Vanuatu,2019,Internet Usage,25.71978784,2.285989392,True
+47382,Viet Nam,2019,Internet Usage,58.14,3.907,True
+47383,Armenia,2019,Internet Usage,64.74488433,4.237244216500001,True
+47384,Azerbaijan,2019,Internet Usage,79.0,4.95,True
+47385,Belarus,2019,Internet Usage,74.43644541,4.721822270500001,True
+47386,Kazakhstan,2019,Internet Usage,76.42674823,4.8213374115,True
+47387,Kyrgyzstan,2019,Internet Usage,38.19903776,2.909951888,True
+47388,Russian Federation,2019,Internet Usage,76.00813853,4.8004069265,True
+47389,Tajikistan,2019,Internet Usage,21.96,2.098,True
+47390,Turkmenistan,2019,Internet Usage,21.25099741,2.0625498705,True
+47391,Uzbekistan,2019,Internet Usage,48.69999885,3.4349999424999997,True
+47392,Albania,2019,Internet Usage,62.4,4.12,True
+47393,Andorra,2019,Internet Usage,91.56746703,5.5783733515,True
+47394,Austria,2019,Internet Usage,87.93558659,5.3967793295,True
+47395,Belgium,2019,Internet Usage,87.67968082,5.383984041,True
+47396,Bosnia and Herzegovina,2019,Internet Usage,64.89202051,4.2446010255,True
+47397,Bulgaria,2019,Internet Usage,63.41010138,4.170505069000001,True
+47398,Croatia,2019,Internet Usage,67.09619204,4.3548096020000004,True
+47399,Cyprus,2019,Internet Usage,80.74318897,5.037159448500001,True
+47400,Czech Republic,2019,Internet Usage,78.71917285,4.9359586425,True
+47401,Denmark,2019,Internet Usage,97.09936216,5.854968108,True
+47402,Estonia,2019,Internet Usage,88.10245687,5.405122843499999,True
+47403,Finland,2019,Internet Usage,87.46892907,5.3734464535,True
+47404,France,2019,Internet Usage,80.50245972,5.025122986,True
+47405,Georgia,2019,Internet Usage,59.7055046,3.9852752299999996,True
+47406,Germany,2019,Internet Usage,84.3941537,5.219707685,True
+47407,Greece,2019,Internet Usage,69.89297065,4.494648532499999,True
+47408,Hungary,2019,Internet Usage,76.75054712,4.837527355999999,True
+47409,Iceland,2019,Internet Usage,98.25520119,5.912760059499999,True
+47410,Ireland,2019,Internet Usage,84.11400706,5.205700353,True
+47411,Israel,2019,Internet Usage,81.58118359,5.0790591795,True
+47412,Italy,2019,Internet Usage,63.077347,4.1538673500000005,True
+47413,Latvia,2019,Internet Usage,80.114077,5.00570385,True
+47414,Liechtenstein,2019,Internet Usage,99.54661245,5.9773306225,True
+47415,Lithuania,2019,Internet Usage,77.61525651,4.8807628255,True
+47416,Luxembourg,2019,Internet Usage,97.36296032,5.868148016,True
+47417,Malta,2019,Internet Usage,81.01191108,5.050595554,True
+47418,Moldova,2019,Internet Usage,76.12451989,4.8062259945,True
+47419,Monaco,2019,Internet Usage,97.05297684,5.852648842,True
+47420,Montenegro,2019,Internet Usage,71.27233254,4.563616627,True
+47421,Netherlands,2019,Internet Usage,93.19727891,5.6598639455,True
+47422,North Macedonia,2019,Internet Usage,74.51682418,4.725841209,True
+47423,Norway,2019,Internet Usage,96.3576013,5.817880065,True
+47424,Poland,2019,Internet Usage,75.98536595,4.7992682975,True
+47425,Portugal,2019,Internet Usage,73.79121395,4.689560697499999,True
+47426,Romania,2019,Internet Usage,63.74728218,4.187364109000001,True
+47427,San Marino,2019,Internet Usage,60.18230126,4.009115063,True
+47428,Serbia,2019,Internet Usage,70.33083553,4.5165417765,True
+47429,Slovakia,2019,Internet Usage,81.62566752,5.081283375999999,True
+47430,Slovenia,2019,Internet Usage,78.88542636,4.944271318,True
+47431,Spain,2019,Internet Usage,84.6022457,5.230112285000001,True
+47432,Sweden,2019,Internet Usage,93.00626697,5.6503133485,True
+47433,Switzerland,2019,Internet Usage,89.68614767,5.484307383499999,True
+47434,Turkey,2019,Internet Usage,64.68461768,4.2342308840000005,True
+47435,Ukraine,2019,Internet Usage,58.88947945,3.9444739725,True
+47436,United Kingdom,2019,Internet Usage,90.42455049,5.5212275245,True
+47437,Vatican,2019,Internet Usage,,,True
+47438,Antigua and Barbuda,2019,Internet Usage,,,True
+47439,Argentina,2019,Internet Usage,74.29490687,4.714745343500001,True
+47440,Bahamas,2019,Internet Usage,80.6,5.03,True
+47441,Barbados,2019,Internet Usage,81.76077839,5.0880389195,True
+47442,Belize,2019,Internet Usage,47.0826258,3.35413129,True
+47443,Bolivia (Plurinational State of),2019,Internet Usage,43.83227607,3.1916138035,True
+47444,Brazil,2019,Internet Usage,67.47128452,4.373564225999999,True
+47445,Canada,2019,Internet Usage,92.70137191,5.635068595500001,True
+47446,Chile,2019,Internet Usage,82.32748693,5.116374346500001,True
+47447,Colombia,2019,Internet Usage,62.25988032,4.112994016,True
+47448,Costa Rica,2019,Internet Usage,71.58166462,4.579083231,True
+47449,Cuba,2019,Internet Usage,57.14840432,3.857420216,True
+47450,Dominica,2019,Internet Usage,69.61966879,4.4809834395,True
+47451,Dominican Rep.,2019,Internet Usage,67.57124533,4.3785622664999995,True
+47452,Ecuador,2019,Internet Usage,55.8,3.79,True
+47453,El Salvador,2019,Internet Usage,33.8207289,2.691036445,True
+47454,Grenada,2019,Internet Usage,59.07173536,3.953586768,True
+47455,Guatemala,2019,Internet Usage,,,True
+47456,Guyana,2019,Internet Usage,37.32583679,2.8662918394999997,True
+47457,Haiti,2019,Internet Usage,31.0,2.55,True
+47458,Honduras,2019,Internet Usage,31.7,2.585,True
+47459,Jamaica,2019,Internet Usage,55.07206705,3.7536033525,True
+47460,Mexico,2019,Internet Usage,63.85224909,4.1926124545,True
+47461,Nicaragua,2019,Internet Usage,30.4,2.52,True
+47462,Panama,2019,Internet Usage,59.9506309,3.9975315449999997,True
+47463,Paraguay,2019,Internet Usage,61.07575622,4.053787811,True
+47464,Peru,2019,Internet Usage,50.45041218,3.522520609,True
+47465,Saint Kitts and Nevis,2019,Internet Usage,80.71019081,5.0355095405,True
+47466,Saint Lucia,2019,Internet Usage,50.81524478,3.540762239,True
+47467,Saint Vincent and the Grenadines,2019,Internet Usage,65.56,4.2780000000000005,True
+47468,Suriname,2019,Internet Usage,48.94517397,3.4472586984999998,True
+47469,Trinidad and Tobago,2019,Internet Usage,77.32605293,4.8663026465,True
+47470,United States,2019,Internet Usage,87.27488917,5.363744458499999,True
+47471,Uruguay,2019,Internet Usage,70.3223544,4.51611772,True
+47472,Venezuela,2019,Internet Usage,,,True
+47473,Central African Rep.,2019,Internet Usage,,,True
+47474,Congo (Rep. of the),2019,Internet Usage,,,True
+47475,Côte d'Ivoire,2019,Internet Usage,37.54653613,2.8773268065,True
+47476,Equatorial Guinea,2019,Internet Usage,,,True
+47477,Eritrea,2019,Internet Usage,,,True
+47478,Eswatini,2019,Internet Usage,,,True
+47479,Guinea,2019,Internet Usage,21.83002304,2.091501152,True
+47480,Mauritius,2019,Internet Usage,58.5961697,3.9298084849999997,True
+47481,Niger,2019,Internet Usage,,,True
+47482,South Sudan,2019,Internet Usage,,,True
+47483,Uganda,2019,Internet Usage,,,True
+47484,Zambia,2019,Internet Usage,14.2999971,1.714999855,True
+47485,Algeria,2019,Internet Usage,49.03846808,3.451923404,True
+47486,Bahrain,2019,Internet Usage,98.64467258,5.932233629000001,True
+47487,Comoros,2019,Internet Usage,,,True
+47488,Egypt,2019,Internet Usage,46.92433677,3.3462168384999997,True
+47489,Iraq,2019,Internet Usage,,,True
+47490,Kuwait,2019,Internet Usage,99.59884959,5.9799424795,True
+47491,Libya,2019,Internet Usage,,,True
+47492,Morocco,2019,Internet Usage,64.80386519,4.2401932595,True
+47493,Palestine,2019,Internet Usage,64.39999371,4.2199996854999995,True
+47494,Qatar,2019,Internet Usage,99.65284913,5.9826424565,True
+47495,Saudi Arabia,2019,Internet Usage,93.31000185,5.6655000925,True
+47496,Somalia,2019,Internet Usage,,,True
+47497,Tunisia,2019,Internet Usage,64.19081023,4.2095405115,True
+47498,United Arab Emirates,2019,Internet Usage,98.45000178,5.922500089,True
+47499,Yemen,2019,Internet Usage,,,True
+47500,Brunei Darussalam,2019,Internet Usage,95.0,5.75,True
+47501,Cambodia,2019,Internet Usage,65.00000218,4.250000109,True
+47502,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+47503,"Hong Kong, China",2019,Internet Usage,90.50739533,5.5253697665,True
+47504,India,2019,Internet Usage,20.08130004,2.004065002,True
+47505,Indonesia,2019,Internet Usage,39.90463864,2.9952319320000003,True
+47506,Iran (Islamic Republic of),2019,Internet Usage,70.200565,4.5100282499999995,True
+47507,Japan,2019,Internet Usage,91.28,5.564,True
+47508,Kiribati,2019,Internet Usage,,,True
+47509,Korea (Rep. of),2019,Internet Usage,96.02285958,5.801142979,True
+47510,"Macao, China",2019,Internet Usage,83.79408961,5.1897044805000005,True
+47511,Malaysia,2019,Internet Usage,81.20104862,5.060052431,True
+47512,Marshall Islands,2019,Internet Usage,,,True
+47513,Micronesia,2019,Internet Usage,,,True
+47514,Mongolia,2019,Internet Usage,47.13000188,3.3565000940000003,True
+47515,Nauru,2019,Internet Usage,,,True
+47516,Nepal (Republic of),2019,Internet Usage,,,True
+47517,Papua New Guinea,2019,Internet Usage,,,True
+47518,Samoa,2019,Internet Usage,,,True
+47519,Singapore,2019,Internet Usage,88.16563603,5.408281801499999,True
+47520,Solomon Islands,2019,Internet Usage,,,True
+47521,Sri Lanka,2019,Internet Usage,26.0,2.3,True
+47522,Thailand,2019,Internet Usage,56.81748093,3.8408740464999997,True
+47523,Tonga,2019,Internet Usage,,,True
+47524,Tuvalu,2019,Internet Usage,,,True
+47525,Vanuatu,2019,Internet Usage,,,True
+47526,Viet Nam,2019,Internet Usage,69.84792868,4.492396434,True
+47527,Armenia,2019,Internet Usage,68.24505226,4.412252613,True
+47528,Azerbaijan,2019,Internet Usage,79.79999549,4.9899997745,True
+47529,Belarus,2019,Internet Usage,79.12988669,4.9564943345,True
+47530,Kazakhstan,2019,Internet Usage,78.90391906,4.945195953000001,True
+47531,Russian Federation,2019,Internet Usage,80.86472187,5.0432360935,True
+47532,Tajikistan,2019,Internet Usage,,,True
+47533,Turkmenistan,2019,Internet Usage,,,True
+47534,Uzbekistan,2019,Internet Usage,55.20000067,3.7600000335,True
+47535,Andorra,2019,Internet Usage,,,True
+47536,Austria,2019,Internet Usage,87.47913723,5.3739568615,True
+47537,Belgium,2019,Internet Usage,88.647343,5.43236715,True
+47538,Bosnia and Herzegovina,2019,Internet Usage,70.12013504,4.506006751999999,True
+47539,Bulgaria,2019,Internet Usage,64.78201069,4.2391005345,True
+47540,Croatia,2019,Internet Usage,75.29462599,4.764731299499999,True
+47541,Cyprus,2019,Internet Usage,84.43358252,5.221679126000001,True
+47542,Czech Republic,2019,Internet Usage,80.68816754,5.034408377,True
+47543,Denmark,2019,Internet Usage,97.31920437,5.8659602185,True
+47544,Estonia,2019,Internet Usage,89.35700777,5.4678503885,True
+47545,Finland,2019,Internet Usage,88.88996,5.444497999999999,True
+47546,France,2019,Internet Usage,82.04318678,5.102159339,True
+47547,Georgia,2019,Internet Usage,62.7179082,4.13589541,True
+47548,Germany,2019,Internet Usage,87.03711209,5.3518556045,True
+47549,Greece,2019,Internet Usage,72.23837339,4.6119186695,True
+47550,Hungary,2019,Internet Usage,76.07436064,4.803718032,True
+47551,Iceland,2019,Internet Usage,99.01095399,5.9505476995,True
+47552,Ireland,2019,Internet Usage,87.00014011,5.3500070055,True
+47553,Israel,2019,Internet Usage,83.73315696,5.186657847999999,True
+47554,Italy,2019,Internet Usage,74.38718292,4.719359146,True
+47555,Latvia,2019,Internet Usage,83.57717486,5.178858743,True
+47556,Liechtenstein,2019,Internet Usage,,,True
+47557,Lithuania,2019,Internet Usage,79.72258277,4.986129138500001,True
+47558,Luxembourg,2019,Internet Usage,97.06129871,5.8530649355,True
+47559,Malta,2019,Internet Usage,81.65804429,5.082902214500001,True
+47560,Moldova,2019,Internet Usage,,,True
+47561,Monaco,2019,Internet Usage,,,True
+47562,Montenegro,2019,Internet Usage,71.51710049,4.575855024500001,True
+47563,Netherlands,2019,Internet Usage,91.89189189,5.5945945945,True
+47564,North Macedonia,2019,Internet Usage,79.16775519,4.958387759499999,True
+47565,Norway,2019,Internet Usage,96.49165799,5.8245828995,True
+47566,Poland,2019,Internet Usage,77.54173454,4.877086727,True
+47567,Portugal,2019,Internet Usage,74.66096815,4.7330484075,True
+47568,Romania,2019,Internet Usage,70.68127793,4.534063896499999,True
+47569,San Marino,2019,Internet Usage,,,True
+47570,Serbia,2019,Internet Usage,73.36070915,4.6680354575,True
+47571,Slovakia,2019,Internet Usage,80.44892248,5.022446123999999,True
+47572,Slovenia,2019,Internet Usage,79.7499766,4.98749883,True
+47573,Spain,2019,Internet Usage,86.10723553,5.3053617765,True
+47574,Sweden,2019,Internet Usage,89.24696316,5.462348158,True
+47575,Turkey,2019,Internet Usage,71.04276084,4.552138042,True
+47576,Ukraine,2019,Internet Usage,62.55315539,4.127657769500001,True
+47577,United Kingdom,2019,Internet Usage,90.69200899,5.5346004495,True
+47578,Vatican,2019,Internet Usage,,,True
+47579,Antigua and Barbuda,2019,Internet Usage,,,True
+47580,Argentina,2019,Internet Usage,77.7,4.885,True
+47581,Barbados,2019,Internet Usage,,,True
+47582,Bolivia (Plurinational State of),2019,Internet Usage,44.2861422,3.21430711,True
+47583,Brazil,2019,Internet Usage,70.43428254,4.521714127,True
+47584,Canada,2019,Internet Usage,94.64,5.732,True
+47585,Colombia,2019,Internet Usage,64.12637682,4.206318841,True
+47586,Costa Rica,2019,Internet Usage,73.47972844,4.6739864220000005,True
+47587,Cuba,2019,Internet Usage,62.67892362,4.133946181000001,True
+47588,Dominica,2019,Internet Usage,,,True
+47589,Dominican Rep.,2019,Internet Usage,74.82204836,4.741102418,True
+47590,Grenada,2019,Internet Usage,,,True
+47591,Guatemala,2019,Internet Usage,,,True
+47592,Guyana,2019,Internet Usage,,,True
+47593,Haiti,2019,Internet Usage,32.47362713,2.6236813564999997,True
+47594,Honduras,2019,Internet Usage,36.0,2.8,True
+47595,Jamaica,2019,Internet Usage,68.21451709,4.410725854500001,True
+47596,Mexico,2019,Internet Usage,65.77263448,4.288631724,True
+47597,Panama,2019,Internet Usage,61.80553132,4.090276566,True
+47598,Paraguay,2019,Internet Usage,64.99354302,4.249677151,True
+47599,Peru,2019,Internet Usage,55.05433424,3.7527167120000002,True
+47600,Saint Kitts and Nevis,2019,Internet Usage,,,True
+47601,Saint Lucia,2019,Internet Usage,,,True
+47602,Saint Vincent and the Grenadines,2019,Internet Usage,,,True
+47603,Trinidad and Tobago,2019,Internet Usage,,,True
+47604,United States,2019,Internet Usage,88.49890317,5.4249451585,True
+47605,Uruguay,2019,Internet Usage,80.72684288,5.036342144,True
+47606,Venezuela,2019,Internet Usage,,,True
+47607,Cabo Verde,2019,Internet Usage,61.94339776,4.097169888,True
+47608,Central African Rep.,2019,Internet Usage,,,True
+47609,Congo (Rep. of the),2019,Internet Usage,,,True
+47610,Côte d'Ivoire,2019,Internet Usage,36.28895457,2.8144477285000002,True
+47611,Equatorial Guinea,2019,Internet Usage,,,True
+47612,Eritrea,2019,Internet Usage,,,True
+47613,Eswatini,2019,Internet Usage,,,True
+47614,Kenya,2019,Internet Usage,22.56511937,2.1282559685000004,True
+47615,Lesotho,2019,Internet Usage,42.30173357,3.1150866785000004,True
+47616,Madagascar,2019,Internet Usage,,,True
+47617,Mauritius,2019,Internet Usage,61.72995515,4.0864977575,True
+47618,Niger,2019,Internet Usage,,,True
+47619,South Sudan,2019,Internet Usage,,,True
+47620,Uganda,2019,Internet Usage,,,True
+47621,Bahrain,2019,Internet Usage,99.70149256,5.9850746280000005,True
+47622,Comoros,2019,Internet Usage,,,True
+47623,Egypt,2019,Internet Usage,57.2828664,3.86414332,True
+47624,Iraq,2019,Internet Usage,,,True
+47625,Kuwait,2019,Internet Usage,99.54267645,5.9771338225,True
+47626,Libya,2019,Internet Usage,,,True
+47627,Morocco,2019,Internet Usage,74.37631447,4.718815723500001,True
+47628,Palestine,2019,Internet Usage,70.6225837,4.531129185,True
+47629,Qatar,2019,Internet Usage,99.65280421,5.9826402105,True
+47630,Saudi Arabia,2019,Internet Usage,95.7247356,5.78623678,True
+47631,Somalia,2019,Internet Usage,,,True
+47632,Tunisia,2019,Internet Usage,66.6999983,4.334999915,True
+47633,United Arab Emirates,2019,Internet Usage,99.14999998,5.957499999,True
+47634,Yemen,2019,Internet Usage,,,True
+47635,Brunei Darussalam,2019,Internet Usage,95.0,5.75,True
+47636,Cambodia,2019,Internet Usage,78.27288351,4.9136441755,True
+47637,China,2019,Internet Usage,64.56912253,4.2284561265,True
+47638,Dem. People's Rep. of Korea,2019,Internet Usage,,,True
+47639,Fiji,2019,Internet Usage,,,True
+47640,"Hong Kong, China",2019,Internet Usage,91.74340039,5.5871700195,True
+47641,India,2019,Internet Usage,41.0,3.05,True
+47642,Indonesia,2019,Internet Usage,47.69064898,3.384532449,True
+47643,Iran (Islamic Republic of),2019,Internet Usage,77.77083846,4.888541923,True
+47644,Japan,2019,Internet Usage,92.73039781,5.6365198905,True
+47645,Kiribati,2019,Internet Usage,,,True
+47646,Korea (Rep. of),2019,Internet Usage,96.15757918,5.807878959,True
+47647,"Macao, China",2019,Internet Usage,86.46792571,5.3233962855,True
+47648,Malaysia,2019,Internet Usage,84.18714501,5.2093572505,True
+47649,Marshall Islands,2019,Internet Usage,,,True
+47650,Micronesia,2019,Internet Usage,,,True
+47651,Mongolia,2019,Internet Usage,51.07999408,3.553999704,True
+47652,Nauru,2019,Internet Usage,,,True
+47653,Nepal (Republic of),2019,Internet Usage,,,True
+47654,Pakistan,2019,Internet Usage,17.07090203,1.8535451015,True
+47655,Papua New Guinea,2019,Internet Usage,,,True
+47656,Philippines,2019,Internet Usage,46.88,3.344,True
+47657,Samoa,2019,Internet Usage,,,True
+47658,Singapore,2019,Internet Usage,88.94925269,5.4474626345,True
+47659,Solomon Islands,2019,Internet Usage,,,True
+47660,Sri Lanka,2019,Internet Usage,29.0,2.45,True
+47661,Thailand,2019,Internet Usage,66.65241946,4.332620973000001,True
+47662,Tonga,2019,Internet Usage,,,True
+47663,Tuvalu,2019,Internet Usage,,,True
+47664,Vanuatu,2019,Internet Usage,,,True
+47665,Viet Nam,2019,Internet Usage,68.66158021,4.4330790105,True
+47666,Armenia,2019,Internet Usage,66.54394969,4.3271974845,True
+47667,Azerbaijan,2019,Internet Usage,81.09999907,5.054999953499999,True
+47668,Belarus,2019,Internet Usage,82.78915209,5.1394576045,True
+47669,Kazakhstan,2019,Internet Usage,81.87762047,5.0938810235,True
+47670,Russian Federation,2019,Internet Usage,82.64216156,5.132108078,True
+47671,Tajikistan,2019,Internet Usage,,,True
+47672,Turkmenistan,2019,Internet Usage,,,True
+47673,Uzbekistan,2019,Internet Usage,70.4000024,4.520000120000001,True
+47674,Albania,2019,Internet Usage,68.55039112,4.427519556,True
+47675,Andorra,2019,Internet Usage,,,True
+47676,Austria,2019,Internet Usage,87.75220479,5.3876102395,True
+47677,Belgium,2019,Internet Usage,90.27542981,5.5137714905,True
+47678,Bosnia and Herzegovina,2019,Internet Usage,69.94634763,4.4973173815,True
+47679,Bulgaria,2019,Internet Usage,67.94698094,4.3973490470000005,True
+47680,Croatia,2019,Internet Usage,79.07978368,4.953989184,True
+47681,Cyprus,2019,Internet Usage,86.06362996,5.303181498,True
+47682,Czech Republic,2019,Internet Usage,80.86694441,5.043347220499999,True
+47683,Denmark,2019,Internet Usage,98.04643475,5.9023217375,True
+47684,Estonia,2019,Internet Usage,90.2289282,5.51144641,True
+47685,Finland,2019,Internet Usage,89.60738511,5.480369255499999,True
+47686,France,2019,Internet Usage,83.33974409,5.1669872045,True
+47687,Georgia,2019,Internet Usage,68.84670565,4.4423352825,True
+47688,Germany,2019,Internet Usage,88.13451691,5.4067258455000005,True
+47689,Greece,2019,Internet Usage,75.67120669,4.783560334500001,True
+47690,Hungary,2019,Internet Usage,80.37169361,5.018584680499999,True
+47691,Ireland,2019,Internet Usage,87.00005524,5.350002762,True
+47692,Israel,2019,Internet Usage,86.78787762,5.339393881,True
+47693,Latvia,2019,Internet Usage,86.13545644,5.306772822,True
+47694,Liechtenstein,2019,Internet Usage,,,True
+47695,Lithuania,2019,Internet Usage,81.58186838,5.079093419,True
+47696,Luxembourg,2019,Internet Usage,97.12063569,5.8560317845,True
+47697,Malta,2019,Internet Usage,85.77856081,5.2889280405,True
+47698,Moldova,2019,Internet Usage,,,True
+47699,Monaco,2019,Internet Usage,,,True
+47700,Montenegro,2019,Internet Usage,73.47666575,4.6738332875,True
+47701,Netherlands,2019,Internet Usage,93.2885906,5.6644295300000005,True
+47702,North Macedonia,2019,Internet Usage,81.41288276,5.0706441380000005,True
+47703,Norway,2019,Internet Usage,98.00000439,5.9000002195,True
+47704,Poland,2019,Internet Usage,80.43590724,5.021795362000001,True
+47705,Portugal,2019,Internet Usage,75.34637155,4.7673185775,True
+47706,Romania,2019,Internet Usage,73.65747575,4.6828737875,True
+47707,San Marino,2019,Internet Usage,,,True
+47708,Serbia,2019,Internet Usage,77.41677362,4.870838681,True
+47709,Slovakia,2019,Internet Usage,82.8536605,5.142683025,True
+47710,Slovenia,2019,Internet Usage,83.1083578,5.15541789,True
+47711,Spain,2019,Internet Usage,90.71866533,5.5359332665,True
+47712,Sweden,2019,Internet Usage,94.49344341,5.7246721705,True
+47713,Switzerland,2019,Internet Usage,93.14608695,5.657304347499999,True
+47714,Turkey,2019,Internet Usage,73.97670281,4.6988351405,True
+47715,Ukraine,2019,Internet Usage,70.1248443,4.506242215,True
+47716,United Kingdom,2019,Internet Usage,92.51662855,5.6258314275,True
+47717,Vatican,2019,Internet Usage,,,True
+47718,Antigua and Barbuda,2019,Internet Usage,,,True
+47719,Argentina,2019,Internet Usage,79.9,4.995,True
+47720,Barbados,2019,Internet Usage,,,True
+47721,Bolivia (Plurinational State of),2019,Internet Usage,47.47481911,3.3737409554999997,True
+47722,Brazil,2019,Internet Usage,73.91244005,4.6956220025,True
+47723,Colombia,2019,Internet Usage,65.00690072,4.250345036000001,True
+47724,Costa Rica,2019,Internet Usage,81.20259644,5.0601298219999995,True
+47725,Cuba,2019,Internet Usage,67.97080866,4.398540433,True
+47726,Dominica,2019,Internet Usage,,,True
+47727,El Salvador,2019,Internet Usage,50.49119319,3.5245596595,True
+47728,Grenada,2019,Internet Usage,,,True
+47729,Guatemala,2019,Internet Usage,44.40104984,3.2200524919999998,True
+47730,Guyana,2019,Internet Usage,,,True
+47731,Honduras,2019,Internet Usage,39.39,2.9695,True
+47732,Jamaica,2019,Internet Usage,,,True
+47733,Mexico,2019,Internet Usage,70.06991047,4.5034955235,True
+47734,Panama,2019,Internet Usage,63.62841477,4.1814207385,True
+47735,Paraguay,2019,Internet Usage,68.51762842,4.425881421,True
+47736,Peru,2019,Internet Usage,59.95050106,3.997525053,True
+47737,Saint Kitts and Nevis,2019,Internet Usage,,,True
+47738,Saint Lucia,2019,Internet Usage,,,True
+47739,Saint Vincent and the Grenadines,2019,Internet Usage,,,True
+47740,Trinidad and Tobago,2019,Internet Usage,,,True
+47741,United States,2019,Internet Usage,89.43028486,5.4715142430000006,True
+47742,Uruguay,2019,Internet Usage,83.35153377,5.1675766885000005,True
+47743,Venezuela,2019,Internet Usage,,,True
+47744,Mauritius,2019,Internet Usage,64.88490358,4.244245179,True
+47745,Uganda,2019,Internet Usage,,,True
+47746,Bahrain,2019,Internet Usage,99.53951246,5.9769756229999995,True
+47747,Egypt,2019,Internet Usage,71.9142004,4.59571002,True
+47748,Iraq,2019,Internet Usage,,,True
+47749,Kuwait,2019,Internet Usage,98.59999513,5.9299997565,True
+47750,Morocco,2019,Internet Usage,84.12036305,5.2060181524999996,True
+47751,Oman,2019,Internet Usage,95.23229327,5.7616146635000005,True
+47752,Qatar,2019,Internet Usage,99.65279354,5.982639677,True
+47753,Saudi Arabia,2019,Internet Usage,97.8623325,5.893116624999999,True
+47754,United Arab Emirates,2019,Internet Usage,100.0,6.0,True
+47755,Cambodia,2019,Internet Usage,78.80000044,4.940000022,True
+47756,China,2019,Internet Usage,70.64214286,4.532107143000001,True
+47757,"Hong Kong, China",2019,Internet Usage,92.41313602,5.620656801,True
+47758,Indonesia,2019,Internet Usage,53.72649449,3.6863247245000004,True
+47759,Iran (Islamic Republic of),2019,Internet Usage,84.11087002,5.205543500999999,True
+47760,Korea (Rep. of),2019,Internet Usage,96.50506035,5.8252530175,True
+47761,Malaysia,2019,Internet Usage,89.55501192,5.477750596,True
+47762,Mongolia,2019,Internet Usage,62.50002848,4.125001424,True
+47763,Singapore,2019,Internet Usage,95.0,5.75,True
+47764,Sri Lanka,2019,Internet Usage,35.0,2.75,True
+47765,Thailand,2019,Internet Usage,77.8437476,4.89218738,True
+47766,Viet Nam,2019,Internet Usage,70.2900004,4.51450002,True
+47767,Belarus,2019,Internet Usage,85.08791245,5.2543956225,True
+47768,Kazakhstan,2019,Internet Usage,85.94259898,5.297129949,True
+47769,Russian Federation,2019,Internet Usage,84.99466978,5.249733489,True
+47770,Albania,2019,Internet Usage,72.23767711,4.6118838555,True
+47771,Austria,2019,Internet Usage,87.52942813,5.376471406499999,True
+47772,Belgium,2019,Internet Usage,91.52423735,5.5762118675000005,True
+47773,Bosnia and Herzegovina,2019,Internet Usage,73.21175294,4.660587647,True
+47774,Bulgaria,2019,Internet Usage,70.16248359,4.508124179499999,True
+47775,Croatia,2019,Internet Usage,78.32093274,4.916046637,True
+47776,Cyprus,2019,Internet Usage,90.80209879,5.5401049395,True
+47777,Czech Republic,2019,Internet Usage,81.33889705,5.0669448525,True
+47778,Denmark,2019,Internet Usage,96.54914573,5.8274572865000005,True
+47779,Estonia,2019,Internet Usage,89.05828666,5.452914333,True
+47780,Finland,2019,Internet Usage,92.17027106,5.608513553,True
+47781,Georgia,2019,Internet Usage,72.53158414,4.626579207000001,True
+47782,Germany,2019,Internet Usage,89.81294133,5.4906470665,True
+47783,Greece,2019,Internet Usage,78.11584474,4.905792237,True
+47784,Hungary,2019,Internet Usage,84.77115202,5.238557601,True
+47785,Ireland,2019,Internet Usage,91.99989097,5.5999945485,True
+47786,Latvia,2019,Internet Usage,88.89796078,5.444898039,True
+47787,Lithuania,2019,Internet Usage,83.0555907,5.152779535,True
+47788,Luxembourg,2019,Internet Usage,98.82242384,5.941121192,True
+47789,Malta,2019,Internet Usage,86.85876183,5.3429380915,True
+47790,Montenegro,2019,Internet Usage,81.36996541,5.0684982705,True
+47791,Netherlands,2019,Internet Usage,91.33333333,5.566666666500001,True
+47792,North Macedonia,2019,Internet Usage,81.40553811,5.0702769055,True
+47793,Norway,2019,Internet Usage,97.00000121,5.850000060499999,True
+47794,Poland,2019,Internet Usage,86.83692746,5.341846372999999,True
+47795,Portugal,2019,Internet Usage,78.26165705,4.9130828525,True
+47796,Romania,2019,Internet Usage,78.45526895,4.9227634475,True
+47797,Serbia,2019,Internet Usage,78.36804864,4.918402432,True
+47798,Slovakia,2019,Internet Usage,89.92090413,5.4960452065,True
+47799,Slovenia,2019,Internet Usage,86.60130109,5.3300650545,True
+47800,Spain,2019,Internet Usage,93.20564609,5.6602823045,True
+47801,Sweden,2019,Internet Usage,94.53943122,5.726971561,True
+47802,Turkey,2019,Internet Usage,77.66956038,4.883478019,True
+47803,United Kingdom,2019,Internet Usage,94.81820132,5.7409100660000005,True
+47804,Argentina,2019,Internet Usage,85.5,5.275,True
+47805,Bolivia (Plurinational State of),2019,Internet Usage,55.13905053,3.7569525264999997,True
+47806,Costa Rica,2019,Internet Usage,80.53018608,5.026509304,True
+47807,Mexico,2019,Internet Usage,71.97,4.5985,True
+47808,Paraguay,2019,Internet Usage,74.51524041,4.7257620204999995,True
+47809,Peru,2019,Internet Usage,65.25179879,4.2625899395,True

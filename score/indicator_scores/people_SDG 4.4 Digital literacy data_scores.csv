@@ -1,0 +1,605 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+12,Turkey,2019,SDG 4.4 Digital literacy data,38.1844,2.9203437815975732,True
+35,Thailand,2019,SDG 4.4 Digital literacy data,5.3,1.2578361981799797,True
+75,Pakistan,2019,SDG 4.4 Digital literacy data,2.7,1.1263902932254803,True
+90,Portugal,2019,SDG 4.4 Digital literacy data,8.2,1.4044489383215368,True
+103,Finland,2019,SDG 4.4 Digital literacy data,63.1,4.1799797775530845,True
+121,France,2019,SDG 4.4 Digital literacy data,54.6,3.750252780586451,True
+126,Spain,2019,SDG 4.4 Digital literacy data,54.67742,3.7541668351870574,True
+133,Kazakhstan,2019,SDG 4.4 Digital literacy data,51.7,3.603640040444894,True
+143,Kazakhstan,2019,SDG 4.4 Digital literacy data,6.3,1.308392315470172,True
+152,Belgium,2019,SDG 4.4 Digital literacy data,4.5,1.2173913043478262,True
+170,Romania,2019,SDG 4.4 Digital literacy data,1.0,1.0404448938321538,True
+174,Germany,2019,SDG 4.4 Digital literacy data,52.66343,3.6523473205257835,True
+179,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,3.46017,1.1648215369059656,True
+217,Qatar,2019,SDG 4.4 Digital literacy data,24.93569,2.2505404448938324,True
+234,Czechia,2019,SDG 4.4 Digital literacy data,55.7,3.8058645096056627,True
+244,Lithuania,2019,SDG 4.4 Digital literacy data,42.2,3.123356926188069,True
+254,Poland,2019,SDG 4.4 Digital literacy data,48.4,3.43680485338726,True
+267,Qatar,2019,SDG 4.4 Digital literacy data,40.51814,3.0383286147623862,True
+291,Tunisia,2019,SDG 4.4 Digital literacy data,16.6,1.8291203235591509,True
+293,Cambodia,2019,SDG 4.4 Digital literacy data,28.9,2.450960566228514,True
+302,Latvia,2019,SDG 4.4 Digital literacy data,29.82778,2.4978655207280083,True
+312,Morocco,2019,SDG 4.4 Digital literacy data,22.5,2.127401415571284,True
+318,Georgia,2019,SDG 4.4 Digital literacy data,1.1,1.045500505561173,True
+322,Georgia,2019,SDG 4.4 Digital literacy data,31.9,2.6026289180990902,True
+339,Austria,2019,SDG 4.4 Digital literacy data,60.7,4.0586450960566225,True
+343,Greece,2019,SDG 4.4 Digital literacy data,24.6,2.233569261880688,True
+362,Switzerland,2019,SDG 4.4 Digital literacy data,65.0,4.276036400404449,True
+364,Peru,2019,SDG 4.4 Digital literacy data,12.8,1.6370070778564207,True
+372,Netherlands,2019,SDG 4.4 Digital literacy data,72.5,4.65520728008089,True
+376,Slovakia,2019,SDG 4.4 Digital literacy data,2.2085,1.1015419615773507,True
+401,Malta,2019,SDG 4.4 Digital literacy data,50.3,3.532861476238625,True
+406,Bahrain,2019,SDG 4.4 Digital literacy data,54.0,3.719919110212336,True
+413,Norway,2019,SDG 4.4 Digital literacy data,81.0,5.084934277047523,True
+418,Latvia,2019,SDG 4.4 Digital literacy data,48.52765,3.443258341759353,True
+423,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,46.5,3.340748230535895,True
+440,Cyprus,2019,SDG 4.4 Digital literacy data,46.4,3.3356926188068754,True
+446,Germany,2019,SDG 4.4 Digital literacy data,70.22874,4.540381193124368,True
+450,Colombia,2019,SDG 4.4 Digital literacy data,31.5,2.5824064711830133,True
+455,Serbia,2019,SDG 4.4 Digital literacy data,43.2,3.173913043478261,True
+462,Spain,2019,SDG 4.4 Digital literacy data,9.1109,1.450500505561173,True
+478,Croatia,2019,SDG 4.4 Digital literacy data,8.6,1.4246713852376138,True
+492,United Arab Emirates,2019,SDG 4.4 Digital literacy data,34.3,2.723963599595551,True
+507,Germany,2019,SDG 4.4 Digital literacy data,35.4,2.7795753286147624,True
+521,Sweden,2019,SDG 4.4 Digital literacy data,46.1,3.3205257836198183,True
+524,Turkey,2019,SDG 4.4 Digital literacy data,4.5244,1.2186248736097067,True
+532,Qatar,2019,SDG 4.4 Digital literacy data,61.80401,4.114459555106167,True
+534,Peru,2019,SDG 4.4 Digital literacy data,31.2,2.5672396359959557,True
+539,Slovenia,2019,SDG 4.4 Digital literacy data,5.2,1.2527805864509607,True
+544,Latvia,2019,SDG 4.4 Digital literacy data,32.16562,2.6160576339737105,True
+549,Qatar,2019,SDG 4.4 Digital literacy data,3.60387,1.1720864509605662,True
+555,Russian Federation,2019,SDG 4.4 Digital literacy data,6.2,1.3033367037411527,True
+572,Bulgaria,2019,SDG 4.4 Digital literacy data,43.2,3.173913043478261,True
+606,Denmark,2019,SDG 4.4 Digital literacy data,54.5,3.745197168857432,True
+611,Pakistan,2019,SDG 4.4 Digital literacy data,3.9,1.187057633973711,True
+626,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,2.13639,1.097896359959555,True
+634,Portugal,2019,SDG 4.4 Digital literacy data,37.2,2.8705763397371085,True
+639,Egypt,2019,SDG 4.4 Digital literacy data,16.0,1.7987866531850356,True
+649,Malaysia,2019,SDG 4.4 Digital literacy data,45.0,3.264914054600607,True
+653,Slovakia,2019,SDG 4.4 Digital literacy data,32.6,2.6380182002022243,True
+661,Montenegro,2019,SDG 4.4 Digital literacy data,4.1,1.1971688574317492,True
+675,Republic of Korea,2019,SDG 4.4 Digital literacy data,57.5,3.8968655207280083,True
+681,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,11.9,1.591506572295248,True
+690,Saudi Arabia,2019,SDG 4.4 Digital literacy data,67.8,4.417593528816987,True
+694,Malaysia,2019,SDG 4.4 Digital literacy data,59.0,3.9726996966632964,True
+708,Spain,2019,SDG 4.4 Digital literacy data,55.28956,3.785114256825076,True
+718,Singapore,2019,SDG 4.4 Digital literacy data,54.5,3.745197168857432,True
+723,Netherlands,2019,SDG 4.4 Digital literacy data,63.8,4.2153690596562186,True
+730,Palestine,2019,SDG 4.4 Digital literacy data,7.6,1.3741152679474218,True
+738,Belgium,2019,SDG 4.4 Digital literacy data,44.8,3.2548028311425683,True
+743,Hungary,2019,SDG 4.4 Digital literacy data,4.1,1.1971688574317492,True
+760,Qatar,2019,SDG 4.4 Digital literacy data,58.21411,3.9329681496461073,True
+767,Qatar,2019,SDG 4.4 Digital literacy data,5.05603,1.2455020222446915,True
+788,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,6.28157,1.3074605662285137,True
+810,Germany,2019,SDG 4.4 Digital literacy data,8.35228,1.4121476238624875,True
+831,Latvia,2019,SDG 4.4 Digital literacy data,4.00401,1.1923159757330637,True
+836,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,22.46445,2.125604145601618,True
+846,Morocco,2019,SDG 4.4 Digital literacy data,34.9,2.7542972699696664,True
+850,Georgia,2019,SDG 4.4 Digital literacy data,24.9,2.248736097067745,True
+858,Georgia,2019,SDG 4.4 Digital literacy data,32.8,2.648129423660263,True
+860,Mexico,2019,SDG 4.4 Digital literacy data,7.1,1.3488372093023255,True
+865,Austria,2019,SDG 4.4 Digital literacy data,59.4,3.9929221435793734,True
+870,Greece,2019,SDG 4.4 Digital literacy data,38.3,2.9261880687563195,True
+891,Switzerland,2019,SDG 4.4 Digital literacy data,57.2,3.8816986855409508,True
+894,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,27.7,2.390293225480283,True
+900,Russian Federation,2019,SDG 4.4 Digital literacy data,1.3,1.0556117290192113,True
+908,Slovakia,2019,SDG 4.4 Digital literacy data,60.5893,4.053048533872599,True
+929,Latvia,2019,SDG 4.4 Digital literacy data,37.17319,2.869220930232558,True
+960,Pakistan,2019,SDG 4.4 Digital literacy data,2.6,1.121334681496461,True
+972,Portugal,2019,SDG 4.4 Digital literacy data,42.3,3.1284125379170877,True
+986,Finland,2019,SDG 4.4 Digital literacy data,48.4,3.43680485338726,True
+988,Cuba,2019,SDG 4.4 Digital literacy data,5.6,1.2730030333670375,True
+1004,Croatia,2019,SDG 4.4 Digital literacy data,54.5,3.745197168857432,True
+1009,Kazakhstan,2019,SDG 4.4 Digital literacy data,14.0,1.697674418604651,True
+1016,Spain,2019,SDG 4.4 Digital literacy data,58.44636,3.9447098078867544,True
+1024,Qatar,2019,SDG 4.4 Digital literacy data,29.71152,2.4919878665318507,True
+1029,Kazakhstan,2019,SDG 4.4 Digital literacy data,19.6,1.9807886754297273,True
+1036,Germany,2019,SDG 4.4 Digital literacy data,55.34019,3.7876739130434784,True
+1045,Spain,2019,SDG 4.4 Digital literacy data,4.62089,1.2235030333670374,True
+1053,Turkey,2019,SDG 4.4 Digital literacy data,45.69269,3.2999337714863497,True
+1058,Romania,2019,SDG 4.4 Digital literacy data,68.7,4.463094034378161,True
+1082,Belgium,2019,SDG 4.4 Digital literacy data,57.5,3.8968655207280083,True
+1104,Lithuania,2019,SDG 4.4 Digital literacy data,4.7,1.2275025278058644,True
+1128,Denmark,2019,SDG 4.4 Digital literacy data,14.3,1.7128412537917088,True
+1135,Egypt,2019,SDG 4.4 Digital literacy data,44.6,3.2446916076845302,True
+1141,Cuba,2019,SDG 4.4 Digital literacy data,22.3,2.117290192113246,True
+1146,Egypt,2019,SDG 4.4 Digital literacy data,8.8,1.4347826086956523,True
+1153,Malaysia,2019,SDG 4.4 Digital literacy data,37.1,2.8655207280080894,True
+1160,Morocco,2019,SDG 4.4 Digital literacy data,9.3,1.4600606673407484,True
+1166,Montenegro,2019,SDG 4.4 Digital literacy data,70.5,4.554095045500506,True
+1176,Slovakia,2019,SDG 4.4 Digital literacy data,34.7,2.7441860465116283,True
+1181,Republic of Korea,2019,SDG 4.4 Digital literacy data,61.3,4.088978766430738,True
+1187,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,6.5,1.3185035389282103,True
+1190,Saudi Arabia,2019,SDG 4.4 Digital literacy data,67.9,4.422649140546007,True
+1202,Singapore,2019,SDG 4.4 Digital literacy data,53.2,3.679474216380182,True
+1207,Spain,2019,SDG 4.4 Digital literacy data,35.58935,2.78914812942366,True
+1215,Netherlands,2019,SDG 4.4 Digital literacy data,70.5,4.554095045500506,True
+1226,Hungary,2019,SDG 4.4 Digital literacy data,46.3,3.3306370070778564,True
+1231,Belgium,2019,SDG 4.4 Digital literacy data,80.4,5.054600606673408,True
+1257,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,42.4,3.133468149646107,True
+1269,Bahrain,2019,SDG 4.4 Digital literacy data,36.0,2.809908998988878,True
+1278,Norway,2019,SDG 4.4 Digital literacy data,60.0,4.023255813953488,True
+1282,Malta,2019,SDG 4.4 Digital literacy data,53.9,3.7148634984833167,True
+1291,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,8.9,1.4398382204246716,True
+1305,Cyprus,2019,SDG 4.4 Digital literacy data,43.9,3.2093023255813953,True
+1308,Kuwait,2019,SDG 4.4 Digital literacy data,63.2,4.1850353892821035,True
+1324,Colombia,2019,SDG 4.4 Digital literacy data,24.8,2.243680485338726,True
+1333,Colombia,2019,SDG 4.4 Digital literacy data,33.3,2.673407482305359,True
+1342,Spain,2019,SDG 4.4 Digital literacy data,57.06302,3.87477350859454,True
+1361,Croatia,2019,SDG 4.4 Digital literacy data,56.5,3.8463094034378162,True
+1379,Germany,2019,SDG 4.4 Digital literacy data,5.42742,1.2642780586450961,True
+1386,Sweden,2019,SDG 4.4 Digital literacy data,10.9,1.5409504550050557,True
+1402,Russian Federation,2019,SDG 4.4 Digital literacy data,23.7,2.188068756319515,True
+1407,Qatar,2019,SDG 4.4 Digital literacy data,28.35442,2.423378159757331,True
+1415,Qatar,2019,SDG 4.4 Digital literacy data,48.59049,3.4464352881698685,True
+1422,Slovenia,2019,SDG 4.4 Digital literacy data,54.5,3.745197168857432,True
+1427,Latvia,2019,SDG 4.4 Digital literacy data,2.53064,1.1178281092012132,True
+1457,Latvia,2019,SDG 4.4 Digital literacy data,34.24375,2.7211198179979776,True
+1476,Slovakia,2019,SDG 4.4 Digital literacy data,5.21488,1.2535328614762387,True
+1478,Pakistan,2019,SDG 4.4 Digital literacy data,2.1,1.096056622851365,True
+1494,Portugal,2019,SDG 4.4 Digital literacy data,40.9,3.0576339737108187,True
+1503,Cuba,2019,SDG 4.4 Digital literacy data,17.6,1.8796764408493432,True
+1510,Croatia,2019,SDG 4.4 Digital literacy data,53.8,3.7098078867542976,True
+1517,Germany,2019,SDG 4.4 Digital literacy data,57.3,3.88675429726997,True
+1523,Qatar,2019,SDG 4.4 Digital literacy data,54.4777,3.7440697674418604,True
+1532,Spain,2019,SDG 4.4 Digital literacy data,38.2198,2.9221334681496463,True
+1537,Kazakhstan,2019,SDG 4.4 Digital literacy data,17.5,1.8746208291203237,True
+1556,Singapore,2019,SDG 4.4 Digital literacy data,7.1,1.3488372093023255,True
+1574,Romania,2019,SDG 4.4 Digital literacy data,27.1,2.359959555106168,True
+1579,Bahrain,2019,SDG 4.4 Digital literacy data,66.5,4.351870576339738,True
+1628,Czechia,2019,SDG 4.4 Digital literacy data,44.9,3.2598584428715873,True
+1639,Lithuania,2019,SDG 4.4 Digital literacy data,57.8,3.912032355915066,True
+1655,Poland,2019,SDG 4.4 Digital literacy data,27.9,2.4004044489383216,True
+1667,Germany,2019,SDG 4.4 Digital literacy data,65.89782,4.321426693629929,True
+1680,Latvia,2019,SDG 4.4 Digital literacy data,53.11472,3.6751627906976747,True
+1682,Cambodia,2019,SDG 4.4 Digital literacy data,9.0,1.4448938321536906,True
+1698,Morocco,2019,SDG 4.4 Digital literacy data,49.1,3.4721941354903945,True
+1707,Georgia,2019,SDG 4.4 Digital literacy data,14.3,1.7128412537917088,True
+1724,Greece,2019,SDG 4.4 Digital literacy data,4.1,1.1971688574317492,True
+1747,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,52.4,3.6390293225480286,True
+1768,Spain,2019,SDG 4.4 Digital literacy data,61.65387,4.106869059656218,True
+1773,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,56.5,3.8463094034378162,True
+1784,Malta,2019,SDG 4.4 Digital literacy data,40.6,3.0424671385237616,True
+1792,Bahrain,2019,SDG 4.4 Digital literacy data,18.1,1.9049544994944392,True
+1797,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,52.1,3.623862487360971,True
+1803,Norway,2019,SDG 4.4 Digital literacy data,11.0,1.546006066734075,True
+1825,Cyprus,2019,SDG 4.4 Digital literacy data,28.4,2.4256825075834176,True
+1838,Colombia,2019,SDG 4.4 Digital literacy data,15.4,1.7684529828109201,True
+1841,Tunisia,2019,SDG 4.4 Digital literacy data,18.2,1.9100101112234582,True
+1851,Finland,2019,SDG 4.4 Digital literacy data,8.8,1.4347826086956523,True
+1878,Germany,2019,SDG 4.4 Digital literacy data,59.19095,3.9823533872598587,True
+1909,Sweden,2019,SDG 4.4 Digital literacy data,48.9,3.462082912032356,True
+1914,Sweden,2019,SDG 4.4 Digital literacy data,63.7,4.2103134479271995,True
+1918,Mexico,2019,SDG 4.4 Digital literacy data,32.9,2.653185035389282,True
+1923,Qatar,2019,SDG 4.4 Digital literacy data,33.86153,2.7017962588473203,True
+1929,Russian Federation,2019,SDG 4.4 Digital literacy data,42.6,3.1435793731041457,True
+1943,Latvia,2019,SDG 4.4 Digital literacy data,50.6863,3.552391304347826,True
+1977,Qatar,2019,SDG 4.4 Digital literacy data,6.56746,1.3219140546006067,True
+1988,Denmark,2019,SDG 4.4 Digital literacy data,61.0,4.0738119312436805,True
+1997,Egypt,2019,SDG 4.4 Digital literacy data,58.0,3.9221435793731043,True
+2007,Egypt,2019,SDG 4.4 Digital literacy data,53.0,3.6693629929221436,True
+2009,Cuba,2019,SDG 4.4 Digital literacy data,32.3,2.6228513650151664,True
+2012,Turkey,2019,SDG 4.4 Digital literacy data,1.80449,1.0811167846309404,True
+2027,Slovakia,2019,SDG 4.4 Digital literacy data,3.69688,1.176788675429727,True
+2037,Morocco,2019,SDG 4.4 Digital literacy data,25.8,2.294236602628918,True
+2045,Slovakia,2019,SDG 4.4 Digital literacy data,70.94571,4.576628412537918,True
+2050,Republic of Korea,2019,SDG 4.4 Digital literacy data,45.7,3.3003033367037413,True
+2061,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,3.3,1.1567239635995956,True
+2065,Malaysia,2019,SDG 4.4 Digital literacy data,26.7,2.339737108190091,True
+2076,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,26.12354,2.3105935288169865,True
+2083,Singapore,2019,SDG 4.4 Digital literacy data,39.7,2.9969666329625886,True
+2095,Switzerland,2019,SDG 4.4 Digital literacy data,9.7,1.4802831142568251,True
+2101,Netherlands,2019,SDG 4.4 Digital literacy data,53.7,3.704752275025278,True
+2128,Hungary,2019,SDG 4.4 Digital literacy data,36.4,2.8301314459049545,True
+2134,Czechia,2019,SDG 4.4 Digital literacy data,5.7,1.2780586450960567,True
+2150,Qatar,2019,SDG 4.4 Digital literacy data,37.12327,2.8666971688574314,True
+2153,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,19.28883,1.9650571284125382,True
+2162,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,46.93722,3.362852376137513,True
+2170,Lithuania,2019,SDG 4.4 Digital literacy data,44.5,3.2396359959555108,True
+2214,Cambodia,2019,SDG 4.4 Digital literacy data,38.0,2.911021233569262,True
+2216,Latvia,2019,SDG 4.4 Digital literacy data,53.81858,3.710747219413549,True
+2236,Morocco,2019,SDG 4.4 Digital literacy data,35.8,2.7997977755308394,True
+2247,Georgia,2019,SDG 4.4 Digital literacy data,10.9,1.5409504550050557,True
+2266,Greece,2019,SDG 4.4 Digital literacy data,54.4,3.7401415571284127,True
+2288,Turkey,2019,SDG 4.4 Digital literacy data,3.15945,1.149618301314459,True
+2344,Thailand,2019,SDG 4.4 Digital literacy data,20.9,2.046511627906977,True
+2348,Slovakia,2019,SDG 4.4 Digital literacy data,63.26402,4.188271991911021,True
+2350,Pakistan,2019,SDG 4.4 Digital literacy data,1.4,1.0606673407482305,True
+2365,Finland,2019,SDG 4.4 Digital literacy data,63.0,4.174924165824065,True
+2367,Cuba,2019,SDG 4.4 Digital literacy data,10.3,1.5106167846309404,True
+2377,Croatia,2019,SDG 4.4 Digital literacy data,43.1,3.1688574317492417,True
+2382,France,2019,SDG 4.4 Digital literacy data,5.7,1.2780586450960567,True
+2389,Spain,2019,SDG 4.4 Digital literacy data,6.84801,1.33609757330637,True
+2403,Kazakhstan,2019,SDG 4.4 Digital literacy data,39.9,3.0070778564206266,True
+2413,Qatar,2019,SDG 4.4 Digital literacy data,39.83214,3.0036471183013145,True
+2422,Singapore,2019,SDG 4.4 Digital literacy data,45.7,3.3003033367037413,True
+2429,Bahrain,2019,SDG 4.4 Digital literacy data,57.9,3.9170879676440853,True
+2437,Romania,2019,SDG 4.4 Digital literacy data,15.2,1.7583417593528816,True
+2441,Germany,2019,SDG 4.4 Digital literacy data,2.58078,1.1203629929221435,True
+2483,Bulgaria,2019,SDG 4.4 Digital literacy data,1.1,1.045500505561173,True
+2506,Poland,2019,SDG 4.4 Digital literacy data,3.5,1.166835187057634,True
+2511,Qatar,2019,SDG 4.4 Digital literacy data,35.65353,2.7923928210313447,True
+2527,Denmark,2019,SDG 4.4 Digital literacy data,64.5,4.250758341759353,True
+2536,Cuba,2019,SDG 4.4 Digital literacy data,22.3,2.117290192113246,True
+2539,Turkey,2019,SDG 4.4 Digital literacy data,30.73104,2.543530839231547,True
+2541,Cambodia,2019,SDG 4.4 Digital literacy data,1.4,1.0606673407482305,True
+2546,Egypt,2019,SDG 4.4 Digital literacy data,48.5,3.4418604651162794,True
+2551,Republic of Korea,2019,SDG 4.4 Digital literacy data,76.8,4.872598584428716,True
+2556,Slovakia,2019,SDG 4.4 Digital literacy data,61.91348,4.119993933265925,True
+2562,Malaysia,2019,SDG 4.4 Digital literacy data,8.2,1.4044489383215368,True
+2566,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,7.52968,1.3705601617795753,True
+2571,Republic of Korea,2019,SDG 4.4 Digital literacy data,6.1,1.2982810920121335,True
+2592,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,19.9,1.9959555106167848,True
+2595,Saudi Arabia,2019,SDG 4.4 Digital literacy data,47.3,3.3811931243680484,True
+2599,Malaysia,2019,SDG 4.4 Digital literacy data,44.7,3.2497472194135493,True
+2610,Spain,2019,SDG 4.4 Digital literacy data,52.32954,3.6354671385237616,True
+2616,Singapore,2019,SDG 4.4 Digital literacy data,58.0,3.9221435793731043,True
+2624,Austria,2019,SDG 4.4 Digital literacy data,8.8,1.4347826086956523,True
+2645,Netherlands,2019,SDG 4.4 Digital literacy data,8.7,1.429726996966633,True
+2657,Belgium,2019,SDG 4.4 Digital literacy data,48.5,3.4418604651162794,True
+2672,Qatar,2019,SDG 4.4 Digital literacy data,44.29889,3.2294686552072798,True
+2676,Spain,2019,SDG 4.4 Digital literacy data,40.89251,3.0572553083923157,True
+2679,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,59.5,3.9979777553083924,True
+2697,Norway,2019,SDG 4.4 Digital literacy data,65.0,4.276036400404449,True
+2707,Malta,2019,SDG 4.4 Digital literacy data,7.6,1.3741152679474218,True
+2711,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,65.7,4.311425682507584,True
+2723,Norway,2019,SDG 4.4 Digital literacy data,78.0,4.933265925176947,True
+2741,Latvia,2019,SDG 4.4 Digital literacy data,1.22109,1.0516223458038423,True
+2746,Cyprus,2019,SDG 4.4 Digital literacy data,3.7,1.1769464105156724,True
+2750,Colombia,2019,SDG 4.4 Digital literacy data,23.0,2.15267947421638,True
+2757,Serbia,2019,SDG 4.4 Digital literacy data,4.5,1.2173913043478262,True
+2785,Germany,2019,SDG 4.4 Digital literacy data,62.68358,4.158927199191102,True
+2803,United Arab Emirates,2019,SDG 4.4 Digital literacy data,17.1,1.854398382204247,True
+2825,Russian Federation,2019,SDG 4.4 Digital literacy data,26.7,2.339737108190091,True
+2827,Peru,2019,SDG 4.4 Digital literacy data,28.7,2.440849342770475,True
+2832,Qatar,2019,SDG 4.4 Digital literacy data,20.34712,2.0185601617795754,True
+2834,Latvia,2019,SDG 4.4 Digital literacy data,45.00633,3.2652340748230535,True
+2843,Russian Federation,2019,SDG 4.4 Digital literacy data,33.2,2.66835187057634,True
+2850,Qatar,2019,SDG 4.4 Digital literacy data,31.93099,2.6041956521739134,True
+2857,Thailand,2019,SDG 4.4 Digital literacy data,10.2,1.5055611729019212,True
+2865,Saudi Arabia,2019,SDG 4.4 Digital literacy data,34.5,2.7340748230535894,True
+2872,Republic of Korea,2019,SDG 4.4 Digital literacy data,81.8,5.125379170879677,True
+2874,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,8.9678,1.4432659251769464,True
+2882,Tunisia,2019,SDG 4.4 Digital literacy data,22.6,2.132457027300304,True
+2885,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,42.6,3.1435793731041457,True
+2894,Colombia,2019,SDG 4.4 Digital literacy data,4.6,1.2224469160768452,True
+2905,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,5.2,1.2527805864509607,True
+2913,Mexico,2019,SDG 4.4 Digital literacy data,25.9,2.2992922143579375,True
+2921,Cambodia,2019,SDG 4.4 Digital literacy data,3.3,1.1567239635995956,True
+2927,Pakistan,2019,SDG 4.4 Digital literacy data,4.7,1.2275025278058644,True
+2937,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,51.43541,3.5902633973710816,True
+2948,Palestine,2019,SDG 4.4 Digital literacy data,11.3,1.5611729019211324,True
+2950,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,49.02722,3.4685146612740145,True
+2955,Peru,2019,SDG 4.4 Digital literacy data,20.2,2.0111223458038423,True
+3003,Thailand,2019,SDG 4.4 Digital literacy data,15.8,1.7886754297269971,True
+3008,Montenegro,2019,SDG 4.4 Digital literacy data,41.1,3.0677451971688576,True
+3011,Palestine,2019,SDG 4.4 Digital literacy data,14.9,1.743174924165824,True
+3013,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,0.98752,1.0398139534883721,True
+3021,Saudi Arabia,2019,SDG 4.4 Digital literacy data,49.0,3.4671385237613754,True
+3023,Peru,2019,SDG 4.4 Digital literacy data,3.1,1.1466127401415571,True
+3030,Tunisia,2019,SDG 4.4 Digital literacy data,16.1,1.8038422649140549,True
+3063,Montenegro,2019,SDG 4.4 Digital literacy data,27.7,2.390293225480283,True
+3070,Saudi Arabia,2019,SDG 4.4 Digital literacy data,13.8,1.6875631951466128,True
+3072,Switzerland,2019,SDG 4.4 Digital literacy data,60.6,4.053589484327604,True
+3077,Tunisia,2019,SDG 4.4 Digital literacy data,21.2,2.061678463094035,True
+3082,Tunisia,2019,SDG 4.4 Digital literacy data,16.3,1.8139534883720931,True
+3087,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,0.7,1.025278058645096,True
+3089,Peru,2019,SDG 4.4 Digital literacy data,21.1,2.0566228513650153,True
+3091,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,44.59803,3.2445920121334684,True
+3094,Pakistan,2019,SDG 4.4 Digital literacy data,5.4,1.262891809908999,True
+3097,Saudi Arabia,2019,SDG 4.4 Digital literacy data,73.1,4.685540950455005,True
+3102,France,2019,SDG 4.4 Digital literacy data,52.7,3.654196157735086,True
+3110,Spain,2019,SDG 4.4 Digital literacy data,59.17047,3.9813179979777558,True
+3120,Ecuador,2019,SDG 4.4 Digital literacy data,28.0,2.405460060667341,True
+3132,Thailand,2019,SDG 4.4 Digital literacy data,8.1,1.3993933265925178,True
+3138,Slovakia,2019,SDG 4.4 Digital literacy data,30.83565,2.5488195146612744,True
+3145,Latvia,2019,SDG 4.4 Digital literacy data,21.78513,2.091260364004045,True
+3150,Bahrain,2019,SDG 4.4 Digital literacy data,36.0,2.809908998988878,True
+3162,Mexico,2019,SDG 4.4 Digital literacy data,28.9,2.450960566228514,True
+3176,Germany,2019,SDG 4.4 Digital literacy data,41.23271,3.074454499494439,True
+3186,Czechia,2019,SDG 4.4 Digital literacy data,51.2,3.578361981799798,True
+3196,Kiribati,2019,SDG 4.4 Digital literacy data,13.7,1.6825075834175935,True
+3211,Turkey,2019,SDG 4.4 Digital literacy data,42.35583,3.131235085945399,True
+3217,Hungary,2019,SDG 4.4 Digital literacy data,52.1,3.623862487360971,True
+3219,Oman,2019,SDG 4.4 Digital literacy data,28.74468,2.443108190091001,True
+3230,Russian Federation,2019,SDG 4.4 Digital literacy data,9.7,1.4802831142568251,True
+3237,Finland,2019,SDG 4.4 Digital literacy data,45.1,3.2699696663296263,True
+3242,Belarus,2019,SDG 4.4 Digital literacy data,12.4,1.616784630940344,True
+3254,Germany,2019,SDG 4.4 Digital literacy data,59.27802,3.9867553083923153,True
+3267,Qatar,2019,SDG 4.4 Digital literacy data,20.74253,2.0385505561172903,True
+3273,Palestine,2019,SDG 4.4 Digital literacy data,7.1,1.3488372093023255,True
+3277,Switzerland,2019,SDG 4.4 Digital literacy data,49.0,3.4671385237613754,True
+3278,Cuba,2019,SDG 4.4 Digital literacy data,23.8,2.193124368048534,True
+3280,Mongolia,2019,SDG 4.4 Digital literacy data,8.6,1.4246713852376138,True
+3282,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,53.0,3.6693629929221436,True
+3290,Denmark,2019,SDG 4.4 Digital literacy data,68.1,4.432760364004045,True
+3294,United Arab Emirates,2019,SDG 4.4 Digital literacy data,37.9,2.9059656218402425,True
+3299,Ecuador,2019,SDG 4.4 Digital literacy data,17.6,1.8796764408493432,True
+3301,Cambodia,2019,SDG 4.4 Digital literacy data,3.3,1.1567239635995956,True
+3309,Qatar,2019,SDG 4.4 Digital literacy data,36.2934,2.8247421638018197,True
+3312,Tunisia,2019,SDG 4.4 Digital literacy data,16.2,1.8088978766430739,True
+3316,Germany,2019,SDG 4.4 Digital literacy data,32.84099,2.6502017189079874,True
+3321,Portugal,2019,SDG 4.4 Digital literacy data,49.2,3.477249747219414,True
+3325,Bangladesh,2019,SDG 4.4 Digital literacy data,0.5,1.0151668351870575,True
+3331,Austria,2019,SDG 4.4 Digital literacy data,45.7,3.3003033367037413,True
+3340,Malta,2019,SDG 4.4 Digital literacy data,35.6,2.789686552072801,True
+3353,Poland,2019,SDG 4.4 Digital literacy data,23.6,2.183013144590496,True
+3392,Singapore,2019,SDG 4.4 Digital literacy data,38.8,2.9514661274014156,True
+3399,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,35.5,2.7846309403437814,True
+3413,Cuba,2019,SDG 4.4 Digital literacy data,13.8,1.6875631951466128,True
+3422,Belgium,2019,SDG 4.4 Digital literacy data,57.1,3.8766430738119313,True
+3442,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,1.5,1.0657229524772498,True
+3453,Russian Federation,2019,SDG 4.4 Digital literacy data,16.4,1.8190091001011122,True
+3460,Egypt,2019,SDG 4.4 Digital literacy data,61.3,4.088978766430738,True
+3472,Romania,2019,SDG 4.4 Digital literacy data,68.5,4.452982810920122,True
+3477,Malaysia,2019,SDG 4.4 Digital literacy data,24.9,2.248736097067745,True
+3481,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,46.02169,3.316566734074823,True
+3483,Belarus,2019,SDG 4.4 Digital literacy data,19.6,1.9807886754297273,True
+3490,Oman,2019,SDG 4.4 Digital literacy data,96.07562,5.847099089989889,True
+3495,Qatar,2019,SDG 4.4 Digital literacy data,32.17251,2.6164059656218406,True
+3523,Switzerland,2019,SDG 4.4 Digital literacy data,63.2,4.1850353892821035,True
+3526,Bangladesh,2019,SDG 4.4 Digital literacy data,0.9,1.0353892821031345,True
+3534,Tunisia,2019,SDG 4.4 Digital literacy data,17.2,1.8594539939332662,True
+3539,Croatia,2019,SDG 4.4 Digital literacy data,41.4,3.082912032355915,True
+3544,Spain,2019,SDG 4.4 Digital literacy data,50.42612,3.5392376137512636,True
+3549,Republic of Korea,2019,SDG 4.4 Digital literacy data,55.7,3.8058645096056627,True
+3554,Romania,2019,SDG 4.4 Digital literacy data,13.9,1.692618806875632,True
+3558,Slovakia,2019,SDG 4.4 Digital literacy data,30.83073,2.5485707785642067,True
+3560,Pakistan,2019,SDG 4.4 Digital literacy data,1.5,1.0657229524772498,True
+3565,France,2019,SDG 4.4 Digital literacy data,32.5,2.6329625884732053,True
+3572,Turkey,2019,SDG 4.4 Digital literacy data,34.56253,2.737236097067745,True
+3579,Russian Federation,2019,SDG 4.4 Digital literacy data,39.0,2.961577350859454,True
+3583,Oman,2019,SDG 4.4 Digital literacy data,22.79648,2.14239029322548,True
+3601,Germany,2019,SDG 4.4 Digital literacy data,68.99603,4.478060161779576,True
+3614,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,11.0905,1.5505813953488374,True
+3620,Turkey,2019,SDG 4.4 Digital literacy data,29.38645,2.4755535894843277,True
+3629,Hungary,2019,SDG 4.4 Digital literacy data,27.3,2.370070778564206,True
+3637,Peru,2019,SDG 4.4 Digital literacy data,15.5,1.7735085945399394,True
+3646,Qatar,2019,SDG 4.4 Digital literacy data,55.77788,3.809801820020223,True
+3653,Latvia,2019,SDG 4.4 Digital literacy data,48.21423,3.427413043478261,True
+3657,Czechia,2019,SDG 4.4 Digital literacy data,18.0,1.8998988877654197,True
+3660,Belarus,2019,SDG 4.4 Digital literacy data,44.1,3.2194135490394338,True
+3667,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,4.5,1.2173913043478262,True
+3727,Cyprus,2019,SDG 4.4 Digital literacy data,47.9,3.411526794742164,True
+3728,Oman,2019,SDG 4.4 Digital literacy data,42.7892,3.15314459049545,True
+3750,United Arab Emirates,2019,SDG 4.4 Digital literacy data,99.1,6.0,True
+3755,Austria,2019,SDG 4.4 Digital literacy data,67.0,4.377148634984834,True
+3756,Pakistan,2019,SDG 4.4 Digital literacy data,1.6,1.070778564206269,True
+3761,Denmark,2019,SDG 4.4 Digital literacy data,48.8,3.4570273003033365,True
+3771,Lithuania,2019,SDG 4.4 Digital literacy data,32.0,2.6076845298281093,True
+3783,Greece,2019,SDG 4.4 Digital literacy data,60.8,4.063700707785642,True
+3786,Republic of Korea,2019,SDG 4.4 Digital literacy data,85.0,5.287158746208291,True
+3796,Latvia,2019,SDG 4.4 Digital literacy data,23.65458,2.185772497472194,True
+3818,Kiribati,2019,SDG 4.4 Digital literacy data,11.4,1.566228513650152,True
+3829,Serbia,2019,SDG 4.4 Digital literacy data,58.1,3.927199191102124,True
+3849,Sweden,2019,SDG 4.4 Digital literacy data,43.5,3.1890798786653187,True
+3855,Cambodia,2019,SDG 4.4 Digital literacy data,29.3,2.4711830131445907,True
+3867,Morocco,2019,SDG 4.4 Digital literacy data,18.5,1.9251769464105157,True
+3875,Egypt,2019,SDG 4.4 Digital literacy data,19.8,1.9908998988877655,True
+3877,Mongolia,2019,SDG 4.4 Digital literacy data,14.1,1.7027300303336705,True
+3888,Côte d'Ivoire,2019,SDG 4.4 Digital literacy data,18.7,1.9352881698685542,True
+3894,Singapore,2019,SDG 4.4 Digital literacy data,55.9,3.8159757330637007,True
+3913,Kuwait,2019,SDG 4.4 Digital literacy data,21.1,2.0566228513650153,True
+3919,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,43.36247,3.1821268958543985,True
+3938,Palestine,2019,SDG 4.4 Digital literacy data,6.0,1.2932254802831142,True
+3949,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,46.3,3.3306370070778564,True
+3954,Bulgaria,2019,SDG 4.4 Digital literacy data,44.1,3.2194135490394338,True
+3973,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,36.5,2.835187057633974,True
+3976,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,37.5,2.885743174924166,True
+3981,Kazakhstan,2019,SDG 4.4 Digital literacy data,14.7,1.7330637007077856,True
+3989,Slovenia,2019,SDG 4.4 Digital literacy data,59.5,3.9979777553083924,True
+4008,Bangladesh,2019,SDG 4.4 Digital literacy data,0.4,1.0101112234580385,True
+4009,Cuba,2019,SDG 4.4 Digital literacy data,10.1,1.500505561172902,True
+4037,Qatar,2019,SDG 4.4 Digital literacy data,55.31678,3.7864903943377146,True
+4046,Spain,2019,SDG 4.4 Digital literacy data,48.93561,3.4638832153690595,True
+4051,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,9.24555,1.4573078867542972,True
+4060,Bangladesh,2019,SDG 4.4 Digital literacy data,0.9,1.0353892821031345,True
+4071,Turkey,2019,SDG 4.4 Digital literacy data,50.20657,3.5281380182002025,True
+4082,Norway,2019,SDG 4.4 Digital literacy data,49.0,3.4671385237613754,True
+4098,Montenegro,2019,SDG 4.4 Digital literacy data,72.8,4.670374115267948,True
+4105,Oman,2019,SDG 4.4 Digital literacy data,41.91565,3.1089812942366026,True
+4120,United Kingdom of Great Britain and Northern Ireland,2019,SDG 4.4 Digital literacy data,58.3,3.937310414560162,True
+4128,Serbia,2019,SDG 4.4 Digital literacy data,26.8,2.34479271991911,True
+4133,Greece,2019,SDG 4.4 Digital literacy data,29.8,2.4964610717896867,True
+4140,Kazakhstan,2019,SDG 4.4 Digital literacy data,24.7,2.238624873609707,True
+4151,Republic of Korea,2019,SDG 4.4 Digital literacy data,39.3,2.9767441860465116,True
+4158,Lithuania,2019,SDG 4.4 Digital literacy data,58.5,3.9474216380182003,True
+4159,Cuba,2019,SDG 4.4 Digital literacy data,11.3,1.5611729019211324,True
+4176,Mexico,2019,SDG 4.4 Digital literacy data,22.5,2.127401415571284,True
+4196,Slovakia,2019,SDG 4.4 Digital literacy data,30.84066,2.549072800808898,True
+4203,Kuwait,2019,SDG 4.4 Digital literacy data,71.7,4.614762386248737,True
+4208,Germany,2019,SDG 4.4 Digital literacy data,64.07118,4.229078867542972,True
+4219,Netherlands,2019,SDG 4.4 Digital literacy data,44.3,3.2295247724974723,True
+4221,Kiribati,2019,SDG 4.4 Digital literacy data,10.4,1.5156723963599597,True
+4239,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,46.1,3.3205257836198183,True
+4241,Philippines,2019,SDG 4.4 Digital literacy data,2.3,1.1061678463094033,True
+4245,Kiribati,2019,SDG 4.4 Digital literacy data,13.4,1.667340748230536,True
+4247,Cuba,2019,SDG 4.4 Digital literacy data,20.6,2.0313447927199193,True
+4249,Cambodia,2019,SDG 4.4 Digital literacy data,3.3,1.1567239635995956,True
+4253,Brunei Darussalam,2019,SDG 4.4 Digital literacy data,59.5,3.9979777553083924,True
+4258,Cuba,2019,SDG 4.4 Digital literacy data,24.4,2.223458038422649,True
+4263,Oman,2019,SDG 4.4 Digital literacy data,90.91205,5.586049039433771,True
+4275,Turkey,2019,SDG 4.4 Digital literacy data,34.1557,2.7166683518705765,True
+4283,Spain,2019,SDG 4.4 Digital literacy data,56.54462,3.8485652173913043,True
+4295,Malaysia,2019,SDG 4.4 Digital literacy data,50.6,3.5480283114256825,True
+4301,Norway,2019,SDG 4.4 Digital literacy data,68.0,4.427704752275026,True
+4306,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,28.1,2.41051567239636,True
+4310,Georgia,2019,SDG 4.4 Digital literacy data,11.6,1.57633973710819,True
+4311,Kiribati,2019,SDG 4.4 Digital literacy data,18.7,1.9352881698685542,True
+4327,Saudi Arabia,2019,SDG 4.4 Digital literacy data,55.6,3.800808897876643,True
+4335,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,13.21634,1.6580556117290195,True
+4341,Qatar,2019,SDG 4.4 Digital literacy data,40.2527,3.0249089989888773,True
+4369,Peru,2019,SDG 4.4 Digital literacy data,32.5,2.6329625884732053,True
+4388,Belgium,2019,SDG 4.4 Digital literacy data,34.2,2.7189079878665323,True
+4393,Portugal,2019,SDG 4.4 Digital literacy data,34.6,2.739130434782609,True
+4394,Bangladesh,2019,SDG 4.4 Digital literacy data,0.5,1.0151668351870575,True
+4409,Colombia,2019,SDG 4.4 Digital literacy data,26.4,2.3245702730030335,True
+4413,Georgia,2019,SDG 4.4 Digital literacy data,17.9,1.8948432760364005,True
+4414,Cuba,2019,SDG 4.4 Digital literacy data,12.1,1.6016177957532862,True
+4424,Slovakia,2019,SDG 4.4 Digital literacy data,62.953,4.172548028311426,True
+4436,Turkey,2019,SDG 4.4 Digital literacy data,24.65208,2.236202224469161,True
+4442,Slovakia,2019,SDG 4.4 Digital literacy data,57.61877,3.9028700707785644,True
+4448,Croatia,2019,SDG 4.4 Digital literacy data,56.5,3.8463094034378162,True
+4465,Qatar,2019,SDG 4.4 Digital literacy data,22.20231,2.112351365015167,True
+4471,Kiribati,2019,SDG 4.4 Digital literacy data,25.0,2.2537917087967645,True
+4475,Spain,2019,SDG 4.4 Digital literacy data,61.83851,4.116203741152679,True
+4497,Kuwait,2019,SDG 4.4 Digital literacy data,49.3,3.4823053589484325,True
+4502,Egypt,2019,SDG 4.4 Digital literacy data,52.0,3.6188068756319516,True
+4508,Cuba,2019,SDG 4.4 Digital literacy data,12.0,1.596562184024267,True
+4529,Colombia,2019,SDG 4.4 Digital literacy data,34.7,2.7441860465116283,True
+4535,Morocco,2019,SDG 4.4 Digital literacy data,34.3,2.723963599595551,True
+4552,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,31.2,2.5672396359959557,True
+4558,Latvia,2019,SDG 4.4 Digital literacy data,48.02202,3.4176956521739132,True
+4562,Georgia,2019,SDG 4.4 Digital literacy data,34.2,2.7189079878665323,True
+4579,Cyprus,2019,SDG 4.4 Digital literacy data,27.0,2.354903943377149,True
+4586,Bahrain,2019,SDG 4.4 Digital literacy data,42.0,3.1132457027300307,True
+4588,Thailand,2019,SDG 4.4 Digital literacy data,9.5,1.4701718907987866,True
+4595,Oman,2019,SDG 4.4 Digital literacy data,22.94775,2.1500379170879675,True
+4623,Bulgaria,2019,SDG 4.4 Digital literacy data,14.5,1.7229524772497473,True
+4627,Albania,2019,SDG 4.4 Digital literacy data,16.1,1.8038422649140549,True
+4633,Oman,2019,SDG 4.4 Digital literacy data,28.38238,2.4247917087967643,True
+4638,Sweden,2019,SDG 4.4 Digital literacy data,55.8,3.8109201213346817,True
+4655,Peru,2019,SDG 4.4 Digital literacy data,20.9,2.046511627906977,True
+4677,Morocco,2019,SDG 4.4 Digital literacy data,51.0,3.5682507583417595,True
+4682,Latvia,2019,SDG 4.4 Digital literacy data,25.31634,2.269784630940344,True
+4686,Palestine,2019,SDG 4.4 Digital literacy data,16.0,1.7987866531850356,True
+4690,Spain,2019,SDG 4.4 Digital literacy data,40.6,3.0424671385237616,True
+4700,Cuba,2019,SDG 4.4 Digital literacy data,11.0,1.546006066734075,True
+4712,Qatar,2019,SDG 4.4 Digital literacy data,55.54272,3.797913043478261,True
+4723,Mexico,2019,SDG 4.4 Digital literacy data,31.8,2.5975733063700712,True
+4728,Bahrain,2019,SDG 4.4 Digital literacy data,71.1,4.584428715874621,True
+4739,Qatar,2019,SDG 4.4 Digital literacy data,23.60485,2.1832583417593527,True
+4757,Thailand,2019,SDG 4.4 Digital literacy data,20.5,2.0262891809909,True
+4767,Singapore,2019,SDG 4.4 Digital literacy data,35.9,2.8048533872598584,True
+4769,Mongolia,2019,SDG 4.4 Digital literacy data,8.9,1.4398382204246716,True
+4774,Montenegro,2019,SDG 4.4 Digital literacy data,32.6,2.6380182002022243,True
+4781,Slovakia,2019,SDG 4.4 Digital literacy data,60.2596,4.036380182002023,True
+4802,Colombia,2019,SDG 4.4 Digital literacy data,23.7,2.188068756319515,True
+4809,Bangladesh,2019,SDG 4.4 Digital literacy data,0.4,1.0101112234580385,True
+4821,Saudi Arabia,2019,SDG 4.4 Digital literacy data,46.6,3.3458038422649143,True
+4829,Slovenia,2019,SDG 4.4 Digital literacy data,33.4,2.6784630940343783,True
+4837,Tunisia,2019,SDG 4.4 Digital literacy data,25.6,2.28412537917088,True
+4847,Malta,2019,SDG 4.4 Digital literacy data,52.6,3.649140546006067,True
+4852,Kazakhstan,2019,SDG 4.4 Digital literacy data,19.2,1.9605662285136503,True
+4862,Ecuador,2019,SDG 4.4 Digital literacy data,17.5,1.8746208291203237,True
+4864,Oman,2019,SDG 4.4 Digital literacy data,88.78077,5.478299797775532,True
+4871,Poland,2019,SDG 4.4 Digital literacy data,51.3,3.583417593528817,True
+4895,Germany,2019,SDG 4.4 Digital literacy data,36.98134,2.859521739130435,True
+4904,Albania,2019,SDG 4.4 Digital literacy data,9.0,1.4448938321536906,True
+4912,Malaysia,2019,SDG 4.4 Digital literacy data,58.0,3.9221435793731043,True
+4920,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,28.3,2.4206268958543986,True
+4925,Netherlands,2019,SDG 4.4 Digital literacy data,69.1,4.483316481294237,True
+4945,Latvia,2019,SDG 4.4 Digital literacy data,47.85118,3.409058645096057,True
+4952,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,57.2,3.8816986855409508,True
+4959,Kiribati,2019,SDG 4.4 Digital literacy data,14.3,1.7128412537917088,True
+4967,Mongolia,2019,SDG 4.4 Digital literacy data,9.7,1.4802831142568251,True
+4975,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,53.7,3.704752275025278,True
+4983,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,38.4,2.9312436804853386,True
+4986,Kiribati,2019,SDG 4.4 Digital literacy data,27.0,2.354903943377149,True
+4987,Ecuador,2019,SDG 4.4 Digital literacy data,15.3,1.763397371081901,True
+4996,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,39.4,2.9817997977755306,True
+4998,Mongolia,2019,SDG 4.4 Digital literacy data,2.8,1.1314459049544996,True
+4999,Kiribati,2019,SDG 4.4 Digital literacy data,14.4,1.717896865520728,True
+5002,Oman,2019,SDG 4.4 Digital literacy data,22.08929,2.106637512639029,True
+5007,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,36.5,2.835187057633974,True
+5009,Philippines,2019,SDG 4.4 Digital literacy data,2.0,1.0910010111223458,True
+5017,Palestine,2019,SDG 4.4 Digital literacy data,4.7,1.2275025278058644,True
+5018,Kiribati,2019,SDG 4.4 Digital literacy data,10.4,1.5156723963599597,True
+5020,Oman,2019,SDG 4.4 Digital literacy data,89.60344,5.519890798786654,True
+5024,Cuba,2019,SDG 4.4 Digital literacy data,30.3,2.5217391304347827,True
+5029,Albania,2019,SDG 4.4 Digital literacy data,6.8,1.333670374115268,True
+5030,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,30.09595,2.5114231547017187,True
+5031,Bangladesh,2019,SDG 4.4 Digital literacy data,0.9,1.0353892821031345,True
+5039,Bangladesh,2019,SDG 4.4 Digital literacy data,0.8,1.0303336703741153,True
+5049,Philippines,2019,SDG 4.4 Digital literacy data,5.7,1.2780586450960567,True
+5057,Belarus,2019,SDG 4.4 Digital literacy data,19.7,1.9858442871587463,True
+5065,Kiribati,2019,SDG 4.4 Digital literacy data,15.1,1.7532861476238626,True
+5069,Philippines,2019,SDG 4.4 Digital literacy data,3.0,1.1415571284125379,True
+5071,Albania,2019,SDG 4.4 Digital literacy data,20.0,2.001011122345804,True
+5072,Bangladesh,2019,SDG 4.4 Digital literacy data,0.2,1.0,True
+5074,Thailand,2019,SDG 4.4 Digital literacy data,0.9,1.0353892821031345,True
+5076,Palestine,2019,SDG 4.4 Digital literacy data,11.7,1.5813953488372094,True
+5078,Albania,2019,SDG 4.4 Digital literacy data,13.3,1.6622851365015168,True
+5081,Mongolia,2019,SDG 4.4 Digital literacy data,12.2,1.6066734074823055,True
+5083,Belarus,2019,SDG 4.4 Digital literacy data,37.3,2.8756319514661275,True
+5086,Oman,2019,SDG 4.4 Digital literacy data,6.09193,1.2978731041456015,True
+5089,Belarus,2019,SDG 4.4 Digital literacy data,41.9,3.108190091001011,True
+5092,Mongolia,2019,SDG 4.4 Digital literacy data,9.2,1.455005055611729,True
+5095,Bangladesh,2019,SDG 4.4 Digital literacy data,0.8,1.0303336703741153,True
+5103,Oman,2019,SDG 4.4 Digital literacy data,96.07562,5.847099089989889,True
+5105,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,45.0,3.264914054600607,True
+5108,Cuba,2019,SDG 4.4 Digital literacy data,9.0,1.4448938321536906,True
+5116,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,43.1,3.1688574317492417,True
+5121,Thailand,2019,SDG 4.4 Digital literacy data,16.3,1.8139534883720931,True
+5123,Mongolia,2019,SDG 4.4 Digital literacy data,11.5,1.571284125379171,True
+5128,Germany,2019,SDG 4.4 Digital literacy data,78.8,4.973710819009101,True
+5130,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,44.6,3.2446916076845302,True
+5133,Ecuador,2019,SDG 4.4 Digital literacy data,19.6,1.9807886754297273,True
+5137,Kiribati,2019,SDG 4.4 Digital literacy data,16.4,1.8190091001011122,True
+5148,Kiribati,2019,SDG 4.4 Digital literacy data,13.3,1.6622851365015168,True
+5153,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,45.9,3.3104145601617794,True
+5154,Cuba,2019,SDG 4.4 Digital literacy data,21.7,2.086956521739131,True
+5162,Kiribati,2019,SDG 4.4 Digital literacy data,21.0,2.051567239635996,True
+5168,Bangladesh,2019,SDG 4.4 Digital literacy data,0.6,1.0202224469160768,True
+5176,Kiribati,2019,SDG 4.4 Digital literacy data,13.8,1.6875631951466128,True
+5177,Oman,2019,SDG 4.4 Digital literacy data,28.74468,2.443108190091001,True
+5178,Kiribati,2019,SDG 4.4 Digital literacy data,21.2,2.061678463094035,True
+5180,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,34.66806,2.742571284125379,True
+5181,Philippines,2019,SDG 4.4 Digital literacy data,6.4,1.3134479271991912,True
+5182,Cuba,2019,SDG 4.4 Digital literacy data,17.6,1.8796764408493432,True
+5183,Kiribati,2019,SDG 4.4 Digital literacy data,4.0,1.1921132457027301,True
+5187,Oman,2019,SDG 4.4 Digital literacy data,27.5285,2.3816228513650155,True
+5201,Oman,2019,SDG 4.4 Digital literacy data,40.70638,3.0478452982810924,True
+5206,Albania,2019,SDG 4.4 Digital literacy data,13.9,1.692618806875632,True
+5209,Oman,2019,SDG 4.4 Digital literacy data,5.34434,1.260077856420627,True
+5211,Oman,2019,SDG 4.4 Digital literacy data,28.38235,2.424790192113246,True
+5212,Cuba,2019,SDG 4.4 Digital literacy data,5.1,1.2477249747219412,True
+5213,Ecuador,2019,SDG 4.4 Digital literacy data,21.0,2.051567239635996,True
+5215,"China, Hong Kong Special Administrative Region",2019,SDG 4.4 Digital literacy data,1.3,1.0556117290192113,True
+5225,Oman,2019,SDG 4.4 Digital literacy data,95.64547,5.825352376137513,True
+5229,Albania,2019,SDG 4.4 Digital literacy data,1.6,1.070778564206269,True
+5238,Bangladesh,2019,SDG 4.4 Digital literacy data,0.7,1.025278058645096,True
+5249,Ecuador,2019,SDG 4.4 Digital literacy data,26.3,2.319514661274014,True
+5252,Bangladesh,2019,SDG 4.4 Digital literacy data,0.2,1.0,True
+5254,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,38.8,2.9514661274014156,True
+5255,Ecuador,2019,SDG 4.4 Digital literacy data,4.7,1.2275025278058644,True
+5258,Cuba,2019,SDG 4.4 Digital literacy data,18.7,1.9352881698685542,True
+5260,Cuba,2019,SDG 4.4 Digital literacy data,15.4,1.7684529828109201,True
+5261,Slovakia,2019,SDG 4.4 Digital literacy data,71.84785,4.622237108190091,True
+5265,Belarus,2019,SDG 4.4 Digital literacy data,41.0,3.0626895854398386,True
+5267,Ecuador,2019,SDG 4.4 Digital literacy data,27.0,2.354903943377149,True
+5269,Kiribati,2019,SDG 4.4 Digital literacy data,3.4,1.1617795753286146,True
+5272,Oman,2019,SDG 4.4 Digital literacy data,7.90315,1.3894413549039433,True
+5275,Slovakia,2019,SDG 4.4 Digital literacy data,70.06118,4.531910010111224,True
+5277,Bangladesh,2019,SDG 4.4 Digital literacy data,0.9,1.0353892821031345,True
+5284,Bangladesh,2019,SDG 4.4 Digital literacy data,0.4,1.0101112234580385,True
+5289,Kuwait,2019,SDG 4.4 Digital literacy data,52.1,3.623862487360971,True
+5292,Palestine,2019,SDG 4.4 Digital literacy data,2.8,1.1314459049544996,True
+5293,Oman,2019,SDG 4.4 Digital literacy data,22.94775,2.1500379170879675,True
+5294,Cuba,2019,SDG 4.4 Digital literacy data,18.7,1.9352881698685542,True
+5300,Cuba,2019,SDG 4.4 Digital literacy data,8.9,1.4398382204246716,True
+5302,Belarus,2019,SDG 4.4 Digital literacy data,2.0,1.0910010111223458,True
+5309,Cuba,2019,SDG 4.4 Digital literacy data,5.1,1.2477249747219412,True
+5310,Bangladesh,2019,SDG 4.4 Digital literacy data,0.6,1.0202224469160768,True
+5311,Oman,2019,SDG 4.4 Digital literacy data,88.78077,5.478299797775532,True
+5317,Mongolia,2019,SDG 4.4 Digital literacy data,14.8,1.738119312436805,True
+5320,Bangladesh,2019,SDG 4.4 Digital literacy data,0.7,1.025278058645096,True
+5324,Belarus,2019,SDG 4.4 Digital literacy data,23.3,2.167846309403438,True
+5327,Kuwait,2019,SDG 4.4 Digital literacy data,38.4,2.9312436804853386,True
+5331,Oman,2019,SDG 4.4 Digital literacy data,22.79648,2.14239029322548,True
+5334,Cuba,2019,SDG 4.4 Digital literacy data,21.7,2.086956521739131,True
+5336,Oman,2019,SDG 4.4 Digital literacy data,41.91555,3.108976238624874,True
+5344,Oman,2019,SDG 4.4 Digital literacy data,42.7892,3.15314459049545,True
+5345,Greece,2019,SDG 4.4 Digital literacy data,58.9,3.9676440849342773,True
+5349,"China, Macao Special Administrative Region",2019,SDG 4.4 Digital literacy data,4.4,1.212335692618807,True
+5359,Kuwait,2019,SDG 4.4 Digital literacy data,66.0,4.326592517694641,True
+5370,Philippines,2019,SDG 4.4 Digital literacy data,6.9,1.3387259858442873,True
+5373,Kuwait,2019,SDG 4.4 Digital literacy data,13.4,1.667340748230536,True
+5374,Oman,2019,SDG 4.4 Digital literacy data,87.10957,5.393810414560162,True
+5375,Philippines,2019,SDG 4.4 Digital literacy data,0.7,1.025278058645096,True
+5381,Slovenia,2019,SDG 4.4 Digital literacy data,71.8,4.619817997977756,True
+5394,Bangladesh,2019,SDG 4.4 Digital literacy data,0.4,1.0101112234580385,True
+5396,Cuba,2019,SDG 4.4 Digital literacy data,26.6,2.334681496461072,True
+5397,Oman,2019,SDG 4.4 Digital literacy data,90.91205,5.586049039433771,True
+5398,Bosnia and Herzegovina,2019,SDG 4.4 Digital literacy data,26.12795,2.3108164812942364,True

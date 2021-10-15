@@ -1,0 +1,218 @@
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+0,Aruba,2021,"E-waste generated, kilograms per inhabitant",,,True
+1,Afghanistan,2021,"E-waste generated, kilograms per inhabitant",0.5771001134809663,1.0408832718036145,True
+2,Angola,2021,"E-waste generated, kilograms per inhabitant",3.665900944965662,1.26100618164569,True
+3,Albania,2021,"E-waste generated, kilograms per inhabitant",7.007239529519923,1.4991261551002908,True
+4,Andorra,2021,"E-waste generated, kilograms per inhabitant",,,True
+5,United Arab Emirates,2021,"E-waste generated, kilograms per inhabitant",13.71471288811486,1.977133198588563,True
+6,Argentina,2021,"E-waste generated, kilograms per inhabitant",6.786638237701992,1.4834050384213167,True
+7,Armenia,2021,"E-waste generated, kilograms per inhabitant",4.817254027568457,1.3430571796300272,True
+8,American Samoa,2021,"E-waste generated, kilograms per inhabitant",,,True
+9,Antigua and Barbuda,2021,"E-waste generated, kilograms per inhabitant",11.366337042892424,1.809776559991463,True
+10,Australia,2021,"E-waste generated, kilograms per inhabitant",24.12845620168161,2.719266992766845,True
+11,Austria,2021,"E-waste generated, kilograms per inhabitant",18.71947119470879,2.333796519277394,True
+12,Azerbaijan,2021,"E-waste generated, kilograms per inhabitant",6.528943271877323,1.4650404468455902,True
+13,Burundi,2021,"E-waste generated, kilograms per inhabitant",0.7416671104308211,1.052611113192197,True
+14,Belgium,2021,"E-waste generated, kilograms per inhabitant",52.55765493982744,4.745269409928627,True
+15,Benin,2021,"E-waste generated, kilograms per inhabitant",1.4850329505268516,1.105586963927281,True
+16,Burkina Faso,2021,"E-waste generated, kilograms per inhabitant",0.6073782990580556,1.0430410419796745,True
+17,Bangladesh,2021,"E-waste generated, kilograms per inhabitant",0.9118518236163149,1.0647393002527472,True
+18,Bulgaria,2021,"E-waste generated, kilograms per inhabitant",7.656187433603552,1.5453733263412224,True
+19,Bahrain,2021,"E-waste generated, kilograms per inhabitant",14.033403710852943,1.999844650400544,True
+20,"Bahamas, The",2021,"E-waste generated, kilograms per inhabitant",12.666801089861906,1.9024539276112864,True
+21,Bosnia and Herzegovina,2021,"E-waste generated, kilograms per inhabitant",0.39847724564835413,1.0281537409672894,True
+22,Belarus,2021,"E-waste generated, kilograms per inhabitant",7.587240621749078,1.540459842540311,True
+23,Belize,2021,"E-waste generated, kilograms per inhabitant",6.401549731691568,1.4559617660595283,True
+24,Bermuda,2021,"E-waste generated, kilograms per inhabitant",,,True
+25,Bolivia,2021,"E-waste generated, kilograms per inhabitant",3.3000441503985423,1.2349334542024968,True
+26,Brazil,2021,"E-waste generated, kilograms per inhabitant",6.771868410630062,1.482352468997028,True
+27,Barbados,2021,"E-waste generated, kilograms per inhabitant",13.5423608611516,1.9648505582494329,True
+28,Brunei Darussalam,2021,"E-waste generated, kilograms per inhabitant",18.19487896861029,2.2964115360462705,True
+29,Bhutan,2021,"E-waste generated, kilograms per inhabitant",2.1216726495651845,1.1509569928539893,True
+30,Botswana,2021,"E-waste generated, kilograms per inhabitant",7.940974734796259,1.5656686489744005,True
+31,Central African Republic,2021,"E-waste generated, kilograms per inhabitant",0.5979547290689269,1.042369472733136,True
+32,Canada,2021,"E-waste generated, kilograms per inhabitant",20.368796758908058,2.451335448549812,True
+33,Switzerland,2021,"E-waste generated, kilograms per inhabitant",21.458146352021824,2.5289677775194406,True
+34,Channel Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+35,Chile,2021,"E-waste generated, kilograms per inhabitant",10.457863071158272,1.7450343039885772,True
+36,China,2021,"E-waste generated, kilograms per inhabitant",5.150530161618908,1.3668080513794498,True
+37,Côte d’Ivoire,2021,"E-waste generated, kilograms per inhabitant",1.078360961921506,1.0766055480423198,True
+38,Cameroon,2021,"E-waste generated, kilograms per inhabitant",0.877366511455913,1.0622817098564408,True
+39,"Congo, Dem. Rep.",2021,"E-waste generated, kilograms per inhabitant",,,True
+40,"Congo, Rep.",2021,"E-waste generated, kilograms per inhabitant",,,True
+41,Colombia,2021,"E-waste generated, kilograms per inhabitant",5.434566185431018,1.387049834347192,True
+42,Comoros,2021,"E-waste generated, kilograms per inhabitant",0.7717796209018503,1.0547570765576453,True
+43,Cabo Verde,2021,"E-waste generated, kilograms per inhabitant",4.669451475643947,1.3325240538033065,True
+44,Costa Rica,2021,"E-waste generated, kilograms per inhabitant",7.5248419625544525,1.5360130118181234,True
+45,Cuba,2021,"E-waste generated, kilograms per inhabitant",,,True
+46,Curacao,2021,"E-waste generated, kilograms per inhabitant",,,True
+47,Cayman Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+48,Cyprus,2021,"E-waste generated, kilograms per inhabitant",15.1321360782596,2.0781456413177772,True
+49,Czech Republic,2021,"E-waste generated, kilograms per inhabitant",7.458591419878462,1.5312916772199825,True
+50,Germany,2021,"E-waste generated, kilograms per inhabitant",29.65237547634628,3.1129282389299537,True
+51,Djibouti,2021,"E-waste generated, kilograms per inhabitant",1.2060770200785023,1.0857072130213352,True
+52,Dominica,2021,"E-waste generated, kilograms per inhabitant",,,True
+53,Denmark,2021,"E-waste generated, kilograms per inhabitant",28.978682500614845,3.0649176140147536,True
+54,Dominican Republic,2021,"E-waste generated, kilograms per inhabitant",5.413931127577483,1.3855792801653943,True
+55,Algeria,2021,"E-waste generated, kilograms per inhabitant",6.205971464549176,1.442023911334023,True
+56,Ecuador,2021,"E-waste generated, kilograms per inhabitant",4.521700694632332,1.3219946174226247,True
+57,"Egypt, Arab Rep.",2021,"E-waste generated, kilograms per inhabitant",5.6597377507559905,1.4030966508553329,True
+58,Eritrea,2021,"E-waste generated, kilograms per inhabitant",0.8492208398794107,1.0602759129582637,True
+59,Spain,2021,"E-waste generated, kilograms per inhabitant",25.54543874920927,2.8202480331686304,True
+60,Estonia,2021,"E-waste generated, kilograms per inhabitant",25.864811283064096,2.843008067017096,True
+61,Ethiopia,2021,"E-waste generated, kilograms per inhabitant",0.49062293412700236,1.0347204890950965,True
+62,Finland,2021,"E-waste generated, kilograms per inhabitant",38.57642880459336,3.7488995084842234,True
+63,Fiji,2021,"E-waste generated, kilograms per inhabitant",5.305125443150968,1.3778252600229526,True
+64,France,2021,"E-waste generated, kilograms per inhabitant",33.08508358976084,3.3575596476181313,True
+65,Faeroe Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+66,"Micronesia, Fed. Sts.",2021,"E-waste generated, kilograms per inhabitant",1.9059054480307231,1.1355803768656356,True
+67,Gabon,2021,"E-waste generated, kilograms per inhabitant",12.88971833203362,1.9183400901312644,True
+68,United Kingdom,2021,"E-waste generated, kilograms per inhabitant",53.92879097947492,4.842983206091867,True
+69,Georgia,2021,"E-waste generated, kilograms per inhabitant",5.649565521508703,1.402371728523446,True
+70,Ghana,2021,"E-waste generated, kilograms per inhabitant",1.8104161877574272,1.1287753496150046,True
+71,Gibraltar,2021,"E-waste generated, kilograms per inhabitant",5.991137019302263,1.4267137680771242,True
+72,Guinea,2021,"E-waste generated, kilograms per inhabitant",0.9837010571835262,1.0698596246846517,True
+73,"Gambia, The",2021,"E-waste generated, kilograms per inhabitant",1.6776617056176502,1.119314622136134,True
+74,Guinea-Bissau,2021,"E-waste generated, kilograms per inhabitant",0.5648039057319689,1.040006984474842,True
+75,Equatorial Guinea,2021,"E-waste generated, kilograms per inhabitant",,,True
+76,Greece,2021,"E-waste generated, kilograms per inhabitant",17.586257673108367,2.253038234280698,True
+77,Grenada,2021,"E-waste generated, kilograms per inhabitant",7.584304282287805,1.5402505847662549,True
+78,Greenland,2021,"E-waste generated, kilograms per inhabitant",,,True
+79,Guatemala,2021,"E-waste generated, kilograms per inhabitant",3.384109538334239,1.2409243609714884,True
+80,Guam,2021,"E-waste generated, kilograms per inhabitant",,,True
+81,Guyana,2021,"E-waste generated, kilograms per inhabitant",6.697421224931553,1.477047001911398,True
+82,"Hong Kong SAR, China",2021,"E-waste generated, kilograms per inhabitant",9.58155960414471,1.68258467399058,True
+83,Honduras,2021,"E-waste generated, kilograms per inhabitant",0.1865494141415649,1.0130507370855621,True
+84,Croatia,2021,"E-waste generated, kilograms per inhabitant",14.278549477566072,2.0173149252574767,True
+85,Haiti,2021,"E-waste generated, kilograms per inhabitant",0.5531313039683299,1.039175138329422,True
+86,Hungary,2021,"E-waste generated, kilograms per inhabitant",5.124489390886278,1.364952259911846,True
+87,Indonesia,2021,"E-waste generated, kilograms per inhabitant",4.879067748482878,1.3474623248168434,True
+88,Isle of Man,2021,"E-waste generated, kilograms per inhabitant",,,True
+89,India,2021,"E-waste generated, kilograms per inhabitant",1.2568225651851468,1.0893235863842716,True
+90,Ireland,2021,"E-waste generated, kilograms per inhabitant",43.73539749627926,4.116552608231743,True
+91,"Iran, Islamic Rep.",2021,"E-waste generated, kilograms per inhabitant",7.847785449617815,1.559027529090435,True
+92,Iraq,2021,"E-waste generated, kilograms per inhabitant",6.119231198620609,1.43584237980177,True
+93,Iceland,2021,"E-waste generated, kilograms per inhabitant",22.1316249271986,2.576963123212529,True
+94,Israel,2021,"E-waste generated, kilograms per inhabitant",14.319638190475054,2.020243105978939,True
+95,Italy,2021,"E-waste generated, kilograms per inhabitant",46.436930709246546,4.309076951598851,True
+96,Jamaica,2021,"E-waste generated, kilograms per inhabitant",5.900001908824147,1.4202190386330185,True
+97,Jordan,2021,"E-waste generated, kilograms per inhabitant",5.1108556475668045,1.3639806533191088,True
+98,Japan,2021,"E-waste generated, kilograms per inhabitant",4.101649214239279,1.2920597141407104,True
+99,Kazakhstan,2021,"E-waste generated, kilograms per inhabitant",8.754468947958197,1.6236421872859728,True
+100,Kenya,2021,"E-waste generated, kilograms per inhabitant",0.4195873330767926,1.0296581480577054,True
+101,Kyrgyz Republic,2021,"E-waste generated, kilograms per inhabitant",1.2086823683459518,1.085892882759551,True
+102,Cambodia,2021,"E-waste generated, kilograms per inhabitant",0.9167829562190299,1.0650907166491244,True
+103,Kiribati,2021,"E-waste generated, kilograms per inhabitant",0.8741640805979283,1.0620534891204705,True
+104,St. Kitts and Nevis,2021,"E-waste generated, kilograms per inhabitant",12.894193928676687,1.9186590428284758,True
+105,"Korea, Rep.",2021,"E-waste generated, kilograms per inhabitant",11.057396653980442,1.7877599713264178,True
+106,Kuwait,2021,"E-waste generated, kilograms per inhabitant",22.347613458333207,2.5923555122203408,True
+107,Lao PDR,2021,"E-waste generated, kilograms per inhabitant",1.1254557533073017,1.0799617510103383,True
+108,Lebanon,2021,"E-waste generated, kilograms per inhabitant",9.101813420320495,1.6483956369725292,True
+109,Liberia,2021,"E-waste generated, kilograms per inhabitant",,,True
+110,Libya,2021,"E-waste generated, kilograms per inhabitant",11.302169806705448,1.805203691905562,True
+111,St. Lucia,2021,"E-waste generated, kilograms per inhabitant",9.029039648770357,1.643209425485368,True
+112,Liechtenstein,2021,"E-waste generated, kilograms per inhabitant",8.017512655630044,1.5711231119735887,True
+113,Sri Lanka,2021,"E-waste generated, kilograms per inhabitant",0.003419327453662218,1.0,True
+114,Lesotho,2021,"E-waste generated, kilograms per inhabitant",0.9157220315598511,1.0650151100186414,True
+115,Lithuania,2021,"E-waste generated, kilograms per inhabitant",29.671915614939337,3.114320763861305,True
+116,Luxembourg,2021,"E-waste generated, kilograms per inhabitant",11.934259940377096,1.8502494967654988,True
+117,Latvia,2021,"E-waste generated, kilograms per inhabitant",13.107038988618191,1.9338274128516457,True
+118,"Macao SAR, China",2021,"E-waste generated, kilograms per inhabitant",17.968952916442735,2.280310951150886,True
+119,St. Martin (French part),2021,"E-waste generated, kilograms per inhabitant",,,True
+120,Morocco,2021,"E-waste generated, kilograms per inhabitant",0.882916526798702,1.0626772308348316,True
+121,Monaco,2021,"E-waste generated, kilograms per inhabitant",,,True
+122,Moldova,2021,"E-waste generated, kilograms per inhabitant",1.7725966684186298,1.1260801474637923,True
+123,Madagascar,2021,"E-waste generated, kilograms per inhabitant",0.5623720402761214,1.0398336779621562,True
+124,Maldives,2021,"E-waste generated, kilograms per inhabitant",7.34169511906013,1.5229610805613636,True
+125,Mexico,2021,"E-waste generated, kilograms per inhabitant",7.608966210693204,1.542008113250312,True
+126,Marshall Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+127,"Macedonia, FYR",2021,"E-waste generated, kilograms per inhabitant",0.5857055207066105,1.0414965348083303,True
+128,Mali,2021,"E-waste generated, kilograms per inhabitant",0.749687474034262,1.0531826831543598,True
+129,Malta,2021,"E-waste generated, kilograms per inhabitant",15.205320569060564,2.0833611226483346,True
+130,Myanmar,2021,"E-waste generated, kilograms per inhabitant",1.1931759706334661,1.0847878217433637,True
+131,Montenegro,2021,"E-waste generated, kilograms per inhabitant",9.964209203393617,1.7098541380421315,True
+132,Mongolia,2021,"E-waste generated, kilograms per inhabitant",4.624433259188254,1.3293158376240315,True
+133,Northern Mariana Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+134,Mozambique,2021,"E-waste generated, kilograms per inhabitant",0.6247156165895363,1.0442765832113994,True
+135,Mauritania,2021,"E-waste generated, kilograms per inhabitant",1.4545296906586112,1.1034131538669416,True
+136,Mauritius,2021,"E-waste generated, kilograms per inhabitant",8.706161508793619,1.6201995651630001,True
+137,Malawi,2021,"E-waste generated, kilograms per inhabitant",0.5730781056595565,1.040596644043083,True
+138,Malaysia,2021,"E-waste generated, kilograms per inhabitant",9.262930124160315,1.6598775937603798,True
+139,Namibia,2021,"E-waste generated, kilograms per inhabitant",8.974456772926372,1.639319585345513,True
+140,New Caledonia,2021,"E-waste generated, kilograms per inhabitant",,,True
+141,Niger,2021,"E-waste generated, kilograms per inhabitant",0.8934210846245059,1.0634258365110703,True
+142,Nigeria,2021,"E-waste generated, kilograms per inhabitant",1.7940161672332908,1.1276066047084232,True
+143,Nicaragua,2021,"E-waste generated, kilograms per inhabitant",1.8822797824154285,1.133896697487806,True
+144,Netherlands,2021,"E-waste generated, kilograms per inhabitant",30.83220589804908,3.197008670046838,True
+145,Norway,2021,"E-waste generated, kilograms per inhabitant",28.048413806102438,2.998622160489953,True
+146,Nepal,2021,"E-waste generated, kilograms per inhabitant",0.7935748864877383,1.0563103127626616,True
+147,Nauru,2021,"E-waste generated, kilograms per inhabitant",,,True
+148,New Zealand,2021,"E-waste generated, kilograms per inhabitant",20.244209090715366,2.4424567277940183,True
+149,Oman,2021,"E-waste generated, kilograms per inhabitant",14.895510518376389,2.0612825576726377,True
+150,Pakistan,2021,"E-waste generated, kilograms per inhabitant",1.557943016676222,1.110782888427814,True
+151,Panama,2021,"E-waste generated, kilograms per inhabitant",0.8061978475021345,1.0572098861119656,True
+152,Peru,2021,"E-waste generated, kilograms per inhabitant",5.876018464128877,1.418509862184817,True
+153,Philippines,2021,"E-waste generated, kilograms per inhabitant",2.806807697203599,1.1997830352403043,True
+154,Palau,2021,"E-waste generated, kilograms per inhabitant",9.301027763567875,1.6625926160949458,True
+155,Papua New Guinea,2021,"E-waste generated, kilograms per inhabitant",0.9025520949845824,1.064076556541242,True
+156,Poland,2021,"E-waste generated, kilograms per inhabitant",5.911162640668352,1.4210144064484087,True
+157,Puerto Rico,2021,"E-waste generated, kilograms per inhabitant",0.27249947526489404,1.0191759547955295,True
+158,Portugal,2021,"E-waste generated, kilograms per inhabitant",16.561602279856782,2.1800163273811526,True
+159,Paraguay,2021,"E-waste generated, kilograms per inhabitant",5.151285885973726,1.3668619079578104,True
+160,West Bank and Gaza,2021,"E-waste generated, kilograms per inhabitant",,,True
+161,French Polynesia,2021,"E-waste generated, kilograms per inhabitant",,,True
+162,Qatar,2021,"E-waste generated, kilograms per inhabitant",13.746890358594746,1.9794263210072023,True
+163,Romania,2021,"E-waste generated, kilograms per inhabitant",6.833244612261362,1.4867264344403233,True
+164,Russian Federation,2021,"E-waste generated, kilograms per inhabitant",9.720556351014876,1.6924902554925565,True
+165,Rwanda,2021,"E-waste generated, kilograms per inhabitant",0.4950699424745509,1.0350374044518837,True
+166,Saudi Arabia,2021,"E-waste generated, kilograms per inhabitant",16.097781218731328,2.146962191750174,True
+167,Sudan,2021,"E-waste generated, kilograms per inhabitant",1.3196092590409536,1.09379807033611,True
+168,Senegal,2021,"E-waste generated, kilograms per inhabitant",0.9732919602061146,1.0691178220108952,True
+169,Singapore,2021,"E-waste generated, kilograms per inhabitant",17.53278631040045,2.249227605951247,True
+170,Solomon Islands,2021,"E-waste generated, kilograms per inhabitant",0.7098327811425823,1.0503424446770988,True
+171,Sierra Leone,2021,"E-waste generated, kilograms per inhabitant",0.6250350433250393,1.04429934710792,True
+172,El Salvador,2021,"E-waste generated, kilograms per inhabitant",4.882696857846689,1.3477209527300302,True
+173,San Marino,2021,"E-waste generated, kilograms per inhabitant",,,True
+174,Somalia,2021,"E-waste generated, kilograms per inhabitant",,,True
+175,Serbia,2021,"E-waste generated, kilograms per inhabitant",2.0717137210717103,1.1473966776013902,True
+176,South Sudan,2021,"E-waste generated, kilograms per inhabitant",,,True
+177,São Tomé and Príncipe,2021,"E-waste generated, kilograms per inhabitant",1.045664153587151,1.0742754150924245,True
+178,Suriname,2021,"E-waste generated, kilograms per inhabitant",9.503842403483729,1.6770461697983068,True
+179,Slovak Republic,2021,"E-waste generated, kilograms per inhabitant",5.6675075672804525,1.403650365618962,True
+180,Slovenia,2021,"E-waste generated, kilograms per inhabitant",12.62436863788623,1.8994299855346681,True
+181,Sweden,2021,"E-waste generated, kilograms per inhabitant",70.16424069994778,6.0,True
+182,Eswatini,2021,"E-waste generated, kilograms per inhabitant",4.243919654410922,1.3021985948855859,True
+183,Sint Maarten (Dutch part),2021,"E-waste generated, kilograms per inhabitant",,,True
+184,Seychelles,2021,"E-waste generated, kilograms per inhabitant",12.457107912528453,1.887510176010934,True
+185,Syrian Arab Republic,2021,"E-waste generated, kilograms per inhabitant",,,True
+186,Turks and Caicos Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+187,Chad,2021,"E-waste generated, kilograms per inhabitant",0.7402919543219675,1.0525131129064282,True
+188,Togo,2021,"E-waste generated, kilograms per inhabitant",0.8853334144888964,1.0628494699593825,True
+189,Thailand,2021,"E-waste generated, kilograms per inhabitant",5.596365151126751,1.3985804124198686,True
+190,Tajikistan,2021,"E-waste generated, kilograms per inhabitant",,,True
+191,Turkmenistan,2021,"E-waste generated, kilograms per inhabitant",4.099676554154771,1.2919191328272424,True
+192,Timor-Leste,2021,"E-waste generated, kilograms per inhabitant",2.8376151106157548,1.201978520755546,True
+193,Tonga,2021,"E-waste generated, kilograms per inhabitant",2.8584768129889184,1.2034652267237107,True
+194,Trinidad and Tobago,2021,"E-waste generated, kilograms per inhabitant",0.0535125367065733,1.0035698847499916,True
+195,Tunisia,2021,"E-waste generated, kilograms per inhabitant",8.076161432775647,1.5753027079360011,True
+196,Turkey,2021,"E-waste generated, kilograms per inhabitant",7.467372257832278,1.5319174422681991,True
+197,Tuvalu,2021,"E-waste generated, kilograms per inhabitant",0.901144453455889,1.0639762411870917,True
+198,,2021,"E-waste generated, kilograms per inhabitant",0.5989587778441581,1.0424410261126142,True
+199,Tanzania,2021,"E-waste generated, kilograms per inhabitant",0.7741988691969822,1.0549294839103391,True
+200,Uganda,2021,"E-waste generated, kilograms per inhabitant",0.7123796306385702,1.0505239455094841,True
+201,Ukraine,2021,"E-waste generated, kilograms per inhabitant",6.1549203677736015,1.4383857628790229,True
+202,Uruguay,2021,"E-waste generated, kilograms per inhabitant",10.782293259726211,1.768154770811898,True
+203,United States,2021,"E-waste generated, kilograms per inhabitant",7.468911695816155,1.5320271500761868,True
+204,Uzbekistan,2021,"E-waste generated, kilograms per inhabitant",,,True
+205,St. Vincent and the Grenadines,2021,"E-waste generated, kilograms per inhabitant",8.222557215293957,1.5857355805602449,True
+206,"Venezuela, RB",2021,"E-waste generated, kilograms per inhabitant",7.784410304993664,1.5545111092863049,True
+207,British Virgin Islands,2021,"E-waste generated, kilograms per inhabitant",,,True
+208,Virgin Islands (U.S.),2021,"E-waste generated, kilograms per inhabitant",,,True
+209,Vietnam,2021,"E-waste generated, kilograms per inhabitant",1.6219481377826768,1.1153442034077685,True
+210,Vanuatu,2021,"E-waste generated, kilograms per inhabitant",1.1094592495617637,1.0788217626640924,True
+211,Samoa,2021,"E-waste generated, kilograms per inhabitant",2.6643220632510056,1.1896288187441693,True
+212,Kosovo,2021,"E-waste generated, kilograms per inhabitant",0.012765012765012766,1.0006660188071155,True
+213,"Yemen, Rep.",2021,"E-waste generated, kilograms per inhabitant",1.5226101075499274,1.1082648941658377,True
+214,South Africa,2021,"E-waste generated, kilograms per inhabitant",6.205375424826574,1.441981434656089,True
+215,Zambia,2021,"E-waste generated, kilograms per inhabitant",1.0515426972602966,1.0746943485910743,True
+216,Zimbabwe,2021,"E-waste generated, kilograms per inhabitant",1.039956321834483,1.0738686473521806,True
