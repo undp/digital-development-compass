@@ -41,7 +41,7 @@ b2c_ecommerse_idx,csv,https://raw.githubusercontent.com/mbelinsky/public_develop
 pop_dens_map,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv,,,,
 countries_gci,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx,1,2,,
 encrytion_data,xlsx,https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls,1,2,,
-rli,xlsx,https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,8,1,,
+rli,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx,8,1,,
 sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv,,,,
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,,,,
 google_trends,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx,2,3,,
