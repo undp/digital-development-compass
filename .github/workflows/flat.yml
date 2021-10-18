@@ -438,7 +438,7 @@ jobs:
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel
-           downloaded_filename: data/population_density.xls
+           downloaded_filename: data/population_density.xlsx
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
