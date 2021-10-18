@@ -1,0 +1,95 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
+Taiwan,2016,Open data index,90,6.0,True
+Australia,2016,Open data index,79,5.382022471910112,True
+Great Britain,2016,Open data index,79,5.382022471910112,True
+France,2016,Open data index,70,4.876404494382022,True
+Finland,2016,Open data index,69,4.820224719101123,True
+Canada,2016,Open data index,69,4.820224719101123,True
+Norway,2016,Open data index,69,4.820224719101123,True
+Brazil,2016,Open data index,68,4.764044943820225,True
+New Zealand,2016,Open data index,68,4.764044943820225,True
+Northern Ireland,2016,Open data index,67,4.7078651685393265,True
+United States,2016,Open data index,65,4.595505617977528,True
+Denmark,2016,Open data index,65,4.595505617977528,True
+Mexico,2016,Open data index,65,4.595505617977528,True
+Colombia,2016,Open data index,64,4.539325842696629,True
+Latvia,2016,Open data index,64,4.539325842696629,True
+Japan,2016,Open data index,61,4.370786516853933,True
+Argentina,2016,Open data index,60,4.314606741573034,True
+Singapore,2016,Open data index,60,4.314606741573034,True
+Uruguay,2016,Open data index,55,4.033707865168539,True
+Netherlands,2016,Open data index,54,3.9775280898876404,True
+Sweden,2016,Open data index,53,3.9213483146067416,True
+Belgium,2016,Open data index,52,3.865168539325843,True
+Chile,2016,Open data index,52,3.865168539325843,True
+Germany,2016,Open data index,51,3.808988764044944,True
+Hong Kong,2016,Open data index,51,3.808988764044944,True
+Romania,2016,Open data index,51,3.808988764044944,True
+Czech Republic,2016,Open data index,50,3.752808988764045,True
+Poland,2016,Open data index,49,3.696629213483146,True
+Austria,2016,Open data index,49,3.696629213483146,True
+Slovenia,2016,Open data index,49,3.696629213483146,True
+Ukraine,2016,Open data index,48,3.640449438202247,True
+India,2016,Open data index,47,3.5842696629213484,True
+Italy,2016,Open data index,47,3.5842696629213484,True
+Slovakia,2016,Open data index,47,3.5842696629213484,True
+Greece,2016,Open data index,46,3.5280898876404496,True
+Bulgaria,2016,Open data index,45,3.4719101123595504,True
+Paraguay,2016,Open data index,44,3.4157303370786516,True
+Puerto Rico,2016,Open data index,43,3.359550561797753,True
+Russia,2016,Open data index,43,3.359550561797753,True
+Isle of Man,2016,Open data index,43,3.359550561797753,True
+Serbia,2016,Open data index,41,3.247191011235955,True
+Israel,2016,Open data index,41,3.247191011235955,True
+South Africa,2016,Open data index,40,3.191011235955056,True
+Croatia,2016,Open data index,39,3.134831460674157,True
+Portugal,2016,Open data index,37,3.0224719101123596,True
+Turkey,2016,Open data index,37,3.0224719101123596,True
+Albania,2016,Open data index,36,2.966292134831461,True
+Switzerland,2016,Open data index,36,2.966292134831461,True
+El Salvador,2016,Open data index,35,2.9101123595505616,True
+Montenegro,2016,Open data index,35,2.9101123595505616,True
+Thailand,2016,Open data index,34,2.8539325842696632,True
+Macedonia,2016,Open data index,31,2.6853932584269664,True
+Bolivia,2016,Open data index,30,2.629213483146067,True
+Philippines,2016,Open data index,30,2.629213483146067,True
+Peru,2016,Open data index,29,2.573033707865169,True
+Guatemala,2016,Open data index,28,2.5168539325842696,True
+Dominican Republic,2016,Open data index,27,2.460674157303371,True
+Bosnia and Herzegovina,2016,Open data index,26,2.404494382022472,True
+Kosovo,2016,Open data index,26,2.404494382022472,True
+Jamaica,2016,Open data index,26,2.404494382022472,True
+Indonesia,2016,Open data index,25,2.3483146067415728,True
+Panama,2016,Open data index,25,2.3483146067415728,True
+Bangladesh,2016,Open data index,25,2.3483146067415728,True
+Costa Rica,2016,Open data index,23,2.235955056179775,True
+Bhutan,2016,Open data index,23,2.235955056179775,True
+Tunisia,2016,Open data index,22,2.1797752808988764,True
+Iran,2016,Open data index,21,2.1235955056179776,True
+Trinidad and Tobago,2016,Open data index,21,2.1235955056179776,True
+Nepal,2016,Open data index,20,2.0674157303370784,True
+Tanzania,2016,Open data index,20,2.0674157303370784,True
+Guyana,2016,Open data index,20,2.0674157303370784,True
+Pakistan,2016,Open data index,19,2.01123595505618,True
+Zambia,2016,Open data index,19,2.01123595505618,True
+Cambodia,2016,Open data index,17,1.898876404494382,True
+The Bahamas,2016,Open data index,17,1.898876404494382,True
+Lesotho,2016,Open data index,16,1.8426966292134832,True
+Ghana,2016,Open data index,16,1.8426966292134832,True
+Namibia,2016,Open data index,15,1.7865168539325844,True
+Saint Lucia,2016,Open data index,15,1.7865168539325844,True
+Kenya,2016,Open data index,15,1.7865168539325844,True
+Oman,2016,Open data index,14,1.7303370786516854,True
+Venezuela,2016,Open data index,14,1.7303370786516854,True
+Zimbabwe,2016,Open data index,13,1.6741573033707864,True
+Mozambique,2016,Open data index,12,1.6179775280898876,True
+Afghanistan,2016,Open data index,12,1.6179775280898876,True
+Cameroon,2016,Open data index,11,1.5617977528089888,True
+Malaysia,2016,Open data index,10,1.50561797752809,True
+Botswana,2016,Open data index,9,1.449438202247191,True
+Saint Vincent and the Grenadines,2016,Open data index,7,1.3370786516853932,True
+Antigua and Barbuda,2016,Open data index,5,1.2247191011235956,True
+Malawi,2016,Open data index,5,1.2247191011235956,True
+Barbados,2016,Open data index,4,1.1685393258426966,True
+Saint Kitts and Nevis,2016,Open data index,4,1.1685393258426966,True
+Myanmar,2016,Open data index,1,1.0,True

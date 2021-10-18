@@ -1,0 +1,199 @@
+Country Name,Indicator,data_col,new_rank_score,higher_is_better
+Afghanistan,% of population with ID,67,3.857142857142857,True
+Albania,% of population with ID,100,6.0,True
+Algeria,% of population with ID,89,5.285714285714286,True
+Andorra,% of population with ID,47,2.5584415584415585,True
+Angola,% of population with ID,44,2.3636363636363633,True
+Antigua and Barbuda,% of population with ID,75,4.376623376623376,True
+Argentina,% of population with ID,100,6.0,True
+Armenia,% of population with ID,100,6.0,True
+Australia,% of population with ID,88,5.220779220779221,True
+Austria,% of population with ID,88,5.220779220779221,True
+Azerbaijan,% of population with ID,79,4.636363636363637,True
+"Bahamas, The",% of population with ID,64,3.6623376623376624,True
+Bahrain,% of population with ID,96,5.740259740259741,True
+Bangladesh,% of population with ID,68,3.9220779220779223,True
+Barbados,% of population with ID,100,6.0,True
+Belarus,% of population with ID,100,6.0,True
+Belgium,% of population with ID,90,5.35064935064935,True
+Belize,% of population with ID,88,5.220779220779221,True
+Benin,% of population with ID,83,4.896103896103896,True
+Bhutan,% of population with ID,78,4.571428571428571,True
+Bolivia,% of population with ID,81,4.766233766233766,True
+Bosnia and Herzegovina,% of population with ID,100,6.0,True
+Botswana,% of population with ID,66,3.792207792207792,True
+Brazil,% of population with ID,93,5.545454545454546,True
+Brunei Darussalam,% of population with ID,100,6.0,True
+Bulgaria,% of population with ID,100,6.0,True
+Burkina Faso,% of population with ID,68,3.9220779220779223,True
+Burundi,% of population with ID,73,4.246753246753247,True
+Cabo Verde,% of population with ID,95,5.675324675324675,True
+Cambodia,% of population with ID,86,5.090909090909091,True
+Cameroon,% of population with ID,59,3.3376623376623376,True
+Canada,% of population with ID,89,5.285714285714286,True
+Central African Republic,% of population with ID,72,4.181818181818182,True
+Chad,% of population with ID,47,2.5584415584415585,True
+Chile,% of population with ID,98,5.87012987012987,True
+China,% of population with ID,98,5.87012987012987,True
+Colombia,% of population with ID,100,6.0,True
+Comoros,% of population with ID,76,4.441558441558442,True
+"Congo, Dem. Rep.",% of population with ID,60,3.4025974025974026,True
+"Congo, Rep.",% of population with ID,88,5.220779220779221,True
+Costa Rica,% of population with ID,93,5.545454545454546,True
+Côte d'Ivoire,% of population with ID,59,3.3376623376623376,True
+Croatia,% of population with ID,98,5.87012987012987,True
+Cuba,% of population with ID,95,5.675324675324675,True
+Cyprus,% of population with ID,67,3.857142857142857,True
+Czech Republic,% of population with ID,97,5.805194805194805,True
+Denmark,% of population with ID,92,5.48051948051948,True
+Djibouti,% of population with ID,54,3.012987012987013,True
+Dominica,% of population with ID,96,5.740259740259741,True
+Dominican Republic,% of population with ID,94,5.6103896103896105,True
+Ecuador,% of population with ID,100,6.0,True
+"Egypt, Arab Rep.",% of population with ID,98,5.87012987012987,True
+El Salvador,% of population with ID,100,6.0,True
+Equatorial Guinea,% of population with ID,47,2.5584415584415585,True
+Eritrea,% of population with ID,30,1.4545454545454546,True
+Estonia,% of population with ID,100,6.0,True
+Ethiopia,% of population with ID,35,1.7792207792207793,True
+Fiji,% of population with ID,97,5.805194805194805,True
+Finland,% of population with ID,100,6.0,True
+France,% of population with ID,95,5.675324675324675,True
+Gabon,% of population with ID,67,3.857142857142857,True
+"Gambia, The",% of population with ID,78,4.571428571428571,True
+Georgia,% of population with ID,100,6.0,True
+Germany,% of population with ID,91,5.415584415584416,True
+Ghana,% of population with ID,85,5.025974025974026,True
+Greece,% of population with ID,89,5.285714285714286,True
+Grenada,% of population with ID,85,5.025974025974026,True
+Guatemala,% of population with ID,83,4.896103896103896,True
+Guinea,% of population with ID,74,4.311688311688312,True
+Guinea-Bissau,% of population with ID,52,2.883116883116883,True
+Guyana,% of population with ID,96,5.740259740259741,True
+Haiti,% of population with ID,87,5.1558441558441555,True
+Honduras,% of population with ID,98,5.87012987012987,True
+"Hong Kong SAR, China",% of population with ID,64,3.6623376623376624,True
+Hungary,% of population with ID,100,6.0,True
+Iceland,% of population with ID,97,5.805194805194805,True
+India,% of population with ID,88,5.220779220779221,True
+Indonesia,% of population with ID,92,5.48051948051948,True
+"Iran, Islamic Rep.",% of population with ID,96,5.740259740259741,True
+Iraq,% of population with ID,100,6.0,True
+Ireland,% of population with ID,94,5.6103896103896105,True
+Israel,% of population with ID,100,6.0,True
+Italy,% of population with ID,95,5.675324675324675,True
+Jamaica,% of population with ID,93,5.545454545454546,True
+Japan,% of population with ID,95,5.675324675324675,True
+Jordan,% of population with ID,83,4.896103896103896,True
+Kazakhstan,% of population with ID,85,5.025974025974026,True
+Kenya,% of population with ID,82,4.8311688311688314,True
+Kiribati,% of population with ID,72,4.181818181818182,True
+"Korea, Dem. People's Rep.",% of population with ID,92,5.48051948051948,True
+"Korea, Rep.",% of population with ID,100,6.0,True
+Kosovo,% of population with ID,98,5.87012987012987,True
+Kuwait,% of population with ID,97,5.805194805194805,True
+Kyrgyz Republic,% of population with ID,98,5.87012987012987,True
+Lao PDR,% of population with ID,83,4.896103896103896,True
+Latvia,% of population with ID,100,6.0,True
+Lebanon,% of population with ID,86,5.090909090909091,True
+Lesotho,% of population with ID,77,4.5064935064935066,True
+Liberia,% of population with ID,57,3.207792207792208,True
+Libya,% of population with ID,53,2.948051948051948,True
+Liechtenstein,% of population with ID,70,4.051948051948052,True
+Lithuania,% of population with ID,100,6.0,True
+Luxembourg,% of population with ID,62,3.5324675324675323,True
+"Macao SAR, China",% of population with ID,63,3.5974025974025974,True
+"Macedonia, FYR",% of population with ID,100,6.0,True
+Madagascar,% of population with ID,70,4.051948051948052,True
+Malawi,% of population with ID,79,4.636363636363637,True
+Malaysia,% of population with ID,99,5.935064935064935,True
+Maldives,% of population with ID,85,5.025974025974026,True
+Mali,% of population with ID,78,4.571428571428571,True
+Malta,% of population with ID,96,5.740259740259741,True
+Marshall Islands,% of population with ID,98,5.87012987012987,True
+Mauritania,% of population with ID,59,3.3376623376623376,True
+Mauritius,% of population with ID,96,5.740259740259741,True
+Mexico,% of population with ID,97,5.805194805194805,True
+"Micronesia, Fed. Sts.",% of population with ID,68,3.9220779220779223,True
+Moldova,% of population with ID,100,6.0,True
+Monaco,% of population with ID,35,1.7792207792207793,True
+Mongolia,% of population with ID,100,6.0,True
+Montenegro,% of population with ID,100,6.0,True
+Morocco,% of population with ID,74,4.311688311688312,True
+Mozambique,% of population with ID,61,3.4675324675324677,True
+Myanmar,% of population with ID,68,3.9220779220779223,True
+Namibia,% of population with ID,87,5.1558441558441555,True
+Nauru,% of population with ID,92,5.48051948051948,True
+Nepal,% of population with ID,74,4.311688311688312,True
+Netherlands,% of population with ID,95,5.675324675324675,True
+New Zealand,% of population with ID,93,5.545454545454546,True
+Nicaragua,% of population with ID,86,5.090909090909091,True
+Niger,% of population with ID,70,4.051948051948052,True
+Nigeria,% of population with ID,28,1.3246753246753247,True
+Norway,% of population with ID,92,5.48051948051948,True
+Oman,% of population with ID,57,3.207792207792208,True
+Pakistan,% of population with ID,62,3.5324675324675323,True
+Palau,% of population with ID,100,6.0,True
+Palestine,% of population with ID,87,5.1558441558441555,True
+Panama,% of population with ID,90,5.35064935064935,True
+Papua New Guinea,% of population with ID,79,4.636363636363637,True
+Paraguay,% of population with ID,80,4.701298701298701,True
+Peru,% of population with ID,100,6.0,True
+Philippines,% of population with ID,85,5.025974025974026,True
+Poland,% of population with ID,98,5.87012987012987,True
+Portugal,% of population with ID,100,6.0,True
+Qatar,% of population with ID,82,4.8311688311688314,True
+Romania,% of population with ID,100,6.0,True
+Russian Federation,% of population with ID,100,6.0,True
+Rwanda,% of population with ID,80,4.701298701298701,True
+Samoa,% of population with ID,79,4.636363636363637,True
+San Marino,% of population with ID,100,6.0,True
+São Tomé and Principe,% of population with ID,98,5.87012987012987,True
+Saudi Arabia,% of population with ID,40,2.103896103896104,True
+Senegal,% of population with ID,72,4.181818181818182,True
+Serbia,% of population with ID,97,5.805194805194805,True
+Seychelles,% of population with ID,100,6.0,True
+Sierra Leone,% of population with ID,79,4.636363636363637,True
+Singapore,% of population with ID,63,3.5974025974025974,True
+Slovak Republic,% of population with ID,100,6.0,True
+Slovenia,% of population with ID,100,6.0,True
+Solomon Islands,% of population with ID,91,5.415584415584416,True
+Somalia,% of population with ID,23,1.0,True
+South Africa,% of population with ID,73,4.246753246753247,True
+South Sudan,% of population with ID,47,2.5584415584415585,True
+Spain,% of population with ID,96,5.740259740259741,True
+Sri Lanka,% of population with ID,99,5.935064935064935,True
+St. Kitts and Nevis,% of population with ID,96,5.740259740259741,True
+St. Lucia,% of population with ID,98,5.87012987012987,True
+St. Vincent and the Grenadines,% of population with ID,100,6.0,True
+Sudan,% of population with ID,62,3.5324675324675323,True
+Suriname,% of population with ID,94,5.6103896103896105,True
+Swaziland,% of population with ID,53,2.948051948051948,True
+Sweden,% of population with ID,95,5.675324675324675,True
+Switzerland,% of population with ID,81,4.766233766233766,True
+Syrian Arab Republic,% of population with ID,90,5.35064935064935,True
+"Taiwan, China",% of population with ID,97,5.805194805194805,True
+Tajikistan,% of population with ID,84,4.961038961038961,True
+Tanzania,% of population with ID,53,2.948051948051948,True
+Thailand,% of population with ID,100,6.0,True
+Timor-Leste,% of population with ID,78,4.571428571428571,True
+Togo,% of population with ID,81,4.766233766233766,True
+Tonga,% of population with ID,97,5.805194805194805,True
+Trinidad and Tobago,% of population with ID,99,5.935064935064935,True
+Tunisia,% of population with ID,73,4.246753246753247,True
+Turkey,% of population with ID,98,5.87012987012987,True
+Turkmenistan,% of population with ID,92,5.48051948051948,True
+Tuvalu,% of population with ID,79,4.636363636363637,True
+Uganda,% of population with ID,51,2.8181818181818183,True
+Ukraine,% of population with ID,97,5.805194805194805,True
+United Arab Emirates,% of population with ID,82,4.8311688311688314,True
+United Kingdom,% of population with ID,89,5.285714285714286,True
+United States,% of population with ID,88,5.220779220779221,True
+Uruguay,% of population with ID,100,6.0,True
+Uzbekistan,% of population with ID,96,5.740259740259741,True
+Vanuatu,% of population with ID,77,4.5064935064935066,True
+"Venezuela, RB",% of population with ID,87,5.1558441558441555,True
+Vietnam,% of population with ID,96,5.740259740259741,True
+"Yemen, Rep.",% of population with ID,50,2.7532467532467533,True
+Zambia,% of population with ID,44,2.3636363636363633,True
+Zimbabwe,% of population with ID,58,3.272727272727273,True
