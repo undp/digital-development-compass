@@ -51,7 +51,7 @@ postal_coverage,csv,https://raw.githubusercontent.com/mbelinsky/public_developme
 schools_w_internet,xlsx,https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls,1,3,,
 dice_export_global_cybersecurity_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv,,,,
 ecosystem,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv,,,,
-population_density,xls,https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel,1,4,,
+population_density,xlsx,https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel,1,4,,
 sustainability_index,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx,3,1,,
 RD_Percentage_GDP,xlsx,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel,1,4,,
 ICT_Investment,csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.ICTINVST.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en,1,1,,
