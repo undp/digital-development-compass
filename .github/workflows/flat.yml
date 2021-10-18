@@ -109,7 +109,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: http://www3.weforum.org/docs/WEF_GCI_4.0_2019_Dataset.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/elect_supply_quality.xlsx
            downloaded_filename: data/elect_supply_quality.xlsx
            postprocess: ./process_raw_data.js
 
