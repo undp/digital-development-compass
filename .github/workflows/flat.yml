@@ -357,7 +357,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://worldjusticeproject.org/sites/default/files/documents/FINAL_2020_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx
            downloaded_filename: data/rli.xlsx
            postprocess: ./process_raw_data.js
 
