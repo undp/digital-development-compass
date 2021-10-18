@@ -1,0 +1,129 @@
+Country Name,Indicator,data_col,new_rank_score,higher_is_better
+Afghanistan,Rule of Law Index,0.36,1.714285714285714,True
+Albania,Rule of Law Index,0.5,2.825396825396825,True
+Algeria,Rule of Law Index,0.49,2.746031746031746,True
+Angola,Rule of Law Index,0.43,2.2698412698412698,True
+Antigua and Barbuda,Rule of Law Index,0.63,3.8571428571428568,True
+Argentina,Rule of Law Index,0.58,3.46031746031746,True
+Australia,Rule of Law Index,0.8,5.2063492063492065,True
+Austria,Rule of Law Index,0.82,5.365079365079365,True
+The Bahamas,Rule of Law Index,0.61,3.698412698412698,True
+Bangladesh,Rule of Law Index,0.41,2.1111111111111107,True
+Barbados,Rule of Law Index,0.65,4.015873015873016,True
+Belarus,Rule of Law Index,0.51,2.9047619047619047,True
+Belgium,Rule of Law Index,0.79,5.126984126984127,True
+Belize,Rule of Law Index,0.48,2.666666666666666,True
+Benin,Rule of Law Index,0.5,2.825396825396825,True
+Bolivia,Rule of Law Index,0.38,1.873015873015873,True
+Bosnia and Herzegovina,Rule of Law Index,0.52,2.984126984126984,True
+Botswana,Rule of Law Index,0.6,3.619047619047619,True
+Brazil,Rule of Law Index,0.52,2.984126984126984,True
+Bulgaria,Rule of Law Index,0.55,3.2222222222222223,True
+Burkina Faso,Rule of Law Index,0.51,2.9047619047619047,True
+Cambodia,Rule of Law Index,0.33,1.4761904761904763,True
+Cameroon,Rule of Law Index,0.36,1.714285714285714,True
+Canada,Rule of Law Index,0.81,5.285714285714286,True
+Chile,Rule of Law Index,0.67,4.174603174603174,True
+China,Rule of Law Index,0.48,2.666666666666666,True
+Colombia,Rule of Law Index,0.5,2.825396825396825,True
+"Congo, Dem. Rep.",Rule of Law Index,0.34,1.5555555555555556,True
+Costa Rica,Rule of Law Index,0.68,4.253968253968255,True
+Cote d'Ivoire,Rule of Law Index,0.46,2.507936507936508,True
+Croatia,Rule of Law Index,0.61,3.698412698412698,True
+Czech Republic,Rule of Law Index,0.73,4.65079365079365,True
+Denmark,Rule of Law Index,0.9,6.0,True
+Dominica,Rule of Law Index,0.58,3.46031746031746,True
+Dominican Republic,Rule of Law Index,0.48,2.666666666666666,True
+Ecuador,Rule of Law Index,0.49,2.746031746031746,True
+Egypt,Rule of Law Index,0.36,1.714285714285714,True
+El Salvador,Rule of Law Index,0.49,2.746031746031746,True
+Estonia,Rule of Law Index,0.81,5.285714285714286,True
+Ethiopia,Rule of Law Index,0.41,2.1111111111111107,True
+Finland,Rule of Law Index,0.87,5.761904761904762,True
+France,Rule of Law Index,0.73,4.65079365079365,True
+The Gambia,Rule of Law Index,0.5,2.825396825396825,True
+Georgia,Rule of Law Index,0.6,3.619047619047619,True
+Germany,Rule of Law Index,0.84,5.523809523809523,True
+Ghana,Rule of Law Index,0.57,3.38095238095238,True
+Greece,Rule of Law Index,0.61,3.698412698412698,True
+Grenada,Rule of Law Index,0.59,3.539682539682539,True
+Guatemala,Rule of Law Index,0.45,2.4285714285714284,True
+Guinea,Rule of Law Index,0.42,2.19047619047619,True
+Guyana,Rule of Law Index,0.5,2.825396825396825,True
+Honduras,Rule of Law Index,0.4,2.0317460317460316,True
+"Hong Kong SAR, China",Rule of Law Index,0.76,4.888888888888889,True
+Hungary,Rule of Law Index,0.53,3.0634920634920637,True
+India,Rule of Law Index,0.51,2.9047619047619047,True
+Indonesia,Rule of Law Index,0.53,3.0634920634920637,True
+Iran,Rule of Law Index,0.43,2.2698412698412698,True
+Italy,Rule of Law Index,0.66,4.095238095238095,True
+Jamaica,Rule of Law Index,0.57,3.38095238095238,True
+Japan,Rule of Law Index,0.78,5.0476190476190474,True
+Jordan,Rule of Law Index,0.57,3.38095238095238,True
+Kazakhstan,Rule of Law Index,0.52,2.984126984126984,True
+Kenya,Rule of Law Index,0.45,2.4285714285714284,True
+Kosovo,Rule of Law Index,0.54,3.142857142857143,True
+Kyrgyz Republic,Rule of Law Index,0.48,2.666666666666666,True
+Lebanon,Rule of Law Index,0.45,2.4285714285714284,True
+Liberia,Rule of Law Index,0.45,2.4285714285714284,True
+Madagascar,Rule of Law Index,0.44,2.349206349206349,True
+Malawi,Rule of Law Index,0.52,2.984126984126984,True
+Malaysia,Rule of Law Index,0.58,3.46031746031746,True
+Mali,Rule of Law Index,0.44,2.349206349206349,True
+Mauritania,Rule of Law Index,0.36,1.714285714285714,True
+Mauritius,Rule of Law Index,0.61,3.698412698412698,True
+Mexico,Rule of Law Index,0.44,2.349206349206349,True
+Moldova,Rule of Law Index,0.5,2.825396825396825,True
+Mongolia,Rule of Law Index,0.53,3.0634920634920637,True
+Morocco,Rule of Law Index,0.5,2.825396825396825,True
+Mozambique,Rule of Law Index,0.41,2.1111111111111107,True
+Myanmar,Rule of Law Index,0.42,2.19047619047619,True
+Namibia,Rule of Law Index,0.63,3.8571428571428568,True
+Nepal,Rule of Law Index,0.53,3.0634920634920637,True
+Netherlands,Rule of Law Index,0.84,5.523809523809523,True
+New Zealand,Rule of Law Index,0.83,5.444444444444444,True
+Nicaragua,Rule of Law Index,0.39,1.9523809523809523,True
+Niger,Rule of Law Index,0.45,2.4285714285714284,True
+Nigeria,Rule of Law Index,0.43,2.2698412698412698,True
+North Macedonia,Rule of Law Index,0.53,3.0634920634920637,True
+Norway,Rule of Law Index,0.89,5.920634920634921,True
+Pakistan,Rule of Law Index,0.39,1.9523809523809523,True
+Panama,Rule of Law Index,0.52,2.984126984126984,True
+Peru,Rule of Law Index,0.5,2.825396825396825,True
+Philippines,Rule of Law Index,0.47,2.587301587301587,True
+Poland,Rule of Law Index,0.66,4.095238095238095,True
+Portugal,Rule of Law Index,0.7,4.412698412698411,True
+Republic of Korea,Rule of Law Index,0.73,4.65079365079365,True
+Romania,Rule of Law Index,0.63,3.8571428571428568,True
+Russian Federation,Rule of Law Index,0.47,2.587301587301587,True
+Rwanda,Rule of Law Index,0.62,3.7777777777777777,True
+Senegal,Rule of Law Index,0.55,3.2222222222222223,True
+Serbia,Rule of Law Index,0.5,2.825396825396825,True
+Sierra Leone,Rule of Law Index,0.45,2.4285714285714284,True
+Singapore,Rule of Law Index,0.79,5.126984126984127,True
+Slovenia,Rule of Law Index,0.69,4.333333333333332,True
+South Africa,Rule of Law Index,0.59,3.539682539682539,True
+Spain,Rule of Law Index,0.73,4.65079365079365,True
+Sri Lanka,Rule of Law Index,0.52,2.984126984126984,True
+St. Kitts and Nevis,Rule of Law Index,0.63,3.8571428571428568,True
+St. Lucia,Rule of Law Index,0.62,3.7777777777777777,True
+St. Vincent and the Grenadines,Rule of Law Index,0.64,3.9365079365079367,True
+Suriname,Rule of Law Index,0.5,2.825396825396825,True
+Sweden,Rule of Law Index,0.86,5.682539682539682,True
+Tanzania,Rule of Law Index,0.47,2.587301587301587,True
+Thailand,Rule of Law Index,0.51,2.9047619047619047,True
+Togo,Rule of Law Index,0.45,2.4285714285714284,True
+Trinidad and Tobago,Rule of Law Index,0.54,3.142857142857143,True
+Tunisia,Rule of Law Index,0.54,3.142857142857143,True
+Turkey,Rule of Law Index,0.43,2.2698412698412698,True
+Uganda,Rule of Law Index,0.4,2.0317460317460316,True
+Ukraine,Rule of Law Index,0.51,2.9047619047619047,True
+United Arab Emirates,Rule of Law Index,0.65,4.015873015873016,True
+United Kingdom,Rule of Law Index,0.79,5.126984126984127,True
+United States,Rule of Law Index,0.72,4.571428571428571,True
+Uruguay,Rule of Law Index,0.71,4.492063492063492,True
+Uzbekistan,Rule of Law Index,0.47,2.587301587301587,True
+"Venezuela, RB",Rule of Law Index,0.27,1.0,True
+Vietnam,Rule of Law Index,0.49,2.746031746031746,True
+Zambia,Rule of Law Index,0.45,2.4285714285714284,True
+Zimbabwe,Rule of Law Index,0.39,1.9523809523809523,True
