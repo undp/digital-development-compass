@@ -1,167 +1,167 @@
-Country Name,Indicator,data_col,new_rank_score,higher_is_better
-Afghanistan,% of population with digital finance account - active (90 days),11.0,1.2173913043478262,True
-Albania,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
-Arab world,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
-United Arab Emirates,% of population with digital finance account - active (90 days),84.0,5.184782608695652,True
-Argentina,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
-Armenia,% of population with digital finance account - active (90 days),42.0,2.9021739130434785,True
-Australia,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
-Austria,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
-Azerbaijan,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
-Belgium,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
-Benin,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
-Burkina Faso,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
-Bangladesh,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-Bulgaria,% of population with digital finance account - active (90 days),65.0,4.1521739130434785,True
-Bahrain,% of population with digital finance account - active (90 days),77.0,4.804347826086957,True
-Bosnia and Herzegovina,% of population with digital finance account - active (90 days),50.0,3.3369565217391304,True
-Belarus,% of population with digital finance account - active (90 days),79.0,4.913043478260869,True
-Bolivia,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
-Brazil,% of population with digital finance account - active (90 days),58.0,3.7717391304347827,True
-Botswana,% of population with digital finance account - active (90 days),42.0,2.9021739130434785,True
-Central African Republic,% of population with digital finance account - active (90 days),9.0,1.108695652173913,True
-Canada,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-Switzerland,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
-Chile,% of population with digital finance account - active (90 days),65.0,4.1521739130434785,True
-China,% of population with digital finance account - active (90 days),68.0,4.315217391304348,True
-Cote d'Ivoire,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
-Cameroon,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
-"Congo, Dem. Rep.",% of population with digital finance account - active (90 days),22.0,1.8152173913043477,True
-"Congo, Rep.",% of population with digital finance account - active (90 days),18.0,1.5978260869565217,True
-Colombia,% of population with digital finance account - active (90 days),37.0,2.6304347826086953,True
-Costa Rica,% of population with digital finance account - active (90 days),59.0,3.8260869565217392,True
-Cyprus,% of population with digital finance account - active (90 days),80.0,4.967391304347826,True
-Czech Republic,% of population with digital finance account - active (90 days),80.0,4.967391304347826,True
-Germany,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-Denmark,% of population with digital finance account - active (90 days),99.0,6.0,True
-Dominican Republic,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
-Algeria,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
-East Asia & Pacific (excluding high income),% of population with digital finance account - active (90 days),58.0,3.7717391304347827,True
-East Asia & Pacific,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
-Europe & Central Asia (excluding high income),% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
-Europe & Central Asia,% of population with digital finance account - active (90 days),78.0,4.858695652173913,True
-Ecuador,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
-"Egypt, Arab Rep.",% of population with digital finance account - active (90 days),23.0,1.8695652173913042,True
-Euro area,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
-Spain,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
-Estonia,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
-Ethiopia,% of population with digital finance account - active (90 days),12.0,1.2717391304347827,True
-Finland,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-France,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
-Gabon,% of population with digital finance account - active (90 days),54.0,3.5543478260869565,True
-United Kingdom,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
-Georgia,% of population with digital finance account - active (90 days),53.0,3.5,True
-Ghana,% of population with digital finance account - active (90 days),49.0,3.282608695652174,True
-Guinea,% of population with digital finance account - active (90 days),20.0,1.7065217391304348,True
-Greece,% of population with digital finance account - active (90 days),74.0,4.641304347826087,True
-Guatemala,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
-High income,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
-"Hong Kong SAR, China",% of population with digital finance account - active (90 days),85.0,5.239130434782608,True
-Honduras,% of population with digital finance account - active (90 days),37.0,2.6304347826086953,True
-Croatia,% of population with digital finance account - active (90 days),83.0,5.130434782608695,True
-Haiti,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
-Hungary,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
-Indonesia,% of population with digital finance account - active (90 days),35.0,2.5217391304347827,True
-India,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
-Ireland,% of population with digital finance account - active (90 days),94.0,5.728260869565218,True
-"Iran, Islamic Rep.",% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
-Iraq,% of population with digital finance account - active (90 days),19.0,1.6521739130434783,True
-Israel,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
-Italy,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
-Jordan,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
-Japan,% of population with digital finance account - active (90 days),95.0,5.782608695652174,True
-Kazakhstan,% of population with digital finance account - active (90 days),54.0,3.5543478260869565,True
-Kenya,% of population with digital finance account - active (90 days),79.0,4.913043478260869,True
-Kyrgyz Republic,% of population with digital finance account - active (90 days),36.0,2.5760869565217392,True
-Cambodia,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
-"Korea, Rep.",% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
-Kuwait,% of population with digital finance account - active (90 days),75.0,4.695652173913043,True
-Latin America & Caribbean (excluding high income),% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
-Lao PDR,% of population with digital finance account - active (90 days),13.0,1.3260869565217392,True
-Lebanon,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
-Liberia,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
-Libya,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
-Latin America & Caribbean,% of population with digital finance account - active (90 days),46.0,3.119565217391304,True
-Low income,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
-Sri Lanka,% of population with digital finance account - active (90 days),47.0,3.1739130434782608,True
-Lower middle income,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
-Developing,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
-Lesotho,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
-Lithuania,% of population with digital finance account - active (90 days),78.0,4.858695652173913,True
-Luxembourg,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-Latvia,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
-Morocco,% of population with digital finance account - active (90 days),17.0,1.5434782608695652,True
-Moldova,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
-Madagascar,% of population with digital finance account - active (90 days),15.0,1.434782608695652,True
-Middle East & North Africa,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
-Mexico,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
-Middle income,% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
-"Macedonia, FYR",% of population with digital finance account - active (90 days),66.0,4.206521739130435,True
-Mali,% of population with digital finance account - active (90 days),31.0,2.3043478260869565,True
-Malta,% of population with digital finance account - active (90 days),89.0,5.456521739130435,True
-Myanmar,% of population with digital finance account - active (90 days),8.0,1.0543478260869565,True
-Middle East & North Africa (excluding high income),% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
-Montenegro,% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
-Mongolia,% of population with digital finance account - active (90 days),85.0,5.239130434782608,True
-Mozambique,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-Mauritania,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
-Mauritius,% of population with digital finance account - active (90 days),69.0,4.369565217391305,True
-Malawi,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
-Malaysia,% of population with digital finance account - active (90 days),70.0,4.423913043478261,True
-North America,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
-Namibia,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
-Niger,% of population with digital finance account - active (90 days),13.0,1.3260869565217392,True
-Nigeria,% of population with digital finance account - active (90 days),30.0,2.25,True
-Nicaragua,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
-Netherlands,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-Norway,% of population with digital finance account - active (90 days),99.0,6.0,True
-Nepal,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
-New Zealand,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
-High income: OECD,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
-Pakistan,% of population with digital finance account - active (90 days),18.0,1.5978260869565217,True
-Panama,% of population with digital finance account - active (90 days),35.0,2.5217391304347827,True
-Peru,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-Philippines,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
-Poland,% of population with digital finance account - active (90 days),82.0,5.076086956521739,True
-Portugal,% of population with digital finance account - active (90 days),86.0,5.293478260869565,True
-Paraguay,% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
-West Bank and Gaza,% of population with digital finance account - active (90 days),14.0,1.3804347826086958,True
-Romania,% of population with digital finance account - active (90 days),47.0,3.1739130434782608,True
-Russian Federation,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
-Rwanda,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
-South Asia,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
-Saudi Arabia,% of population with digital finance account - active (90 days),61.0,3.9347826086956523,True
-Senegal,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
-Singapore,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
-Sierra Leone,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
-El Salvador,% of population with digital finance account - active (90 days),24.0,1.9239130434782608,True
-Serbia,% of population with digital finance account - active (90 days),66.0,4.206521739130435,True
-Sub-Saharan Africa (excluding high income),% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-South Sudan,% of population with digital finance account - active (90 days),7.0,1.0,True
-Sub-Saharan Africa,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-Slovak Republic,% of population with digital finance account - active (90 days),82.0,5.076086956521739,True
-Slovenia,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
-Sweden,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
-Chad,% of population with digital finance account - active (90 days),19.0,1.6521739130434783,True
-Togo,% of population with digital finance account - active (90 days),31.0,2.3043478260869565,True
-Thailand,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
-Tajikistan,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
-Turkmenistan,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-Trinidad and Tobago,% of population with digital finance account - active (90 days),64.0,4.0978260869565215,True
-Tunisia,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
-Turkey,% of population with digital finance account - active (90 days),64.0,4.0978260869565215,True
-"Taiwan, China",% of population with digital finance account - active (90 days),77.0,4.804347826086957,True
-Tanzania,% of population with digital finance account - active (90 days),43.0,2.9565217391304346,True
-Uganda,% of population with digital finance account - active (90 days),55.0,3.608695652173913,True
-Ukraine,% of population with digital finance account - active (90 days),61.0,3.9347826086956523,True
-Upper middle income,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
-Uruguay,% of population with digital finance account - active (90 days),59.0,3.8260869565217392,True
-United States,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
-Uzbekistan,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
-"Venezuela, RB",% of population with digital finance account - active (90 days),69.0,4.369565217391305,True
-Vietnam,% of population with digital finance account - active (90 days),23.0,1.8695652173913042,True
-World,% of population with digital finance account - active (90 days),52.0,3.4456521739130435,True
-Kosovo,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
-South Africa,% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
-Zambia,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
-Zimbabwe,% of population with digital finance account - active (90 days),53.0,3.5,True
+,Country Name,Indicator,data_col,new_rank_score,higher_is_better
+2,Afghanistan,% of population with digital finance account - active (90 days),11.0,1.2173913043478262,True
+7,Albania,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
+10,Arab world,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
+13,United Arab Emirates,% of population with digital finance account - active (90 days),84.0,5.184782608695652,True
+16,Argentina,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
+19,Armenia,% of population with digital finance account - active (90 days),42.0,2.9021739130434785,True
+22,Australia,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
+25,Austria,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
+28,Azerbaijan,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
+33,Belgium,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
+36,Benin,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
+39,Burkina Faso,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
+42,Bangladesh,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+45,Bulgaria,% of population with digital finance account - active (90 days),65.0,4.1521739130434785,True
+48,Bahrain,% of population with digital finance account - active (90 days),77.0,4.804347826086957,True
+51,Bosnia and Herzegovina,% of population with digital finance account - active (90 days),50.0,3.3369565217391304,True
+54,Belarus,% of population with digital finance account - active (90 days),79.0,4.913043478260869,True
+58,Bolivia,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
+61,Brazil,% of population with digital finance account - active (90 days),58.0,3.7717391304347827,True
+65,Botswana,% of population with digital finance account - active (90 days),42.0,2.9021739130434785,True
+67,Central African Republic,% of population with digital finance account - active (90 days),9.0,1.108695652173913,True
+70,Canada,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+72,Switzerland,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
+75,Chile,% of population with digital finance account - active (90 days),65.0,4.1521739130434785,True
+78,China,% of population with digital finance account - active (90 days),68.0,4.315217391304348,True
+80,Cote d'Ivoire,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
+83,Cameroon,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
+86,"Congo, Dem. Rep.",% of population with digital finance account - active (90 days),22.0,1.8152173913043477,True
+89,"Congo, Rep.",% of population with digital finance account - active (90 days),18.0,1.5978260869565217,True
+92,Colombia,% of population with digital finance account - active (90 days),37.0,2.6304347826086953,True
+96,Costa Rica,% of population with digital finance account - active (90 days),59.0,3.8260869565217392,True
+99,Cyprus,% of population with digital finance account - active (90 days),80.0,4.967391304347826,True
+102,Czech Republic,% of population with digital finance account - active (90 days),80.0,4.967391304347826,True
+105,Germany,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+109,Denmark,% of population with digital finance account - active (90 days),99.0,6.0,True
+112,Dominican Republic,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
+115,Algeria,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
+118,East Asia & Pacific (excluding high income),% of population with digital finance account - active (90 days),58.0,3.7717391304347827,True
+121,East Asia & Pacific,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
+124,Europe & Central Asia (excluding high income),% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
+127,Europe & Central Asia,% of population with digital finance account - active (90 days),78.0,4.858695652173913,True
+130,Ecuador,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
+133,"Egypt, Arab Rep.",% of population with digital finance account - active (90 days),23.0,1.8695652173913042,True
+136,Euro area,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
+139,Spain,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
+142,Estonia,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
+144,Ethiopia,% of population with digital finance account - active (90 days),12.0,1.2717391304347827,True
+147,Finland,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+150,France,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
+153,Gabon,% of population with digital finance account - active (90 days),54.0,3.5543478260869565,True
+156,United Kingdom,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
+159,Georgia,% of population with digital finance account - active (90 days),53.0,3.5,True
+162,Ghana,% of population with digital finance account - active (90 days),49.0,3.282608695652174,True
+165,Guinea,% of population with digital finance account - active (90 days),20.0,1.7065217391304348,True
+168,Greece,% of population with digital finance account - active (90 days),74.0,4.641304347826087,True
+171,Guatemala,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
+174,High income,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
+177,"Hong Kong SAR, China",% of population with digital finance account - active (90 days),85.0,5.239130434782608,True
+180,Honduras,% of population with digital finance account - active (90 days),37.0,2.6304347826086953,True
+183,Croatia,% of population with digital finance account - active (90 days),83.0,5.130434782608695,True
+186,Haiti,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
+189,Hungary,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
+192,Indonesia,% of population with digital finance account - active (90 days),35.0,2.5217391304347827,True
+195,India,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
+198,Ireland,% of population with digital finance account - active (90 days),94.0,5.728260869565218,True
+201,"Iran, Islamic Rep.",% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
+204,Iraq,% of population with digital finance account - active (90 days),19.0,1.6521739130434783,True
+207,Israel,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
+210,Italy,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
+215,Jordan,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
+218,Japan,% of population with digital finance account - active (90 days),95.0,5.782608695652174,True
+221,Kazakhstan,% of population with digital finance account - active (90 days),54.0,3.5543478260869565,True
+224,Kenya,% of population with digital finance account - active (90 days),79.0,4.913043478260869,True
+227,Kyrgyz Republic,% of population with digital finance account - active (90 days),36.0,2.5760869565217392,True
+230,Cambodia,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
+233,"Korea, Rep.",% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
+236,Kuwait,% of population with digital finance account - active (90 days),75.0,4.695652173913043,True
+239,Latin America & Caribbean (excluding high income),% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
+241,Lao PDR,% of population with digital finance account - active (90 days),13.0,1.3260869565217392,True
+244,Lebanon,% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
+246,Liberia,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
+247,Libya,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
+250,Latin America & Caribbean,% of population with digital finance account - active (90 days),46.0,3.119565217391304,True
+253,Low income,% of population with digital finance account - active (90 days),26.0,2.032608695652174,True
+256,Sri Lanka,% of population with digital finance account - active (90 days),47.0,3.1739130434782608,True
+259,Lower middle income,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
+262,Developing,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
+264,Lesotho,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
+267,Lithuania,% of population with digital finance account - active (90 days),78.0,4.858695652173913,True
+270,Luxembourg,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+273,Latvia,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
+274,Morocco,% of population with digital finance account - active (90 days),17.0,1.5434782608695652,True
+277,Moldova,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
+280,Madagascar,% of population with digital finance account - active (90 days),15.0,1.434782608695652,True
+282,Middle East & North Africa,% of population with digital finance account - active (90 days),38.0,2.6847826086956523,True
+285,Mexico,% of population with digital finance account - active (90 days),32.0,2.358695652173913,True
+288,Middle income,% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
+291,"Macedonia, FYR",% of population with digital finance account - active (90 days),66.0,4.206521739130435,True
+294,Mali,% of population with digital finance account - active (90 days),31.0,2.3043478260869565,True
+297,Malta,% of population with digital finance account - active (90 days),89.0,5.456521739130435,True
+299,Myanmar,% of population with digital finance account - active (90 days),8.0,1.0543478260869565,True
+301,Middle East & North Africa (excluding high income),% of population with digital finance account - active (90 days),33.0,2.4130434782608696,True
+304,Montenegro,% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
+307,Mongolia,% of population with digital finance account - active (90 days),85.0,5.239130434782608,True
+308,Mozambique,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+311,Mauritania,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
+314,Mauritius,% of population with digital finance account - active (90 days),69.0,4.369565217391305,True
+317,Malawi,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
+320,Malaysia,% of population with digital finance account - active (90 days),70.0,4.423913043478261,True
+323,North America,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
+325,Namibia,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
+328,Niger,% of population with digital finance account - active (90 days),13.0,1.3260869565217392,True
+331,Nigeria,% of population with digital finance account - active (90 days),30.0,2.25,True
+334,Nicaragua,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
+337,Netherlands,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+339,Norway,% of population with digital finance account - active (90 days),99.0,6.0,True
+342,Nepal,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
+345,New Zealand,% of population with digital finance account - active (90 days),97.0,5.891304347826087,True
+348,High income: OECD,% of population with digital finance account - active (90 days),92.0,5.619565217391305,True
+352,Pakistan,% of population with digital finance account - active (90 days),18.0,1.5978260869565217,True
+355,Panama,% of population with digital finance account - active (90 days),35.0,2.5217391304347827,True
+358,Peru,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+361,Philippines,% of population with digital finance account - active (90 days),25.0,1.9782608695652173,True
+364,Poland,% of population with digital finance account - active (90 days),82.0,5.076086956521739,True
+368,Portugal,% of population with digital finance account - active (90 days),86.0,5.293478260869565,True
+370,Paraguay,% of population with digital finance account - active (90 days),45.0,3.0652173913043477,True
+373,West Bank and Gaza,% of population with digital finance account - active (90 days),14.0,1.3804347826086958,True
+377,Romania,% of population with digital finance account - active (90 days),47.0,3.1739130434782608,True
+380,Russian Federation,% of population with digital finance account - active (90 days),71.0,4.478260869565217,True
+383,Rwanda,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
+386,South Asia,% of population with digital finance account - active (90 days),28.0,2.141304347826087,True
+389,Saudi Arabia,% of population with digital finance account - active (90 days),61.0,3.9347826086956523,True
+394,Senegal,% of population with digital finance account - active (90 days),40.0,2.7934782608695654,True
+397,Singapore,% of population with digital finance account - active (90 days),90.0,5.510869565217392,True
+400,Sierra Leone,% of population with digital finance account - active (90 days),16.0,1.4891304347826086,True
+403,El Salvador,% of population with digital finance account - active (90 days),24.0,1.9239130434782608,True
+407,Serbia,% of population with digital finance account - active (90 days),66.0,4.206521739130435,True
+410,Sub-Saharan Africa (excluding high income),% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+411,South Sudan,% of population with digital finance account - active (90 days),7.0,1.0,True
+414,Sub-Saharan Africa,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+417,Slovak Republic,% of population with digital finance account - active (90 days),82.0,5.076086956521739,True
+420,Slovenia,% of population with digital finance account - active (90 days),96.0,5.836956521739131,True
+423,Sweden,% of population with digital finance account - active (90 days),98.0,5.945652173913044,True
+428,Chad,% of population with digital finance account - active (90 days),19.0,1.6521739130434783,True
+431,Togo,% of population with digital finance account - active (90 days),31.0,2.3043478260869565,True
+434,Thailand,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
+437,Tajikistan,% of population with digital finance account - active (90 days),44.0,3.010869565217391,True
+439,Turkmenistan,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+441,Trinidad and Tobago,% of population with digital finance account - active (90 days),64.0,4.0978260869565215,True
+443,Tunisia,% of population with digital finance account - active (90 days),29.0,2.1956521739130435,True
+446,Turkey,% of population with digital finance account - active (90 days),64.0,4.0978260869565215,True
+449,"Taiwan, China",% of population with digital finance account - active (90 days),77.0,4.804347826086957,True
+452,Tanzania,% of population with digital finance account - active (90 days),43.0,2.9565217391304346,True
+455,Uganda,% of population with digital finance account - active (90 days),55.0,3.608695652173913,True
+458,Ukraine,% of population with digital finance account - active (90 days),61.0,3.9347826086956523,True
+461,Upper middle income,% of population with digital finance account - active (90 days),62.0,3.989130434782609,True
+464,Uruguay,% of population with digital finance account - active (90 days),59.0,3.8260869565217392,True
+467,United States,% of population with digital finance account - active (90 days),91.0,5.565217391304348,True
+470,Uzbekistan,% of population with digital finance account - active (90 days),34.0,2.467391304347826,True
+473,"Venezuela, RB",% of population with digital finance account - active (90 days),69.0,4.369565217391305,True
+476,Vietnam,% of population with digital finance account - active (90 days),23.0,1.8695652173913042,True
+479,World,% of population with digital finance account - active (90 days),52.0,3.4456521739130435,True
+482,Kosovo,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
+487,South Africa,% of population with digital finance account - active (90 days),60.0,3.880434782608696,True
+490,Zambia,% of population with digital finance account - active (90 days),39.0,2.7391304347826084,True
+493,Zimbabwe,% of population with digital finance account - active (90 days),53.0,3.5,True
