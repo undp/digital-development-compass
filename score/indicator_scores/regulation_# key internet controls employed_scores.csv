@@ -1,67 +1,67 @@
-Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-Angola,2021,# key internet controls employed,1.0,5.444444444444445,True
-Argentina,2021,# key internet controls employed,2.0,4.888888888888889,True
-Armenia,2021,# key internet controls employed,2.0,4.888888888888889,True
-Australia,2021,# key internet controls employed,0.0,6.0,True
-Azerbaijan,2021,# key internet controls employed,7.0,2.1111111111111107,True
-Bahrain,2021,# key internet controls employed,6.0,2.666666666666666,True
-Bangladesh,2021,# key internet controls employed,6.0,2.666666666666666,True
-Belarus,2021,# key internet controls employed,7.0,2.1111111111111107,True
-Brazil,2021,# key internet controls employed,5.0,3.2222222222222223,True
-Cambodia,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Canada,2021,# key internet controls employed,0.0,6.0,True
-China,2021,# key internet controls employed,9.0,1.0,True
-Colombia,2021,# key internet controls employed,2.0,4.888888888888889,True
-Cuba,2021,# key internet controls employed,8.0,1.5555555555555554,True
-Ecuador,2021,# key internet controls employed,5.0,3.2222222222222223,True
-Egypt,2021,# key internet controls employed,6.0,2.666666666666666,True
-Estonia,2021,# key internet controls employed,0.0,6.0,True
-Ethiopia,2021,# key internet controls employed,7.0,2.1111111111111107,True
-France,2021,# key internet controls employed,0.0,6.0,True
-Georgia,2021,# key internet controls employed,2.0,4.888888888888889,True
-Germany,2021,# key internet controls employed,1.0,5.444444444444445,True
-Hungary,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Iceland,2021,# key internet controls employed,0.0,6.0,True
-India,2021,# key internet controls employed,6.0,2.666666666666666,True
-Indonesia,2021,# key internet controls employed,5.0,3.2222222222222223,True
-Iran,2021,# key internet controls employed,8.0,1.5555555555555554,True
-Italy,2021,# key internet controls employed,1.0,5.444444444444445,True
-Japan,2021,# key internet controls employed,0.0,6.0,True
-Jordan,2021,# key internet controls employed,5.0,3.2222222222222223,True
-Kazakhstan,2021,# key internet controls employed,7.0,2.1111111111111107,True
-Kenya,2021,# key internet controls employed,2.0,4.888888888888889,True
-Kyrgyzstan,2021,# key internet controls employed,7.0,2.1111111111111107,True
-Lebanon,2021,# key internet controls employed,3.0,4.333333333333333,True
-Libya,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Malawi,2021,# key internet controls employed,0.0,6.0,True
-Malaysia,2021,# key internet controls employed,3.0,4.333333333333333,True
-Mexico,2021,# key internet controls employed,3.0,4.333333333333333,True
-Morocco,2021,# key internet controls employed,3.0,4.333333333333333,True
-Myanmar,2021,# key internet controls employed,6.0,2.666666666666666,True
-Nigeria,2021,# key internet controls employed,5.0,3.2222222222222223,True
-Pakistan,2021,# key internet controls employed,7.0,2.1111111111111107,True
-Philippines,2021,# key internet controls employed,6.0,2.666666666666666,True
-Russia,2021,# key internet controls employed,8.0,1.5555555555555554,True
-Rwanda,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Saudi Arabia,2021,# key internet controls employed,6.0,2.666666666666666,True
-Singapore,2021,# key internet controls employed,3.0,4.333333333333333,True
-South Africa,2021,# key internet controls employed,1.0,5.444444444444445,True
-South Korea,2021,# key internet controls employed,2.0,4.888888888888889,True
-Sri Lanka,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Sudan,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Syria,2021,# key internet controls employed,6.0,2.666666666666666,True
-Thailand,2021,# key internet controls employed,5.0,3.2222222222222223,True
-The Gambia,2021,# key internet controls employed,0.0,6.0,True
-Tunisia,2021,# key internet controls employed,2.0,4.888888888888889,True
-Turkey,2021,# key internet controls employed,8.0,1.5555555555555554,True
-Uganda,2021,# key internet controls employed,2.0,4.888888888888889,True
-Ukraine,2021,# key internet controls employed,6.0,2.666666666666666,True
-United Arab Emirates,2021,# key internet controls employed,6.0,2.666666666666666,True
-United Kingdom,2021,# key internet controls employed,0.0,6.0,True
-United States,2021,# key internet controls employed,4.0,3.7777777777777777,True
-Uzbekistan,2021,# key internet controls employed,9.0,1.0,True
-Venezuela,2021,# key internet controls employed,6.0,2.666666666666666,True
-Vietnam,2021,# key internet controls employed,8.0,1.5555555555555554,True
-Zambia,2021,# key internet controls employed,3.0,4.333333333333333,True
-Zimbabwe,2021,# key internet controls employed,4.0,3.7777777777777777,True
-June 2019-May 2020 coverage period,2021,# key internet controls employed,,,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Angola,2021,# key internet controls employed,1.0,5.444444444444445,True,Cybersecurity
+Argentina,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Armenia,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Australia,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Azerbaijan,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+Bahrain,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Bangladesh,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Belarus,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+Brazil,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+Cambodia,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Canada,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+China,2021,# key internet controls employed,9.0,1.0,True,Cybersecurity
+Colombia,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Cuba,2021,# key internet controls employed,8.0,1.5555555555555554,True,Cybersecurity
+Ecuador,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+Egypt,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Estonia,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Ethiopia,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+France,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Georgia,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Germany,2021,# key internet controls employed,1.0,5.444444444444445,True,Cybersecurity
+Hungary,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Iceland,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+India,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Indonesia,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+Iran,2021,# key internet controls employed,8.0,1.5555555555555554,True,Cybersecurity
+Italy,2021,# key internet controls employed,1.0,5.444444444444445,True,Cybersecurity
+Japan,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Jordan,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+Kazakhstan,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+Kenya,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Kyrgyzstan,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+Lebanon,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+Libya,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Malawi,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Malaysia,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+Mexico,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+Morocco,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+Myanmar,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Nigeria,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+Pakistan,2021,# key internet controls employed,7.0,2.1111111111111107,True,Cybersecurity
+Philippines,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Russia,2021,# key internet controls employed,8.0,1.5555555555555554,True,Cybersecurity
+Rwanda,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Saudi Arabia,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Singapore,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+South Africa,2021,# key internet controls employed,1.0,5.444444444444445,True,Cybersecurity
+South Korea,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Sri Lanka,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Sudan,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Syria,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Thailand,2021,# key internet controls employed,5.0,3.2222222222222223,True,Cybersecurity
+The Gambia,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+Tunisia,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Turkey,2021,# key internet controls employed,8.0,1.5555555555555554,True,Cybersecurity
+Uganda,2021,# key internet controls employed,2.0,4.888888888888889,True,Cybersecurity
+Ukraine,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+United Arab Emirates,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+United Kingdom,2021,# key internet controls employed,0.0,6.0,True,Cybersecurity
+United States,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+Uzbekistan,2021,# key internet controls employed,9.0,1.0,True,Cybersecurity
+Venezuela,2021,# key internet controls employed,6.0,2.666666666666666,True,Cybersecurity
+Vietnam,2021,# key internet controls employed,8.0,1.5555555555555554,True,Cybersecurity
+Zambia,2021,# key internet controls employed,3.0,4.333333333333333,True,Cybersecurity
+Zimbabwe,2021,# key internet controls employed,4.0,3.7777777777777777,True,Cybersecurity
+June 2019-May 2020 coverage period,2021,# key internet controls employed,,,True,Cybersecurity
