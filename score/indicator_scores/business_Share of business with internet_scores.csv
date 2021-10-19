@@ -1,41 +1,41 @@
-Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-Australia,2020,Share of business with internet,,,True
-Austria,2020,Share of business with internet,90.42,5.347877638131373,True
-Belgium,2020,Share of business with internet,86.62,4.897320369931231,True
-Canada,2020,Share of business with internet,,,True
-Colombia,2020,Share of business with internet,,,True
-Czech Republic,2020,Share of business with internet,83.32,4.5060469528100535,True
-Denmark,2020,Share of business with internet,92.77,5.626511738202512,True
-Estonia,2020,Share of business with internet,79.79,4.087502964192555,True
-Finland,2020,Share of business with internet,95.92,6.0,True
-France,2020,Share of business with internet,70.35,2.968223855821673,True
-Germany,2020,Share of business with internet,88.35,5.102442494664452,True
-Greece,2020,Share of business with internet,60.1,1.7529049087028694,True
-Hungary,2020,Share of business with internet,63.23,2.124021816457197,True
-Iceland,2020,Share of business with internet,,,True
-Ireland,2020,Share of business with internet,75.27,3.5515769504387,True
-Italy,2020,Share of business with internet,73.11,3.2954707137775667,True
-Japan,2020,Share of business with internet,,,True
-Korea,2020,Share of business with internet,,,True
-Latvia,2020,Share of business with internet,62.62,2.051695518140858,True
-Lithuania,2020,Share of business with internet,78.13,3.890680578610386,True
-Luxembourg,2020,Share of business with internet,83.98,4.58430163623429,True
-Mexico,2020,Share of business with internet,,,True
-Netherlands,2020,Share of business with internet,84.14,4.603272468579558,True
-New Zealand,2020,Share of business with internet,82.76,4.439649039601613,True
-Norway,2020,Share of business with internet,78.76,3.9653782309698844,True
-Poland,2020,Share of business with internet,71.32,3.0832345269148673,True
-Portugal,2020,Share of business with internet,61.55,1.9248280768318706,True
-Slovak Republic,2020,Share of business with internet,75.82,3.6167891866255624,True
-Slovenia,2020,Share of business with internet,80.79,4.206070666350487,True
-Spain,2020,Share of business with internet,75.28,3.5527626274602797,True
-Sweden,2020,Share of business with internet,90.05,5.304007588332938,True
-Switzerland,2020,Share of business with internet,,,True
-Turkey,2020,Share of business with internet,53.75,1.0,True
-United Kingdom,2020,Share of business with internet,,,True
-United States,2020,Share of business with internet,,,True
-Brazil,2020,Share of business with internet,,,True
-Data extracted on 10 Sep 2021 15:04 UTC (GMT) from OECD.Stat,2020,Share of business with internet,,,True
-Legend:,2020,Share of business with internet,,,True
-B:,2020,Share of business with internet,,,True
-D:,2020,Share of business with internet,,,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Australia,2020,Share of business with internet,,,True,Technology Adoption
+Austria,2020,Share of business with internet,90.42,5.347877638131373,True,Technology Adoption
+Belgium,2020,Share of business with internet,86.62,4.897320369931231,True,Technology Adoption
+Canada,2020,Share of business with internet,,,True,Technology Adoption
+Colombia,2020,Share of business with internet,,,True,Technology Adoption
+Czech Republic,2020,Share of business with internet,83.32,4.5060469528100535,True,Technology Adoption
+Denmark,2020,Share of business with internet,92.77,5.626511738202512,True,Technology Adoption
+Estonia,2020,Share of business with internet,79.79,4.087502964192555,True,Technology Adoption
+Finland,2020,Share of business with internet,95.92,6.0,True,Technology Adoption
+France,2020,Share of business with internet,70.35,2.968223855821673,True,Technology Adoption
+Germany,2020,Share of business with internet,88.35,5.102442494664452,True,Technology Adoption
+Greece,2020,Share of business with internet,60.1,1.7529049087028694,True,Technology Adoption
+Hungary,2020,Share of business with internet,63.23,2.124021816457197,True,Technology Adoption
+Iceland,2020,Share of business with internet,,,True,Technology Adoption
+Ireland,2020,Share of business with internet,75.27,3.5515769504387,True,Technology Adoption
+Italy,2020,Share of business with internet,73.11,3.2954707137775667,True,Technology Adoption
+Japan,2020,Share of business with internet,,,True,Technology Adoption
+Korea,2020,Share of business with internet,,,True,Technology Adoption
+Latvia,2020,Share of business with internet,62.62,2.051695518140858,True,Technology Adoption
+Lithuania,2020,Share of business with internet,78.13,3.890680578610386,True,Technology Adoption
+Luxembourg,2020,Share of business with internet,83.98,4.58430163623429,True,Technology Adoption
+Mexico,2020,Share of business with internet,,,True,Technology Adoption
+Netherlands,2020,Share of business with internet,84.14,4.603272468579558,True,Technology Adoption
+New Zealand,2020,Share of business with internet,82.76,4.439649039601613,True,Technology Adoption
+Norway,2020,Share of business with internet,78.76,3.9653782309698844,True,Technology Adoption
+Poland,2020,Share of business with internet,71.32,3.0832345269148673,True,Technology Adoption
+Portugal,2020,Share of business with internet,61.55,1.9248280768318706,True,Technology Adoption
+Slovak Republic,2020,Share of business with internet,75.82,3.6167891866255624,True,Technology Adoption
+Slovenia,2020,Share of business with internet,80.79,4.206070666350487,True,Technology Adoption
+Spain,2020,Share of business with internet,75.28,3.5527626274602797,True,Technology Adoption
+Sweden,2020,Share of business with internet,90.05,5.304007588332938,True,Technology Adoption
+Switzerland,2020,Share of business with internet,,,True,Technology Adoption
+Turkey,2020,Share of business with internet,53.75,1.0,True,Technology Adoption
+United Kingdom,2020,Share of business with internet,,,True,Technology Adoption
+United States,2020,Share of business with internet,,,True,Technology Adoption
+Brazil,2020,Share of business with internet,,,True,Technology Adoption
+Data extracted on 10 Sep 2021 15:04 UTC (GMT) from OECD.Stat,2020,Share of business with internet,,,True,Technology Adoption
+Legend:,2020,Share of business with internet,,,True,Technology Adoption
+B:,2020,Share of business with internet,,,True,Technology Adoption
+D:,2020,Share of business with internet,,,True,Technology Adoption
