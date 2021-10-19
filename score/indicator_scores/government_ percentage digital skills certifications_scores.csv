@@ -1,109 +1,109 @@
-Country Name,Indicator,data_col,new_rank_score,higher_is_better
-Switzerland,% of digital skills certifications / training courses completed,1,6.0,True
-Luxembourg,% of digital skills certifications / training courses completed,2,5.953271028037383,True
-Austria,% of digital skills certifications / training courses completed,3,5.906542056074766,True
-Japan,% of digital skills certifications / training courses completed,4,5.859813084112149,True
-Germany,% of digital skills certifications / training courses completed,5,5.813084112149532,True
-Belgium,% of digital skills certifications / training courses completed,6,5.766355140186916,True
-Sweden,% of digital skills certifications / training courses completed,7,5.719626168224299,True
-Denmark,% of digital skills certifications / training courses completed,8,5.672897196261682,True
-Russian Federation,% of digital skills certifications / training courses completed,9,5.626168224299065,True
-Singapore,% of digital skills certifications / training courses completed,10,5.579439252336448,True
-Norway,% of digital skills certifications / training courses completed,11,5.5327102803738315,True
-Belarus,% of digital skills certifications / training courses completed,12,5.4859813084112155,True
-Czech Republic,% of digital skills certifications / training courses completed,13,5.4392523364485985,True
-Finland,% of digital skills certifications / training courses completed,14,5.392523364485982,True
-Bulgaria,% of digital skills certifications / training courses completed,15,5.345794392523365,True
-Italy,% of digital skills certifications / training courses completed,16,5.299065420560748,True
-Netherlands,% of digital skills certifications / training courses completed,17,5.252336448598131,True
-Hungary,% of digital skills certifications / training courses completed,18,5.205607476635514,True
-Cameroon,% of digital skills certifications / training courses completed,19,5.158878504672897,True
-Vietnam,% of digital skills certifications / training courses completed,20,5.11214953271028,True
-Croatia,% of digital skills certifications / training courses completed,21,5.065420560747663,True
-Greece,% of digital skills certifications / training courses completed,22,5.018691588785047,True
-Hong Kong,% of digital skills certifications / training courses completed,23,4.97196261682243,True
-Latvia,% of digital skills certifications / training courses completed,24,4.925233644859813,True
-Taiwan,% of digital skills certifications / training courses completed,25,4.878504672897196,True
-Barbados,% of digital skills certifications / training courses completed,26,4.831775700934579,True
-Ukraine,% of digital skills certifications / training courses completed,27,4.785046728971963,True
-France,% of digital skills certifications / training courses completed,28,4.738317757009346,True
-United States,% of digital skills certifications / training courses completed,29,4.691588785046729,True
-Poland,% of digital skills certifications / training courses completed,30,4.644859813084112,True
-Portugal,% of digital skills certifications / training courses completed,31,4.598130841121495,True
-Spain,% of digital skills certifications / training courses completed,32,4.5514018691588785,True
-Serbia,% of digital skills certifications / training courses completed,33,4.5046728971962615,True
-Ireland,% of digital skills certifications / training courses completed,34,4.457943925233645,True
-United Arab Emirates,% of digital skills certifications / training courses completed,35,4.411214953271028,True
-Estonia,% of digital skills certifications / training courses completed,36,4.364485981308411,True
-Uganda,% of digital skills certifications / training courses completed,37,4.317757009345795,True
-Israel,% of digital skills certifications / training courses completed,38,4.271028037383178,True
-China,% of digital skills certifications / training courses completed,39,4.224299065420561,True
-Sri Lanka,% of digital skills certifications / training courses completed,40,4.177570093457944,True
-New Zealand,% of digital skills certifications / training courses completed,41,4.130841121495327,True
-South Africa,% of digital skills certifications / training courses completed,42,4.08411214953271,True
-Tunisia,% of digital skills certifications / training courses completed,43,4.037383177570094,True
-Australia,% of digital skills certifications / training courses completed,44,3.9906542056074765,True
-Indonesia,% of digital skills certifications / training courses completed,45,3.94392523364486,True
-Malaysia,% of digital skills certifications / training courses completed,46,3.897196261682243,True
-Slovakia,% of digital skills certifications / training courses completed,47,3.850467289719626,True
-Lithuania,% of digital skills certifications / training courses completed,48,3.803738317757009,True
-Romania,% of digital skills certifications / training courses completed,49,3.7570093457943927,True
-Trinidad and Tobago,% of digital skills certifications / training courses completed,50,3.710280373831776,True
-United Kingdom,% of digital skills certifications / training courses completed,51,3.663551401869159,True
-Saudi Arabia,% of digital skills certifications / training courses completed,52,3.616822429906542,True
-Egypt,% of digital skills certifications / training courses completed,53,3.5700934579439254,True
-Kuwait,% of digital skills certifications / training courses completed,54,3.5233644859813085,True
-Canada,% of digital skills certifications / training courses completed,55,3.4766355140186915,True
-Qatar,% of digital skills certifications / training courses completed,56,3.4299065420560746,True
-Armenia,% of digital skills certifications / training courses completed,57,3.383177570093458,True
-Ethiopia,% of digital skills certifications / training courses completed,58,3.336448598130841,True
-Lebanon,% of digital skills certifications / training courses completed,59,3.289719626168224,True
-Turkey,% of digital skills certifications / training courses completed,60,3.2429906542056073,True
-Venezuela,% of digital skills certifications / training courses completed,61,3.196261682242991,True
-Nepal,% of digital skills certifications / training courses completed,62,3.149532710280374,True
-Republic of Korea,% of digital skills certifications / training courses completed,63,3.102803738317757,True
-Bangladesh,% of digital skills certifications / training courses completed,64,3.05607476635514,True
-Pakistan,% of digital skills certifications / training courses completed,65,3.0093457943925235,True
-Rwanda,% of digital skills certifications / training courses completed,66,2.962616822429906,True
-India,% of digital skills certifications / training courses completed,67,2.915887850467289,True
-Costa Rica,% of digital skills certifications / training courses completed,68,2.869158878504673,True
-Philippines,% of digital skills certifications / training courses completed,69,2.822429906542056,True
-Georgia,% of digital skills certifications / training courses completed,70,2.7757009345794392,True
-Jordan,% of digital skills certifications / training courses completed,71,2.7289719626168223,True
-Azerbaijan,% of digital skills certifications / training courses completed,72,2.6822429906542062,True
-Ghana,% of digital skills certifications / training courses completed,73,2.6355140186915893,True
-Peru,% of digital skills certifications / training courses completed,74,2.5887850467289724,True
-Morocco,% of digital skills certifications / training courses completed,75,2.5420560747663554,True
-Thailand,% of digital skills certifications / training courses completed,76,2.4953271028037385,True
-Kenya,% of digital skills certifications / training courses completed,77,2.4485981308411215,True
-Uruguay,% of digital skills certifications / training courses completed,78,2.4018691588785046,True
-Myanmar,% of digital skills certifications / training courses completed,79,2.3551401869158877,True
-Nigeria,% of digital skills certifications / training courses completed,80,2.3084112149532707,True
-Kazakhstan,% of digital skills certifications / training courses completed,81,2.261682242990654,True
-Argentina,% of digital skills certifications / training courses completed,82,2.214953271028037,True
-Brazil,% of digital skills certifications / training courses completed,83,2.16822429906542,True
-El Salvador,% of digital skills certifications / training courses completed,84,2.121495327102804,True
-Saint Lucia,% of digital skills certifications / training courses completed,85,2.074766355140187,True
-Kyrgyzstan,% of digital skills certifications / training courses completed,86,2.02803738317757,True
-Sudan,% of digital skills certifications / training courses completed,87,1.981308411214953,True
-Oman,% of digital skills certifications / training courses completed,88,1.934579439252336,True
-Chile,% of digital skills certifications / training courses completed,89,1.88785046728972,True
-Botswana,% of digital skills certifications / training courses completed,90,1.8411214953271031,True
-Colombia,% of digital skills certifications / training courses completed,91,1.7943925233644862,True
-Dominican Republic,% of digital skills certifications / training courses completed,92,1.7476635514018692,True
-Ecuador,% of digital skills certifications / training courses completed,93,1.7009345794392523,True
-Puerto Rico,% of digital skills certifications / training courses completed,94,1.6542056074766354,True
-Algeria,% of digital skills certifications / training courses completed,95,1.6074766355140184,True
-Nicaragua,% of digital skills certifications / training courses completed,96,1.5607476635514015,True
-Bolivia,% of digital skills certifications / training courses completed,97,1.5140186915887854,True
-Honduras,% of digital skills certifications / training courses completed,98,1.4672897196261685,True
-Guatemala,% of digital skills certifications / training courses completed,99,1.4205607476635516,True
-Bhutan,% of digital skills certifications / training courses completed,100,1.3738317757009346,True
-Panama,% of digital skills certifications / training courses completed,101,1.3271028037383177,True
-Mexico,% of digital skills certifications / training courses completed,102,1.2803738317757007,True
-Iraq,% of digital skills certifications / training courses completed,103,1.2336448598130838,True
-Uzbekistan,% of digital skills certifications / training courses completed,104,1.1869158878504669,True
-Sierra Leone,% of digital skills certifications / training courses completed,105,1.1401869158878508,True
-Paraguay,% of digital skills certifications / training courses completed,106,1.0934579439252339,True
-Guyana,% of digital skills certifications / training courses completed,107,1.046728971962617,True
-Somalia,% of digital skills certifications / training courses completed,108,1.0,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Switzerland,2020,% of digital skills certifications / training courses completed,1,6.0,True,Capabilities
+Luxembourg,2020,% of digital skills certifications / training courses completed,2,5.953271028037383,True,Capabilities
+Austria,2020,% of digital skills certifications / training courses completed,3,5.906542056074766,True,Capabilities
+Japan,2020,% of digital skills certifications / training courses completed,4,5.859813084112149,True,Capabilities
+Germany,2020,% of digital skills certifications / training courses completed,5,5.813084112149532,True,Capabilities
+Belgium,2020,% of digital skills certifications / training courses completed,6,5.766355140186916,True,Capabilities
+Sweden,2020,% of digital skills certifications / training courses completed,7,5.719626168224299,True,Capabilities
+Denmark,2020,% of digital skills certifications / training courses completed,8,5.672897196261682,True,Capabilities
+Russian Federation,2020,% of digital skills certifications / training courses completed,9,5.626168224299065,True,Capabilities
+Singapore,2020,% of digital skills certifications / training courses completed,10,5.579439252336448,True,Capabilities
+Norway,2020,% of digital skills certifications / training courses completed,11,5.5327102803738315,True,Capabilities
+Belarus,2020,% of digital skills certifications / training courses completed,12,5.4859813084112155,True,Capabilities
+Czech Republic,2020,% of digital skills certifications / training courses completed,13,5.4392523364485985,True,Capabilities
+Finland,2020,% of digital skills certifications / training courses completed,14,5.392523364485982,True,Capabilities
+Bulgaria,2020,% of digital skills certifications / training courses completed,15,5.345794392523365,True,Capabilities
+Italy,2020,% of digital skills certifications / training courses completed,16,5.299065420560748,True,Capabilities
+Netherlands,2020,% of digital skills certifications / training courses completed,17,5.252336448598131,True,Capabilities
+Hungary,2020,% of digital skills certifications / training courses completed,18,5.205607476635514,True,Capabilities
+Cameroon,2020,% of digital skills certifications / training courses completed,19,5.158878504672897,True,Capabilities
+Vietnam,2020,% of digital skills certifications / training courses completed,20,5.11214953271028,True,Capabilities
+Croatia,2020,% of digital skills certifications / training courses completed,21,5.065420560747663,True,Capabilities
+Greece,2020,% of digital skills certifications / training courses completed,22,5.018691588785047,True,Capabilities
+Hong Kong,2020,% of digital skills certifications / training courses completed,23,4.97196261682243,True,Capabilities
+Latvia,2020,% of digital skills certifications / training courses completed,24,4.925233644859813,True,Capabilities
+Taiwan,2020,% of digital skills certifications / training courses completed,25,4.878504672897196,True,Capabilities
+Barbados,2020,% of digital skills certifications / training courses completed,26,4.831775700934579,True,Capabilities
+Ukraine,2020,% of digital skills certifications / training courses completed,27,4.785046728971963,True,Capabilities
+France,2020,% of digital skills certifications / training courses completed,28,4.738317757009346,True,Capabilities
+United States,2020,% of digital skills certifications / training courses completed,29,4.691588785046729,True,Capabilities
+Poland,2020,% of digital skills certifications / training courses completed,30,4.644859813084112,True,Capabilities
+Portugal,2020,% of digital skills certifications / training courses completed,31,4.598130841121495,True,Capabilities
+Spain,2020,% of digital skills certifications / training courses completed,32,4.5514018691588785,True,Capabilities
+Serbia,2020,% of digital skills certifications / training courses completed,33,4.5046728971962615,True,Capabilities
+Ireland,2020,% of digital skills certifications / training courses completed,34,4.457943925233645,True,Capabilities
+United Arab Emirates,2020,% of digital skills certifications / training courses completed,35,4.411214953271028,True,Capabilities
+Estonia,2020,% of digital skills certifications / training courses completed,36,4.364485981308411,True,Capabilities
+Uganda,2020,% of digital skills certifications / training courses completed,37,4.317757009345795,True,Capabilities
+Israel,2020,% of digital skills certifications / training courses completed,38,4.271028037383178,True,Capabilities
+China,2020,% of digital skills certifications / training courses completed,39,4.224299065420561,True,Capabilities
+Sri Lanka,2020,% of digital skills certifications / training courses completed,40,4.177570093457944,True,Capabilities
+New Zealand,2020,% of digital skills certifications / training courses completed,41,4.130841121495327,True,Capabilities
+South Africa,2020,% of digital skills certifications / training courses completed,42,4.08411214953271,True,Capabilities
+Tunisia,2020,% of digital skills certifications / training courses completed,43,4.037383177570094,True,Capabilities
+Australia,2020,% of digital skills certifications / training courses completed,44,3.9906542056074765,True,Capabilities
+Indonesia,2020,% of digital skills certifications / training courses completed,45,3.94392523364486,True,Capabilities
+Malaysia,2020,% of digital skills certifications / training courses completed,46,3.897196261682243,True,Capabilities
+Slovakia,2020,% of digital skills certifications / training courses completed,47,3.850467289719626,True,Capabilities
+Lithuania,2020,% of digital skills certifications / training courses completed,48,3.803738317757009,True,Capabilities
+Romania,2020,% of digital skills certifications / training courses completed,49,3.7570093457943927,True,Capabilities
+Trinidad and Tobago,2020,% of digital skills certifications / training courses completed,50,3.710280373831776,True,Capabilities
+United Kingdom,2020,% of digital skills certifications / training courses completed,51,3.663551401869159,True,Capabilities
+Saudi Arabia,2020,% of digital skills certifications / training courses completed,52,3.616822429906542,True,Capabilities
+Egypt,2020,% of digital skills certifications / training courses completed,53,3.5700934579439254,True,Capabilities
+Kuwait,2020,% of digital skills certifications / training courses completed,54,3.5233644859813085,True,Capabilities
+Canada,2020,% of digital skills certifications / training courses completed,55,3.4766355140186915,True,Capabilities
+Qatar,2020,% of digital skills certifications / training courses completed,56,3.4299065420560746,True,Capabilities
+Armenia,2020,% of digital skills certifications / training courses completed,57,3.383177570093458,True,Capabilities
+Ethiopia,2020,% of digital skills certifications / training courses completed,58,3.336448598130841,True,Capabilities
+Lebanon,2020,% of digital skills certifications / training courses completed,59,3.289719626168224,True,Capabilities
+Turkey,2020,% of digital skills certifications / training courses completed,60,3.2429906542056073,True,Capabilities
+Venezuela,2020,% of digital skills certifications / training courses completed,61,3.196261682242991,True,Capabilities
+Nepal,2020,% of digital skills certifications / training courses completed,62,3.149532710280374,True,Capabilities
+Republic of Korea,2020,% of digital skills certifications / training courses completed,63,3.102803738317757,True,Capabilities
+Bangladesh,2020,% of digital skills certifications / training courses completed,64,3.05607476635514,True,Capabilities
+Pakistan,2020,% of digital skills certifications / training courses completed,65,3.0093457943925235,True,Capabilities
+Rwanda,2020,% of digital skills certifications / training courses completed,66,2.962616822429906,True,Capabilities
+India,2020,% of digital skills certifications / training courses completed,67,2.915887850467289,True,Capabilities
+Costa Rica,2020,% of digital skills certifications / training courses completed,68,2.869158878504673,True,Capabilities
+Philippines,2020,% of digital skills certifications / training courses completed,69,2.822429906542056,True,Capabilities
+Georgia,2020,% of digital skills certifications / training courses completed,70,2.7757009345794392,True,Capabilities
+Jordan,2020,% of digital skills certifications / training courses completed,71,2.7289719626168223,True,Capabilities
+Azerbaijan,2020,% of digital skills certifications / training courses completed,72,2.6822429906542062,True,Capabilities
+Ghana,2020,% of digital skills certifications / training courses completed,73,2.6355140186915893,True,Capabilities
+Peru,2020,% of digital skills certifications / training courses completed,74,2.5887850467289724,True,Capabilities
+Morocco,2020,% of digital skills certifications / training courses completed,75,2.5420560747663554,True,Capabilities
+Thailand,2020,% of digital skills certifications / training courses completed,76,2.4953271028037385,True,Capabilities
+Kenya,2020,% of digital skills certifications / training courses completed,77,2.4485981308411215,True,Capabilities
+Uruguay,2020,% of digital skills certifications / training courses completed,78,2.4018691588785046,True,Capabilities
+Myanmar,2020,% of digital skills certifications / training courses completed,79,2.3551401869158877,True,Capabilities
+Nigeria,2020,% of digital skills certifications / training courses completed,80,2.3084112149532707,True,Capabilities
+Kazakhstan,2020,% of digital skills certifications / training courses completed,81,2.261682242990654,True,Capabilities
+Argentina,2020,% of digital skills certifications / training courses completed,82,2.214953271028037,True,Capabilities
+Brazil,2020,% of digital skills certifications / training courses completed,83,2.16822429906542,True,Capabilities
+El Salvador,2020,% of digital skills certifications / training courses completed,84,2.121495327102804,True,Capabilities
+Saint Lucia,2020,% of digital skills certifications / training courses completed,85,2.074766355140187,True,Capabilities
+Kyrgyzstan,2020,% of digital skills certifications / training courses completed,86,2.02803738317757,True,Capabilities
+Sudan,2020,% of digital skills certifications / training courses completed,87,1.981308411214953,True,Capabilities
+Oman,2020,% of digital skills certifications / training courses completed,88,1.934579439252336,True,Capabilities
+Chile,2020,% of digital skills certifications / training courses completed,89,1.88785046728972,True,Capabilities
+Botswana,2020,% of digital skills certifications / training courses completed,90,1.8411214953271031,True,Capabilities
+Colombia,2020,% of digital skills certifications / training courses completed,91,1.7943925233644862,True,Capabilities
+Dominican Republic,2020,% of digital skills certifications / training courses completed,92,1.7476635514018692,True,Capabilities
+Ecuador,2020,% of digital skills certifications / training courses completed,93,1.7009345794392523,True,Capabilities
+Puerto Rico,2020,% of digital skills certifications / training courses completed,94,1.6542056074766354,True,Capabilities
+Algeria,2020,% of digital skills certifications / training courses completed,95,1.6074766355140184,True,Capabilities
+Nicaragua,2020,% of digital skills certifications / training courses completed,96,1.5607476635514015,True,Capabilities
+Bolivia,2020,% of digital skills certifications / training courses completed,97,1.5140186915887854,True,Capabilities
+Honduras,2020,% of digital skills certifications / training courses completed,98,1.4672897196261685,True,Capabilities
+Guatemala,2020,% of digital skills certifications / training courses completed,99,1.4205607476635516,True,Capabilities
+Bhutan,2020,% of digital skills certifications / training courses completed,100,1.3738317757009346,True,Capabilities
+Panama,2020,% of digital skills certifications / training courses completed,101,1.3271028037383177,True,Capabilities
+Mexico,2020,% of digital skills certifications / training courses completed,102,1.2803738317757007,True,Capabilities
+Iraq,2020,% of digital skills certifications / training courses completed,103,1.2336448598130838,True,Capabilities
+Uzbekistan,2020,% of digital skills certifications / training courses completed,104,1.1869158878504669,True,Capabilities
+Sierra Leone,2020,% of digital skills certifications / training courses completed,105,1.1401869158878508,True,Capabilities
+Paraguay,2020,% of digital skills certifications / training courses completed,106,1.0934579439252339,True,Capabilities
+Guyana,2020,% of digital skills certifications / training courses completed,107,1.046728971962617,True,Capabilities
+Somalia,2020,% of digital skills certifications / training courses completed,108,1.0,True,Capabilities
