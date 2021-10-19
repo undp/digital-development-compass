@@ -1,0 +1,472 @@
+Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
+Foundations,Data Exchange,Afghanistan,1.6179775280898876,1,0.4044943820224719
+Foundations,Data Exchange,Albania,2.966292134831461,1,0.7415730337078652
+Foundations,Data Exchange,Antigua and Barbuda,1.2247191011235956,1,0.3061797752808989
+Foundations,Data Exchange,Argentina,4.314606741573034,1,1.0786516853932584
+Foundations,Data Exchange,Australia,5.382022471910112,1,1.345505617977528
+Foundations,Data Exchange,Austria,3.696629213483146,1,0.9241573033707865
+Foundations,Data Exchange,Bangladesh,2.3483146067415728,1,0.5870786516853932
+Foundations,Data Exchange,Barbados,1.1685393258426966,1,0.29213483146067415
+Foundations,Data Exchange,Belgium,3.865168539325843,1,0.9662921348314607
+Foundations,Data Exchange,Bhutan,2.235955056179775,1,0.5589887640449438
+Foundations,Data Exchange,Bolivia,2.629213483146067,1,0.6573033707865168
+Foundations,Data Exchange,Bosnia and Herzegovina,2.404494382022472,1,0.601123595505618
+Foundations,Data Exchange,Botswana,1.449438202247191,1,0.36235955056179775
+Foundations,Data Exchange,Brazil,4.764044943820225,1,1.1910112359550562
+Foundations,Data Exchange,Bulgaria,3.4719101123595504,1,0.8679775280898876
+Foundations,Data Exchange,Cambodia,1.898876404494382,1,0.4747191011235955
+Foundations,Data Exchange,Cameroon,1.5617977528089888,1,0.3904494382022472
+Foundations,Data Exchange,Canada,4.820224719101123,1,1.2050561797752808
+Foundations,Data Exchange,Chile,3.865168539325843,1,0.9662921348314607
+Foundations,Data Exchange,Colombia,4.539325842696629,1,1.1348314606741572
+Foundations,Data Exchange,Costa Rica,2.235955056179775,1,0.5589887640449438
+Foundations,Data Exchange,Croatia,3.134831460674157,1,0.7837078651685393
+Foundations,Data Exchange,Czech Republic,3.752808988764045,1,0.9382022471910112
+Foundations,Data Exchange,Denmark,4.595505617977528,1,1.148876404494382
+Foundations,Data Exchange,Dominican Republic,2.460674157303371,1,0.6151685393258427
+Foundations,Data Exchange,El Salvador,2.9101123595505616,1,0.7275280898876404
+Foundations,Data Exchange,Finland,4.820224719101123,1,1.2050561797752808
+Foundations,Data Exchange,France,4.876404494382022,1,1.2191011235955056
+Foundations,Data Exchange,Germany,3.808988764044944,1,0.952247191011236
+Foundations,Data Exchange,Ghana,1.8426966292134832,1,0.4606741573033708
+Foundations,Data Exchange,Great Britain,5.382022471910112,1,1.345505617977528
+Foundations,Data Exchange,Greece,3.5280898876404496,1,0.8820224719101124
+Foundations,Data Exchange,Guatemala,2.5168539325842696,1,0.6292134831460674
+Foundations,Data Exchange,Guyana,2.0674157303370784,1,0.5168539325842696
+Foundations,Data Exchange,Hong Kong,3.808988764044944,1,0.952247191011236
+Foundations,Data Exchange,India,3.5842696629213484,1,0.8960674157303371
+Foundations,Data Exchange,Indonesia,2.3483146067415728,1,0.5870786516853932
+Foundations,Data Exchange,Iran,2.1235955056179776,1,0.5308988764044944
+Foundations,Data Exchange,Isle of Man,3.359550561797753,1,0.8398876404494382
+Foundations,Data Exchange,Israel,3.247191011235955,1,0.8117977528089888
+Foundations,Data Exchange,Italy,3.5842696629213484,1,0.8960674157303371
+Foundations,Data Exchange,Jamaica,2.404494382022472,1,0.601123595505618
+Foundations,Data Exchange,Japan,4.370786516853933,1,1.0926966292134832
+Foundations,Data Exchange,Kenya,1.7865168539325844,1,0.4466292134831461
+Foundations,Data Exchange,Kosovo,2.404494382022472,1,0.601123595505618
+Foundations,Data Exchange,Latvia,4.539325842696629,1,1.1348314606741572
+Foundations,Data Exchange,Lesotho,1.8426966292134832,1,0.4606741573033708
+Foundations,Data Exchange,Macedonia,2.6853932584269664,1,0.6713483146067416
+Foundations,Data Exchange,Malawi,1.2247191011235956,1,0.3061797752808989
+Foundations,Data Exchange,Malaysia,1.50561797752809,1,0.3764044943820225
+Foundations,Data Exchange,Mexico,4.595505617977528,1,1.148876404494382
+Foundations,Data Exchange,Montenegro,2.9101123595505616,1,0.7275280898876404
+Foundations,Data Exchange,Mozambique,1.6179775280898876,1,0.4044943820224719
+Foundations,Data Exchange,Myanmar,1.0,1,0.25
+Foundations,Data Exchange,Namibia,1.7865168539325844,1,0.4466292134831461
+Foundations,Data Exchange,Nepal,2.0674157303370784,1,0.5168539325842696
+Foundations,Data Exchange,Netherlands,3.97752808988764,1,0.99438202247191
+Foundations,Data Exchange,New Zealand,4.764044943820225,1,1.1910112359550562
+Foundations,Data Exchange,Northern Ireland,4.707865168539327,1,1.1769662921348318
+Foundations,Data Exchange,Norway,4.820224719101123,1,1.2050561797752808
+Foundations,Data Exchange,Oman,1.7303370786516854,1,0.43258426966292135
+Foundations,Data Exchange,Pakistan,2.01123595505618,1,0.502808988764045
+Foundations,Data Exchange,Panama,2.3483146067415728,1,0.5870786516853932
+Foundations,Data Exchange,Paraguay,3.415730337078652,1,0.853932584269663
+Foundations,Data Exchange,Peru,2.573033707865169,1,0.6432584269662922
+Foundations,Data Exchange,Philippines,2.629213483146067,1,0.6573033707865168
+Foundations,Data Exchange,Poland,3.696629213483146,1,0.9241573033707865
+Foundations,Data Exchange,Portugal,3.02247191011236,1,0.75561797752809
+Foundations,Data Exchange,Puerto Rico,3.359550561797753,1,0.8398876404494382
+Foundations,Data Exchange,Romania,3.808988764044944,1,0.952247191011236
+Foundations,Data Exchange,Russia,3.359550561797753,1,0.8398876404494382
+Foundations,Data Exchange,Saint Kitts and Nevis,1.1685393258426966,1,0.29213483146067415
+Foundations,Data Exchange,Saint Lucia,1.7865168539325844,1,0.4466292134831461
+Foundations,Data Exchange,Saint Vincent and the Grenadines,1.3370786516853932,1,0.3342696629213483
+Foundations,Data Exchange,Serbia,3.247191011235955,1,0.8117977528089888
+Foundations,Data Exchange,Singapore,4.314606741573034,1,1.0786516853932584
+Foundations,Data Exchange,Slovakia,3.5842696629213484,1,0.8960674157303371
+Foundations,Data Exchange,Slovenia,3.696629213483146,1,0.9241573033707865
+Foundations,Data Exchange,South Africa,3.191011235955056,1,0.797752808988764
+Foundations,Data Exchange,Sweden,3.9213483146067416,1,0.9803370786516854
+Foundations,Data Exchange,Switzerland,2.966292134831461,1,0.7415730337078652
+Foundations,Data Exchange,Taiwan,6.0,1,1.5
+Foundations,Data Exchange,Tanzania,2.0674157303370784,1,0.5168539325842696
+Foundations,Data Exchange,Thailand,2.8539325842696632,1,0.7134831460674158
+Foundations,Data Exchange,The Bahamas,1.898876404494382,1,0.4747191011235955
+Foundations,Data Exchange,Trinidad and Tobago,2.1235955056179776,1,0.5308988764044944
+Foundations,Data Exchange,Tunisia,2.1797752808988764,1,0.5449438202247191
+Foundations,Data Exchange,Turkey,3.02247191011236,1,0.75561797752809
+Foundations,Data Exchange,Ukraine,3.640449438202247,1,0.9101123595505618
+Foundations,Data Exchange,United States,4.595505617977528,1,1.148876404494382
+Foundations,Data Exchange,Uruguay,4.033707865168539,1,1.0084269662921348
+Foundations,Data Exchange,Venezuela,1.7303370786516854,1,0.43258426966292135
+Foundations,Data Exchange,Zambia,2.01123595505618,1,0.502808988764045
+Foundations,Data Exchange,Zimbabwe,1.6741573033707864,1,0.4185393258426966
+Foundations,Digital Legal Identity,-,0.0,0,0.0
+Foundations,Digital Legal Identity,0.03,0.0,0,0.0
+Foundations,Digital Legal Identity,Afghanistan,3.5267857142857144,4,3.5267857142857144
+Foundations,Digital Legal Identity,Albania,5.1,4,5.1
+Foundations,Digital Legal Identity,Algeria,3.071428571428571,3,2.3035714285714284
+Foundations,Digital Legal Identity,Andorra,2.1396103896103895,2,1.0698051948051948
+Foundations,Digital Legal Identity,Angola,3.590909090909091,3,2.6931818181818183
+Foundations,Digital Legal Identity,Antigua and Barbuda,2.594155844155844,2,1.297077922077922
+Foundations,Digital Legal Identity,Argentina,4.5,3,3.375
+Foundations,Digital Legal Identity,Armenia,4.5,3,3.375
+Foundations,Digital Legal Identity,Australia,2.8051948051948052,2,1.4025974025974026
+Foundations,Digital Legal Identity,Austria,2.8051948051948052,2,1.4025974025974026
+Foundations,Digital Legal Identity,Azerbaijan,4.94659090909091,4,4.94659090909091
+Foundations,Digital Legal Identity,Bahamas,6.0,1,1.5
+Foundations,Digital Legal Identity,"Bahamas, The",1.5541125541125542,2,0.7770562770562771
+Foundations,Digital Legal Identity,Bahrain,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Bangladesh,2.7305194805194803,3,2.0478896103896105
+Foundations,Digital Legal Identity,Barbados,3.25,3,2.4375
+Foundations,Digital Legal Identity,Belarus,3.25,3,2.4375
+Foundations,Digital Legal Identity,Belgium,4.337662337662337,3,3.253246753246753
+Foundations,Digital Legal Identity,Belize,2.3801948051948054,3,1.785146103896104
+Foundations,Digital Legal Identity,Benin,2.974025974025974,3,2.2305194805194803
+Foundations,Digital Legal Identity,Bhutan,5.192857142857143,4,5.192857142857143
+Foundations,Digital Legal Identity,Bolivia,3.5665584415584415,3,2.674918831168831
+Foundations,Digital Legal Identity,Bosnia and Herzegovina,4.5,3,3.375
+Foundations,Digital Legal Identity,Botswana,3.323051948051948,3,2.492288961038961
+Foundations,Digital Legal Identity,Brazil,4.386363636363637,3,3.2897727272727275
+Foundations,Digital Legal Identity,Brunei Darussalam,3.25,3,2.4375
+Foundations,Digital Legal Identity,Bulgaria,4.5,3,3.375
+Foundations,Digital Legal Identity,Burkina Faso,3.9805194805194803,3,2.9853896103896105
+Foundations,Digital Legal Identity,Burundi,1.5616883116883118,3,1.1712662337662338
+Foundations,Digital Legal Identity,Cabo Verde,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Cambodia,3.0227272727272725,3,2.267045454545454
+Foundations,Digital Legal Identity,Cameroon,2.5844155844155843,3,1.9383116883116882
+Foundations,Digital Legal Identity,Canada,2.821428571428571,2,1.4107142857142856
+Foundations,Digital Legal Identity,Central African Republic,1.5454545454545454,3,1.1590909090909092
+Foundations,Digital Legal Identity,Chad,3.6396103896103895,3,2.729707792207792
+Foundations,Digital Legal Identity,Chile,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,China,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,Chinese Taipei,6.0,1,1.5
+Foundations,Digital Legal Identity,Colombia,4.5,3,3.375
+Foundations,Digital Legal Identity,Comoros,2.8603896103896105,3,2.145292207792208
+Foundations,Digital Legal Identity,"Congo, Dem. Rep.",1.1006493506493507,2,0.5503246753246753
+Foundations,Digital Legal Identity,"Congo, Rep.",3.0551948051948052,3,2.291396103896104
+Foundations,Digital Legal Identity,Costa Rica,4.386363636363637,3,3.2897727272727275
+Foundations,Digital Legal Identity,Croatia,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,Cuba,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Cyprus,3.9642857142857144,3,2.9732142857142856
+Foundations,Digital Legal Identity,Czech Republic,4.451298701298701,3,3.338474025974026
+Foundations,Digital Legal Identity,Côte d'Ivoire,4.5969155844155845,4,4.5969155844155845
+Foundations,Digital Legal Identity,Denmark,4.37012987012987,3,3.2775974025974026
+Foundations,Digital Legal Identity,Djibouti,2.5032467532467533,3,1.877435064935065
+Foundations,Digital Legal Identity,Dominica,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Dominican Republic,5.077597402597402,4,5.077597402597402
+Foundations,Digital Legal Identity,Ecuador,6.0,4,6.0
+Foundations,Digital Legal Identity,Egypt,6.0,1,1.5
+Foundations,Digital Legal Identity,"Egypt, Arab Rep.",3.956709956709956,2,1.978354978354978
+Foundations,Digital Legal Identity,El Salvador,4.725,4,4.725
+Foundations,Digital Legal Identity,Equatorial Guinea,2.1396103896103895,2,1.0698051948051948
+Foundations,Digital Legal Identity,Eritrea,2.1136363636363638,3,1.585227272727273
+Foundations,Digital Legal Identity,Estonia,4.5,3,3.375
+Foundations,Digital Legal Identity,Eswatini,3.5,1,0.875
+Foundations,Digital Legal Identity,Ethiopia,2.1948051948051948,3,1.646103896103896
+Foundations,Digital Legal Identity,Fiji,1.9512987012987013,3,1.463474025974026
+Foundations,Digital Legal Identity,Finland,4.5,3,3.375
+Foundations,Digital Legal Identity,France,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Gabon,3.9642857142857144,3,2.9732142857142856
+Foundations,Digital Legal Identity,Gambia,6.0,1,1.5
+Foundations,Digital Legal Identity,"Gambia, The",3.5238095238095237,2,1.7619047619047619
+Foundations,Digital Legal Identity,Georgia,4.5,3,3.375
+Foundations,Digital Legal Identity,Germany,4.353896103896104,3,3.2654220779220777
+Foundations,Digital Legal Identity,Ghana,4.2564935064935066,3,3.19237012987013
+Foundations,Digital Legal Identity,Greece,4.321428571428571,3,3.2410714285714284
+Foundations,Digital Legal Identity,Grenada,3.0064935064935066,3,2.25487012987013
+Foundations,Digital Legal Identity,Guatemala,2.974025974025974,3,2.2305194805194803
+Foundations,Digital Legal Identity,Guinea,2.8279220779220777,3,2.120941558441558
+Foundations,Digital Legal Identity,Guinea-Bissau,2.470779220779221,3,1.8530844155844157
+Foundations,Digital Legal Identity,Guyana,1.6850649350649352,2,0.8425324675324676
+Foundations,Digital Legal Identity,Haiti,3.8514610389610393,4,3.8514610389610393
+Foundations,Digital Legal Identity,Honduras,5.342532467532467,4,5.342532467532467
+Foundations,Digital Legal Identity,"Hong Kong SAR, China",3.9155844155844157,3,2.936688311688312
+Foundations,Digital Legal Identity,Hungary,4.5,3,3.375
+Foundations,Digital Legal Identity,Iceland,4.451298701298701,3,3.338474025974026
+Foundations,Digital Legal Identity,India,5.217694805194805,4,5.217694805194805
+Foundations,Digital Legal Identity,Indonesia,3.12012987012987,3,2.3400974025974026
+Foundations,Digital Legal Identity,Iran,1.0,1,0.25
+Foundations,Digital Legal Identity,"Iran, Islamic Rep.",3.9134199134199137,2,1.9567099567099568
+Foundations,Digital Legal Identity,Iraq,3.875,3,2.90625
+Foundations,Digital Legal Identity,Ireland,2.9025974025974026,2,1.4512987012987013
+Foundations,Digital Legal Identity,Israel,4.5,3,3.375
+Foundations,Digital Legal Identity,Italy,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Jamaica,4.386363636363637,3,3.2897727272727275
+Foundations,Digital Legal Identity,Japan,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Jordan,3.599025974025974,3,2.6992694805194803
+Foundations,Digital Legal Identity,Kazakhstan,4.2564935064935066,3,3.19237012987013
+Foundations,Digital Legal Identity,Kenya,5.032792207792208,4,5.032792207792208
+Foundations,Digital Legal Identity,Kiribati,1.2954545454545454,2,0.6477272727272727
+Foundations,Digital Legal Identity,"Korea, DPR",1.0,1,0.25
+Foundations,Digital Legal Identity,"Korea, Dem. People's Rep.",2.16017316017316,2,1.08008658008658
+Foundations,Digital Legal Identity,"Korea, Rep.",4.5,3,3.375
+Foundations,Digital Legal Identity,Kosovo,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,Kuwait,4.451298701298701,3,3.338474025974026
+Foundations,Digital Legal Identity,Kyrgyz Republic,5.455032467532467,4,5.455032467532467
+Foundations,Digital Legal Identity,Lao PDR,2.974025974025974,3,2.2305194805194803
+Foundations,Digital Legal Identity,Latvia,4.5,3,3.375
+Foundations,Digital Legal Identity,Lebanon,3.0227272727272725,3,2.267045454545454
+Foundations,Digital Legal Identity,Lesotho,5.039123376623377,4,5.039123376623377
+Foundations,Digital Legal Identity,Liberia,3.4144480519480522,4,3.4144480519480522
+Foundations,Digital Legal Identity,Libya,2.487012987012987,3,1.8652597402597402
+Foundations,Digital Legal Identity,Liechtenstein,4.012987012987013,3,3.00974025974026
+Foundations,Digital Legal Identity,Lithuania,4.5,3,3.375
+Foundations,Digital Legal Identity,Luxembourg,3.883116883116883,3,2.912337662337662
+Foundations,Digital Legal Identity,"Macao SAR, China",3.8993506493506493,3,2.924512987012987
+Foundations,Digital Legal Identity,"Macedonia, FYR",4.5,3,3.375
+Foundations,Digital Legal Identity,Madagascar,2.762987012987013,3,2.07224025974026
+Foundations,Digital Legal Identity,Malawi,3.871590909090909,4,3.871590909090909
+Foundations,Digital Legal Identity,Malaysia,4.483766233766234,3,3.3628246753246755
+Foundations,Digital Legal Identity,Maldives,4.368993506493506,4,4.368993506493506
+Foundations,Digital Legal Identity,Mali,4.9678571428571425,4,4.9678571428571425
+Foundations,Digital Legal Identity,Malta,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Marshall Islands,1.7175324675324675,2,0.8587662337662337
+Foundations,Digital Legal Identity,Mauritania,2.5844155844155843,3,1.9383116883116882
+Foundations,Digital Legal Identity,Mauritius,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Mexico,5.576298701298701,4,5.576298701298701
+Foundations,Digital Legal Identity,"Micronesia, Fed. Sts.",1.2305194805194803,2,0.6152597402597402
+Foundations,Digital Legal Identity,Moldova,4.5,3,3.375
+Foundations,Digital Legal Identity,Monaco,3.4448051948051948,3,2.583603896103896
+Foundations,Digital Legal Identity,Mongolia,4.1375,4,4.1375
+Foundations,Digital Legal Identity,Montenegro,5.1,4,5.1
+Foundations,Digital Legal Identity,Morocco,4.077922077922078,3,3.058441558441558
+Foundations,Digital Legal Identity,Mozambique,2.616883116883117,3,1.9626623376623378
+Foundations,Digital Legal Identity,Myanmar,1.4805194805194803,3,1.1103896103896103
+Foundations,Digital Legal Identity,Namibia,3.0389610389610393,3,2.2792207792207795
+Foundations,Digital Legal Identity,Nauru,1.62012987012987,2,0.810064935064935
+Foundations,Digital Legal Identity,Nepal,4.852922077922077,4,4.852922077922077
+Foundations,Digital Legal Identity,Netherlands,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,New Zealand,2.8863636363636367,2,1.4431818181818183
+Foundations,Digital Legal Identity,Nicaragua,4.2727272727272725,3,3.204545454545454
+Foundations,Digital Legal Identity,Niger,2.762987012987013,3,2.07224025974026
+Foundations,Digital Legal Identity,Nigeria,3.3311688311688314,3,2.4983766233766236
+Foundations,Digital Legal Identity,North Macedonia,6.0,1,1.5
+Foundations,Digital Legal Identity,Norway,4.37012987012987,3,3.2775974025974026
+Foundations,Digital Legal Identity,Oman,3.801948051948052,3,2.851461038961039
+Foundations,Digital Legal Identity,Pakistan,4.695616883116883,4,4.695616883116883
+Foundations,Digital Legal Identity,Palau,1.75,2,0.875
+Foundations,Digital Legal Identity,Palestine,3.888961038961039,4,3.888961038961039
+Foundations,Digital Legal Identity,Panama,4.337662337662337,3,3.253246753246753
+Foundations,Digital Legal Identity,Papua New Guinea,2.909090909090909,3,2.1818181818181817
+Foundations,Digital Legal Identity,Paraguay,4.175324675324675,3,3.1314935064935066
+Foundations,Digital Legal Identity,Personal Card,0.0,0,0.0
+Foundations,Digital Legal Identity,Peru,4.5,3,3.375
+Foundations,Digital Legal Identity,Philippines,2.7564935064935066,2,1.3782467532467533
+Foundations,Digital Legal Identity,Poland,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,Portugal,4.5,3,3.375
+Foundations,Digital Legal Identity,Qatar,4.207792207792208,3,3.155844155844156
+Foundations,Digital Legal Identity,Romania,4.5,3,3.375
+Foundations,Digital Legal Identity,Russian Federation,4.5,3,3.375
+Foundations,Digital Legal Identity,Rwanda,4.175324675324675,3,3.1314935064935066
+Foundations,Digital Legal Identity,Samoa,1.4090909090909092,2,0.7045454545454546
+Foundations,Digital Legal Identity,San Marino,4.5,3,3.375
+Foundations,Digital Legal Identity,Saudi Arabia,2.275974025974026,3,1.7069805194805197
+Foundations,Digital Legal Identity,Senegal,4.045454545454545,3,3.0340909090909087
+Foundations,Digital Legal Identity,Serbia,4.451298701298701,3,3.338474025974026
+Foundations,Digital Legal Identity,Seychelles,4.5,3,3.375
+Foundations,Digital Legal Identity,Sierra Leone,5.046590909090909,4,5.046590909090909
+Foundations,Digital Legal Identity,Singapore,3.8993506493506493,3,2.924512987012987
+Foundations,Digital Legal Identity,Slovak Republic,4.5,3,3.375
+Foundations,Digital Legal Identity,Slovenia,4.5,3,3.375
+Foundations,Digital Legal Identity,Solomon Islands,1.603896103896104,2,0.801948051948052
+Foundations,Digital Legal Identity,Somalia,0.5,2,0.25
+Foundations,Digital Legal Identity,South Africa,4.061688311688312,3,3.046266233766234
+Foundations,Digital Legal Identity,South Sudan,2.3896103896103895,3,1.7922077922077921
+Foundations,Digital Legal Identity,Spain,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Sri Lanka,4.6962662337662335,4,4.6962662337662335
+Foundations,Digital Legal Identity,St. Kitts and Nevis,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,St. Lucia,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,St. Vincent and the Grenadines,4.5,3,3.375
+Foundations,Digital Legal Identity,Sudan,2.633116883116883,3,1.9748376623376622
+Foundations,Digital Legal Identity,Suriname,3.7775974025974026,3,2.833198051948052
+Foundations,Digital Legal Identity,Swaziland,2.9826839826839824,2,1.4913419913419912
+Foundations,Digital Legal Identity,Sweden,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Legal Identity,Switzerland,4.191558441558442,3,3.1436688311688314
+Foundations,Digital Legal Identity,Syrian Arab Republic,3.7126623376623376,3,2.7844967532467533
+Foundations,Digital Legal Identity,São Tomé and Principe,4.467532467532467,3,3.35064935064935
+Foundations,Digital Legal Identity,"Taiwan, China",3.935064935064935,2,1.9675324675324675
+Foundations,Digital Legal Identity,Tajikistan,4.24025974025974,3,3.180194805194805
+Foundations,Digital Legal Identity,Tanzania,3.112012987012987,3,2.33400974025974
+Foundations,Digital Legal Identity,Thailand,5.3875,4,5.3875
+Foundations,Digital Legal Identity,Timor-Leste,2.892857142857143,3,2.169642857142857
+Foundations,Digital Legal Identity,Togo,2.9415584415584415,3,2.206168831168831
+Foundations,Digital Legal Identity,Tonga,3.2012987012987013,3,2.400974025974026
+Foundations,Digital Legal Identity,Trinidad and Tobago,4.483766233766234,3,3.3628246753246755
+Foundations,Digital Legal Identity,Tunisia,4.061688311688312,3,3.046266233766234
+Foundations,Digital Legal Identity,Turkey,4.717532467532467,4,4.717532467532467
+Foundations,Digital Legal Identity,Turkmenistan,1.62012987012987,2,0.810064935064935
+Foundations,Digital Legal Identity,Tuvalu,1.4090909090909092,2,0.7045454545454546
+Foundations,Digital Legal Identity,Uganda,3.7045454545454546,3,2.778409090909091
+Foundations,Digital Legal Identity,Ukraine,4.451298701298701,3,3.338474025974026
+Foundations,Digital Legal Identity,United Arab Emirates,2.957792207792208,3,2.218344155844156
+Foundations,Digital Legal Identity,United Kingdom,2.821428571428571,2,1.4107142857142856
+Foundations,Digital Legal Identity,United States,1.7402597402597404,1,0.4350649350649351
+Foundations,Digital Legal Identity,United States of America,6.0,1,1.5
+Foundations,Digital Legal Identity,Uruguay,4.5,3,3.375
+Foundations,Digital Legal Identity,Uzbekistan,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Vanuatu,1.3766233766233766,2,0.6883116883116883
+Foundations,Digital Legal Identity,"Venezuela, RB",3.6639610389610393,3,2.7479707792207795
+Foundations,Digital Legal Identity,Vietnam,4.435064935064935,3,3.3262987012987013
+Foundations,Digital Legal Identity,Yemen,1.0,1,0.25
+Foundations,Digital Legal Identity,"Yemen, Rep.",2.9177489177489178,2,1.4588744588744589
+Foundations,Digital Legal Identity,Zambia,3.590909090909091,3,2.6931818181818183
+Foundations,Digital Legal Identity,Zimbabwe,3.8181818181818183,3,2.8636363636363638
+Foundations,Digital Payments,Afghanistan,1.2735308170090778,2,0.6367654085045389
+Foundations,Digital Payments,Albania,2.4494744386048737,2,1.2247372193024368
+Foundations,Digital Payments,Algeria,2.450370281892021,2,1.2251851409460106
+Foundations,Digital Payments,Arab world,2.285535117056856,2,1.142767558528428
+Foundations,Digital Payments,Argentina,2.9956402293358817,2,1.4978201146679408
+Foundations,Digital Payments,Armenia,3.0225155279503104,2,1.5112577639751552
+Foundations,Digital Payments,Australia,5.6018188405797105,3,4.201364130434783
+Foundations,Digital Payments,Austria,5.863533205924511,2,2.9317666029622553
+Foundations,Digital Payments,Azerbaijan,2.038580984233158,2,1.019290492116579
+Foundations,Digital Payments,Bahrain,4.935140946010511,2,2.4675704730052557
+Foundations,Digital Payments,Bangladesh,2.8600692785475395,2,1.4300346392737697
+Foundations,Digital Payments,Belarus,4.934543717152413,2,2.4672718585762063
+Foundations,Digital Payments,Belgium,5.497953097627011,3,4.123464823220258
+Foundations,Digital Payments,Benin,2.36735547061634,2,1.18367773530817
+Foundations,Digital Payments,Bolivia,3.133002866698519,2,1.5665014333492595
+Foundations,Digital Payments,Bosnia and Herzegovina,3.5421046344959386,2,1.7710523172479693
+Foundations,Digital Payments,Botswana,3.104933110367893,2,1.5524665551839465
+Foundations,Digital Payments,Brazil,4.061693741041568,2,2.030846870520784
+Foundations,Digital Payments,Bulgaria,4.30685618729097,2,2.153428093645485
+Foundations,Digital Payments,Burkina Faso,2.803631151457238,2,1.401815575728619
+Foundations,Digital Payments,Cambodia,1.6017080745341614,2,0.8008540372670807
+Foundations,Digital Payments,Cameroon,2.312111801242236,2,1.156055900621118
+Foundations,Digital Payments,Canada,5.674050724637681,3,4.255538043478261
+Foundations,Digital Payments,Central African Republic,1.1917104634495939,2,0.5958552317247969
+Foundations,Digital Payments,Chad,1.6832298136645965,2,0.8416149068322982
+Foundations,Digital Payments,Chile,4.361801242236025,2,2.1809006211180124
+Foundations,Digital Payments,China,4.608158146201625,2,2.3040790731008123
+Foundations,Digital Payments,Colombia,2.831700907787864,2,1.415850453893932
+Foundations,Digital Payments,"Congo, Dem. Rep.",1.874641662685141,2,0.9373208313425705
+Foundations,Digital Payments,"Congo, Rep.",1.765946010511228,2,0.882973005255614
+Foundations,Digital Payments,Costa Rica,4.0339225991399905,2,2.0169612995699953
+Foundations,Digital Payments,Cote d'Ivoire,2.7215121834687053,2,1.3607560917343526
+Foundations,Digital Payments,Croatia,5.180602006688963,2,2.5903010033444813
+Foundations,Digital Payments,Cyprus,5.181497849976111,2,2.5907489249880555
+Foundations,Digital Payments,Czech Republic,4.901978420130594,3,3.6764838150979458
+Foundations,Digital Payments,Denmark,5.954000000000001,3,4.4655000000000005
+Foundations,Digital Payments,Developing,3.488951266125179,2,1.7444756330625895
+Foundations,Digital Payments,Dominican Republic,3.296643573817487,2,1.6483217869087434
+Foundations,Digital Payments,East Asia & Pacific,4.28027950310559,2,2.140139751552795
+Foundations,Digital Payments,East Asia & Pacific (excluding high income),4.089166268514095,2,2.0445831342570475
+Foundations,Digital Payments,Ecuador,2.8331939799331103,2,1.4165969899665551
+Foundations,Digital Payments,"Egypt, Arab Rep.",2.094123268036311,2,1.0470616340181556
+Foundations,Digital Payments,El Salvador,2.0388795986622075,2,1.0194397993311037
+Foundations,Digital Payments,Estonia,5.6408047459786586,3,4.230603559483994
+Foundations,Digital Payments,Ethiopia,1.8501552795031058,2,0.9250776397515529
+Foundations,Digital Payments,Euro area,5.6724199713330155,2,2.8362099856665077
+Foundations,Digital Payments,Europe & Central Asia,4.907369804108935,2,2.4536849020544675
+Foundations,Digital Payments,Europe & Central Asia (excluding high income),3.978678929765886,2,1.989339464882943
+Foundations,Digital Payments,Finland,5.8810507246376815,3,4.410788043478261
+Foundations,Digital Payments,France,5.644947443860488,2,2.822473721930244
+Foundations,Digital Payments,Gabon,3.6508002866698517,2,1.8254001433349258
+Foundations,Digital Payments,Georgia,3.678571428571429,2,1.8392857142857144
+Foundations,Digital Payments,Germany,5.483569039655997,3,4.112676779741998
+Foundations,Digital Payments,Ghana,3.4874581939799336,2,1.7437290969899668
+Foundations,Digital Payments,Greece,4.9085642618251315,2,2.4542821309125658
+Foundations,Digital Payments,Guatemala,2.6680602006688967,2,1.3340301003344484
+Foundations,Digital Payments,Guinea,1.7378762541806019,2,0.8689381270903009
+Foundations,Digital Payments,Haiti,2.2299928332537027,2,1.1149964166268513
+Foundations,Digital Payments,High income,5.61777353081701,2,2.808886765408505
+Foundations,Digital Payments,High income: OECD,5.6724199713330155,2,2.8362099856665077
+Foundations,Digital Payments,Honduras,2.8042283803153367,2,1.4021141901576684
+Foundations,Digital Payments,"Hong Kong SAR, China",5.482202580028667,2,2.7411012900143334
+Foundations,Digital Payments,Hungary,4.552317247969421,2,2.2761586239847107
+Foundations,Digital Payments,India,3.5483755375059722,2,1.7741877687529861
+Foundations,Digital Payments,Indonesia,2.85977066411849,2,1.429885332059245
+Foundations,Digital Payments,"Iran, Islamic Rep.",5.590599617773531,2,2.7952998088867655
+Foundations,Digital Payments,Iraq,1.7107023411371238,2,0.8553511705685619
+Foundations,Digital Payments,Ireland,5.7267677974199716,2,2.8633838987099858
+Foundations,Digital Payments,Israel,5.590301003344481,2,2.7951505016722407
+Foundations,Digital Payments,Italy,5.590599617773531,2,2.7952998088867655
+Foundations,Digital Payments,Japan,5.836359292881032,2,2.918179646440516
+Foundations,Digital Payments,Jordan,2.6131151457238415,2,1.3065575728619208
+Foundations,Digital Payments,Kazakhstan,3.6508002866698517,2,1.8254001433349258
+Foundations,Digital Payments,Kenya,4.96201624462494,2,2.48100812231247
+Foundations,Digital Payments,"Korea, Rep.",5.492279980888676,3,4.119209985666507
+Foundations,Digital Payments,Kosovo,3.0508838987099853,2,1.5254419493549927
+Foundations,Digital Payments,Kuwait,4.798375537505972,2,2.399187768752986
+Foundations,Digital Payments,Kyrgyz Republic,2.6396918299092214,2,1.3198459149546107
+Foundations,Digital Payments,Lao PDR,1.7124940277114191,2,0.8562470138557096
+Foundations,Digital Payments,Latin America & Caribbean,3.323518872431916,2,1.661759436215958
+Foundations,Digital Payments,Latin America & Caribbean (excluding high income),3.26887243191591,2,1.634436215957955
+Foundations,Digital Payments,Latvia,5.590301003344481,2,2.7951505016722407
+Foundations,Digital Payments,Lebanon,2.6955327281414236,2,1.3477663640707118
+Foundations,Digital Payments,Lesotho,2.8588748208313426,2,1.4294374104156713
+Foundations,Digital Payments,Liberia,2.3124104156712857,2,1.1562052078356428
+Foundations,Digital Payments,Libya,3.2452818920210222,2,1.6226409460105111
+Foundations,Digital Payments,Lithuania,4.96231485905399,2,2.481157429526995
+Foundations,Digital Payments,Low income,2.2305900621118013,2,1.1152950310559007
+Foundations,Digital Payments,Lower middle income,2.943979933110368,2,1.471989966555184
+Foundations,Digital Payments,Luxembourg,5.945353559483994,2,2.972676779741997
+Foundations,Digital Payments,"Macedonia, FYR",4.4713927376970855,2,2.2356963688485427
+Foundations,Digital Payments,Madagascar,1.4646440516005732,2,0.7323220258002866
+Foundations,Digital Payments,Malawi,2.25746536072623,2,1.128732680363115
+Foundations,Digital Payments,Malaysia,4.799868609651218,2,2.399934304825609
+Foundations,Digital Payments,Mali,2.366459627329193,2,1.1832298136645965
+Foundations,Digital Payments,Malta,5.645843287147635,2,2.8229216435738174
+Foundations,Digital Payments,Mauritania,1.574235547061634,2,0.787117773530817
+Foundations,Digital Payments,Mauritius,4.910057333970378,2,2.455028666985189
+Foundations,Digital Payments,Mexico,2.4485785953177257,2,1.2242892976588629
+Foundations,Digital Payments,Middle East & North Africa,2.9138198757763973,2,1.4569099378881987
+Foundations,Digital Payments,Middle East & North Africa (excluding high income),2.640587673196369,2,1.3202938365981844
+Foundations,Digital Payments,Middle income,3.571070234113712,2,1.785535117056856
+Foundations,Digital Payments,Moldova,2.858277591973245,2,1.4291387959866224
+Foundations,Digital Payments,Mongolia,5.427257525083611,2,2.7136287625418056
+Foundations,Digital Payments,Montenegro,4.061096512183469,2,2.0305482560917345
+Foundations,Digital Payments,Morocco,1.821189679885332,2,0.910594839942666
+Foundations,Digital Payments,Mozambique,2.6402890587673196,2,1.3201445293836598
+Foundations,Digital Payments,Myanmar,1.4942068800764452,2,0.7471034400382226
+Foundations,Digital Payments,Namibia,4.7171524128045865,2,2.3585762064022933
+Foundations,Digital Payments,Nepal,2.2335762064022933,2,1.1167881032011466
+Foundations,Digital Payments,Netherlands,5.798717391304348,3,4.349038043478261
+Foundations,Digital Payments,New Zealand,5.724286430960344,3,4.293214823220258
+Foundations,Digital Payments,Nicaragua,2.0935260391782133,2,1.0467630195891067
+Foundations,Digital Payments,Niger,1.355351170568562,2,0.677675585284281
+Foundations,Digital Payments,Nigeria,2.4766483516483517,2,1.2383241758241759
+Foundations,Digital Payments,North America,5.644947443860488,2,2.822473721930244
+Foundations,Digital Payments,Norway,6.0,3,4.5
+Foundations,Digital Payments,Pakistan,1.6285833731485904,2,0.8142916865742952
+Foundations,Digital Payments,Panama,2.777353081700908,2,1.388676540850454
+Foundations,Digital Payments,Paraguay,3.1315097945532733,2,1.5657548972766366
+Foundations,Digital Payments,Peru,2.6677615862398474,2,1.3338807931199237
+Foundations,Digital Payments,Philippines,2.1759436215957955,2,1.0879718107978977
+Foundations,Digital Payments,Poland,4.959600414078675,3,3.7197003105590065
+Foundations,Digital Payments,Portugal,5.426958910654562,2,2.713479455327281
+Foundations,Digital Payments,Romania,3.4331103678929766,2,1.7165551839464883
+Foundations,Digital Payments,Russian Federation,4.579789775441949,2,2.2898948877209744
+Foundations,Digital Payments,Rwanda,2.9959388437649306,2,1.4979694218824653
+Foundations,Digital Payments,Saudi Arabia,4.198160535117057,2,2.0990802675585285
+Foundations,Digital Payments,Senegal,2.803332537028189,2,1.4016662685140946
+Foundations,Digital Payments,Serbia,4.306557572861921,2,2.1532787864309606
+Foundations,Digital Payments,Sierra Leone,1.5467630195891067,2,0.7733815097945533
+Foundations,Digital Payments,Singapore,5.700489727663641,2,2.8502448638318203
+Foundations,Digital Payments,Slovak Republic,5.098483038700429,2,2.5492415193502147
+Foundations,Digital Payments,Slovenia,5.863533205924511,2,2.9317666029622553
+Foundations,Digital Payments,South Africa,4.088569039655996,2,2.044284519827998
+Foundations,Digital Payments,South Asia,3.2464763497372195,2,1.6232381748686098
+Foundations,Digital Payments,South Sudan,1.0,2,0.5
+Foundations,Digital Payments,Spain,5.590599617773531,2,2.7952998088867655
+Foundations,Digital Payments,Sri Lanka,3.872670807453416,2,1.936335403726708
+Foundations,Digital Payments,Sub-Saharan Africa,2.6677615862398474,2,1.3338807931199237
+Foundations,Digital Payments,Sub-Saharan Africa (excluding high income),2.6677615862398474,2,1.3338807931199237
+Foundations,Digital Payments,Sweden,5.866550724637681,3,4.399913043478261
+Foundations,Digital Payments,Switzerland,5.863533205924511,2,2.9317666029622553
+Foundations,Digital Payments,"Taiwan, China",5.237338748208314,2,2.618669374104157
+Foundations,Digital Payments,Tajikistan,3.0493908265647396,2,1.5246954132823698
+Foundations,Digital Payments,Tanzania,3.0222169135212615,2,1.5111084567606308
+Foundations,Digital Payments,Thailand,4.50005972288581,2,2.250029861442905
+Foundations,Digital Payments,Togo,2.6411849020544675,2,1.3205924510272338
+Foundations,Digital Payments,Trinidad and Tobago,4.526935021500239,2,2.2634675107501194
+Foundations,Digital Payments,Tunisia,2.3670568561872907,2,1.1835284280936453
+Foundations,Digital Payments,Turkey,4.1972646918299095,2,2.0986323459149547
+Foundations,Digital Payments,Turkmenistan,2.612816531294792,2,1.306408265647396
+Foundations,Digital Payments,Uganda,3.67797419971333,2,1.838987099856665
+Foundations,Digital Payments,Ukraine,3.9509077878643097,2,1.9754538939321549
+Foundations,Digital Payments,United Arab Emirates,5.262720974677496,2,2.631360487338748
+Foundations,Digital Payments,United Kingdom,5.808588150979455,2,2.9042940754897275
+Foundations,Digital Payments,United States,5.466867335562988,3,4.100150501672241
+Foundations,Digital Payments,Upper middle income,4.252806975633063,2,2.1264034878165314
+Foundations,Digital Payments,Uruguay,3.9240324892498806,2,1.9620162446249403
+Foundations,Digital Payments,Uzbekistan,2.5029264214046822,2,1.2514632107023411
+Foundations,Digital Payments,"Venezuela, RB",4.4430243669374105,2,2.2215121834687053
+Foundations,Digital Payments,Vietnam,2.0391782130912564,2,1.0195891065456282
+Foundations,Digital Payments,West Bank and Gaza,1.6297778308647874,2,0.8148889154323937
+Foundations,Digital Payments,World,3.87117773530817,2,1.935588867654085
+Foundations,Digital Payments,Zambia,2.8860487338748206,2,1.4430243669374103
+Foundations,Digital Payments,Zimbabwe,3.5137362637362637,2,1.7568681318681318

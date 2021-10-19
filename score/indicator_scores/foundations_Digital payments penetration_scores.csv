@@ -1,135 +1,16 @@
-Country Name,Indicator,data_col,new_rank_score,higher_is_better
-Norway,Digital payments penetration,100.0,6.0,True
-Denmark,Digital payments penetration,97.24,5.862,True
-Finland,Digital payments penetration,93.95,5.6975,True
-Sweden,Digital payments penetration,93.08,5.654,True
-Netherlands,Digital payments penetration,89.01,5.4505,True
-New Zealand,Digital payments penetration,86.73,5.3365,True
-United States,Digital payments penetration,84.4,5.22,True
-Estonia,Digital payments penetration,82.82,5.141,True
-"Korea, Rep.",Digital payments penetration,82.64,5.132,True
-Canada,Digital payments penetration,81.53,5.076499999999999,True
-Australia,Digital payments penetration,79.37,4.968500000000001,True
-Czech Republic,Digital payments penetration,75.65,4.782500000000001,True
-Belgium,Digital payments penetration,73.15,4.657500000000001,True
-Germany,Digital payments penetration,71.2,4.5600000000000005,True
-Poland,Digital payments penetration,70.34,4.517,True
-Latvia,Digital payments penetration,69.36,4.468,True
-Luxembourg,Digital payments penetration,66.56,4.328,True
-Kenya,Digital payments penetration,66.35,4.3175,True
-Switzerland,Digital payments penetration,66.23,4.3115000000000006,True
-Lithuania,Digital payments penetration,60.65,4.032500000000001,True
-France,Digital payments penetration,60.62,4.031,True
-Austria,Digital payments penetration,59.89,3.9945,True
-United Arab Emirates,Digital payments penetration,59.16,3.9579999999999997,True
-Slovakia,Digital payments penetration,58.94,3.947,True
-Israel,Digital payments penetration,58.49,3.9245,True
-China,Digital payments penetration,57.53,3.8764999999999996,True
-Singapore,Digital payments penetration,56.92,3.846,True
-United Kingdom,Digital payments penetration,55.84,3.7920000000000003,True
-Hong Kong (China),Digital payments penetration,52.51,3.6255,True
-Slovenia,Digital payments penetration,52.32,3.616,True
-Malta,Digital payments penetration,51.17,3.5585000000000004,True
-Ireland,Digital payments penetration,50.93,3.5465,True
-"Iran, Islamic Rep.",Digital payments penetration,50.73,3.5364999999999998,True
-Russian Federation,Digital payments penetration,50.6,3.53,True
-Namibia,Digital payments penetration,48.77,3.4385000000000003,True
-Mongolia,Digital payments penetration,46.58,3.3289999999999997,True
-Venezuela,Digital payments penetration,46.32,3.316,True
-Belarus,Digital payments penetration,46.02,3.301,True
-Zimbabwe,Digital payments penetration,44.27,3.2135000000000002,True
-Croatia,Digital payments penetration,43.89,3.1944999999999997,True
-Hungary,Digital payments penetration,43.79,3.1895,True
-Malaysia,Digital payments penetration,43.4,3.17,True
-Turkey,Digital payments penetration,43.39,3.1694999999999998,True
-Cyprus,Digital payments penetration,42.11,3.1055,True
-Saudi Arabia,Digital payments penetration,40.98,3.049,True
-Zambia,Digital payments penetration,40.46,3.023,True
-Bahrain,Digital payments penetration,40.0,3.0,True
-Chile,Digital payments penetration,39.41,2.9705,True
-Japan,Digital payments penetration,38.84,2.942,True
-Spain,Digital payments penetration,36.31,2.8155,True
-Botswana,Digital payments penetration,36.21,2.8105,True
-Tanzania,Digital payments penetration,35.69,2.7845,True
-Kazakhstan,Digital payments penetration,35.3,2.7649999999999997,True
-Portugal,Digital payments penetration,34.56,2.728,True
-Mozambique,Digital payments penetration,34.3,2.715,True
-Kuwait,Digital payments penetration,34.02,2.7010000000000005,True
-"Congo, Dem. Rep.",Digital payments penetration,33.51,2.6754999999999995,True
-Ukraine,Digital payments penetration,32.53,2.6265,True
-Ghana,Digital payments penetration,32.31,2.6155,True
-Malawi,Digital payments penetration,31.01,2.5505000000000004,True
-Lesotho,Digital payments penetration,30.94,2.547,True
-Senegal,Digital payments penetration,30.8,2.54,True
-Benin,Digital payments penetration,30.59,2.5294999999999996,True
-Uganda,Digital payments penetration,30.31,2.5155,True
-Costa Rica,Digital payments penetration,29.47,2.4735,True
-Viet Nam,Digital payments penetration,28.29,2.4145,True
-South Africa,Digital payments penetration,28.13,2.4065000000000003,True
-Uruguay,Digital payments penetration,27.88,2.394,True
-Burkina Faso,Digital payments penetration,27.27,2.3635,True
-Italy,Digital payments penetration,26.71,2.3355,True
-Moldova,Digital payments penetration,25.65,2.2824999999999998,True
-Mali,Digital payments penetration,24.23,2.2115,True
-Cameroon,Digital payments penetration,24.15,2.2075,True
-Côte d'Ivoire,Digital payments penetration,23.87,2.1935000000000002,True
-Romania,Digital payments penetration,23.59,2.1795,True
-Greece,Digital payments penetration,23.33,2.1665,True
-Argentina,Digital payments penetration,22.93,2.1465,True
-Thailand,Digital payments penetration,22.52,2.126,True
-Brazil,Digital payments penetration,19.93,1.9965000000000002,True
-Nigeria,Digital payments penetration,19.7,1.9849999999999999,True
-Tajikistan,Digital payments penetration,19.4,1.97,True
-Serbia,Digital payments penetration,18.74,1.9369999999999998,True
-Mauritius,Digital payments penetration,18.11,1.9055,True
-Trinidad and Tobago,Digital payments penetration,17.67,1.8835000000000002,True
-Armenia,Digital payments penetration,17.52,1.876,True
-Colombia,Digital payments penetration,17.15,1.8575,True
-Guinea,Digital payments penetration,16.91,1.8455,True
-North Macedonia,Digital payments penetration,16.85,1.8425,True
-Montenegro,Digital payments penetration,16.36,1.818,True
-Mexico,Digital payments penetration,16.28,1.814,True
-El Salvador,Digital payments penetration,16.25,1.8125,True
-Bulgaria,Digital payments penetration,16.23,1.8115,True
-Georgia,Digital payments penetration,15.9,1.795,True
-Indonesia,Digital payments penetration,14.96,1.7480000000000002,True
-Rwanda,Digital payments penetration,14.35,1.7175,True
-Bangladesh,Digital payments penetration,14.08,1.7040000000000002,True
-Philippines,Digital payments penetration,13.55,1.6775,True
-Panama,Digital payments penetration,13.18,1.659,True
-Dominican Republic,Digital payments penetration,12.98,1.649,True
-Lebanon,Digital payments penetration,12.96,1.6480000000000001,True
-Bolivia,Digital payments penetration,12.41,1.6204999999999998,True
-Pakistan,Digital payments penetration,11.51,1.5755,True
-Bosnia and Herzegovina,Digital payments penetration,10.71,1.5355,True
-Kyrgyzstan,Digital payments penetration,10.62,1.531,True
-Tunisia,Digital payments penetration,10.37,1.5185,True
-Paraguay,Digital payments penetration,10.29,1.5145,True
-Peru,Digital payments penetration,10.13,1.5065,True
-Honduras,Digital payments penetration,9.92,1.496,True
-Ecuador,Digital payments penetration,9.8,1.49,True
-Sri Lanka,Digital payments penetration,9.76,1.488,True
-Jordan,Digital payments penetration,9.24,1.462,True
-Albania,Digital payments penetration,8.62,1.431,True
-Guatemala,Digital payments penetration,7.65,1.3825,True
-Azerbaijan,Digital payments penetration,6.93,1.3465,True
-Nepal,Digital payments penetration,6.34,1.317,True
-India,Digital payments penetration,5.99,1.2995,True
-Cambodia,Digital payments penetration,5.27,1.2635,True
-Lao PDR,Digital payments penetration,5.12,1.256,True
-Algeria,Digital payments penetration,4.16,1.208,True
-Morocco,Digital payments penetration,3.56,1.178,True
-Egypt,Digital payments penetration,3.38,1.169,True
-Ethiopia,Digital payments penetration,0.0,1.0,True
-Angola,Digital payments penetration,,,True
-Burundi,Digital payments penetration,,,True
-Cabo Verde,Digital payments penetration,,,True
-Chad,Digital payments penetration,,,True
-Eswatini,Digital payments penetration,,,True
-Gambia,Digital payments penetration,,,True
-Iceland,Digital payments penetration,,,True
-Jamaica,Digital payments penetration,,,True
-Madagascar,Digital payments penetration,,,True
-Oman,Digital payments penetration,,,True
-Qatar,Digital payments penetration,,,True
-Yemen,Digital payments penetration,,,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Norway,2017,Digital payments penetration,100.0,6.0,True,Digital Payments
+Denmark,2017,Digital payments penetration,97.24,5.862,True,Digital Payments
+Finland,2017,Digital payments penetration,93.95,5.6975,True,Digital Payments
+Sweden,2017,Digital payments penetration,93.08,5.654,True,Digital Payments
+Netherlands,2017,Digital payments penetration,89.01,5.4505,True,Digital Payments
+New Zealand,2017,Digital payments penetration,86.73,5.3365,True,Digital Payments
+United States,2017,Digital payments penetration,84.4,5.22,True,Digital Payments
+Estonia,2017,Digital payments penetration,82.82,5.141,True,Digital Payments
+"Korea, Rep.",2017,Digital payments penetration,82.64,5.132,True,Digital Payments
+Canada,2017,Digital payments penetration,81.53,5.076499999999999,True,Digital Payments
+Australia,2017,Digital payments penetration,79.37,4.968500000000001,True,Digital Payments
+Czech Republic,2017,Digital payments penetration,75.65,4.782500000000001,True,Digital Payments
+Belgium,2017,Digital payments penetration,73.15,4.657500000000001,True,Digital Payments
+Germany,2017,Digital payments penetration,71.2,4.5600000000000005,True,Digital Payments
+Poland,2017,Digital payments penetration,70.34,4.517,True,Digital Payments
