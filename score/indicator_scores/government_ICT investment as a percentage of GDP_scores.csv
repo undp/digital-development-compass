@@ -1,11 +1,11 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-CAN,2010,ICT investment as a percentage of GDP,17.018367,2.471010386143842,True,Funding and procurement
-FIN,2010,ICT investment as a percentage of GDP,15.519828,2.121240922218991,True,Funding and procurement
-DEU,2010,ICT investment as a percentage of GDP,12.690394,1.4608312742947491,True,Funding and procurement
-IRL,2010,ICT investment as a percentage of GDP,12.412805,1.3960400638414776,True,Funding and procurement
-ITA,2010,ICT investment as a percentage of GDP,11.026056,1.0723631663244144,True,Funding and procurement
-KOR,2010,ICT investment as a percentage of GDP,10.716026,1.0,True,Funding and procurement
-NZL,2010,ICT investment as a percentage of GDP,21.238183,3.4559448991471773,True,Funding and procurement
-ESP,2010,ICT investment as a percentage of GDP,13.763415,1.7112818664716007,True,Funding and procurement
-CHE,2010,ICT investment as a percentage of GDP,18.506691,2.818395597757613,True,Funding and procurement
-USA,2010,ICT investment as a percentage of GDP,32.137836,6.0,True,Funding and procurement
+Canada,2010,ICT investment as a percentage of GDP,17.018367,2.471010386143842,True,Funding and procurement
+Finland,2010,ICT investment as a percentage of GDP,15.519828,2.121240922218991,True,Funding and procurement
+Germany,2010,ICT investment as a percentage of GDP,12.690394,1.4608312742947491,True,Funding and procurement
+Ireland,2010,ICT investment as a percentage of GDP,12.412805,1.3960400638414776,True,Funding and procurement
+Italy,2010,ICT investment as a percentage of GDP,11.026056,1.0723631663244144,True,Funding and procurement
+South Korea,2010,ICT investment as a percentage of GDP,10.716026,1.0,True,Funding and procurement
+New Zealand,2010,ICT investment as a percentage of GDP,21.238183,3.4559448991471773,True,Funding and procurement
+Spain,2010,ICT investment as a percentage of GDP,13.763415,1.7112818664716007,True,Funding and procurement
+Switzerland,2010,ICT investment as a percentage of GDP,18.506691,2.818395597757613,True,Funding and procurement
+United States,2010,ICT investment as a percentage of GDP,32.137836,6.0,True,Funding and procurement
