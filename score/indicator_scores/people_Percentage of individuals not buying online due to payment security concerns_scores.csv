@@ -1,29 +1,29 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-3,Austria,2019,Percentage of individuals not buying online due to payment security concerns,31.19888,3.7658190576991006,False
-15,Belgium,2019,Percentage of individuals not buying online due to payment security concerns,18.12961,4.853662955849116,False
-27,Czech Republic,2019,Percentage of individuals not buying online due to payment security concerns,9.814267,5.545805297661203,False
-39,Denmark,2019,Percentage of individuals not buying online due to payment security concerns,18.77055,4.8003131767045835,False
-51,Estonia,2019,Percentage of individuals not buying online due to payment security concerns,4.357608,6.0,False
-84,European Union (28 countries),2019,Percentage of individuals not buying online due to payment security concerns,24.3086,4.339343749938613,False
-96,Finland,2019,Percentage of individuals not buying online due to payment security concerns,64.42721,0.9999999999999991,False
-108,France,2019,Percentage of individuals not buying online due to payment security concerns,40.84349,2.9630328164984343,False
-120,Germany,2019,Percentage of individuals not buying online due to payment security concerns,25.12184,4.271652274306729,False
-132,Greece,2019,Percentage of individuals not buying online due to payment security concerns,23.22381,4.429638172065798,False
-144,Hungary,2019,Percentage of individuals not buying online due to payment security concerns,42.28547,2.843007050387982,False
-155,Iceland,2019,Percentage of individuals not buying online due to payment security concerns,25.92126,4.205111130917764,False
-164,Ireland,2019,Percentage of individuals not buying online due to payment security concerns,16.8304,4.961805007464507,False
-176,Italy,2019,Percentage of individuals not buying online due to payment security concerns,8.159797,5.683518046282378,False
-188,Latvia,2019,Percentage of individuals not buying online due to payment security concerns,11.26785,5.424813735239997,False
-200,Lithuania,2019,Percentage of individuals not buying online due to payment security concerns,13.79941,5.214094842845804,False
-212,Luxembourg,2019,Percentage of individuals not buying online due to payment security concerns,12.39042,5.331374627719358,False
-224,Netherlands,2019,Percentage of individuals not buying online due to payment security concerns,29.81795,3.880763218640936,False
-236,Norway,2019,Percentage of individuals not buying online due to payment security concerns,35.54435,3.404116145134439,False
-247,Poland,2019,Percentage of individuals not buying online due to payment security concerns,6.025776,5.861147074022565,False
-259,Portugal,2019,Percentage of individuals not buying online due to payment security concerns,60.8759,1.2955995946169248,False
-271,Slovak Republic,2019,Percentage of individuals not buying online due to payment security concerns,18.31045,4.83861041729559,False
-283,Slovenia,2019,Percentage of individuals not buying online due to payment security concerns,18.36815,4.833807655326233,False
-295,Spain,2019,Percentage of individuals not buying online due to payment security concerns,48.23008,2.3481968800126225,False
-307,Sweden,2019,Percentage of individuals not buying online due to payment security concerns,39.91206,3.0405620466737906,False
-314,Switzerland,2019,Percentage of individuals not buying online due to payment security concerns,54.75977,1.804686536794434,False
-322,Turkey,2019,Percentage of individuals not buying online due to payment security concerns,45.81075,2.5495741090477004,False
-334,United Kingdom,2019,Percentage of individuals not buying online due to payment security concerns,36.34703,3.3373036498560458,False
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Austria,2019,Percentage of individuals not buying online due to payment security concerns,31.19888,3.7658190576991006,False,Digital Wellbeing
+Belgium,2019,Percentage of individuals not buying online due to payment security concerns,18.12961,4.853662955849116,False,Digital Wellbeing
+Czech Republic,2019,Percentage of individuals not buying online due to payment security concerns,9.814267,5.545805297661203,False,Digital Wellbeing
+Denmark,2019,Percentage of individuals not buying online due to payment security concerns,18.77055,4.8003131767045835,False,Digital Wellbeing
+Estonia,2019,Percentage of individuals not buying online due to payment security concerns,4.357608,6.0,False,Digital Wellbeing
+European Union (28 countries),2019,Percentage of individuals not buying online due to payment security concerns,24.3086,4.339343749938613,False,Digital Wellbeing
+Finland,2019,Percentage of individuals not buying online due to payment security concerns,64.42721,0.9999999999999991,False,Digital Wellbeing
+France,2019,Percentage of individuals not buying online due to payment security concerns,40.84349,2.9630328164984343,False,Digital Wellbeing
+Germany,2019,Percentage of individuals not buying online due to payment security concerns,25.12184,4.271652274306729,False,Digital Wellbeing
+Greece,2019,Percentage of individuals not buying online due to payment security concerns,23.22381,4.429638172065798,False,Digital Wellbeing
+Hungary,2019,Percentage of individuals not buying online due to payment security concerns,42.28547,2.843007050387982,False,Digital Wellbeing
+Iceland,2019,Percentage of individuals not buying online due to payment security concerns,25.92126,4.205111130917764,False,Digital Wellbeing
+Ireland,2019,Percentage of individuals not buying online due to payment security concerns,16.8304,4.961805007464507,False,Digital Wellbeing
+Italy,2019,Percentage of individuals not buying online due to payment security concerns,8.159797,5.683518046282378,False,Digital Wellbeing
+Latvia,2019,Percentage of individuals not buying online due to payment security concerns,11.26785,5.424813735239997,False,Digital Wellbeing
+Lithuania,2019,Percentage of individuals not buying online due to payment security concerns,13.79941,5.214094842845804,False,Digital Wellbeing
+Luxembourg,2019,Percentage of individuals not buying online due to payment security concerns,12.39042,5.331374627719358,False,Digital Wellbeing
+Netherlands,2019,Percentage of individuals not buying online due to payment security concerns,29.81795,3.880763218640936,False,Digital Wellbeing
+Norway,2019,Percentage of individuals not buying online due to payment security concerns,35.54435,3.404116145134439,False,Digital Wellbeing
+Poland,2019,Percentage of individuals not buying online due to payment security concerns,6.025776,5.861147074022565,False,Digital Wellbeing
+Portugal,2019,Percentage of individuals not buying online due to payment security concerns,60.8759,1.2955995946169248,False,Digital Wellbeing
+Slovak Republic,2019,Percentage of individuals not buying online due to payment security concerns,18.31045,4.83861041729559,False,Digital Wellbeing
+Slovenia,2019,Percentage of individuals not buying online due to payment security concerns,18.36815,4.833807655326233,False,Digital Wellbeing
+Spain,2019,Percentage of individuals not buying online due to payment security concerns,48.23008,2.3481968800126225,False,Digital Wellbeing
+Sweden,2019,Percentage of individuals not buying online due to payment security concerns,39.91206,3.0405620466737906,False,Digital Wellbeing
+Switzerland,2019,Percentage of individuals not buying online due to payment security concerns,54.75977,1.804686536794434,False,Digital Wellbeing
+Turkey,2019,Percentage of individuals not buying online due to payment security concerns,45.81075,2.5495741090477004,False,Digital Wellbeing
+United Kingdom,2019,Percentage of individuals not buying online due to payment security concerns,36.34703,3.3373036498560458,False,Digital Wellbeing

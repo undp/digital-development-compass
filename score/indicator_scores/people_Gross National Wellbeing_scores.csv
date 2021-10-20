@@ -1,135 +1,135 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-0,Finland,2019,Gross National Wellbeing,7.78,6.0,True
-1,Switzerland,2019,Gross National Wellbeing,7.69,5.911591355599215,True
-2,Denmark,2019,Gross National Wellbeing,7.69,5.911591355599215,True
-3,Iceland,2019,Gross National Wellbeing,7.53,5.754420432220039,True
-4,Norway,2019,Gross National Wellbeing,7.44,5.6660117878192535,True
-5,Netherlands,2019,Gross National Wellbeing,7.43,5.656188605108055,True
-6,Luxembourg,2019,Gross National Wellbeing,7.4,5.62671905697446,True
-7,Sweden,2019,Gross National Wellbeing,7.4,5.62671905697446,True
-8,Ireland,2019,Gross National Wellbeing,7.25,5.4793713163064846,True
-9,Australia,2019,Gross National Wellbeing,7.23,5.4597249508840875,True
-10,New Zealand,2019,Gross National Wellbeing,7.21,5.4400785854616895,True
-11,Austria,2019,Gross National Wellbeing,7.2,5.430255402750491,True
-12,United Kingdom,2019,Gross National Wellbeing,7.16,5.390962671905698,True
-13,Canada,2019,Gross National Wellbeing,7.11,5.341846758349706,True
-14,Germany,2019,Gross National Wellbeing,7.04,5.273084479371317,True
-15,Czech Republic,2019,Gross National Wellbeing,7.03,5.263261296660118,True
-16,Costa Rica,2019,Gross National Wellbeing,7.0,5.2337917485265235,True
-17,United States,2019,Gross National Wellbeing,6.94,5.174852652259332,True
-18,Israel,2019,Gross National Wellbeing,6.93,5.165029469548134,True
-19,Oman,2019,Gross National Wellbeing,6.85,5.086444007858546,True
-20,Belgium,2019,Gross National Wellbeing,6.77,5.007858546168959,True
-21,Malta,2019,Gross National Wellbeing,6.73,4.968565815324165,True
-22,United Arab Emirates,2019,Gross National Wellbeing,6.71,4.9489194499017675,True
-23,France,2019,Gross National Wellbeing,6.69,4.929273084479371,True
-24,Slovenia,2019,Gross National Wellbeing,6.67,4.909626719056974,True
-25,Uruguay,2019,Gross National Wellbeing,6.6,4.840864440078585,True
-26,Saudi Arabia,2019,Gross National Wellbeing,6.56,4.801571709233791,True
-27,Spain,2019,Gross National Wellbeing,6.46,4.703339882121808,True
-28,El Salvador,2019,Gross National Wellbeing,6.45,4.693516699410609,True
-29,Brazil,2019,Gross National Wellbeing,6.45,4.693516699410609,True
-30,Italy,2019,Gross National Wellbeing,6.45,4.693516699410609,True
-31,Mexico,2019,Gross National Wellbeing,6.43,4.673870333988212,True
-32,Singapore,2019,Gross National Wellbeing,6.38,4.62475442043222,True
-33,Qatar,2019,Gross National Wellbeing,6.37,4.614931237721022,True
-34,Colombia,2019,Gross National Wellbeing,6.35,4.595284872298624,True
-35,Kazakhstan,2019,Gross National Wellbeing,6.27,4.5166994106090375,True
-36,Philippines,2019,Gross National Wellbeing,6.27,4.5166994106090375,True
-37,Guatemala,2019,Gross National Wellbeing,6.26,4.5068762278978385,True
-38,Slovakia,2019,Gross National Wellbeing,6.24,4.487229862475442,True
-39,Poland,2019,Gross National Wellbeing,6.24,4.487229862475442,True
-40,Serbia,2019,Gross National Wellbeing,6.24,4.487229862475442,True
-41,Mauritius,2019,Gross National Wellbeing,6.24,4.487229862475442,True
-42,Bahrain,2019,Gross National Wellbeing,6.23,4.477406679764244,True
-43,Trinidad and Tobago,2019,Gross National Wellbeing,6.19,4.438113948919451,True
-44,Cyprus,2019,Gross National Wellbeing,6.14,4.388998035363458,True
-45,Romania,2019,Gross National Wellbeing,6.13,4.379174852652259,True
-46,Kuwait,2019,Gross National Wellbeing,6.11,4.359528487229863,True
-47,Portugal,2019,Gross National Wellbeing,6.1,4.349705304518664,True
-48,Panama,2019,Gross National Wellbeing,6.09,4.339882121807466,True
-49,Argentina,2019,Gross National Wellbeing,6.09,4.339882121807466,True
-50,Lithuania,2019,Gross National Wellbeing,6.06,4.3104125736738705,True
-51,Estonia,2019,Gross National Wellbeing,6.03,4.280943025540276,True
-52,Thailand,2019,Gross National Wellbeing,6.02,4.271119842829076,True
-53,Bosnia and Herzegovina,2019,Gross National Wellbeing,6.02,4.271119842829076,True
-54,Dominican Republic,2019,Gross National Wellbeing,6.0,4.25147347740668,True
-55,Hungary,2019,Gross National Wellbeing,6.0,4.25147347740668,True
-56,Peru,2019,Gross National Wellbeing,6.0,4.25147347740668,True
-57,Latvia,2019,Gross National Wellbeing,5.97,4.222003929273084,True
-58,Greece,2019,Gross National Wellbeing,5.95,4.202357563850688,True
-59,Chile,2019,Gross National Wellbeing,5.94,4.19253438113949,True
-60,Honduras,2019,Gross National Wellbeing,5.93,4.18271119842829,True
-61,Japan,2019,Gross National Wellbeing,5.91,4.163064833005894,True
-62,"Korea, Rep.",2019,Gross National Wellbeing,5.9,4.153241650294696,True
-63,Jamaica,2019,Gross National Wellbeing,5.89,4.143418467583497,True
-64,Belarus,2019,Gross National Wellbeing,5.82,4.0746561886051085,True
-65,Ecuador,2019,Gross National Wellbeing,5.81,4.0648330058939095,True
-66,Moldova,2019,Gross National Wellbeing,5.8,4.055009823182711,True
-67,Kyrgyzstan,2019,Gross National Wellbeing,5.69,3.946954813359529,True
-68,Bolivia,2019,Gross National Wellbeing,5.67,3.927308447937132,True
-69,Hong Kong (China),2019,Gross National Wellbeing,5.66,3.9174852652259338,True
-70,Paraguay,2019,Gross National Wellbeing,5.65,3.9076620825147352,True
-71,Croatia,2019,Gross National Wellbeing,5.63,3.8880157170923377,True
-72,Mongolia,2019,Gross National Wellbeing,5.56,3.8192534381139485,True
-73,Russian Federation,2019,Gross National Wellbeing,5.51,3.7701375245579567,True
-74,Senegal,2019,Gross National Wellbeing,5.49,3.7504911591355605,True
-75,Pakistan,2019,Gross National Wellbeing,5.47,3.730844793713163,True
-76,Viet Nam,2019,Gross National Wellbeing,5.47,3.730844793713163,True
-77,Tajikistan,2019,Gross National Wellbeing,5.46,3.7210216110019645,True
-78,Nepal,2019,Gross National Wellbeing,5.45,3.7111984282907664,True
-79,Malaysia,2019,Gross National Wellbeing,5.43,3.6915520628683693,True
-80,Côte d'Ivoire,2019,Gross National Wellbeing,5.39,3.6522593320235752,True
-81,Montenegro,2019,Gross National Wellbeing,5.39,3.6522593320235752,True
-82,Indonesia,2019,Gross National Wellbeing,5.35,3.612966601178782,True
-83,Lao PDR,2019,Gross National Wellbeing,5.2,3.465618860510806,True
-84,Azerbaijan,2019,Gross National Wellbeing,5.17,3.43614931237721,True
-85,Gambia,2019,Gross National Wellbeing,5.16,3.426326129666012,True
-86,China,2019,Gross National Wellbeing,5.14,3.4066797642436146,True
-87,Bangladesh,2019,Gross National Wellbeing,5.11,3.37721021611002,True
-88,Bulgaria,2019,Gross National Wellbeing,5.11,3.37721021611002,True
-89,Venezuela,2019,Gross National Wellbeing,5.08,3.3477406679764248,True
-90,Armenia,2019,Gross National Wellbeing,5.06,3.3280943025540273,True
-91,Morocco,2019,Gross National Wellbeing,5.06,3.3280943025540273,True
-92,South Africa,2019,Gross National Wellbeing,5.03,3.2986247544204326,True
-93,North Macedonia,2019,Gross National Wellbeing,5.02,3.2888015717092336,True
-94,"Iran, Islamic Rep.",2019,Gross National Wellbeing,5.01,3.2789783889980355,True
-95,Cambodia,2019,Gross National Wellbeing,5.0,3.269155206286837,True
-96,Albania,2019,Gross National Wellbeing,5.0,3.269155206286837,True
-97,Mali,2019,Gross National Wellbeing,4.99,3.259332023575639,True
-98,Benin,2019,Gross National Wellbeing,4.98,3.249508840864441,True
-99,Ghana,2019,Gross National Wellbeing,4.97,3.2396856581532414,True
-100,Uganda,2019,Gross National Wellbeing,4.95,3.220039292730845,True
-101,Cameroon,2019,Gross National Wellbeing,4.94,3.2102161100196467,True
-102,Mozambique,2019,Gross National Wellbeing,4.93,3.2003929273084477,True
-103,Georgia,2019,Gross National Wellbeing,4.89,3.161100196463654,True
-104,Turkey,2019,Gross National Wellbeing,4.87,3.1414538310412574,True
-105,Guinea,2019,Gross National Wellbeing,4.77,3.043222003929273,True
-106,Algeria,2019,Gross National Wellbeing,4.74,3.0137524557956783,True
-107,Burkina Faso,2019,Gross National Wellbeing,4.74,3.0137524557956783,True
-108,Ukraine,2019,Gross National Wellbeing,4.7,2.974459724950884,True
-109,Kenya,2019,Gross National Wellbeing,4.62,2.895874263261297,True
-110,Jordan,2019,Gross National Wellbeing,4.45,2.7288801571709236,True
-111,Namibia,2019,Gross National Wellbeing,4.44,2.7190569744597255,True
-112,Eswatini,2019,Gross National Wellbeing,4.4,2.679764243614932,True
-113,Nigeria,2019,Gross National Wellbeing,4.36,2.640471512770138,True
-114,Madagascar,2019,Gross National Wellbeing,4.34,2.6208251473477406,True
-115,Egypt,2019,Gross National Wellbeing,4.33,2.6110019646365425,True
-116,Tunisia,2019,Gross National Wellbeing,4.32,2.601178781925344,True
-117,"Congo, Dem. Rep.",2019,Gross National Wellbeing,4.31,2.591355599214145,True
-118,Chad,2019,Gross National Wellbeing,4.25,2.5324165029469548,True
-119,Sri Lanka,2019,Gross National Wellbeing,4.21,2.493123772102161,True
-120,Yemen,2019,Gross National Wellbeing,4.2,2.4833005893909625,True
-121,Ethiopia,2019,Gross National Wellbeing,4.1,2.385068762278978,True
-122,Lebanon,2019,Gross National Wellbeing,4.02,2.3064833005893908,True
-123,Malawi,2019,Gross National Wellbeing,3.87,2.1591355599214146,True
-124,Angola,2019,Gross National Wellbeing,3.79,2.0805500982318272,True
-125,Burundi,2019,Gross National Wellbeing,3.78,2.0707269155206287,True
-126,Tanzania,2019,Gross National Wellbeing,3.64,1.9332023575638508,True
-127,Lesotho,2019,Gross National Wellbeing,3.51,1.805500982318271,True
-128,Botswana,2019,Gross National Wellbeing,3.47,1.7662082514734778,True
-129,Zambia,2019,Gross National Wellbeing,3.31,1.6090373280943027,True
-130,Rwanda,2019,Gross National Wellbeing,3.27,1.569744597249509,True
-131,India,2019,Gross National Wellbeing,3.25,1.550098231827112,True
-132,Zimbabwe,2019,Gross National Wellbeing,2.69,1.0,True
-133,Cabo Verde,2019,Gross National Wellbeing,,,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Finland,2019,Gross National Wellbeing,7.78,6.0,True,Digital Wellbeing
+Switzerland,2019,Gross National Wellbeing,7.69,5.911591355599215,True,Digital Wellbeing
+Denmark,2019,Gross National Wellbeing,7.69,5.911591355599215,True,Digital Wellbeing
+Iceland,2019,Gross National Wellbeing,7.53,5.754420432220039,True,Digital Wellbeing
+Norway,2019,Gross National Wellbeing,7.44,5.6660117878192535,True,Digital Wellbeing
+Netherlands,2019,Gross National Wellbeing,7.43,5.656188605108055,True,Digital Wellbeing
+Luxembourg,2019,Gross National Wellbeing,7.4,5.62671905697446,True,Digital Wellbeing
+Sweden,2019,Gross National Wellbeing,7.4,5.62671905697446,True,Digital Wellbeing
+Ireland,2019,Gross National Wellbeing,7.25,5.4793713163064846,True,Digital Wellbeing
+Australia,2019,Gross National Wellbeing,7.23,5.4597249508840875,True,Digital Wellbeing
+New Zealand,2019,Gross National Wellbeing,7.21,5.4400785854616895,True,Digital Wellbeing
+Austria,2019,Gross National Wellbeing,7.2,5.430255402750491,True,Digital Wellbeing
+United Kingdom,2019,Gross National Wellbeing,7.16,5.390962671905698,True,Digital Wellbeing
+Canada,2019,Gross National Wellbeing,7.11,5.341846758349706,True,Digital Wellbeing
+Germany,2019,Gross National Wellbeing,7.04,5.273084479371317,True,Digital Wellbeing
+Czech Republic,2019,Gross National Wellbeing,7.03,5.263261296660118,True,Digital Wellbeing
+Costa Rica,2019,Gross National Wellbeing,7.0,5.2337917485265235,True,Digital Wellbeing
+United States,2019,Gross National Wellbeing,6.94,5.174852652259332,True,Digital Wellbeing
+Israel,2019,Gross National Wellbeing,6.93,5.165029469548134,True,Digital Wellbeing
+Oman,2019,Gross National Wellbeing,6.85,5.086444007858546,True,Digital Wellbeing
+Belgium,2019,Gross National Wellbeing,6.77,5.007858546168959,True,Digital Wellbeing
+Malta,2019,Gross National Wellbeing,6.73,4.968565815324165,True,Digital Wellbeing
+United Arab Emirates,2019,Gross National Wellbeing,6.71,4.9489194499017675,True,Digital Wellbeing
+France,2019,Gross National Wellbeing,6.69,4.929273084479371,True,Digital Wellbeing
+Slovenia,2019,Gross National Wellbeing,6.67,4.909626719056974,True,Digital Wellbeing
+Uruguay,2019,Gross National Wellbeing,6.6,4.840864440078585,True,Digital Wellbeing
+Saudi Arabia,2019,Gross National Wellbeing,6.56,4.801571709233791,True,Digital Wellbeing
+Spain,2019,Gross National Wellbeing,6.46,4.703339882121808,True,Digital Wellbeing
+El Salvador,2019,Gross National Wellbeing,6.45,4.693516699410609,True,Digital Wellbeing
+Brazil,2019,Gross National Wellbeing,6.45,4.693516699410609,True,Digital Wellbeing
+Italy,2019,Gross National Wellbeing,6.45,4.693516699410609,True,Digital Wellbeing
+Mexico,2019,Gross National Wellbeing,6.43,4.673870333988212,True,Digital Wellbeing
+Singapore,2019,Gross National Wellbeing,6.38,4.62475442043222,True,Digital Wellbeing
+Qatar,2019,Gross National Wellbeing,6.37,4.614931237721022,True,Digital Wellbeing
+Colombia,2019,Gross National Wellbeing,6.35,4.595284872298624,True,Digital Wellbeing
+Kazakhstan,2019,Gross National Wellbeing,6.27,4.5166994106090375,True,Digital Wellbeing
+Philippines,2019,Gross National Wellbeing,6.27,4.5166994106090375,True,Digital Wellbeing
+Guatemala,2019,Gross National Wellbeing,6.26,4.5068762278978385,True,Digital Wellbeing
+Slovakia,2019,Gross National Wellbeing,6.24,4.487229862475442,True,Digital Wellbeing
+Poland,2019,Gross National Wellbeing,6.24,4.487229862475442,True,Digital Wellbeing
+Serbia,2019,Gross National Wellbeing,6.24,4.487229862475442,True,Digital Wellbeing
+Mauritius,2019,Gross National Wellbeing,6.24,4.487229862475442,True,Digital Wellbeing
+Bahrain,2019,Gross National Wellbeing,6.23,4.477406679764244,True,Digital Wellbeing
+Trinidad and Tobago,2019,Gross National Wellbeing,6.19,4.438113948919451,True,Digital Wellbeing
+Cyprus,2019,Gross National Wellbeing,6.14,4.388998035363458,True,Digital Wellbeing
+Romania,2019,Gross National Wellbeing,6.13,4.379174852652259,True,Digital Wellbeing
+Kuwait,2019,Gross National Wellbeing,6.11,4.359528487229863,True,Digital Wellbeing
+Portugal,2019,Gross National Wellbeing,6.1,4.349705304518664,True,Digital Wellbeing
+Panama,2019,Gross National Wellbeing,6.09,4.339882121807466,True,Digital Wellbeing
+Argentina,2019,Gross National Wellbeing,6.09,4.339882121807466,True,Digital Wellbeing
+Lithuania,2019,Gross National Wellbeing,6.06,4.3104125736738705,True,Digital Wellbeing
+Estonia,2019,Gross National Wellbeing,6.03,4.280943025540276,True,Digital Wellbeing
+Thailand,2019,Gross National Wellbeing,6.02,4.271119842829076,True,Digital Wellbeing
+Bosnia and Herzegovina,2019,Gross National Wellbeing,6.02,4.271119842829076,True,Digital Wellbeing
+Dominican Republic,2019,Gross National Wellbeing,6.0,4.25147347740668,True,Digital Wellbeing
+Hungary,2019,Gross National Wellbeing,6.0,4.25147347740668,True,Digital Wellbeing
+Peru,2019,Gross National Wellbeing,6.0,4.25147347740668,True,Digital Wellbeing
+Latvia,2019,Gross National Wellbeing,5.97,4.222003929273084,True,Digital Wellbeing
+Greece,2019,Gross National Wellbeing,5.95,4.202357563850688,True,Digital Wellbeing
+Chile,2019,Gross National Wellbeing,5.94,4.19253438113949,True,Digital Wellbeing
+Honduras,2019,Gross National Wellbeing,5.93,4.18271119842829,True,Digital Wellbeing
+Japan,2019,Gross National Wellbeing,5.91,4.163064833005894,True,Digital Wellbeing
+"Korea, Rep.",2019,Gross National Wellbeing,5.9,4.153241650294696,True,Digital Wellbeing
+Jamaica,2019,Gross National Wellbeing,5.89,4.143418467583497,True,Digital Wellbeing
+Belarus,2019,Gross National Wellbeing,5.82,4.0746561886051085,True,Digital Wellbeing
+Ecuador,2019,Gross National Wellbeing,5.81,4.0648330058939095,True,Digital Wellbeing
+Moldova,2019,Gross National Wellbeing,5.8,4.055009823182711,True,Digital Wellbeing
+Kyrgyzstan,2019,Gross National Wellbeing,5.69,3.946954813359529,True,Digital Wellbeing
+Bolivia,2019,Gross National Wellbeing,5.67,3.927308447937132,True,Digital Wellbeing
+Hong Kong (China),2019,Gross National Wellbeing,5.66,3.9174852652259338,True,Digital Wellbeing
+Paraguay,2019,Gross National Wellbeing,5.65,3.9076620825147352,True,Digital Wellbeing
+Croatia,2019,Gross National Wellbeing,5.63,3.8880157170923377,True,Digital Wellbeing
+Mongolia,2019,Gross National Wellbeing,5.56,3.8192534381139485,True,Digital Wellbeing
+Russian Federation,2019,Gross National Wellbeing,5.51,3.7701375245579567,True,Digital Wellbeing
+Senegal,2019,Gross National Wellbeing,5.49,3.7504911591355605,True,Digital Wellbeing
+Pakistan,2019,Gross National Wellbeing,5.47,3.730844793713163,True,Digital Wellbeing
+Viet Nam,2019,Gross National Wellbeing,5.47,3.730844793713163,True,Digital Wellbeing
+Tajikistan,2019,Gross National Wellbeing,5.46,3.7210216110019645,True,Digital Wellbeing
+Nepal,2019,Gross National Wellbeing,5.45,3.7111984282907664,True,Digital Wellbeing
+Malaysia,2019,Gross National Wellbeing,5.43,3.6915520628683693,True,Digital Wellbeing
+Côte d'Ivoire,2019,Gross National Wellbeing,5.39,3.6522593320235752,True,Digital Wellbeing
+Montenegro,2019,Gross National Wellbeing,5.39,3.6522593320235752,True,Digital Wellbeing
+Indonesia,2019,Gross National Wellbeing,5.35,3.612966601178782,True,Digital Wellbeing
+Lao PDR,2019,Gross National Wellbeing,5.2,3.465618860510806,True,Digital Wellbeing
+Azerbaijan,2019,Gross National Wellbeing,5.17,3.43614931237721,True,Digital Wellbeing
+Gambia,2019,Gross National Wellbeing,5.16,3.426326129666012,True,Digital Wellbeing
+China,2019,Gross National Wellbeing,5.14,3.4066797642436146,True,Digital Wellbeing
+Bangladesh,2019,Gross National Wellbeing,5.11,3.37721021611002,True,Digital Wellbeing
+Bulgaria,2019,Gross National Wellbeing,5.11,3.37721021611002,True,Digital Wellbeing
+Venezuela,2019,Gross National Wellbeing,5.08,3.3477406679764248,True,Digital Wellbeing
+Armenia,2019,Gross National Wellbeing,5.06,3.3280943025540273,True,Digital Wellbeing
+Morocco,2019,Gross National Wellbeing,5.06,3.3280943025540273,True,Digital Wellbeing
+South Africa,2019,Gross National Wellbeing,5.03,3.2986247544204326,True,Digital Wellbeing
+North Macedonia,2019,Gross National Wellbeing,5.02,3.2888015717092336,True,Digital Wellbeing
+"Iran, Islamic Rep.",2019,Gross National Wellbeing,5.01,3.2789783889980355,True,Digital Wellbeing
+Cambodia,2019,Gross National Wellbeing,5.0,3.269155206286837,True,Digital Wellbeing
+Albania,2019,Gross National Wellbeing,5.0,3.269155206286837,True,Digital Wellbeing
+Mali,2019,Gross National Wellbeing,4.99,3.259332023575639,True,Digital Wellbeing
+Benin,2019,Gross National Wellbeing,4.98,3.249508840864441,True,Digital Wellbeing
+Ghana,2019,Gross National Wellbeing,4.97,3.2396856581532414,True,Digital Wellbeing
+Uganda,2019,Gross National Wellbeing,4.95,3.220039292730845,True,Digital Wellbeing
+Cameroon,2019,Gross National Wellbeing,4.94,3.2102161100196467,True,Digital Wellbeing
+Mozambique,2019,Gross National Wellbeing,4.93,3.2003929273084477,True,Digital Wellbeing
+Georgia,2019,Gross National Wellbeing,4.89,3.161100196463654,True,Digital Wellbeing
+Turkey,2019,Gross National Wellbeing,4.87,3.1414538310412574,True,Digital Wellbeing
+Guinea,2019,Gross National Wellbeing,4.77,3.043222003929273,True,Digital Wellbeing
+Algeria,2019,Gross National Wellbeing,4.74,3.0137524557956783,True,Digital Wellbeing
+Burkina Faso,2019,Gross National Wellbeing,4.74,3.0137524557956783,True,Digital Wellbeing
+Ukraine,2019,Gross National Wellbeing,4.7,2.974459724950884,True,Digital Wellbeing
+Kenya,2019,Gross National Wellbeing,4.62,2.895874263261297,True,Digital Wellbeing
+Jordan,2019,Gross National Wellbeing,4.45,2.7288801571709236,True,Digital Wellbeing
+Namibia,2019,Gross National Wellbeing,4.44,2.7190569744597255,True,Digital Wellbeing
+Eswatini,2019,Gross National Wellbeing,4.4,2.679764243614932,True,Digital Wellbeing
+Nigeria,2019,Gross National Wellbeing,4.36,2.640471512770138,True,Digital Wellbeing
+Madagascar,2019,Gross National Wellbeing,4.34,2.6208251473477406,True,Digital Wellbeing
+Egypt,2019,Gross National Wellbeing,4.33,2.6110019646365425,True,Digital Wellbeing
+Tunisia,2019,Gross National Wellbeing,4.32,2.601178781925344,True,Digital Wellbeing
+"Congo, Dem. Rep.",2019,Gross National Wellbeing,4.31,2.591355599214145,True,Digital Wellbeing
+Chad,2019,Gross National Wellbeing,4.25,2.5324165029469548,True,Digital Wellbeing
+Sri Lanka,2019,Gross National Wellbeing,4.21,2.493123772102161,True,Digital Wellbeing
+Yemen,2019,Gross National Wellbeing,4.2,2.4833005893909625,True,Digital Wellbeing
+Ethiopia,2019,Gross National Wellbeing,4.1,2.385068762278978,True,Digital Wellbeing
+Lebanon,2019,Gross National Wellbeing,4.02,2.3064833005893908,True,Digital Wellbeing
+Malawi,2019,Gross National Wellbeing,3.87,2.1591355599214146,True,Digital Wellbeing
+Angola,2019,Gross National Wellbeing,3.79,2.0805500982318272,True,Digital Wellbeing
+Burundi,2019,Gross National Wellbeing,3.78,2.0707269155206287,True,Digital Wellbeing
+Tanzania,2019,Gross National Wellbeing,3.64,1.9332023575638508,True,Digital Wellbeing
+Lesotho,2019,Gross National Wellbeing,3.51,1.805500982318271,True,Digital Wellbeing
+Botswana,2019,Gross National Wellbeing,3.47,1.7662082514734778,True,Digital Wellbeing
+Zambia,2019,Gross National Wellbeing,3.31,1.6090373280943027,True,Digital Wellbeing
+Rwanda,2019,Gross National Wellbeing,3.27,1.569744597249509,True,Digital Wellbeing
+India,2019,Gross National Wellbeing,3.25,1.550098231827112,True,Digital Wellbeing
+Zimbabwe,2019,Gross National Wellbeing,2.69,1.0,True,Digital Wellbeing
+Cabo Verde,2019,Gross National Wellbeing,,,True,Digital Wellbeing
