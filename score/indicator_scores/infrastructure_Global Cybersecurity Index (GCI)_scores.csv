@@ -1,195 +1,195 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-0,United States of America**,2020,Global Cybersecurity Index (GCI),100.0,5.032258064516129,True
-1,United Kingdom,2020,Global Cybersecurity Index (GCI),99.54,5.013709677419355,True
-2,Saudi Arabia,2020,Global Cybersecurity Index (GCI),99.54,5.013709677419355,True
-3,Estonia,2020,Global Cybersecurity Index (GCI),99.48,5.0112903225806456,True
-4,Korea (Rep. of),2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True
-5,Singapore,2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True
-6,Spain,2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True
-7,Russian Federation,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True
-8,United Arab Emirates,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True
-9,Malaysia,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True
-10,Lithuania,2020,Global Cybersecurity Index (GCI),97.93,4.9487903225806456,True
-11,Japan,2020,Global Cybersecurity Index (GCI),97.82,4.9443548387096765,True
-12,Canada**,2020,Global Cybersecurity Index (GCI),97.67,4.938306451612903,True
-13,France,2020,Global Cybersecurity Index (GCI),97.6,4.935483870967742,True
-14,India,2020,Global Cybersecurity Index (GCI),97.5,4.931451612903226,True
-15,Turkey,2020,Global Cybersecurity Index (GCI),97.49,4.931048387096775,True
-16,Australia,2020,Global Cybersecurity Index (GCI),97.47,4.930241935483871,True
-17,Luxembourg,2020,Global Cybersecurity Index (GCI),97.41,4.927822580645161,True
-18,Germany,2020,Global Cybersecurity Index (GCI),97.41,4.927822580645161,True
-19,Portugal,2020,Global Cybersecurity Index (GCI),97.32,4.924193548387096,True
-20,Latvia,2020,Global Cybersecurity Index (GCI),97.28,4.92258064516129,True
-21,Netherlands**,2020,Global Cybersecurity Index (GCI),97.05,4.913306451612903,True
-22,Norway**,2020,Global Cybersecurity Index (GCI),96.89,4.906854838709677,True
-23,Mauritius,2020,Global Cybersecurity Index (GCI),96.89,4.906854838709677,True
-24,Brazil,2020,Global Cybersecurity Index (GCI),96.6,4.89516129032258,True
-25,Belgium,2020,Global Cybersecurity Index (GCI),96.25,4.881048387096774,True
-26,Italy,2020,Global Cybersecurity Index (GCI),96.13,4.876209677419355,True
-27,Oman,2020,Global Cybersecurity Index (GCI),96.04,4.872580645161291,True
-28,Finland,2020,Global Cybersecurity Index (GCI),95.78,4.862096774193548,True
-29,Egypt,2020,Global Cybersecurity Index (GCI),95.48,4.85,True
-30,Indonesia,2020,Global Cybersecurity Index (GCI),94.88,4.825806451612904,True
-31,Viet Nam,2020,Global Cybersecurity Index (GCI),94.59,4.814112903225807,True
-32,Sweden,2020,Global Cybersecurity Index (GCI),94.55,4.8125,True
-33,Qatar,2020,Global Cybersecurity Index (GCI),94.5,4.810483870967742,True
-34,Greece,2020,Global Cybersecurity Index (GCI),93.98,4.7895161290322585,True
-35,Austria,2020,Global Cybersecurity Index (GCI),93.89,4.785887096774193,True
-36,Poland,2020,Global Cybersecurity Index (GCI),93.86,4.784677419354839,True
-37,Kazakhstan,2020,Global Cybersecurity Index (GCI),93.15,4.756048387096774,True
-38,Denmark,2020,Global Cybersecurity Index (GCI),92.6,4.733870967741936,True
-39,China,2020,Global Cybersecurity Index (GCI),92.53,4.731048387096774,True
-40,Croatia,2020,Global Cybersecurity Index (GCI),92.53,4.731048387096774,True
-41,Slovakia,2020,Global Cybersecurity Index (GCI),92.36,4.724193548387097,True
-42,Hungary,2020,Global Cybersecurity Index (GCI),91.28,4.680645161290323,True
-43,Israel**,2020,Global Cybersecurity Index (GCI),90.93,4.6665322580645165,True
-44,Tanzania,2020,Global Cybersecurity Index (GCI),90.58,4.65241935483871,True
-45,North Macedonia,2020,Global Cybersecurity Index (GCI),89.92,4.625806451612903,True
-46,Serbia,2020,Global Cybersecurity Index (GCI),89.8,4.620967741935484,True
-47,Azerbaijan,2020,Global Cybersecurity Index (GCI),89.31,4.601209677419355,True
-48,Cyprus,2020,Global Cybersecurity Index (GCI),88.82,4.5814516129032254,True
-49,Switzerland**,2020,Global Cybersecurity Index (GCI),86.97,4.506854838709677,True
-50,Ghana,2020,Global Cybersecurity Index (GCI),86.69,4.495564516129033,True
-51,Thailand,2020,Global Cybersecurity Index (GCI),86.5,4.487903225806452,True
-52,Tunisia,2020,Global Cybersecurity Index (GCI),86.23,4.4770161290322585,True
-53,Ireland,2020,Global Cybersecurity Index (GCI),85.86,4.462096774193549,True
-54,Nigeria,2020,Global Cybersecurity Index (GCI),84.76,4.417741935483871,True
-55,New Zealand**,2020,Global Cybersecurity Index (GCI),84.04,4.388709677419355,True
-56,Malta,2020,Global Cybersecurity Index (GCI),83.65,4.372983870967742,True
-57,Morocco,2020,Global Cybersecurity Index (GCI),82.41,4.322983870967741,True
-58,Kenya,2020,Global Cybersecurity Index (GCI),81.7,4.294354838709678,True
-59,Mexico,2020,Global Cybersecurity Index (GCI),81.68,4.2935483870967746,True
-60,Iran (Islamic Republic of),2020,Global Cybersecurity Index (GCI),81.07,4.2689516129032254,True
-61,Georgia,2020,Global Cybersecurity Index (GCI),81.06,4.268548387096774,True
-62,Benin,2020,Global Cybersecurity Index (GCI),80.06,4.228225806451613,True
-63,Rwanda,2020,Global Cybersecurity Index (GCI),79.95,4.223790322580645,True
-64,Iceland,2020,Global Cybersecurity Index (GCI),79.81,4.218145161290323,True
-65,South Africa**,2020,Global Cybersecurity Index (GCI),78.46,4.163709677419354,True
-66,Bahrain,2020,Global Cybersecurity Index (GCI),77.86,4.139516129032258,True
-67,Philippines,2020,Global Cybersecurity Index (GCI),77.0,4.10483870967742,True
-68,Romania,2020,Global Cybersecurity Index (GCI),76.29,4.076209677419355,True
-69,Moldova,2020,Global Cybersecurity Index (GCI),75.78,4.055645161290323,True
-70,Uruguay,2020,Global Cybersecurity Index (GCI),75.15,4.030241935483871,True
-71,Kuwait,2020,Global Cybersecurity Index (GCI),75.07,4.027016129032258,True
-72,Dominican Rep.,2020,Global Cybersecurity Index (GCI),75.05,4.026209677419355,True
-73,Slovenia,2020,Global Cybersecurity Index (GCI),74.93,4.021370967741936,True
-74,Czech Republic,2020,Global Cybersecurity Index (GCI),74.37,3.9987903225806454,True
-75,Monaco,2020,Global Cybersecurity Index (GCI),72.57,3.9262096774193544,True
-76,Uzbekistan,2020,Global Cybersecurity Index (GCI),71.11,3.8673387096774197,True
-77,Jordan,2020,Global Cybersecurity Index (GCI),70.96,3.8612903225806448,True
-78,Uganda,2020,Global Cybersecurity Index (GCI),69.98,3.8217741935483875,True
-79,Zambia,2020,Global Cybersecurity Index (GCI),68.88,3.7774193548387096,True
-80,Chile,2020,Global Cybersecurity Index (GCI),68.83,3.7754032258064516,True
-81,Côte d'Ivoire,2020,Global Cybersecurity Index (GCI),67.82,3.7346774193548384,True
-82,Costa Rica,2020,Global Cybersecurity Index (GCI),67.45,3.719758064516129,True
-83,Bulgaria,2020,Global Cybersecurity Index (GCI),67.38,3.7169354838709676,True
-84,Ukraine,2020,Global Cybersecurity Index (GCI),65.93,3.658467741935484,True
-85,Pakistan,2020,Global Cybersecurity Index (GCI),64.88,3.616129032258064,True
-86,Albania,2020,Global Cybersecurity Index (GCI),64.32,3.593548387096774,True
-87,Colombia,2020,Global Cybersecurity Index (GCI),63.72,3.5693548387096774,True
-88,Cuba,2020,Global Cybersecurity Index (GCI),58.76,3.3693548387096777,True
-89,Sri Lanka,2020,Global Cybersecurity Index (GCI),58.65,3.3649193548387095,True
-90,Paraguay,2020,Global Cybersecurity Index (GCI),57.09,3.3020161290322583,True
-91,Brunei Darussalam,2020,Global Cybersecurity Index (GCI),56.07,3.260887096774194,True
-92,Peru,2020,Global Cybersecurity Index (GCI),55.67,3.2447580645161294,True
-93,Montenegro,2020,Global Cybersecurity Index (GCI),53.23,3.146370967741935,True
-94,Botswana,2020,Global Cybersecurity Index (GCI),53.06,3.139516129032258,True
-95,Belarus,2020,Global Cybersecurity Index (GCI),50.57,3.0391129032258064,True
-96,Armenia**,2020,Global Cybersecurity Index (GCI),50.47,3.0350806451612904,True
-97,Argentina,2020,Global Cybersecurity Index (GCI),50.12,3.020967741935484,True
-98,Kyrgyzstan,2020,Global Cybersecurity Index (GCI),49.64,3.0016129032258063,True
-99,Cameroon,2020,Global Cybersecurity Index (GCI),45.63,2.8399193548387096,True
-100,Nepal (Republic of),2020,Global Cybersecurity Index (GCI),44.99,2.8141129032258068,True
-101,Chad,2020,Global Cybersecurity Index (GCI),40.44,2.6306451612903228,True
-102,Burkina Faso**,2020,Global Cybersecurity Index (GCI),39.98,2.612096774193548,True
-103,Malawi,2020,Global Cybersecurity Index (GCI),36.83,2.48508064516129,True
-104,Zimbabwe,2020,Global Cybersecurity Index (GCI),36.49,2.4713709677419358,True
-105,Myanmar,2020,Global Cybersecurity Index (GCI),36.41,2.4681451612903222,True
-106,Senegal,2020,Global Cybersecurity Index (GCI),35.85,2.445564516129032,True
-107,Liechtenstein**,2020,Global Cybersecurity Index (GCI),35.15,2.417338709677419,True
-108,Sudan,2020,Global Cybersecurity Index (GCI),35.03,2.4125,True
-109,Panama,2020,Global Cybersecurity Index (GCI),34.11,2.3754032258064517,True
-110,Algeria,2020,Global Cybersecurity Index (GCI),33.95,2.368951612903226,True
-111,Togo,2020,Global Cybersecurity Index (GCI),33.19,2.338306451612903,True
-112,Jamaica**,2020,Global Cybersecurity Index (GCI),32.53,2.3116935483870966,True
-113,Gambia,2020,Global Cybersecurity Index (GCI),32.12,2.2951612903225804,True
-114,Suriname,2020,Global Cybersecurity Index (GCI),31.2,2.258064516129032,True
-115,Lebanon**,2020,Global Cybersecurity Index (GCI),30.44,2.22741935483871,True
-116,Bosnia and Herzegovina,2020,Global Cybersecurity Index (GCI),29.44,2.1870967741935488,True
-117,Samoa,2020,Global Cybersecurity Index (GCI),29.33,2.1826612903225806,True
-118,Fiji,2020,Global Cybersecurity Index (GCI),29.08,2.17258064516129,True
-119,Libya,2020,Global Cybersecurity Index (GCI),28.78,2.160483870967742,True
-120,Guyana,2020,Global Cybersecurity Index (GCI),28.11,2.133467741935484,True
-121,Ethiopia,2020,Global Cybersecurity Index (GCI),27.74,2.118548387096774,True
-122,Venezuela,2020,Global Cybersecurity Index (GCI),27.06,2.0911290322580642,True
-123,Andorra**,2020,Global Cybersecurity Index (GCI),26.38,2.0637096774193546,True
-124,Papua New Guinea**,2020,Global Cybersecurity Index (GCI),26.33,2.0616935483870966,True
-125,Ecuador,2020,Global Cybersecurity Index (GCI),26.3,2.060483870967742,True
-126,Mongolia,2020,Global Cybersecurity Index (GCI),26.2,2.056451612903226,True
-127,Sierra Leone,2020,Global Cybersecurity Index (GCI),25.31,2.020564516129032,True
-128,State of Palestine,2020,Global Cybersecurity Index (GCI),25.18,2.0153225806451616,True
-129,Mozambique,2020,Global Cybersecurity Index (GCI),24.18,1.975,True
-130,Madagascar**,2020,Global Cybersecurity Index (GCI),23.33,1.9407258064516129,True
-131,Trinidad and Tobago,2020,Global Cybersecurity Index (GCI),22.18,1.8943548387096776,True
-132,Syrian Arab Republic**,2020,Global Cybersecurity Index (GCI),22.14,1.892741935483871,True
-133,Nauru**,2020,Global Cybersecurity Index (GCI),21.42,1.863709677419355,True
-134,Tonga**,2020,Global Cybersecurity Index (GCI),20.95,1.844758064516129,True
-135,Iraq**,2020,Global Cybersecurity Index (GCI),20.71,1.8350806451612904,True
-136,Guinea**,2020,Global Cybersecurity Index (GCI),20.53,1.8278225806451613,True
-137,Lao P.D.R.,2020,Global Cybersecurity Index (GCI),20.34,1.8201612903225808,True
-138,Cambodia**,2020,Global Cybersecurity Index (GCI),19.12,1.770967741935484,True
-139,Mauritania,2020,Global Cybersecurity Index (GCI),18.94,1.7637096774193548,True
-140,Bhutan,2020,Global Cybersecurity Index (GCI),18.34,1.739516129032258,True
-141,Eswatini,2020,Global Cybersecurity Index (GCI),18.23,1.7350806451612903,True
-142,Cabo Verde,2020,Global Cybersecurity Index (GCI),17.74,1.7153225806451613,True
-143,Somalia,2020,Global Cybersecurity Index (GCI),17.25,1.6955645161290323,True
-144,Tajikistan**,2020,Global Cybersecurity Index (GCI),17.1,1.689516129032258,True
-145,Barbados,2020,Global Cybersecurity Index (GCI),16.89,1.6810483870967743,True
-146,Bolivia (Plurinational State of),2020,Global Cybersecurity Index (GCI),16.14,1.6508064516129033,True
-147,Sao Tome and Principe,2020,Global Cybersecurity Index (GCI),15.64,1.6306451612903226,True
-148,Antigua and Barbuda,2020,Global Cybersecurity Index (GCI),15.62,1.6298387096774194,True
-149,Congo (Rep. of the)**,2020,Global Cybersecurity Index (GCI),14.72,1.5935483870967744,True
-150,Turkmenistan**,2020,Global Cybersecurity Index (GCI),14.48,1.5838709677419356,True
-151,Kiribati,2020,Global Cybersecurity Index (GCI),13.84,1.5580645161290323,True
-152,San Marino,2020,Global Cybersecurity Index (GCI),13.83,1.5576612903225806,True
-153,Bahamas,2020,Global Cybersecurity Index (GCI),13.37,1.5391129032258064,True
-154,El Salvador**,2020,Global Cybersecurity Index (GCI),13.3,1.536290322580645,True
-155,Seychelles**,2020,Global Cybersecurity Index (GCI),13.23,1.533467741935484,True
-156,Guatemala,2020,Global Cybersecurity Index (GCI),13.13,1.5294354838709678,True
-157,Angola,2020,Global Cybersecurity Index (GCI),12.99,1.5237903225806453,True
-158,Vanuatu,2020,Global Cybersecurity Index (GCI),12.88,1.5193548387096776,True
-159,Saint Kitts and Nevis**,2020,Global Cybersecurity Index (GCI),12.44,1.5016129032258063,True
-160,Saint Vincent and the Grenadines**,2020,Global Cybersecurity Index (GCI),12.18,1.4911290322580646,True
-161,Namibia,2020,Global Cybersecurity Index (GCI),11.47,1.4625,True
-162,Niger,2020,Global Cybersecurity Index (GCI),11.38,1.4588709677419356,True
-163,Gabon,2020,Global Cybersecurity Index (GCI),11.36,1.4580645161290322,True
-164,Saint Lucia**,2020,Global Cybersecurity Index (GCI),10.96,1.4419354838709677,True
-165,Belize,2020,Global Cybersecurity Index (GCI),10.29,1.4149193548387096,True
-166,Mali**,2020,Global Cybersecurity Index (GCI),10.14,1.4088709677419355,True
-167,Guinea-Bissau,2020,Global Cybersecurity Index (GCI),9.85,1.3971774193548387,True
-168,Liberia,2020,Global Cybersecurity Index (GCI),9.72,1.3919354838709679,True
-169,Grenada,2020,Global Cybersecurity Index (GCI),9.41,1.3794354838709677,True
-170,Lesotho,2020,Global Cybersecurity Index (GCI),9.08,1.3661290322580646,True
-171,Nicaragua**,2020,Global Cybersecurity Index (GCI),9.0,1.3629032258064515,True
-172,Solomon Islands,2020,Global Cybersecurity Index (GCI),7.08,1.2854838709677419,True
-173,Haiti,2020,Global Cybersecurity Index (GCI),6.4,1.2580645161290323,True
-174,Tuvalu**,2020,Global Cybersecurity Index (GCI),5.78,1.2330645161290323,True
-175,South Sudan**,2020,Global Cybersecurity Index (GCI),5.75,1.2318548387096775,True
-176,Dem. Rep. of the Congo,2020,Global Cybersecurity Index (GCI),5.3,1.2137096774193548,True
-177,Afghanistan,2020,Global Cybersecurity Index (GCI),5.2,1.2096774193548387,True
-178,Marshall Islands**,2020,Global Cybersecurity Index (GCI),4.9,1.1975806451612903,True
-179,Timor-Leste**,2020,Global Cybersecurity Index (GCI),4.26,1.1717741935483872,True
-180,Dominica,2020,Global Cybersecurity Index (GCI),4.2,1.1693548387096775,True
-181,Comoros**,2020,Global Cybersecurity Index (GCI),3.72,1.15,True
-182,Central African Rep.**,2020,Global Cybersecurity Index (GCI),3.24,1.1306451612903226,True
-183,Maldives**,2020,Global Cybersecurity Index (GCI),2.95,1.1189516129032258,True
-184,Honduras**,2020,Global Cybersecurity Index (GCI),2.2,1.0887096774193548,True
-185,Djibouti,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True
-186,Burundi,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True
-187,Eritrea**,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True
-188,Equatorial Guinea**,2020,Global Cybersecurity Index (GCI),1.46,1.0588709677419355,True
-189,Dem. People's Rep. of Korea**,2020,Global Cybersecurity Index (GCI),1.35,1.0544354838709677,True
-190,Micronesia*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True
-191,Vatican*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True
-192,Yemen*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True
-193,Zimbabwe,2020,Global Cybersecurity Index (GCI),124.0,6.0,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+United States of America**,2020,Global Cybersecurity Index (GCI),100.0,5.032258064516129,True,Connectivity Technology
+United Kingdom,2020,Global Cybersecurity Index (GCI),99.54,5.013709677419355,True,Connectivity Technology
+Saudi Arabia,2020,Global Cybersecurity Index (GCI),99.54,5.013709677419355,True,Connectivity Technology
+Estonia,2020,Global Cybersecurity Index (GCI),99.48,5.0112903225806456,True,Connectivity Technology
+Korea (Rep. of),2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True,Connectivity Technology
+Singapore,2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True,Connectivity Technology
+Spain,2020,Global Cybersecurity Index (GCI),98.52,4.97258064516129,True,Connectivity Technology
+Russian Federation,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True,Connectivity Technology
+United Arab Emirates,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True,Connectivity Technology
+Malaysia,2020,Global Cybersecurity Index (GCI),98.06,4.954032258064516,True,Connectivity Technology
+Lithuania,2020,Global Cybersecurity Index (GCI),97.93,4.9487903225806456,True,Connectivity Technology
+Japan,2020,Global Cybersecurity Index (GCI),97.82,4.9443548387096765,True,Connectivity Technology
+Canada**,2020,Global Cybersecurity Index (GCI),97.67,4.938306451612903,True,Connectivity Technology
+France,2020,Global Cybersecurity Index (GCI),97.6,4.935483870967742,True,Connectivity Technology
+India,2020,Global Cybersecurity Index (GCI),97.5,4.931451612903226,True,Connectivity Technology
+Turkey,2020,Global Cybersecurity Index (GCI),97.49,4.931048387096775,True,Connectivity Technology
+Australia,2020,Global Cybersecurity Index (GCI),97.47,4.930241935483871,True,Connectivity Technology
+Luxembourg,2020,Global Cybersecurity Index (GCI),97.41,4.927822580645161,True,Connectivity Technology
+Germany,2020,Global Cybersecurity Index (GCI),97.41,4.927822580645161,True,Connectivity Technology
+Portugal,2020,Global Cybersecurity Index (GCI),97.32,4.924193548387096,True,Connectivity Technology
+Latvia,2020,Global Cybersecurity Index (GCI),97.28,4.92258064516129,True,Connectivity Technology
+Netherlands**,2020,Global Cybersecurity Index (GCI),97.05,4.913306451612903,True,Connectivity Technology
+Norway**,2020,Global Cybersecurity Index (GCI),96.89,4.906854838709677,True,Connectivity Technology
+Mauritius,2020,Global Cybersecurity Index (GCI),96.89,4.906854838709677,True,Connectivity Technology
+Brazil,2020,Global Cybersecurity Index (GCI),96.6,4.89516129032258,True,Connectivity Technology
+Belgium,2020,Global Cybersecurity Index (GCI),96.25,4.881048387096774,True,Connectivity Technology
+Italy,2020,Global Cybersecurity Index (GCI),96.13,4.876209677419355,True,Connectivity Technology
+Oman,2020,Global Cybersecurity Index (GCI),96.04,4.872580645161291,True,Connectivity Technology
+Finland,2020,Global Cybersecurity Index (GCI),95.78,4.862096774193548,True,Connectivity Technology
+Egypt,2020,Global Cybersecurity Index (GCI),95.48,4.85,True,Connectivity Technology
+Indonesia,2020,Global Cybersecurity Index (GCI),94.88,4.825806451612904,True,Connectivity Technology
+Viet Nam,2020,Global Cybersecurity Index (GCI),94.59,4.814112903225807,True,Connectivity Technology
+Sweden,2020,Global Cybersecurity Index (GCI),94.55,4.8125,True,Connectivity Technology
+Qatar,2020,Global Cybersecurity Index (GCI),94.5,4.810483870967742,True,Connectivity Technology
+Greece,2020,Global Cybersecurity Index (GCI),93.98,4.7895161290322585,True,Connectivity Technology
+Austria,2020,Global Cybersecurity Index (GCI),93.89,4.785887096774193,True,Connectivity Technology
+Poland,2020,Global Cybersecurity Index (GCI),93.86,4.784677419354839,True,Connectivity Technology
+Kazakhstan,2020,Global Cybersecurity Index (GCI),93.15,4.756048387096774,True,Connectivity Technology
+Denmark,2020,Global Cybersecurity Index (GCI),92.6,4.733870967741936,True,Connectivity Technology
+China,2020,Global Cybersecurity Index (GCI),92.53,4.731048387096774,True,Connectivity Technology
+Croatia,2020,Global Cybersecurity Index (GCI),92.53,4.731048387096774,True,Connectivity Technology
+Slovakia,2020,Global Cybersecurity Index (GCI),92.36,4.724193548387097,True,Connectivity Technology
+Hungary,2020,Global Cybersecurity Index (GCI),91.28,4.680645161290323,True,Connectivity Technology
+Israel**,2020,Global Cybersecurity Index (GCI),90.93,4.6665322580645165,True,Connectivity Technology
+Tanzania,2020,Global Cybersecurity Index (GCI),90.58,4.65241935483871,True,Connectivity Technology
+North Macedonia,2020,Global Cybersecurity Index (GCI),89.92,4.625806451612903,True,Connectivity Technology
+Serbia,2020,Global Cybersecurity Index (GCI),89.8,4.620967741935484,True,Connectivity Technology
+Azerbaijan,2020,Global Cybersecurity Index (GCI),89.31,4.601209677419355,True,Connectivity Technology
+Cyprus,2020,Global Cybersecurity Index (GCI),88.82,4.5814516129032254,True,Connectivity Technology
+Switzerland**,2020,Global Cybersecurity Index (GCI),86.97,4.506854838709677,True,Connectivity Technology
+Ghana,2020,Global Cybersecurity Index (GCI),86.69,4.495564516129033,True,Connectivity Technology
+Thailand,2020,Global Cybersecurity Index (GCI),86.5,4.487903225806452,True,Connectivity Technology
+Tunisia,2020,Global Cybersecurity Index (GCI),86.23,4.4770161290322585,True,Connectivity Technology
+Ireland,2020,Global Cybersecurity Index (GCI),85.86,4.462096774193549,True,Connectivity Technology
+Nigeria,2020,Global Cybersecurity Index (GCI),84.76,4.417741935483871,True,Connectivity Technology
+New Zealand**,2020,Global Cybersecurity Index (GCI),84.04,4.388709677419355,True,Connectivity Technology
+Malta,2020,Global Cybersecurity Index (GCI),83.65,4.372983870967742,True,Connectivity Technology
+Morocco,2020,Global Cybersecurity Index (GCI),82.41,4.322983870967741,True,Connectivity Technology
+Kenya,2020,Global Cybersecurity Index (GCI),81.7,4.294354838709678,True,Connectivity Technology
+Mexico,2020,Global Cybersecurity Index (GCI),81.68,4.2935483870967746,True,Connectivity Technology
+Iran (Islamic Republic of),2020,Global Cybersecurity Index (GCI),81.07,4.2689516129032254,True,Connectivity Technology
+Georgia,2020,Global Cybersecurity Index (GCI),81.06,4.268548387096774,True,Connectivity Technology
+Benin,2020,Global Cybersecurity Index (GCI),80.06,4.228225806451613,True,Connectivity Technology
+Rwanda,2020,Global Cybersecurity Index (GCI),79.95,4.223790322580645,True,Connectivity Technology
+Iceland,2020,Global Cybersecurity Index (GCI),79.81,4.218145161290323,True,Connectivity Technology
+South Africa**,2020,Global Cybersecurity Index (GCI),78.46,4.163709677419354,True,Connectivity Technology
+Bahrain,2020,Global Cybersecurity Index (GCI),77.86,4.139516129032258,True,Connectivity Technology
+Philippines,2020,Global Cybersecurity Index (GCI),77.0,4.10483870967742,True,Connectivity Technology
+Romania,2020,Global Cybersecurity Index (GCI),76.29,4.076209677419355,True,Connectivity Technology
+Moldova,2020,Global Cybersecurity Index (GCI),75.78,4.055645161290323,True,Connectivity Technology
+Uruguay,2020,Global Cybersecurity Index (GCI),75.15,4.030241935483871,True,Connectivity Technology
+Kuwait,2020,Global Cybersecurity Index (GCI),75.07,4.027016129032258,True,Connectivity Technology
+Dominican Rep.,2020,Global Cybersecurity Index (GCI),75.05,4.026209677419355,True,Connectivity Technology
+Slovenia,2020,Global Cybersecurity Index (GCI),74.93,4.021370967741936,True,Connectivity Technology
+Czech Republic,2020,Global Cybersecurity Index (GCI),74.37,3.9987903225806454,True,Connectivity Technology
+Monaco,2020,Global Cybersecurity Index (GCI),72.57,3.9262096774193544,True,Connectivity Technology
+Uzbekistan,2020,Global Cybersecurity Index (GCI),71.11,3.8673387096774197,True,Connectivity Technology
+Jordan,2020,Global Cybersecurity Index (GCI),70.96,3.8612903225806448,True,Connectivity Technology
+Uganda,2020,Global Cybersecurity Index (GCI),69.98,3.8217741935483875,True,Connectivity Technology
+Zambia,2020,Global Cybersecurity Index (GCI),68.88,3.7774193548387096,True,Connectivity Technology
+Chile,2020,Global Cybersecurity Index (GCI),68.83,3.7754032258064516,True,Connectivity Technology
+Côte d'Ivoire,2020,Global Cybersecurity Index (GCI),67.82,3.7346774193548384,True,Connectivity Technology
+Costa Rica,2020,Global Cybersecurity Index (GCI),67.45,3.719758064516129,True,Connectivity Technology
+Bulgaria,2020,Global Cybersecurity Index (GCI),67.38,3.7169354838709676,True,Connectivity Technology
+Ukraine,2020,Global Cybersecurity Index (GCI),65.93,3.658467741935484,True,Connectivity Technology
+Pakistan,2020,Global Cybersecurity Index (GCI),64.88,3.616129032258064,True,Connectivity Technology
+Albania,2020,Global Cybersecurity Index (GCI),64.32,3.593548387096774,True,Connectivity Technology
+Colombia,2020,Global Cybersecurity Index (GCI),63.72,3.5693548387096774,True,Connectivity Technology
+Cuba,2020,Global Cybersecurity Index (GCI),58.76,3.3693548387096777,True,Connectivity Technology
+Sri Lanka,2020,Global Cybersecurity Index (GCI),58.65,3.3649193548387095,True,Connectivity Technology
+Paraguay,2020,Global Cybersecurity Index (GCI),57.09,3.3020161290322583,True,Connectivity Technology
+Brunei Darussalam,2020,Global Cybersecurity Index (GCI),56.07,3.260887096774194,True,Connectivity Technology
+Peru,2020,Global Cybersecurity Index (GCI),55.67,3.2447580645161294,True,Connectivity Technology
+Montenegro,2020,Global Cybersecurity Index (GCI),53.23,3.146370967741935,True,Connectivity Technology
+Botswana,2020,Global Cybersecurity Index (GCI),53.06,3.139516129032258,True,Connectivity Technology
+Belarus,2020,Global Cybersecurity Index (GCI),50.57,3.0391129032258064,True,Connectivity Technology
+Armenia**,2020,Global Cybersecurity Index (GCI),50.47,3.0350806451612904,True,Connectivity Technology
+Argentina,2020,Global Cybersecurity Index (GCI),50.12,3.020967741935484,True,Connectivity Technology
+Kyrgyzstan,2020,Global Cybersecurity Index (GCI),49.64,3.0016129032258063,True,Connectivity Technology
+Cameroon,2020,Global Cybersecurity Index (GCI),45.63,2.8399193548387096,True,Connectivity Technology
+Nepal (Republic of),2020,Global Cybersecurity Index (GCI),44.99,2.8141129032258068,True,Connectivity Technology
+Chad,2020,Global Cybersecurity Index (GCI),40.44,2.6306451612903228,True,Connectivity Technology
+Burkina Faso**,2020,Global Cybersecurity Index (GCI),39.98,2.612096774193548,True,Connectivity Technology
+Malawi,2020,Global Cybersecurity Index (GCI),36.83,2.48508064516129,True,Connectivity Technology
+Zimbabwe,2020,Global Cybersecurity Index (GCI),36.49,2.4713709677419358,True,Connectivity Technology
+Myanmar,2020,Global Cybersecurity Index (GCI),36.41,2.4681451612903222,True,Connectivity Technology
+Senegal,2020,Global Cybersecurity Index (GCI),35.85,2.445564516129032,True,Connectivity Technology
+Liechtenstein**,2020,Global Cybersecurity Index (GCI),35.15,2.417338709677419,True,Connectivity Technology
+Sudan,2020,Global Cybersecurity Index (GCI),35.03,2.4125,True,Connectivity Technology
+Panama,2020,Global Cybersecurity Index (GCI),34.11,2.3754032258064517,True,Connectivity Technology
+Algeria,2020,Global Cybersecurity Index (GCI),33.95,2.368951612903226,True,Connectivity Technology
+Togo,2020,Global Cybersecurity Index (GCI),33.19,2.338306451612903,True,Connectivity Technology
+Jamaica**,2020,Global Cybersecurity Index (GCI),32.53,2.3116935483870966,True,Connectivity Technology
+Gambia,2020,Global Cybersecurity Index (GCI),32.12,2.2951612903225804,True,Connectivity Technology
+Suriname,2020,Global Cybersecurity Index (GCI),31.2,2.258064516129032,True,Connectivity Technology
+Lebanon**,2020,Global Cybersecurity Index (GCI),30.44,2.22741935483871,True,Connectivity Technology
+Bosnia and Herzegovina,2020,Global Cybersecurity Index (GCI),29.44,2.1870967741935488,True,Connectivity Technology
+Samoa,2020,Global Cybersecurity Index (GCI),29.33,2.1826612903225806,True,Connectivity Technology
+Fiji,2020,Global Cybersecurity Index (GCI),29.08,2.17258064516129,True,Connectivity Technology
+Libya,2020,Global Cybersecurity Index (GCI),28.78,2.160483870967742,True,Connectivity Technology
+Guyana,2020,Global Cybersecurity Index (GCI),28.11,2.133467741935484,True,Connectivity Technology
+Ethiopia,2020,Global Cybersecurity Index (GCI),27.74,2.118548387096774,True,Connectivity Technology
+Venezuela,2020,Global Cybersecurity Index (GCI),27.06,2.0911290322580642,True,Connectivity Technology
+Andorra**,2020,Global Cybersecurity Index (GCI),26.38,2.0637096774193546,True,Connectivity Technology
+Papua New Guinea**,2020,Global Cybersecurity Index (GCI),26.33,2.0616935483870966,True,Connectivity Technology
+Ecuador,2020,Global Cybersecurity Index (GCI),26.3,2.060483870967742,True,Connectivity Technology
+Mongolia,2020,Global Cybersecurity Index (GCI),26.2,2.056451612903226,True,Connectivity Technology
+Sierra Leone,2020,Global Cybersecurity Index (GCI),25.31,2.020564516129032,True,Connectivity Technology
+State of Palestine,2020,Global Cybersecurity Index (GCI),25.18,2.0153225806451616,True,Connectivity Technology
+Mozambique,2020,Global Cybersecurity Index (GCI),24.18,1.975,True,Connectivity Technology
+Madagascar**,2020,Global Cybersecurity Index (GCI),23.33,1.9407258064516129,True,Connectivity Technology
+Trinidad and Tobago,2020,Global Cybersecurity Index (GCI),22.18,1.8943548387096776,True,Connectivity Technology
+Syrian Arab Republic**,2020,Global Cybersecurity Index (GCI),22.14,1.892741935483871,True,Connectivity Technology
+Nauru**,2020,Global Cybersecurity Index (GCI),21.42,1.863709677419355,True,Connectivity Technology
+Tonga**,2020,Global Cybersecurity Index (GCI),20.95,1.844758064516129,True,Connectivity Technology
+Iraq**,2020,Global Cybersecurity Index (GCI),20.71,1.8350806451612904,True,Connectivity Technology
+Guinea**,2020,Global Cybersecurity Index (GCI),20.53,1.8278225806451613,True,Connectivity Technology
+Lao P.D.R.,2020,Global Cybersecurity Index (GCI),20.34,1.8201612903225808,True,Connectivity Technology
+Cambodia**,2020,Global Cybersecurity Index (GCI),19.12,1.770967741935484,True,Connectivity Technology
+Mauritania,2020,Global Cybersecurity Index (GCI),18.94,1.7637096774193548,True,Connectivity Technology
+Bhutan,2020,Global Cybersecurity Index (GCI),18.34,1.739516129032258,True,Connectivity Technology
+Eswatini,2020,Global Cybersecurity Index (GCI),18.23,1.7350806451612903,True,Connectivity Technology
+Cabo Verde,2020,Global Cybersecurity Index (GCI),17.74,1.7153225806451613,True,Connectivity Technology
+Somalia,2020,Global Cybersecurity Index (GCI),17.25,1.6955645161290323,True,Connectivity Technology
+Tajikistan**,2020,Global Cybersecurity Index (GCI),17.1,1.689516129032258,True,Connectivity Technology
+Barbados,2020,Global Cybersecurity Index (GCI),16.89,1.6810483870967743,True,Connectivity Technology
+Bolivia (Plurinational State of),2020,Global Cybersecurity Index (GCI),16.14,1.6508064516129033,True,Connectivity Technology
+Sao Tome and Principe,2020,Global Cybersecurity Index (GCI),15.64,1.6306451612903226,True,Connectivity Technology
+Antigua and Barbuda,2020,Global Cybersecurity Index (GCI),15.62,1.6298387096774194,True,Connectivity Technology
+Congo (Rep. of the)**,2020,Global Cybersecurity Index (GCI),14.72,1.5935483870967744,True,Connectivity Technology
+Turkmenistan**,2020,Global Cybersecurity Index (GCI),14.48,1.5838709677419356,True,Connectivity Technology
+Kiribati,2020,Global Cybersecurity Index (GCI),13.84,1.5580645161290323,True,Connectivity Technology
+San Marino,2020,Global Cybersecurity Index (GCI),13.83,1.5576612903225806,True,Connectivity Technology
+Bahamas,2020,Global Cybersecurity Index (GCI),13.37,1.5391129032258064,True,Connectivity Technology
+El Salvador**,2020,Global Cybersecurity Index (GCI),13.3,1.536290322580645,True,Connectivity Technology
+Seychelles**,2020,Global Cybersecurity Index (GCI),13.23,1.533467741935484,True,Connectivity Technology
+Guatemala,2020,Global Cybersecurity Index (GCI),13.13,1.5294354838709678,True,Connectivity Technology
+Angola,2020,Global Cybersecurity Index (GCI),12.99,1.5237903225806453,True,Connectivity Technology
+Vanuatu,2020,Global Cybersecurity Index (GCI),12.88,1.5193548387096776,True,Connectivity Technology
+Saint Kitts and Nevis**,2020,Global Cybersecurity Index (GCI),12.44,1.5016129032258063,True,Connectivity Technology
+Saint Vincent and the Grenadines**,2020,Global Cybersecurity Index (GCI),12.18,1.4911290322580646,True,Connectivity Technology
+Namibia,2020,Global Cybersecurity Index (GCI),11.47,1.4625,True,Connectivity Technology
+Niger,2020,Global Cybersecurity Index (GCI),11.38,1.4588709677419356,True,Connectivity Technology
+Gabon,2020,Global Cybersecurity Index (GCI),11.36,1.4580645161290322,True,Connectivity Technology
+Saint Lucia**,2020,Global Cybersecurity Index (GCI),10.96,1.4419354838709677,True,Connectivity Technology
+Belize,2020,Global Cybersecurity Index (GCI),10.29,1.4149193548387096,True,Connectivity Technology
+Mali**,2020,Global Cybersecurity Index (GCI),10.14,1.4088709677419355,True,Connectivity Technology
+Guinea-Bissau,2020,Global Cybersecurity Index (GCI),9.85,1.3971774193548387,True,Connectivity Technology
+Liberia,2020,Global Cybersecurity Index (GCI),9.72,1.3919354838709679,True,Connectivity Technology
+Grenada,2020,Global Cybersecurity Index (GCI),9.41,1.3794354838709677,True,Connectivity Technology
+Lesotho,2020,Global Cybersecurity Index (GCI),9.08,1.3661290322580646,True,Connectivity Technology
+Nicaragua**,2020,Global Cybersecurity Index (GCI),9.0,1.3629032258064515,True,Connectivity Technology
+Solomon Islands,2020,Global Cybersecurity Index (GCI),7.08,1.2854838709677419,True,Connectivity Technology
+Haiti,2020,Global Cybersecurity Index (GCI),6.4,1.2580645161290323,True,Connectivity Technology
+Tuvalu**,2020,Global Cybersecurity Index (GCI),5.78,1.2330645161290323,True,Connectivity Technology
+South Sudan**,2020,Global Cybersecurity Index (GCI),5.75,1.2318548387096775,True,Connectivity Technology
+Dem. Rep. of the Congo,2020,Global Cybersecurity Index (GCI),5.3,1.2137096774193548,True,Connectivity Technology
+Afghanistan,2020,Global Cybersecurity Index (GCI),5.2,1.2096774193548387,True,Connectivity Technology
+Marshall Islands**,2020,Global Cybersecurity Index (GCI),4.9,1.1975806451612903,True,Connectivity Technology
+Timor-Leste**,2020,Global Cybersecurity Index (GCI),4.26,1.1717741935483872,True,Connectivity Technology
+Dominica,2020,Global Cybersecurity Index (GCI),4.2,1.1693548387096775,True,Connectivity Technology
+Comoros**,2020,Global Cybersecurity Index (GCI),3.72,1.15,True,Connectivity Technology
+Central African Rep.**,2020,Global Cybersecurity Index (GCI),3.24,1.1306451612903226,True,Connectivity Technology
+Maldives**,2020,Global Cybersecurity Index (GCI),2.95,1.1189516129032258,True,Connectivity Technology
+Honduras**,2020,Global Cybersecurity Index (GCI),2.2,1.0887096774193548,True,Connectivity Technology
+Djibouti,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True,Connectivity Technology
+Burundi,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True,Connectivity Technology
+Eritrea**,2020,Global Cybersecurity Index (GCI),1.73,1.069758064516129,True,Connectivity Technology
+Equatorial Guinea**,2020,Global Cybersecurity Index (GCI),1.46,1.0588709677419355,True,Connectivity Technology
+Dem. People's Rep. of Korea**,2020,Global Cybersecurity Index (GCI),1.35,1.0544354838709677,True,Connectivity Technology
+Micronesia*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True,Connectivity Technology
+Vatican*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True,Connectivity Technology
+Yemen*,2020,Global Cybersecurity Index (GCI),0.0,1.0,True,Connectivity Technology
+Zimbabwe,2020,Global Cybersecurity Index (GCI),124.0,6.0,True,Connectivity Technology

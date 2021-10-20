@@ -1,162 +1,162 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-0,Greece,2021,National cyber security index,96.1,6.0,True
-1,Czech Republic,2021,National cyber security index,92.21,5.794831223628692,True
-2,Estonia,2021,National cyber security index,90.91,5.726265822784811,True
-3,Portugal,2021,National cyber security index,89.61,5.657700421940929,True
-4,Lithuania,2021,National cyber security index,88.31,5.5891350210970465,True
-5,Spain,2021,National cyber security index,88.31,5.5891350210970465,True
-6,Poland,2021,National cyber security index,87.01,5.520569620253165,True
-7,Belgium,2021,National cyber security index,85.71,5.452004219409282,True
-8,Finland,2021,National cyber security index,85.71,5.452004219409282,True
-9,France,2021,National cyber security index,84.42,5.383966244725738,True
-10,Croatia,2021,National cyber security index,83.12,5.315400843881857,True
-11,Slovakia,2021,National cyber security index,83.12,5.315400843881857,True
-12,Netherlands,2021,National cyber security index,81.82,5.246835443037974,True
-13,Denmark,2021,National cyber security index,81.82,5.246835443037974,True
-14,Germany,2021,National cyber security index,80.52,5.178270042194093,True
-15,Singapore,2021,National cyber security index,80.52,5.178270042194093,True
-16,United States,2021,National cyber security index,79.22,5.109704641350211,True
-17,Serbia,2021,National cyber security index,77.92,5.04113924050633,True
-18,United Kingdom,2021,National cyber security index,77.92,5.04113924050633,True
-19,Italy,2021,National cyber security index,76.62,4.972573839662448,True
-20,Switzerland,2021,National cyber security index,76.62,4.972573839662448,True
-21,Ukraine,2021,National cyber security index,75.32,4.904008438818565,True
-22,Malaysia,2021,National cyber security index,72.73,4.7674050632911396,True
-23,Romania,2021,National cyber security index,71.43,4.6988396624472575,True
-24,Latvia,2021,National cyber security index,71.43,4.6988396624472575,True
-25,Saudi Arabia,2021,National cyber security index,68.83,4.561708860759493,True
-26,Austria,2021,National cyber security index,68.83,4.561708860759493,True
-27,Canada,2021,National cyber security index,66.23,4.424578059071731,True
-28,Australia,2021,National cyber security index,66.23,4.424578059071731,True
-29,Russian Federation,2021,National cyber security index,64.94,4.356540084388186,True
-30,Hungary,2021,National cyber security index,64.94,4.356540084388186,True
-31,Israel,2021,National cyber security index,64.94,4.356540084388186,True
-32,Philippines,2021,National cyber security index,63.64,4.287974683544304,True
-33,Ireland,2021,National cyber security index,63.64,4.287974683544304,True
-34,Japan,2021,National cyber security index,63.64,4.287974683544304,True
-35,Luxembourg,2021,National cyber security index,62.34,4.219409282700422,True
-36,Korea (Republic of),2021,National cyber security index,62.34,4.219409282700422,True
-37,Norway,2021,National cyber security index,62.34,4.219409282700422,True
-38,Bangladesh,2021,National cyber security index,59.74,4.082278481012659,True
-39,India,2021,National cyber security index,59.74,4.082278481012659,True
-40,Chile,2021,National cyber security index,59.74,4.082278481012659,True
-41,Paraguay,2021,National cyber security index,57.14,3.945147679324895,True
-42,Slovenia,2021,National cyber security index,57.14,3.945147679324895,True
-43,Sweden,2021,National cyber security index,57.14,3.945147679324895,True
-44,Georgia,2021,National cyber security index,55.84,3.8765822784810133,True
-45,North Macedonia,2021,National cyber security index,55.84,3.8765822784810133,True
-46,Qatar,2021,National cyber security index,55.84,3.8765822784810133,True
-47,New Zealand,2021,National cyber security index,55.84,3.8765822784810133,True
-48,Iceland,2021,National cyber security index,55.84,3.8765822784810133,True
-49,Benin,2021,National cyber security index,54.55,3.8085443037974684,True
-50,Nigeria,2021,National cyber security index,54.55,3.8085443037974684,True
-51,Turkey,2021,National cyber security index,54.55,3.8085443037974684,True
-52,Dominican Republic,2021,National cyber security index,53.25,3.7399789029535864,True
-53,Costa Rica,2021,National cyber security index,53.25,3.7399789029535864,True
-54,Belarus,2021,National cyber security index,53.25,3.7399789029535864,True
-55,Bulgaria,2021,National cyber security index,51.95,3.671413502109705,True
-56,Uganda,2021,National cyber security index,50.65,3.6028481012658227,True
-57,Moldova (Republic of),2021,National cyber security index,50.65,3.6028481012658227,True
-58,Malta,2021,National cyber security index,50.65,3.6028481012658227,True
-59,Kenya,2021,National cyber security index,49.35,3.5342827004219415,True
-60,Bosnia and Herzegovina,2021,National cyber security index,49.35,3.5342827004219415,True
-61,Panama,2021,National cyber security index,48.05,3.465717299578059,True
-62,Mauritius,2021,National cyber security index,48.05,3.465717299578059,True
-63,Argentina,2021,National cyber security index,48.05,3.465717299578059,True
-64,Uruguay,2021,National cyber security index,48.05,3.465717299578059,True
-65,Colombia,2021,National cyber security index,46.75,3.3971518987341773,True
-66,Brazil,2021,National cyber security index,46.75,3.3971518987341773,True
-67,Kazakhstan,2021,National cyber security index,45.45,3.3285864978902957,True
-68,Pakistan,2021,National cyber security index,42.86,3.191983122362869,True
-69,Sri Lanka,2021,National cyber security index,42.86,3.191983122362869,True
-70,Thailand,2021,National cyber security index,42.86,3.191983122362869,True
-71,Zambia,2021,National cyber security index,41.56,3.1234177215189876,True
-72,Albania,2021,National cyber security index,41.56,3.1234177215189876,True
-73,Cyprus,2021,National cyber security index,41.56,3.1234177215189876,True
-74,Peru,2021,National cyber security index,40.26,3.0548523206751055,True
-75,United Arab Emirates,2021,National cyber security index,40.26,3.0548523206751055,True
-76,Indonesia,2021,National cyber security index,38.96,2.986286919831224,True
-77,Mexico,2021,National cyber security index,37.66,2.917721518987342,True
-78,Azerbaijan,2021,National cyber security index,37.66,2.917721518987342,True
-79,Vietnam,2021,National cyber security index,36.36,2.84915611814346,True
-80,Egypt,2021,National cyber security index,35.06,2.780590717299578,True
-81,Ecuador,2021,National cyber security index,35.06,2.780590717299578,True
-82,China,2021,National cyber security index,35.06,2.780590717299578,True
-83,Brunei Darussalam,2021,National cyber security index,35.06,2.780590717299578,True
-84,Rwanda,2021,National cyber security index,33.77,2.712552742616034,True
-85,Algeria,2021,National cyber security index,33.77,2.712552742616034,True
-86,Trinidad and Tobago,2021,National cyber security index,33.77,2.712552742616034,True
-87,Montenegro,2021,National cyber security index,33.77,2.712552742616034,True
-88,Oman,2021,National cyber security index,33.77,2.712552742616034,True
-89,Ethiopia,2021,National cyber security index,32.47,2.643987341772152,True
-90,Cameroon,2021,National cyber security index,32.47,2.643987341772152,True
-91,Venezuela,2021,National cyber security index,32.47,2.643987341772152,True
-92,Côte d'Ivoire,2021,National cyber security index,31.17,2.57542194092827,True
-93,Ghana,2021,National cyber security index,31.17,2.57542194092827,True
-94,Tunisia,2021,National cyber security index,31.17,2.57542194092827,True
-95,Uzbekistan,2021,National cyber security index,31.17,2.57542194092827,True
-96,Armenia,2021,National cyber security index,31.17,2.57542194092827,True
-97,Nepal,2021,National cyber security index,28.57,2.4382911392405062,True
-98,Guatemala,2021,National cyber security index,28.57,2.4382911392405062,True
-99,Bolivia,2021,National cyber security index,28.57,2.4382911392405062,True
-100,Jamaica,2021,National cyber security index,28.57,2.4382911392405062,True
-101,South Africa,2021,National cyber security index,27.27,2.3697257383966246,True
-102,Bahrain,2021,National cyber security index,25.97,2.3011603375527425,True
-103,Tonga,2021,National cyber security index,23.38,2.1645569620253164,True
-104,Morocco,2021,National cyber security index,23.38,2.1645569620253164,True
-105,Bahamas,2021,National cyber security index,23.38,2.1645569620253164,True
-106,Nicaragua,2021,National cyber security index,22.08,2.0959915611814344,True
-107,Botswana,2021,National cyber security index,22.08,2.0959915611814344,True
-108,Papua New Guinea,2021,National cyber security index,22.08,2.0959915611814344,True
-109,Malawi,2021,National cyber security index,20.78,2.0274261603375527,True
-110,Liberia,2021,National cyber security index,19.48,1.958860759493671,True
-111,Mali,2021,National cyber security index,19.48,1.958860759493671,True
-112,El Salvador,2021,National cyber security index,19.48,1.958860759493671,True
-113,Kyrgyzstan,2021,National cyber security index,19.48,1.958860759493671,True
-114,Suriname,2021,National cyber security index,19.48,1.958860759493671,True
-115,Chad,2021,National cyber security index,18.18,1.890295358649789,True
-116,Lao PDR,2021,National cyber security index,18.18,1.890295358649789,True
-117,Bhutan,2021,National cyber security index,18.18,1.890295358649789,True
-118,Mongolia,2021,National cyber security index,18.18,1.890295358649789,True
-119,Zimbabwe,2021,National cyber security index,15.58,1.7531645569620253,True
-120,Senegal,2021,National cyber security index,15.58,1.7531645569620253,True
-121,Syrian Arab Republic,2021,National cyber security index,15.58,1.7531645569620253,True
-122,Cambodia,2021,National cyber security index,15.58,1.7531645569620253,True
-123,Barbados,2021,National cyber security index,15.58,1.7531645569620253,True
-124,Tajikistan,2021,National cyber security index,14.29,1.685126582278481,True
-125,Iran (Islamic Republic of),2021,National cyber security index,14.29,1.685126582278481,True
-126,Jordan,2021,National cyber security index,14.29,1.685126582278481,True
-127,Grenada,2021,National cyber security index,14.29,1.685126582278481,True
-128,Madagascar,2021,National cyber security index,12.99,1.6165611814345993,True
-129,"Tanzania, United Republic of",2021,National cyber security index,12.99,1.6165611814345993,True
-130,Cuba,2021,National cyber security index,12.99,1.6165611814345993,True
-131,Mauritania,2021,National cyber security index,11.69,1.5479957805907172,True
-132,Afghanistan,2021,National cyber security index,11.69,1.5479957805907172,True
-133,Sudan,2021,National cyber security index,11.69,1.5479957805907172,True
-134,Namibia,2021,National cyber security index,11.69,1.5479957805907172,True
-135,Antigua and Barbuda,2021,National cyber security index,11.69,1.5479957805907172,True
-136,Haiti,2021,National cyber security index,10.39,1.4794303797468356,True
-137,Vanuatu,2021,National cyber security index,10.39,1.4794303797468356,True
-138,Myanmar,2021,National cyber security index,10.39,1.4794303797468356,True
-139,Honduras,2021,National cyber security index,10.39,1.4794303797468356,True
-140,Libya,2021,National cyber security index,10.39,1.4794303797468356,True
-141,Seychelles,2021,National cyber security index,10.39,1.4794303797468356,True
-142,Saint Kitts and Nevis,2021,National cyber security index,10.39,1.4794303797468356,True
-143,Angola,2021,National cyber security index,9.09,1.4108649789029537,True
-144,Mozambique,2021,National cyber security index,9.09,1.4108649789029537,True
-145,Saint Lucia,2021,National cyber security index,9.09,1.4108649789029537,True
-146,Saint Vincent and the Grenadines,2021,National cyber security index,9.09,1.4108649789029537,True
-147,Yemen,2021,National cyber security index,7.79,1.3422995780590719,True
-148,Guyana,2021,National cyber security index,6.49,1.2737341772151898,True
-149,Kiribati,2021,National cyber security index,5.19,1.2051687763713081,True
-150,Samoa,2021,National cyber security index,5.19,1.2051687763713081,True
-151,Belize,2021,National cyber security index,5.19,1.2051687763713081,True
-152,Dominica,2021,National cyber security index,3.9,1.1371308016877637,True
-153,Sierra Leone,2021,National cyber security index,3.9,1.1371308016877637,True
-154,Turkmenistan,2021,National cyber security index,3.9,1.1371308016877637,True
-155,Congo (Democratic Republic of the),2021,National cyber security index,2.6,1.0685654008438819,True
-156,Burundi,2021,National cyber security index,2.6,1.0685654008438819,True
-157,Solomon Islands,2021,National cyber security index,2.6,1.0685654008438819,True
-158,Tuvalu,2021,National cyber security index,2.6,1.0685654008438819,True
-159,South Sudan,2021,National cyber security index,1.3,1.0,True
-160,,2021,National cyber security index,,,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Greece,2021,National cyber security index,96.1,6.0,True,Connectivity Technology
+Czech Republic,2021,National cyber security index,92.21,5.794831223628692,True,Connectivity Technology
+Estonia,2021,National cyber security index,90.91,5.726265822784811,True,Connectivity Technology
+Portugal,2021,National cyber security index,89.61,5.657700421940929,True,Connectivity Technology
+Lithuania,2021,National cyber security index,88.31,5.5891350210970465,True,Connectivity Technology
+Spain,2021,National cyber security index,88.31,5.5891350210970465,True,Connectivity Technology
+Poland,2021,National cyber security index,87.01,5.520569620253165,True,Connectivity Technology
+Belgium,2021,National cyber security index,85.71,5.452004219409282,True,Connectivity Technology
+Finland,2021,National cyber security index,85.71,5.452004219409282,True,Connectivity Technology
+France,2021,National cyber security index,84.42,5.383966244725738,True,Connectivity Technology
+Croatia,2021,National cyber security index,83.12,5.315400843881857,True,Connectivity Technology
+Slovakia,2021,National cyber security index,83.12,5.315400843881857,True,Connectivity Technology
+Netherlands,2021,National cyber security index,81.82,5.246835443037974,True,Connectivity Technology
+Denmark,2021,National cyber security index,81.82,5.246835443037974,True,Connectivity Technology
+Germany,2021,National cyber security index,80.52,5.178270042194093,True,Connectivity Technology
+Singapore,2021,National cyber security index,80.52,5.178270042194093,True,Connectivity Technology
+United States,2021,National cyber security index,79.22,5.109704641350211,True,Connectivity Technology
+Serbia,2021,National cyber security index,77.92,5.04113924050633,True,Connectivity Technology
+United Kingdom,2021,National cyber security index,77.92,5.04113924050633,True,Connectivity Technology
+Italy,2021,National cyber security index,76.62,4.972573839662448,True,Connectivity Technology
+Switzerland,2021,National cyber security index,76.62,4.972573839662448,True,Connectivity Technology
+Ukraine,2021,National cyber security index,75.32,4.904008438818565,True,Connectivity Technology
+Malaysia,2021,National cyber security index,72.73,4.7674050632911396,True,Connectivity Technology
+Romania,2021,National cyber security index,71.43,4.6988396624472575,True,Connectivity Technology
+Latvia,2021,National cyber security index,71.43,4.6988396624472575,True,Connectivity Technology
+Saudi Arabia,2021,National cyber security index,68.83,4.561708860759493,True,Connectivity Technology
+Austria,2021,National cyber security index,68.83,4.561708860759493,True,Connectivity Technology
+Canada,2021,National cyber security index,66.23,4.424578059071731,True,Connectivity Technology
+Australia,2021,National cyber security index,66.23,4.424578059071731,True,Connectivity Technology
+Russian Federation,2021,National cyber security index,64.94,4.356540084388186,True,Connectivity Technology
+Hungary,2021,National cyber security index,64.94,4.356540084388186,True,Connectivity Technology
+Israel,2021,National cyber security index,64.94,4.356540084388186,True,Connectivity Technology
+Philippines,2021,National cyber security index,63.64,4.287974683544304,True,Connectivity Technology
+Ireland,2021,National cyber security index,63.64,4.287974683544304,True,Connectivity Technology
+Japan,2021,National cyber security index,63.64,4.287974683544304,True,Connectivity Technology
+Luxembourg,2021,National cyber security index,62.34,4.219409282700422,True,Connectivity Technology
+Korea (Republic of),2021,National cyber security index,62.34,4.219409282700422,True,Connectivity Technology
+Norway,2021,National cyber security index,62.34,4.219409282700422,True,Connectivity Technology
+Bangladesh,2021,National cyber security index,59.74,4.082278481012659,True,Connectivity Technology
+India,2021,National cyber security index,59.74,4.082278481012659,True,Connectivity Technology
+Chile,2021,National cyber security index,59.74,4.082278481012659,True,Connectivity Technology
+Paraguay,2021,National cyber security index,57.14,3.945147679324895,True,Connectivity Technology
+Slovenia,2021,National cyber security index,57.14,3.945147679324895,True,Connectivity Technology
+Sweden,2021,National cyber security index,57.14,3.945147679324895,True,Connectivity Technology
+Georgia,2021,National cyber security index,55.84,3.8765822784810133,True,Connectivity Technology
+North Macedonia,2021,National cyber security index,55.84,3.8765822784810133,True,Connectivity Technology
+Qatar,2021,National cyber security index,55.84,3.8765822784810133,True,Connectivity Technology
+New Zealand,2021,National cyber security index,55.84,3.8765822784810133,True,Connectivity Technology
+Iceland,2021,National cyber security index,55.84,3.8765822784810133,True,Connectivity Technology
+Benin,2021,National cyber security index,54.55,3.8085443037974684,True,Connectivity Technology
+Nigeria,2021,National cyber security index,54.55,3.8085443037974684,True,Connectivity Technology
+Turkey,2021,National cyber security index,54.55,3.8085443037974684,True,Connectivity Technology
+Dominican Republic,2021,National cyber security index,53.25,3.7399789029535864,True,Connectivity Technology
+Costa Rica,2021,National cyber security index,53.25,3.7399789029535864,True,Connectivity Technology
+Belarus,2021,National cyber security index,53.25,3.7399789029535864,True,Connectivity Technology
+Bulgaria,2021,National cyber security index,51.95,3.671413502109705,True,Connectivity Technology
+Uganda,2021,National cyber security index,50.65,3.6028481012658227,True,Connectivity Technology
+Moldova (Republic of),2021,National cyber security index,50.65,3.6028481012658227,True,Connectivity Technology
+Malta,2021,National cyber security index,50.65,3.6028481012658227,True,Connectivity Technology
+Kenya,2021,National cyber security index,49.35,3.5342827004219415,True,Connectivity Technology
+Bosnia and Herzegovina,2021,National cyber security index,49.35,3.5342827004219415,True,Connectivity Technology
+Panama,2021,National cyber security index,48.05,3.465717299578059,True,Connectivity Technology
+Mauritius,2021,National cyber security index,48.05,3.465717299578059,True,Connectivity Technology
+Argentina,2021,National cyber security index,48.05,3.465717299578059,True,Connectivity Technology
+Uruguay,2021,National cyber security index,48.05,3.465717299578059,True,Connectivity Technology
+Colombia,2021,National cyber security index,46.75,3.3971518987341773,True,Connectivity Technology
+Brazil,2021,National cyber security index,46.75,3.3971518987341773,True,Connectivity Technology
+Kazakhstan,2021,National cyber security index,45.45,3.3285864978902957,True,Connectivity Technology
+Pakistan,2021,National cyber security index,42.86,3.191983122362869,True,Connectivity Technology
+Sri Lanka,2021,National cyber security index,42.86,3.191983122362869,True,Connectivity Technology
+Thailand,2021,National cyber security index,42.86,3.191983122362869,True,Connectivity Technology
+Zambia,2021,National cyber security index,41.56,3.1234177215189876,True,Connectivity Technology
+Albania,2021,National cyber security index,41.56,3.1234177215189876,True,Connectivity Technology
+Cyprus,2021,National cyber security index,41.56,3.1234177215189876,True,Connectivity Technology
+Peru,2021,National cyber security index,40.26,3.0548523206751055,True,Connectivity Technology
+United Arab Emirates,2021,National cyber security index,40.26,3.0548523206751055,True,Connectivity Technology
+Indonesia,2021,National cyber security index,38.96,2.986286919831224,True,Connectivity Technology
+Mexico,2021,National cyber security index,37.66,2.917721518987342,True,Connectivity Technology
+Azerbaijan,2021,National cyber security index,37.66,2.917721518987342,True,Connectivity Technology
+Vietnam,2021,National cyber security index,36.36,2.84915611814346,True,Connectivity Technology
+Egypt,2021,National cyber security index,35.06,2.780590717299578,True,Connectivity Technology
+Ecuador,2021,National cyber security index,35.06,2.780590717299578,True,Connectivity Technology
+China,2021,National cyber security index,35.06,2.780590717299578,True,Connectivity Technology
+Brunei Darussalam,2021,National cyber security index,35.06,2.780590717299578,True,Connectivity Technology
+Rwanda,2021,National cyber security index,33.77,2.712552742616034,True,Connectivity Technology
+Algeria,2021,National cyber security index,33.77,2.712552742616034,True,Connectivity Technology
+Trinidad and Tobago,2021,National cyber security index,33.77,2.712552742616034,True,Connectivity Technology
+Montenegro,2021,National cyber security index,33.77,2.712552742616034,True,Connectivity Technology
+Oman,2021,National cyber security index,33.77,2.712552742616034,True,Connectivity Technology
+Ethiopia,2021,National cyber security index,32.47,2.643987341772152,True,Connectivity Technology
+Cameroon,2021,National cyber security index,32.47,2.643987341772152,True,Connectivity Technology
+Venezuela,2021,National cyber security index,32.47,2.643987341772152,True,Connectivity Technology
+Côte d'Ivoire,2021,National cyber security index,31.17,2.57542194092827,True,Connectivity Technology
+Ghana,2021,National cyber security index,31.17,2.57542194092827,True,Connectivity Technology
+Tunisia,2021,National cyber security index,31.17,2.57542194092827,True,Connectivity Technology
+Uzbekistan,2021,National cyber security index,31.17,2.57542194092827,True,Connectivity Technology
+Armenia,2021,National cyber security index,31.17,2.57542194092827,True,Connectivity Technology
+Nepal,2021,National cyber security index,28.57,2.4382911392405062,True,Connectivity Technology
+Guatemala,2021,National cyber security index,28.57,2.4382911392405062,True,Connectivity Technology
+Bolivia,2021,National cyber security index,28.57,2.4382911392405062,True,Connectivity Technology
+Jamaica,2021,National cyber security index,28.57,2.4382911392405062,True,Connectivity Technology
+South Africa,2021,National cyber security index,27.27,2.3697257383966246,True,Connectivity Technology
+Bahrain,2021,National cyber security index,25.97,2.3011603375527425,True,Connectivity Technology
+Tonga,2021,National cyber security index,23.38,2.1645569620253164,True,Connectivity Technology
+Morocco,2021,National cyber security index,23.38,2.1645569620253164,True,Connectivity Technology
+Bahamas,2021,National cyber security index,23.38,2.1645569620253164,True,Connectivity Technology
+Nicaragua,2021,National cyber security index,22.08,2.0959915611814344,True,Connectivity Technology
+Botswana,2021,National cyber security index,22.08,2.0959915611814344,True,Connectivity Technology
+Papua New Guinea,2021,National cyber security index,22.08,2.0959915611814344,True,Connectivity Technology
+Malawi,2021,National cyber security index,20.78,2.0274261603375527,True,Connectivity Technology
+Liberia,2021,National cyber security index,19.48,1.958860759493671,True,Connectivity Technology
+Mali,2021,National cyber security index,19.48,1.958860759493671,True,Connectivity Technology
+El Salvador,2021,National cyber security index,19.48,1.958860759493671,True,Connectivity Technology
+Kyrgyzstan,2021,National cyber security index,19.48,1.958860759493671,True,Connectivity Technology
+Suriname,2021,National cyber security index,19.48,1.958860759493671,True,Connectivity Technology
+Chad,2021,National cyber security index,18.18,1.890295358649789,True,Connectivity Technology
+Lao PDR,2021,National cyber security index,18.18,1.890295358649789,True,Connectivity Technology
+Bhutan,2021,National cyber security index,18.18,1.890295358649789,True,Connectivity Technology
+Mongolia,2021,National cyber security index,18.18,1.890295358649789,True,Connectivity Technology
+Zimbabwe,2021,National cyber security index,15.58,1.7531645569620253,True,Connectivity Technology
+Senegal,2021,National cyber security index,15.58,1.7531645569620253,True,Connectivity Technology
+Syrian Arab Republic,2021,National cyber security index,15.58,1.7531645569620253,True,Connectivity Technology
+Cambodia,2021,National cyber security index,15.58,1.7531645569620253,True,Connectivity Technology
+Barbados,2021,National cyber security index,15.58,1.7531645569620253,True,Connectivity Technology
+Tajikistan,2021,National cyber security index,14.29,1.685126582278481,True,Connectivity Technology
+Iran (Islamic Republic of),2021,National cyber security index,14.29,1.685126582278481,True,Connectivity Technology
+Jordan,2021,National cyber security index,14.29,1.685126582278481,True,Connectivity Technology
+Grenada,2021,National cyber security index,14.29,1.685126582278481,True,Connectivity Technology
+Madagascar,2021,National cyber security index,12.99,1.6165611814345993,True,Connectivity Technology
+"Tanzania, United Republic of",2021,National cyber security index,12.99,1.6165611814345993,True,Connectivity Technology
+Cuba,2021,National cyber security index,12.99,1.6165611814345993,True,Connectivity Technology
+Mauritania,2021,National cyber security index,11.69,1.5479957805907172,True,Connectivity Technology
+Afghanistan,2021,National cyber security index,11.69,1.5479957805907172,True,Connectivity Technology
+Sudan,2021,National cyber security index,11.69,1.5479957805907172,True,Connectivity Technology
+Namibia,2021,National cyber security index,11.69,1.5479957805907172,True,Connectivity Technology
+Antigua and Barbuda,2021,National cyber security index,11.69,1.5479957805907172,True,Connectivity Technology
+Haiti,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Vanuatu,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Myanmar,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Honduras,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Libya,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Seychelles,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Saint Kitts and Nevis,2021,National cyber security index,10.39,1.4794303797468356,True,Connectivity Technology
+Angola,2021,National cyber security index,9.09,1.4108649789029537,True,Connectivity Technology
+Mozambique,2021,National cyber security index,9.09,1.4108649789029537,True,Connectivity Technology
+Saint Lucia,2021,National cyber security index,9.09,1.4108649789029537,True,Connectivity Technology
+Saint Vincent and the Grenadines,2021,National cyber security index,9.09,1.4108649789029537,True,Connectivity Technology
+Yemen,2021,National cyber security index,7.79,1.3422995780590719,True,Connectivity Technology
+Guyana,2021,National cyber security index,6.49,1.2737341772151898,True,Connectivity Technology
+Kiribati,2021,National cyber security index,5.19,1.2051687763713081,True,Connectivity Technology
+Samoa,2021,National cyber security index,5.19,1.2051687763713081,True,Connectivity Technology
+Belize,2021,National cyber security index,5.19,1.2051687763713081,True,Connectivity Technology
+Dominica,2021,National cyber security index,3.9,1.1371308016877637,True,Connectivity Technology
+Sierra Leone,2021,National cyber security index,3.9,1.1371308016877637,True,Connectivity Technology
+Turkmenistan,2021,National cyber security index,3.9,1.1371308016877637,True,Connectivity Technology
+Congo (Democratic Republic of the),2021,National cyber security index,2.6,1.0685654008438819,True,Connectivity Technology
+Burundi,2021,National cyber security index,2.6,1.0685654008438819,True,Connectivity Technology
+Solomon Islands,2021,National cyber security index,2.6,1.0685654008438819,True,Connectivity Technology
+Tuvalu,2021,National cyber security index,2.6,1.0685654008438819,True,Connectivity Technology
+South Sudan,2021,National cyber security index,1.3,1.0,True,Connectivity Technology
+,2021,National cyber security index,,,True,Connectivity Technology

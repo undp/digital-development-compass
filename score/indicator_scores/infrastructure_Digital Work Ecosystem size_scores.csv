@@ -1,117 +1,117 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-0,United States,2020,Digital Work Ecosystem size,1.0,6.0,False
-1,United Kingdom,2020,Digital Work Ecosystem size,2.0,5.956521739130435,False
-2,Netherlands,2020,Digital Work Ecosystem size,3.0,5.913043478260869,False
-3,Canada,2020,Digital Work Ecosystem size,4.0,5.869565217391305,False
-4,Sweden,2020,Digital Work Ecosystem size,5.0,5.826086956521739,False
-5,Switzerland,2020,Digital Work Ecosystem size,6.0,5.782608695652174,False
-6,Norway,2020,Digital Work Ecosystem size,7.0,5.739130434782608,False
-7,Denmark,2020,Digital Work Ecosystem size,8.0,5.695652173913043,False
-8,Australia,2020,Digital Work Ecosystem size,9.0,5.6521739130434785,False
-9,Finland  ,2020,Digital Work Ecosystem size,10.0,5.608695652173913,False
-10,Ireland,2020,Digital Work Ecosystem size,11.0,5.565217391304348,False
-11,Luxembourg,2020,Digital Work Ecosystem size,12.0,5.521739130434783,False
-12,New Zealand,2020,Digital Work Ecosystem size,13.0,5.478260869565217,False
-13,Germany France,2020,Digital Work Ecosystem size,14.0,5.434782608695652,False
-14,,2020,Digital Work Ecosystem size,15.0,5.391304347826087,False
-15,Iceland,2020,Digital Work Ecosystem size,16.0,5.3478260869565215,False
-16,Belgium Estonia,2020,Digital Work Ecosystem size,17.0,5.304347826086957,False
-17,,2020,Digital Work Ecosystem size,18.0,5.260869565217392,False
-18,Hong Kong,2020,Digital Work Ecosystem size,19.0,5.217391304347826,False
-19,Austria,2020,Digital Work Ecosystem size,20.0,5.173913043478261,False
-20,Japan,2020,Digital Work Ecosystem size,21.0,5.130434782608695,False
-21,South Korea,2020,Digital Work Ecosystem size,22.0,5.086956521739131,False
-22,Israel,2020,Digital Work Ecosystem size,23.0,5.043478260869565,False
-23,Singapore,2020,Digital Work Ecosystem size,24.0,5.0,False
-24,Spain  ,2020,Digital Work Ecosystem size,25.0,4.956521739130435,False
-25,Malta,2020,Digital Work Ecosystem size,26.0,4.913043478260869,False
-26,Portugal,2020,Digital Work Ecosystem size,27.0,4.869565217391305,False
-27,Czech Republic,2020,Digital Work Ecosystem size,28.0,4.826086956521739,False
-28,Taiwan,2020,Digital Work Ecosystem size,29.0,4.782608695652174,False
-29,Italy   ,2020,Digital Work Ecosystem size,30.0,4.739130434782608,False
-30,Slovenia,2020,Digital Work Ecosystem size,31.0,4.695652173913043,False
-31,Lithuania,2020,Digital Work Ecosystem size,32.0,4.6521739130434785,False
-32,Cyprus,2020,Digital Work Ecosystem size,33.0,4.608695652173913,False
-33,United Arab Emirates,2020,Digital Work Ecosystem size,34.0,4.565217391304348,False
-34,Latvia,2020,Digital Work Ecosystem size,35.0,4.521739130434783,False
-35,Malaysia,2020,Digital Work Ecosystem size,36.0,4.478260869565217,False
-36,Qatar,2020,Digital Work Ecosystem size,37.0,4.434782608695652,False
-37,Chile,2020,Digital Work Ecosystem size,38.0,4.391304347826087,False
-38,Poland,2020,Digital Work Ecosystem size,39.0,4.3478260869565215,False
-39,Slovakia,2020,Digital Work Ecosystem size,40.0,4.304347826086957,False
-40,Hungary,2020,Digital Work Ecosystem size,41.0,4.260869565217392,False
-41,Uruguay,2020,Digital Work Ecosystem size,42.0,4.217391304347826,False
-42,Greece,2020,Digital Work Ecosystem size,43.0,4.173913043478261,False
-43,Bulgaria,2020,Digital Work Ecosystem size,44.0,4.130434782608695,False
-44,Croatia,2020,Digital Work Ecosystem size,45.0,4.086956521739131,False
-45,Costa Rica,2020,Digital Work Ecosystem size,46.0,4.043478260869565,False
-46,Romania,2020,Digital Work Ecosystem size,47.0,4.0,False
-47,Russia,2020,Digital Work Ecosystem size,48.0,3.9565217391304346,False
-48,Turkey,2020,Digital Work Ecosystem size,49.0,3.9130434782608696,False
-49,Mauritius,2020,Digital Work Ecosystem size,50.0,3.869565217391304,False
-50,Brazil,2020,Digital Work Ecosystem size,51.0,3.8260869565217392,False
-51,Argentina,2020,Digital Work Ecosystem size,52.0,3.782608695652174,False
-52,Mexico,2020,Digital Work Ecosystem size,53.0,3.739130434782609,False
-53,Ukraine,2020,Digital Work Ecosystem size,54.0,3.6956521739130435,False
-54,Saudi Arabia,2020,Digital Work Ecosystem size,55.0,3.652173913043478,False
-55,Oman,2020,Digital Work Ecosystem size,56.0,3.608695652173913,False
-56,Montenegro,2020,Digital Work Ecosystem size,57.0,3.5652173913043477,False
-57,China,2020,Digital Work Ecosystem size,58.0,3.5217391304347827,False
-58,Colombia,2020,Digital Work Ecosystem size,59.0,3.4782608695652173,False
-59,Panama,2020,Digital Work Ecosystem size,60.0,3.4347826086956523,False
-60,Bahrain,2020,Digital Work Ecosystem size,61.0,3.391304347826087,False
-61,Serbia,2020,Digital Work Ecosystem size,62.0,3.347826086956522,False
-62,Thailand,2020,Digital Work Ecosystem size,63.0,3.3043478260869565,False
-63,Georgia,2020,Digital Work Ecosystem size,64.0,3.260869565217391,False
-64,South Africa,2020,Digital Work Ecosystem size,65.0,3.217391304347826,False
-65,Macedonia,2020,Digital Work Ecosystem size,66.0,3.1739130434782608,False
-66,Jordan,2020,Digital Work Ecosystem size,67.0,3.130434782608696,False
-67,Armenia,2020,Digital Work Ecosystem size,68.0,3.0869565217391304,False
-68,Moldova,2020,Digital Work Ecosystem size,69.0,3.0434782608695654,False
-69,Morocco,2020,Digital Work Ecosystem size,70.0,3.0,False
-70,Philippines,2020,Digital Work Ecosystem size,71.0,2.9565217391304346,False
-71,Azerbaijan,2020,Digital Work Ecosystem size,72.0,2.913043478260869,False
-72,India,2020,Digital Work Ecosystem size,73.0,2.8695652173913047,False
-73,Peru,2020,Digital Work Ecosystem size,74.0,2.8260869565217392,False
-74,Kazakhstan,2020,Digital Work Ecosystem size,75.0,2.782608695652174,False
-75,Indonesia,2020,Digital Work Ecosystem size,76.0,2.7391304347826093,False
-76,Kuwait,2020,Digital Work Ecosystem size,77.0,2.695652173913043,False
-77,Bosnia and Herzegovina,2020,Digital Work Ecosystem size,78.0,2.6521739130434785,False
-78,Ecuador,2020,Digital Work Ecosystem size,79.0,2.608695652173913,False
-79,Tunisia,2020,Digital Work Ecosystem size,80.0,2.5652173913043477,False
-80,Albania,2020,Digital Work Ecosystem size,81.0,2.521739130434783,False
-81,Vietnam,2020,Digital Work Ecosystem size,82.0,2.478260869565217,False
-82,Dominican Republic,2020,Digital Work Ecosystem size,83.0,2.4347826086956523,False
-83,Jamaica,2020,Digital Work Ecosystem size,84.0,2.391304347826087,False
-84,Egypt,2020,Digital Work Ecosystem size,85.0,2.3478260869565215,False
-85,Iran,2020,Digital Work Ecosystem size,86.0,2.304347826086957,False
-86,Botswana,2020,Digital Work Ecosystem size,87.0,2.2608695652173907,False
-87,Namibia,2020,Digital Work Ecosystem size,88.0,2.217391304347826,False
-88,Sri Lanka,2020,Digital Work Ecosystem size,89.0,2.1739130434782608,False
-89,Lebanon,2020,Digital Work Ecosystem size,90.0,2.1304347826086953,False
-90,Kenya,2020,Digital Work Ecosystem size,91.0,2.086956521739131,False
-91,Mongolia,2020,Digital Work Ecosystem size,92.0,2.0434782608695654,False
-92,El Salvador,2020,Digital Work Ecosystem size,93.0,2.0,False
-93,Paraguay,2020,Digital Work Ecosystem size,94.0,1.9565217391304346,False
-94,Guatemala,2020,Digital Work Ecosystem size,95.0,1.9130434782608692,False
-95,Senegal,2020,Digital Work Ecosystem size,96.0,1.8695652173913047,False
-96,Pakistan,2020,Digital Work Ecosystem size,97.0,1.8260869565217392,False
-97,Honduras,2020,Digital Work Ecosystem size,98.0,1.7826086956521738,False
-98,Nigeria,2020,Digital Work Ecosystem size,99.0,1.7391304347826084,False
-99,Zambia,2020,Digital Work Ecosystem size,100.0,1.695652173913044,False
-100,Algeria,2020,Digital Work Ecosystem size,101.0,1.6521739130434785,False
-101,Rwanda,2020,Digital Work Ecosystem size,102.0,1.608695652173913,False
-102,Nepal,2020,Digital Work Ecosystem size,103.0,1.5652173913043477,False
-103,Kyrgyzstan,2020,Digital Work Ecosystem size,104.0,1.5217391304347823,False
-104,Bangladesh,2020,Digital Work Ecosystem size,105.0,1.4782608695652177,False
-105,Uganda,2020,Digital Work Ecosystem size,106.0,1.4347826086956523,False
-106,Cameroon,2020,Digital Work Ecosystem size,107.0,1.391304347826087,False
-107,Mali,2020,Digital Work Ecosystem size,108.0,1.3478260869565215,False
-108,Zimbabwe,2020,Digital Work Ecosystem size,109.0,1.304347826086956,False
-109,Cambodia,2020,Digital Work Ecosystem size,110.0,1.2608695652173916,False
-110,Tanzania,2020,Digital Work Ecosystem size,111.0,1.2173913043478262,False
-111,Malawi,2020,Digital Work Ecosystem size,112.0,1.1739130434782608,False
-112,Benin,2020,Digital Work Ecosystem size,113.0,1.1304347826086953,False
-113,Madagascar,2020,Digital Work Ecosystem size,114.0,1.0869565217391308,False
-114,Burundi,2020,Digital Work Ecosystem size,115.0,1.0434782608695654,False
-115,Ethiopia,2020,Digital Work Ecosystem size,116.0,1.0,False
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+United States,2020,Digital Work Ecosystem size,1.0,6.0,False,Innovation Ecosystem
+United Kingdom,2020,Digital Work Ecosystem size,2.0,5.956521739130435,False,Innovation Ecosystem
+Netherlands,2020,Digital Work Ecosystem size,3.0,5.913043478260869,False,Innovation Ecosystem
+Canada,2020,Digital Work Ecosystem size,4.0,5.869565217391305,False,Innovation Ecosystem
+Sweden,2020,Digital Work Ecosystem size,5.0,5.826086956521739,False,Innovation Ecosystem
+Switzerland,2020,Digital Work Ecosystem size,6.0,5.782608695652174,False,Innovation Ecosystem
+Norway,2020,Digital Work Ecosystem size,7.0,5.739130434782608,False,Innovation Ecosystem
+Denmark,2020,Digital Work Ecosystem size,8.0,5.695652173913043,False,Innovation Ecosystem
+Australia,2020,Digital Work Ecosystem size,9.0,5.6521739130434785,False,Innovation Ecosystem
+Finland  ,2020,Digital Work Ecosystem size,10.0,5.608695652173913,False,Innovation Ecosystem
+Ireland,2020,Digital Work Ecosystem size,11.0,5.565217391304348,False,Innovation Ecosystem
+Luxembourg,2020,Digital Work Ecosystem size,12.0,5.521739130434783,False,Innovation Ecosystem
+New Zealand,2020,Digital Work Ecosystem size,13.0,5.478260869565217,False,Innovation Ecosystem
+Germany France,2020,Digital Work Ecosystem size,14.0,5.434782608695652,False,Innovation Ecosystem
+,2020,Digital Work Ecosystem size,15.0,5.391304347826087,False,Innovation Ecosystem
+Iceland,2020,Digital Work Ecosystem size,16.0,5.3478260869565215,False,Innovation Ecosystem
+Belgium Estonia,2020,Digital Work Ecosystem size,17.0,5.304347826086957,False,Innovation Ecosystem
+,2020,Digital Work Ecosystem size,18.0,5.260869565217392,False,Innovation Ecosystem
+Hong Kong,2020,Digital Work Ecosystem size,19.0,5.217391304347826,False,Innovation Ecosystem
+Austria,2020,Digital Work Ecosystem size,20.0,5.173913043478261,False,Innovation Ecosystem
+Japan,2020,Digital Work Ecosystem size,21.0,5.130434782608695,False,Innovation Ecosystem
+South Korea,2020,Digital Work Ecosystem size,22.0,5.086956521739131,False,Innovation Ecosystem
+Israel,2020,Digital Work Ecosystem size,23.0,5.043478260869565,False,Innovation Ecosystem
+Singapore,2020,Digital Work Ecosystem size,24.0,5.0,False,Innovation Ecosystem
+Spain  ,2020,Digital Work Ecosystem size,25.0,4.956521739130435,False,Innovation Ecosystem
+Malta,2020,Digital Work Ecosystem size,26.0,4.913043478260869,False,Innovation Ecosystem
+Portugal,2020,Digital Work Ecosystem size,27.0,4.869565217391305,False,Innovation Ecosystem
+Czech Republic,2020,Digital Work Ecosystem size,28.0,4.826086956521739,False,Innovation Ecosystem
+Taiwan,2020,Digital Work Ecosystem size,29.0,4.782608695652174,False,Innovation Ecosystem
+Italy   ,2020,Digital Work Ecosystem size,30.0,4.739130434782608,False,Innovation Ecosystem
+Slovenia,2020,Digital Work Ecosystem size,31.0,4.695652173913043,False,Innovation Ecosystem
+Lithuania,2020,Digital Work Ecosystem size,32.0,4.6521739130434785,False,Innovation Ecosystem
+Cyprus,2020,Digital Work Ecosystem size,33.0,4.608695652173913,False,Innovation Ecosystem
+United Arab Emirates,2020,Digital Work Ecosystem size,34.0,4.565217391304348,False,Innovation Ecosystem
+Latvia,2020,Digital Work Ecosystem size,35.0,4.521739130434783,False,Innovation Ecosystem
+Malaysia,2020,Digital Work Ecosystem size,36.0,4.478260869565217,False,Innovation Ecosystem
+Qatar,2020,Digital Work Ecosystem size,37.0,4.434782608695652,False,Innovation Ecosystem
+Chile,2020,Digital Work Ecosystem size,38.0,4.391304347826087,False,Innovation Ecosystem
+Poland,2020,Digital Work Ecosystem size,39.0,4.3478260869565215,False,Innovation Ecosystem
+Slovakia,2020,Digital Work Ecosystem size,40.0,4.304347826086957,False,Innovation Ecosystem
+Hungary,2020,Digital Work Ecosystem size,41.0,4.260869565217392,False,Innovation Ecosystem
+Uruguay,2020,Digital Work Ecosystem size,42.0,4.217391304347826,False,Innovation Ecosystem
+Greece,2020,Digital Work Ecosystem size,43.0,4.173913043478261,False,Innovation Ecosystem
+Bulgaria,2020,Digital Work Ecosystem size,44.0,4.130434782608695,False,Innovation Ecosystem
+Croatia,2020,Digital Work Ecosystem size,45.0,4.086956521739131,False,Innovation Ecosystem
+Costa Rica,2020,Digital Work Ecosystem size,46.0,4.043478260869565,False,Innovation Ecosystem
+Romania,2020,Digital Work Ecosystem size,47.0,4.0,False,Innovation Ecosystem
+Russia,2020,Digital Work Ecosystem size,48.0,3.9565217391304346,False,Innovation Ecosystem
+Turkey,2020,Digital Work Ecosystem size,49.0,3.9130434782608696,False,Innovation Ecosystem
+Mauritius,2020,Digital Work Ecosystem size,50.0,3.869565217391304,False,Innovation Ecosystem
+Brazil,2020,Digital Work Ecosystem size,51.0,3.8260869565217392,False,Innovation Ecosystem
+Argentina,2020,Digital Work Ecosystem size,52.0,3.782608695652174,False,Innovation Ecosystem
+Mexico,2020,Digital Work Ecosystem size,53.0,3.739130434782609,False,Innovation Ecosystem
+Ukraine,2020,Digital Work Ecosystem size,54.0,3.6956521739130435,False,Innovation Ecosystem
+Saudi Arabia,2020,Digital Work Ecosystem size,55.0,3.652173913043478,False,Innovation Ecosystem
+Oman,2020,Digital Work Ecosystem size,56.0,3.608695652173913,False,Innovation Ecosystem
+Montenegro,2020,Digital Work Ecosystem size,57.0,3.5652173913043477,False,Innovation Ecosystem
+China,2020,Digital Work Ecosystem size,58.0,3.5217391304347827,False,Innovation Ecosystem
+Colombia,2020,Digital Work Ecosystem size,59.0,3.4782608695652173,False,Innovation Ecosystem
+Panama,2020,Digital Work Ecosystem size,60.0,3.4347826086956523,False,Innovation Ecosystem
+Bahrain,2020,Digital Work Ecosystem size,61.0,3.391304347826087,False,Innovation Ecosystem
+Serbia,2020,Digital Work Ecosystem size,62.0,3.347826086956522,False,Innovation Ecosystem
+Thailand,2020,Digital Work Ecosystem size,63.0,3.3043478260869565,False,Innovation Ecosystem
+Georgia,2020,Digital Work Ecosystem size,64.0,3.260869565217391,False,Innovation Ecosystem
+South Africa,2020,Digital Work Ecosystem size,65.0,3.217391304347826,False,Innovation Ecosystem
+Macedonia,2020,Digital Work Ecosystem size,66.0,3.1739130434782608,False,Innovation Ecosystem
+Jordan,2020,Digital Work Ecosystem size,67.0,3.130434782608696,False,Innovation Ecosystem
+Armenia,2020,Digital Work Ecosystem size,68.0,3.0869565217391304,False,Innovation Ecosystem
+Moldova,2020,Digital Work Ecosystem size,69.0,3.0434782608695654,False,Innovation Ecosystem
+Morocco,2020,Digital Work Ecosystem size,70.0,3.0,False,Innovation Ecosystem
+Philippines,2020,Digital Work Ecosystem size,71.0,2.9565217391304346,False,Innovation Ecosystem
+Azerbaijan,2020,Digital Work Ecosystem size,72.0,2.913043478260869,False,Innovation Ecosystem
+India,2020,Digital Work Ecosystem size,73.0,2.8695652173913047,False,Innovation Ecosystem
+Peru,2020,Digital Work Ecosystem size,74.0,2.8260869565217392,False,Innovation Ecosystem
+Kazakhstan,2020,Digital Work Ecosystem size,75.0,2.782608695652174,False,Innovation Ecosystem
+Indonesia,2020,Digital Work Ecosystem size,76.0,2.7391304347826093,False,Innovation Ecosystem
+Kuwait,2020,Digital Work Ecosystem size,77.0,2.695652173913043,False,Innovation Ecosystem
+Bosnia and Herzegovina,2020,Digital Work Ecosystem size,78.0,2.6521739130434785,False,Innovation Ecosystem
+Ecuador,2020,Digital Work Ecosystem size,79.0,2.608695652173913,False,Innovation Ecosystem
+Tunisia,2020,Digital Work Ecosystem size,80.0,2.5652173913043477,False,Innovation Ecosystem
+Albania,2020,Digital Work Ecosystem size,81.0,2.521739130434783,False,Innovation Ecosystem
+Vietnam,2020,Digital Work Ecosystem size,82.0,2.478260869565217,False,Innovation Ecosystem
+Dominican Republic,2020,Digital Work Ecosystem size,83.0,2.4347826086956523,False,Innovation Ecosystem
+Jamaica,2020,Digital Work Ecosystem size,84.0,2.391304347826087,False,Innovation Ecosystem
+Egypt,2020,Digital Work Ecosystem size,85.0,2.3478260869565215,False,Innovation Ecosystem
+Iran,2020,Digital Work Ecosystem size,86.0,2.304347826086957,False,Innovation Ecosystem
+Botswana,2020,Digital Work Ecosystem size,87.0,2.2608695652173907,False,Innovation Ecosystem
+Namibia,2020,Digital Work Ecosystem size,88.0,2.217391304347826,False,Innovation Ecosystem
+Sri Lanka,2020,Digital Work Ecosystem size,89.0,2.1739130434782608,False,Innovation Ecosystem
+Lebanon,2020,Digital Work Ecosystem size,90.0,2.1304347826086953,False,Innovation Ecosystem
+Kenya,2020,Digital Work Ecosystem size,91.0,2.086956521739131,False,Innovation Ecosystem
+Mongolia,2020,Digital Work Ecosystem size,92.0,2.0434782608695654,False,Innovation Ecosystem
+El Salvador,2020,Digital Work Ecosystem size,93.0,2.0,False,Innovation Ecosystem
+Paraguay,2020,Digital Work Ecosystem size,94.0,1.9565217391304346,False,Innovation Ecosystem
+Guatemala,2020,Digital Work Ecosystem size,95.0,1.9130434782608692,False,Innovation Ecosystem
+Senegal,2020,Digital Work Ecosystem size,96.0,1.8695652173913047,False,Innovation Ecosystem
+Pakistan,2020,Digital Work Ecosystem size,97.0,1.8260869565217392,False,Innovation Ecosystem
+Honduras,2020,Digital Work Ecosystem size,98.0,1.7826086956521738,False,Innovation Ecosystem
+Nigeria,2020,Digital Work Ecosystem size,99.0,1.7391304347826084,False,Innovation Ecosystem
+Zambia,2020,Digital Work Ecosystem size,100.0,1.695652173913044,False,Innovation Ecosystem
+Algeria,2020,Digital Work Ecosystem size,101.0,1.6521739130434785,False,Innovation Ecosystem
+Rwanda,2020,Digital Work Ecosystem size,102.0,1.608695652173913,False,Innovation Ecosystem
+Nepal,2020,Digital Work Ecosystem size,103.0,1.5652173913043477,False,Innovation Ecosystem
+Kyrgyzstan,2020,Digital Work Ecosystem size,104.0,1.5217391304347823,False,Innovation Ecosystem
+Bangladesh,2020,Digital Work Ecosystem size,105.0,1.4782608695652177,False,Innovation Ecosystem
+Uganda,2020,Digital Work Ecosystem size,106.0,1.4347826086956523,False,Innovation Ecosystem
+Cameroon,2020,Digital Work Ecosystem size,107.0,1.391304347826087,False,Innovation Ecosystem
+Mali,2020,Digital Work Ecosystem size,108.0,1.3478260869565215,False,Innovation Ecosystem
+Zimbabwe,2020,Digital Work Ecosystem size,109.0,1.304347826086956,False,Innovation Ecosystem
+Cambodia,2020,Digital Work Ecosystem size,110.0,1.2608695652173916,False,Innovation Ecosystem
+Tanzania,2020,Digital Work Ecosystem size,111.0,1.2173913043478262,False,Innovation Ecosystem
+Malawi,2020,Digital Work Ecosystem size,112.0,1.1739130434782608,False,Innovation Ecosystem
+Benin,2020,Digital Work Ecosystem size,113.0,1.1304347826086953,False,Innovation Ecosystem
+Madagascar,2020,Digital Work Ecosystem size,114.0,1.0869565217391308,False,Innovation Ecosystem
+Burundi,2020,Digital Work Ecosystem size,115.0,1.0434782608695654,False,Innovation Ecosystem
+Ethiopia,2020,Digital Work Ecosystem size,116.0,1.0,False,Innovation Ecosystem

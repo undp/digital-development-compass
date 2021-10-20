@@ -1,171 +1,171 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-5,Afghanistan,2019,Mobile dowload speed at the slowest hour of the day,42.6276207,3.618652107764902,True
-11,Angola,2019,Mobile dowload speed at the slowest hour of the day,66.2856369,2.297021529112085,True
-17,Albania,2019,Mobile dowload speed at the slowest hour of the day,84.63645935,1.271871834043882,True
-23,United Arab Emirates,2019,Mobile dowload speed at the slowest hour of the day,84.95167542,1.2542626146793783,True
-29,Argentina,2019,Mobile dowload speed at the slowest hour of the day,80.72720337,1.4902583715824518,True
-35,Armenia,2019,Mobile dowload speed at the slowest hour of the day,88.43795013,1.0595054878193517,True
-41,Australia,2019,Mobile dowload speed at the slowest hour of the day,86.0691452,1.1918363224880482,True
-47,Austria,2019,Mobile dowload speed at the slowest hour of the day,85.845047,1.2043553363917185,True
-53,Azerbaijan,2019,Mobile dowload speed at the slowest hour of the day,85.6875,1.2131565364168928,True
-59,Burundi,2019,Mobile dowload speed at the slowest hour of the day,51.73629379,3.109805517039512,True
-65,Belgium,2019,Mobile dowload speed at the slowest hour of the day,82.73025513,1.3783599590418278,True
-71,Benin,2019,Mobile dowload speed at the slowest hour of the day,68.67870331,2.1633353519843963,True
-77,Burkina Faso,2019,Mobile dowload speed at the slowest hour of the day,54.46979904,2.9571010766178336,True
-83,Bangladesh,2019,Mobile dowload speed at the slowest hour of the day,74.70111084,1.8268997911381328,True
-89,Bulgaria,2019,Mobile dowload speed at the slowest hour of the day,83.99253845,1.3078438083835415,True
-95,Bahrain,2019,Mobile dowload speed at the slowest hour of the day,87.42061615,1.1163377972278878,True
-101,Bahamas,2019,Mobile dowload speed at the slowest hour of the day,78.23744965,1.6293458851697737,True
-107,Bosnia and Herzegovina,2019,Mobile dowload speed at the slowest hour of the day,84.97593689,1.2529072727790265,True
-113,Belarus,2019,Mobile dowload speed at the slowest hour of the day,86.26157379,1.1810864985551754,True
-119,Belize,2019,Mobile dowload speed at the slowest hour of the day,84.1601944,1.2984778823337866,True
-125,Bolivia,2019,Mobile dowload speed at the slowest hour of the day,80.42672729,1.5070441566679191,True
-131,Brazil,2019,Mobile dowload speed at the slowest hour of the day,77.20741272,1.6868878317269704,True
-137,Barbados,2019,Mobile dowload speed at the slowest hour of the day,87.31311035,1.1223434974295197,True
-143,Brunei Darussalam,2019,Mobile dowload speed at the slowest hour of the day,80.26225281,1.5162323531903317,True
-149,Bhutan,2019,Mobile dowload speed at the slowest hour of the day,80.00563812,1.5305678671391103,True
-155,Botswana,2019,Mobile dowload speed at the slowest hour of the day,69.842659,2.098312172564097,True
-161,Central African Republic,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True
-167,Canada,2019,Mobile dowload speed at the slowest hour of the day,82.5782547,1.3868513056770704,True
-173,Switzerland,2019,Mobile dowload speed at the slowest hour of the day,85.71635437,1.2115446169136943,True
-179,Chile,2019,Mobile dowload speed at the slowest hour of the day,84.57044983,1.275559387530052,True
-185,China,2019,Mobile dowload speed at the slowest hour of the day,83.3423233,1.3441674044821577,True
-191,Cote d'Ivoire,2019,Mobile dowload speed at the slowest hour of the day,74.6656189,1.8288825116166025,True
-197,Cameroon,2019,Mobile dowload speed at the slowest hour of the day,59.53656387,2.674051505700275,True
-203,"Congo, Democratic Republic",2019,Mobile dowload speed at the slowest hour of the day,52.66521454,3.05791232117869,True
-209,Congo,2019,Mobile dowload speed at the slowest hour of the day,71.18615723,2.023259035051497,True
-215,Colombia,2019,Mobile dowload speed at the slowest hour of the day,73.36600494,1.9014840998250042,True
-221,Comoros,2019,Mobile dowload speed at the slowest hour of the day,29.06758499,4.376169462155764,True
-227,Cabo Verde,2019,Mobile dowload speed at the slowest hour of the day,75.06734467,1.8064405174368527,True
-233,Costa Rica,2019,Mobile dowload speed at the slowest hour of the day,68.46898651,2.1750509638680855,True
-239,Cyprus,2019,Mobile dowload speed at the slowest hour of the day,83.8875351,1.313709711807049,True
-245,Czechia,2019,Mobile dowload speed at the slowest hour of the day,87.35509491,1.1199980734574417,True
-251,Germany,2019,Mobile dowload speed at the slowest hour of the day,81.40789032,1.4522324999284315,True
-257,Denmark,2019,Mobile dowload speed at the slowest hour of the day,88.17297363,1.0743081256256604,True
-263,Dominican Republic,2019,Mobile dowload speed at the slowest hour of the day,73.42481995,1.898198460190529,True
-269,Algeria,2019,Mobile dowload speed at the slowest hour of the day,65.19542694,2.3579249796849124,True
-275,Ecuador,2019,Mobile dowload speed at the slowest hour of the day,81.45951843,1.449348349020882,True
-281,Egypt,2019,Mobile dowload speed at the slowest hour of the day,77.11512756,1.6920432466349986,True
-287,Spain,2019,Mobile dowload speed at the slowest hour of the day,78.81275177,1.5972072279244642,True
-293,Estonia,2019,Mobile dowload speed at the slowest hour of the day,89.35057068,1.0085228857537158,True
-299,Ethiopia,2019,Mobile dowload speed at the slowest hour of the day,52.54718018,3.0645061884830715,True
-305,Finland,2019,Mobile dowload speed at the slowest hour of the day,89.50313568,1.0,True
-311,Fiji,2019,Mobile dowload speed at the slowest hour of the day,80.30860901,1.5136427120762077,True
-317,France,2019,Mobile dowload speed at the slowest hour of the day,79.07080078,1.5827915871740323,True
-323,Gabon,2019,Mobile dowload speed at the slowest hour of the day,58.89127731,2.710099771221781,True
-329,United Kingdom,2019,Mobile dowload speed at the slowest hour of the day,81.64401245,1.4390417816253205,True
-335,Georgia,2019,Mobile dowload speed at the slowest hour of the day,76.18167877,1.744189396761925,True
-341,Ghana,2019,Mobile dowload speed at the slowest hour of the day,69.83360291,2.0988180816549473,True
-347,Guinea,2019,Mobile dowload speed at the slowest hour of the day,21.47462463,4.800342330643136,True
-353,Gambia,2019,Mobile dowload speed at the slowest hour of the day,73.35793304,1.901935028160568,True
-359,Guinea-Bissau,2019,Mobile dowload speed at the slowest hour of the day,73.61985779,1.8873028732081183,True
-365,Greece,2019,Mobile dowload speed at the slowest hour of the day,85.48458862,1.2244919705588577,True
-371,Guatemala,2019,Mobile dowload speed at the slowest hour of the day,77.56829071,1.6667277564816603,True
-377,Guyana,2019,Mobile dowload speed at the slowest hour of the day,82.12057495,1.4124191110127597,True
-383,Hong Kong,2019,Mobile dowload speed at the slowest hour of the day,86.95218658,1.1425061301271269,True
-389,Honduras,2019,Mobile dowload speed at the slowest hour of the day,72.1292038,1.970576714882756,True
-395,Croatia,2019,Mobile dowload speed at the slowest hour of the day,83.40629578,1.3405936481263625,True
-401,Haiti,2019,Mobile dowload speed at the slowest hour of the day,72.15071869,1.9693748078301958,True
-407,Hungary,2019,Mobile dowload speed at the slowest hour of the day,85.8157196,1.205993681226075,True
-413,Indonesia,2019,Mobile dowload speed at the slowest hour of the day,75.11997223,1.8035005332899186,True
-419,India,2019,Mobile dowload speed at the slowest hour of the day,70.37320709,2.068673652864806,True
-425,Ireland,2019,Mobile dowload speed at the slowest hour of the day,82.04259491,1.4167753852040237,True
-431,Iran,2019,Mobile dowload speed at the slowest hour of the day,80.21309662,1.5189784128465966,True
-437,Iraq,2019,Mobile dowload speed at the slowest hour of the day,41.89470291,3.659595801213833,True
-443,Iceland,2019,Mobile dowload speed at the slowest hour of the day,88.516922,1.0550938060721133,True
-449,Israel,2019,Mobile dowload speed at the slowest hour of the day,83.61986542,1.328662801325443,True
-455,Italy,2019,Mobile dowload speed at the slowest hour of the day,73.66220856,1.8849369912935767,True
-461,Jamaica,2019,Mobile dowload speed at the slowest hour of the day,76.58874512,1.7214490566103038,True
-467,Jordan,2019,Mobile dowload speed at the slowest hour of the day,85.16642761,1.2422657059471636,True
-473,Japan,2019,Mobile dowload speed at the slowest hour of the day,74.01976013,1.864962743057272,True
-479,Kazakhstan,2019,Mobile dowload speed at the slowest hour of the day,74.9133606,1.815042678066762,True
-485,Kenya,2019,Mobile dowload speed at the slowest hour of the day,76.24150848,1.740847071962608,True
-491,Kyrgyzstan,2019,Mobile dowload speed at the slowest hour of the day,77.34314728,1.6793051610770116,True
-497,Cambodia,2019,Mobile dowload speed at the slowest hour of the day,73.27211761,1.9067290183011387,True
-503,"Korea, South",2019,Mobile dowload speed at the slowest hour of the day,85.02626038,1.2500960031169273,True
-509,Kuwait,2019,Mobile dowload speed at the slowest hour of the day,82.11436462,1.4127660446678103,True
-515,Laos,2019,Mobile dowload speed at the slowest hour of the day,77.69900513,1.6594255307547678,True
-521,Lebanon,2019,Mobile dowload speed at the slowest hour of the day,83.00037384,1.3632700569982985,True
-527,Liberia,2019,Mobile dowload speed at the slowest hour of the day,75.35897827,1.7901487083407632,True
-533,Libya,2019,Mobile dowload speed at the slowest hour of the day,60.00273132,2.648009543792556,True
-539,Saint Lucia,2019,Mobile dowload speed at the slowest hour of the day,49.25951385,3.248168263840653,True
-545,Sri Lanka,2019,Mobile dowload speed at the slowest hour of the day,79.09151459,1.581634431626206,True
-551,Lesotho,2019,Mobile dowload speed at the slowest hour of the day,83.424263,1.3395899279849681,True
-557,Lithuania,2019,Mobile dowload speed at the slowest hour of the day,88.65822601,1.0472000038647131,True
-563,Luxembourg,2019,Mobile dowload speed at the slowest hour of the day,83.67604828,1.325524204025295,True
-569,Latvia,2019,Mobile dowload speed at the slowest hour of the day,86.99420929,1.1401585749448007,True
-575,Morocco,2019,Mobile dowload speed at the slowest hour of the day,78.998909,1.5868077470244,True
-581,Moldova,2019,Mobile dowload speed at the slowest hour of the day,87.02775574,1.138284537250751,True
-587,Madagascar,2019,Mobile dowload speed at the slowest hour of the day,66.27646637,2.2975338312750395,True
-593,Maldives,2019,Mobile dowload speed at the slowest hour of the day,84.25305176,1.2932905020652345,True
-599,Mexico,2019,Mobile dowload speed at the slowest hour of the day,67.51120758,2.22855629207381,True
-605,North Macedonia,2019,Mobile dowload speed at the slowest hour of the day,82.39633179,1.397014240674702,True
-611,Mali,2019,Mobile dowload speed at the slowest hour of the day,76.26432037,1.7395727093480087,True
-617,Malta,2019,Mobile dowload speed at the slowest hour of the day,85.62003326,1.2169254959895053,True
-623,Myanmar,2019,Mobile dowload speed at the slowest hour of the day,79.79179382,1.542514057536537,True
-629,Montenegro,2019,Mobile dowload speed at the slowest hour of the day,87.90982056,1.0890088994030647,True
-635,Mongolia,2019,Mobile dowload speed at the slowest hour of the day,69.22419739,2.132861890029371,True
-641,Mozambique,2019,Mobile dowload speed at the slowest hour of the day,63.75968933,2.4381309746532445,True
-647,Mauritania,2019,Mobile dowload speed at the slowest hour of the day,24.21052551,4.647504060832029,True
-653,Mauritius,2019,Mobile dowload speed at the slowest hour of the day,75.95424652,1.7568946639166514,True
-659,Malawi,2019,Mobile dowload speed at the slowest hour of the day,72.47364807,1.9513346923891826,True
-665,Malaysia,2019,Mobile dowload speed at the slowest hour of the day,80.7954483,1.4864459392312543,True
-671,Namibia,2019,Mobile dowload speed at the slowest hour of the day,80.41703796,1.5075854410556886,True
-677,Niger,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True
-683,Nigeria,2019,Mobile dowload speed at the slowest hour of the day,64.02388,2.423372236426209,True
-689,Nicaragua,2019,Mobile dowload speed at the slowest hour of the day,80.25515747,1.5166287270126624,True
-695,Netherlands,2019,Mobile dowload speed at the slowest hour of the day,87.24908447,1.1259202369210222,True
-701,Norway,2019,Mobile dowload speed at the slowest hour of the day,84.58065033,1.2749895471595165,True
-707,Nepal,2019,Mobile dowload speed at the slowest hour of the day,78.17490387,1.632839940407326,True
-713,New Zealand,2019,Mobile dowload speed at the slowest hour of the day,79.79162598,1.542523433744349,True
-719,Oman,2019,Mobile dowload speed at the slowest hour of the day,82.24913788,1.405237076046987,True
-725,Pakistan,2019,Mobile dowload speed at the slowest hour of the day,77.61958313,1.663862358548375,True
-731,Panama,2019,Mobile dowload speed at the slowest hour of the day,68.69229889,2.162575848985048,True
-737,Peru,2019,Mobile dowload speed at the slowest hour of the day,79.76686859,1.5439064797020077,True
-743,Philippines,2019,Mobile dowload speed at the slowest hour of the day,63.32881546,2.4622012972585052,True
-749,Papua New Guinea,2019,Mobile dowload speed at the slowest hour of the day,47.02816772,3.372820104977131,True
-755,Poland,2019,Mobile dowload speed at the slowest hour of the day,79.29411316,1.5703164722909966,True
-761,Portugal,2019,Mobile dowload speed at the slowest hour of the day,86.81982422,1.1499004163157833,True
-767,Paraguay,2019,Mobile dowload speed at the slowest hour of the day,76.31613922,1.736677902947858,True
-773,Qatar,2019,Mobile dowload speed at the slowest hour of the day,86.51947784,1.1666789558450477,True
-779,Romania,2019,Mobile dowload speed at the slowest hour of the day,83.87529755,1.3143933498665996,True
-785,Russian Federation,2019,Mobile dowload speed at the slowest hour of the day,76.55381775,1.7234002379702993,True
-791,Rwanda,2019,Mobile dowload speed at the slowest hour of the day,84.04305267,1.3050218837874796,True
-797,Saudi Arabia,2019,Mobile dowload speed at the slowest hour of the day,79.71383667,1.546869053001652,True
-803,Sudan,2019,Mobile dowload speed at the slowest hour of the day,33.07539368,4.152277379518063,True
-809,Senegal,2019,Mobile dowload speed at the slowest hour of the day,68.03138733,2.199496988952868,True
-815,Singapore,2019,Mobile dowload speed at the slowest hour of the day,89.33781433,1.0092355060380829,True
-821,Solomon Islands,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True
-827,Sierra Leone,2019,Mobile dowload speed at the slowest hour of the day,81.89720154,1.4248976352735534,True
-833,El Salvador,2019,Mobile dowload speed at the slowest hour of the day,74.7379303,1.8248429101294255,True
-839,Serbia,2019,Mobile dowload speed at the slowest hour of the day,86.33026123,1.1772493458410187,True
-845,South Sudan,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True
-851,Suriname,2019,Mobile dowload speed at the slowest hour of the day,79.03834534,1.584604676724104,True
-857,Slovakia,2019,Mobile dowload speed at the slowest hour of the day,86.45021057,1.170548500161777,True
-863,Slovenia,2019,Mobile dowload speed at the slowest hour of the day,88.21338654,1.0720505002534901,True
-869,Sweden,2019,Mobile dowload speed at the slowest hour of the day,86.57021332,1.1638446707881869,True
-875,Eswatini,2019,Mobile dowload speed at the slowest hour of the day,80.93630219,1.4785772825115835,True
-881,Chad,2019,Mobile dowload speed at the slowest hour of the day,24.36997986,4.6385963086740425,True
-887,Togo,2019,Mobile dowload speed at the slowest hour of the day,81.37611389,1.4540076572879244,True
-893,Thailand,2019,Mobile dowload speed at the slowest hour of the day,85.3970108,1.2293844147919355,True
-899,Tajikistan,2019,Mobile dowload speed at the slowest hour of the day,75.69949341,1.7711261826262756,True
-905,Timor-Leste,2019,Mobile dowload speed at the slowest hour of the day,69.69882965,2.1063470502757706,True
-911,Tonga,2019,Mobile dowload speed at the slowest hour of the day,56.70352554,2.832316258576026,True
-917,Trinidad and Tobago,2019,Mobile dowload speed at the slowest hour of the day,84.49706268,1.2796590846771103,True
-923,Tunisia,2019,Mobile dowload speed at the slowest hour of the day,86.27637482,1.1802596543397437,True
-929,Turkey,2019,Mobile dowload speed at the slowest hour of the day,89.45713043,1.0025700356557605,True
-935,Tanzania,2019,Mobile dowload speed at the slowest hour of the day,75.68654633,1.7718494578446036,True
-941,Uganda,2019,Mobile dowload speed at the slowest hour of the day,82.0958786,1.4137987470340212,True
-947,Ukraine,2019,Mobile dowload speed at the slowest hour of the day,79.60639954,1.552870917024837,True
-953,Uruguay,2019,Mobile dowload speed at the slowest hour of the day,80.38775635,1.5092212278791077,True
-959,United States of America,2019,Mobile dowload speed at the slowest hour of the day,76.95912933,1.7007579262277757,True
-965,Uzbekistan,2019,Mobile dowload speed at the slowest hour of the day,67.22479248,2.2445565750708223,True
-971,Saint Vincent and the Grenadines,2019,Mobile dowload speed at the slowest hour of the day,56.59251404,2.838517801078229,True
-977,Venezuela,2019,Mobile dowload speed at the slowest hour of the day,49.70928574,3.223042222915782,True
-983,Vietnam,2019,Mobile dowload speed at the slowest hour of the day,84.55747223,1.2762843677165785,True
-989,Vanuatu,2019,Mobile dowload speed at the slowest hour of the day,64.29122162,2.4084374736400296,True
-995,Samoa,2019,Mobile dowload speed at the slowest hour of the day,70.36003876,2.0694092879852946,True
-1001,Yemen,2019,Mobile dowload speed at the slowest hour of the day,9.473684311,5.47076243535918,True
-1007,South Africa,2019,Mobile dowload speed at the slowest hour of the day,78.4385376,1.618112315056714,True
-1013,Zambia,2019,Mobile dowload speed at the slowest hour of the day,60.04498672,2.6456489896243154,True
-1019,Zimbabwe,2019,Mobile dowload speed at the slowest hour of the day,72.70591736,1.938359209003302,True
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Afghanistan,2019,Mobile dowload speed at the slowest hour of the day,42.6276207,3.618652107764902,True,Connectivity Technology
+Angola,2019,Mobile dowload speed at the slowest hour of the day,66.2856369,2.297021529112085,True,Connectivity Technology
+Albania,2019,Mobile dowload speed at the slowest hour of the day,84.63645935,1.271871834043882,True,Connectivity Technology
+United Arab Emirates,2019,Mobile dowload speed at the slowest hour of the day,84.95167542,1.2542626146793783,True,Connectivity Technology
+Argentina,2019,Mobile dowload speed at the slowest hour of the day,80.72720337,1.4902583715824518,True,Connectivity Technology
+Armenia,2019,Mobile dowload speed at the slowest hour of the day,88.43795013,1.0595054878193517,True,Connectivity Technology
+Australia,2019,Mobile dowload speed at the slowest hour of the day,86.0691452,1.1918363224880482,True,Connectivity Technology
+Austria,2019,Mobile dowload speed at the slowest hour of the day,85.845047,1.2043553363917185,True,Connectivity Technology
+Azerbaijan,2019,Mobile dowload speed at the slowest hour of the day,85.6875,1.2131565364168928,True,Connectivity Technology
+Burundi,2019,Mobile dowload speed at the slowest hour of the day,51.73629379,3.109805517039512,True,Connectivity Technology
+Belgium,2019,Mobile dowload speed at the slowest hour of the day,82.73025513,1.3783599590418278,True,Connectivity Technology
+Benin,2019,Mobile dowload speed at the slowest hour of the day,68.67870331,2.1633353519843963,True,Connectivity Technology
+Burkina Faso,2019,Mobile dowload speed at the slowest hour of the day,54.46979904,2.9571010766178336,True,Connectivity Technology
+Bangladesh,2019,Mobile dowload speed at the slowest hour of the day,74.70111084,1.8268997911381328,True,Connectivity Technology
+Bulgaria,2019,Mobile dowload speed at the slowest hour of the day,83.99253845,1.3078438083835415,True,Connectivity Technology
+Bahrain,2019,Mobile dowload speed at the slowest hour of the day,87.42061615,1.1163377972278878,True,Connectivity Technology
+Bahamas,2019,Mobile dowload speed at the slowest hour of the day,78.23744965,1.6293458851697737,True,Connectivity Technology
+Bosnia and Herzegovina,2019,Mobile dowload speed at the slowest hour of the day,84.97593689,1.2529072727790265,True,Connectivity Technology
+Belarus,2019,Mobile dowload speed at the slowest hour of the day,86.26157379,1.1810864985551754,True,Connectivity Technology
+Belize,2019,Mobile dowload speed at the slowest hour of the day,84.1601944,1.2984778823337866,True,Connectivity Technology
+Bolivia,2019,Mobile dowload speed at the slowest hour of the day,80.42672729,1.5070441566679191,True,Connectivity Technology
+Brazil,2019,Mobile dowload speed at the slowest hour of the day,77.20741272,1.6868878317269704,True,Connectivity Technology
+Barbados,2019,Mobile dowload speed at the slowest hour of the day,87.31311035,1.1223434974295197,True,Connectivity Technology
+Brunei Darussalam,2019,Mobile dowload speed at the slowest hour of the day,80.26225281,1.5162323531903317,True,Connectivity Technology
+Bhutan,2019,Mobile dowload speed at the slowest hour of the day,80.00563812,1.5305678671391103,True,Connectivity Technology
+Botswana,2019,Mobile dowload speed at the slowest hour of the day,69.842659,2.098312172564097,True,Connectivity Technology
+Central African Republic,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True,Connectivity Technology
+Canada,2019,Mobile dowload speed at the slowest hour of the day,82.5782547,1.3868513056770704,True,Connectivity Technology
+Switzerland,2019,Mobile dowload speed at the slowest hour of the day,85.71635437,1.2115446169136943,True,Connectivity Technology
+Chile,2019,Mobile dowload speed at the slowest hour of the day,84.57044983,1.275559387530052,True,Connectivity Technology
+China,2019,Mobile dowload speed at the slowest hour of the day,83.3423233,1.3441674044821577,True,Connectivity Technology
+Cote d'Ivoire,2019,Mobile dowload speed at the slowest hour of the day,74.6656189,1.8288825116166025,True,Connectivity Technology
+Cameroon,2019,Mobile dowload speed at the slowest hour of the day,59.53656387,2.674051505700275,True,Connectivity Technology
+"Congo, Democratic Republic",2019,Mobile dowload speed at the slowest hour of the day,52.66521454,3.05791232117869,True,Connectivity Technology
+Congo,2019,Mobile dowload speed at the slowest hour of the day,71.18615723,2.023259035051497,True,Connectivity Technology
+Colombia,2019,Mobile dowload speed at the slowest hour of the day,73.36600494,1.9014840998250042,True,Connectivity Technology
+Comoros,2019,Mobile dowload speed at the slowest hour of the day,29.06758499,4.376169462155764,True,Connectivity Technology
+Cabo Verde,2019,Mobile dowload speed at the slowest hour of the day,75.06734467,1.8064405174368527,True,Connectivity Technology
+Costa Rica,2019,Mobile dowload speed at the slowest hour of the day,68.46898651,2.1750509638680855,True,Connectivity Technology
+Cyprus,2019,Mobile dowload speed at the slowest hour of the day,83.8875351,1.313709711807049,True,Connectivity Technology
+Czechia,2019,Mobile dowload speed at the slowest hour of the day,87.35509491,1.1199980734574417,True,Connectivity Technology
+Germany,2019,Mobile dowload speed at the slowest hour of the day,81.40789032,1.4522324999284315,True,Connectivity Technology
+Denmark,2019,Mobile dowload speed at the slowest hour of the day,88.17297363,1.0743081256256604,True,Connectivity Technology
+Dominican Republic,2019,Mobile dowload speed at the slowest hour of the day,73.42481995,1.898198460190529,True,Connectivity Technology
+Algeria,2019,Mobile dowload speed at the slowest hour of the day,65.19542694,2.3579249796849124,True,Connectivity Technology
+Ecuador,2019,Mobile dowload speed at the slowest hour of the day,81.45951843,1.449348349020882,True,Connectivity Technology
+Egypt,2019,Mobile dowload speed at the slowest hour of the day,77.11512756,1.6920432466349986,True,Connectivity Technology
+Spain,2019,Mobile dowload speed at the slowest hour of the day,78.81275177,1.5972072279244642,True,Connectivity Technology
+Estonia,2019,Mobile dowload speed at the slowest hour of the day,89.35057068,1.0085228857537158,True,Connectivity Technology
+Ethiopia,2019,Mobile dowload speed at the slowest hour of the day,52.54718018,3.0645061884830715,True,Connectivity Technology
+Finland,2019,Mobile dowload speed at the slowest hour of the day,89.50313568,1.0,True,Connectivity Technology
+Fiji,2019,Mobile dowload speed at the slowest hour of the day,80.30860901,1.5136427120762077,True,Connectivity Technology
+France,2019,Mobile dowload speed at the slowest hour of the day,79.07080078,1.5827915871740323,True,Connectivity Technology
+Gabon,2019,Mobile dowload speed at the slowest hour of the day,58.89127731,2.710099771221781,True,Connectivity Technology
+United Kingdom,2019,Mobile dowload speed at the slowest hour of the day,81.64401245,1.4390417816253205,True,Connectivity Technology
+Georgia,2019,Mobile dowload speed at the slowest hour of the day,76.18167877,1.744189396761925,True,Connectivity Technology
+Ghana,2019,Mobile dowload speed at the slowest hour of the day,69.83360291,2.0988180816549473,True,Connectivity Technology
+Guinea,2019,Mobile dowload speed at the slowest hour of the day,21.47462463,4.800342330643136,True,Connectivity Technology
+Gambia,2019,Mobile dowload speed at the slowest hour of the day,73.35793304,1.901935028160568,True,Connectivity Technology
+Guinea-Bissau,2019,Mobile dowload speed at the slowest hour of the day,73.61985779,1.8873028732081183,True,Connectivity Technology
+Greece,2019,Mobile dowload speed at the slowest hour of the day,85.48458862,1.2244919705588577,True,Connectivity Technology
+Guatemala,2019,Mobile dowload speed at the slowest hour of the day,77.56829071,1.6667277564816603,True,Connectivity Technology
+Guyana,2019,Mobile dowload speed at the slowest hour of the day,82.12057495,1.4124191110127597,True,Connectivity Technology
+Hong Kong,2019,Mobile dowload speed at the slowest hour of the day,86.95218658,1.1425061301271269,True,Connectivity Technology
+Honduras,2019,Mobile dowload speed at the slowest hour of the day,72.1292038,1.970576714882756,True,Connectivity Technology
+Croatia,2019,Mobile dowload speed at the slowest hour of the day,83.40629578,1.3405936481263625,True,Connectivity Technology
+Haiti,2019,Mobile dowload speed at the slowest hour of the day,72.15071869,1.9693748078301958,True,Connectivity Technology
+Hungary,2019,Mobile dowload speed at the slowest hour of the day,85.8157196,1.205993681226075,True,Connectivity Technology
+Indonesia,2019,Mobile dowload speed at the slowest hour of the day,75.11997223,1.8035005332899186,True,Connectivity Technology
+India,2019,Mobile dowload speed at the slowest hour of the day,70.37320709,2.068673652864806,True,Connectivity Technology
+Ireland,2019,Mobile dowload speed at the slowest hour of the day,82.04259491,1.4167753852040237,True,Connectivity Technology
+Iran,2019,Mobile dowload speed at the slowest hour of the day,80.21309662,1.5189784128465966,True,Connectivity Technology
+Iraq,2019,Mobile dowload speed at the slowest hour of the day,41.89470291,3.659595801213833,True,Connectivity Technology
+Iceland,2019,Mobile dowload speed at the slowest hour of the day,88.516922,1.0550938060721133,True,Connectivity Technology
+Israel,2019,Mobile dowload speed at the slowest hour of the day,83.61986542,1.328662801325443,True,Connectivity Technology
+Italy,2019,Mobile dowload speed at the slowest hour of the day,73.66220856,1.8849369912935767,True,Connectivity Technology
+Jamaica,2019,Mobile dowload speed at the slowest hour of the day,76.58874512,1.7214490566103038,True,Connectivity Technology
+Jordan,2019,Mobile dowload speed at the slowest hour of the day,85.16642761,1.2422657059471636,True,Connectivity Technology
+Japan,2019,Mobile dowload speed at the slowest hour of the day,74.01976013,1.864962743057272,True,Connectivity Technology
+Kazakhstan,2019,Mobile dowload speed at the slowest hour of the day,74.9133606,1.815042678066762,True,Connectivity Technology
+Kenya,2019,Mobile dowload speed at the slowest hour of the day,76.24150848,1.740847071962608,True,Connectivity Technology
+Kyrgyzstan,2019,Mobile dowload speed at the slowest hour of the day,77.34314728,1.6793051610770116,True,Connectivity Technology
+Cambodia,2019,Mobile dowload speed at the slowest hour of the day,73.27211761,1.9067290183011387,True,Connectivity Technology
+"Korea, South",2019,Mobile dowload speed at the slowest hour of the day,85.02626038,1.2500960031169273,True,Connectivity Technology
+Kuwait,2019,Mobile dowload speed at the slowest hour of the day,82.11436462,1.4127660446678103,True,Connectivity Technology
+Laos,2019,Mobile dowload speed at the slowest hour of the day,77.69900513,1.6594255307547678,True,Connectivity Technology
+Lebanon,2019,Mobile dowload speed at the slowest hour of the day,83.00037384,1.3632700569982985,True,Connectivity Technology
+Liberia,2019,Mobile dowload speed at the slowest hour of the day,75.35897827,1.7901487083407632,True,Connectivity Technology
+Libya,2019,Mobile dowload speed at the slowest hour of the day,60.00273132,2.648009543792556,True,Connectivity Technology
+Saint Lucia,2019,Mobile dowload speed at the slowest hour of the day,49.25951385,3.248168263840653,True,Connectivity Technology
+Sri Lanka,2019,Mobile dowload speed at the slowest hour of the day,79.09151459,1.581634431626206,True,Connectivity Technology
+Lesotho,2019,Mobile dowload speed at the slowest hour of the day,83.424263,1.3395899279849681,True,Connectivity Technology
+Lithuania,2019,Mobile dowload speed at the slowest hour of the day,88.65822601,1.0472000038647131,True,Connectivity Technology
+Luxembourg,2019,Mobile dowload speed at the slowest hour of the day,83.67604828,1.325524204025295,True,Connectivity Technology
+Latvia,2019,Mobile dowload speed at the slowest hour of the day,86.99420929,1.1401585749448007,True,Connectivity Technology
+Morocco,2019,Mobile dowload speed at the slowest hour of the day,78.998909,1.5868077470244,True,Connectivity Technology
+Moldova,2019,Mobile dowload speed at the slowest hour of the day,87.02775574,1.138284537250751,True,Connectivity Technology
+Madagascar,2019,Mobile dowload speed at the slowest hour of the day,66.27646637,2.2975338312750395,True,Connectivity Technology
+Maldives,2019,Mobile dowload speed at the slowest hour of the day,84.25305176,1.2932905020652345,True,Connectivity Technology
+Mexico,2019,Mobile dowload speed at the slowest hour of the day,67.51120758,2.22855629207381,True,Connectivity Technology
+North Macedonia,2019,Mobile dowload speed at the slowest hour of the day,82.39633179,1.397014240674702,True,Connectivity Technology
+Mali,2019,Mobile dowload speed at the slowest hour of the day,76.26432037,1.7395727093480087,True,Connectivity Technology
+Malta,2019,Mobile dowload speed at the slowest hour of the day,85.62003326,1.2169254959895053,True,Connectivity Technology
+Myanmar,2019,Mobile dowload speed at the slowest hour of the day,79.79179382,1.542514057536537,True,Connectivity Technology
+Montenegro,2019,Mobile dowload speed at the slowest hour of the day,87.90982056,1.0890088994030647,True,Connectivity Technology
+Mongolia,2019,Mobile dowload speed at the slowest hour of the day,69.22419739,2.132861890029371,True,Connectivity Technology
+Mozambique,2019,Mobile dowload speed at the slowest hour of the day,63.75968933,2.4381309746532445,True,Connectivity Technology
+Mauritania,2019,Mobile dowload speed at the slowest hour of the day,24.21052551,4.647504060832029,True,Connectivity Technology
+Mauritius,2019,Mobile dowload speed at the slowest hour of the day,75.95424652,1.7568946639166514,True,Connectivity Technology
+Malawi,2019,Mobile dowload speed at the slowest hour of the day,72.47364807,1.9513346923891826,True,Connectivity Technology
+Malaysia,2019,Mobile dowload speed at the slowest hour of the day,80.7954483,1.4864459392312543,True,Connectivity Technology
+Namibia,2019,Mobile dowload speed at the slowest hour of the day,80.41703796,1.5075854410556886,True,Connectivity Technology
+Niger,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True,Connectivity Technology
+Nigeria,2019,Mobile dowload speed at the slowest hour of the day,64.02388,2.423372236426209,True,Connectivity Technology
+Nicaragua,2019,Mobile dowload speed at the slowest hour of the day,80.25515747,1.5166287270126624,True,Connectivity Technology
+Netherlands,2019,Mobile dowload speed at the slowest hour of the day,87.24908447,1.1259202369210222,True,Connectivity Technology
+Norway,2019,Mobile dowload speed at the slowest hour of the day,84.58065033,1.2749895471595165,True,Connectivity Technology
+Nepal,2019,Mobile dowload speed at the slowest hour of the day,78.17490387,1.632839940407326,True,Connectivity Technology
+New Zealand,2019,Mobile dowload speed at the slowest hour of the day,79.79162598,1.542523433744349,True,Connectivity Technology
+Oman,2019,Mobile dowload speed at the slowest hour of the day,82.24913788,1.405237076046987,True,Connectivity Technology
+Pakistan,2019,Mobile dowload speed at the slowest hour of the day,77.61958313,1.663862358548375,True,Connectivity Technology
+Panama,2019,Mobile dowload speed at the slowest hour of the day,68.69229889,2.162575848985048,True,Connectivity Technology
+Peru,2019,Mobile dowload speed at the slowest hour of the day,79.76686859,1.5439064797020077,True,Connectivity Technology
+Philippines,2019,Mobile dowload speed at the slowest hour of the day,63.32881546,2.4622012972585052,True,Connectivity Technology
+Papua New Guinea,2019,Mobile dowload speed at the slowest hour of the day,47.02816772,3.372820104977131,True,Connectivity Technology
+Poland,2019,Mobile dowload speed at the slowest hour of the day,79.29411316,1.5703164722909966,True,Connectivity Technology
+Portugal,2019,Mobile dowload speed at the slowest hour of the day,86.81982422,1.1499004163157833,True,Connectivity Technology
+Paraguay,2019,Mobile dowload speed at the slowest hour of the day,76.31613922,1.736677902947858,True,Connectivity Technology
+Qatar,2019,Mobile dowload speed at the slowest hour of the day,86.51947784,1.1666789558450477,True,Connectivity Technology
+Romania,2019,Mobile dowload speed at the slowest hour of the day,83.87529755,1.3143933498665996,True,Connectivity Technology
+Russian Federation,2019,Mobile dowload speed at the slowest hour of the day,76.55381775,1.7234002379702993,True,Connectivity Technology
+Rwanda,2019,Mobile dowload speed at the slowest hour of the day,84.04305267,1.3050218837874796,True,Connectivity Technology
+Saudi Arabia,2019,Mobile dowload speed at the slowest hour of the day,79.71383667,1.546869053001652,True,Connectivity Technology
+Sudan,2019,Mobile dowload speed at the slowest hour of the day,33.07539368,4.152277379518063,True,Connectivity Technology
+Senegal,2019,Mobile dowload speed at the slowest hour of the day,68.03138733,2.199496988952868,True,Connectivity Technology
+Singapore,2019,Mobile dowload speed at the slowest hour of the day,89.33781433,1.0092355060380829,True,Connectivity Technology
+Solomon Islands,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True,Connectivity Technology
+Sierra Leone,2019,Mobile dowload speed at the slowest hour of the day,81.89720154,1.4248976352735534,True,Connectivity Technology
+El Salvador,2019,Mobile dowload speed at the slowest hour of the day,74.7379303,1.8248429101294255,True,Connectivity Technology
+Serbia,2019,Mobile dowload speed at the slowest hour of the day,86.33026123,1.1772493458410187,True,Connectivity Technology
+South Sudan,2019,Mobile dowload speed at the slowest hour of the day,0.0,6.0,True,Connectivity Technology
+Suriname,2019,Mobile dowload speed at the slowest hour of the day,79.03834534,1.584604676724104,True,Connectivity Technology
+Slovakia,2019,Mobile dowload speed at the slowest hour of the day,86.45021057,1.170548500161777,True,Connectivity Technology
+Slovenia,2019,Mobile dowload speed at the slowest hour of the day,88.21338654,1.0720505002534901,True,Connectivity Technology
+Sweden,2019,Mobile dowload speed at the slowest hour of the day,86.57021332,1.1638446707881869,True,Connectivity Technology
+Eswatini,2019,Mobile dowload speed at the slowest hour of the day,80.93630219,1.4785772825115835,True,Connectivity Technology
+Chad,2019,Mobile dowload speed at the slowest hour of the day,24.36997986,4.6385963086740425,True,Connectivity Technology
+Togo,2019,Mobile dowload speed at the slowest hour of the day,81.37611389,1.4540076572879244,True,Connectivity Technology
+Thailand,2019,Mobile dowload speed at the slowest hour of the day,85.3970108,1.2293844147919355,True,Connectivity Technology
+Tajikistan,2019,Mobile dowload speed at the slowest hour of the day,75.69949341,1.7711261826262756,True,Connectivity Technology
+Timor-Leste,2019,Mobile dowload speed at the slowest hour of the day,69.69882965,2.1063470502757706,True,Connectivity Technology
+Tonga,2019,Mobile dowload speed at the slowest hour of the day,56.70352554,2.832316258576026,True,Connectivity Technology
+Trinidad and Tobago,2019,Mobile dowload speed at the slowest hour of the day,84.49706268,1.2796590846771103,True,Connectivity Technology
+Tunisia,2019,Mobile dowload speed at the slowest hour of the day,86.27637482,1.1802596543397437,True,Connectivity Technology
+Turkey,2019,Mobile dowload speed at the slowest hour of the day,89.45713043,1.0025700356557605,True,Connectivity Technology
+Tanzania,2019,Mobile dowload speed at the slowest hour of the day,75.68654633,1.7718494578446036,True,Connectivity Technology
+Uganda,2019,Mobile dowload speed at the slowest hour of the day,82.0958786,1.4137987470340212,True,Connectivity Technology
+Ukraine,2019,Mobile dowload speed at the slowest hour of the day,79.60639954,1.552870917024837,True,Connectivity Technology
+Uruguay,2019,Mobile dowload speed at the slowest hour of the day,80.38775635,1.5092212278791077,True,Connectivity Technology
+United States of America,2019,Mobile dowload speed at the slowest hour of the day,76.95912933,1.7007579262277757,True,Connectivity Technology
+Uzbekistan,2019,Mobile dowload speed at the slowest hour of the day,67.22479248,2.2445565750708223,True,Connectivity Technology
+Saint Vincent and the Grenadines,2019,Mobile dowload speed at the slowest hour of the day,56.59251404,2.838517801078229,True,Connectivity Technology
+Venezuela,2019,Mobile dowload speed at the slowest hour of the day,49.70928574,3.223042222915782,True,Connectivity Technology
+Vietnam,2019,Mobile dowload speed at the slowest hour of the day,84.55747223,1.2762843677165785,True,Connectivity Technology
+Vanuatu,2019,Mobile dowload speed at the slowest hour of the day,64.29122162,2.4084374736400296,True,Connectivity Technology
+Samoa,2019,Mobile dowload speed at the slowest hour of the day,70.36003876,2.0694092879852946,True,Connectivity Technology
+Yemen,2019,Mobile dowload speed at the slowest hour of the day,9.473684311,5.47076243535918,True,Connectivity Technology
+South Africa,2019,Mobile dowload speed at the slowest hour of the day,78.4385376,1.618112315056714,True,Connectivity Technology
+Zambia,2019,Mobile dowload speed at the slowest hour of the day,60.04498672,2.6456489896243154,True,Connectivity Technology
+Zimbabwe,2019,Mobile dowload speed at the slowest hour of the day,72.70591736,1.938359209003302,True,Connectivity Technology
