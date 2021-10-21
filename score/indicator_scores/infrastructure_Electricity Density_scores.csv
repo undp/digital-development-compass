@@ -1,62 +1,267 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-World,2017,Electricity Density,25592.0,6.0,True,Connectivity Technology
-OECD,2017,Electricity Density,11069.0,3.1594820841808793,True,Connectivity Technology
-G7,2017,Electricity Density,7898.0,2.539273979033015,True,Connectivity Technology
-BRICS,2017,Electricity Density,10000.0,2.9503989985917696,True,Connectivity Technology
-Europe,2017,Electricity Density,3886.0,1.7545767485526522,True,Connectivity Technology
-European Union,2017,Electricity Density,3275.0,1.6350727585667344,True,Connectivity Technology
-Belgium,2017,Electricity Density,87.0,1.011539665154123,True,Connectivity Technology
-Czech Rep.,2017,Electricity Density,87.0,1.011539665154123,True,Connectivity Technology
-France,2017,Electricity Density,551.0,1.1022922860272257,True,Connectivity Technology
-Germany,2017,Electricity Density,653.0,1.1222422156157097,True,Connectivity Technology
-Italy,2017,Electricity Density,295.0,1.0522218745110312,True,Connectivity Technology
-Netherlands,2017,Electricity Density,117.0,1.0174072915036771,True,Connectivity Technology
-Poland,2017,Electricity Density,171.0,1.0279690189328743,True,Connectivity Technology
-Portugal,2017,Electricity Density,60.0,1.0062588014395244,True,Connectivity Technology
-Romania,2017,Electricity Density,64.0,1.0070411516194648,True,Connectivity Technology
-Spain,2017,Electricity Density,275.0,1.0483101236113284,True,Connectivity Technology
-Sweden,2017,Electricity Density,163.0,1.0264043185729932,True,Connectivity Technology
-United Kingdom,2017,Electricity Density,336.0,1.0602409638554218,True,Connectivity Technology
-Norway,2017,Electricity Density,149.0,1.0236660929432013,True,Connectivity Technology
-Turkey,2017,Electricity Density,296.0,1.0524174620560163,True,Connectivity Technology
-CIS,2017,Electricity Density,1566.0,1.300813644187138,True,Connectivity Technology
-Kazakhstan,2017,Electricity Density,120.0,1.0179940541386325,True,Connectivity Technology
-Russia,2017,Electricity Density,1090.0,1.2077139727742137,True,Connectivity Technology
-Ukraine,2017,Electricity Density,158.0,1.0254263808480677,True,Connectivity Technology
-Uzbekistan,2017,Electricity Density,60.0,1.0062588014395244,True,Connectivity Technology
-America,2017,Electricity Density,6553.0,2.2762087310280084,True,Connectivity Technology
-North America,2017,Electricity Density,4963.0,1.965224534501643,True,Connectivity Technology
-Canada,2017,Electricity Density,712.0,1.1337818807698326,True,Connectivity Technology
-United States,2017,Electricity Density,4251.0,1.8259662024722265,True,Connectivity Technology
-Latin America,2017,Electricity Density,1590.0,1.3055077452667814,True,Connectivity Technology
-Argentina,2017,Electricity Density,147.0,1.0232749178532312,True,Connectivity Technology
-Brazil,2017,Electricity Density,585.0,1.1089422625567205,True,Connectivity Technology
-Chile,2017,Electricity Density,79.0,1.009974964794242,True,Connectivity Technology
-Colombia,2017,Electricity Density,69.0,1.0080190893443906,True,Connectivity Technology
-Mexico,2017,Electricity Density,314.0,1.0559380378657488,True,Connectivity Technology
-Venezuela,2017,Electricity Density,112.0,1.0164293537787514,True,Connectivity Technology
-Asia,2017,Electricity Density,11274.0,3.199577530902832,True,Connectivity Technology
-China,2017,Electricity Density,6529.0,2.271514629948365,True,Connectivity Technology
-India,2017,Electricity Density,1541.0,1.2959239555625097,True,Connectivity Technology
-Indonesia,2017,Electricity Density,260.0,1.0453763104365514,True,Connectivity Technology
-Japan,2017,Electricity Density,1101.0,1.2098654357690501,True,Connectivity Technology
-Malaysia,2017,Electricity Density,166.0,1.0269910812079486,True,Connectivity Technology
-South Korea,2017,Electricity Density,579.0,1.1077687372868095,True,Connectivity Technology
-Taiwan,2017,Electricity Density,271.0,1.047527773431388,True,Connectivity Technology
-Thailand,2017,Electricity Density,177.0,1.029142544202785,True,Connectivity Technology
-Pacific,2017,Electricity Density,304.0,1.0539821624158974,True,Connectivity Technology
-Australia,2017,Electricity Density,255.0,1.0443983727116257,True,Connectivity Technology
-New Zealand,2017,Electricity Density,44.0,1.0031294007197622,True,Connectivity Technology
-Africa,2017,Electricity Density,818.0,1.154514160538257,True,Connectivity Technology
-Algeria,2017,Electricity Density,83.0,1.0107573149741824,True,Connectivity Technology
-Egypt,2017,Electricity Density,194.0,1.0324675324675325,True,Connectivity Technology
-Nigeria,2017,Electricity Density,28.0,1.0,True,Connectivity Technology
-South Africa,2017,Electricity Density,254.0,1.0442027851666407,True,Connectivity Technology
-Middle-East,2017,Electricity Density,1190.0,1.2272727272727273,True,Connectivity Technology
-Iran,2017,Electricity Density,311.0,1.0553512752307932,True,Connectivity Technology
-Kuwait,2017,Electricity Density,73.0,1.008801439524331,True,Connectivity Technology
-Saudi Arabia,2017,Electricity Density,345.0,1.062001251760288,True,Connectivity Technology
-United Arab Emirates,2017,Electricity Density,137.0,1.0213190424033798,True,Connectivity Technology
-n.a. : non avalaible ,2017,Electricity Density,,,True,Connectivity Technology
-Source : ,2017,Electricity Density,,,True,Connectivity Technology
-"© Copyright Enerdata. Reproduction and diffusion prohibited (web, photocopy, intranet...) without written permission. ",2017,Electricity Density,,,True,Connectivity Technology
+Aruba,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Africa Eastern and Southern,2019,Electricity Density,43.64066111,2.9790060943227292,True,Connectivity Technology
+Afghanistan,2019,Electricity Density,97.7,5.876714558404967,True,Connectivity Technology
+Africa Western and Central,2019,Electricity Density,51.34142147,3.3917850689314766,True,Connectivity Technology
+Angola,2019,Electricity Density,45.67031479,3.0878003335504602,True,Connectivity Technology
+Albania,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Andorra,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Arab World,2019,Electricity Density,89.51228232,5.437833519346597,True,Connectivity Technology
+United Arab Emirates,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Argentina,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Armenia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+American Samoa,2019,Electricity Density,,,True,Connectivity Technology
+Antigua and Barbuda,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Australia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Austria,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Azerbaijan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Burundi,2019,Electricity Density,11.0647974,1.2328627278762356,True,Connectivity Technology
+Belgium,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Benin,2019,Electricity Density,40.31874084,2.800943308483408,True,Connectivity Technology
+Burkina Faso,2019,Electricity Density,18.3791523,1.6249294556281,True,Connectivity Technology
+Bangladesh,2019,Electricity Density,92.2,5.581901545895108,True,Connectivity Technology
+Bulgaria,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Bahrain,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Bahamas, The",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Bosnia and Herzegovina,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Belarus,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Belize,2019,Electricity Density,92.72,5.609774776168767,True,Connectivity Technology
+Bermuda,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Bolivia,2019,Electricity Density,96.30310059,5.8018374450894505,True,Connectivity Technology
+Brazil,2019,Electricity Density,99.8,5.989279526817823,True,Connectivity Technology
+Barbados,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Brunei Darussalam,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Bhutan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Botswana,2019,Electricity Density,70.18318176,4.401747998401212,True,Connectivity Technology
+Central African Republic,2019,Electricity Density,14.3,1.4062772414372775,True,Connectivity Technology
+Canada,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Central Europe and the Baltics,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Switzerland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Channel Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Chile,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+China,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Cote d'Ivoire,2019,Electricity Density,68.55010986,4.314211480858631,True,Connectivity Technology
+Cameroon,2019,Electricity Density,63.45231247,4.040957479820303,True,Connectivity Technology
+"Congo, Dem. Rep.",2019,Electricity Density,19.1,1.6635685978095187,True,Connectivity Technology
+"Congo, Rep.",2019,Electricity Density,48.32972336,3.23035092482614,True,Connectivity Technology
+Colombia,2019,Electricity Density,99.7662735,5.98747170662393,True,Connectivity Technology
+Comoros,2019,Electricity Density,84.04824066,5.144947958934965,True,Connectivity Technology
+Cabo Verde,2019,Electricity Density,95.53353882,5.760587113502884,True,Connectivity Technology
+Costa Rica,2019,Electricity Density,99.71,5.984455313885843,True,Connectivity Technology
+Caribbean small states,2019,Electricity Density,98.28050491,5.907830995003852,True,Connectivity Technology
+Cuba,2019,Electricity Density,99.8,5.989279526817823,True,Connectivity Technology
+Curacao,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Cayman Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Cyprus,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Czech Republic,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Germany,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Djibouti,2019,Electricity Density,61.27593613,3.9242985588838337,True,Connectivity Technology
+Dominica,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Denmark,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Dominican Republic,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Algeria,2019,Electricity Density,99.5,5.973198817044558,True,Connectivity Technology
+East Asia & Pacific (excluding high income),2019,Electricity Density,97.92847301,5.888961252287749,True,Connectivity Technology
+Early-demographic dividend,2019,Electricity Density,92.54255259,5.600263175168009,True,Connectivity Technology
+East Asia & Pacific,2019,Electricity Density,98.12820952,5.899667601782531,True,Connectivity Technology
+Europe & Central Asia (excluding high income),2019,Electricity Density,99.98532524,5.999213398144826,True,Connectivity Technology
+Europe & Central Asia,2019,Electricity Density,99.99332629,5.999642273354596,True,Connectivity Technology
+Ecuador,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Egypt, Arab Rep.",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Euro area,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Eritrea,2019,Electricity Density,50.38573074,3.340557784724377,True,Connectivity Technology
+Spain,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Estonia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Ethiopia,2019,Electricity Density,48.2716217,3.2272365383867903,True,Connectivity Technology
+European Union,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Fragile and conflict affected situations,2019,Electricity Density,54.06689684,3.537876996995317,True,Connectivity Technology
+Finland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Fiji,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+France,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Faroe Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Micronesia, Fed. Sts.",2019,Electricity Density,82.11694336,5.041425854377663,True,Connectivity Technology
+Gabon,2019,Electricity Density,90.68525696,5.500707735204064,True,Connectivity Technology
+United Kingdom,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Georgia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Ghana,2019,Electricity Density,83.5,5.115560962470421,True,Connectivity Technology
+Gibraltar,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Guinea,2019,Electricity Density,42.41838837,2.913489383670351,True,Connectivity Technology
+"Gambia, The",2019,Electricity Density,59.92128754,3.8516861894819914,True,Connectivity Technology
+Guinea-Bissau,2019,Electricity Density,31.0404129,2.303602979202353,True,Connectivity Technology
+Equatorial Guinea,2019,Electricity Density,66.59217834,4.209261719095138,True,Connectivity Technology
+Greece,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Grenada,2019,Electricity Density,95.42874146,5.754969727065669,True,Connectivity Technology
+Greenland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Guatemala,2019,Electricity Density,95.72457123,5.770826902644541,True,Connectivity Technology
+Guam,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Guyana,2019,Electricity Density,92.02169037,5.572343727862414,True,Connectivity Technology
+High income,2019,Electricity Density,99.99970841,5.999984370086124,True,Connectivity Technology
+"Hong Kong SAR, China",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Honduras,2019,Electricity Density,92.77952576,5.612965497737411,True,Connectivity Technology
+Heavily indebted poor countries (HIPC),2019,Electricity Density,44.62496514,3.0317671191063464,True,Connectivity Technology
+Croatia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Haiti,2019,Electricity Density,45.37134552,3.0717748733438106,True,Connectivity Technology
+Hungary,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+IBRD only,2019,Electricity Density,98.50206442,5.9197071089299085,True,Connectivity Technology
+IDA & IBRD total,2019,Electricity Density,88.50726547,5.383962238406293,True,Connectivity Technology
+IDA total,2019,Electricity Density,59.69449796,3.8395297314300554,True,Connectivity Technology
+IDA blend,2019,Electricity Density,66.83906857,4.22249561954342,True,Connectivity Technology
+Indonesia,2019,Electricity Density,98.85,5.938357279202483,True,Connectivity Technology
+IDA only,2019,Electricity Density,56.07704629,3.6456257633497784,True,Connectivity Technology
+Isle of Man,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+India,2019,Electricity Density,97.81528473,5.882894092686365,True,Connectivity Technology
+Not classified,2019,Electricity Density,,,True,Connectivity Technology
+Ireland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Iran, Islamic Rep.",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Iraq,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Iceland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Israel,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Italy,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Jamaica,2019,Electricity Density,99.3837738,5.966968817743727,True,Connectivity Technology
+Jordan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Japan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Kazakhstan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Kenya,2019,Electricity Density,69.7,4.375848312900228,True,Connectivity Technology
+Kyrgyz Republic,2019,Electricity Density,99.88175201,5.993661627971794,True,Connectivity Technology
+Cambodia,2019,Electricity Density,93.0,5.624783438623815,True,Connectivity Technology
+Kiribati,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+St. Kitts and Nevis,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Korea, Rep.",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Kuwait,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Latin America & Caribbean (excluding high income),2019,Electricity Density,98.27271963,5.907413685576573,True,Connectivity Technology
+Lao PDR,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Lebanon,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Liberia,2019,Electricity Density,27.64920998,2.1218264794064563,True,Connectivity Technology
+Libya,2019,Electricity Density,68.53218842,4.3132508492741,True,Connectivity Technology
+St. Lucia,2019,Electricity Density,99.54777527,5.975759684548589,True,Connectivity Technology
+Latin America & Caribbean,2019,Electricity Density,98.4242947,5.915538467941682,True,Connectivity Technology
+Least developed countries: UN classification,2019,Electricity Density,52.77828064,3.4688041199242248,True,Connectivity Technology
+Low income,2019,Electricity Density,40.92334181,2.8333513509074226,True,Connectivity Technology
+Liechtenstein,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Sri Lanka,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Lower middle income,2019,Electricity Density,89.03552552,5.412278226902495,True,Connectivity Technology
+Low & middle income,2019,Electricity Density,88.21043054,5.368051183873302,True,Connectivity Technology
+Lesotho,2019,Electricity Density,44.64067841,3.0326093875545426,True,Connectivity Technology
+Late-demographic dividend,2019,Electricity Density,99.37013627,5.966237813870546,True,Connectivity Technology
+Lithuania,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Luxembourg,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Latvia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Macao SAR, China",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+St. Martin (French part),2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Morocco,2019,Electricity Density,99.6,5.978559053635646,True,Connectivity Technology
+Monaco,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Moldova,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Madagascar,2019,Electricity Density,26.9071846,2.0820521634725337,True,Connectivity Technology
+Maldives,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Middle East & North Africa,2019,Electricity Density,97.2325398,5.851657585715793,True,Connectivity Technology
+Mexico,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Marshall Islands,2019,Electricity Density,97.44360352,5.862971100465745,True,Connectivity Technology
+Middle income,2019,Electricity Density,93.50516872,5.651861677199987,True,Connectivity Technology
+North Macedonia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Mali,2019,Electricity Density,48.02124786,3.2138159082005977,True,Connectivity Technology
+Malta,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Myanmar,2019,Electricity Density,68.35665131,4.303841644872942,True,Connectivity Technology
+Middle East & North Africa (excluding high income),2019,Electricity Density,96.75464785,5.826041446546028,True,Connectivity Technology
+Montenegro,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Mongolia,2019,Electricity Density,99.12526703,5.953112243267746,True,Connectivity Technology
+Northern Mariana Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Mozambique,2019,Electricity Density,29.61616135,2.22725972647011,True,Connectivity Technology
+Mauritania,2019,Electricity Density,45.81206894,3.095398691368147,True,Connectivity Technology
+Mauritius,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Malawi,2019,Electricity Density,11.2,1.2401099071135384,True,Connectivity Technology
+Malaysia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+North America,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Namibia,2019,Electricity Density,55.19511795,3.5983523177619205,True,Connectivity Technology
+New Caledonia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Niger,2019,Electricity Density,18.77472496,1.6461330860937613,True,Connectivity Technology
+Nigeria,2019,Electricity Density,55.4,3.6093344803745926,True,Connectivity Technology
+Nicaragua,2019,Electricity Density,88.21266937,5.368171190458174,True,Connectivity Technology
+Netherlands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Norway,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Nepal,2019,Electricity Density,89.9,5.458616104300076,True,Connectivity Technology
+Nauru,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+New Zealand,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+OECD members,2019,Electricity Density,99.99030697,5.999480430659155,True,Connectivity Technology
+Oman,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Other small states,2019,Electricity Density,78.2433314,4.833791088700969,True,Connectivity Technology
+Pakistan,2019,Electricity Density,73.91436005,4.601747982380537,True,Connectivity Technology
+Panama,2019,Electricity Density,95.83455658,5.776722377620077,True,Connectivity Technology
+Peru,2019,Electricity Density,98.34660339,5.911374029914965,True,Connectivity Technology
+Philippines,2019,Electricity Density,95.62862396,5.76568390196985,True,Connectivity Technology
+Palau,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Papua New Guinea,2019,Electricity Density,63.46451187,4.041611396522997,True,Connectivity Technology
+Poland,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Pre-demographic dividend,2019,Electricity Density,47.23105972,3.1714599543818767,True,Connectivity Technology
+Puerto Rico,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Korea, Dem. People's Rep.",2019,Electricity Density,49.37275696,3.286259993510686,True,Connectivity Technology
+Portugal,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Paraguay,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+West Bank and Gaza,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Pacific island small states,2019,Electricity Density,86.74578058,5.289542480786022,True,Connectivity Technology
+Post-demographic dividend,2019,Electricity Density,99.9979629,5.999890806620403,True,Connectivity Technology
+French Polynesia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Qatar,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Romania,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Russian Federation,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Rwanda,2019,Electricity Density,37.78243637,2.664991388221058,True,Connectivity Technology
+South Asia,2019,Electricity Density,94.39872919,5.699758632476429,True,Connectivity Technology
+Saudi Arabia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Sudan,2019,Electricity Density,53.82707214,3.525021825671449,True,Connectivity Technology
+Senegal,2019,Electricity Density,70.4,4.413369969037847,True,Connectivity Technology
+Singapore,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Solomon Islands,2019,Electricity Density,70.25849152,4.405784779713393,True,Connectivity Technology
+Sierra Leone,2019,Electricity Density,22.7,1.8565371150886996,True,Connectivity Technology
+El Salvador,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+San Marino,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Somalia,2019,Electricity Density,36.0331955,2.5712279390410457,True,Connectivity Technology
+Serbia,2019,Electricity Density,99.8,5.989279526817823,True,Connectivity Technology
+Sub-Saharan Africa (excluding high income),2019,Electricity Density,46.74498892,3.145405409501681,True,Connectivity Technology
+South Sudan,2019,Electricity Density,6.720535278,1.0,True,Connectivity Technology
+Sub-Saharan Africa,2019,Electricity Density,46.74968559,3.1456571621255836,True,Connectivity Technology
+Small states,2019,Electricity Density,82.35172866,5.054010901938761,True,Connectivity Technology
+Sao Tome and Principe,2019,Electricity Density,75.18190765,4.669691532645199,True,Connectivity Technology
+Suriname,2019,Electricity Density,97.88735199,5.88675706832708,True,Connectivity Technology
+Slovak Republic,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Slovenia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Sweden,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Eswatini,2019,Electricity Density,77.16963959,4.77623866742583,True,Connectivity Technology
+Sint Maarten (Dutch part),2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Seychelles,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Syrian Arab Republic,2019,Electricity Density,89.32488251,5.427788446159346,True,Connectivity Technology
+Turks and Caicos Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Chad,2019,Electricity Density,8.4,1.0900232825630645,True,Connectivity Technology
+East Asia & Pacific (IDA & IBRD countries),2019,Electricity Density,98.53113688,5.921265461568758,True,Connectivity Technology
+Europe & Central Asia (IDA & IBRD countries),2019,Electricity Density,99.98666379,5.999285147591715,True,Connectivity Technology
+Togo,2019,Electricity Density,52.44109726,3.4507302930103965,True,Connectivity Technology
+Thailand,2019,Electricity Density,99.9,5.994639763408912,True,Connectivity Technology
+Tajikistan,2019,Electricity Density,99.63539124,5.9804561078321665,True,Connectivity Technology
+Turkmenistan,2019,Electricity Density,99.9,5.994639763408912,True,Connectivity Technology
+Latin America & the Caribbean (IDA & IBRD countries),2019,Electricity Density,98.38844661,5.913616925504296,True,Connectivity Technology
+Timor-Leste,2019,Electricity Density,94.71617889,5.716774687454128,True,Connectivity Technology
+Middle East & North Africa (IDA & IBRD countries),2019,Electricity Density,96.7151297,5.823923180209606,True,Connectivity Technology
+Tonga,2019,Electricity Density,98.4,5.914236214542587,True,Connectivity Technology
+South Asia (IDA & IBRD),2019,Electricity Density,94.39872919,5.699758632476429,True,Connectivity Technology
+Sub-Saharan Africa (IDA & IBRD countries),2019,Electricity Density,46.74968559,3.1456571621255836,True,Connectivity Technology
+Trinidad and Tobago,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Tunisia,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Turkey,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Tuvalu,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Tanzania,2019,Electricity Density,37.7,2.6605726037519535,True,Connectivity Technology
+Uganda,2019,Electricity Density,41.3,2.8535411210311343,True,Connectivity Technology
+Ukraine,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Upper middle income,2019,Electricity Density,99.37740261,5.966627306886059,True,Connectivity Technology
+Uruguay,2019,Electricity Density,99.9,5.994639763408912,True,Connectivity Technology
+United States,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Uzbekistan,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+St. Vincent and the Grenadines,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Venezuela, RB",2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+British Virgin Islands,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Virgin Islands (U.S.),2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+Vietnam,2019,Electricity Density,99.4,5.967838580453471,True,Connectivity Technology
+Vanuatu,2019,Electricity Density,64.66623688,4.106026700233277,True,Connectivity Technology
+World,2019,Electricity Density,90.08403052,5.468480575571886,True,Connectivity Technology
+Samoa,2019,Electricity Density,99.2,5.9571181072712935,True,Connectivity Technology
+Kosovo,2019,Electricity Density,100.0,6.0,True,Connectivity Technology
+"Yemen, Rep.",2019,Electricity Density,72.75170135,4.539426725313666,True,Connectivity Technology
+South Africa,2019,Electricity Density,85.0,5.195964511336746,True,Connectivity Technology
+Zambia,2019,Electricity Density,43.0,2.9446651430796362,True,Connectivity Technology
+Zimbabwe,2019,Electricity Density,41.08910751,2.8422367846142964,True,Connectivity Technology
