@@ -1,7 +1,7 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
 49,Business,Financing Incentives,Germany,5.785714285714286,1,0.7232142857142857
-240,Business,Startup Environment,Germany,3.519736526576105,5,2.1998353291100656
-471,Business,Technology Adoption,Germany,4.582003888499001,8,4.582003888499001
+247,Business,Startup Environment,Germany,3.8317028374024864,6,2.8737771280518647
+496,Business,Technology Adoption,Germany,4.582003888499001,8,4.582003888499001
 28,Foundations,Data Exchange,Germany,3.808988764044944,1,0.952247191011236
 164,Foundations,Digital Legal Identity,Germany,4.353896103896104,3,3.2654220779220777
 357,Foundations,Digital Payments,Germany,5.483569039655997,3,4.112676779741998
@@ -9,8 +9,25 @@
 177,Government,Digital Public Services,Germany,3.977535880707059,5,3.977535880707059
 397,Government,Funding and procurement,Germany,3.730415637147375,2,1.49216625485895
 596,Government,Leadership and coordination,Germany,3.5,1,0.7000000000000001
-118,Infrastructure,Connectivity Technology,Germany,4.31244922826266,23,4.132763843751716
-420,Infrastructure,Innovation Ecosystem,Germany,2.6593826868677146,4,0.4432304478112857
+66,Infrastructure,Ambition,Germany,5.642857142857142,1,0.0017475556342078
+238,Infrastructure,Capabilities,Germany,5.813084112149532,1,0.0018002738037006
+501,Infrastructure,Connectivity Technology,Germany,4.457762794468357,22,0.0303718741029123
+1032,Infrastructure,Culture,Germany,5.134334606659276,3,0.0047702086776022
+1323,Infrastructure,Cybersecurity,Germany,5.444444444444445,1,0.0016861085303327
+1397,Infrastructure,Data Exchange,Germany,3.808988764044944,1,0.0011796186943465
+1533,Infrastructure,Digital Legal Identity,Germany,5.805194805194805,3,0.0053934916121351
+1804,Infrastructure,Digital Literacy Skills,Germany,3.4772772143656243,21,0.0226146861262552
+2108,Infrastructure,Digital Payments,Germany,5.483569039655997,3,0.0050946754781567
+2349,Infrastructure,Digital Public Services,Germany,3.5886143931256718,2,0.0022227404107312
+2689,Infrastructure,Digital Wellbeing,Germany,4.004323083533994,8,0.0099208995566032
+2899,Infrastructure,Ethical Standards,Germany,5.523809523809523,1,0.0017106873718827
+3034,Infrastructure,Financing Incentives,Germany,5.785714285714286,1,0.0017917975489979
+3202,Infrastructure,Funding and procurement,Germany,3.730415637147375,2,0.0023105702305031
+3420,Infrastructure,Innovation Ecosystem,Germany,2.683088627017721,3,0.0024928045466253
+3648,Infrastructure,Leadership and coordination,Germany,3.5,1,0.0010839269123567
+3876,Infrastructure,Startup Environment,Germany,3.8317028374024864,6,0.007119918558196
+4171,Infrastructure,Technology Adoption,Germany,4.541914977909392,7,0.0098462077563845
+4451,Infrastructure,Usage and ownership,Germany,5.010514457159978,23,0.0356896353405634
 20,Regulation,Cybersecurity,Germany,5.444444444444445,1,5.444444444444445
 108,Regulation,Ethical Standards,Germany,5.523809523809523,1,5.523809523809523
 3,Strategy,Ambition,Germany,5.642857142857142,1,5.642857142857142

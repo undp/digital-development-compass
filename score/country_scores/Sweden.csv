@@ -1,15 +1,31 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
 130,Business,Financing Incentives,Sweden,5.5,1,0.6875
-389,Business,Startup Environment,Sweden,3.635986346,5,2.272491466
-544,Business,Technology Adoption,Sweden,4.591767962,7,4.017796967
-79,Foundations,Data Exchange,Sweden,3.921348315,1,0.980337079
-274,Foundations,Digital Legal Identity,Sweden,4.418831169,3,3.314123377
-446,Foundations,Digital Payments,Sweden,5.866550725,3,4.399913043
-92,Government,Capabilities,Sweden,5.719626168,1,1.143925234
-297,Government,Digital Public Services,Sweden,5.241067208,4,4.192853767
-503,Government,Funding and procurement,Sweden,6,1,1.2
-701,Government,Leadership and coordination,Sweden,6,1,1.2
-309,Infrastructure,Connectivity Technology,Sweden,4.531905612,24,4.531905612
-514,Infrastructure,Innovation Ecosystem,Sweden,3.166625061,5,0.659713554
-174,Regulation,Ethical Standards,Sweden,5.682539683,1,5.682539683
-1,Strategy,Ambition,Sweden,5.968487395,1,5.968487395
+411,Business,Startup Environment,Sweden,3.981487739480675,6,2.986115804610506
+569,Business,Technology Adoption,Sweden,4.591767962170882,7,4.017796966899521
+79,Foundations,Data Exchange,Sweden,3.9213483146067416,1,0.9803370786516854
+274,Foundations,Digital Legal Identity,Sweden,4.4188311688311686,3,3.3141233766233764
+446,Foundations,Digital Payments,Sweden,5.866550724637681,3,4.399913043478261
+92,Government,Capabilities,Sweden,5.719626168224299,1,1.14392523364486
+297,Government,Digital Public Services,Sweden,5.241067208364828,4,4.192853766691862
+503,Government,Funding and procurement,Sweden,6.0,1,1.2000000000000002
+701,Government,Leadership and coordination,Sweden,6.0,1,1.2000000000000002
+177,Infrastructure,Ambition,Sweden,5.968487394957982,1,0.0018484011752734
+297,Infrastructure,Capabilities,Sweden,5.719626168224299,1,0.0017713304949595
+806,Infrastructure,Connectivity Technology,Sweden,4.476227594737495,23,0.0318839376522026
+1243,Infrastructure,Culture,Sweden,5.271288949262236,4,0.006529933662759
+1448,Infrastructure,Data Exchange,Sweden,3.9213483146067416,1,0.0012144157059791
+1643,Infrastructure,Digital Legal Identity,Sweden,5.891774891774891,3,0.005473931457208
+2001,Infrastructure,Digital Literacy Skills,Sweden,3.554406590623861,9,0.009906986471234
+2197,Infrastructure,Digital Payments,Sweden,5.866550724637681,3,0.0054504961826921
+2553,Infrastructure,Digital Public Services,Sweden,5.178634416729655,2,0.0032075778363144
+2818,Infrastructure,Digital Wellbeing,Sweden,4.358663582228914,8,0.0107987948769994
+2965,Infrastructure,Ethical Standards,Sweden,5.682539682539682,1,0.0017598450549828
+3115,Infrastructure,Financing Incentives,Sweden,5.5,1,0.0017033137194177
+3308,Infrastructure,Funding and procurement,Sweden,6.0,1,0.001858160421183
+3549,Infrastructure,Innovation Ecosystem,Sweden,3.2445586178597683,4,0.0040192736052768
+3753,Infrastructure,Leadership and coordination,Sweden,6.0,1,0.001858160421183
+4040,Infrastructure,Startup Environment,Sweden,3.981487739480675,6,0.0073982429349284
+4313,Infrastructure,Technology Adoption,Sweden,4.502264642734715,6,0.0083659299648213
+4607,Infrastructure,Usage and ownership,Sweden,5.359936206832836,22,0.0365186115052097
+174,Regulation,Ethical Standards,Sweden,5.682539682539682,1,5.682539682539682
+1,Strategy,Ambition,Sweden,5.968487394957982,1,5.968487394957982

@@ -1,190 +1,190 @@
-,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better
-2,Norway,2019,UNDP Human Development Index (HDI) ,1.0,6.0,False
-3,Ireland,2019,UNDP Human Development Index (HDI) ,2.0,5.973404255319149,False
-4,Switzerland,2019,UNDP Human Development Index (HDI) ,2.0,5.973404255319149,False
-5,"Hong Kong, China (SAR)",2019,UNDP Human Development Index (HDI) ,4.0,5.920212765957447,False
-6,Iceland,2019,UNDP Human Development Index (HDI) ,4.0,5.920212765957447,False
-7,Germany,2019,UNDP Human Development Index (HDI) ,6.0,5.867021276595745,False
-8,Sweden,2019,UNDP Human Development Index (HDI) ,7.0,5.840425531914894,False
-9,Australia,2019,UNDP Human Development Index (HDI) ,8.0,5.8138297872340425,False
-10,Netherlands,2019,UNDP Human Development Index (HDI) ,8.0,5.8138297872340425,False
-11,Denmark,2019,UNDP Human Development Index (HDI) ,10.0,5.76063829787234,False
-12,Finland,2019,UNDP Human Development Index (HDI) ,11.0,5.73404255319149,False
-13,Singapore,2019,UNDP Human Development Index (HDI) ,11.0,5.73404255319149,False
-14,United Kingdom,2019,UNDP Human Development Index (HDI) ,13.0,5.680851063829787,False
-15,Belgium,2019,UNDP Human Development Index (HDI) ,14.0,5.654255319148936,False
-16,New Zealand,2019,UNDP Human Development Index (HDI) ,14.0,5.654255319148936,False
-17,Canada,2019,UNDP Human Development Index (HDI) ,16.0,5.601063829787234,False
-18,United States,2019,UNDP Human Development Index (HDI) ,17.0,5.574468085106383,False
-19,Austria,2019,UNDP Human Development Index (HDI) ,18.0,5.547872340425532,False
-20,Israel,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False
-21,Japan,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False
-22,Liechtenstein,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False
-23,Slovenia,2019,UNDP Human Development Index (HDI) ,22.0,5.441489361702128,False
-24,Korea (Republic of),2019,UNDP Human Development Index (HDI) ,23.0,5.414893617021276,False
-25,Luxembourg,2019,UNDP Human Development Index (HDI) ,23.0,5.414893617021276,False
-26,Spain,2019,UNDP Human Development Index (HDI) ,25.0,5.361702127659575,False
-27,France,2019,UNDP Human Development Index (HDI) ,26.0,5.335106382978724,False
-28,Czechia,2019,UNDP Human Development Index (HDI) ,27.0,5.308510638297872,False
-29,Malta,2019,UNDP Human Development Index (HDI) ,28.0,5.281914893617021,False
-30,Estonia,2019,UNDP Human Development Index (HDI) ,29.0,5.25531914893617,False
-31,Italy,2019,UNDP Human Development Index (HDI) ,29.0,5.25531914893617,False
-32,United Arab Emirates,2019,UNDP Human Development Index (HDI) ,31.0,5.202127659574468,False
-33,Greece,2019,UNDP Human Development Index (HDI) ,32.0,5.175531914893617,False
-34,Cyprus,2019,UNDP Human Development Index (HDI) ,33.0,5.148936170212766,False
-35,Lithuania,2019,UNDP Human Development Index (HDI) ,34.0,5.122340425531915,False
-36,Poland,2019,UNDP Human Development Index (HDI) ,35.0,5.095744680851064,False
-37,Andorra,2019,UNDP Human Development Index (HDI) ,36.0,5.069148936170213,False
-38,Latvia,2019,UNDP Human Development Index (HDI) ,37.0,5.042553191489361,False
-39,Portugal,2019,UNDP Human Development Index (HDI) ,38.0,5.01595744680851,False
-40,Slovakia,2019,UNDP Human Development Index (HDI) ,39.0,4.98936170212766,False
-41,Hungary,2019,UNDP Human Development Index (HDI) ,40.0,4.962765957446809,False
-42,Saudi Arabia,2019,UNDP Human Development Index (HDI) ,40.0,4.962765957446809,False
-43,Bahrain,2019,UNDP Human Development Index (HDI) ,42.0,4.909574468085106,False
-44,Chile,2019,UNDP Human Development Index (HDI) ,43.0,4.882978723404255,False
-45,Croatia,2019,UNDP Human Development Index (HDI) ,43.0,4.882978723404255,False
-46,Qatar,2019,UNDP Human Development Index (HDI) ,45.0,4.829787234042553,False
-47,Argentina,2019,UNDP Human Development Index (HDI) ,46.0,4.803191489361702,False
-48,Brunei Darussalam,2019,UNDP Human Development Index (HDI) ,47.0,4.776595744680851,False
-49,Montenegro,2019,UNDP Human Development Index (HDI) ,48.0,4.75,False
-50,Romania,2019,UNDP Human Development Index (HDI) ,49.0,4.723404255319149,False
-51,Palau,2019,UNDP Human Development Index (HDI) ,50.0,4.696808510638298,False
-52,Kazakhstan,2019,UNDP Human Development Index (HDI) ,51.0,4.670212765957447,False
-53,Russian Federation,2019,UNDP Human Development Index (HDI) ,52.0,4.6436170212765955,False
-54,Belarus,2019,UNDP Human Development Index (HDI) ,53.0,4.617021276595745,False
-55,Turkey,2019,UNDP Human Development Index (HDI) ,54.0,4.590425531914894,False
-56,Uruguay,2019,UNDP Human Development Index (HDI) ,55.0,4.5638297872340425,False
-57,Bulgaria,2019,UNDP Human Development Index (HDI) ,56.0,4.537234042553191,False
-58,Panama,2019,UNDP Human Development Index (HDI) ,57.0,4.51063829787234,False
-59,Bahamas,2019,UNDP Human Development Index (HDI) ,58.0,4.48404255319149,False
-60,Barbados,2019,UNDP Human Development Index (HDI) ,58.0,4.48404255319149,False
-61,Oman,2019,UNDP Human Development Index (HDI) ,60.0,4.430851063829787,False
-62,Georgia,2019,UNDP Human Development Index (HDI) ,61.0,4.404255319148936,False
-63,Costa Rica,2019,UNDP Human Development Index (HDI) ,62.0,4.377659574468085,False
-64,Malaysia,2019,UNDP Human Development Index (HDI) ,62.0,4.377659574468085,False
-65,Kuwait,2019,UNDP Human Development Index (HDI) ,64.0,4.324468085106383,False
-66,Serbia,2019,UNDP Human Development Index (HDI) ,64.0,4.324468085106383,False
-67,Mauritius,2019,UNDP Human Development Index (HDI) ,66.0,4.2712765957446805,False
-69,Seychelles,2019,UNDP Human Development Index (HDI) ,67.0,4.24468085106383,False
-70,Trinidad and Tobago,2019,UNDP Human Development Index (HDI) ,67.0,4.24468085106383,False
-71,Albania,2019,UNDP Human Development Index (HDI) ,69.0,4.191489361702128,False
-72,Cuba,2019,UNDP Human Development Index (HDI) ,70.0,4.164893617021277,False
-73,Iran (Islamic Republic of),2019,UNDP Human Development Index (HDI) ,70.0,4.164893617021277,False
-74,Sri Lanka,2019,UNDP Human Development Index (HDI) ,72.0,4.111702127659575,False
-75,Bosnia and Herzegovina,2019,UNDP Human Development Index (HDI) ,73.0,4.085106382978723,False
-76,Grenada,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False
-77,Mexico,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False
-78,Saint Kitts and Nevis,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False
-79,Ukraine,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False
-80,Antigua and Barbuda,2019,UNDP Human Development Index (HDI) ,78.0,3.952127659574468,False
-81,Peru,2019,UNDP Human Development Index (HDI) ,79.0,3.925531914893617,False
-82,Thailand,2019,UNDP Human Development Index (HDI) ,79.0,3.925531914893617,False
-83,Armenia,2019,UNDP Human Development Index (HDI) ,81.0,3.872340425531915,False
-84,North Macedonia,2019,UNDP Human Development Index (HDI) ,82.0,3.845744680851064,False
-85,Colombia,2019,UNDP Human Development Index (HDI) ,83.0,3.8191489361702127,False
-86,Brazil,2019,UNDP Human Development Index (HDI) ,84.0,3.7925531914893615,False
-87,China,2019,UNDP Human Development Index (HDI) ,85.0,3.765957446808511,False
-88,Ecuador,2019,UNDP Human Development Index (HDI) ,86.0,3.7393617021276597,False
-89,Saint Lucia,2019,UNDP Human Development Index (HDI) ,86.0,3.7393617021276597,False
-90,Azerbaijan,2019,UNDP Human Development Index (HDI) ,88.0,3.6861702127659575,False
-91,Dominican Republic,2019,UNDP Human Development Index (HDI) ,88.0,3.6861702127659575,False
-92,Moldova (Republic of),2019,UNDP Human Development Index (HDI) ,90.0,3.632978723404255,False
-93,Algeria,2019,UNDP Human Development Index (HDI) ,91.0,3.606382978723404,False
-94,Lebanon,2019,UNDP Human Development Index (HDI) ,92.0,3.5797872340425534,False
-95,Fiji,2019,UNDP Human Development Index (HDI) ,93.0,3.5531914893617023,False
-96,Dominica,2019,UNDP Human Development Index (HDI) ,94.0,3.526595744680851,False
-97,Maldives,2019,UNDP Human Development Index (HDI) ,95.0,3.5,False
-98,Tunisia,2019,UNDP Human Development Index (HDI) ,95.0,3.5,False
-99,Saint Vincent and the Grenadines,2019,UNDP Human Development Index (HDI) ,97.0,3.4468085106382977,False
-100,Suriname,2019,UNDP Human Development Index (HDI) ,97.0,3.4468085106382977,False
-101,Mongolia,2019,UNDP Human Development Index (HDI) ,99.0,3.393617021276596,False
-102,Botswana,2019,UNDP Human Development Index (HDI) ,100.0,3.367021276595745,False
-103,Jamaica,2019,UNDP Human Development Index (HDI) ,101.0,3.3404255319148937,False
-104,Jordan,2019,UNDP Human Development Index (HDI) ,102.0,3.3138297872340425,False
-105,Paraguay,2019,UNDP Human Development Index (HDI) ,103.0,3.2872340425531914,False
-106,Tonga,2019,UNDP Human Development Index (HDI) ,104.0,3.2606382978723403,False
-107,Libya,2019,UNDP Human Development Index (HDI) ,105.0,3.234042553191489,False
-108,Uzbekistan,2019,UNDP Human Development Index (HDI) ,106.0,3.2074468085106385,False
-109,Bolivia (Plurinational State of),2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False
-110,Indonesia,2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False
-111,Philippines,2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False
-112,Belize,2019,UNDP Human Development Index (HDI) ,110.0,3.101063829787234,False
-113,Samoa,2019,UNDP Human Development Index (HDI) ,111.0,3.074468085106383,False
-114,Turkmenistan,2019,UNDP Human Development Index (HDI) ,111.0,3.074468085106383,False
-115,Venezuela (Bolivarian Republic of),2019,UNDP Human Development Index (HDI) ,113.0,3.021276595744681,False
-116,South Africa,2019,UNDP Human Development Index (HDI) ,114.0,2.99468085106383,False
-117,"Palestine, State of",2019,UNDP Human Development Index (HDI) ,115.0,2.968085106382979,False
-118,Egypt,2019,UNDP Human Development Index (HDI) ,116.0,2.9414893617021276,False
-119,Marshall Islands,2019,UNDP Human Development Index (HDI) ,117.0,2.914893617021276,False
-120,Viet Nam,2019,UNDP Human Development Index (HDI) ,117.0,2.914893617021276,False
-121,Gabon,2019,UNDP Human Development Index (HDI) ,119.0,2.8617021276595747,False
-123,Kyrgyzstan,2019,UNDP Human Development Index (HDI) ,120.0,2.835106382978724,False
-124,Morocco,2019,UNDP Human Development Index (HDI) ,121.0,2.8085106382978724,False
-125,Guyana,2019,UNDP Human Development Index (HDI) ,122.0,2.781914893617021,False
-126,Iraq,2019,UNDP Human Development Index (HDI) ,123.0,2.75531914893617,False
-127,El Salvador,2019,UNDP Human Development Index (HDI) ,124.0,2.7287234042553195,False
-128,Tajikistan,2019,UNDP Human Development Index (HDI) ,125.0,2.702127659574468,False
-129,Cabo Verde,2019,UNDP Human Development Index (HDI) ,126.0,2.675531914893617,False
-130,Guatemala,2019,UNDP Human Development Index (HDI) ,127.0,2.6489361702127656,False
-131,Nicaragua,2019,UNDP Human Development Index (HDI) ,128.0,2.622340425531915,False
-132,Bhutan,2019,UNDP Human Development Index (HDI) ,129.0,2.5957446808510642,False
-133,Namibia,2019,UNDP Human Development Index (HDI) ,130.0,2.5691489361702127,False
-134,India,2019,UNDP Human Development Index (HDI) ,131.0,2.542553191489361,False
-135,Honduras,2019,UNDP Human Development Index (HDI) ,132.0,2.5159574468085104,False
-136,Bangladesh,2019,UNDP Human Development Index (HDI) ,133.0,2.4893617021276597,False
-137,Kiribati,2019,UNDP Human Development Index (HDI) ,134.0,2.462765957446809,False
-138,Sao Tome and Principe,2019,UNDP Human Development Index (HDI) ,135.0,2.4361702127659575,False
-139,Micronesia (Federated States of),2019,UNDP Human Development Index (HDI) ,136.0,2.409574468085106,False
-140,Lao People's Democratic Republic,2019,UNDP Human Development Index (HDI) ,137.0,2.382978723404255,False
-141,Eswatini (Kingdom of),2019,UNDP Human Development Index (HDI) ,138.0,2.3563829787234045,False
-142,Ghana,2019,UNDP Human Development Index (HDI) ,138.0,2.3563829787234045,False
-143,Vanuatu,2019,UNDP Human Development Index (HDI) ,140.0,2.3031914893617023,False
-144,Timor-Leste,2019,UNDP Human Development Index (HDI) ,141.0,2.2765957446808507,False
-145,Nepal,2019,UNDP Human Development Index (HDI) ,142.0,2.25,False
-146,Kenya,2019,UNDP Human Development Index (HDI) ,143.0,2.2234042553191493,False
-147,Cambodia,2019,UNDP Human Development Index (HDI) ,144.0,2.1968085106382977,False
-148,Equatorial Guinea,2019,UNDP Human Development Index (HDI) ,145.0,2.170212765957446,False
-149,Zambia,2019,UNDP Human Development Index (HDI) ,146.0,2.1436170212765955,False
-150,Myanmar,2019,UNDP Human Development Index (HDI) ,147.0,2.117021276595745,False
-151,Angola,2019,UNDP Human Development Index (HDI) ,148.0,2.090425531914894,False
-152,Congo,2019,UNDP Human Development Index (HDI) ,149.0,2.0638297872340425,False
-153,Zimbabwe,2019,UNDP Human Development Index (HDI) ,150.0,2.037234042553191,False
-154,Solomon Islands,2019,UNDP Human Development Index (HDI) ,151.0,2.0106382978723403,False
-155,Syrian Arab Republic,2019,UNDP Human Development Index (HDI) ,151.0,2.0106382978723403,False
-156,Cameroon,2019,UNDP Human Development Index (HDI) ,153.0,1.957446808510638,False
-157,Pakistan,2019,UNDP Human Development Index (HDI) ,154.0,1.9308510638297873,False
-158,Papua New Guinea,2019,UNDP Human Development Index (HDI) ,155.0,1.9042553191489358,False
-159,Comoros,2019,UNDP Human Development Index (HDI) ,156.0,1.877659574468085,False
-161,Mauritania,2019,UNDP Human Development Index (HDI) ,157.0,1.8510638297872344,False
-162,Benin,2019,UNDP Human Development Index (HDI) ,158.0,1.8244680851063828,False
-163,Uganda,2019,UNDP Human Development Index (HDI) ,159.0,1.7978723404255321,False
-164,Rwanda,2019,UNDP Human Development Index (HDI) ,160.0,1.7712765957446805,False
-165,Nigeria,2019,UNDP Human Development Index (HDI) ,161.0,1.7446808510638299,False
-166,Côte d'Ivoire,2019,UNDP Human Development Index (HDI) ,162.0,1.7180851063829783,False
-167,Tanzania (United Republic of),2019,UNDP Human Development Index (HDI) ,163.0,1.6914893617021276,False
-168,Madagascar,2019,UNDP Human Development Index (HDI) ,164.0,1.664893617021277,False
-169,Lesotho,2019,UNDP Human Development Index (HDI) ,165.0,1.6382978723404253,False
-170,Djibouti,2019,UNDP Human Development Index (HDI) ,166.0,1.6117021276595747,False
-171,Togo,2019,UNDP Human Development Index (HDI) ,167.0,1.585106382978723,False
-172,Senegal,2019,UNDP Human Development Index (HDI) ,168.0,1.5585106382978724,False
-173,Afghanistan,2019,UNDP Human Development Index (HDI) ,169.0,1.5319148936170217,False
-174,Haiti,2019,UNDP Human Development Index (HDI) ,170.0,1.5053191489361701,False
-175,Sudan,2019,UNDP Human Development Index (HDI) ,170.0,1.5053191489361701,False
-176,Gambia,2019,UNDP Human Development Index (HDI) ,172.0,1.4521276595744679,False
-177,Ethiopia,2019,UNDP Human Development Index (HDI) ,173.0,1.4255319148936172,False
-178,Malawi,2019,UNDP Human Development Index (HDI) ,174.0,1.3989361702127656,False
-179,Congo (Democratic Republic of the),2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False
-180,Guinea-Bissau,2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False
-181,Liberia,2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False
-182,Guinea,2019,UNDP Human Development Index (HDI) ,178.0,1.292553191489362,False
-183,Yemen,2019,UNDP Human Development Index (HDI) ,179.0,1.2659574468085104,False
-184,Eritrea,2019,UNDP Human Development Index (HDI) ,180.0,1.2393617021276597,False
-185,Mozambique,2019,UNDP Human Development Index (HDI) ,181.0,1.2127659574468082,False
-186,Burkina Faso,2019,UNDP Human Development Index (HDI) ,182.0,1.1861702127659575,False
-187,Sierra Leone,2019,UNDP Human Development Index (HDI) ,182.0,1.1861702127659575,False
-188,Mali,2019,UNDP Human Development Index (HDI) ,184.0,1.1329787234042552,False
-189,Burundi,2019,UNDP Human Development Index (HDI) ,185.0,1.1063829787234045,False
-190,South Sudan,2019,UNDP Human Development Index (HDI) ,185.0,1.1063829787234045,False
-191,Chad,2019,UNDP Human Development Index (HDI) ,187.0,1.0531914893617023,False
-192,Central African Republic,2019,UNDP Human Development Index (HDI) ,188.0,1.0265957446808507,False
-193,Niger,2019,UNDP Human Development Index (HDI) ,189.0,1.0,False
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+2,Norway,2019,UNDP Human Development Index (HDI) ,1.0,6.0,False,Culture
+3,Ireland,2019,UNDP Human Development Index (HDI) ,2.0,5.973404255319149,False,Culture
+4,Switzerland,2019,UNDP Human Development Index (HDI) ,2.0,5.973404255319149,False,Culture
+5,"Hong Kong, China (SAR)",2019,UNDP Human Development Index (HDI) ,4.0,5.920212765957447,False,Culture
+6,Iceland,2019,UNDP Human Development Index (HDI) ,4.0,5.920212765957447,False,Culture
+7,Germany,2019,UNDP Human Development Index (HDI) ,6.0,5.867021276595745,False,Culture
+8,Sweden,2019,UNDP Human Development Index (HDI) ,7.0,5.840425531914894,False,Culture
+9,Australia,2019,UNDP Human Development Index (HDI) ,8.0,5.8138297872340425,False,Culture
+10,Netherlands,2019,UNDP Human Development Index (HDI) ,8.0,5.8138297872340425,False,Culture
+11,Denmark,2019,UNDP Human Development Index (HDI) ,10.0,5.76063829787234,False,Culture
+12,Finland,2019,UNDP Human Development Index (HDI) ,11.0,5.73404255319149,False,Culture
+13,Singapore,2019,UNDP Human Development Index (HDI) ,11.0,5.73404255319149,False,Culture
+14,United Kingdom,2019,UNDP Human Development Index (HDI) ,13.0,5.680851063829787,False,Culture
+15,Belgium,2019,UNDP Human Development Index (HDI) ,14.0,5.654255319148936,False,Culture
+16,New Zealand,2019,UNDP Human Development Index (HDI) ,14.0,5.654255319148936,False,Culture
+17,Canada,2019,UNDP Human Development Index (HDI) ,16.0,5.601063829787234,False,Culture
+18,United States,2019,UNDP Human Development Index (HDI) ,17.0,5.574468085106383,False,Culture
+19,Austria,2019,UNDP Human Development Index (HDI) ,18.0,5.547872340425532,False,Culture
+20,Israel,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False,Culture
+21,Japan,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False,Culture
+22,Liechtenstein,2019,UNDP Human Development Index (HDI) ,19.0,5.5212765957446805,False,Culture
+23,Slovenia,2019,UNDP Human Development Index (HDI) ,22.0,5.441489361702128,False,Culture
+24,Korea (Republic of),2019,UNDP Human Development Index (HDI) ,23.0,5.414893617021276,False,Culture
+25,Luxembourg,2019,UNDP Human Development Index (HDI) ,23.0,5.414893617021276,False,Culture
+26,Spain,2019,UNDP Human Development Index (HDI) ,25.0,5.361702127659575,False,Culture
+27,France,2019,UNDP Human Development Index (HDI) ,26.0,5.335106382978724,False,Culture
+28,Czechia,2019,UNDP Human Development Index (HDI) ,27.0,5.308510638297872,False,Culture
+29,Malta,2019,UNDP Human Development Index (HDI) ,28.0,5.281914893617021,False,Culture
+30,Estonia,2019,UNDP Human Development Index (HDI) ,29.0,5.25531914893617,False,Culture
+31,Italy,2019,UNDP Human Development Index (HDI) ,29.0,5.25531914893617,False,Culture
+32,United Arab Emirates,2019,UNDP Human Development Index (HDI) ,31.0,5.202127659574468,False,Culture
+33,Greece,2019,UNDP Human Development Index (HDI) ,32.0,5.175531914893617,False,Culture
+34,Cyprus,2019,UNDP Human Development Index (HDI) ,33.0,5.148936170212766,False,Culture
+35,Lithuania,2019,UNDP Human Development Index (HDI) ,34.0,5.122340425531915,False,Culture
+36,Poland,2019,UNDP Human Development Index (HDI) ,35.0,5.095744680851064,False,Culture
+37,Andorra,2019,UNDP Human Development Index (HDI) ,36.0,5.069148936170213,False,Culture
+38,Latvia,2019,UNDP Human Development Index (HDI) ,37.0,5.042553191489361,False,Culture
+39,Portugal,2019,UNDP Human Development Index (HDI) ,38.0,5.01595744680851,False,Culture
+40,Slovakia,2019,UNDP Human Development Index (HDI) ,39.0,4.98936170212766,False,Culture
+41,Hungary,2019,UNDP Human Development Index (HDI) ,40.0,4.962765957446809,False,Culture
+42,Saudi Arabia,2019,UNDP Human Development Index (HDI) ,40.0,4.962765957446809,False,Culture
+43,Bahrain,2019,UNDP Human Development Index (HDI) ,42.0,4.909574468085106,False,Culture
+44,Chile,2019,UNDP Human Development Index (HDI) ,43.0,4.882978723404255,False,Culture
+45,Croatia,2019,UNDP Human Development Index (HDI) ,43.0,4.882978723404255,False,Culture
+46,Qatar,2019,UNDP Human Development Index (HDI) ,45.0,4.829787234042553,False,Culture
+47,Argentina,2019,UNDP Human Development Index (HDI) ,46.0,4.803191489361702,False,Culture
+48,Brunei Darussalam,2019,UNDP Human Development Index (HDI) ,47.0,4.776595744680851,False,Culture
+49,Montenegro,2019,UNDP Human Development Index (HDI) ,48.0,4.75,False,Culture
+50,Romania,2019,UNDP Human Development Index (HDI) ,49.0,4.723404255319149,False,Culture
+51,Palau,2019,UNDP Human Development Index (HDI) ,50.0,4.696808510638298,False,Culture
+52,Kazakhstan,2019,UNDP Human Development Index (HDI) ,51.0,4.670212765957447,False,Culture
+53,Russian Federation,2019,UNDP Human Development Index (HDI) ,52.0,4.6436170212765955,False,Culture
+54,Belarus,2019,UNDP Human Development Index (HDI) ,53.0,4.617021276595745,False,Culture
+55,Turkey,2019,UNDP Human Development Index (HDI) ,54.0,4.590425531914894,False,Culture
+56,Uruguay,2019,UNDP Human Development Index (HDI) ,55.0,4.5638297872340425,False,Culture
+57,Bulgaria,2019,UNDP Human Development Index (HDI) ,56.0,4.537234042553191,False,Culture
+58,Panama,2019,UNDP Human Development Index (HDI) ,57.0,4.51063829787234,False,Culture
+59,Bahamas,2019,UNDP Human Development Index (HDI) ,58.0,4.48404255319149,False,Culture
+60,Barbados,2019,UNDP Human Development Index (HDI) ,58.0,4.48404255319149,False,Culture
+61,Oman,2019,UNDP Human Development Index (HDI) ,60.0,4.430851063829787,False,Culture
+62,Georgia,2019,UNDP Human Development Index (HDI) ,61.0,4.404255319148936,False,Culture
+63,Costa Rica,2019,UNDP Human Development Index (HDI) ,62.0,4.377659574468085,False,Culture
+64,Malaysia,2019,UNDP Human Development Index (HDI) ,62.0,4.377659574468085,False,Culture
+65,Kuwait,2019,UNDP Human Development Index (HDI) ,64.0,4.324468085106383,False,Culture
+66,Serbia,2019,UNDP Human Development Index (HDI) ,64.0,4.324468085106383,False,Culture
+67,Mauritius,2019,UNDP Human Development Index (HDI) ,66.0,4.2712765957446805,False,Culture
+69,Seychelles,2019,UNDP Human Development Index (HDI) ,67.0,4.24468085106383,False,Culture
+70,Trinidad and Tobago,2019,UNDP Human Development Index (HDI) ,67.0,4.24468085106383,False,Culture
+71,Albania,2019,UNDP Human Development Index (HDI) ,69.0,4.191489361702128,False,Culture
+72,Cuba,2019,UNDP Human Development Index (HDI) ,70.0,4.164893617021277,False,Culture
+73,Iran (Islamic Republic of),2019,UNDP Human Development Index (HDI) ,70.0,4.164893617021277,False,Culture
+74,Sri Lanka,2019,UNDP Human Development Index (HDI) ,72.0,4.111702127659575,False,Culture
+75,Bosnia and Herzegovina,2019,UNDP Human Development Index (HDI) ,73.0,4.085106382978723,False,Culture
+76,Grenada,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False,Culture
+77,Mexico,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False,Culture
+78,Saint Kitts and Nevis,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False,Culture
+79,Ukraine,2019,UNDP Human Development Index (HDI) ,74.0,4.058510638297872,False,Culture
+80,Antigua and Barbuda,2019,UNDP Human Development Index (HDI) ,78.0,3.952127659574468,False,Culture
+81,Peru,2019,UNDP Human Development Index (HDI) ,79.0,3.925531914893617,False,Culture
+82,Thailand,2019,UNDP Human Development Index (HDI) ,79.0,3.925531914893617,False,Culture
+83,Armenia,2019,UNDP Human Development Index (HDI) ,81.0,3.872340425531915,False,Culture
+84,North Macedonia,2019,UNDP Human Development Index (HDI) ,82.0,3.845744680851064,False,Culture
+85,Colombia,2019,UNDP Human Development Index (HDI) ,83.0,3.8191489361702127,False,Culture
+86,Brazil,2019,UNDP Human Development Index (HDI) ,84.0,3.7925531914893615,False,Culture
+87,China,2019,UNDP Human Development Index (HDI) ,85.0,3.765957446808511,False,Culture
+88,Ecuador,2019,UNDP Human Development Index (HDI) ,86.0,3.7393617021276597,False,Culture
+89,Saint Lucia,2019,UNDP Human Development Index (HDI) ,86.0,3.7393617021276597,False,Culture
+90,Azerbaijan,2019,UNDP Human Development Index (HDI) ,88.0,3.6861702127659575,False,Culture
+91,Dominican Republic,2019,UNDP Human Development Index (HDI) ,88.0,3.6861702127659575,False,Culture
+92,Moldova (Republic of),2019,UNDP Human Development Index (HDI) ,90.0,3.632978723404255,False,Culture
+93,Algeria,2019,UNDP Human Development Index (HDI) ,91.0,3.606382978723404,False,Culture
+94,Lebanon,2019,UNDP Human Development Index (HDI) ,92.0,3.5797872340425534,False,Culture
+95,Fiji,2019,UNDP Human Development Index (HDI) ,93.0,3.5531914893617023,False,Culture
+96,Dominica,2019,UNDP Human Development Index (HDI) ,94.0,3.526595744680851,False,Culture
+97,Maldives,2019,UNDP Human Development Index (HDI) ,95.0,3.5,False,Culture
+98,Tunisia,2019,UNDP Human Development Index (HDI) ,95.0,3.5,False,Culture
+99,Saint Vincent and the Grenadines,2019,UNDP Human Development Index (HDI) ,97.0,3.4468085106382977,False,Culture
+100,Suriname,2019,UNDP Human Development Index (HDI) ,97.0,3.4468085106382977,False,Culture
+101,Mongolia,2019,UNDP Human Development Index (HDI) ,99.0,3.393617021276596,False,Culture
+102,Botswana,2019,UNDP Human Development Index (HDI) ,100.0,3.367021276595745,False,Culture
+103,Jamaica,2019,UNDP Human Development Index (HDI) ,101.0,3.3404255319148937,False,Culture
+104,Jordan,2019,UNDP Human Development Index (HDI) ,102.0,3.3138297872340425,False,Culture
+105,Paraguay,2019,UNDP Human Development Index (HDI) ,103.0,3.2872340425531914,False,Culture
+106,Tonga,2019,UNDP Human Development Index (HDI) ,104.0,3.2606382978723403,False,Culture
+107,Libya,2019,UNDP Human Development Index (HDI) ,105.0,3.234042553191489,False,Culture
+108,Uzbekistan,2019,UNDP Human Development Index (HDI) ,106.0,3.2074468085106385,False,Culture
+109,Bolivia (Plurinational State of),2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False,Culture
+110,Indonesia,2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False,Culture
+111,Philippines,2019,UNDP Human Development Index (HDI) ,107.0,3.1808510638297873,False,Culture
+112,Belize,2019,UNDP Human Development Index (HDI) ,110.0,3.101063829787234,False,Culture
+113,Samoa,2019,UNDP Human Development Index (HDI) ,111.0,3.074468085106383,False,Culture
+114,Turkmenistan,2019,UNDP Human Development Index (HDI) ,111.0,3.074468085106383,False,Culture
+115,Venezuela (Bolivarian Republic of),2019,UNDP Human Development Index (HDI) ,113.0,3.021276595744681,False,Culture
+116,South Africa,2019,UNDP Human Development Index (HDI) ,114.0,2.99468085106383,False,Culture
+117,"Palestine, State of",2019,UNDP Human Development Index (HDI) ,115.0,2.968085106382979,False,Culture
+118,Egypt,2019,UNDP Human Development Index (HDI) ,116.0,2.9414893617021276,False,Culture
+119,Marshall Islands,2019,UNDP Human Development Index (HDI) ,117.0,2.914893617021276,False,Culture
+120,Viet Nam,2019,UNDP Human Development Index (HDI) ,117.0,2.914893617021276,False,Culture
+121,Gabon,2019,UNDP Human Development Index (HDI) ,119.0,2.8617021276595747,False,Culture
+123,Kyrgyzstan,2019,UNDP Human Development Index (HDI) ,120.0,2.835106382978724,False,Culture
+124,Morocco,2019,UNDP Human Development Index (HDI) ,121.0,2.8085106382978724,False,Culture
+125,Guyana,2019,UNDP Human Development Index (HDI) ,122.0,2.781914893617021,False,Culture
+126,Iraq,2019,UNDP Human Development Index (HDI) ,123.0,2.75531914893617,False,Culture
+127,El Salvador,2019,UNDP Human Development Index (HDI) ,124.0,2.7287234042553195,False,Culture
+128,Tajikistan,2019,UNDP Human Development Index (HDI) ,125.0,2.702127659574468,False,Culture
+129,Cabo Verde,2019,UNDP Human Development Index (HDI) ,126.0,2.675531914893617,False,Culture
+130,Guatemala,2019,UNDP Human Development Index (HDI) ,127.0,2.6489361702127656,False,Culture
+131,Nicaragua,2019,UNDP Human Development Index (HDI) ,128.0,2.622340425531915,False,Culture
+132,Bhutan,2019,UNDP Human Development Index (HDI) ,129.0,2.5957446808510642,False,Culture
+133,Namibia,2019,UNDP Human Development Index (HDI) ,130.0,2.5691489361702127,False,Culture
+134,India,2019,UNDP Human Development Index (HDI) ,131.0,2.542553191489361,False,Culture
+135,Honduras,2019,UNDP Human Development Index (HDI) ,132.0,2.5159574468085104,False,Culture
+136,Bangladesh,2019,UNDP Human Development Index (HDI) ,133.0,2.4893617021276597,False,Culture
+137,Kiribati,2019,UNDP Human Development Index (HDI) ,134.0,2.462765957446809,False,Culture
+138,Sao Tome and Principe,2019,UNDP Human Development Index (HDI) ,135.0,2.4361702127659575,False,Culture
+139,Micronesia (Federated States of),2019,UNDP Human Development Index (HDI) ,136.0,2.409574468085106,False,Culture
+140,Lao People's Democratic Republic,2019,UNDP Human Development Index (HDI) ,137.0,2.382978723404255,False,Culture
+141,Eswatini (Kingdom of),2019,UNDP Human Development Index (HDI) ,138.0,2.3563829787234045,False,Culture
+142,Ghana,2019,UNDP Human Development Index (HDI) ,138.0,2.3563829787234045,False,Culture
+143,Vanuatu,2019,UNDP Human Development Index (HDI) ,140.0,2.3031914893617023,False,Culture
+144,Timor-Leste,2019,UNDP Human Development Index (HDI) ,141.0,2.2765957446808507,False,Culture
+145,Nepal,2019,UNDP Human Development Index (HDI) ,142.0,2.25,False,Culture
+146,Kenya,2019,UNDP Human Development Index (HDI) ,143.0,2.2234042553191493,False,Culture
+147,Cambodia,2019,UNDP Human Development Index (HDI) ,144.0,2.1968085106382977,False,Culture
+148,Equatorial Guinea,2019,UNDP Human Development Index (HDI) ,145.0,2.170212765957446,False,Culture
+149,Zambia,2019,UNDP Human Development Index (HDI) ,146.0,2.1436170212765955,False,Culture
+150,Myanmar,2019,UNDP Human Development Index (HDI) ,147.0,2.117021276595745,False,Culture
+151,Angola,2019,UNDP Human Development Index (HDI) ,148.0,2.090425531914894,False,Culture
+152,Congo,2019,UNDP Human Development Index (HDI) ,149.0,2.0638297872340425,False,Culture
+153,Zimbabwe,2019,UNDP Human Development Index (HDI) ,150.0,2.037234042553191,False,Culture
+154,Solomon Islands,2019,UNDP Human Development Index (HDI) ,151.0,2.0106382978723403,False,Culture
+155,Syrian Arab Republic,2019,UNDP Human Development Index (HDI) ,151.0,2.0106382978723403,False,Culture
+156,Cameroon,2019,UNDP Human Development Index (HDI) ,153.0,1.957446808510638,False,Culture
+157,Pakistan,2019,UNDP Human Development Index (HDI) ,154.0,1.9308510638297873,False,Culture
+158,Papua New Guinea,2019,UNDP Human Development Index (HDI) ,155.0,1.9042553191489358,False,Culture
+159,Comoros,2019,UNDP Human Development Index (HDI) ,156.0,1.877659574468085,False,Culture
+161,Mauritania,2019,UNDP Human Development Index (HDI) ,157.0,1.8510638297872344,False,Culture
+162,Benin,2019,UNDP Human Development Index (HDI) ,158.0,1.8244680851063828,False,Culture
+163,Uganda,2019,UNDP Human Development Index (HDI) ,159.0,1.7978723404255321,False,Culture
+164,Rwanda,2019,UNDP Human Development Index (HDI) ,160.0,1.7712765957446805,False,Culture
+165,Nigeria,2019,UNDP Human Development Index (HDI) ,161.0,1.7446808510638299,False,Culture
+166,Côte d'Ivoire,2019,UNDP Human Development Index (HDI) ,162.0,1.7180851063829783,False,Culture
+167,Tanzania (United Republic of),2019,UNDP Human Development Index (HDI) ,163.0,1.6914893617021276,False,Culture
+168,Madagascar,2019,UNDP Human Development Index (HDI) ,164.0,1.664893617021277,False,Culture
+169,Lesotho,2019,UNDP Human Development Index (HDI) ,165.0,1.6382978723404253,False,Culture
+170,Djibouti,2019,UNDP Human Development Index (HDI) ,166.0,1.6117021276595747,False,Culture
+171,Togo,2019,UNDP Human Development Index (HDI) ,167.0,1.585106382978723,False,Culture
+172,Senegal,2019,UNDP Human Development Index (HDI) ,168.0,1.5585106382978724,False,Culture
+173,Afghanistan,2019,UNDP Human Development Index (HDI) ,169.0,1.5319148936170217,False,Culture
+174,Haiti,2019,UNDP Human Development Index (HDI) ,170.0,1.5053191489361701,False,Culture
+175,Sudan,2019,UNDP Human Development Index (HDI) ,170.0,1.5053191489361701,False,Culture
+176,Gambia,2019,UNDP Human Development Index (HDI) ,172.0,1.4521276595744679,False,Culture
+177,Ethiopia,2019,UNDP Human Development Index (HDI) ,173.0,1.4255319148936172,False,Culture
+178,Malawi,2019,UNDP Human Development Index (HDI) ,174.0,1.3989361702127656,False,Culture
+179,Congo (Democratic Republic of the),2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False,Culture
+180,Guinea-Bissau,2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False,Culture
+181,Liberia,2019,UNDP Human Development Index (HDI) ,175.0,1.372340425531915,False,Culture
+182,Guinea,2019,UNDP Human Development Index (HDI) ,178.0,1.292553191489362,False,Culture
+183,Yemen,2019,UNDP Human Development Index (HDI) ,179.0,1.2659574468085104,False,Culture
+184,Eritrea,2019,UNDP Human Development Index (HDI) ,180.0,1.2393617021276597,False,Culture
+185,Mozambique,2019,UNDP Human Development Index (HDI) ,181.0,1.2127659574468082,False,Culture
+186,Burkina Faso,2019,UNDP Human Development Index (HDI) ,182.0,1.1861702127659575,False,Culture
+187,Sierra Leone,2019,UNDP Human Development Index (HDI) ,182.0,1.1861702127659575,False,Culture
+188,Mali,2019,UNDP Human Development Index (HDI) ,184.0,1.1329787234042552,False,Culture
+189,Burundi,2019,UNDP Human Development Index (HDI) ,185.0,1.1063829787234045,False,Culture
+190,South Sudan,2019,UNDP Human Development Index (HDI) ,185.0,1.1063829787234045,False,Culture
+191,Chad,2019,UNDP Human Development Index (HDI) ,187.0,1.0531914893617023,False,Culture
+192,Central African Republic,2019,UNDP Human Development Index (HDI) ,188.0,1.0265957446808507,False,Culture
+193,Niger,2019,UNDP Human Development Index (HDI) ,189.0,1.0,False,Culture

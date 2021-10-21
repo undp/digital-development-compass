@@ -1,7 +1,7 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
 45,Business,Financing Incentives,France,5.357142857142858,1,0.6696428571428572
-235,Business,Startup Environment,France,3.567910120258904,5,2.229943825161815
-468,Business,Technology Adoption,France,4.08195768624868,8,4.08195768624868
+242,Business,Startup Environment,France,3.836574130198117,6,2.877430597648588
+493,Business,Technology Adoption,France,4.08195768624868,8,4.08195768624868
 27,Foundations,Data Exchange,France,4.876404494382022,1,1.2191011235955056
 159,Foundations,Digital Legal Identity,France,4.4188311688311686,3,3.3141233766233764
 354,Foundations,Digital Payments,France,5.644947443860488,2,2.822473721930244
@@ -9,8 +9,25 @@
 172,Government,Digital Public Services,France,5.196556725146199,5,5.196556725146199
 393,Government,Funding and procurement,France,6.0,1,1.2000000000000002
 592,Government,Leadership and coordination,France,3.5,1,0.7000000000000001
-110,Infrastructure,Connectivity Technology,France,4.429923186176309,22,4.060762920661616
-415,Infrastructure,Innovation Ecosystem,France,2.3511993594921075,4,0.3918665599153512
+62,Infrastructure,Ambition,France,5.5588235294117645,1,0.0017215309784489
+236,Infrastructure,Capabilities,France,4.738317757009346,1,0.0014674257531772
+491,Infrastructure,Connectivity Technology,France,4.4299231861763095,22,0.030182195755924
+1012,Infrastructure,Culture,France,5.176584251188266,3,0.0048094619862387
+1321,Infrastructure,Cybersecurity,France,6.0,1,0.001858160421183
+1396,Infrastructure,Data Exchange,France,4.876404494382022,1,0.0015101903048566
+1528,Infrastructure,Digital Legal Identity,France,5.891774891774891,3,0.005473931457208
+1797,Infrastructure,Digital Literacy Skills,France,3.670584908988235,9,0.0102308034007104
+2105,Infrastructure,Digital Payments,France,5.644947443860488,2,0.0034964059732799
+2341,Infrastructure,Digital Public Services,France,5.273473684210527,4,0.0065326400547668
+2683,Infrastructure,Digital Wellbeing,France,3.6862480903464983,8,0.0091328537388578
+2897,Infrastructure,Ethical Standards,France,4.65079365079365,1,0.0014403201148323
+3030,Infrastructure,Financing Incentives,France,5.357142857142858,1,0.0016590718046277
+3198,Infrastructure,Funding and procurement,France,6.0,1,0.001858160421183
+3414,Infrastructure,Innovation Ecosystem,France,2.3310686470906923,3,0.0021657497495422
+3644,Infrastructure,Leadership and coordination,France,3.5,1,0.0010839269123567
+3871,Infrastructure,Startup Environment,France,3.836574130198117,6,0.0071289702016688
+4165,Infrastructure,Technology Adoption,France,4.001458134933556,7,0.0086745763222467
+4445,Infrastructure,Usage and ownership,France,4.886206127870762,22,0.0332909677340219
 18,Regulation,Cybersecurity,France,6.0,1,6.0
 106,Regulation,Ethical Standards,France,4.65079365079365,1,4.65079365079365
 7,Strategy,Ambition,France,5.5588235294117645,1,5.5588235294117645
