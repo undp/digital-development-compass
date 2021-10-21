@@ -397,8 +397,8 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://energydata.info/dataset/12c85425-14be-430b-ad72-c68804c49e8e/resource/dcda6530-8d2c-436e-9d1d-1e2809ad303e/download/enerdata_energy_statistical_yearbook_2018.xlsx
-           downloaded_filename: data/electricity_yearbook.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/electricity_density.csv
+           downloaded_filename: data/electricity_density.csv
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
