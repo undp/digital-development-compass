@@ -1,5 +1,6 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-437,Business,Startup Environment,Uzbekistan,4.012566137566138,4,2.006283068783069
+437,Business,Startup Environment,Uzbekistan,4.012566137566138,4,1.7833627278071722
+607,Business,Technology Adoption,Uzbekistan,2.3286713286713283,1,0.2587412587412587
 297,Foundations,Digital Legal Identity,Uzbekistan,4.435064935064935,3,3.3262987012987013
 464,Foundations,Digital Payments,Uzbekistan,2.5029264214046822,2,1.2514632107023411
 105,Government,Capabilities,Uzbekistan,1.1869158878504669,1,0.2373831775700934
@@ -8,19 +9,20 @@
 722,Government,Leadership and coordination,Uzbekistan,1.0,1,0.2
 198,Infrastructure,Ambition,Uzbekistan,4.3088235294117645,1,0.0013344142240358
 310,Infrastructure,Capabilities,Uzbekistan,1.1869158878504669,1,0.0003675800210128
-644,Infrastructure,Connectivity Technology,Uzbekistan,3.150340570411233,22,0.0214640732576795
-1033,Infrastructure,Culture,Uzbekistan,2.3015635344099583,2,0.0014255580888262
-1112,Infrastructure,Cybersecurity,Uzbekistan,1.0,1,0.0003096934035305
-1414,Infrastructure,Digital Legal Identity,Uzbekistan,5.913419913419914,3,0.0054940414184762
-1632,Infrastructure,Digital Literacy Skills,Uzbekistan,4.391036076406995,3,0.0040796247225831
-1800,Infrastructure,Digital Payments,Uzbekistan,2.5029264214046822,2,0.0015502796044624
-2022,Infrastructure,Digital Public Services,Uzbekistan,4.962690476190477,3,0.0046107375127195
-2264,Infrastructure,Digital Wellbeing,Uzbekistan,4.436736228614402,1,0.0013740279432066
-2400,Infrastructure,Ethical Standards,Uzbekistan,2.587301587301587,1,0.0008012702345313
-2750,Infrastructure,Funding and procurement,Uzbekistan,6.0,1,0.001858160421183
-3127,Infrastructure,Leadership and coordination,Uzbekistan,1.0,1,0.0003096934035305
-3419,Infrastructure,Startup Environment,Uzbekistan,4.012566137566138,4,0.0049706610561364
-3854,Infrastructure,Usage and ownership,Uzbekistan,3.5236999990652227,13,0.0141864663945022
+674,Infrastructure,Connectivity Technology,Uzbekistan,2.9304701749978794,22,0.019966040213674
+1064,Infrastructure,Culture,Uzbekistan,2.6454422615933604,2,0.0016385520356725
+1143,Infrastructure,Cybersecurity,Uzbekistan,1.0,1,0.0003096934035305
+1445,Infrastructure,Digital Legal Identity,Uzbekistan,5.913419913419914,3,0.0054940414184762
+1659,Infrastructure,Digital Literacy Skills,Uzbekistan,4.350016728835221,4,0.0053886859446704
+1827,Infrastructure,Digital Payments,Uzbekistan,2.5029264214046822,2,0.0015502796044624
+2049,Infrastructure,Digital Public Services,Uzbekistan,4.962690476190477,3,0.0046107375127195
+2291,Infrastructure,Digital Wellbeing,Uzbekistan,4.436736228614402,1,0.0013740279432066
+2427,Infrastructure,Ethical Standards,Uzbekistan,2.587301587301587,1,0.0008012702345313
+2777,Infrastructure,Funding and procurement,Uzbekistan,6.0,1,0.001858160421183
+3154,Infrastructure,Leadership and coordination,Uzbekistan,1.0,1,0.0003096934035305
+3446,Infrastructure,Startup Environment,Uzbekistan,4.012566137566138,4,0.0049706610561364
+3616,Infrastructure,Technology Adoption,Uzbekistan,2.3286713286713283,1,0.0007211741494801
+3907,Infrastructure,Usage and ownership,Uzbekistan,3.5236999990652227,13,0.0141864663945022
 61,Regulation,Cybersecurity,Uzbekistan,1.0,1,1.0
 189,Regulation,Ethical Standards,Uzbekistan,2.587301587301587,1,2.587301587301587
 80,Strategy,Ambition,Uzbekistan,4.3088235294117645,1,4.3088235294117645

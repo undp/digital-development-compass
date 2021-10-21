@@ -1,295 +1,148 @@
-,2015,2016,2017,Country ISO3,Country Name,Indicator Id,Indicator,Subindicator Type
-0,14.1,17.0,,AFG,Afghanistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-1,,130.0,132.0,AFG,Afghanistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-2,21.1,29.0,,AGO,Angola,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-3,,113.0,113.0,AGO,Angola,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-4,51.0,62.0,,ALB,Albania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-5,,59.0,59.0,ALB,Albania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-6,73.4,87.0,,ARE,United Arab Emirates,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-7,,25.0,23.0,ARE,United Arab Emirates,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-8,51.9,45.0,,ARG,Argentina,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-9,,57.0,81.0,ARG,Argentina,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-10,36.6,47.0,,ARM,Armenia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-11,,87.0,78.0,ARM,Armenia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-12,81.4,92.0,,AUS,Australia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-13,,12.0,14.0,AUS,Australia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-14,76.0,91.0,,AUT,Austria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-15,,21.0,17.0,AUT,Austria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-16,50.5,58.0,,AZE,Azerbaijan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-17,,60.0,68.0,AZE,Azerbaijan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-18,10.6,10.0,,BDI,Burundi,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-19,,135.0,140.0,BDI,Burundi,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-20,76.0,88.0,,BEL,Belgium,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-21,,22.0,22.0,BEL,Belgium,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-22,15.3,15.0,,BEN,Benin,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-23,,123.0,138.0,BEN,Benin,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-24,14.9,18.0,,BFA,Burkina Faso,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-25,,125.0,128.0,BFA,Burkina Faso,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-26,16.7,35.0,,BGD,Bangladesh,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-27,,121.0,103.0,BGD,Bangladesh,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-28,56.4,66.0,,BGR,Bulgaria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-29,,50.0,50.0,BGR,Bulgaria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-30,66.5,,,BHR,Bahrain,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-31,,32.0,,BHR,Bahrain,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-32,40.7,66.0,,BIH,Bosnia and Herzegovina,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-33,,81.0,52.0,BIH,Bosnia and Herzegovina,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-34,50.0,71.0,,BLR,Belarus,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-35,,62.0,44.0,BLR,Belarus,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-36,,49.0,,BLZ,Belize,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-37,,,77.0,BLZ,Belize,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-38,30.8,,,BOL,Bolivia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-39,,97.0,,BOL,Bolivia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-40,56.2,62.0,,BRA,Brazil,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-41,,51.0,62.0,BRA,Brazil,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-42,27.8,36.0,,BTN,Bhutan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-43,,104.0,100.0,BTN,Bhutan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-44,38.6,43.0,,BWA,Botswana,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-45,,85.0,87.0,BWA,Botswana,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-46,86.3,92.0,,CAN,Canada,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-47,,4.0,15.0,CAN,Canada,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-48,83.3,96.43,,CHE,Switzerland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-49,,9.0,2.0,CHE,Switzerland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-50,60.3,64.0,,CHL,Chile,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-51,,43.0,54.0,CHL,Chile,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-52,49.1,60.0,,CHN,China,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-53,,64.0,65.0,CHN,China,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-54,15.4,,,CIV,Cote d'Ivoire,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-55,,122.0,,CIV,Cote d'Ivoire,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-56,20.0,35.0,,CMR,Cameroon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-57,,116.0,107.0,CMR,Cameroon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-58,,16.0,,COG,"Congo, Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-59,,,135.0,COG,"Congo, Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-60,44.6,55.0,,COL,Colombia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-61,,72.0,71.0,COL,Colombia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-62,,8.0,,COM,Comoros,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-63,,,141.0,COM,Comoros,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-64,52.4,62.0,,CRI,Costa Rica,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-65,,55.0,61.0,CRI,Costa Rica,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-66,64.8,86.0,,CYP,Cyprus,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-67,,36.0,27.0,CYP,Cyprus,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-68,71.7,84.0,,CZE,Czech Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-69,,29.0,29.0,CZE,Czech Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-70,78.0,93.5,,DEU,Germany,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-71,,17.0,9.0,DEU,Germany,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-72,,18.0,,DJI,Djibouti,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-73,,,129.0,DJI,Djibouti,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-74,78.7,93.0,,DNK,Denmark,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-75,,16.0,13.0,DNK,Denmark,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-76,39.9,42.0,,DOM,Dominican Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-77,,83.0,88.0,DOM,Dominican Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-78,32.3,38.0,,DZA,Algeria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-79,,95.0,97.0,DZA,Algeria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-80,45.0,41.0,,ECU,Ecuador,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-81,,71.0,91.0,ECU,Ecuador,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-82,39.9,29.0,,EGY,"Egypt, Arab Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-83,,82.0,116.0,EGY,"Egypt, Arab Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-84,75.0,80.0,,ESP,Spain,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-85,,24.0,33.0,ESP,Spain,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-86,72.3,90.0,,EST,Estonia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-87,,27.0,21.0,EST,Estonia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-88,21.2,16.0,,ETH,Ethiopia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-89,,112.0,133.0,ETH,Ethiopia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-90,84.3,93.0,,FIN,Finland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-91,,6.0,12.0,FIN,Finland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-92,76.2,90.0,,FRA,France,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-93,,19.0,20.0,FRA,France,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-94,,32.0,,GAB,Gabon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-95,,,110.0,GAB,Gabon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-96,83.7,95.1,,GBR,United Kingdom,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-97,,8.0,6.0,GBR,United Kingdom,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-98,39.2,57.0,,GEO,Georgia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-99,,84.0,70.0,GEO,Georgia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-100,30.5,35.0,,GHA,Ghana,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-101,,99.0,105.0,GHA,Ghana,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-102,7.9,7.0,,GIN,Guinea,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-103,,136.0,142.0,GIN,Guinea,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-104,58.6,80.0,,GRC,Greece,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-105,,46.0,34.0,GRC,Greece,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-106,21.4,,,GTM,Guatemala,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-107,,111.0,,GTM,Guatemala,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-108,81.1,,,HKG,"Hong Kong SAR, China",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-109,,14.0,,HKG,"Hong Kong SAR, China",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-110,30.5,37.0,,HND,Honduras,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-111,,98.0,98.0,HND,Honduras,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-112,69.6,81.0,,HRV,Croatia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-113,,30.0,32.0,HRV,Croatia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-114,,16.0,,HTI,Haiti,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-115,,,134.0,HTI,Haiti,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-116,64.5,79.0,,HUN,Hungary,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-117,,37.0,36.0,HUN,Hungary,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-118,33.0,36.0,,IDN,Indonesia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-119,,93.0,101.0,IDN,Indonesia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-120,34.0,44.0,,IND,India,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-121,,90.0,83.0,IND,India,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-122,77.7,90.0,,IRL,Ireland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-123,,18.0,19.0,IRL,Ireland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-124,42.6,,,IRN,"Iran, Islamic Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-125,,77.0,,IRN,"Iran, Islamic Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-126,14.3,14.0,,IRQ,Iraq,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-127,,127.0,139.0,IRQ,Iraq,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-128,89.0,93.0,,ISL,Iceland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-129,,2.0,11.0,ISL,Iceland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-130,76.1,81.0,,ISR,Israel,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-131,,20.0,31.0,ISR,Israel,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-132,63.5,74.0,,ITA,Italy,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-133,,38.0,40.0,ITA,Italy,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-134,47.6,65.0,,JAM,Jamaica,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-135,,66.0,53.0,JAM,Jamaica,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-136,41.3,50.0,,JOR,Jordan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-137,,80.0,75.0,JOR,Jordan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-138,86.1,93.6,,JPN,Japan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-139,,5.0,8.0,JPN,Japan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-140,36.5,66.0,,KAZ,Kazakhstan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-141,,88.0,51.0,KAZ,Kazakhstan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-142,37.9,45.0,,KEN,Kenya,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-143,,86.0,82.0,KEN,Kenya,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-144,23.8,29.0,,KGZ,Kyrgyz Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-145,,109.0,117.0,KGZ,Kyrgyz Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-146,19.5,29.0,,KHM,Cambodia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-147,,119.0,115.0,KHM,Cambodia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-148,84.3,,,KOR,"Korea, Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-149,,7.0,,KOR,"Korea, Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-150,61.9,63.0,,KWT,Kuwait,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-151,,40.0,57.0,KWT,Kuwait,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-152,20.3,,,LAO,Lao PDR,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-153,,115.0,,LAO,Lao PDR,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-154,57.4,63.0,,LBN,Lebanon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-155,,48.0,56.0,LBN,Lebanon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-156,15.1,18.0,,LBR,Liberia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-157,,124.0,130.0,LBR,Liberia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-158,33.2,52.0,,LKA,Sri Lanka,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-159,,92.0,73.0,LKA,Sri Lanka,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-160,14.5,22.0,,LSO,Lesotho,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-161,,126.0,125.0,LSO,Lesotho,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-162,61.3,79.0,,LTU,Lithuania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-163,,41.0,35.0,LTU,Lithuania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-164,89.7,96.5,,LUX,Luxembourg,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-165,,1.0,1.0,LUX,Luxembourg,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-166,66.2,87.0,,LVA,Latvia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-167,,34.0,24.0,LVA,Latvia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-168,41.5,43.0,,MAR,Morocco,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-169,,79.0,85.0,MAR,Morocco,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-170,51.4,59.0,,MDA,Moldova,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-171,,58.0,66.0,MDA,Moldova,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-172,11.7,29.0,,MDG,Madagascar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-173,,134.0,118.0,MDG,Madagascar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-174,49.1,42.0,,MEX,Mexico,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-175,,63.0,90.0,MEX,Mexico,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-176,60.0,,,MKD,"Macedonia, FYR",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-177,,45.0,,MKD,"Macedonia, FYR",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-178,13.5,23.0,,MLI,Mali,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-179,,131.0,124.0,MLI,Mali,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-180,66.3,85.0,,MLT,Malta,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-181,,33.0,28.0,MLT,Malta,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-182,12.0,23.0,,MMR,Myanmar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-183,,133.0,123.0,MMR,Myanmar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-184,41.5,57.0,,MNE,Montenegro,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-185,,78.0,69.0,MNE,Montenegro,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-186,29.8,64.0,,MNG,Mongolia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-187,,101.0,55.0,MNG,Mongolia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-188,,21.0,,MRT,Mauritania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-189,,,126.0,MRT,Mauritania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-190,45.9,76.0,,MUS,Mauritius,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-191,,70.0,39.0,MUS,Mauritius,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-192,14.2,17.0,,MWI,Malawi,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-193,,129.0,131.0,MWI,Malawi,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-194,60.1,77.0,,MYS,Malaysia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-195,,44.0,38.0,MYS,Malaysia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-196,,42.0,,NAM,Namibia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-197,,,89.0,NAM,Namibia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-198,6.5,3.0,,NER,Niger,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-199,,137.0,144.0,NER,Niger,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-200,30.4,46.0,,NGA,Nigeria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-201,,100.0,80.0,NGA,Nigeria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-202,20.7,23.0,,NIC,Nicaragua,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-203,,114.0,122.0,NIC,Nicaragua,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-204,79.5,95.9,,NLD,Netherlands,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-205,,15.0,4.0,NLD,Netherlands,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-206,87.1,96.39,,NOR,Norway,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-207,,3.0,3.0,NOR,Norway,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-208,19.9,35.0,,NPL,Nepal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-209,,118.0,108.0,NPL,Nepal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-210,82.9,93.0,,NZL,New Zealand,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-211,,10.0,10.0,NZL,New Zealand,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-212,48.8,60.0,,OMN,Oman,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-213,,65.0,64.0,OMN,Oman,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-214,27.7,24.0,,PAK,Pakistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-215,,105.0,120.0,PAK,Pakistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-216,47.2,43.0,,PAN,Panama,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-217,,68.0,84.0,PAN,Panama,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-218,43.1,41.0,,PER,Peru,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-219,,76.0,94.0,PER,Peru,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-220,35.7,40.0,,PHL,Philippines,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-221,,89.0,96.0,PHL,Philippines,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-222,65.2,78.0,,POL,Poland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-223,,35.0,37.0,POL,Poland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-224,60.4,68.0,,PRT,Portugal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-225,,42.0,48.0,PRT,Portugal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-226,43.8,41.0,,PRY,Paraguay,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-227,,74.0,93.0,PRY,Paraguay,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-228,72.4,62.0,,QAT,Qatar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-229,,26.0,58.0,QAT,Qatar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-230,55.0,69.0,,ROU,Romania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-231,,53.0,45.0,ROU,Romania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-232,57.6,71.0,,RUS,Russian Federation,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-233,,47.0,43.0,RUS,Russian Federation,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-234,19.9,37.0,,RWA,Rwanda,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-235,,117.0,99.0,RWA,Rwanda,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-236,52.2,69.0,,SAU,Saudi Arabia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-237,,56.0,46.0,SAU,Saudi Arabia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-238,12.4,15.0,,SDN,Sudan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-239,,132.0,137.0,SDN,Sudan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-240,33.4,30.0,,SEN,Senegal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-241,,91.0,112.0,SEN,Senegal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-242,75.8,90.0,,SGP,Singapore,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-243,,23.0,18.0,SGP,Singapore,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-244,14.3,16.0,,SLE,Sierra Leone,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-245,,128.0,136.0,SLE,Sierra Leone,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-246,31.7,49.0,,SLV,El Salvador,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-247,,96.0,76.0,SLV,El Salvador,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-248,55.9,73.0,,SRB,Serbia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-249,,52.0,41.0,SRB,Serbia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-250,68.2,82.0,,SVK,Slovak Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-251,,31.0,30.0,SVK,Slovak Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-252,71.9,87.0,,SVN,Slovenia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-253,,28.0,25.0,SVN,Slovenia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-254,81.4,94.6,,SWE,Sweden,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-255,,13.0,7.0,SWE,Sweden,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-256,26.8,29.0,,SWZ,Swaziland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-257,,106.0,114.0,SWZ,Swaziland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-258,,21.0,,SYR,Syrian Arab Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-259,,,127.0,SYR,Syrian Arab Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-260,,6.0,,TCD,Chad,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-261,,,143.0,TCD,Chad,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-262,18.4,32.0,,TGO,Togo,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-263,,120.0,111.0,TGO,Togo,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-264,47.2,68.0,,THA,Thailand,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-265,,69.0,49.0,THA,Thailand,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-266,47.5,,,TTO,Trinidad and Tobago,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-267,,67.0,,TTO,Trinidad and Tobago,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-268,44.5,47.0,,TUN,Tunisia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-269,,73.0,79.0,TUN,Tunisia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-270,56.5,62.0,,TUR,Turkey,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-271,,49.0,60.0,TUR,Turkey,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-272,26.5,27.0,,TZA,Tanzania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-273,,107.0,119.0,TZA,Tanzania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-274,29.7,43.0,,UGA,Uganda,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-275,,102.0,86.0,UGA,Uganda,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-276,54.6,60.0,,UKR,Ukraine,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-277,,54.0,63.0,UKR,Ukraine,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-278,62.6,59.0,,URY,Uruguay,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-279,,39.0,67.0,URY,Uruguay,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-280,82.6,87.0,,USA,United States,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-281,,11.0,26.0,USA,United States,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-282,26.1,35.0,,UZB,Uzbekistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-283,,108.0,106.0,UZB,Uzbekistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-284,32.8,,,VEN,"Venezuela, RB",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-285,,94.0,,VEN,"Venezuela, RB",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-286,43.1,50.0,,VNM,Vietnam,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-287,,75.0,74.0,VNM,Vietnam,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-288,50.3,54.0,,ZAF,South Africa,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-289,,61.0,72.0,ZAF,South Africa,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-290,22.8,24.0,,ZMB,Zambia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-291,,110.0,121.0,ZMB,Zambia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
-292,28.7,33.0,,ZWE,Zimbabwe,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value
-293,,103.0,109.0,ZWE,Zimbabwe,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+1,Afghanistan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,132.0,1.4195804195804191,True,Technology Adoption
+3,Angola,2017,Country rank and value in the UNCTAD B2C E-commerce Index,113.0,2.0839160839160833,True,Technology Adoption
+5,Albania,2017,Country rank and value in the UNCTAD B2C E-commerce Index,59.0,3.972027972027972,True,Technology Adoption
+7,United Arab Emirates,2017,Country rank and value in the UNCTAD B2C E-commerce Index,23.0,5.230769230769231,True,Technology Adoption
+9,Argentina,2017,Country rank and value in the UNCTAD B2C E-commerce Index,81.0,3.202797202797203,True,Technology Adoption
+11,Armenia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,78.0,3.3076923076923075,True,Technology Adoption
+13,Australia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,14.0,5.545454545454545,True,Technology Adoption
+15,Austria,2017,Country rank and value in the UNCTAD B2C E-commerce Index,17.0,5.44055944055944,True,Technology Adoption
+17,Azerbaijan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,68.0,3.6573426573426575,True,Technology Adoption
+19,Burundi,2017,Country rank and value in the UNCTAD B2C E-commerce Index,140.0,1.13986013986014,True,Technology Adoption
+21,Belgium,2017,Country rank and value in the UNCTAD B2C E-commerce Index,22.0,5.265734265734266,True,Technology Adoption
+23,Benin,2017,Country rank and value in the UNCTAD B2C E-commerce Index,138.0,1.20979020979021,True,Technology Adoption
+25,Burkina Faso,2017,Country rank and value in the UNCTAD B2C E-commerce Index,128.0,1.5594405594405591,True,Technology Adoption
+27,Bangladesh,2017,Country rank and value in the UNCTAD B2C E-commerce Index,103.0,2.4335664335664333,True,Technology Adoption
+29,Bulgaria,2017,Country rank and value in the UNCTAD B2C E-commerce Index,50.0,4.286713286713287,True,Technology Adoption
+31,Bahrain,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+33,Bosnia and Herzegovina,2017,Country rank and value in the UNCTAD B2C E-commerce Index,52.0,4.216783216783217,True,Technology Adoption
+35,Belarus,2017,Country rank and value in the UNCTAD B2C E-commerce Index,44.0,4.496503496503497,True,Technology Adoption
+37,Belize,2017,Country rank and value in the UNCTAD B2C E-commerce Index,77.0,3.3426573426573425,True,Technology Adoption
+39,Bolivia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+41,Brazil,2017,Country rank and value in the UNCTAD B2C E-commerce Index,62.0,3.867132867132867,True,Technology Adoption
+43,Bhutan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,100.0,2.5384615384615383,True,Technology Adoption
+45,Botswana,2017,Country rank and value in the UNCTAD B2C E-commerce Index,87.0,2.9930069930069934,True,Technology Adoption
+47,Canada,2017,Country rank and value in the UNCTAD B2C E-commerce Index,15.0,5.51048951048951,True,Technology Adoption
+49,Switzerland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,2.0,5.965034965034965,True,Technology Adoption
+51,Chile,2017,Country rank and value in the UNCTAD B2C E-commerce Index,54.0,4.146853146853147,True,Technology Adoption
+53,China,2017,Country rank and value in the UNCTAD B2C E-commerce Index,65.0,3.762237762237762,True,Technology Adoption
+55,Cote d'Ivoire,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+57,Cameroon,2017,Country rank and value in the UNCTAD B2C E-commerce Index,107.0,2.2937062937062933,True,Technology Adoption
+59,"Congo, Rep.",2017,Country rank and value in the UNCTAD B2C E-commerce Index,135.0,1.314685314685315,True,Technology Adoption
+61,Colombia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,71.0,3.5524475524475525,True,Technology Adoption
+63,Comoros,2017,Country rank and value in the UNCTAD B2C E-commerce Index,141.0,1.104895104895105,True,Technology Adoption
+65,Costa Rica,2017,Country rank and value in the UNCTAD B2C E-commerce Index,61.0,3.902097902097902,True,Technology Adoption
+67,Cyprus,2017,Country rank and value in the UNCTAD B2C E-commerce Index,27.0,5.090909090909091,True,Technology Adoption
+69,Czech Republic,2017,Country rank and value in the UNCTAD B2C E-commerce Index,29.0,5.020979020979021,True,Technology Adoption
+71,Germany,2017,Country rank and value in the UNCTAD B2C E-commerce Index,9.0,5.72027972027972,True,Technology Adoption
+73,Djibouti,2017,Country rank and value in the UNCTAD B2C E-commerce Index,129.0,1.5244755244755241,True,Technology Adoption
+75,Denmark,2017,Country rank and value in the UNCTAD B2C E-commerce Index,13.0,5.58041958041958,True,Technology Adoption
+77,Dominican Republic,2017,Country rank and value in the UNCTAD B2C E-commerce Index,88.0,2.9580419580419584,True,Technology Adoption
+79,Algeria,2017,Country rank and value in the UNCTAD B2C E-commerce Index,97.0,2.6433566433566433,True,Technology Adoption
+81,Ecuador,2017,Country rank and value in the UNCTAD B2C E-commerce Index,91.0,2.8531468531468533,True,Technology Adoption
+83,"Egypt, Arab Rep.",2017,Country rank and value in the UNCTAD B2C E-commerce Index,116.0,1.9790209790209792,True,Technology Adoption
+85,Spain,2017,Country rank and value in the UNCTAD B2C E-commerce Index,33.0,4.881118881118881,True,Technology Adoption
+87,Estonia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,21.0,5.300699300699301,True,Technology Adoption
+89,Ethiopia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,133.0,1.384615384615385,True,Technology Adoption
+91,Finland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,12.0,5.615384615384615,True,Technology Adoption
+93,France,2017,Country rank and value in the UNCTAD B2C E-commerce Index,20.0,5.335664335664336,True,Technology Adoption
+95,Gabon,2017,Country rank and value in the UNCTAD B2C E-commerce Index,110.0,2.1888111888111883,True,Technology Adoption
+97,United Kingdom,2017,Country rank and value in the UNCTAD B2C E-commerce Index,6.0,5.825174825174825,True,Technology Adoption
+99,Georgia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,70.0,3.5874125874125875,True,Technology Adoption
+101,Ghana,2017,Country rank and value in the UNCTAD B2C E-commerce Index,105.0,2.3636363636363633,True,Technology Adoption
+103,Guinea,2017,Country rank and value in the UNCTAD B2C E-commerce Index,142.0,1.06993006993007,True,Technology Adoption
+105,Greece,2017,Country rank and value in the UNCTAD B2C E-commerce Index,34.0,4.846153846153847,True,Technology Adoption
+107,Guatemala,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+109,"Hong Kong SAR, China",2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+111,Honduras,2017,Country rank and value in the UNCTAD B2C E-commerce Index,98.0,2.6083916083916083,True,Technology Adoption
+113,Croatia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,32.0,4.916083916083916,True,Technology Adoption
+115,Haiti,2017,Country rank and value in the UNCTAD B2C E-commerce Index,134.0,1.34965034965035,True,Technology Adoption
+117,Hungary,2017,Country rank and value in the UNCTAD B2C E-commerce Index,36.0,4.776223776223777,True,Technology Adoption
+119,Indonesia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,101.0,2.5034965034965033,True,Technology Adoption
+121,India,2017,Country rank and value in the UNCTAD B2C E-commerce Index,83.0,3.132867132867133,True,Technology Adoption
+123,Ireland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,19.0,5.370629370629371,True,Technology Adoption
+125,"Iran, Islamic Rep.",2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+127,Iraq,2017,Country rank and value in the UNCTAD B2C E-commerce Index,139.0,1.174825174825175,True,Technology Adoption
+129,Iceland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,11.0,5.65034965034965,True,Technology Adoption
+131,Israel,2017,Country rank and value in the UNCTAD B2C E-commerce Index,31.0,4.951048951048951,True,Technology Adoption
+133,Italy,2017,Country rank and value in the UNCTAD B2C E-commerce Index,40.0,4.636363636363637,True,Technology Adoption
+135,Jamaica,2017,Country rank and value in the UNCTAD B2C E-commerce Index,53.0,4.181818181818182,True,Technology Adoption
+137,Jordan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,75.0,3.4125874125874125,True,Technology Adoption
+139,Japan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,8.0,5.755244755244755,True,Technology Adoption
+141,Kazakhstan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,51.0,4.251748251748252,True,Technology Adoption
+143,Kenya,2017,Country rank and value in the UNCTAD B2C E-commerce Index,82.0,3.167832167832168,True,Technology Adoption
+145,Kyrgyz Republic,2017,Country rank and value in the UNCTAD B2C E-commerce Index,117.0,1.9440559440559442,True,Technology Adoption
+147,Cambodia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,115.0,2.013986013986014,True,Technology Adoption
+149,"Korea, Rep.",2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+151,Kuwait,2017,Country rank and value in the UNCTAD B2C E-commerce Index,57.0,4.041958041958042,True,Technology Adoption
+153,Lao PDR,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+155,Lebanon,2017,Country rank and value in the UNCTAD B2C E-commerce Index,56.0,4.076923076923077,True,Technology Adoption
+157,Liberia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,130.0,1.4895104895104891,True,Technology Adoption
+159,Sri Lanka,2017,Country rank and value in the UNCTAD B2C E-commerce Index,73.0,3.4825174825174825,True,Technology Adoption
+161,Lesotho,2017,Country rank and value in the UNCTAD B2C E-commerce Index,125.0,1.6643356643356642,True,Technology Adoption
+163,Lithuania,2017,Country rank and value in the UNCTAD B2C E-commerce Index,35.0,4.811188811188812,True,Technology Adoption
+165,Luxembourg,2017,Country rank and value in the UNCTAD B2C E-commerce Index,1.0,6.0,True,Technology Adoption
+167,Latvia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,24.0,5.195804195804196,True,Technology Adoption
+169,Morocco,2017,Country rank and value in the UNCTAD B2C E-commerce Index,85.0,3.062937062937063,True,Technology Adoption
+171,Moldova,2017,Country rank and value in the UNCTAD B2C E-commerce Index,66.0,3.727272727272727,True,Technology Adoption
+173,Madagascar,2017,Country rank and value in the UNCTAD B2C E-commerce Index,118.0,1.9090909090909092,True,Technology Adoption
+175,Mexico,2017,Country rank and value in the UNCTAD B2C E-commerce Index,90.0,2.8881118881118883,True,Technology Adoption
+177,"Macedonia, FYR",2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+179,Mali,2017,Country rank and value in the UNCTAD B2C E-commerce Index,124.0,1.6993006993006992,True,Technology Adoption
+181,Malta,2017,Country rank and value in the UNCTAD B2C E-commerce Index,28.0,5.055944055944056,True,Technology Adoption
+183,Myanmar,2017,Country rank and value in the UNCTAD B2C E-commerce Index,123.0,1.7342657342657342,True,Technology Adoption
+185,Montenegro,2017,Country rank and value in the UNCTAD B2C E-commerce Index,69.0,3.6223776223776225,True,Technology Adoption
+187,Mongolia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,55.0,4.111888111888112,True,Technology Adoption
+189,Mauritania,2017,Country rank and value in the UNCTAD B2C E-commerce Index,126.0,1.6293706293706292,True,Technology Adoption
+191,Mauritius,2017,Country rank and value in the UNCTAD B2C E-commerce Index,39.0,4.671328671328672,True,Technology Adoption
+193,Malawi,2017,Country rank and value in the UNCTAD B2C E-commerce Index,131.0,1.4545454545454541,True,Technology Adoption
+195,Malaysia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,38.0,4.706293706293707,True,Technology Adoption
+197,Namibia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,89.0,2.9230769230769234,True,Technology Adoption
+199,Niger,2017,Country rank and value in the UNCTAD B2C E-commerce Index,144.0,1.0,True,Technology Adoption
+201,Nigeria,2017,Country rank and value in the UNCTAD B2C E-commerce Index,80.0,3.237762237762238,True,Technology Adoption
+203,Nicaragua,2017,Country rank and value in the UNCTAD B2C E-commerce Index,122.0,1.7692307692307692,True,Technology Adoption
+205,Netherlands,2017,Country rank and value in the UNCTAD B2C E-commerce Index,4.0,5.895104895104895,True,Technology Adoption
+207,Norway,2017,Country rank and value in the UNCTAD B2C E-commerce Index,3.0,5.93006993006993,True,Technology Adoption
+209,Nepal,2017,Country rank and value in the UNCTAD B2C E-commerce Index,108.0,2.2587412587412583,True,Technology Adoption
+211,New Zealand,2017,Country rank and value in the UNCTAD B2C E-commerce Index,10.0,5.685314685314685,True,Technology Adoption
+213,Oman,2017,Country rank and value in the UNCTAD B2C E-commerce Index,64.0,3.797202797202797,True,Technology Adoption
+215,Pakistan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,120.0,1.8391608391608392,True,Technology Adoption
+217,Panama,2017,Country rank and value in the UNCTAD B2C E-commerce Index,84.0,3.097902097902098,True,Technology Adoption
+219,Peru,2017,Country rank and value in the UNCTAD B2C E-commerce Index,94.0,2.7482517482517483,True,Technology Adoption
+221,Philippines,2017,Country rank and value in the UNCTAD B2C E-commerce Index,96.0,2.6783216783216783,True,Technology Adoption
+223,Poland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,37.0,4.741258741258742,True,Technology Adoption
+225,Portugal,2017,Country rank and value in the UNCTAD B2C E-commerce Index,48.0,4.356643356643357,True,Technology Adoption
+227,Paraguay,2017,Country rank and value in the UNCTAD B2C E-commerce Index,93.0,2.7832167832167833,True,Technology Adoption
+229,Qatar,2017,Country rank and value in the UNCTAD B2C E-commerce Index,58.0,4.006993006993007,True,Technology Adoption
+231,Romania,2017,Country rank and value in the UNCTAD B2C E-commerce Index,45.0,4.461538461538462,True,Technology Adoption
+233,Russian Federation,2017,Country rank and value in the UNCTAD B2C E-commerce Index,43.0,4.531468531468532,True,Technology Adoption
+235,Rwanda,2017,Country rank and value in the UNCTAD B2C E-commerce Index,99.0,2.5734265734265733,True,Technology Adoption
+237,Saudi Arabia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,46.0,4.426573426573427,True,Technology Adoption
+239,Sudan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,137.0,1.244755244755245,True,Technology Adoption
+241,Senegal,2017,Country rank and value in the UNCTAD B2C E-commerce Index,112.0,2.1188811188811183,True,Technology Adoption
+243,Singapore,2017,Country rank and value in the UNCTAD B2C E-commerce Index,18.0,5.405594405594406,True,Technology Adoption
+245,Sierra Leone,2017,Country rank and value in the UNCTAD B2C E-commerce Index,136.0,1.27972027972028,True,Technology Adoption
+247,El Salvador,2017,Country rank and value in the UNCTAD B2C E-commerce Index,76.0,3.3776223776223775,True,Technology Adoption
+249,Serbia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,41.0,4.601398601398602,True,Technology Adoption
+251,Slovak Republic,2017,Country rank and value in the UNCTAD B2C E-commerce Index,30.0,4.986013986013986,True,Technology Adoption
+253,Slovenia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,25.0,5.160839160839161,True,Technology Adoption
+255,Sweden,2017,Country rank and value in the UNCTAD B2C E-commerce Index,7.0,5.79020979020979,True,Technology Adoption
+257,Swaziland,2017,Country rank and value in the UNCTAD B2C E-commerce Index,114.0,2.0489510489510483,True,Technology Adoption
+259,Syrian Arab Republic,2017,Country rank and value in the UNCTAD B2C E-commerce Index,127.0,1.5944055944055942,True,Technology Adoption
+261,Chad,2017,Country rank and value in the UNCTAD B2C E-commerce Index,143.0,1.034965034965035,True,Technology Adoption
+263,Togo,2017,Country rank and value in the UNCTAD B2C E-commerce Index,111.0,2.1538461538461533,True,Technology Adoption
+265,Thailand,2017,Country rank and value in the UNCTAD B2C E-commerce Index,49.0,4.321678321678322,True,Technology Adoption
+267,Trinidad and Tobago,2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+269,Tunisia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,79.0,3.272727272727273,True,Technology Adoption
+271,Turkey,2017,Country rank and value in the UNCTAD B2C E-commerce Index,60.0,3.937062937062937,True,Technology Adoption
+273,Tanzania,2017,Country rank and value in the UNCTAD B2C E-commerce Index,119.0,1.8741258741258742,True,Technology Adoption
+275,Uganda,2017,Country rank and value in the UNCTAD B2C E-commerce Index,86.0,3.027972027972028,True,Technology Adoption
+277,Ukraine,2017,Country rank and value in the UNCTAD B2C E-commerce Index,63.0,3.832167832167832,True,Technology Adoption
+279,Uruguay,2017,Country rank and value in the UNCTAD B2C E-commerce Index,67.0,3.6923076923076925,True,Technology Adoption
+281,United States,2017,Country rank and value in the UNCTAD B2C E-commerce Index,26.0,5.125874125874126,True,Technology Adoption
+283,Uzbekistan,2017,Country rank and value in the UNCTAD B2C E-commerce Index,106.0,2.3286713286713283,True,Technology Adoption
+285,"Venezuela, RB",2017,Country rank and value in the UNCTAD B2C E-commerce Index,,,True,Technology Adoption
+287,Vietnam,2017,Country rank and value in the UNCTAD B2C E-commerce Index,74.0,3.4475524475524475,True,Technology Adoption
+289,South Africa,2017,Country rank and value in the UNCTAD B2C E-commerce Index,72.0,3.5174825174825175,True,Technology Adoption
+291,Zambia,2017,Country rank and value in the UNCTAD B2C E-commerce Index,121.0,1.8041958041958042,True,Technology Adoption
+293,Zimbabwe,2017,Country rank and value in the UNCTAD B2C E-commerce Index,109.0,2.2237762237762233,True,Technology Adoption

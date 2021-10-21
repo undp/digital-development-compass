@@ -312,352 +312,383 @@ Infrastructure,Capabilities,Uruguay,2.4018691588785046,1,0.0007438430346480349
 Infrastructure,Capabilities,Uzbekistan,1.1869158878504669,1,0.000367580021012842
 Infrastructure,Capabilities,Venezuela,3.196261682242991,1,0.0009898611589479686
 Infrastructure,Capabilities,Vietnam,5.11214953271028,1,0.0015831989881419262
-Infrastructure,Connectivity Technology,Afghanistan,2.2811202792299423,21,0.014835405965880703
-Infrastructure,Connectivity Technology,Africa Eastern and Southern,2.979006094322729,2,0.0018451570729778437
-Infrastructure,Connectivity Technology,Africa Western and Central,3.391785068931477,2,0.0021008269240826737
-Infrastructure,Connectivity Technology,Albania,3.642203304181635,23,0.0259432257653074
-Infrastructure,Connectivity Technology,Algeria,3.1207374378473145,21,0.020295907771692042
-Infrastructure,Connectivity Technology,American Samoa,,0,
-Infrastructure,Connectivity Technology,Andorra,4.6208483223264265,6,0.008586277464836964
-Infrastructure,Connectivity Technology,Angola,2.2593435084507427,22,0.015393483179286571
-Infrastructure,Connectivity Technology,Antigua and Barbuda,3.3592808590538348,8,0.008322776981242081
-Infrastructure,Connectivity Technology,Arab World,5.437833519346597,2,0.0033681223408774216
-Infrastructure,Connectivity Technology,Argentina,3.8435626424590743,24,0.028567823914220435
-Infrastructure,Connectivity Technology,Armenia,3.5256069829917984,23,0.025112716199693824
-Infrastructure,Connectivity Technology,Aruba,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Australia,4.5814338958371685,21,0.029795636981288492
-Infrastructure,Connectivity Technology,Austria,4.627411762722926,24,0.03439389356003413
-Infrastructure,Connectivity Technology,Azerbaijan,3.5162619362969827,21,0.02286822566188809
-Infrastructure,Connectivity Technology,Bahamas,3.8020305585347014,11,0.012952101623995576
-Infrastructure,Connectivity Technology,"Bahamas, The",4.832630098452883,3,0.0044899009895814955
-Infrastructure,Connectivity Technology,Bahrain,4.2289344902093475,23,0.03012248165835088
-Infrastructure,Connectivity Technology,Bangladesh,3.182615044651549,20,0.019712697706110553
-Infrastructure,Connectivity Technology,Barbados,3.992195072215834,17,0.021018060151027928
-Infrastructure,Connectivity Technology,Belarus,3.6978434314968958,23,0.026339547514533476
-Infrastructure,Connectivity Technology,Belgium,4.390390883558157,23,0.0312725271978438
-Infrastructure,Connectivity Technology,Belize,3.5644239870864545,17,0.018765936135171794
-Infrastructure,Connectivity Technology,Benin,2.88024797754711,20,0.01783987598356835
-Infrastructure,Connectivity Technology,Bermuda,5.966666666666666,3,0.005543511923196035
-Infrastructure,Connectivity Technology,Bhutan,3.263409874791622,19,0.019202473713546244
-Infrastructure,Connectivity Technology,Bolivia,3.2670990787330663,19,0.01922418163392018
+Infrastructure,Connectivity Technology,Afghanistan,2.049009436276478,21,0.013325858829918252
+Infrastructure,Connectivity Technology,Africa,1.0585266370550304,1,0.0003278187169572717
+Infrastructure,Connectivity Technology,Africa Eastern and Southern,2.979006094322729,1,0.0009225785364889218
+Infrastructure,Connectivity Technology,Africa Western and Central,3.391785068931477,1,0.0010504134620413369
+Infrastructure,Connectivity Technology,Albania,3.4316846897954827,23,0.024443712562804615
+Infrastructure,Connectivity Technology,Algeria,2.8911537442776085,21,0.0188027961071012
+Infrastructure,Connectivity Technology,American Samoa,1.2607554372294518,1,0.00039044764237517864
+Infrastructure,Connectivity Technology,Andorra,4.345017986791712,5,0.006728117043653936
+Infrastructure,Connectivity Technology,Angola,2.1660115215077713,22,0.014757588564004635
+Infrastructure,Connectivity Technology,Antigua and Barbuda,2.77301995034678,8,0.006870287891847086
+Infrastructure,Connectivity Technology,Arab World,5.437833519346597,1,0.0016840611704387108
+Infrastructure,Connectivity Technology,Argentina,3.6460915014573168,24,0.027100091680079156
+Infrastructure,Connectivity Technology,Armenia,3.3176001100952637,23,0.023631094001917333
+Infrastructure,Connectivity Technology,Aruba,3.9114454109984913,2,0.002422697684111794
+Infrastructure,Connectivity Technology,Asia Pacific,,0,
+Infrastructure,Connectivity Technology,Australia,4.385510379633477,21,0.028521436349427998
+Infrastructure,Connectivity Technology,Austria,4.44840092147835,24,0.033063370119380736
+Infrastructure,Connectivity Technology,Azerbaijan,3.2884225913127714,21,0.021386458475555342
+Infrastructure,Connectivity Technology,Bahamas,3.604544294606796,12,0.013395643089278896
+Infrastructure,Connectivity Technology,"Bahamas, The",4.248945147679325,2,0.0026317405683984668
+Infrastructure,Connectivity Technology,Bahrain,4.07708433318046,23,0.029040860843341773
+Infrastructure,Connectivity Technology,Bangladesh,2.9556725813419873,20,0.018307046028751855
+Infrastructure,Connectivity Technology,Barbados,3.716375318668889,17,0.019565927661000654
+Infrastructure,Connectivity Technology,Belarus,3.4957164261122813,23,0.02489980730894471
+Infrastructure,Connectivity Technology,Belgium,4.202937166762792,23,0.0299373040679914
+Infrastructure,Connectivity Technology,Belize,3.2992871715579724,17,0.017370047047533456
+Infrastructure,Connectivity Technology,Benin,2.7902569113425395,20,0.0172824831919637
+Infrastructure,Connectivity Technology,Bermuda,4.575282782974122,3,0.004250804691521327
+Infrastructure,Connectivity Technology,Bhutan,3.0403716001654835,19,0.017890077548201978
+Infrastructure,Connectivity Technology,Bolivia,3.0182880730665818,19,0.017760134217486855
 Infrastructure,Connectivity Technology,Bolivia (Plurinational State of),2.2697032626217473,5,0.0035145606420281003
-Infrastructure,Connectivity Technology,Bosnia and Herzegovina,3.39558129345305,24,0.02523813906561573
-Infrastructure,Connectivity Technology,Botswana,3.0980843891606566,20,0.019189125978077773
-Infrastructure,Connectivity Technology,Brazil,3.844637292372162,23,0.027385152593545906
-Infrastructure,Connectivity Technology,British Virgin Islands,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Brunei,2.189501465616383,3,0.0020342224827652987
-Infrastructure,Connectivity Technology,Brunei Darussalam,4.097502975332936,19,0.02411042320573731
-Infrastructure,Connectivity Technology,Bulgaria,3.953028980939731,23,0.028157220985324808
-Infrastructure,Connectivity Technology,Burkina Faso,2.2848378819641666,19,0.013444385183437338
-Infrastructure,Connectivity Technology,Burundi,1.5312906154865806,19,0.009010381447582852
-Infrastructure,Connectivity Technology,Cabo Verde,3.1344507967080815,17,0.016502218502334277
-Infrastructure,Connectivity Technology,Cambodia,3.349512921214209,21,0.02178376319154487
-Infrastructure,Connectivity Technology,Cameroon,2.703206009281006,21,0.01758046645862531
-Infrastructure,Connectivity Technology,Canada,4.376916254338462,22,0.02982104601902947
+Infrastructure,Connectivity Technology,Bosnia and Herzegovina,3.205340581667512,24,0.023824148021065434
+Infrastructure,Connectivity Technology,Botswana,2.933779911656237,20,0.018171445721004875
+Infrastructure,Connectivity Technology,Brazil,3.6388658168530448,23,0.025919453015676688
+Infrastructure,Connectivity Technology,British Virgin Islands,3.6020009806805233,2,0.0022310318864543345
+Infrastructure,Connectivity Technology,Brunei,2.0986740377815307,4,0.0025997820226466776
+Infrastructure,Connectivity Technology,Brunei Darussalam,3.991808696184766,18,0.022252262784554284
+Infrastructure,Connectivity Technology,Bulgaria,3.759576548059365,23,0.026779269311045337
+Infrastructure,Connectivity Technology,Burkina Faso,2.2522303363092875,19,0.013252516689339256
+Infrastructure,Connectivity Technology,Burundi,1.5191739209776518,19,0.008939084700704671
+Infrastructure,Connectivity Technology,CIS,,0,
+Infrastructure,Connectivity Technology,Cabo Verde,2.970317276908406,16,0.014718202672819602
+Infrastructure,Connectivity Technology,Cambodia,3.131213169922996,21,0.020364037339232862
+Infrastructure,Connectivity Technology,Cameroon,2.5598104972989186,21,0.01664788493133394
+Infrastructure,Connectivity Technology,Canada,4.217248565747649,22,0.028733189360931645
 Infrastructure,Connectivity Technology,Cape Verde,1.3940045093982052,2,0.0008634280021048035
-Infrastructure,Connectivity Technology,Caribbean small states,5.907830995003852,2,0.0036592325766515036
-Infrastructure,Connectivity Technology,Cayman Islands,6.0,2,0.0037163208423660575
+Infrastructure,Connectivity Technology,Caribbean small states,5.907830995003852,1,0.0018296162883257518
+Infrastructure,Connectivity Technology,Cayman Islands,3.9704928751087603,2,0.0024592709043721028
 Infrastructure,Connectivity Technology,Central African Rep.,1.1306451612903226,1,0.00035015334818529653
-Infrastructure,Connectivity Technology,Central African Republic,1.6567728019890486,13,0.006670190903021874
-Infrastructure,Connectivity Technology,Central Europe and the Baltics,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Chad,1.902591420689744,17,0.01001674021422287
-Infrastructure,Connectivity Technology,Channel Islands,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Chile,4.141961763779115,22,0.02822024119019527
-Infrastructure,Connectivity Technology,China,4.436578867209109,24,0.03297550102602001
-Infrastructure,Connectivity Technology,Colombia,3.5699018259478708,23,0.025428226075193877
-Infrastructure,Connectivity Technology,Comoros,3.215878103843431,15,0.014939043529777474
-Infrastructure,Connectivity Technology,Congo,2.8828171412127963,10,0.008927894522182707
+Infrastructure,Connectivity Technology,Central African Republic,1.625736086942831,13,0.00654523664609997
+Infrastructure,Connectivity Technology,Central America,,0,
+Infrastructure,Connectivity Technology,Central Europe and the Baltics,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Chad,1.8973709018538238,17,0.00998925529003252
+Infrastructure,Connectivity Technology,Channel Islands,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Chile,3.931236558586757,22,0.026784516658070193
+Infrastructure,Connectivity Technology,China,4.246979162621593,24,0.031566274358289945
+Infrastructure,Connectivity Technology,Colombia,3.3587577886692803,23,0.023924258017774373
+Infrastructure,Connectivity Technology,Comoros,2.940355144247873,15,0.013659128883158282
+Infrastructure,Connectivity Technology,Congo,2.7169948421187553,11,0.009255789180336422
 Infrastructure,Connectivity Technology,Congo (Democratic Republic of the),1.068565400843882,1,0.00033092765588228
 Infrastructure,Connectivity Technology,Congo (Rep. of the),1.5935483870967744,1,0.0004935114236905464
-Infrastructure,Connectivity Technology,"Congo, Dem. Rep.",1.990781479474125,5,0.0030826594603191775
+Infrastructure,Connectivity Technology,"Congo, Dem. Rep.",2.0725846998902764,4,0.002567463239257078
 Infrastructure,Connectivity Technology,"Congo, Democratic Republic",2.346391410502424,8,0.0058132955354659
-Infrastructure,Connectivity Technology,"Congo, Rep.",2.9785366296647813,4,0.0036897325855246594
-Infrastructure,Connectivity Technology,Costa Rica,3.842319333141628,24,0.028558582841560567
-Infrastructure,Connectivity Technology,Cote d'Ivoire,3.47695968617054,11,0.011844706270633613
-Infrastructure,Connectivity Technology,Croatia,4.080185685306794,23,0.02906295161413944
-Infrastructure,Connectivity Technology,Cuba,2.791175156108312,13,0.011237310941284625
-Infrastructure,Connectivity Technology,Curacao,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Cyprus,4.3636189303090935,24,0.03243321595770153
-Infrastructure,Connectivity Technology,Czech Republic,4.684217003718187,13,0.01885872438784033
-Infrastructure,Connectivity Technology,Czechia,3.8584523391574503,11,0.013144309610012993
+Infrastructure,Connectivity Technology,"Congo, Rep.",2.8945985312776616,3,0.002689314213017338
+Infrastructure,Connectivity Technology,Cook Islands,1.2137497286763357,1,0.0003758902845080011
+Infrastructure,Connectivity Technology,Costa Rica,3.642902599932553,24,0.02707638971767769
+Infrastructure,Connectivity Technology,Cote d'Ivoire,3.39323450670173,10,0.010508623433576123
+Infrastructure,Connectivity Technology,Croatia,3.8744290740326237,23,0.027597357913518222
+Infrastructure,Connectivity Technology,Cuba,2.419188541569912,13,0.009739687531870194
+Infrastructure,Connectivity Technology,Curacao,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Cyprus,4.170293597302831,24,0.030996298028884466
+Infrastructure,Connectivity Technology,Czech Republic,4.574568420694702,12,0.017000563966657303
+Infrastructure,Connectivity Technology,Czechia,3.678840720660034,12,0.013671752445933851
 Infrastructure,Connectivity Technology,Côte d'Ivoire,2.5950251774468724,10,0.00803662179450874
 Infrastructure,Connectivity Technology,DR Congo,1.1306339485769932,2,0.0007002997513638855
 Infrastructure,Connectivity Technology,Dem. People's Rep. of Korea,1.0544354838709675,1,0.00032655171380333465
 Infrastructure,Connectivity Technology,Dem. Rep. of the Congo,1.093073848284601,3,0.001015553281156334
 Infrastructure,Connectivity Technology,Democratic People's Republic of Korea,1.0635,1,0.00032935893465469183
+Infrastructure,Connectivity Technology,Democratic Republic of Congo,1.011162037791834,1,0.000313150213004594
 Infrastructure,Connectivity Technology,Democratic Republic of the Congo,1.572,1,0.0004868380303499536
-Infrastructure,Connectivity Technology,Denmark,4.763348251403741,24,0.035404260772279275
-Infrastructure,Connectivity Technology,Djibouti,2.044781534570078,11,0.006965808882090696
-Infrastructure,Connectivity Technology,Dominica,3.143230246525618,7,0.006814063711885824
+Infrastructure,Connectivity Technology,Denmark,4.573924487436457,24,0.03399634180813719
+Infrastructure,Connectivity Technology,Djibouti,1.7792729055358443,11,0.006061319901175066
+Infrastructure,Connectivity Technology,Dominica,2.444687206054754,7,0.005299724509874041
 Infrastructure,Connectivity Technology,Dominican Rep.,2.5326906244284446,3,0.0023530727387071335
-Infrastructure,Connectivity Technology,Dominican Republic,3.7505118640883373,19,0.022068666899250047
-Infrastructure,Connectivity Technology,Early-demographic dividend,5.600263175168009,2,0.0034687291267686644
-Infrastructure,Connectivity Technology,East Asia & Pacific,5.899667601782531,2,0.003654176278589366
-Infrastructure,Connectivity Technology,East Asia & Pacific (IDA & IBRD countries),5.921265461568758,2,0.0036675537080017085
-Infrastructure,Connectivity Technology,East Asia & Pacific (excluding high income),5.888961252287749,2,0.0036475449069605136
+Infrastructure,Connectivity Technology,Dominican Republic,3.4953379713492545,19,0.02056717914389465
+Infrastructure,Connectivity Technology,Early-demographic dividend,5.600263175168009,1,0.0017343645633843322
+Infrastructure,Connectivity Technology,East Asia & Pacific,5.899667601782531,1,0.001827088139294683
+Infrastructure,Connectivity Technology,East Asia & Pacific (IDA & IBRD countries),5.921265461568758,1,0.0018337768540008543
+Infrastructure,Connectivity Technology,East Asia & Pacific (excluding high income),5.888961252287749,1,0.0018237724534802568
 Infrastructure,Connectivity Technology,East and South Asia,3.8781512605042017,1,0.0012010378632716636
+Infrastructure,Connectivity Technology,Eastern Africa,,0,
 Infrastructure,Connectivity Technology,Eastern Europe and Central Asia,4.476890756302522,1,0.0013864635355535838
-Infrastructure,Connectivity Technology,Ecuador,3.307458243571058,22,0.022534556010704018
-Infrastructure,Connectivity Technology,Egypt,3.052948620176134,19,0.017964082930736
-Infrastructure,Connectivity Technology,"Egypt, Arab Rep.",4.9022333616991105,4,0.0060727573387415424
-Infrastructure,Connectivity Technology,El Salvador,3.3203656008516935,21,0.02159420180176078
-Infrastructure,Connectivity Technology,Equatorial Guinea,2.727756940258172,5,0.004223841654162546
-Infrastructure,Connectivity Technology,Eritrea,1.9725436366031486,6,0.00366530251459241
-Infrastructure,Connectivity Technology,Estonia,4.429528754534888,24,0.03292310006467554
-Infrastructure,Connectivity Technology,Eswatini,3.086030048911442,14,0.013380124089427126
-Infrastructure,Connectivity Technology,Ethiopia,2.639751783666745,19,0.015532760572830024
-Infrastructure,Connectivity Technology,Euro area,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Europe & Central Asia,5.999642273354596,2,0.0037160992712013605
-Infrastructure,Connectivity Technology,Europe & Central Asia (IDA & IBRD countries),5.999285147591715,2,0.00371587807221537
-Infrastructure,Connectivity Technology,Europe & Central Asia (excluding high income),5.999213398144826,2,0.003715833631554553
-Infrastructure,Connectivity Technology,European Union,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Faroe Islands,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Fiji,3.4562394318556398,18,0.019266741955218804
-Infrastructure,Connectivity Technology,Finland,4.862846714765816,24,0.03614379719863102
-Infrastructure,Connectivity Technology,Fragile and conflict affected situations,3.537876996995317,2,0.0021913143369435223
-Infrastructure,Connectivity Technology,France,4.55299698867833,23,0.032430762074822414
-Infrastructure,Connectivity Technology,French Polynesia,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Gabon,3.094515021484531,18,0.017250316007036717
-Infrastructure,Connectivity Technology,Gambia,2.766764290231125,12,0.010282183797700063
-Infrastructure,Connectivity Technology,"Gambia, The",3.33068921040245,4,0.004125969910687458
-Infrastructure,Connectivity Technology,Georgia,3.5893063744785194,23,0.025566443670797752
+Infrastructure,Connectivity Technology,Ecuador,3.087477666974007,22,0.02103577227421126
+Infrastructure,Connectivity Technology,Egypt,2.9587828615012532,20,0.018326310693720985
+Infrastructure,Connectivity Technology,"Egypt, Arab Rep.",4.536311148932147,3,0.004214596917558514
+Infrastructure,Connectivity Technology,El Salvador,3.0857046928267313,21,0.020068070160842787
+Infrastructure,Connectivity Technology,Equatorial Guinea,2.103464426441616,5,0.003257145287150226
+Infrastructure,Connectivity Technology,Eritrea,1.584618475607006,6,0.0029444753340483235
+Infrastructure,Connectivity Technology,Estonia,4.243444306292621,24,0.031540001037789686
+Infrastructure,Connectivity Technology,Eswatini,2.956014001333412,13,0.011900954480438018
+Infrastructure,Connectivity Technology,Ethiopia,2.523131180880813,19,0.014846544576257493
+Infrastructure,Connectivity Technology,Euro area,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Europe,1.4702391264429426,1,0.00045532335907183107
+Infrastructure,Connectivity Technology,Europe & Central Asia,5.999642273354596,1,0.0018580496356006802
+Infrastructure,Connectivity Technology,Europe & Central Asia (IDA & IBRD countries),5.999285147591715,1,0.001857939036107685
+Infrastructure,Connectivity Technology,Europe & Central Asia (excluding high income),5.999213398144826,1,0.0018579168157772765
+Infrastructure,Connectivity Technology,Europe (other),,0,
+Infrastructure,Connectivity Technology,European Union,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Faroe Islands,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Fiji,3.184316501765949,18,0.017750912676304454
+Infrastructure,Connectivity Technology,Finland,4.699297337407617,24,0.03492819327896649
+Infrastructure,Connectivity Technology,Fragile and conflict affected situations,3.537876996995317,1,0.0010956571684717612
+Infrastructure,Connectivity Technology,France,4.368789416302014,23,0.031118661063780216
+Infrastructure,Connectivity Technology,French Guiana,1.3512150768940283,1,0.00041846239606504435
+Infrastructure,Connectivity Technology,French Polynesia,3.5949911737873053,2,0.00222669010454463
+Infrastructure,Connectivity Technology,Gabon,2.8494477190943717,18,0.015884192921554255
+Infrastructure,Connectivity Technology,Gambia,2.631791633616181,13,0.010595630609170131
+Infrastructure,Connectivity Technology,"Gambia, The",3.1570235507092694,3,0.0029331281053353387
+Infrastructure,Connectivity Technology,Georgia,3.3830253459796165,23,0.02409711457340699
 Infrastructure,Connectivity Technology,Georgia (Country),4.4615,1,0.001381697119851347
-Infrastructure,Connectivity Technology,Germany,4.602747025019634,23,0.03278512901066943
-Infrastructure,Connectivity Technology,Ghana,3.1376654694298267,22,0.021377714564092966
-Infrastructure,Connectivity Technology,Gibraltar,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Greece,4.077718330722628,23,0.029045376775045043
-Infrastructure,Connectivity Technology,Greenland,5.5,3,0.005109941158253329
-Infrastructure,Connectivity Technology,Grenada,3.184446352743143,7,0.006903414205389285
-Infrastructure,Connectivity Technology,Guam,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Guatemala,3.169611087319997,22,0.021595368201003388
-Infrastructure,Connectivity Technology,Guinea,2.4743962573132303,15,0.011494562979157154
-Infrastructure,Connectivity Technology,Guinea-Bissau,2.6966223415034594,15,0.012526892264649083
-Infrastructure,Connectivity Technology,Guyana,2.9738919604120317,18,0.01657790501313613
-Infrastructure,Connectivity Technology,Haiti,2.052524540038735,19,0.012077412902055116
-Infrastructure,Connectivity Technology,Heavily indebted poor countries (HIPC),3.0317671191063464,2,0.0018778365556558355
-Infrastructure,Connectivity Technology,High income,5.999984370086124,2,0.003716311161403607
+Infrastructure,Connectivity Technology,Germany,4.413016907413678,23,0.0314336911955759
+Infrastructure,Connectivity Technology,Ghana,2.952182869337733,22,0.02011397433429239
+Infrastructure,Connectivity Technology,Gibraltar,3.7578477097995115,2,0.002327561294394247
+Infrastructure,Connectivity Technology,Greece,3.878592737638391,23,0.027627015474042425
+Infrastructure,Connectivity Technology,Greenland,4.09744261114064,3,0.003806852844045191
+Infrastructure,Connectivity Technology,Grenada,2.5303590834683862,7,0.005485448616995572
+Infrastructure,Connectivity Technology,Guadeloupe,1.3680144879578044,1,0.00042366506285469323
+Infrastructure,Connectivity Technology,Guam,3.9570477152193857,2,0.0024509431497177986
+Infrastructure,Connectivity Technology,Guatemala,2.9558442954949253,22,0.020138920563917112
+Infrastructure,Connectivity Technology,Guinea,2.3478911332367436,15,0.010906895942567715
+Infrastructure,Connectivity Technology,Guinea-Bissau,2.6098498292790255,15,0.012123799144993924
+Infrastructure,Connectivity Technology,Guyana,2.7268080649427597,18,0.015200540467317954
+Infrastructure,Connectivity Technology,Haiti,1.9438937764728779,19,0.011438210515015385
+Infrastructure,Connectivity Technology,Heavily indebted poor countries (HIPC),3.0317671191063464,1,0.0009389182778279177
+Infrastructure,Connectivity Technology,High income,5.999984370086124,1,0.0018581555807018035
 Infrastructure,Connectivity Technology,High-income Countries,5.180672268907562,1,0.0016044200275340855
-Infrastructure,Connectivity Technology,Honduras,2.877553198961553,23,0.02049666261260939
-Infrastructure,Connectivity Technology,Hong Kong,4.368562393745929,9,0.012176234606290914
+Infrastructure,Connectivity Technology,Honduras,2.6805582210831447,23,0.01909347757352503
+Infrastructure,Connectivity Technology,Hong Kong,4.072748452531825,10,0.012613033299881775
 Infrastructure,Connectivity Technology,Hong Kong (SAR),3.9104153312059093,3,0.0036330894994170727
-Infrastructure,Connectivity Technology,"Hong Kong SAR, China",5.8575949367088604,4,0.007256234049809675
+Infrastructure,Connectivity Technology,"Hong Kong SAR, China",5.810126582278481,3,0.005398073628626647
 Infrastructure,Connectivity Technology,"Hong Kong, China",5.733712177329221,4,0.007102771356245551
-Infrastructure,Connectivity Technology,Hungary,4.359948465751602,24,0.032405934709829186
-Infrastructure,Connectivity Technology,IBRD only,5.9197071089299085,2,0.003666588484936456
-Infrastructure,Connectivity Technology,IDA & IBRD total,5.383962238406293,2,0.00333475518018352
-Infrastructure,Connectivity Technology,IDA blend,4.22249561954342,2,0.002615358079618098
-Infrastructure,Connectivity Technology,IDA only,3.6456257633497775,2,0.0022580525013005744
-Infrastructure,Connectivity Technology,IDA total,3.839529731430056,2,0.002378154060966278
+Infrastructure,Connectivity Technology,Hungary,4.164427112106293,24,0.030952694546469813
+Infrastructure,Connectivity Technology,IBRD only,5.9197071089299085,1,0.001833294242468228
+Infrastructure,Connectivity Technology,IDA & IBRD total,5.383962238406293,1,0.00166737759009176
+Infrastructure,Connectivity Technology,IDA blend,4.22249561954342,1,0.001307679039809049
+Infrastructure,Connectivity Technology,IDA only,3.6456257633497775,1,0.0011290262506502872
+Infrastructure,Connectivity Technology,IDA total,3.839529731430056,1,0.001189077030483139
 Infrastructure,Connectivity Technology,Iceland,4.472196388274748,17,0.023545165252607837
-Infrastructure,Connectivity Technology,India,3.392449095134448,22,0.023113620344675706
-Infrastructure,Connectivity Technology,Indonesia,3.527520905598729,24,0.026218798926717093
-Infrastructure,Connectivity Technology,Iran,2.965959762304948,12,0.011022458082272955
+Infrastructure,Connectivity Technology,India,3.174533090784918,22,0.021628903065118672
+Infrastructure,Connectivity Technology,Indonesia,3.325564419248591,24,0.024717728727769023
+Infrastructure,Connectivity Technology,Iran,2.839734453554482,13,0.011432811364573634
 Infrastructure,Connectivity Technology,Iran (Islamic Republic of),3.695740718806094,7,0.008011825652413335
-Infrastructure,Connectivity Technology,"Iran, Islamic Rep.",5.172928411871078,5,0.008010109030460016
-Infrastructure,Connectivity Technology,Iraq,3.027871966351686,21,0.01969195146899517
-Infrastructure,Connectivity Technology,Ireland,4.487781149730154,24,0.03335606924543936
-Infrastructure,Connectivity Technology,Isle of Man,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Israel,4.10035069244256,22,0.027936734355446365
-Infrastructure,Connectivity Technology,Italy,4.5369284753717345,22,0.0309112500644714
+Infrastructure,Connectivity Technology,"Iran, Islamic Rep.",4.966160514838847,4,0.006151948609276986
+Infrastructure,Connectivity Technology,Iraq,2.7986063514163417,21,0.01820090844835651
+Infrastructure,Connectivity Technology,Ireland,4.302547219239867,24,0.03197929181225048
+Infrastructure,Connectivity Technology,Isle of Man,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Israel,3.904708663405712,22,0.02660377534683359
+Infrastructure,Connectivity Technology,Italy,4.328820279257034,22,0.029493355882209582
 Infrastructure,Connectivity Technology,Ivory Coast,1.4666218637992832,1,0.00045420311669225246
-Infrastructure,Connectivity Technology,Jamaica,3.3213530768543515,21,0.021600623912648307
-Infrastructure,Connectivity Technology,Japan,4.612224210499178,23,0.032852634512691575
-Infrastructure,Connectivity Technology,Jordan,3.294875620451866,22,0.022448827392363285
-Infrastructure,Connectivity Technology,Kazakhstan,3.825870093971243,24,0.028436321540820635
-Infrastructure,Connectivity Technology,Kenya,2.918986379270235,23,0.02079178901307383
-Infrastructure,Connectivity Technology,Kiribati,2.6368025178592385,7,0.0057162024233554255
+Infrastructure,Connectivity Technology,Jamaica,3.0907870165366993,21,0.020101123365522045
+Infrastructure,Connectivity Technology,Japan,4.423551813825088,23,0.03150873078909167
+Infrastructure,Connectivity Technology,Jordan,3.075420110186087,22,0.02095362106661317
+Infrastructure,Connectivity Technology,Kazakhstan,3.6376054147267722,24,0.02703701763810546
+Infrastructure,Connectivity Technology,Kenya,2.773041728036963,23,0.019752232810421228
+Infrastructure,Connectivity Technology,Kiribati,1.9257305301747214,7,0.004174702295206891
 Infrastructure,Connectivity Technology,Korea (Rep. of),4.453586615941857,5,0.006896231985044684
 Infrastructure,Connectivity Technology,Korea (Republic of),4.219409282700422,1,0.0013067232216476996
-Infrastructure,Connectivity Technology,"Korea, Dem. People's Rep.",3.286259993510686,2,0.0020354660845529177
+Infrastructure,Connectivity Technology,"Korea, Dem. People's Rep.",3.286259993510686,1,0.0010177330422764589
 Infrastructure,Connectivity Technology,"Korea, Dem. Rep.",,0,
-Infrastructure,Connectivity Technology,"Korea, Rep.",5.639887600609864,5,0.008733179932811806
+Infrastructure,Connectivity Technology,"Korea, Rep.",5.54985950076233,4,0.006875019511628776
 Infrastructure,Connectivity Technology,"Korea, South",4.976546794316718,8,0.01232962971648614
-Infrastructure,Connectivity Technology,Kosovo,3.441621338215616,5,0.005329237129476023
-Infrastructure,Connectivity Technology,Kuwait,4.599864008132669,22,0.03134004589003367
-Infrastructure,Connectivity Technology,Kyrgyz Republic,4.909014358289694,4,0.006081157458395409
-Infrastructure,Connectivity Technology,Kyrgyzstan,3.031252550110254,15,0.014081383788062498
+Infrastructure,Connectivity Technology,Kosovo,2.8020266727695198,4,0.003471076708292994
+Infrastructure,Connectivity Technology,Kuwait,4.4405954953722055,22,0.03025490891860902
+Infrastructure,Connectivity Technology,Kyrgyz Republic,4.547465268395661,3,0.004224959989218638
+Infrastructure,Connectivity Technology,Kyrgyzstan,2.917018533082762,16,0.014454102362751376
 Infrastructure,Connectivity Technology,Lao P.D.R.,1.8201612903225808,1,0.0005636919449744753
-Infrastructure,Connectivity Technology,Lao PDR,4.112099481142668,6,0.007640940503826573
+Infrastructure,Connectivity Technology,Lao PDR,3.734519377371201,5,0.005782780082643544
 Infrastructure,Connectivity Technology,Lao People's Democratic Republic,2.1915,1,0.0006786930938371012
-Infrastructure,Connectivity Technology,Laos,2.5550343289213524,12,0.009495327329531195
-Infrastructure,Connectivity Technology,Late-demographic dividend,5.966237813870546,2,0.003695408989699935
-Infrastructure,Connectivity Technology,Latin America & Caribbean,5.915538467941682,2,0.0036640064837049745
-Infrastructure,Connectivity Technology,Latin America & Caribbean (excluding high income),5.907413685576573,2,0.0036589741006977845
-Infrastructure,Connectivity Technology,Latin America & the Caribbean (IDA & IBRD countries),5.913616925504296,2,0.0036628163056700498
+Infrastructure,Connectivity Technology,Laos,2.467292677746196,13,0.009933355469402461
+Infrastructure,Connectivity Technology,Late-demographic dividend,5.966237813870546,1,0.0018477044948499676
+Infrastructure,Connectivity Technology,Latin America & Caribbean,5.915538467941682,1,0.0018320032418524873
+Infrastructure,Connectivity Technology,Latin America & Caribbean (excluding high income),5.907413685576573,1,0.0018294870503488922
+Infrastructure,Connectivity Technology,Latin America & the Caribbean (IDA & IBRD countries),5.913616925504296,1,0.0018314081528350249
 Infrastructure,Connectivity Technology,Latin America and the Caribbean,4.182773109243697,1,0.0012953772403975525
-Infrastructure,Connectivity Technology,Latvia,4.141212115385462,23,0.029497639719376165
-Infrastructure,Connectivity Technology,Least developed countries: UN classification,3.4688041199242248,2,0.002148531508159941
-Infrastructure,Connectivity Technology,Lebanon,3.447677465565119,21,0.022422182340312014
-Infrastructure,Connectivity Technology,Lesotho,2.84384389712012,19,0.016733674216563108
-Infrastructure,Connectivity Technology,Liberia,2.2053375927227883,17,0.011610634585409538
-Infrastructure,Connectivity Technology,Libya,2.53804721477558,19,0.014934313125034383
-Infrastructure,Connectivity Technology,Liechtenstein,4.587123449868569,9,0.012785416862439492
-Infrastructure,Connectivity Technology,Lithuania,4.426531185351904,24,0.03290082020701322
-Infrastructure,Connectivity Technology,Low & middle income,5.368051183873302,2,0.0033249000829193567
-Infrastructure,Connectivity Technology,Low income,2.833351350907422,2,0.0017549404465205464
+Infrastructure,Connectivity Technology,Latvia,3.9367862003385743,23,0.028041524499159864
+Infrastructure,Connectivity Technology,Least developed countries: UN classification,3.4688041199242248,1,0.0010742657540799706
+Infrastructure,Connectivity Technology,Lebanon,3.2222868304000394,21,0.020956340488820325
+Infrastructure,Connectivity Technology,Lesotho,2.7380452186554805,19,0.016111136312930978
+Infrastructure,Connectivity Technology,Liberia,2.1397674777926587,17,0.011265421840345369
+Infrastructure,Connectivity Technology,Libya,2.384899217988346,19,0.014033163562024952
+Infrastructure,Connectivity Technology,Liechtenstein,4.4105138811021405,8,0.010927256441256463
+Infrastructure,Connectivity Technology,Lithuania,4.2223231118565305,24,0.03138301476759267
+Infrastructure,Connectivity Technology,Low & middle income,5.368051183873302,1,0.0016624500414596784
+Infrastructure,Connectivity Technology,Low income,2.833351350907422,1,0.0008774702232602732
 Infrastructure,Connectivity Technology,Low-income Countries,2.3340336134453783,1,0.0007228348137025018
-Infrastructure,Connectivity Technology,Lower middle income,5.412278226902495,2,0.0033522937298869587
+Infrastructure,Connectivity Technology,Lower middle income,5.412278226902495,1,0.0016761468649434794
 Infrastructure,Connectivity Technology,Lower-middle-income Countries,3.289915966386555,1,0.001018865272959602
-Infrastructure,Connectivity Technology,Luxembourg,4.6191543051134545,24,0.03433251883639607
-Infrastructure,Connectivity Technology,"Macao SAR, China",5.998333333333334,3,0.005572932796531435
+Infrastructure,Connectivity Technology,Luxembourg,4.416516030200825,24,0.03282638114735825
+Infrastructure,Connectivity Technology,"Macao SAR, China",5.9975000000000005,2,0.0037147723753484054
 Infrastructure,Connectivity Technology,"Macao, China",5.199233191659486,1,0.0016101682228737955
 Infrastructure,Connectivity Technology,Macau,4.386424731182796,1,0.0013584468043303796
 Infrastructure,Connectivity Technology,Macau (SAR),3.1759183487157263,3,0.0029506828882462617
 Infrastructure,Connectivity Technology,"Macedonia, FYR",4.544303797468354,2,0.002814681819429144
-Infrastructure,Connectivity Technology,Madagascar,2.4891656311223276,18,0.013875807172561752
-Infrastructure,Connectivity Technology,Malawi,2.2996874173359982,20,0.014243960466621233
-Infrastructure,Connectivity Technology,Malaysia,4.063321419662324,24,0.030201212162247065
-Infrastructure,Connectivity Technology,Maldives,3.922564444007647,21,0.02551063899788188
-Infrastructure,Connectivity Technology,Mali,2.5571510935857966,19,0.015046723684772417
-Infrastructure,Connectivity Technology,Malta,4.221150931645392,24,0.03137430237209334
-Infrastructure,Connectivity Technology,Marshall Islands,3.2077821327871225,5,0.004967144832435928
-Infrastructure,Connectivity Technology,Mauritania,2.345149781712354,19,0.013799270936059068
-Infrastructure,Connectivity Technology,Mauritius,3.7015929119897613,24,0.027512613777564036
-Infrastructure,Connectivity Technology,Mexico,3.6672576801555614,23,0.02612168678958746
+Infrastructure,Connectivity Technology,Madagascar,2.429477205361103,18,0.013543075161505064
+Infrastructure,Connectivity Technology,Malawi,2.2880204573666023,20,0.014171696855785705
+Infrastructure,Connectivity Technology,Malaysia,3.873672194198452,24,0.02879161742358713
+Infrastructure,Connectivity Technology,Maldives,3.6893835605633414,21,0.02399413278780742
+Infrastructure,Connectivity Technology,Mali,2.441560994925426,19,0.014366571354469834
+Infrastructure,Connectivity Technology,Malta,4.029165397167028,24,0.02994734268566388
+Infrastructure,Connectivity Technology,Marshall Islands,2.5439848908674674,4,0.003151421357531703
+Infrastructure,Connectivity Technology,Martinique,1.3692870146407876,1,0.00042405915597422964
+Infrastructure,Connectivity Technology,Mauritania,2.2357417666505306,19,0.013155495065456822
+Infrastructure,Connectivity Technology,Mauritius,3.50198498623289,24,0.0260289995879806
+Infrastructure,Connectivity Technology,Mexico,3.4592714684262473,23,0.024640211760236508
 Infrastructure,Connectivity Technology,Micronesia,1.1019477170851681,2,0.000682531878033551
 Infrastructure,Connectivity Technology,Micronesia (Federated States of),1.5305,1,0.0004739857541034376
-Infrastructure,Connectivity Technology,"Micronesia, Fed. Sts.",5.041425854377663,2,0.003122592662977803
-Infrastructure,Connectivity Technology,Middle East & North Africa,5.851657585715793,2,0.0036244395080308406
-Infrastructure,Connectivity Technology,Middle East & North Africa (IDA & IBRD countries),5.823923180209606,2,0.0036072611831586285
-Infrastructure,Connectivity Technology,Middle East & North Africa (excluding high income),5.826041446546028,2,0.0036085732093812497
+Infrastructure,Connectivity Technology,"Micronesia, Fed. Sts.",5.041425854377663,1,0.0015612963314889014
+Infrastructure,Connectivity Technology,Middle Africa,,0,
+Infrastructure,Connectivity Technology,Middle East,,0,
+Infrastructure,Connectivity Technology,Middle East & North Africa,5.851657585715793,1,0.0018122197540154203
+Infrastructure,Connectivity Technology,Middle East & North Africa (IDA & IBRD countries),5.823923180209606,1,0.0018036305915793143
+Infrastructure,Connectivity Technology,Middle East & North Africa (excluding high income),5.826041446546028,1,0.0018042866046906248
 Infrastructure,Connectivity Technology,Middle East and North Africa,4.025210084033613,1,0.0012465810108496789
-Infrastructure,Connectivity Technology,Middle income,5.651861677199987,2,0.0035006885581913825
-Infrastructure,Connectivity Technology,Moldova,3.882447118373391,20,0.024047365242325123
+Infrastructure,Connectivity Technology,Middle income,5.651861677199987,1,0.0017503442790956913
+Infrastructure,Connectivity Technology,Moldova,3.6382955719978747,20,0.022535122774839732
 Infrastructure,Connectivity Technology,Moldova (Republic of),3.6028481012658227,1,0.0011157782908844294
-Infrastructure,Connectivity Technology,Monaco,4.630759201110916,9,0.012907040201300167
-Infrastructure,Connectivity Technology,Mongolia,3.357546794969273,24,0.024955442266727332
-Infrastructure,Connectivity Technology,Montenegro,3.8562846249195126,24,0.02866238185136832
-Infrastructure,Connectivity Technology,Morocco,3.689184865624283,24,0.027420389214921893
-Infrastructure,Connectivity Technology,Mozambique,2.0136027761197344,18,0.011224790947709885
-Infrastructure,Connectivity Technology,Myanmar,3.258792386150508,16,0.016147624087459934
-Infrastructure,Connectivity Technology,Namibia,2.487206338361203,21,0.016175699320404233
-Infrastructure,Connectivity Technology,Nauru,4.3081774193548386,4,0.0053368565120530675
-Infrastructure,Connectivity Technology,Nepal,2.834728963281173,18,0.015802143493050827
+Infrastructure,Connectivity Technology,Monaco,4.459604101249781,8,0.01104887978011714
+Infrastructure,Connectivity Technology,Mongolia,3.158522090113761,24,0.023476162949126744
+Infrastructure,Connectivity Technology,Montenegro,3.6711987364805303,24,0.027286704761701062
+Infrastructure,Connectivity Technology,Montserrat,1.240492233698298,1,0.00038417226190718426
+Infrastructure,Connectivity Technology,Morocco,3.4856049928457793,24,0.025907252966335923
+Infrastructure,Connectivity Technology,Mozambique,1.9478914868654702,18,0.010858484596958335
+Infrastructure,Connectivity Technology,Myanmar,3.189122435569012,15,0.014814752720202905
+Infrastructure,Connectivity Technology,Namibia,2.365257109601868,21,0.015382595014443862
+Infrastructure,Connectivity Technology,Nauru,3.1354975589306826,4,0.0038841716431473306
+Infrastructure,Connectivity Technology,Nepal,2.58795412022822,18,0.014426501754136872
 Infrastructure,Connectivity Technology,Nepal (Republic of),2.8141129032258068,1,0.0008715122029191102
-Infrastructure,Connectivity Technology,Netherlands,4.638629771186597,24,0.03447727299736089
-Infrastructure,Connectivity Technology,New Caledonia,5.983333333333333,3,0.005558996593372561
-Infrastructure,Connectivity Technology,New Zealand,4.933083867603396,20,0.030554870657190435
-Infrastructure,Connectivity Technology,Nicaragua,2.998726514717506,20,0.018573716412000656
-Infrastructure,Connectivity Technology,Niger,1.8837973792974185,16,0.009334393951303406
-Infrastructure,Connectivity Technology,Nigeria,2.77892141875411,21,0.01807288627867337
-Infrastructure,Connectivity Technology,North America,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,North Macedonia,3.8460116518940235,22,0.02620385764684686
-Infrastructure,Connectivity Technology,Northern Mariana Islands,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Norway,4.750434078582102,24,0.035308274353041326
+Infrastructure,Connectivity Technology,Netherlands,4.456363731518454,24,0.03312255483321242
+Infrastructure,Connectivity Technology,Netherlands Antilles,,0,
+Infrastructure,Connectivity Technology,New Caledonia,4.629590066860075,3,0.004301260514270742
+Infrastructure,Connectivity Technology,New Zealand,4.723021817959987,20,0.02925377403505721
+Infrastructure,Connectivity Technology,Nicaragua,2.783338523354049,20,0.017239631609501697
+Infrastructure,Connectivity Technology,Niger,1.8435528467153601,16,0.009134978491002093
+Infrastructure,Connectivity Technology,Nigeria,2.6554110406919667,21,0.017269628942251872
+Infrastructure,Connectivity Technology,Niue,1.131977461417049,1,0.00035056595274606656
+Infrastructure,Connectivity Technology,North America,4.151088413725057,2,0.0025711293984051146
+Infrastructure,Connectivity Technology,North Korea,1.054074069446716,1,0.0003264397861402032
+Infrastructure,Connectivity Technology,North Macedonia,3.630008760003888,22,0.02473217489008533
+Infrastructure,Connectivity Technology,Northern Mariana Islands,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Norway,4.632075796669388,24,0.03442855965316361
 Infrastructure,Connectivity Technology,Not classified,,0,
-Infrastructure,Connectivity Technology,OECD members,5.695031771699941,3,0.005291141317776346
+Infrastructure,Connectivity Technology,OECD members,5.542807442220333,2,0.0034331418037908536
 Infrastructure,Connectivity Technology,Oceania,2.239495798319328,1,0.0006935570759737776
-Infrastructure,Connectivity Technology,Oman,4.047621103197523,22,0.027577474224325025
-Infrastructure,Connectivity Technology,Other small states,4.833791088700969,2,0.0029939864284304544
-Infrastructure,Connectivity Technology,Pacific island small states,5.289542480786022,2,0.0032762728279876257
-Infrastructure,Connectivity Technology,Pakistan,2.7647771108326227,23,0.019693364369510784
-Infrastructure,Connectivity Technology,Palau,4.9575000000000005,3,0.004605915144007433
-Infrastructure,Connectivity Technology,Palestine,1.7958763859285087,7,0.0038931974919478355
-Infrastructure,Connectivity Technology,Panama,3.6169398067200857,23,0.025763275179486518
-Infrastructure,Connectivity Technology,Papua New Guinea,2.640124495368244,17,0.013899695392152415
-Infrastructure,Connectivity Technology,Paraguay,3.686187352672922,21,0.023973346053307944
-Infrastructure,Connectivity Technology,Peru,3.531732493548614,22,0.02406259363829963
-Infrastructure,Connectivity Technology,Philippines,3.844043304130768,21,0.024999971937673
-Infrastructure,Connectivity Technology,Poland,4.371565422901161,24,0.03249227938978874
-Infrastructure,Connectivity Technology,Portugal,4.325195760450843,24,0.032147630303753554
-Infrastructure,Connectivity Technology,Post-demographic dividend,5.999890806620403,2,0.0037162532094273167
-Infrastructure,Connectivity Technology,Pre-demographic dividend,3.1714599543818767,2,0.001964360454866446
-Infrastructure,Connectivity Technology,Puerto Rico,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Qatar,4.575933352473457,24,0.03401127298215019
+Infrastructure,Connectivity Technology,Oman,3.8500511474042933,22,0.026231379759335538
+Infrastructure,Connectivity Technology,Other Asia & Pacific,,0,
+Infrastructure,Connectivity Technology,Other CIS,,0,
+Infrastructure,Connectivity Technology,Other Caribbean,,0,
+Infrastructure,Connectivity Technology,Other Middle East,,0,
+Infrastructure,Connectivity Technology,Other Northern Africa,,0,
+Infrastructure,Connectivity Technology,Other South America,,0,
+Infrastructure,Connectivity Technology,Other Southern Africa,,0,
+Infrastructure,Connectivity Technology,Other small states,4.833791088700969,1,0.0014969932142152272
+Infrastructure,Connectivity Technology,Pacific island small states,5.289542480786022,1,0.0016381364139938129
+Infrastructure,Connectivity Technology,Pakistan,2.61074748937378,23,0.018596219342086388
+Infrastructure,Connectivity Technology,Palau,4.43625,2,0.002747754722824404
+Infrastructure,Connectivity Technology,Palestine,1.697042288606039,8,0.004204502418348811
+Infrastructure,Connectivity Technology,Panama,3.419476234534705,23,0.02435675236738873
+Infrastructure,Connectivity Technology,Papua New Guinea,2.463716792937631,17,0.012970946261981952
+Infrastructure,Connectivity Technology,Paraguay,3.4777225923079804,21,0.02261758266908256
+Infrastructure,Connectivity Technology,Peru,3.3153134298794353,22,0.022588075397134585
+Infrastructure,Connectivity Technology,Philippines,3.6209959503892755,21,0.02354936976097082
+Infrastructure,Connectivity Technology,Poland,4.178967886937963,24,0.03106077091561199
+Infrastructure,Connectivity Technology,Portugal,4.135442635730469,24,0.030737263319148736
+Infrastructure,Connectivity Technology,Post-demographic dividend,5.999890806620403,1,0.0018581266047136584
+Infrastructure,Connectivity Technology,Pre-demographic dividend,3.1714599543818767,1,0.000982180227433223
+Infrastructure,Connectivity Technology,Puerto Rico,3.808164996814504,2,0.002358727158138435
+Infrastructure,Connectivity Technology,Qatar,4.428663277667752,24,0.03291666728523569
 Infrastructure,Connectivity Technology,Republic of Korea,5.8420000000000005,1,0.0018092288634252091
 Infrastructure,Connectivity Technology,Republic of Moldova,3.8415,1,0.0011896872096624342
 Infrastructure,Connectivity Technology,Republic of the Congo,1.3844086021505375,1,0.00042874221187690846
 Infrastructure,Connectivity Technology,Republic of the Union of Myanmar,1.409736952701137,3,0.001309758704894212
-Infrastructure,Connectivity Technology,Romania,4.512345287894601,24,0.03353864568270995
-Infrastructure,Connectivity Technology,Russia,2.1177457299020896,4,0.002623407531622285
-Infrastructure,Connectivity Technology,Russian Federation,4.350557550725917,19,0.025599440527653273
-Infrastructure,Connectivity Technology,Rwanda,3.0269177161708507,20,0.018748328994554666
-Infrastructure,Connectivity Technology,Saint Kitts and Nevis,2.1183699136468612,5,0.00328022594246959
-Infrastructure,Connectivity Technology,Saint Lucia,3.0420787952375368,13,0.012247452566766175
-Infrastructure,Connectivity Technology,Saint Vincent and the Grenadines,3.0699542528069537,15,0.014261168718520999
-Infrastructure,Connectivity Technology,Samoa,3.428517233775484,15,0.015926837567863814
-Infrastructure,Connectivity Technology,San Marino,4.134648034581437,6,0.007682839333381424
-Infrastructure,Connectivity Technology,Sao Tome and Principe,2.866602538853375,7,0.006214375277786815
-Infrastructure,Connectivity Technology,Saudi Arabia,4.661033727339288,23,0.03320030217677412
-Infrastructure,Connectivity Technology,Senegal,2.924666343961983,21,0.019020747359306797
-Infrastructure,Connectivity Technology,Serbia,4.024828539683029,24,0.02991510837794757
-Infrastructure,Connectivity Technology,Seychelles,3.6274305378816587,10,0.011233913093470606
-Infrastructure,Connectivity Technology,Sierra Leone,2.236892302447612,20,0.013855015809523766
-Infrastructure,Connectivity Technology,Singapore,4.733956347825042,23,0.03371972623102383
-Infrastructure,Connectivity Technology,Sint Maarten (Dutch part),6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Slovak Republic,5.321782079920576,5,0.00824060402589126
-Infrastructure,Connectivity Technology,Slovakia,3.9050246404403497,19,0.022977847063600693
-Infrastructure,Connectivity Technology,Slovenia,4.196050250969021,24,0.031187738006583
+Infrastructure,Connectivity Technology,Reunion,1.3148127015460809,1,0.0004071888205469436
+Infrastructure,Connectivity Technology,Romania,4.315267934643348,24,0.03207384033181801
+Infrastructure,Connectivity Technology,Russia,2.0218827013972738,5,0.003130818676675865
+Infrastructure,Connectivity Technology,Russian Federation,4.258921859099578,18,0.02374128010647024
+Infrastructure,Connectivity Technology,Rwanda,2.943940834191329,20,0.018234381134662924
+Infrastructure,Connectivity Technology,Saint Helena,1.1222013629400425,1,0.00034753835953547305
+Infrastructure,Connectivity Technology,Saint Kitts and Nevis,1.9861862100531535,6,0.0036906526046202913
+Infrastructure,Connectivity Technology,Saint Lucia,2.909397581055579,14,0.01261429734740728
+Infrastructure,Connectivity Technology,Saint Pierre and Miquelon,1.7136558927012682,1,0.0005307079258907612
+Infrastructure,Connectivity Technology,Saint Vincent and the Grenadines,2.947616945125858,16,0.014605720384643459
+Infrastructure,Connectivity Technology,Samoa,3.10210842029547,15,0.014410537722029125
+Infrastructure,Connectivity Technology,San Marino,3.7615776414977247,5,0.0058246789121983965
+Infrastructure,Connectivity Technology,Sao Tome and Principe,2.3476224556408694,7,0.005089302319444437
+Infrastructure,Connectivity Technology,Saudi Arabia,4.483992301591899,23,0.03193924525754527
+Infrastructure,Connectivity Technology,Senegal,2.7633323304772,21,0.01797150168473868
+Infrastructure,Connectivity Technology,Serbia,3.831455787774013,24,0.028477838001417254
+Infrastructure,Connectivity Technology,Seychelles,3.166335461054499,10,0.00980593205653298
+Infrastructure,Connectivity Technology,Sierra Leone,2.1942198735207805,20,0.013590708414498486
+Infrastructure,Connectivity Technology,Singapore,4.550287388857788,23,0.03241146173543794
+Infrastructure,Connectivity Technology,Sint Maarten (Dutch part),6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Slovak Republic,5.152227599900719,4,0.00638244360470823
+Infrastructure,Connectivity Technology,Slovakia,3.782504968813374,20,0.023428336753257194
+Infrastructure,Connectivity Technology,Slovenia,4.01599450016992,24,0.02984944812761786
 Infrastructure,Connectivity Technology,Small Island Developing States,3.542016806722689,1,0.0010969392402361998
-Infrastructure,Connectivity Technology,Small states,5.054010901938761,2,0.003130387675403382
-Infrastructure,Connectivity Technology,Solomon Islands,2.9106765594801334,14,0.012619842623946071
-Infrastructure,Connectivity Technology,Somalia,1.6376097293264607,10,0.005071569307297803
-Infrastructure,Connectivity Technology,South Africa,3.6466535231783626,22,0.0248455799039715
-Infrastructure,Connectivity Technology,South Asia,5.699758632476429,2,0.0035303553003880016
-Infrastructure,Connectivity Technology,South Asia (IDA & IBRD),5.699758632476429,2,0.0035303553003880016
-Infrastructure,Connectivity Technology,South Korea,5.37234803449883,4,0.006655122991017442
-Infrastructure,Connectivity Technology,South Sudan,1.6550555176565478,14,0.007175836868129969
-Infrastructure,Connectivity Technology,Spain,4.637930093675741,23,0.033035736189080844
-Infrastructure,Connectivity Technology,Sri Lanka,3.2974121767325237,24,0.024508483196525415
-Infrastructure,Connectivity Technology,St. Kitts and Nevis,5.916666666666667,3,0.00549705791266646
-Infrastructure,Connectivity Technology,St. Lucia,4.48383978969906,3,0.004165846816072214
-Infrastructure,Connectivity Technology,St. Martin (French part),6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,St. Vincent and the Grenadines,4.583333333333333,3,0.00425828429854444
+Infrastructure,Connectivity Technology,Small states,5.054010901938761,1,0.001565193837701691
+Infrastructure,Connectivity Technology,Solomon Islands,2.668427736192684,14,0.011569522547753971
+Infrastructure,Connectivity Technology,Somalia,1.4806847520400255,10,0.00458558300414997
+Infrastructure,Connectivity Technology,South & Central America,,0,
+Infrastructure,Connectivity Technology,South Africa,3.4719606455577705,22,0.0236553528034286
+Infrastructure,Connectivity Technology,South Asia,5.699758632476429,1,0.0017651776501940008
+Infrastructure,Connectivity Technology,South Asia (IDA & IBRD),5.699758632476429,1,0.0017651776501940008
+Infrastructure,Connectivity Technology,South Korea,4.6855929800586535,5,0.007255486187765025
+Infrastructure,Connectivity Technology,South Sudan,1.655367675776004,14,0.007177190294476326
+Infrastructure,Connectivity Technology,Spain,4.442762627073277,23,0.031645568418298346
+Infrastructure,Connectivity Technology,Sri Lanka,3.0917992838132586,24,0.022980236237695326
+Infrastructure,Connectivity Technology,St. Kitts and Nevis,5.875,2,0.0036388974914834315
+Infrastructure,Connectivity Technology,St. Lucia,3.7378798422742947,2,0.0023151934606839854
+Infrastructure,Connectivity Technology,St. Martin (French part),6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,St. Vincent and the Grenadines,3.875,2,0.0024001238773614124
 Infrastructure,Connectivity Technology,State of Palestine,2.0153225806451616,1,0.0006241321092118803
-Infrastructure,Connectivity Technology,Sub-Saharan Africa,2.906628584274199,3,0.002700491097188788
-Infrastructure,Connectivity Technology,Sub-Saharan Africa (IDA & IBRD countries),3.145657162125584,2,0.001948378545757562
-Infrastructure,Connectivity Technology,Sub-Saharan Africa (excluding high income),3.145405409501681,2,0.0019482226135036733
-Infrastructure,Connectivity Technology,Sudan,2.288329888939105,21,0.014882294105828803
-Infrastructure,Connectivity Technology,Suriname,3.3596130120788597,21,0.02184944975337753
+Infrastructure,Connectivity Technology,Sub-Saharan Africa,2.7871142953485064,2,0.001726301824310007
+Infrastructure,Connectivity Technology,Sub-Saharan Africa (IDA & IBRD countries),3.145657162125584,1,0.000974189272878781
+Infrastructure,Connectivity Technology,Sub-Saharan Africa (excluding high income),3.145405409501681,1,0.0009741113067518367
+Infrastructure,Connectivity Technology,Sudan,2.1697474276537636,21,0.014111085779104688
+Infrastructure,Connectivity Technology,Suriname,3.140402362989422,21,0.02042379982123811
 Infrastructure,Connectivity Technology,Swaziland,1.0547423539212186,2,0.0006532934988672769
-Infrastructure,Connectivity Technology,Sweden,4.619282126537452,24,0.03433346888724027
-Infrastructure,Connectivity Technology,Switzerland,5.022555167549212,23,0.03577540069793493
-Infrastructure,Connectivity Technology,Syria,1.2690544270726862,4,0.0015720711391423799
-Infrastructure,Connectivity Technology,Syrian Arab Republic,2.9318034237390744,9,0.008171641627021267
+Infrastructure,Connectivity Technology,Sweden,4.473267600980735,24,0.033248195238011036
+Infrastructure,Connectivity Technology,Switzerland,4.836000351156277,23,0.03444658038915899
+Infrastructure,Connectivity Technology,Syria,1.2330417405529346,5,0.0019093244666350798
+Infrastructure,Connectivity Technology,Syrian Arab Republic,2.6198052959365405,8,0.006490691349486629
 Infrastructure,Connectivity Technology,São Tomé and Principe,3.046413502109704,1,0.0009434541660296389
-Infrastructure,Connectivity Technology,Taiwan,3.372052174457197,4,0.004177209259160356
+Infrastructure,Connectivity Technology,Taiwan,3.0874123776952604,5,0.004780756236753268
 Infrastructure,Connectivity Technology,"Taiwan, China",4.544303797468354,1,0.001407340909714572
-Infrastructure,Connectivity Technology,Tajikistan,3.0940370079754786,19,0.018205854181336047
-Infrastructure,Connectivity Technology,Tanzania,2.3400292429793983,19,0.013769140791764809
+Infrastructure,Connectivity Technology,Tajikistan,2.842039676639922,19,0.0167230578681197
+Infrastructure,Connectivity Technology,Tanzania,2.253192746795243,19,0.013258179680740048
 Infrastructure,Connectivity Technology,"Tanzania, United Republic of",1.6165611814345993,1,0.0005006383342937749
-Infrastructure,Connectivity Technology,Thailand,4.244033785268166,24,0.0315443824237956
+Infrastructure,Connectivity Technology,Thailand,4.045587577117428,24,0.030069402864917393
 Infrastructure,Connectivity Technology,The Bahamas,1.8418132810316707,3,0.0017111922710111528
 Infrastructure,Connectivity Technology,The Gambia,1.1227736125986751,1,0.0003477155814799242
-Infrastructure,Connectivity Technology,Timor-Leste,3.3363318044367243,14,0.014465359325523116
-Infrastructure,Connectivity Technology,Togo,2.3056127062278016,19,0.01356662787808245
-Infrastructure,Connectivity Technology,Tonga,3.8098442551447573,13,0.015338487245859971
-Infrastructure,Connectivity Technology,Trinidad and Tobago,3.6328386810866586,22,0.024751455863705942
-Infrastructure,Connectivity Technology,Tunisia,3.5409625480485123,22,0.024125480352142233
-Infrastructure,Connectivity Technology,Turkey,3.8678275727126414,24,0.028748176446300216
-Infrastructure,Connectivity Technology,Turkmenistan,2.813037603950994,9,0.007840612708441917
-Infrastructure,Connectivity Technology,Turks and Caicos Islands,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Tuvalu,3.341025983394583,5,0.005173468540406601
-Infrastructure,Connectivity Technology,Uganda,2.5942331942553065,21,0.01687175505709552
-Infrastructure,Connectivity Technology,Ukraine,3.692843970013048,22,0.02516028719116973
-Infrastructure,Connectivity Technology,United Arab Emirates,5.1073722461176985,23,0.03637954836194087
-Infrastructure,Connectivity Technology,United Kingdom,4.629059803994787,23,0.03297255357444413
+Infrastructure,Connectivity Technology,Timor-Leste,3.153220813435385,13,0.012694911915348406
+Infrastructure,Connectivity Technology,Togo,2.176847109199983,19,0.012808948614059979
+Infrastructure,Connectivity Technology,Tonga,3.4355355110066648,13,0.013831514909596358
+Infrastructure,Connectivity Technology,Trinidad and Tobago,3.429461417042302,22,0.023365794727448326
+Infrastructure,Connectivity Technology,Tunisia,3.3205255174028583,22,0.022623586677876395
+Infrastructure,Connectivity Technology,Turkey,3.6722567055230573,24,0.027294568266507703
+Infrastructure,Connectivity Technology,Turkmenistan,2.2929279506405758,9,0.0063909419497569465
+Infrastructure,Connectivity Technology,Turks and Caicos Islands,3.7218919461809987,2,0.002305290768771136
+Infrastructure,Connectivity Technology,Tuvalu,2.6762824792432287,4,0.0033153081192235723
+Infrastructure,Connectivity Technology,Uganda,2.506430121228638,21,0.016300722374048126
+Infrastructure,Connectivity Technology,Ukraine,3.4785572530414255,22,0.023700297171542695
+Infrastructure,Connectivity Technology,United Arab Emirates,4.940888454944924,23,0.03519369292775883
+Infrastructure,Connectivity Technology,United Kingdom,4.429768370710336,23,0.031553011002272445
 Infrastructure,Connectivity Technology,United Kingdom of Great Britain and Northern Ireland,5.5975,1,0.0017335088262620006
 Infrastructure,Connectivity Technology,United Republic of Tanzania,2.215,1,0.000685970888820068
-Infrastructure,Connectivity Technology,United States,4.93830276640525,11,0.01682295770531364
+Infrastructure,Connectivity Technology,United States,4.584919667757305,11,0.01561911314503882
+Infrastructure,Connectivity Technology,United States Virgin Islands,1.482302922236152,1,0.00045905943705052706
 Infrastructure,Connectivity Technology,United States of America,5.028352531032665,10,0.015572476094867341
-Infrastructure,Connectivity Technology,Upper middle income,5.966627306886059,2,0.0036956502365351864
+Infrastructure,Connectivity Technology,Upper middle income,5.966627306886059,1,0.0018478251182675932
 Infrastructure,Connectivity Technology,Upper-middle-income Countries,4.413865546218487,1,0.0013669450437344339
-Infrastructure,Connectivity Technology,Uruguay,4.033250836057521,21,0.02623049475292906
-Infrastructure,Connectivity Technology,Uzbekistan,3.150340570411233,22,0.021464073257679503
-Infrastructure,Connectivity Technology,Vanuatu,2.993969380993489,17,0.015762613650321868
+Infrastructure,Connectivity Technology,Uruguay,3.8147616592409355,21,0.02480953696006802
+Infrastructure,Connectivity Technology,Uzbekistan,2.9304701749978794,22,0.019966040213674
+Infrastructure,Connectivity Technology,Vanuatu,2.812545980753204,17,0.014807457935213524
 Infrastructure,Connectivity Technology,Vatican,1.0,1,0.0003096934035305048
-Infrastructure,Connectivity Technology,Venezuela,2.7314395563343576,17,0.014380449816563666
-Infrastructure,Connectivity Technology,"Venezuela, RB",4.591024571854058,5,0.007109050126748309
+Infrastructure,Connectivity Technology,Venezuela,2.6505317776269504,18,0.014775339732822888
+Infrastructure,Connectivity Technology,"Venezuela, RB",4.2387807148175725,4,0.00525088970556528
 Infrastructure,Connectivity Technology,Viet Nam,3.8309883488210197,6,0.007118590923792542
-Infrastructure,Connectivity Technology,Vietnam,3.724337288653853,17,0.019607845743919324
-Infrastructure,Connectivity Technology,Virgin Islands (U.S.),6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,West Bank and Gaza,6.0,2,0.0037163208423660575
-Infrastructure,Connectivity Technology,Western Sahara,1.3684370837220192,2,0.0008475918759504609
-Infrastructure,Connectivity Technology,World,5.468480575571886,2,0.003387104723178622
-Infrastructure,Connectivity Technology,Yemen,2.405133573125838,13,0.009683102028688726
-Infrastructure,Connectivity Technology,"Yemen, Rep.",3.3588129265330164,4,0.004160808828161061
-Infrastructure,Connectivity Technology,Zambia,2.508659079136657,22,0.017092133707341733
-Infrastructure,Connectivity Technology,Zimbabwe,2.5686482055506135,23,0.018296348320738343
+Infrastructure,Connectivity Technology,Vietnam,3.44603198075318,17,0.01814262733750513
+Infrastructure,Connectivity Technology,Virgin Islands (U.S.),6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,West Bank and Gaza,6.0,1,0.0018581604211830288
+Infrastructure,Connectivity Technology,Western Africa,,0,
+Infrastructure,Connectivity Technology,Western Sahara,1.2456247224813461,3,0.0011572852794809658
+Infrastructure,Connectivity Technology,World,3.381955533567129,2,0.002094738639558457
+Infrastructure,Connectivity Technology,Yemen,2.3053085625406373,14,0.009995143968897157
+Infrastructure,Connectivity Technology,"Yemen, Rep.",2.9652749936061333,3,0.0027549783155213377
+Infrastructure,Connectivity Technology,Zambia,2.4240391844922344,22,0.016515596797407606
+Infrastructure,Connectivity Technology,Zimbabwe,2.4909138938165896,23,0.017742650838582088
 Infrastructure,Culture,AE,1.0000518478554252,3229,1.0000518478554252
 Infrastructure,Culture,AG,1.0009223108881928,3229,1.0009223108881928
 Infrastructure,Culture,AL,1.0000420685785487,3229,1.0000420685785487
@@ -668,17 +699,17 @@ Infrastructure,Culture,AT,1.000060776711115,3229,1.000060776711115
 Infrastructure,Culture,AU,1.0001441070905743,3229,1.0001441070905743
 Infrastructure,Culture,AW,1.0002032068212003,3229,1.0002032068212003
 Infrastructure,Culture,AZ,1.0000093644657873,3229,1.0000093644657873
-Infrastructure,Culture,Afghanistan,1.2659574468085109,2,0.0007841173408538315
-Infrastructure,Culture,Albania,4.252611836005703,2,0.0026340116667734298
-Infrastructure,Culture,Algeria,4.247867721578197,2,0.002631073224885845
-Infrastructure,Culture,Andorra,5.069148936170213,1,0.0015698819870455908
-Infrastructure,Culture,Angola,2.9621844249780658,2,0.0018347379529130169
-Infrastructure,Culture,Antigua and Barbuda,3.952127659574468,1,0.001223947866080665
-Infrastructure,Culture,Argentina,4.428336638133405,3,0.004114279936327102
-Infrastructure,Culture,Armenia,2.682084549106164,2,0.0016612477851385343
-Infrastructure,Culture,Australia,5.420701883101002,3,0.0050362668471052975
-Infrastructure,Culture,Austria,4.9381701896160815,4,0.00611727493294033
-Infrastructure,Culture,Azerbaijan,2.920426068238649,2,0.0018088733776640748
+Infrastructure,Culture,Afghanistan,1.519538188277087,2,0.0009411819066442162
+Infrastructure,Culture,Albania,4.43750658677098,2,0.0027485330360922764
+Infrastructure,Culture,Algeria,4.51661228905486,2,0.0027975300644502077
+Infrastructure,Culture,Andorra,5.209591474245116,1,0.00161337611466247
+Infrastructure,Culture,Angola,3.2473446607968173,2,0.002011362440877558
+Infrastructure,Culture,Antigua and Barbuda,4.410301953818828,1,0.001365841422675388
+Infrastructure,Culture,Argentina,4.495715673947118,3,0.004176880465110361
+Infrastructure,Culture,Armenia,2.9421843185782173,2,0.0018223501508691342
+Infrastructure,Culture,Australia,5.444274310446907,3,0.005058167522867985
+Infrastructure,Culture,Austria,4.97349340113492,4,0.006161032395335919
+Infrastructure,Culture,Azerbaijan,3.184800997379649,2,0.0019726237208917
 Infrastructure,Culture,BA,1.0000456826185027,3229,1.0000456826185027
 Infrastructure,Culture,BB,1.0002937274685506,3229,1.0002937274685506
 Infrastructure,Culture,BD,1.0000109925410463,3229,1.0000109925410463
@@ -696,24 +727,24 @@ Infrastructure,Culture,BT,1.0000283813425501,3229,1.0000283813425501
 Infrastructure,Culture,BW,1.0000355871400146,3229,1.0000355871400146
 Infrastructure,Culture,BY,1.0000263619619314,3229,1.0000263619619314
 Infrastructure,Culture,BZ,1.0004486875321927,3229,1.0004486875321927
-Infrastructure,Culture,Bahamas,5.242021276595745,2,0.003246838821056516
-Infrastructure,Culture,Bahrain,4.899463466259047,2,0.0030346630326782576
-Infrastructure,Culture,Bangladesh,2.9714497379195004,2,0.001840476765512233
-Infrastructure,Culture,Barbados,5.242021276595745,2,0.003246838821056516
-Infrastructure,Culture,Belarus,4.3186509687102435,2,0.002674915434320374
-Infrastructure,Culture,Belgium,4.9683713111099035,3,0.004616015464022827
-Infrastructure,Culture,Belize,3.7773360386049575,2,0.002339632108148007
-Infrastructure,Culture,Benin,2.0946811221923665,2,0.0012974178520857023
-Infrastructure,Culture,Bhutan,2.7943495265080056,2,0.0017307832310362375
+Infrastructure,Culture,Bahamas,5.365008880994671,2,0.0033230157206532497
+Infrastructure,Culture,Bahrain,4.978424011967826,2,0.0030835701529686134
+Infrastructure,Culture,Bangladesh,3.2836072527526508,2,0.002033823011924838
+Infrastructure,Culture,Barbados,5.365008880994671,2,0.0033230157206532497
+Infrastructure,Culture,Belarus,4.415113687428357,2,0.0027346631696676103
+Infrastructure,Culture,Belgium,5.006650917574764,3,0.004651580288858561
+Infrastructure,Culture,Belize,4.156644265807255,2,0.0025745706198868103
+Infrastructure,Culture,Benin,2.3529621773301166,2,0.001457393730151822
+Infrastructure,Culture,Bhutan,3.15100649336489,2,0.0019516918509537874
 Infrastructure,Culture,Bolivia,5.470324172164949,1,0.001694123311292954
-Infrastructure,Culture,Bolivia (Plurinational State of),3.1808510638297878,1,0.000985088592081074
-Infrastructure,Culture,Bosnia and Herzegovina,4.090779636592455,2,0.0025337749374991976
-Infrastructure,Culture,Botswana,2.905160122833955,2,0.0017994178524830939
-Infrastructure,Culture,Brazil,3.84734056363641,3,0.0035744879810805912
-Infrastructure,Culture,Brunei Darussalam,4.573763458938363,2,0.0028329287450841517
-Infrastructure,Culture,Bulgaria,4.2486156393178325,2,0.002631536475266542
-Infrastructure,Culture,Burkina Faso,1.493333122620092,2,0.000924950834698106
-Infrastructure,Culture,Burundi,1.149532860908094,2,0.0007120054883295719
+Infrastructure,Culture,Bolivia (Plurinational State of),3.877442273534636,1,0.001200818294684
+Infrastructure,Culture,Bosnia and Herzegovina,4.26225841668391,2,0.002639986631578761
+Infrastructure,Culture,Botswana,3.2358590760103274,2,0.0020042484211894255
+Infrastructure,Culture,Brazil,4.014772507503484,3,0.0037300456867483595
+Infrastructure,Culture,Brunei Darussalam,4.657046403649447,2,0.002884513102291389
+Infrastructure,Culture,Bulgaria,4.353888493707311,2,0.00269674109241704
+Infrastructure,Culture,Burkina Faso,1.657796861707806,2,0.0010268175049289602
+Infrastructure,Culture,Burundi,1.2695207676387539,2,0.0007863244147654097
 Infrastructure,Culture,CA,1.000274515830253,3229,1.000274515830253
 Infrastructure,Culture,CD,1.0000413270145971,3229,1.0000413270145971
 Infrastructure,Culture,CF,1.0000267301780952,3229,1.0000267301780952
@@ -728,56 +759,56 @@ Infrastructure,Culture,CV,1.0002167462606713,3229,1.0002167462606713
 Infrastructure,Culture,CW,1.0001614841051458,3229,1.0001614841051458
 Infrastructure,Culture,CY,1.0000571702307812,3229,1.0000571702307812
 Infrastructure,Culture,CZ,1.00003410949678,3229,1.00003410949678
-Infrastructure,Culture,Cabo Verde,3.89514801028186,2,0.0024126032891185257
-Infrastructure,Culture,Cambodia,2.062321781092345,2,0.001277374903123162
-Infrastructure,Culture,Cameroon,2.638738136729546,2,0.0016343995891790312
-Infrastructure,Culture,Canada,5.349779897285399,3,0.0049703746335881685
-Infrastructure,Culture,Central African Republic,1.5654992416703224,2,0.0009696495767546128
-Infrastructure,Culture,Chad,1.2314752201963153,2,0.0007627595046121494
-Infrastructure,Culture,Chile,5.176651447784602,2,0.0032063496115110573
-Infrastructure,Culture,China,4.699861806284987,3,0.00436654859673427
-Infrastructure,Culture,Colombia,3.429824369445054,3,0.003186581947455919
-Infrastructure,Culture,Comoros,1.904200683110331,2,0.0011794367811151013
-Infrastructure,Culture,Congo,2.7136372199056815,2,0.0016807910931592948
-Infrastructure,Culture,Congo (Democratic Republic of the),1.372340425531915,1,0.00042500477718547997
+Infrastructure,Culture,Cabo Verde,4.260756830810185,2,0.0026390565690989068
+Infrastructure,Culture,Cambodia,2.3520169929135157,2,0.0014568082953939398
+Infrastructure,Culture,Cameroon,2.9104587822077965,2,0.0018026997721943615
+Infrastructure,Culture,Canada,5.399869337089892,3,0.005016911740870138
+Infrastructure,Culture,Central African Republic,1.5655228613370016,2,0.0009696642064645411
+Infrastructure,Culture,Chad,1.2226414648582704,2,0.0007572879930989597
+Infrastructure,Culture,Chile,5.264469368498105,2,0.0032607428730245308
+Infrastructure,Culture,China,4.864317672150475,3,0.004519341287225588
+Infrastructure,Culture,Colombia,3.594311728199447,3,0.0033394038973670924
+Infrastructure,Culture,Comoros,2.1758504695885446,2,0.001347693075000647
+Infrastructure,Culture,Congo,2.9810118467149476,2,0.001846399409547815
+Infrastructure,Culture,Congo (Democratic Republic of the),1.7637655417406748,1,0.0005462265536514941
 Infrastructure,Culture,"Congo, Democratic Republic",2.885876999484537,1,0.0008937370701407671
-Infrastructure,Culture,Costa Rica,4.923991873316517,2,0.003049855604407877
+Infrastructure,Culture,Costa Rica,5.08240897773434,2,0.0031479770688970826
 Infrastructure,Culture,Cote d'Ivoire,3.3200294649484534,1,0.0010281912248214474
-Infrastructure,Culture,Croatia,4.48971580680522,2,0.00278087073818843
-Infrastructure,Culture,Cuba,4.164893617021277,1,0.001289840079597794
-Infrastructure,Culture,Cyprus,5.044634557013599,2,0.003124580091058284
+Infrastructure,Culture,Croatia,4.577533727518723,2,0.0028352639997019035
+Infrastructure,Culture,Cuba,4.454706927175844,1,0.0013795933500080038
+Infrastructure,Culture,Cyprus,5.159331658408105,2,0.0031956219624701796
 Infrastructure,Culture,Czech Republic,3.781268525885319,1,0.001171033919444199
-Infrastructure,Culture,Czechia,5.029071663221101,2,0.003114940639963519
-Infrastructure,Culture,Côte d'Ivoire,1.7180851063829785,1,0.000532079624150814
+Infrastructure,Culture,Czechia,5.121707995937175,2,0.003172318362302369
+Infrastructure,Culture,Côte d'Ivoire,2.2788632326820606,1,0.0007057489107098361
 Infrastructure,Culture,DE,1.0000813948374925,3229,1.0000813948374925
 Infrastructure,Culture,DJ,1.000074972373875,3229,1.000074972373875
 Infrastructure,Culture,DK,1.0000748213069814,3229,1.0000748213069814
 Infrastructure,Culture,DO,1.0003494254401186,3229,1.0003494254401186
 Infrastructure,Culture,DZ,1.0000118547150953,3229,1.0000118547150953
-Infrastructure,Culture,Denmark,5.486758697586938,4,0.006796851901625193
-Infrastructure,Culture,Djibouti,1.6117021276595749,1,0.0004991335173922498
-Infrastructure,Culture,Dominica,3.526595744680851,1,0.001092163439046408
-Infrastructure,Culture,Dominican Republic,4.578247192465453,2,0.002835705910477208
+Infrastructure,Culture,Denmark,5.5088548957653884,4,0.006824224088901069
+Infrastructure,Culture,Djibouti,2.154529307282416,1,0.0006672435141785122
+Infrastructure,Culture,Dominica,4.090586145648313,1,0.0012668275458805553
+Infrastructure,Culture,Dominican Republic,4.842622121606453,2,0.0029994562537048334
 Infrastructure,Culture,EC,1.0000568987194731,3229,1.0000568987194731
 Infrastructure,Culture,EE,1.0000420069727876,3229,1.0000420069727876
 Infrastructure,Culture,EG,1.0000124854846826,3229,1.0000124854846826
 Infrastructure,Culture,ES,1.0000529136606326,3229,1.0000529136606326
 Infrastructure,Culture,ET,1.000050936641427,3229,1.000050936641427
-Infrastructure,Culture,Ecuador,4.604842937146304,2,0.0028521789638564906
-Infrastructure,Culture,Egypt,3.9154209130675586,2,0.0024251600576448177
-Infrastructure,Culture,El Salvador,4.099523788210134,2,0.0025391909496501296
-Infrastructure,Culture,Equatorial Guinea,2.170212765957446,1,0.0006721005778747123
-Infrastructure,Culture,Eritrea,1.2393617021276595,1,0.00038382214373727455
-Infrastructure,Culture,Estonia,5.100398503503746,4,0.006318239087647873
+Infrastructure,Culture,Ecuador,4.855943613613558,2,0.0030077074101044028
+Infrastructure,Culture,Egypt,4.334551898291094,2,0.0026847642603227586
+Infrastructure,Culture,El Salvador,4.474060842743221,2,0.002771174259983413
+Infrastructure,Culture,Equatorial Guinea,2.7584369449378325,1,0.000854269725902085
+Infrastructure,Culture,Eritrea,1.5772646536412078,1,0.0004884684588545085
+Infrastructure,Culture,Estonia,5.142252552859401,4,0.00637008677963382
 Infrastructure,Culture,Eswatini,1.1030927835051547,1,0.0003416205585336496
-Infrastructure,Culture,Eswatini (Kingdom of),2.3563829787234045,1,0.0007297562647022002
-Infrastructure,Culture,Ethiopia,2.3667182708488705,2,0.0014659140729940355
+Infrastructure,Culture,Eswatini (Kingdom of),2.927175843694494,1,0.0009065270497660247
+Infrastructure,Culture,Ethiopia,2.5580375709509076,2,0.0015844147234133834
 Infrastructure,Culture,FI,1.0000503682518334,3229,1.0000503682518334
 Infrastructure,Culture,FJ,1.000099474180958,3229,1.000099474180958
 Infrastructure,Culture,FR,1.000032372872441,3229,1.000032372872441
-Infrastructure,Culture,Fiji,2.939197844938583,2,0.0018205003684971094
-Infrastructure,Culture,Finland,5.389870710957305,3,0.005007622215197248
-Infrastructure,Culture,France,5.037610602184303,4,0.006240459092207251
+Infrastructure,Culture,Fiji,3.21233567041759,2,0.0019896783341081387
+Infrastructure,Culture,Finland,5.422276893641256,3,0.005037730158229721
+Infrastructure,Culture,France,5.079500081039978,4,0.006292350673322983
 Infrastructure,Culture,GA,1.0000263487844787,3229,1.0000263487844787
 Infrastructure,Culture,GB,1.0001171972670735,3229,1.0001171972670735
 Infrastructure,Culture,GD,1.0004360443996336,3229,1.0004360443996336
@@ -793,49 +824,49 @@ Infrastructure,Culture,GT,1.000353484100693,3229,1.000353484100693
 Infrastructure,Culture,GU,1.004731923250319,3229,1.004731923250319
 Infrastructure,Culture,GW,1.0000201384128407,3229,1.0000201384128407
 Infrastructure,Culture,GY,1.0002924479563156,3229,1.0002924479563156
-Infrastructure,Culture,Gabon,3.1776962697576225,2,0.0019682231463348542
-Infrastructure,Culture,Gambia,1.226063829787234,2,0.000759407760784908
-Infrastructure,Culture,Georgia,3.0147784531311688,2,0.0018673140000812442
-Infrastructure,Culture,Germany,4.632360150396755,4,0.0057384455254218085
-Infrastructure,Culture,Ghana,3.3276760254441764,2,0.002061118628333339
-Infrastructure,Culture,Greece,4.519905570460916,3,0.004199354819257587
-Infrastructure,Culture,Grenada,4.058510638297872,1,0.0012568939728392296
-Infrastructure,Culture,Guatemala,4.059630171188857,2,0.002514481369581206
-Infrastructure,Culture,Guinea,1.5899398488374645,2,0.0009847877663905014
-Infrastructure,Culture,Guinea-Bissau,1.4344649251370916,2,0.0008884886498216732
-Infrastructure,Culture,Guyana,4.39095744680851,2,0.002719701112919486
+Infrastructure,Culture,Gabon,3.618958882659629,2,0.0022415353872156265
+Infrastructure,Culture,Gambia,1.4529307282415629,2,0.0008999261246463691
+Infrastructure,Culture,Georgia,3.1687786798799698,2,0.0019626997088138553
+Infrastructure,Culture,Germany,4.643402344569311,4,0.005752124304204783
+Infrastructure,Culture,Ghana,3.613072457929721,2,0.002237889413397164
+Infrastructure,Culture,Greece,4.5904653880541035,3,0.0042649105494463645
+Infrastructure,Culture,Grenada,4.419182948490231,1,0.0013685918081419112
+Infrastructure,Culture,Guatemala,4.429655869386204,2,0.0027436704053181815
+Infrastructure,Culture,Guinea,1.8122245319560162,2,0.0011224679665258694
+Infrastructure,Culture,Guinea-Bissau,1.6301774832414715,2,0.0010097104262876875
+Infrastructure,Culture,Guyana,4.778863232682061,2,0.002959964839072196
 Infrastructure,Culture,HK,1.0000390879963246,3229,1.0000390879963246
 Infrastructure,Culture,HN,1.000497449086904,3229,1.000497449086904
 Infrastructure,Culture,HR,1.0000423800975948,3229,1.0000423800975948
 Infrastructure,Culture,HT,1.0002533058147494,3229,1.0002533058147494
 Infrastructure,Culture,HU,1.0000296701657134,3229,1.0000296701657134
-Infrastructure,Culture,Haiti,2.0870600072000434,2,0.0012926974340043626
-Infrastructure,Culture,Honduras,3.9931408094867296,2,0.0024732987361330006
+Infrastructure,Culture,Haiti,2.349498123673344,2,0.0014552481410178657
+Infrastructure,Culture,Honduras,4.300881446650858,2,0.0026639092267890106
 Infrastructure,Culture,Hong Kong,6.0,1,0.0018581604211830288
-Infrastructure,Culture,"Hong Kong, China (SAR)",5.920212765957447,1,0.0018334508411141056
-Infrastructure,Culture,Hungary,4.443209645922772,3,0.004128098153536177
+Infrastructure,Culture,"Hong Kong, China (SAR)",5.928952042628774,1,0.0018361573374508437
+Infrastructure,Culture,Hungary,4.4840401763889925,3,0.0041660329913802965
 Infrastructure,Culture,ID,1.0000127197909692,3229,1.0000127197909692
 Infrastructure,Culture,IE,1.0001248116353079,3229,1.0001248116353079
 Infrastructure,Culture,IM,1.0000987357743303,3229,1.0000987357743303
 Infrastructure,Culture,IN,1.000010321963468,3229,1.000010321963468
 Infrastructure,Culture,IS,1.0001415934361906,3229,1.0001415934361906
 Infrastructure,Culture,IT,1.0000493215144484,3229,1.0000493215144484
-Infrastructure,Culture,Iceland,5.633647901279862,3,0.005234110778519537
-Infrastructure,Culture,India,3.804028931489858,3,0.0035342480007648108
-Infrastructure,Culture,Indonesia,3.7686471042564116,3,0.0035013754452676476
+Infrastructure,Culture,Iceland,5.636560993503639,3,0.005236817274856276
+Infrastructure,Culture,India,4.032887755167471,3,0.003746876204862934
+Infrastructure,Culture,Indonesia,4.000844174158028,3,0.0037171051478705744
 Infrastructure,Culture,Iran,3.5256145123711344,1,0.0010918595578727577
-Infrastructure,Culture,Iran (Islamic Republic of),4.164893617021277,1,0.001289840079597794
-Infrastructure,Culture,Iraq,3.8223358066845794,2,0.00236750437081733
-Infrastructure,Culture,Ireland,5.394444315205583,3,0.005011871460395401
-Infrastructure,Culture,Israel,4.745988887103154,3,0.004409404354694785
-Infrastructure,Culture,Italy,4.117505929417782,3,0.0038254932760152824
+Infrastructure,Culture,Iran (Islamic Republic of),4.454706927175844,1,0.0013795933500080038
+Infrastructure,Culture,Iraq,4.188015486212942,2,0.002594001539927496
+Infrastructure,Culture,Ireland,5.397388900318266,3,0.005014607216151996
+Infrastructure,Culture,Israel,4.793070756017154,3,0.004453147187380446
+Infrastructure,Culture,Italy,4.173311328558657,3,0.0038773409680012295
 Infrastructure,Culture,JE,1.0000858520425124,3229,1.0000858520425124
 Infrastructure,Culture,JM,1.0008512393675266,3229,1.0008512393675266
 Infrastructure,Culture,JO,1.000030684393033,3229,1.000030684393033
 Infrastructure,Culture,JP,1.0000456141530354,3229,1.0000456141530354
-Infrastructure,Culture,Jamaica,4.670212765957447,2,0.002892668173401949
-Infrastructure,Culture,Japan,3.979876024698399,3,0.0036976240551549076
-Infrastructure,Culture,Jordan,4.101591125833515,2,0.0025404714312997926
+Infrastructure,Culture,Jamaica,5.0097690941385435,2,0.003102984883331399
+Infrastructure,Culture,Japan,4.026957893612399,3,0.0037413668878405683
+Infrastructure,Culture,Jordan,4.43224283967653,2,0.002745272740586268
 Infrastructure,Culture,KE,1.0000679111211566,3229,1.0000679111211566
 Infrastructure,Culture,KG,1.000010951577898,3229,1.000010951577898
 Infrastructure,Culture,KH,1.0000232440399737,3229,1.0000232440399737
@@ -845,13 +876,13 @@ Infrastructure,Culture,KR,1.0000436648575874,3229,1.0000436648575874
 Infrastructure,Culture,KW,1.0000628472453388,3229,1.0000628472453388
 Infrastructure,Culture,KY,1.0006892500394018,3229,1.0006892500394018
 Infrastructure,Culture,KZ,1.000008667174056,3229,1.000008667174056
-Infrastructure,Culture,Kazakhstan,4.003737017419714,3,0.0037197928312973495
-Infrastructure,Culture,Kenya,3.1357353506236243,3,0.002913349659916653
-Infrastructure,Culture,Kiribati,2.462765957446809,1,0.0007627023714607646
-Infrastructure,Culture,Korea (Republic of),5.414893617021276,1,0.0016769568340109246
+Infrastructure,Culture,Kazakhstan,4.056235663225491,3,0.0037685682841983497
+Infrastructure,Culture,Kenya,3.340722564510729,3,0.0031037992237634517
+Infrastructure,Culture,Kiribati,3.095914742451155,1,0.0009587843736299643
+Infrastructure,Culture,Korea (Republic of),5.6358792184724695,1,0.0017453946170555804
 Infrastructure,Culture,"Korea, South",4.999579911340207,1,0.001548336918965688
-Infrastructure,Culture,Kuwait,4.606910274769685,2,0.0028534594455061537
-Infrastructure,Culture,Kyrgyzstan,2.3323477889120423,2,0.0014446254499300354
+Infrastructure,Culture,Kuwait,4.774161134525553,2,0.0029570524215085494
+Infrastructure,Culture,Kyrgyzstan,2.7602652901402642,2,0.0017096719047013094
 Infrastructure,Culture,LA,1.0000437754800684,3229,1.0000437754800684
 Infrastructure,Culture,LB,1.0000347472592463,3229,1.0000347472592463
 Infrastructure,Culture,LC,1.0005895044044293,3229,1.0005895044044293
@@ -862,16 +893,16 @@ Infrastructure,Culture,LT,1.0000290820858169,3229,1.0000290820858169
 Infrastructure,Culture,LU,1.0000701984454088,3229,1.0000701984454088
 Infrastructure,Culture,LV,1.000036245548193,3229,1.000036245548193
 Infrastructure,Culture,LY,1.0000077490585386,3229,1.0000077490585386
-Infrastructure,Culture,Lao People's Democratic Republic,2.382978723404255,1,0.0007379927913918412
+Infrastructure,Culture,Lao People's Democratic Republic,2.9449378330373,1,0.0009120278206990709
 Infrastructure,Culture,Laos,2.9947573082474226,1,0.0009274565835389974
-Infrastructure,Culture,Latvia,4.526765902223027,3,0.004205728617735857
-Infrastructure,Culture,Lebanon,4.234569849237771,2,0.002622836698196204
-Infrastructure,Culture,Lesotho,1.8346128536959858,2,0.0011363349976438438
-Infrastructure,Culture,Liberia,2.603695985961834,2,0.0016126949433024676
-Infrastructure,Culture,Libya,4.061697508812239,2,0.0025157618512308697
-Infrastructure,Culture,Liechtenstein,5.5212765957446805,1,0.0017099029407694891
-Infrastructure,Culture,Lithuania,4.278995364855207,3,0.003975529914699789
-Infrastructure,Culture,Luxembourg,5.004006827443626,3,0.0046491237170427
+Infrastructure,Culture,Latvia,4.576524666694009,3,0.00425195850110933
+Infrastructure,Culture,Lebanon,4.498850299712054,2,0.0027865285225841152
+Infrastructure,Culture,Lesotho,2.1060500631740857,2,0.0013044596241400346
+Infrastructure,Culture,Liberia,2.799408544066214,2,0.0017339167197684819
+Infrastructure,Culture,Libya,4.410040352998022,2,0.0027315208132536527
+Infrastructure,Culture,Liechtenstein,5.662522202486679,1,0.0017536457734551498
+Infrastructure,Culture,Lithuania,4.349523689559489,3,0.004041056385468711
+Infrastructure,Culture,Luxembourg,5.077668694594023,3,0.004717561500087355
 Infrastructure,Culture,MA,1.0000222524868605,3229,1.0000222524868605
 Infrastructure,Culture,MD,1.000030756687858,3229,1.000030756687858
 Infrastructure,Culture,ME,1.00008533121873,3229,1.00008533121873
@@ -890,24 +921,24 @@ Infrastructure,Culture,MW,1.0000353581759402,3229,1.0000353581759402
 Infrastructure,Culture,MX,1.0002604101148458,3229,1.0002604101148458
 Infrastructure,Culture,MY,1.0000172610158111,3229,1.0000172610158111
 Infrastructure,Culture,MZ,1.0000173058996789,3229,1.0000173058996789
-Infrastructure,Culture,Madagascar,1.6892795881498137,2,0.0010463174903374505
-Infrastructure,Culture,Malawi,1.2252412809826714,2,0.0007588982849071981
-Infrastructure,Culture,Malaysia,4.03497086224814,3,0.003748811578428126
-Infrastructure,Culture,Maldives,3.246477186082474,2,0.0020108251384840345
-Infrastructure,Culture,Mali,1.3581992861866636,2,0.0008412507192237
-Infrastructure,Culture,Malta,5.177039921035314,2,0.0032065902267174448
-Infrastructure,Culture,Marshall Islands,2.914893617021276,1,0.0009027233251846627
-Infrastructure,Culture,Mauritania,2.318770316697741,2,0.0014362157427672598
-Infrastructure,Culture,Mauritius,4.142974825965124,2,0.0025661039491886796
-Infrastructure,Culture,Mexico,3.977211978636223,3,0.003695148942678436
-Infrastructure,Culture,Micronesia (Federated States of),2.409574468085106,1,0.0007462293180814821
+Infrastructure,Culture,Madagascar,1.9518594226231896,2,0.001208955975610523
+Infrastructure,Culture,Malawi,1.4209774587537307,2,0.0008801346910831407
+Infrastructure,Culture,Malaysia,4.1405822651933555,3,0.0038469330429173323
+Infrastructure,Culture,Maldives,3.532889264235227,2,0.002188225001074777
+Infrastructure,Culture,Mali,1.4693298179126,2,0.0009100835044364199
+Infrastructure,Culture,Malta,5.260771639413305,2,0.0032584525484133198
+Infrastructure,Culture,Marshall Islands,3.753108348134991,1,0.0011623128981526761
+Infrastructure,Culture,Mauritania,2.568193996830767,2,0.0015907054796102614
+Infrastructure,Culture,Mauritius,4.327940435730439,2,0.002680669207637311
+Infrastructure,Culture,Mexico,4.097436082033677,3,0.003806846777981118
+Infrastructure,Culture,Micronesia (Federated States of),3.0071047957371224,1,0.0009312805189647329
 Infrastructure,Culture,Moldova,4.64771262886598,1,0.0014393659426652152
-Infrastructure,Culture,Moldova (Republic of),3.632978723404255,1,0.0011251095458049722
-Infrastructure,Culture,Mongolia,2.6288697255867515,2,0.0016282872255105304
-Infrastructure,Culture,Montenegro,4.423226445103093,2,0.0027396881047402244
-Infrastructure,Culture,Morocco,3.2441152871171837,3,0.003014043314137984
-Infrastructure,Culture,Mozambique,1.9469851454759812,2,0.0012059369126515833
-Infrastructure,Culture,Myanmar,3.1207535395865325,2,0.0019329535705088464
+Infrastructure,Culture,Moldova (Republic of),4.161634103019538,1,0.0012888306296127401
+Infrastructure,Culture,Mongolia,2.955151801094102,2,0.0018303820384602675
+Infrastructure,Culture,Montenegro,4.479842786133288,2,0.0027747555194383945
+Infrastructure,Culture,Morocco,3.505695222367804,3,0.003257072055467145
+Infrastructure,Culture,Mozambique,2.115913001566076,2,0.0013105685980588889
+Infrastructure,Culture,Myanmar,3.401496897736262,2,0.002106842302716793
 Infrastructure,Culture,NC,1.0000193599752436,3229,1.0000193599752436
 Infrastructure,Culture,NE,1.0000273050960313,3229,1.0000273050960313
 Infrastructure,Culture,NG,1.0000845402664207,3229,1.0000845402664207
@@ -916,17 +947,17 @@ Infrastructure,Culture,NL,1.000069241553182,3229,1.000069241553182
 Infrastructure,Culture,NO,1.0000934114277784,3229,1.0000934114277784
 Infrastructure,Culture,NP,1.0000331429637983,3229,1.0000331429637983
 Infrastructure,Culture,NZ,1.000175268128078,3229,1.000175268128078
-Infrastructure,Culture,Namibia,2.042306426847993,2,0.0012649776567655578
-Infrastructure,Culture,Nepal,2.2177835051546393,2,0.0013736658440103061
-Infrastructure,Culture,Netherlands,5.312737901350208,4,0.006581279530938629
-Infrastructure,Culture,New Zealand,5.597395451210564,3,0.0052004293445746955
-Infrastructure,Culture,Nicaragua,4.046332298848432,2,0.002506244842891565
+Infrastructure,Culture,Namibia,2.3767372873596893,2,0.001472119719640563
+Infrastructure,Culture,Nepal,2.5164069509805715,2,0.0015586292666339868
+Infrastructure,Culture,Netherlands,5.330417221859637,4,0.006603180206701315
+Infrastructure,Culture,New Zealand,5.635675057675425,3,0.005235994169410429
+Infrastructure,Culture,Nicaragua,4.4163343773790995,2,0.002735419248918612
 Infrastructure,Culture,Niger,1.204879475515464,2,0.0007462864512328671
-Infrastructure,Culture,Nigeria,2.6610001211504715,2,0.0016481883686283502
-Infrastructure,Culture,North Macedonia,2.772562246868831,2,0.0017172884774659838
+Infrastructure,Culture,Nigeria,2.9325318092952886,2,0.0018163715139642542
+Infrastructure,Culture,North Macedonia,3.0370788940099063,2,0.0018811265989531782
 Infrastructure,Culture,Norway,5.156965727236715,4,0.006388313071832412
 Infrastructure,Culture,OM,1.0000212470625787,3229,1.0000212470625787
-Infrastructure,Culture,Oman,4.660101764131388,2,0.0028864055522647186
+Infrastructure,Culture,Oman,4.8052446158754645,2,0.0029763051197742112
 Infrastructure,Culture,PA,1.0000889473893702,3229,1.0000889473893702
 Infrastructure,Culture,PE,1.0000358943837455,3229,1.0000358943837455
 Infrastructure,Culture,PF,1.0000479299520464,3229,1.0000479299520464
@@ -938,26 +969,26 @@ Infrastructure,Culture,PR,1.0197605588723473,3229,1.0197605588723473
 Infrastructure,Culture,PS,1.0000322150588745,3229,1.0000322150588745
 Infrastructure,Culture,PT,1.0000458855482,3229,1.0000458855482
 Infrastructure,Culture,PY,1.0000457308656394,3229,1.0000457308656394
-Infrastructure,Culture,Pakistan,2.6444702948014918,2,0.0016379500122647827
-Infrastructure,Culture,Palau,4.696808510638298,1,0.0014545706133906155
-Infrastructure,Culture,"Palestine, State of",2.968085106382979,1,0.0009191963785639452
-Infrastructure,Culture,Panama,4.9904812350186445,2,0.003091038237856082
-Infrastructure,Culture,Papua New Guinea,3.33357095854354,2,0.0020647698721235922
-Infrastructure,Culture,Paraguay,4.37877910735907,2,0.002712158010132592
-Infrastructure,Culture,Peru,4.6979280435292825,2,0.002909834650683978
-Infrastructure,Culture,Philippines,3.4821781092344812,2,0.002156815180696489
-Infrastructure,Culture,Poland,4.131464880601763,4,0.005117949681761243
-Infrastructure,Culture,Portugal,4.387606146533971,3,0.004076438042614404
+Infrastructure,Culture,Pakistan,2.9028458286059586,2,0.0017979844091706154
+Infrastructure,Culture,Palau,4.836589698046181,1,0.0014978599250684982
+Infrastructure,Culture,"Palestine, State of",3.788632326820604,1,0.0011733144400187688
+Infrastructure,Culture,Panama,5.104611464412847,2,0.0031617289962296976
+Infrastructure,Culture,Papua New Guinea,3.5963633700170297,2,0.00222754002478602
+Infrastructure,Culture,Paraguay,4.718288196206808,2,0.0029224454606421855
+Infrastructure,Culture,Peru,4.935872565656187,2,0.003057214348501819
+Infrastructure,Culture,Philippines,3.8304737140869056,2,0.002372544883299415
+Infrastructure,Culture,Poland,4.186569562964486,4,0.005186211908286759
+Infrastructure,Culture,Portugal,4.440309496117635,3,0.004125403681744473
 Infrastructure,Culture,QA,1.0000518811133994,3229,1.0000518811133994
-Infrastructure,Culture,Qatar,4.933199822863494,3,0.004583338330316036
+Infrastructure,Culture,Qatar,5.00059460512166,3,0.004645953488809223
 Infrastructure,Culture,RE,1.0000111684871622,3229,1.0000111684871622
 Infrastructure,Culture,RO,1.0000332964013976,3229,1.0000332964013976
 Infrastructure,Culture,RS,1.000062522908083,3229,1.000062522908083
 Infrastructure,Culture,RW,1.000063314549461,3229,1.000063314549461
-Infrastructure,Culture,Romania,4.685558442092565,2,0.002902173082745472
+Infrastructure,Culture,Romania,4.751032158127484,2,0.0029427266386667598
 Infrastructure,Culture,Russia,4.39080459770115,1,0.0013598032200994581
-Infrastructure,Culture,Russian Federation,4.861102212700153,2,0.0030109025783215566
-Infrastructure,Culture,Rwanda,2.0299681947795567,2,0.0012573355185999111
+Infrastructure,Culture,Russian Federation,4.9487075564135425,2,0.003065164172445675
+Infrastructure,Culture,Rwanda,2.305963999926755,2,0.0014282836791122669
 Infrastructure,Culture,SA,1.0000229501734519,3229,1.0000229501734519
 Infrastructure,Culture,SB,1.0000333149814522,3229,1.0000333149814522
 Infrastructure,Culture,SC,1.0000433741994883,3229,1.0000433741994883
@@ -971,31 +1002,31 @@ Infrastructure,Culture,SR,1.0000913103841111,3229,1.0000913103841111
 Infrastructure,Culture,ST,1.0000158466197133,3229,1.0000158466197133
 Infrastructure,Culture,SV,1.000289198094126,3229,1.000289198094126
 Infrastructure,Culture,SZ,1.0000294682843274,3229,1.0000294682843274
-Infrastructure,Culture,Saint Kitts and Nevis,4.058510638297872,1,0.0012568939728392296
-Infrastructure,Culture,Saint Lucia,4.86968085106383,2,0.0030162160737465652
-Infrastructure,Culture,Saint Vincent and the Grenadines,4.723404255319149,2,0.0029256142801605137
-Infrastructure,Culture,Samoa,3.48053291342948,2,0.002155796168119839
-Infrastructure,Culture,Sao Tome and Principe,2.436170212765957,1,0.0007544658447711232
-Infrastructure,Culture,Saudi Arabia,5.130782768979089,3,0.004766908735502406
-Infrastructure,Culture,Senegal,1.831456688478833,2,0.0011343801105474344
-Infrastructure,Culture,Serbia,4.210460487656285,2,0.0026079036777059673
-Infrastructure,Culture,Seychelles,4.24468085106383,1,0.0013145496596667172
-Infrastructure,Culture,Sierra Leone,2.819889230094319,2,0.0017466021864938489
-Infrastructure,Culture,Singapore,5.662305372136626,3,0.00526073586757816
+Infrastructure,Culture,Saint Kitts and Nevis,4.419182948490231,1,0.0013685918081419112
+Infrastructure,Culture,Saint Lucia,5.120781527531085,2,0.003171744519994478
+Infrastructure,Culture,Saint Vincent and the Grenadines,5.02753108348135,2,0.003113986425197491
+Infrastructure,Culture,Samoa,3.8686985156365017,2,0.00239622082108176
+Infrastructure,Culture,Sao Tome and Principe,3.0515097690941384,1,0.0009450324462973485
+Infrastructure,Culture,Saudi Arabia,5.17161329944531,3,0.004804843573346525
+Infrastructure,Culture,Senegal,2.076180054942686,2,0.0012859585351147017
+Infrastructure,Culture,Serbia,4.377711347412152,2,0.002711496653708363
+Infrastructure,Culture,Seychelles,4.570159857904086,1,0.0014153483610728046
+Infrastructure,Culture,Sierra Leone,2.9843529691820327,2,0.0018484688567247027
+Infrastructure,Culture,Singapore,5.694711554820576,3,0.005290843810610631
 Infrastructure,Culture,Slovak Republic,4.084302666044339,1,0.001264881593695986
-Infrastructure,Culture,Slovakia,4.6698253219401185,2,0.002892428195689141
-Infrastructure,Culture,Slovenia,4.364364205154329,3,0.004054844414822852
-Infrastructure,Culture,Solomon Islands,2.6135665716165826,2,0.0016188086538349844
-Infrastructure,Culture,South Africa,3.396089727851503,2,0.0021034931730266352
+Infrastructure,Culture,Slovakia,4.744416229313234,2,0.002938628819642759
+Infrastructure,Culture,Slovenia,4.432121155634911,3,0.004117796056644389
+Infrastructure,Culture,Solomon Islands,2.876453461756789,2,0.0017816373253371253
+Infrastructure,Culture,South Africa,3.797505963065592,2,0.002352125093258341
 Infrastructure,Culture,South Korea,3.2413793103448274,1,0.00100383379075405
-Infrastructure,Culture,South Sudan,1.0531914893617023,2,0.000652332913819574
-Infrastructure,Culture,Spain,4.946521120552103,3,0.0045957148843779215
-Infrastructure,Culture,Sri Lanka,3.7028358524895815,2,0.0022934876757445535
-Infrastructure,Culture,Sudan,3.1973358066845794,2,0.001980387616404199
-Infrastructure,Culture,Suriname,3.1771030527418294,2,0.001967855715541548
-Infrastructure,Culture,Sweden,5.271288949262236,4,0.006529933662759041
-Infrastructure,Culture,Switzerland,4.237684643705944,5,0.006561914901991242
-Infrastructure,Culture,Syrian Arab Republic,2.0106382978723403,1,0.000622681417736866
+Infrastructure,Culture,South Sudan,1.1731793960923622,2,0.0007266518402554117
+Infrastructure,Culture,Spain,5.002389505470788,3,0.004647621095203581
+Infrastructure,Culture,Sri Lanka,3.8698977549120146,2,0.0023969636140675223
+Infrastructure,Culture,Sudan,3.4597739231578797,2,0.002142938323417702
+Infrastructure,Culture,Suriname,3.4812298809040296,2,0.0021562278605785257
+Infrastructure,Culture,Sweden,5.2845395822693035,4,0.00654634819729861
+Infrastructure,Culture,Switzerland,4.239451394773553,5,0.006564650657747837
+Infrastructure,Culture,Syrian Arab Republic,2.5364120781527526,1,0.0007855100892390067
 Infrastructure,Culture,TD,1.0000226371802634,3229,1.0000226371802634
 Infrastructure,Culture,TG,1.0000620265237563,3229,1.0000620265237563
 Infrastructure,Culture,TH,1.0000138637163356,3229,1.0000138637163356
@@ -1007,17 +1038,17 @@ Infrastructure,Culture,TR,1.0000112848018068,3229,1.0000112848018068
 Infrastructure,Culture,TT,1.000255676923453,3229,1.000255676923453
 Infrastructure,Culture,TW,1.0000180471307107,3229,1.0000180471307107
 Infrastructure,Culture,TZ,1.0000276698854436,3229,1.0000276698854436
-Infrastructure,Culture,Tajikistan,2.4473575447356875,2,0.0015158609753705094
+Infrastructure,Culture,Tajikistan,2.8129899849306916,2,0.0017423288850608185
 Infrastructure,Culture,Tanzania,3.5975949,1,0.001114151409104986
-Infrastructure,Culture,Tanzania (United Republic of),1.6914893617021276,1,0.000523843097461173
-Infrastructure,Culture,Thailand,4.204771846364334,2,0.002604380208339631
-Infrastructure,Culture,Timor-Leste,1.6382978723404253,2,0.0010147400881637815
-Infrastructure,Culture,Togo,2.061830744582145,2,0.0012770707615869588
-Infrastructure,Culture,Tonga,2.826195486822768,2,0.00175050819871339
-Infrastructure,Culture,Trinidad and Tobago,5.122340425531915,2,0.0031727100808497458
-Infrastructure,Culture,Tunisia,4.194676232216494,2,0.0025981271181272805
-Infrastructure,Culture,Turkey,4.387182091991528,3,0.0040760440619308095
-Infrastructure,Culture,Turkmenistan,3.074468085106383,1,0.0009521424853225094
+Infrastructure,Culture,Tanzania (United Republic of),2.198934280639432,1,0.0006809954415111279
+Infrastructure,Culture,Thailand,4.442716368491238,2,0.002751759906157472
+Infrastructure,Culture,Timor-Leste,1.9413854351687385,2,0.0012024685259639136
+Infrastructure,Culture,Togo,2.306577730712677,2,0.0014286638158641542
+Infrastructure,Culture,Tonga,3.1656809560038273,2,0.0019607810195130548
+Infrastructure,Culture,Trinidad and Tobago,5.285079928952043,2,0.003273508782255833
+Infrastructure,Culture,Tunisia,4.481088310369247,2,0.0027755269807180224
+Infrastructure,Culture,Turkey,4.451474824692484,3,0.004135777167568118
+Infrastructure,Culture,Turkmenistan,3.850799289520426,1,0.0011925671382844304
 Infrastructure,Culture,UA,1.00002251054818,3229,1.00002251054818
 Infrastructure,Culture,UAE,5.655172413793103,1,0.0017513695923794064
 Infrastructure,Culture,UG,1.000088910227713,3229,1.000088910227713
@@ -1025,31 +1056,31 @@ Infrastructure,Culture,UK,4.563218390804598,1,0.0014131986345012689
 Infrastructure,Culture,US,1.0081638728077928,3229,1.0081638728077928
 Infrastructure,Culture,UY,1.0000417757541453,3229,1.0000417757541453
 Infrastructure,Culture,UZ,1.0000096868550707,3229,1.0000096868550707
-Infrastructure,Culture,Uganda,2.697733620212766,2,0.0016709406133247234
-Infrastructure,Culture,Ukraine,3.933643996067692,3,0.0036546707922586173
-Infrastructure,Culture,United Arab Emirates,5.045740062003729,2,0.00312526482626431
-Infrastructure,Culture,United Kingdom,5.333875874591723,3,0.004955598520834676
-Infrastructure,Culture,United States,4.982636341403767,2,0.0030861792142482295
+Infrastructure,Culture,Uganda,2.9648720503552397,2,0.0018364026326139608
+Infrastructure,Culture,Ukraine,4.053868099465144,3,0.0037663686275612985
+Infrastructure,Culture,United Arab Emirates,5.147162910724488,2,0.0031880848006964925
+Infrastructure,Culture,United Kingdom,5.3662505643867675,3,0.004985677204447291
+Infrastructure,Culture,United States,5.057746881443826,2,0.0031327016918202702
 Infrastructure,Culture,United States of America,6.0,1,0.0018581604211830288
-Infrastructure,Culture,Uruguay,5.017076979699496,2,0.0031075112912353643
-Infrastructure,Culture,Uzbekistan,2.3015635344099583,2,0.0014255580888262362
+Infrastructure,Culture,Uruguay,5.1134924590842505,2,0.003167229767162744
+Infrastructure,Culture,Uzbekistan,2.6454422615933604,2,0.0016385520356725675
 Infrastructure,Culture,VC,1.0003890471217876,3229,1.0003890471217876
 Infrastructure,Culture,VN,1.0000137674620757,3229,1.0000137674620757
 Infrastructure,Culture,VU,1.0000339157309097,3229,1.0000339157309097
-Infrastructure,Culture,Vanuatu,3.223760693134459,2,0.0019967548424493398
+Infrastructure,Culture,Vanuatu,3.5268718756294515,2,0.0021844979099594
 Infrastructure,Culture,Venezuela,5.470324172164949,1,0.001694123311292954
-Infrastructure,Culture,Venezuela (Bolivarian Republic of),3.021276595744681,1,0.0009356694319432273
-Infrastructure,Culture,Viet Nam,2.914893617021276,1,0.0009027233251846627
+Infrastructure,Culture,Venezuela (Bolivarian Republic of),3.815275310834813,1,0.001181565596418338
+Infrastructure,Culture,Viet Nam,3.753108348134991,1,0.0011623128981526761
 Infrastructure,Culture,Vietnam,4.520733941237113,1,0.0014000414807175945
 Infrastructure,Culture,WS,1.0014036302615466,3229,1.0014036302615466
 Infrastructure,Culture,XK,1.0000474055466548,3229,1.0000474055466548
 Infrastructure,Culture,YT,1.0000096337225253,3229,1.0000096337225253
-Infrastructure,Culture,Yemen,3.0776549556207495,2,0.0019062588761974291
+Infrastructure,Culture,Yemen,3.2821540297298157,2,0.0020329229047567764
 Infrastructure,Culture,ZA,1.0000475345633784,3229,1.0000475345633784
 Infrastructure,Culture,ZM,1.0000342947058243,3229,1.0000342947058243
 Infrastructure,Culture,ZW,1.0000402884562194,3229,1.0000402884562194
-Infrastructure,Culture,Zambia,1.9068600570300502,2,0.0011810839622360175
-Infrastructure,Culture,Zimbabwe,2.6526376398332965,2,0.0016430087580261979
+Infrastructure,Culture,Zambia,2.178746040175056,2,0.001349486553220846
+Infrastructure,Culture,Zimbabwe,2.9199886469758836,2,0.00180860244470479
 Infrastructure,Cybersecurity,Angola,5.444444444444445,1,0.0016861085303327484
 Infrastructure,Cybersecurity,Argentina,4.888888888888889,1,0.001514056639482468
 Infrastructure,Cybersecurity,Armenia,4.888888888888889,1,0.001514056639482468
@@ -1422,167 +1453,164 @@ Infrastructure,Digital Legal Identity,"Yemen, Rep.",4.376623376623376,2,0.002710
 Infrastructure,Digital Legal Identity,Zambia,4.787878787878788,3,0.004448323432529069
 Infrastructure,Digital Legal Identity,Zimbabwe,5.090909090909091,3,0.0047298628902840735
 Infrastructure,Digital Literacy Skills,Afghanistan,2.864,1,0.0008869619077113657
-Infrastructure,Digital Literacy Skills,Albania,2.4746979196548167,11,0.008430373835925358
+Infrastructure,Digital Literacy Skills,Albania,2.5768628232066173,11,0.00877841159965091
 Infrastructure,Digital Literacy Skills,Algeria,4.4830000000000005,1,0.0013883555280272532
 Infrastructure,Digital Literacy Skills,Andorra,4.724,1,0.0014629916382781047
 Infrastructure,Digital Literacy Skills,Angola,3.6475,1,0.0011296066893775162
 Infrastructure,Digital Literacy Skills,Antigua and Barbuda,4.759,1,0.0014738309074016724
-Infrastructure,Digital Literacy Skills,Argentina,4.223581560283688,2,0.0026160306969858706
-Infrastructure,Digital Literacy Skills,Armenia,4.296070335492574,3,0.003991393932015399
+Infrastructure,Digital Literacy Skills,Argentina,4.416323100657057,3,0.0041031183963986285
+Infrastructure,Digital Literacy Skills,Armenia,4.220459717833085,4,0.005228194137916488
 Infrastructure,Digital Literacy Skills,Australia,3.8634751773049647,2,0.00239298555423039
-Infrastructure,Digital Literacy Skills,Austria,3.8720232041363465,9,0.01079226040174268
-Infrastructure,Digital Literacy Skills,Azerbaijan,4.754793177489672,4,0.0058901123288816
+Infrastructure,Digital Literacy Skills,Austria,4.012515411298056,10,0.012426495544434982
+Infrastructure,Digital Literacy Skills,Azerbaijan,4.869359970520538,4,0.006032034649142815
 Infrastructure,Digital Literacy Skills,Bahamas,4.773,1,0.0014781666150510992
 Infrastructure,Digital Literacy Skills,Bahrain,4.200013192128512,12,0.015608596564119587
 Infrastructure,Digital Literacy Skills,Bangladesh,1.1699738970783886,19,0.006884330766333039
 Infrastructure,Digital Literacy Skills,Barbados,5.2745,1,0.0016334778569216475
-Infrastructure,Digital Literacy Skills,Belarus,3.143426453900919,13,0.012655479684333212
-Infrastructure,Digital Literacy Skills,Belgium,3.888681382835213,12,0.014451587672351364
+Infrastructure,Digital Literacy Skills,Belarus,3.189515367160183,13,0.012841034305692901
+Infrastructure,Digital Literacy Skills,Belgium,3.912929333385438,12,0.014541700836365827
 Infrastructure,Digital Literacy Skills,Belize,4.4595,1,0.0013810777330442862
 Infrastructure,Digital Literacy Skills,Benin,3.202,1,0.0009916382781046764
 Infrastructure,Digital Literacy Skills,Bhutan,3.5695,1,0.0011054506039021369
 Infrastructure,Digital Literacy Skills,Bolivia,4.6895,1,0.0014523072158563021
-Infrastructure,Digital Literacy Skills,Bolivia (Plurinational State of),2.53768268588289,3,0.0023577107642145153
-Infrastructure,Digital Literacy Skills,Bosnia and Herzegovina,2.5070224593348867,25,0.01941020795397094
+Infrastructure,Digital Literacy Skills,Bolivia (Plurinational State of),2.839295595339763,3,0.0026379333496498263
+Infrastructure,Digital Literacy Skills,Bosnia and Herzegovina,2.5426609044369792,25,0.01968613273797599
 Infrastructure,Digital Literacy Skills,Botswana,4.455500000000001,1,0.0013798389594301642
-Infrastructure,Digital Literacy Skills,Brazil,4.014063697422621,5,0.006215645242215269
-Infrastructure,Digital Literacy Skills,Brunei Darussalam,3.8418658119862354,12,0.014277605990658044
-Infrastructure,Digital Literacy Skills,Bulgaria,3.2125592940016787,8,0.007959267374423484
+Infrastructure,Digital Literacy Skills,Brazil,4.152020407278195,5,0.006429266657290485
+Infrastructure,Digital Literacy Skills,Brunei Darussalam,3.985992394019808,13,0.01604766216235909
+Infrastructure,Digital Literacy Skills,Bulgaria,3.32311368566958,8,0.008233171101070498
 Infrastructure,Digital Literacy Skills,Burkina Faso,2.4555,1,0.0007604521523691544
 Infrastructure,Digital Literacy Skills,Burundi,3.4455,1,0.0010670486218643542
-Infrastructure,Digital Literacy Skills,Cabo Verde,3.6905986600383334,4,0.004571816240369567
-Infrastructure,Digital Literacy Skills,Cambodia,2.4425029429192473,11,0.008320697544785295
+Infrastructure,Digital Literacy Skills,Cabo Verde,3.8232939534598627,4,0.004736195668578337
+Infrastructure,Digital Literacy Skills,Cambodia,2.630906773537617,12,0.009777293676819884
 Infrastructure,Digital Literacy Skills,Cameroon,3.9855,1,0.0012342830597708268
 Infrastructure,Digital Literacy Skills,Canada,3.390228723404255,2,0.0020998629441958843
 Infrastructure,Digital Literacy Skills,Central African Rep.,,0,
 Infrastructure,Digital Literacy Skills,Central African Republic,2.2695,1,0.0007028491793124806
 Infrastructure,Digital Literacy Skills,Chad,1.891,1,0.0005856302260761845
 Infrastructure,Digital Literacy Skills,Chile,3.8699698581560287,2,0.0023970082738656107
-Infrastructure,Digital Literacy Skills,China,3.497633109152349,4,0.00433277560749749
+Infrastructure,Digital Literacy Skills,China,3.572932592222524,5,0.005532568275352314
 Infrastructure,Digital Literacy Skills,"China, Hong Kong Special Administrative Region",2.9031569486574544,9,0.008091797007716658
 Infrastructure,Digital Literacy Skills,"China, Macao Special Administrative Region",2.848668688911358,9,0.007939925116197653
-Infrastructure,Digital Literacy Skills,Colombia,2.7373667754731743,13,0.011020677634298936
+Infrastructure,Digital Literacy Skills,Colombia,2.8204563346865057,14,0.012228674105175311
 Infrastructure,Digital Literacy Skills,Comoros,3.326,1,0.0010300402601424589
 Infrastructure,Digital Literacy Skills,Congo,3.911000000000001,1,0.0012112109012078045
 Infrastructure,Digital Literacy Skills,Congo (Rep. of the),,0,
-Infrastructure,Digital Literacy Skills,Costa Rica,4.98097956133715,3,0.004627729539799148
-Infrastructure,Digital Literacy Skills,Croatia,3.783762755307365,11,0.012889870024274082
-Infrastructure,Digital Literacy Skills,Cuba,2.0861291049856363,30,0.019381812681811425
-Infrastructure,Digital Literacy Skills,Cyprus,3.6164879672727195,10,0.011200024674118052
-Infrastructure,Digital Literacy Skills,Czech Republic,5.025447800011966,4,0.006225392133802373
+Infrastructure,Digital Literacy Skills,Costa Rica,4.9558913345135185,4,0.006139227419651308
+Infrastructure,Digital Literacy Skills,Croatia,3.8445966517242884,11,0.013097108445019254
+Infrastructure,Digital Literacy Skills,Cuba,2.1504464724932704,31,0.02064535170247488
+Infrastructure,Digital Literacy Skills,Cyprus,3.663124082494657,10,0.01134445364662328
+Infrastructure,Digital Literacy Skills,Czech Republic,5.024714084945322,4,0.0062244832269375315
 Infrastructure,Digital Literacy Skills,Czechia,2.6328699620171774,6,0.004892294757541983
-Infrastructure,Digital Literacy Skills,Côte d'Ivoire,1.5991209106071422,13,0.006438083567015438
+Infrastructure,Digital Literacy Skills,Côte d'Ivoire,1.6885739645163622,13,0.00679822283639291
 Infrastructure,Digital Literacy Skills,Dem. People's Rep. of Korea,,0,
-Infrastructure,Digital Literacy Skills,Dem. Rep. of the Congo,,0,
 Infrastructure,Digital Literacy Skills,Democratic People's Republic of Korea,4.2010000000000005,1,0.0013010219882316509
 Infrastructure,Digital Literacy Skills,Democratic Republic of the Congo,3.6515,1,0.0011308454629916382
-Infrastructure,Digital Literacy Skills,Denmark,4.036816317951327,10,0.012501753849338267
+Infrastructure,Digital Literacy Skills,Denmark,4.206183197400883,11,0.014328899093034907
 Infrastructure,Digital Literacy Skills,Djibouti,2.709,1,0.0008389594301641375
 Infrastructure,Digital Literacy Skills,Dominica,4.349,1,0.0013468566119541653
-Infrastructure,Digital Literacy Skills,Dominican Rep.,,0,
 Infrastructure,Digital Literacy Skills,Dominican Republic,3.4398563829787236,2,0.002130601661801625
 Infrastructure,Digital Literacy Skills,Ecuador,2.275393174924166,10,0.007046742567123463
-Infrastructure,Digital Literacy Skills,Egypt,2.9972100368401797,14,0.012995026483667549
-Infrastructure,Digital Literacy Skills,El Salvador,2.9573660109418034,4,0.0036635069816559965
+Infrastructure,Digital Literacy Skills,Egypt,3.1012445016646857,14,0.01344608950861121
+Infrastructure,Digital Literacy Skills,El Salvador,3.2965300916291476,4,0.00408365449566943
 Infrastructure,Digital Literacy Skills,Equatorial Guinea,3.7735,1,0.0011686280582223598
 Infrastructure,Digital Literacy Skills,Eritrea,2.8795,1,0.0008917621554660886
-Infrastructure,Digital Literacy Skills,Estonia,5.459863957205166,3,0.005072651555161195
+Infrastructure,Digital Literacy Skills,Estonia,5.451601092327254,4,0.0067532995878937805
 Infrastructure,Digital Literacy Skills,Eswatini,4.196,1,0.001299473521213998
 Infrastructure,Digital Literacy Skills,Ethiopia,2.689,1,0.0008327655620935274
 Infrastructure,Digital Literacy Skills,Fiji,5.1135,1,0.0015836172189532362
-Infrastructure,Digital Literacy Skills,Finland,3.808896205021041,9,0.010616310264846506
-Infrastructure,Digital Literacy Skills,France,3.670584908988235,9,0.010230803400710472
+Infrastructure,Digital Literacy Skills,Finland,3.9669268597750174,10,0.012285310807603027
+Infrastructure,Digital Literacy Skills,France,3.6642063217207275,9,0.010213024743105155
 Infrastructure,Digital Literacy Skills,Gabon,4.359500000000001,1,0.001350108392691236
 Infrastructure,Digital Literacy Skills,Gambia,2.815,1,0.0008717869309383709
-Infrastructure,Digital Literacy Skills,Georgia,2.484445168727412,12,0.009232995362257338
+Infrastructure,Digital Literacy Skills,Georgia,2.531577597959468,12,0.00940815459136377
 Infrastructure,Digital Literacy Skills,Georgia (Country),5.3585,1,0.00165949210281821
-Infrastructure,Digital Literacy Skills,Germany,3.5774464318944594,22,0.024374054351712016
+Infrastructure,Digital Literacy Skills,Germany,3.6523435039163368,23,0.02601545388357874
 Infrastructure,Digital Literacy Skills,Ghana,3.965,1,0.0012279343449984514
-Infrastructure,Digital Literacy Skills,Greece,3.406743216291881,11,0.011605504917686804
+Infrastructure,Digital Literacy Skills,Greece,3.5016746751700505,12,0.013013346578519852
 Infrastructure,Digital Literacy Skills,Grenada,5.288,1,0.0016376587178693095
-Infrastructure,Digital Literacy Skills,Guatemala,3.0248325771930133,3,0.002810312087822558
+Infrastructure,Digital Literacy Skills,Guatemala,2.9320631429823614,4,0.0036321624564662263
 Infrastructure,Digital Literacy Skills,Guinea,2.2955,1,0.0007109012078042738
 Infrastructure,Digital Literacy Skills,Guinea-Bissau,3.1325,1,0.0009701145865593062
 Infrastructure,Digital Literacy Skills,Guyana,4.231,1,0.0013103127903375657
 Infrastructure,Digital Literacy Skills,Haiti,2.9195,1,0.0009041498916073089
-Infrastructure,Digital Literacy Skills,Honduras,3.784,1,0.0011718798389594302
-Infrastructure,Digital Literacy Skills,"Hong Kong, China",5.573338026344099,3,0.005178078067213471
-Infrastructure,Digital Literacy Skills,Hungary,3.39511414111315,10,0.01051444453735878
+Infrastructure,Digital Literacy Skills,Honduras,3.067267410859686,2,0.0018998249680146709
+Infrastructure,Digital Literacy Skills,"Hong Kong, China",5.5162585802056325,3,0.005125046683374697
+Infrastructure,Digital Literacy Skills,Hungary,3.455876175980701,10,0.01070262055119449
 Infrastructure,Digital Literacy Skills,Iceland,5.7625,1,0.001784608237844534
-Infrastructure,Digital Literacy Skills,India,2.914127659574468,2,0.0018049722264320024
-Infrastructure,Digital Literacy Skills,Indonesia,2.895214384867189,5,0.004483143983999982
-Infrastructure,Digital Literacy Skills,Iran (Islamic Republic of),4.730732938096916,3,0.004395230354379297
+Infrastructure,Digital Literacy Skills,India,2.758737229455008,3,0.0025630881661087095
+Infrastructure,Digital Literacy Skills,Indonesia,3.173034834757492,5,0.004913339787484503
+Infrastructure,Digital Literacy Skills,Iran (Islamic Republic of),4.716292209778094,4,0.005842418345962334
 Infrastructure,Digital Literacy Skills,Iraq,3.1790000000000003,1,0.0009845153298234748
-Infrastructure,Digital Literacy Skills,Ireland,4.5563695041058345,4,0.005644310317876537
-Infrastructure,Digital Literacy Skills,Israel,4.446494953261486,5,0.006885250779283813
+Infrastructure,Digital Literacy Skills,Ireland,4.691382102769521,5,0.007264450453343947
+Infrastructure,Digital Literacy Skills,Israel,4.462751439230102,5,0.0069104234116291454
 Infrastructure,Digital Literacy Skills,Italy,3.205152482269504,2,0.001985229162136577
 Infrastructure,Digital Literacy Skills,Jamaica,4.571,1,0.0014156085475379374
-Infrastructure,Digital Literacy Skills,Japan,4.648162839324637,5,0.007197526849372308
+Infrastructure,Digital Literacy Skills,Japan,4.61462116658591,5,0.007145588675419495
 Infrastructure,Digital Literacy Skills,Jordan,4.4,1,0.0013626509755342213
-Infrastructure,Digital Literacy Skills,Kazakhstan,3.0288502611941848,13,0.012194194300255312
-Infrastructure,Digital Literacy Skills,Kenya,2.1907991057612577,4,0.002713904126059161
+Infrastructure,Digital Literacy Skills,Kazakhstan,3.045203456940364,13,0.012260032499295364
+Infrastructure,Digital Literacy Skills,Kenya,2.0191306082793274,5,0.003126557151253217
 Infrastructure,Digital Literacy Skills,Kiribati,1.878969772763557,19,0.011056186337103618
-Infrastructure,Digital Literacy Skills,Korea (Rep. of),5.740415981110228,3,0.005333306888612785
-Infrastructure,Digital Literacy Skills,Kuwait,3.962051084423267,11,0.013497231938264458
+Infrastructure,Digital Literacy Skills,Korea (Rep. of),5.779230348970054,3,0.005369368549677968
+Infrastructure,Digital Literacy Skills,Kuwait,4.131079326808098,12,0.015352416203684474
 Infrastructure,Digital Literacy Skills,Kyrgyzstan,4.9365000000000006,1,0.0015288014865283371
-Infrastructure,Digital Literacy Skills,Lao P.D.R.,,0,
 Infrastructure,Digital Literacy Skills,Lao People's Democratic Republic,3.7695,1,0.0011673892846082378
-Infrastructure,Digital Literacy Skills,Latvia,3.0690524576084264,21,0.01995977132541869
+Infrastructure,Digital Literacy Skills,Latvia,3.164964408795431,22,0.02156370919588092
 Infrastructure,Digital Literacy Skills,Lebanon,4.2835,1,0.0013265716940229174
-Infrastructure,Digital Literacy Skills,Lesotho,2.9333862866171967,3,0.0027253511489165653
+Infrastructure,Digital Literacy Skills,Lesotho,2.831720872300743,4,0.003507861099164748
 Infrastructure,Digital Literacy Skills,Liberia,2.9665,1,0.0009187054815732425
 Infrastructure,Digital Literacy Skills,Libya,4.6785,1,0.0014489005884174666
 Infrastructure,Digital Literacy Skills,Liechtenstein,5.2445,1,0.0016241870548157325
-Infrastructure,Digital Literacy Skills,Lithuania,3.6046329768582512,11,0.012279641605896799
-Infrastructure,Digital Literacy Skills,Luxembourg,5.571642807930065,3,0.005176503073332361
-Infrastructure,Digital Literacy Skills,"Macao, China",5.1929613998643855,2,0.0032164517806530725
+Infrastructure,Digital Literacy Skills,Lithuania,3.657294882102468,11,0.012459041097283104
+Infrastructure,Digital Literacy Skills,Luxembourg,5.639690014310449,4,0.006986299181555217
+Infrastructure,Digital Literacy Skills,"Macao, China",5.195051997129419,3,0.004826620003526868
 Infrastructure,Digital Literacy Skills,Madagascar,3.6535,1,0.0011314648497986993
 Infrastructure,Digital Literacy Skills,Malawi,3.406,1,0.0010548157324248993
-Infrastructure,Digital Literacy Skills,Malaysia,3.399778110267429,13,0.013687555104823963
+Infrastructure,Digital Literacy Skills,Malaysia,3.5184527107885724,14,0.015254982332313413
 Infrastructure,Digital Literacy Skills,Maldives,4.443,1,0.0013759677918860327
 Infrastructure,Digital Literacy Skills,Mali,2.137,1,0.0006618148033446888
-Infrastructure,Digital Literacy Skills,Malta,3.726610155971192,9,0.010386959245506575
+Infrastructure,Digital Literacy Skills,Malta,3.8697010933693425,10,0.011984209022512673
 Infrastructure,Digital Literacy Skills,Marshall Islands,4.753,1,0.0014719727469804894
 Infrastructure,Digital Literacy Skills,Mauritania,2.7875,1,0.0008632703623412822
-Infrastructure,Digital Literacy Skills,Mauritius,4.115625539555579,3,0.003823746243006113
-Infrastructure,Digital Literacy Skills,Mexico,2.9317377567432277,11,0.00998733828559167
+Infrastructure,Digital Literacy Skills,Mauritius,4.012302083966125,4,0.004970333953504025
+Infrastructure,Digital Literacy Skills,Mexico,3.0018027998316055,11,0.010226023783879733
 Infrastructure,Digital Literacy Skills,Micronesia,,0,
 Infrastructure,Digital Literacy Skills,Micronesia (Federated States of),4.3735,1,0.0013544441003406626
 Infrastructure,Digital Literacy Skills,Moldova,,0,
 Infrastructure,Digital Literacy Skills,Monaco,5.0935,1,0.001577423350882626
-Infrastructure,Digital Literacy Skills,Mongolia,2.052440964861086,12,0.007627529135439155
-Infrastructure,Digital Literacy Skills,Montenegro,3.5948083593378,10,0.011132884358432332
-Infrastructure,Digital Literacy Skills,Morocco,2.933280873936326,13,0.011809430585683567
+Infrastructure,Digital Literacy Skills,Mongolia,2.1297839377728334,13,0.008574540474155104
+Infrastructure,Digital Literacy Skills,Montenegro,3.682978823766369,10,0.01140594247062982
+Infrastructure,Digital Literacy Skills,Morocco,3.0428726997040636,14,0.013193006440339699
 Infrastructure,Digital Literacy Skills,Mozambique,3.111,1,0.0009634561783834005
 Infrastructure,Digital Literacy Skills,Myanmar,3.5625,1,0.0011032827500774233
 Infrastructure,Digital Literacy Skills,Namibia,4.279,1,0.00132517807370703
 Infrastructure,Digital Literacy Skills,Nauru,4.003,1,0.0012397026943326108
 Infrastructure,Digital Literacy Skills,Nepal,3.7025,1,0.001146639826571694
 Infrastructure,Digital Literacy Skills,Nepal (Republic of),,0,
-Infrastructure,Digital Literacy Skills,Netherlands,4.115781645643988,11,0.014020934686306556
+Infrastructure,Digital Literacy Skills,Netherlands,4.240462635169105,12,0.01575891967235344
 Infrastructure,Digital Literacy Skills,New Zealand,3.503113475177305,2,0.0021697822701624682
 Infrastructure,Digital Literacy Skills,Nicaragua,4.0665,1,0.0012593682254567976
 Infrastructure,Digital Literacy Skills,Niger,1.652,1,0.0005116135026323939
 Infrastructure,Digital Literacy Skills,Nigeria,4.6267499999999995,2,0.0028657479095695257
-Infrastructure,Digital Literacy Skills,North Macedonia,4.8211264034019345,3,0.004479213134160979
-Infrastructure,Digital Literacy Skills,Norway,4.26808961569672,11,0.014539791196241537
+Infrastructure,Digital Literacy Skills,North Macedonia,4.839182586980087,4,0.005994651702669665
+Infrastructure,Digital Literacy Skills,Norway,4.403835687547628,12,0.016366066351988704
 Infrastructure,Digital Literacy Skills,Oman,3.642021879878656,30,0.033837304551365646
-Infrastructure,Digital Literacy Skills,Pakistan,1.2664832199475184,13,0.005098879485697659
+Infrastructure,Digital Literacy Skills,Pakistan,1.2474487042369813,14,0.005408572889228163
 Infrastructure,Digital Literacy Skills,Palau,5.408,1,0.00167482192629297
-Infrastructure,Digital Literacy Skills,Palestine,2.082651573048461,12,0.007739801448306451
-Infrastructure,Digital Literacy Skills,Panama,4.1054812453659935,3,0.00381432138002415
+Infrastructure,Digital Literacy Skills,Palestine,2.14685580605998,12,0.007978404977615287
+Infrastructure,Digital Literacy Skills,Panama,4.033412943143877,4,0.00499648552882487
 Infrastructure,Digital Literacy Skills,Papua New Guinea,3.5065,1,0.001085939919479715
-Infrastructure,Digital Literacy Skills,Paraguay,4.0783267435114485,4,0.005052123559630162
-Infrastructure,Digital Literacy Skills,Peru,2.574616247240589,14,0.011162783357500232
-Infrastructure,Digital Literacy Skills,Philippines,1.8800940590785484,9,0.0052402745530216585
-Infrastructure,Digital Literacy Skills,Poland,3.377027770260517,10,0.010458432239890111
-Infrastructure,Digital Literacy Skills,Portugal,3.3151543616992325,11,0.011293495812539968
-Infrastructure,Digital Literacy Skills,Qatar,3.1262724287007533,31,0.030013764413045325
+Infrastructure,Digital Literacy Skills,Paraguay,4.198361918290711,4,0.005200819966913238
+Infrastructure,Digital Literacy Skills,Peru,2.6611401070816396,14,0.01153792551847103
+Infrastructure,Digital Literacy Skills,Philippines,1.9724603335258852,10,0.006108579540185461
+Infrastructure,Digital Literacy Skills,Poland,3.4373787217275433,10,0.010645335155551388
+Infrastructure,Digital Literacy Skills,Portugal,3.3871256882427976,11,0.01153867530835267
+Infrastructure,Digital Literacy Skills,Qatar,3.126261272415473,31,0.030013657307178587
 Infrastructure,Digital Literacy Skills,Republic of Korea,4.015067391304347,10,0.012434398858173884
 Infrastructure,Digital Literacy Skills,Republic of Moldova,4.715999999999999,1,0.0014605140910498604
-Infrastructure,Digital Literacy Skills,Romania,3.1552547440816596,11,0.010748777387704632
+Infrastructure,Digital Literacy Skills,Romania,3.2274220510554774,11,0.010994624515828508
 Infrastructure,Digital Literacy Skills,Russia,1.6382978723404256,1,0.0005073700440818909
-Infrastructure,Digital Literacy Skills,Russian Federation,2.979959702968889,13,0.011997360216350434
+Infrastructure,Digital Literacy Skills,Russian Federation,3.0203763761007165,13,0.012160078318150918
 Infrastructure,Digital Literacy Skills,Rwanda,3.6305,1,0.0011243419015174976
 Infrastructure,Digital Literacy Skills,Saint Kitts and Nevis,5.0175,1,0.0015538866522143077
 Infrastructure,Digital Literacy Skills,Saint Lucia,4.6025,1,0.0014253638897491483
@@ -1590,52 +1618,51 @@ Infrastructure,Digital Literacy Skills,Saint Vincent and the Grenadines,4.607,1,
 Infrastructure,Digital Literacy Skills,Samoa,4.707,1,0.0014577268504180861
 Infrastructure,Digital Literacy Skills,San Marino,4.7745,1,0.0014786311551563951
 Infrastructure,Digital Literacy Skills,Sao Tome and Principe,4.368,1,0.001352740786621245
-Infrastructure,Digital Literacy Skills,Saudi Arabia,3.931740650565005,13,0.015829243870345327
+Infrastructure,Digital Literacy Skills,Saudi Arabia,4.062285270597339,14,0.017612881321883787
 Infrastructure,Digital Literacy Skills,Senegal,2.666,1,0.0008256426138123257
-Infrastructure,Digital Literacy Skills,Serbia,3.348183683840708,8,0.00829528320555146
+Infrastructure,Digital Literacy Skills,Serbia,3.493001659296354,9,0.009735836151646696
 Infrastructure,Digital Literacy Skills,Seychelles,4.83,1,0.0014958191390523382
 Infrastructure,Digital Literacy Skills,Sierra Leone,2.572,1,0.0007965314338804583
-Infrastructure,Digital Literacy Skills,Singapore,3.5961369348169727,13,0.01447809852976793
-Infrastructure,Digital Literacy Skills,Slovakia,3.4924166183230576,20,0.021631567781499272
-Infrastructure,Digital Literacy Skills,Slovenia,4.0422398822408265,9,0.011266695243161175
+Infrastructure,Digital Literacy Skills,Singapore,3.721368509251463,14,0.01613476591189857
+Infrastructure,Digital Literacy Skills,Slovakia,3.5632793031278465,21,0.023174005997424828
+Infrastructure,Digital Literacy Skills,Slovenia,4.098867790456561,9,0.01142453084983247
 Infrastructure,Digital Literacy Skills,Solomon Islands,3.4925,1,0.001081604211830288
 Infrastructure,Digital Literacy Skills,Somalia,1.0,1,0.0003096934035305048
 Infrastructure,Digital Literacy Skills,South Africa,4.09275,2,0.002534995354598947
 Infrastructure,Digital Literacy Skills,South Korea,1.6914893617021276,1,0.000523843097461173
 Infrastructure,Digital Literacy Skills,South Sudan,1.9865,1,0.0006152059461133478
-Infrastructure,Digital Literacy Skills,Spain,3.5412130228035115,23,0.025223877214147032
-Infrastructure,Digital Literacy Skills,Sri Lanka,4.83,1,0.0014958191390523382
+Infrastructure,Digital Literacy Skills,Spain,3.553162455471211,23,0.025308992405028756
+Infrastructure,Digital Literacy Skills,Sri Lanka,3.275916516918423,2,0.0020290594716125257
 Infrastructure,Digital Literacy Skills,Sudan,2.7795,1,0.0008607928151130381
 Infrastructure,Digital Literacy Skills,Suriname,4.549,1,0.0014087952926602665
-Infrastructure,Digital Literacy Skills,Sweden,3.7725159315614754,10,0.011683232987183262
-Infrastructure,Digital Literacy Skills,Switzerland,4.184550665358153,11,0.014255205115806654
+Infrastructure,Digital Literacy Skills,Sweden,3.9463653467254547,11,0.013443796473824713
+Infrastructure,Digital Literacy Skills,Switzerland,4.175456878794657,11,0.014224225972976533
 Infrastructure,Digital Literacy Skills,Syrian Arab Republic,3.5365,1,0.0010952307215856302
 Infrastructure,Digital Literacy Skills,"Taiwan, province of China",1.2659574468085106,1,0.0003920586704269156
 Infrastructure,Digital Literacy Skills,Tajikistan,4.6370000000000005,1,0.0014360483121709509
-Infrastructure,Digital Literacy Skills,Tanzania,,0,
-Infrastructure,Digital Literacy Skills,Thailand,2.410607199449347,14,0.010451688074416493
+Infrastructure,Digital Literacy Skills,Thailand,2.476333383070752,14,0.010736657591511467
 Infrastructure,Digital Literacy Skills,Timor-Leste,3.7995,1,0.001176680086714153
 Infrastructure,Digital Literacy Skills,Togo,3.6865,1,0.001141684732115206
 Infrastructure,Digital Literacy Skills,Tonga,5.141500000000001,1,0.0015922886342520906
 Infrastructure,Digital Literacy Skills,Trinidad and Tobago,4.717,1,0.001460823784453391
-Infrastructure,Digital Literacy Skills,Tunisia,2.5012454880837764,12,0.0092954307392398
-Infrastructure,Digital Literacy Skills,Turkey,2.9346954256562716,17,0.015450548849847203
+Infrastructure,Digital Literacy Skills,Tunisia,2.616770482048037,13,0.01053515523896701
+Infrastructure,Digital Literacy Skills,Turkey,2.983900544018825,17,0.01570960335965315
 Infrastructure,Digital Literacy Skills,Turkmenistan,4.391500000000001,1,0.001360018581604212
 Infrastructure,Digital Literacy Skills,Tuvalu,4.410500000000001,1,0.0013659027562712917
 Infrastructure,Digital Literacy Skills,Uganda,3.6975,1,0.0011450913595540415
-Infrastructure,Digital Literacy Skills,Ukraine,4.573937629935345,3,0.0042495549364527825
-Infrastructure,Digital Literacy Skills,United Arab Emirates,4.023173108455323,8,0.009967601383599436
-Infrastructure,Digital Literacy Skills,United Kingdom,4.098099920408245,3,0.0038074635370779607
+Infrastructure,Digital Literacy Skills,Ukraine,4.483030420703804,4,0.005553459796474207
+Infrastructure,Digital Literacy Skills,United Arab Emirates,4.2391126553711524,9,0.011815427035720152
+Infrastructure,Digital Literacy Skills,United Kingdom,4.464885410739778,4,0.005530982236902791
 Infrastructure,Digital Literacy Skills,United Kingdom of Great Britain and Northern Ireland,3.661403148923877,7,0.007937386820212803
 Infrastructure,Digital Literacy Skills,United Republic of Tanzania,3.3295,1,0.0010311241870548157
-Infrastructure,Digital Literacy Skills,United States,1.4432624113475176,1,0.0004469688483578562
+Infrastructure,Digital Literacy Skills,United States,3.4108743892780526,2,0.002112650597261104
 Infrastructure,Digital Literacy Skills,United States of America,5.6195,1,0.001740322081139672
-Infrastructure,Digital Literacy Skills,Uruguay,5.005099751486838,4,0.00620018550819057
-Infrastructure,Digital Literacy Skills,Uzbekistan,4.391036076406995,3,0.004079624722583148
+Infrastructure,Digital Literacy Skills,Uruguay,5.064958060953267,4,0.006274336402543533
+Infrastructure,Digital Literacy Skills,Uzbekistan,4.350016728835221,4,0.00538868594467045
 Infrastructure,Digital Literacy Skills,Vanuatu,4.006,1,0.0012406317745432022
 Infrastructure,Digital Literacy Skills,Vatican,,0,
 Infrastructure,Digital Literacy Skills,Venezuela,4.903499999999999,1,0.00151858160421183
-Infrastructure,Digital Literacy Skills,Viet Nam,4.2092705023594235,3,0.003910749924768742
+Infrastructure,Digital Literacy Skills,Viet Nam,4.187394445822457,4,0.005187233751405954
 Infrastructure,Digital Literacy Skills,Vietnam,4.085106382978724,1,0.001265130499528871
 Infrastructure,Digital Literacy Skills,Yemen,3.071,1,0.0009510684422421803
 Infrastructure,Digital Literacy Skills,Zambia,4.3725000000000005,1,0.0013541344069371323
@@ -3428,148 +3455,174 @@ Infrastructure,Startup Environment,World,2.1867364747916667,2,0.0013544357230050
 Infrastructure,Startup Environment,"Yemen, Rep.",1.5737460317460317,5,0.002436893824320272
 Infrastructure,Startup Environment,Zambia,4.1025291005291,5,0.006352631001128988
 Infrastructure,Startup Environment,Zimbabwe,2.62573544973545,5,0.004065864740996361
-Infrastructure,Technology Adoption,Albania,2.729323879277991,4,0.0033810144060427262
-Infrastructure,Technology Adoption,Algeria,2.668592251438662,3,0.002479336250949516
-Infrastructure,Technology Adoption,Angola,1.6520591698233877,4,0.0020465273085455405
-Infrastructure,Technology Adoption,Argentina,3.3183448860508316,5,0.005138347609245635
-Infrastructure,Technology Adoption,Armenia,3.2532993122232012,4,0.004030101346823414
-Infrastructure,Technology Adoption,Australia,4.356709033473592,5,0.006746220243842664
-Infrastructure,Technology Adoption,Austria,3.9108743715253556,7,0.008478203964285379
-Infrastructure,Technology Adoption,Azerbaijan,3.183859000579425,4,0.003944080521002694
+Infrastructure,Technology Adoption,Afghanistan,1.4195804195804191,1,0.00043963469172512206
+Infrastructure,Technology Adoption,Albania,2.977864697827987,5,0.004611125267618437
+Infrastructure,Technology Adoption,Algeria,2.6622833494181575,4,0.003297966366575605
+Infrastructure,Technology Adoption,Angola,1.7384305526419268,5,0.0026919023732454735
+Infrastructure,Technology Adoption,Argentina,3.2990869388418935,6,0.006130232775797882
+Infrastructure,Technology Adoption,Armenia,3.2641779113170224,5,0.005054471835424314
+Infrastructure,Technology Adoption,Australia,4.554833285470418,6,0.008463610936148192
+Infrastructure,Technology Adoption,Austria,4.102085005154616,8,0.01016310933454225
+Infrastructure,Technology Adoption,Azerbaijan,3.2785557319320717,5,0.005076735416432443
 Infrastructure,Technology Adoption,B:,,0,
 Infrastructure,Technology Adoption,Bahrain,3.534442447182176,3,0.0032837805331516036
-Infrastructure,Technology Adoption,Bangladesh,2.158454338833658,4,0.0026738362822343238
-Infrastructure,Technology Adoption,Belarus,3.911617352710375,3,0.003634206273809577
-Infrastructure,Technology Adoption,Belgium,4.156596054777937,5,0.0064363518965282395
-Infrastructure,Technology Adoption,Benin,2.845521810397481,3,0.002643718002846839
+Infrastructure,Technology Adoption,Bangladesh,2.213476757780213,5,0.0034274957537631045
+Infrastructure,Technology Adoption,Belarus,4.057838888658655,4,0.00502674374562856
+Infrastructure,Technology Adoption,Belgium,4.341452423270659,6,0.008067115063370689
+Infrastructure,Technology Adoption,Belize,3.3426573426573425,1,0.001035198929283785
+Infrastructure,Technology Adoption,Benin,2.4365889102456633,4,0.0030183820504746522
+Infrastructure,Technology Adoption,Bhutan,2.5384615384615383,1,0.0007861447935774352
 Infrastructure,Technology Adoption,Bolivia,2.2779538169832496,4,0.002821869082667389
-Infrastructure,Technology Adoption,Bosnia and Herzegovina,2.9418016963303537,4,0.003644226319393439
-Infrastructure,Technology Adoption,Botswana,2.091741741342226,4,0.002591194476732395
-Infrastructure,Technology Adoption,Brazil,3.2202241316089557,5,0.004986410857245208
-Infrastructure,Technology Adoption,Bulgaria,3.5189833237318733,4,0.004359223689974448
-Infrastructure,Technology Adoption,Burkina Faso,1.845793888969066,3,0.0017148905750719102
-Infrastructure,Technology Adoption,Burundi,1.9476555429911522,4,0.002412704296055933
+Infrastructure,Technology Adoption,Bosnia and Herzegovina,3.196798000420926,5,0.0049501362657493435
+Infrastructure,Technology Adoption,Botswana,2.2719947916751795,5,0.0035181089991873325
+Infrastructure,Technology Adoption,Brazil,3.328042254196274,6,0.006184036396772266
+Infrastructure,Technology Adoption,Bulgaria,3.6725293163281565,5,0.0056867905176961235
+Infrastructure,Technology Adoption,Burkina Faso,1.7742055565869392,4,0.0021978390295285715
+Infrastructure,Technology Adoption,Burundi,1.7860964623649498,5,0.0027657114623179774
 Infrastructure,Technology Adoption,Cabo Verde,2.535292688071637,4,0.0031406536860596307
-Infrastructure,Technology Adoption,Cambodia,2.017403670325778,4,0.0024991064358324904
-Infrastructure,Technology Adoption,Cameroon,2.4079948511264515,4,0.002982960484517128
-Infrastructure,Technology Adoption,Canada,4.492335005277042,5,0.006956232587917376
-Infrastructure,Technology Adoption,Chad,1.4203313624045333,3,0.0013196017612925363
-Infrastructure,Technology Adoption,Chile,3.4860554522030096,4,0.004318433511555292
-Infrastructure,Technology Adoption,China,3.843657599023656,4,0.004761421615390097
-Infrastructure,Technology Adoption,Colombia,3.247188689132193,4,0.004022531668172428
+Infrastructure,Technology Adoption,Cambodia,2.016720139057825,5,0.003122824619166654
+Infrastructure,Technology Adoption,Cameroon,2.3851371396424197,5,0.0036933061933143692
+Infrastructure,Technology Adoption,Canada,4.662027422812453,6,0.008662794839540017
+Infrastructure,Technology Adoption,Chad,1.3239897805446588,4,0.001640123605505926
+Infrastructure,Technology Adoption,Chile,3.618214991133037,5,0.005602686576545428
+Infrastructure,Technology Adoption,China,3.8273736316664775,5,0.0059265618328685
+Infrastructure,Technology Adoption,Colombia,3.3082404617952648,5,0.005122701241553522
+Infrastructure,Technology Adoption,Comoros,1.104895104895105,1,0.00034217872557915915
 Infrastructure,Technology Adoption,"Congo, Dem. Rep.",1.6414787074079662,3,0.00152506538316008
-Infrastructure,Technology Adoption,Costa Rica,3.219944848477297,4,0.003988782717221798
-Infrastructure,Technology Adoption,Croatia,3.441170917343026,4,0.004262831734088604
-Infrastructure,Technology Adoption,Cyprus,3.498577114203109,4,0.004333945016045969
-Infrastructure,Technology Adoption,Czech Republic,3.938281171065363,7,0.008537617899491342
+Infrastructure,Technology Adoption,"Congo, Rep.",1.314685314685315,1,0.0004071493696764679
+Infrastructure,Technology Adoption,Costa Rica,3.3563754592014177,5,0.00519723669743174
+Infrastructure,Technology Adoption,Cote d'Ivoire,,0,
+Infrastructure,Technology Adoption,Croatia,3.7361535170912044,5,0.0057853104941022054
+Infrastructure,Technology Adoption,Cyprus,3.8170435095443054,5,0.005910565979473994
+Infrastructure,Technology Adoption,Czech Republic,4.073618402304571,8,0.010092581981553597
 Infrastructure,Technology Adoption,Côte d'Ivoire,2.28028810112256,4,0.0028247607322670304
 Infrastructure,Technology Adoption,D:,,0,
 Infrastructure,Technology Adoption,Data extracted on 10 Sep 2021 15:04 UTC (GMT) from OECD.Stat,,0,
-Infrastructure,Technology Adoption,Denmark,5.27298206384244,4,0.006532031048426683
-Infrastructure,Technology Adoption,Dominican Republic,3.00244370155179,3,0.002789511026526903
-Infrastructure,Technology Adoption,Ecuador,2.898704324641877,4,0.0035908384325077447
+Infrastructure,Technology Adoption,Denmark,5.334469567157868,5,0.008260250181415093
+Infrastructure,Technology Adoption,Djibouti,1.524475524475524,1,0.00047212001377377636
+Infrastructure,Technology Adoption,Dominican Republic,2.991343265674332,4,0.0037055971082989555
+Infrastructure,Technology Adoption,Ecuador,2.889592830342872,5,0.004474439192231143
 Infrastructure,Technology Adoption,Egypt,3.4739773912015197,4,0.00430347152827689
-Infrastructure,Technology Adoption,El Salvador,2.492016809798152,4,0.003087044669926481
-Infrastructure,Technology Adoption,Estonia,3.888490817270219,7,0.008429679690582698
+Infrastructure,Technology Adoption,"Egypt, Arab Rep.",1.9790209790209792,1,0.0006128897426512787
+Infrastructure,Technology Adoption,El Salvador,2.669137923362997,5,0.004133072039893151
+Infrastructure,Technology Adoption,Estonia,4.065016877698854,8,0.010071271298108031
 Infrastructure,Technology Adoption,Eswatini,2.255728137981551,4,0.002794336497964139
-Infrastructure,Technology Adoption,Ethiopia,2.2707415669051465,4,0.002812934737572185
-Infrastructure,Technology Adoption,Finland,4.466555678355742,6,0.008299576980530955
-Infrastructure,Technology Adoption,France,4.08195768624868,8,0.010113242951374866
+Infrastructure,Technology Adoption,Ethiopia,2.093516330447194,5,0.003241740988614423
+Infrastructure,Technology Adoption,Finland,4.630674097931296,7,0.010038624554202251
+Infrastructure,Technology Adoption,France,4.221258425072642,9,0.011765662999583083
+Infrastructure,Technology Adoption,Gabon,2.1888111888111883,1,0.0006778603867485872
 Infrastructure,Technology Adoption,Gambia,2.0958276936319953,4,0.0025962560466175227
-Infrastructure,Technology Adoption,Georgia,2.8382300946489654,3,0.0026369434140436345
-Infrastructure,Technology Adoption,Germany,4.582003888499001,8,0.011352131033754105
-Infrastructure,Technology Adoption,Ghana,2.2869347663037876,4,0.0028329944457154382
-Infrastructure,Technology Adoption,Greece,2.543461042417863,6,0.004726158641841802
+Infrastructure,Technology Adoption,Georgia,3.025525717839871,4,0.0037479414281076135
+Infrastructure,Technology Adoption,Germany,4.708478980919081,9,0.013123663929474056
+Infrastructure,Technology Adoption,Ghana,2.3022750857703027,5,0.0035649970358784494
+Infrastructure,Technology Adoption,Greece,2.8724171572372894,7,0.006226980520489633
 Infrastructure,Technology Adoption,Guatemala,2.7540748361887175,4,0.0034116752383880054
-Infrastructure,Technology Adoption,Guinea,2.666766927716346,3,0.0024776403788011885
-Infrastructure,Technology Adoption,Honduras,2.3986234973948997,3,0.0022285136240894083
+Infrastructure,Technology Adoption,Guinea,2.267557713269777,4,0.002808990663697463
+Infrastructure,Technology Adoption,Haiti,1.34965034965035,1,0.00041797781035935274
+Infrastructure,Technology Adoption,Honduras,2.451065525144077,4,0.003036315299032613
 Infrastructure,Technology Adoption,Hong Kong (China),4.169125200444676,3,0.0038734517192115293
-Infrastructure,Technology Adoption,Hungary,3.1168200977716585,7,0.0067568103698983
-Infrastructure,Technology Adoption,Iceland,3.9248901655753525,6,0.007293075563162625
-Infrastructure,Technology Adoption,India,3.0114211068614654,5,0.004663086260237636
-Infrastructure,Technology Adoption,Indonesia,3.0813225771514694,5,0.004771326381467125
+Infrastructure,Technology Adoption,"Hong Kong SAR, China",,0,
+Infrastructure,Technology Adoption,Hungary,3.3242455575781733,8,0.00823597536718036
+Infrastructure,Technology Adoption,Iceland,4.171384377685967,7,0.009042951577516806
+Infrastructure,Technology Adoption,India,3.031662111195743,6,0.0056333145454241125
+Infrastructure,Technology Adoption,Indonesia,2.9850182315423086,6,0.005546642734361676
 Infrastructure,Technology Adoption,"Iran, Islamic Rep.",3.1409250591994193,3,0.002918171315453161
-Infrastructure,Technology Adoption,Ireland,4.369475198142415,6,0.008119185874529108
-Infrastructure,Technology Adoption,Israel,4.487743728774774,4,0.005559298518147753
-Infrastructure,Technology Adoption,Italy,3.6610024686928098,8,0.009070306518904453
-Infrastructure,Technology Adoption,Jamaica,2.859726524888031,4,0.0035425537626361486
-Infrastructure,Technology Adoption,Japan,4.780188745042352,5,0.0074019646098518925
-Infrastructure,Technology Adoption,Jordan,3.736848999405915,4,0.004629109940422317
-Infrastructure,Technology Adoption,Kazakhstan,2.9221420618506007,4,0.0036198724829366374
-Infrastructure,Technology Adoption,Kenya,3.0542186310787818,4,0.0037834854519402683
+Infrastructure,Technology Adoption,Iraq,1.174825174825175,1,0.00036383560694492874
+Infrastructure,Technology Adoption,Ireland,4.512497222783408,7,0.00978243436342021
+Infrastructure,Technology Adoption,Israel,4.580404773229609,5,0.007092605718844238
+Infrastructure,Technology Adoption,Italy,3.7693759317673456,9,0.010506157753454974
+Infrastructure,Technology Adoption,Jamaica,3.1241448562740612,5,0.004837635268309169
+Infrastructure,Technology Adoption,Japan,4.942698080076085,6,0.009184325946254726
+Infrastructure,Technology Adoption,Jordan,3.6719966820422143,5,0.005685965751071871
+Infrastructure,Technology Adoption,Kazakhstan,3.188063299830131,5,0.004936610869975427
+Infrastructure,Technology Adoption,Kenya,3.0769413384294593,5,0.00476454217780963
 Infrastructure,Technology Adoption,Korea,5.108695652173913,1,0.001582129344123231
 Infrastructure,Technology Adoption,"Korea, Rep.",4.654353967387097,4,0.005765690885583273
-Infrastructure,Technology Adoption,Kuwait,3.4139160011823804,3,0.003171801797320267
+Infrastructure,Technology Adoption,Kuwait,3.5709265113762956,4,0.004423569540261747
+Infrastructure,Technology Adoption,Kyrgyz Republic,1.944055944055944,1,0.0006020613019683938
 Infrastructure,Technology Adoption,Kyrgyzstan,2.5837516882688627,4,0.003200683416870688
 Infrastructure,Technology Adoption,Lao PDR,2.693071926516245,4,0.0033361064435010776
-Infrastructure,Technology Adoption,Latvia,3.028992202420138,6,0.0056283534266091135
-Infrastructure,Technology Adoption,Lebanon,3.111566902087525,4,0.0038545269768814183
+Infrastructure,Technology Adoption,Latvia,3.338536772903575,7,0.007237459712085792
+Infrastructure,Technology Adoption,Lebanon,3.304638137054636,5,0.005117123160505784
 Infrastructure,Technology Adoption,Legend:,,0,
-Infrastructure,Technology Adoption,Lesotho,2.138662320643582,3,0.001986988839247676
-Infrastructure,Technology Adoption,Lithuania,3.601071294435018,6,0.006691368153177488
-Infrastructure,Technology Adoption,Luxembourg,3.902193532874233,7,0.008459385175013823
-Infrastructure,Technology Adoption,Madagascar,2.23610277464316,4,0.0027700251156929823
-Infrastructure,Technology Adoption,Malawi,2.0432252176804924,4,0.002531093487371313
-Infrastructure,Technology Adoption,Malaysia,3.871917170539011,5,0.005995536033662142
-Infrastructure,Technology Adoption,Mali,2.614100592893624,3,0.0024287091293530108
-Infrastructure,Technology Adoption,Malta,4.200116072122666,4,0.0052029929663953735
-Infrastructure,Technology Adoption,Mauritius,2.5983406344389013,4,0.003218755818443978
-Infrastructure,Technology Adoption,Mexico,3.1938818580122414,5,0.004945620715410717
-Infrastructure,Technology Adoption,Moldova,2.9534351800381966,4,0.003658637572051033
-Infrastructure,Technology Adoption,Mongolia,2.3905580431162154,4,0.002961360226839536
-Infrastructure,Technology Adoption,Montenegro,2.867121010887542,4,0.0035517138567823375
-Infrastructure,Technology Adoption,Morocco,3.1182134917152764,4,0.0038627605967361737
+Infrastructure,Technology Adoption,Lesotho,2.0200806565666025,4,0.002502422615752992
+Infrastructure,Technology Adoption,Liberia,1.4895104895104891,1,0.00046129157309089165
+Infrastructure,Technology Adoption,Lithuania,3.7739452253998453,7,0.008181361591142433
+Infrastructure,Technology Adoption,Luxembourg,4.164419341264955,8,0.010317545596196851
+Infrastructure,Technology Adoption,"Macedonia, FYR",,0,
+Infrastructure,Technology Adoption,Madagascar,2.17070040153271,5,0.0033612579769784915
+Infrastructure,Technology Adoption,Malawi,1.9254892650534845,5,0.0029815566197793192
+Infrastructure,Technology Adoption,Malaysia,4.010979926498127,6,0.007453044149578434
+Infrastructure,Technology Adoption,Mali,2.3854006194953925,4,0.002954971346541211
+Infrastructure,Technology Adoption,Malta,4.371281668886944,5,0.006768785489140514
+Infrastructure,Technology Adoption,Mauritania,1.6293706293706292,1,0.0005046053358224308
+Infrastructure,Technology Adoption,Mauritius,3.0129382418168555,5,0.004665435493677385
+Infrastructure,Technology Adoption,Mexico,3.1429201963621822,6,0.005840049915817
+Infrastructure,Technology Adoption,Moldova,3.1082026894851027,5,0.004812949348846551
+Infrastructure,Technology Adoption,Mongolia,2.7348240568705946,5,0.004234784851146786
+Infrastructure,Technology Adoption,Montenegro,3.018172333185558,5,0.004673540311529201
+Infrastructure,Technology Adoption,Morocco,3.107158205959634,5,0.004811332000556881
 Infrastructure,Technology Adoption,Mozambique,1.9826690940370761,4,0.0024560781592283384
-Infrastructure,Technology Adoption,Namibia,2.482622111215689,4,0.003075406765209897
-Infrastructure,Technology Adoption,Nepal,2.049881673653715,4,0.0025393393293945063
-Infrastructure,Technology Adoption,Netherlands,4.601940805676252,7,0.009976334976690543
-Infrastructure,Technology Adoption,New Zealand,4.220981056204673,5,0.00653604994766905
-Infrastructure,Technology Adoption,Nigeria,2.4787992880381835,4,0.0030706711527261486
+Infrastructure,Technology Adoption,Myanmar,1.7342657342657342,1,0.0005370906578710852
+Infrastructure,Technology Adoption,Namibia,2.570713073587936,5,0.003980664406299065
+Infrastructure,Technology Adoption,Nepal,2.091653590671224,5,0.003238856597508863
+Infrastructure,Technology Adoption,Netherlands,4.763586316854832,8,0.011802010075824917
+Infrastructure,Technology Adoption,New Zealand,4.465036661056342,6,0.008296754402706117
+Infrastructure,Technology Adoption,Nicaragua,1.7692307692307692,1,0.00054791909855397
+Infrastructure,Technology Adoption,Niger,1.0,1,0.0003096934035305048
+Infrastructure,Technology Adoption,Nigeria,2.6305918779829947,5,0.00407338475996128
 Infrastructure,Technology Adoption,North Macedonia,3.2491395918722352,4,0.004024948395010511
-Infrastructure,Technology Adoption,Norway,3.92621584521852,6,0.007295538888606726
-Infrastructure,Technology Adoption,Oman,3.460984769785006,3,0.003215532458765877
-Infrastructure,Technology Adoption,Pakistan,2.9359717095599427,4,0.0036370042856115736
-Infrastructure,Technology Adoption,Panama,2.517001401537545,4,0.0031179949229328523
-Infrastructure,Technology Adoption,Paraguay,2.8201964098574965,4,0.003493584899173114
-Infrastructure,Technology Adoption,Peru,2.8925853621672992,4,0.003583258423248435
-Infrastructure,Technology Adoption,Philippines,3.6615151237365433,4,0.00453578832299355
-Infrastructure,Technology Adoption,Poland,3.1537974059769738,8,0.00781368202162149
-Infrastructure,Technology Adoption,Portugal,3.4317995096845784,6,0.006376834022331208
-Infrastructure,Technology Adoption,Qatar,4.3964079506762435,3,0.004084615624660492
-Infrastructure,Technology Adoption,Romania,3.672125310859262,4,0.004548931942842072
+Infrastructure,Technology Adoption,Norway,4.212480714483007,7,0.009132042428423985
+Infrastructure,Technology Adoption,Oman,3.5450392766394536,4,0.004391501116927164
+Infrastructure,Technology Adoption,Pakistan,2.716609535480122,5,0.004206580265531313
+Infrastructure,Technology Adoption,Panama,2.6331815408104555,5,0.004077394767436444
+Infrastructure,Technology Adoption,Paraguay,2.8128004845293537,5,0.004355528777530743
+Infrastructure,Technology Adoption,Peru,2.863718639384189,5,0.004434373860923179
+Infrastructure,Technology Adoption,Philippines,3.46487643465357,5,0.005365246879302524
+Infrastructure,Technology Adoption,Poland,3.330181998786059,9,0.009282018578220665
+Infrastructure,Technology Adoption,Portugal,3.563920059250118,7,0.007726057731418652
+Infrastructure,Technology Adoption,Qatar,4.299054214755435,4,0.005325554926919089
+Infrastructure,Technology Adoption,Romania,3.8300079409951024,5,0.00593064097397817
 Infrastructure,Technology Adoption,Russia,4.195652173913043,1,0.0012993658017692916
-Infrastructure,Technology Adoption,Russian Federation,3.69948376878113,4,0.004582822878638749
-Infrastructure,Technology Adoption,Rwanda,2.6275240600279712,4,0.003254907476033411
-Infrastructure,Technology Adoption,Saudi Arabia,4.268558115744484,3,0.003965832873098003
-Infrastructure,Technology Adoption,Senegal,2.75157742174801,4,0.0034085815072753298
-Infrastructure,Technology Adoption,Serbia,3.5459793882313786,4,0.004392665702361571
-Infrastructure,Technology Adoption,Singapore,5.402750597170003,4,0.006692784883456183
-Infrastructure,Technology Adoption,Slovak Republic,2.5597263333451736,3,0.002378191080840979
+Infrastructure,Technology Adoption,Russian Federation,3.865880721318611,5,0.005986188791140617
+Infrastructure,Technology Adoption,Rwanda,2.6167045627076915,5,0.004051880710293731
+Infrastructure,Technology Adoption,Saudi Arabia,4.308061943451719,4,0.0053367134635512155
+Infrastructure,Technology Adoption,Senegal,2.625038161174632,5,0.0040647850126581475
+Infrastructure,Technology Adoption,Serbia,3.757063230864823,5,0.0058176884962292084
+Infrastructure,Technology Adoption,Sierra Leone,1.27972027972028,1,0.00039632092899358315
+Infrastructure,Technology Adoption,Singapore,5.403319358854884,5,0.00836686181303017
+Infrastructure,Technology Adoption,Slovak Republic,3.166298246512377,4,0.003922326722220349
 Infrastructure,Technology Adoption,Slovakia,3.972034472511024,4,0.004920451498929729
-Infrastructure,Technology Adoption,Slovenia,3.630992435707885,6,0.006746966433647355
-Infrastructure,Technology Adoption,South Africa,2.8231049074509085,5,0.004371484836560713
-Infrastructure,Technology Adoption,Spain,3.9739438411628263,8,0.009845633548870428
-Infrastructure,Technology Adoption,Sri Lanka,2.4764988308745206,4,0.003067821407091385
-Infrastructure,Technology Adoption,Sweden,4.591767962170882,7,0.009954281738989214
-Infrastructure,Technology Adoption,Switzerland,4.394972782835399,5,0.006805470397701145
+Infrastructure,Technology Adoption,Slovenia,3.8495419678694955,7,0.008345244278441149
+Infrastructure,Technology Adoption,South Africa,2.9388345091228434,6,0.005460825969258922
+Infrastructure,Technology Adoption,Spain,4.07474106782461,9,0.011357283868201144
+Infrastructure,Technology Adoption,Sri Lanka,2.6777025612031133,5,0.00414633409910671
+Infrastructure,Technology Adoption,Sudan,1.244755244755245,1,0.00038549248831069833
+Infrastructure,Technology Adoption,Swaziland,2.0489510489510483,1,0.000634546624017048
+Infrastructure,Technology Adoption,Sweden,4.741573190675744,8,0.011747471516074932
+Infrastructure,Technology Adoption,Switzerland,4.656649813201994,6,0.008652802378201289
+Infrastructure,Technology Adoption,Syrian Arab Republic,1.5944055944055942,1,0.0004937768951395461
 Infrastructure,Technology Adoption,Tajikistan,2.0256540904051166,4,0.0025093268385321978
-Infrastructure,Technology Adoption,Tanzania,2.2104561214706777,4,0.0027382547184523725
-Infrastructure,Technology Adoption,Thailand,3.439844811971443,5,0.005326486237180927
+Infrastructure,Technology Adoption,Tanzania,2.143190072001717,5,0.003318659139054997
+Infrastructure,Technology Adoption,Thailand,3.586817063589256,6,0.006664881505585487
+Infrastructure,Technology Adoption,Togo,2.1538461538461533,1,0.0006670319460657025
 Infrastructure,Technology Adoption,Trinidad and Tobago,2.7301205144574663,4,0.0033820012566831417
-Infrastructure,Technology Adoption,Tunisia,3.158701609746027,4,0.003912916209038126
-Infrastructure,Technology Adoption,Turkey,3.1431533148282957,7,0.006813896935211542
-Infrastructure,Technology Adoption,Uganda,2.0296788811864026,4,0.0025143126431544163
-Infrastructure,Technology Adoption,Ukraine,3.642463719518506,4,0.004512187946136273
-Infrastructure,Technology Adoption,United Arab Emirates,4.004394963836512,3,0.0037204041162928266
-Infrastructure,Technology Adoption,United Kingdom,4.462306645535844,7,0.009673628528569497
-Infrastructure,Technology Adoption,United States,4.374896046491624,6,0.008129258680380842
-Infrastructure,Technology Adoption,Uruguay,3.148358087718809,4,0.0039001029268737183
+Infrastructure,Technology Adoption,Tunisia,3.1815067423422763,5,0.004926458256956141
+Infrastructure,Technology Adoption,Turkey,3.2423920176076257,8,0.008033179356104368
+Infrastructure,Technology Adoption,Uganda,2.2293375105435276,5,0.0034520556062922385
+Infrastructure,Technology Adoption,Ukraine,3.680404542048371,5,0.005698985044980444
+Infrastructure,Technology Adoption,United Arab Emirates,4.310988530569692,4,0.00534033884245239
+Infrastructure,Technology Adoption,United Kingdom,4.632665167990717,8,0.011477646746338102
+Infrastructure,Technology Adoption,United States,4.482178629260553,7,0.009716708084491753
+Infrastructure,Technology Adoption,Uruguay,3.257148008636586,5,0.0050435862629863515
+Infrastructure,Technology Adoption,Uzbekistan,2.3286713286713283,1,0.0007211741494801264
 Infrastructure,Technology Adoption,Venezuela,2.7585549195219476,4,0.0034172250474102787
+Infrastructure,Technology Adoption,"Venezuela, RB",,0,
 Infrastructure,Technology Adoption,Viet Nam,3.649253560030212,4,0.00452059902140627
-Infrastructure,Technology Adoption,Vietnam,2.6521739130434785,1,0.000821360765885252
+Infrastructure,Technology Adoption,Vietnam,3.049863180297963,2,0.0018890450172176915
 Infrastructure,Technology Adoption,Yemen,1.6276458839245969,4,0.0020162847741401015
-Infrastructure,Technology Adoption,Zambia,2.6732114834223726,4,0.0033115038506316167
-Infrastructure,Technology Adoption,Zimbabwe,2.0826972380118867,4,0.002579990384653932
+Infrastructure,Technology Adoption,Zambia,2.4994083475770585,5,0.0038702513898684707
+Infrastructure,Technology Adoption,Zimbabwe,2.110913035164754,5,0.003268679212085404
 Infrastructure,Usage and ownership,Afghanistan,1.8467264667024657,8,0.0045753520389036
 Infrastructure,Usage and ownership,Albania,3.348002284358266,12,0.012442250669649796
 Infrastructure,Usage and ownership,Algeria,2.996055271572015,9,0.008350726987967834

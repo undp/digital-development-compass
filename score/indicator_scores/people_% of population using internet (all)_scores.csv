@@ -1,196 +1,138 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Benin,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Botswana,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Burkina Faso,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Burundi,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Cabo Verde,2019.0,% of population using internet (all),65.03366384,3.18446601516875,True,Digital Literacy Skills
-Cameroon,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Cabo Verde,2019.0,% of population using internet (all),61.94339776,3.7152471888548657,True,Digital Literacy Skills
 Central African Rep.,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Chad,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Congo (Rep. of the),2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Côte d'Ivoire,2019.0,% of population using internet (all),38.1782649,1.0,True,Digital Literacy Skills
-Dem. Rep. of the Congo,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Côte d'Ivoire,2019.0,% of population using internet (all),36.28895457,2.1628897008198593,True,Digital Literacy Skills
 Equatorial Guinea,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Eritrea,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Eswatini,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Ethiopia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Gabon,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Gambia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Ghana,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Guinea,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Guinea-Bissau,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Kenya,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Lesotho,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Liberia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Kenya,2019.0,% of population using internet (all),22.56511937,1.3324566183516056,True,Digital Literacy Skills
+Lesotho,2019.0,% of population using internet (all),42.30173357,2.5267246293513814,True,Digital Literacy Skills
 Madagascar,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Malawi,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mali,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mauritius,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mozambique,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Namibia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Mauritius,2019.0,% of population using internet (all),61.72995515,3.7023317171977617,True,Digital Literacy Skills
 Niger,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Nigeria,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Rwanda,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Sao Tome and Principe,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Senegal,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Seychelles,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Sierra Leone,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-South Africa,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 South Sudan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Tanzania,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Togo,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Uganda,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Zambia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Zimbabwe,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Algeria,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Bahrain,2019.0,% of population using internet (all),99.64728926,6.0,True,Digital Literacy Skills
+Bahrain,2019.0,% of population using internet (all),99.70149256,6.0,True,Digital Literacy Skills
 Comoros,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Djibouti,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Egypt,2019.0,% of population using internet (all),50.18629577,1.9767546333315513,True,Digital Literacy Skills
-Jordan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Kuwait,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Lebanon,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Egypt,2019.0,% of population using internet (all),57.2828664,3.4332371408746365,True,Digital Literacy Skills
+Iraq,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Kuwait,2019.0,% of population using internet (all),99.54267645,5.990389993041236,True,Digital Literacy Skills
 Libya,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mauritania,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Morocco,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Oman,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Palestine,2019.0,% of population using internet (all),68.54367214,3.469976346310762,True,Digital Literacy Skills
-Qatar,2019.0,% of population using internet (all),99.61532167,5.9973996992523615,True,Digital Literacy Skills
-Saudi Arabia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Morocco,2019.0,% of population using internet (all),74.37631447,4.467566434684658,True,Digital Literacy Skills
+Palestine,2019.0,% of population using internet (all),70.6225837,4.2404271424489846,True,Digital Literacy Skills
+Qatar,2019.0,% of population using internet (all),99.65280421,5.997053854408657,True,Digital Literacy Skills
+Saudi Arabia,2019.0,% of population using internet (all),95.7247356,5.759365331017682,True,Digital Literacy Skills
 Somalia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Sudan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Syrian Arab Republic,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Tunisia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-United Arab Emirates,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Tunisia,2019.0,% of population using internet (all),66.6999983,4.003070409619157,True,Digital Literacy Skills
+United Arab Emirates,2019.0,% of population using internet (all),99.14999998,5.966629030697791,True,Digital Literacy Skills
 Yemen,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Afghanistan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Australia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Bangladesh,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Bhutan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Brunei Darussalam,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Cambodia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-China,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Brunei Darussalam,2019.0,% of population using internet (all),95.0,5.715511378422676,True,Digital Literacy Skills
+Cambodia,2019.0,% of population using internet (all),78.27288351,4.703348910339682,True,Digital Literacy Skills
+China,2019.0,% of population using internet (all),64.56912253,3.8741305245032236,True,Digital Literacy Skills
 Dem. People's Rep. of Korea,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Fiji,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-"Hong Kong, China",2019.0,% of population using internet (all),95.83242288,5.689691969270748,True,Digital Literacy Skills
-India,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Indonesia,2019.0,% of population using internet (all),43.87899011,1.4637071491986826,True,Digital Literacy Skills
-Iran (Islamic Republic of),2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Japan,2019.0,% of population using internet (all),96.52325497,5.745885482767406,True,Digital Literacy Skills
+"Hong Kong, China",2019.0,% of population using internet (all),91.74340039,5.518453630855348,True,Digital Literacy Skills
+India,2019.0,% of population using internet (all),41.0,2.447956369216087,True,Digital Literacy Skills
+Indonesia,2019.0,% of population using internet (all),47.69064898,2.8528093986501974,True,Digital Literacy Skills
+Iran (Islamic Republic of),2019.0,% of population using internet (all),77.77083846,4.672970024821629,True,Digital Literacy Skills
+Japan,2019.0,% of population using internet (all),92.73039781,5.578177119073772,True,Digital Literacy Skills
 Kiribati,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Korea (Rep. of),2019.0,% of population using internet (all),95.57943781,5.66911371277213,True,Digital Literacy Skills
-Lao P.D.R.,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-"Macao, China",2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Malaysia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Maldives,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Korea (Rep. of),2019.0,% of population using internet (all),96.15757918,5.7855568163516065,True,Digital Literacy Skills
+"Macao, China",2019.0,% of population using internet (all),86.46792571,5.199233191659486,True,Digital Literacy Skills
+Malaysia,2019.0,% of population using internet (all),84.18714501,5.061222517563435,True,Digital Literacy Skills
 Marshall Islands,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Micronesia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mongolia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Myanmar,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Mongolia,2019.0,% of population using internet (all),51.07999408,3.0578996127138045,True,Digital Literacy Skills
 Nauru,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Nepal (Republic of),2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-New Zealand,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Pakistan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Pakistan,2019.0,% of population using internet (all),17.07090203,1.0,True,Digital Literacy Skills
 Papua New Guinea,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Philippines,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Philippines,2019.0,% of population using internet (all),46.88,2.8037568035519156,True,Digital Literacy Skills
 Samoa,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Singapore,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Singapore,2019.0,% of population using internet (all),88.94925269,5.349378976899827,True,Digital Literacy Skills
 Solomon Islands,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Sri Lanka,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Thailand,2019.0,% of population using internet (all),63.74968429,3.0800248300866313,True,Digital Literacy Skills
-Timor-Leste,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Sri Lanka,2019.0,% of population using internet (all),29.0,1.7218330338368453,True,Digital Literacy Skills
+Thailand,2019.0,% of population using internet (all),66.65241946,4.000191400786302,True,Digital Literacy Skills
 Tonga,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Tuvalu,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Vanuatu,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Viet Nam,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Armenia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Azerbaijan,2019.0,% of population using internet (all),80.17576223,4.4161512865437,True,Digital Literacy Skills
-Belarus,2019.0,% of population using internet (all),79.70026759,4.377473705034091,True,Digital Literacy Skills
-Kazakhstan,2019.0,% of population using internet (all),83.77452422,4.708881001019357,True,Digital Literacy Skills
-Kyrgyzstan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Russian Federation,2019.0,% of population using internet (all),80.49745548,4.442318388864697,True,Digital Literacy Skills
+Viet Nam,2019.0,% of population using internet (all),68.66158021,4.121766276211556,True,Digital Literacy Skills
+Armenia,2019.0,% of population using internet (all),66.54394969,3.993627864854617,True,Digital Literacy Skills
+Azerbaijan,2019.0,% of population using internet (all),81.09999907,4.8744184586671615,True,Digital Literacy Skills
+Belarus,2019.0,% of population using internet (all),82.78915209,4.9766295774045215,True,Digital Literacy Skills
+Kazakhstan,2019.0,% of population using internet (all),81.87762047,4.921472545719684,True,Digital Literacy Skills
+Russian Federation,2019.0,% of population using internet (all),82.64216156,4.967735139578458,True,Digital Literacy Skills
 Tajikistan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Turkmenistan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Uzbekistan,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Albania,2019.0,% of population using internet (all),62.65798734,2.991224254401034,True,Digital Literacy Skills
+Uzbekistan,2019.0,% of population using internet (all),70.4000024,4.226958686119897,True,Digital Literacy Skills
+Albania,2019.0,% of population using internet (all),68.55039112,4.115038193470841,True,Digital Literacy Skills
 Andorra,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Austria,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Belgium,2019.0,% of population using internet (all),89.0580317,5.138650916436964,True,Digital Literacy Skills
-Bosnia and Herzegovina,2019.0,% of population using internet (all),66.55908858,3.308546782342325,True,Digital Literacy Skills
-Bulgaria,2019.0,% of population using internet (all),65.1519859,3.1940905424190147,True,Digital Literacy Skills
-Croatia,2019.0,% of population using internet (all),76.08008749,4.08300180331673,True,Digital Literacy Skills
-Cyprus,2019.0,% of population using internet (all),83.76870913,4.708407991234303,True,Digital Literacy Skills
-Czech Republic,2019.0,% of population using internet (all),85.6723203,4.863251116679997,True,Digital Literacy Skills
-Denmark,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Estonia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Finland,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-France,2019.0,% of population using internet (all),88.18151318,5.0673533377681865,True,Digital Literacy Skills
-Georgia,2019.0,% of population using internet (all),69.7411228,3.56737911725658,True,Digital Literacy Skills
-Germany,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Greece,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Hungary,2019.0,% of population using internet (all),77.79785586,4.222728144175802,True,Digital Literacy Skills
-Iceland,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Ireland,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Israel,2019.0,% of population using internet (all),89.04156076,5.137311140820586,True,Digital Literacy Skills
-Italy,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Latvia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Austria,2019.0,% of population using internet (all),87.75220479,5.276945275753434,True,Digital Literacy Skills
+Belgium,2019.0,% of population using internet (all),90.27542981,5.429626323039664,True,Digital Literacy Skills
+Bosnia and Herzegovina,2019.0,% of population using internet (all),69.94634763,4.199507909894638,True,Digital Literacy Skills
+Bulgaria,2019.0,% of population using internet (all),67.94698094,4.078525675762226,True,Digital Literacy Skills
+Croatia,2019.0,% of population using internet (all),79.07978368,4.75217466390289,True,Digital Literacy Skills
+Cyprus,2019.0,% of population using internet (all),86.06362996,5.174769143453681,True,Digital Literacy Skills
+Czech Republic,2019.0,% of population using internet (all),80.86694441,4.860316256413423,True,Digital Literacy Skills
+Denmark,2019.0,% of population using internet (all),98.04643475,5.899851991896444,True,Digital Literacy Skills
+Estonia,2019.0,% of population using internet (all),90.2289282,5.426812497693521,True,Digital Literacy Skills
+Finland,2019.0,% of population using internet (all),89.60738511,5.389202752560795,True,Digital Literacy Skills
+France,2019.0,% of population using internet (all),83.33974409,5.009946052360616,True,Digital Literacy Skills
+Georgia,2019.0,% of population using internet (all),68.84670565,4.132968268041253,True,Digital Literacy Skills
+Germany,2019.0,% of population using internet (all),88.13451691,5.300079088397627,True,Digital Literacy Skills
+Greece,2019.0,% of population using internet (all),75.67120669,4.545920722829911,True,Digital Literacy Skills
+Hungary,2019.0,% of population using internet (all),80.37169361,4.830348492851319,True,Digital Literacy Skills
+Ireland,2019.0,% of population using internet (all),87.00005524,5.231432497424268,True,Digital Literacy Skills
+Israel,2019.0,% of population using internet (all),86.78787762,5.218593570663666,True,Digital Literacy Skills
+Latvia,2019.0,% of population using internet (all),86.13545644,5.179115383722528,True,Digital Literacy Skills
 Liechtenstein,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Lithuania,2019.0,% of population using internet (all),79.04650569,4.324295546863631,True,Digital Literacy Skills
-Luxembourg,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Malta,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Lithuania,2019.0,% of population using internet (all),81.58186838,4.903576504550003,True,Digital Literacy Skills
+Luxembourg,2019.0,% of population using internet (all),97.12063569,5.843831633451598,True,Digital Literacy Skills
+Malta,2019.0,% of population using internet (all),85.77856081,5.157519529952704,True,Digital Literacy Skills
 Moldova,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Monaco,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Montenegro,2019.0,% of population using internet (all),69.2990951,3.5314237962959596,True,Digital Literacy Skills
-Netherlands,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-North Macedonia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Norway,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Poland,2019.0,% of population using internet (all),77.89616227,4.230724562780421,True,Digital Literacy Skills
-Portugal,2019.0,% of population using internet (all),71.7966611,3.734580266241922,True,Digital Literacy Skills
-Romania,2019.0,% of population using internet (all),70.5137861,3.6302289272254855,True,Digital Literacy Skills
+Montenegro,2019.0,% of population using internet (all),73.47666575,4.413128440581652,True,Digital Literacy Skills
+Netherlands,2019.0,% of population using internet (all),93.2885906,5.611953519945393,True,Digital Literacy Skills
+North Macedonia,2019.0,% of population using internet (all),81.41288276,4.893351137714542,True,Digital Literacy Skills
+Norway,2019.0,% of population using internet (all),98.00000439,5.897042477907606,True,Digital Literacy Skills
+Poland,2019.0,% of population using internet (all),80.43590724,4.834234077450686,True,Digital Literacy Skills
+Portugal,2019.0,% of population using internet (all),75.34637155,4.526264858221145,True,Digital Literacy Skills
+Romania,2019.0,% of population using internet (all),73.65747575,4.424069303937479,True,Digital Literacy Skills
 San Marino,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Serbia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Slovakia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Slovenia,2019.0,% of population using internet (all),81.03807851,4.4862936296976885,True,Digital Literacy Skills
-Spain,2019.0,% of population using internet (all),89.58615831,5.181609676194315,True,Digital Literacy Skills
-Sweden,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Switzerland,2019.0,% of population using internet (all),96.00048248,5.703362236673705,True,Digital Literacy Skills
-Turkey,2019.0,% of population using internet (all),70.22697019,3.6068988099032846,True,Digital Literacy Skills
-Ukraine,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-United Kingdom,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Serbia,2019.0,% of population using internet (all),77.41677362,4.651545462941519,True,Digital Literacy Skills
+Slovakia,2019.0,% of population using internet (all),82.8536605,4.980532999223623,True,Digital Literacy Skills
+Slovenia,2019.0,% of population using internet (all),83.1083578,4.995944803639297,True,Digital Literacy Skills
+Spain,2019.0,% of population using internet (all),90.71866533,5.45644662755141,True,Digital Literacy Skills
+Sweden,2019.0,% of population using internet (all),94.49344341,5.684859498365247,True,Digital Literacy Skills
+Switzerland,2019.0,% of population using internet (all),93.14608695,5.60333058447525,True,Digital Literacy Skills
+Turkey,2019.0,% of population using internet (all),73.97670281,4.443385822066689,True,Digital Literacy Skills
+Ukraine,2019.0,% of population using internet (all),70.1248443,4.21030879300918,True,Digital Literacy Skills
+United Kingdom,2019.0,% of population using internet (all),92.51662855,5.5652418817343765,True,Digital Literacy Skills
 Vatican,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Antigua and Barbuda,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Argentina,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Bahamas,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Argentina,2019.0,% of population using internet (all),79.9,4.801806181403796,True,Digital Literacy Skills
 Barbados,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Belize,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Bolivia (Plurinational State of),2019.0,% of population using internet (all),49.67187517,1.9349107448563383,True,Digital Literacy Skills
-Brazil,2019.0,% of population using internet (all),71.98270877,3.749713715319493,True,Digital Literacy Skills
-Canada,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Chile,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Colombia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Costa Rica,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Cuba,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Bolivia (Plurinational State of),2019.0,% of population using internet (all),47.47481911,2.8397494732269584,True,Digital Literacy Skills
+Brazil,2019.0,% of population using internet (all),73.91244005,4.439497264597366,True,Digital Literacy Skills
+Colombia,2019.0,% of population using internet (all),65.00690072,3.9006206044598146,True,Digital Literacy Skills
+Costa Rica,2019.0,% of population using internet (all),81.20259644,4.880626654042624,True,Digital Literacy Skills
+Cuba,2019.0,% of population using internet (all),67.97080866,4.079967497722299,True,Digital Literacy Skills
 Dominica,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Dominican Rep.,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Ecuador,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-El Salvador,2019.0,% of population using internet (all),46.36120318,1.66561478445434,True,Digital Literacy Skills
+El Salvador,2019.0,% of population using internet (all),50.49119319,3.022271107203716,True,Digital Literacy Skills
 Grenada,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Guatemala,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Guatemala,2019.0,% of population using internet (all),44.40104984,2.6537548403504068,True,Digital Literacy Skills
 Guyana,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Haiti,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Honduras,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
+Honduras,2019.0,% of population using internet (all),39.39,2.3505348217193722,True,Digital Literacy Skills
 Jamaica,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Mexico,2019.0,% of population using internet (all),68.12928377,3.4362692577149603,True,Digital Literacy Skills
-Nicaragua,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Panama,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Paraguay,2019.0,% of population using internet (all),70.54680833,3.63291501427045,True,Digital Literacy Skills
-Peru,2019.0,% of population using internet (all),55.18456078,2.383322417840959,True,Digital Literacy Skills
+Mexico,2019.0,% of population using internet (all),70.06991047,4.206984731687116,True,Digital Literacy Skills
+Panama,2019.0,% of population using internet (all),63.62841477,3.8172080364775285,True,Digital Literacy Skills
+Paraguay,2019.0,% of population using internet (all),68.51762842,4.113055713387505,True,Digital Literacy Skills
+Peru,2019.0,% of population using internet (all),59.95050106,3.5946564556156755,True,Digital Literacy Skills
 Saint Kitts and Nevis,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Saint Lucia,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Saint Vincent and the Grenadines,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Suriname,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
 Trinidad and Tobago,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-United States,2019.0,% of population using internet (all),,,True,Digital Literacy Skills
-Uruguay,2019.0,% of population using internet (all),84.54098407,4.771226211308619,True,Digital Literacy Skills
+United States,2019.0,% of population using internet (all),89.43028486,5.378486367208588,True,Digital Literacy Skills
+Uruguay,2019.0,% of population using internet (all),83.35153377,5.010659449174337,True,Digital Literacy Skills
 Venezuela,2019.0,% of population using internet (all),,,True,Digital Literacy Skills

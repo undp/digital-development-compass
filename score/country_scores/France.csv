@@ -1,7 +1,7 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-45,Business,Financing Incentives,France,5.357142857142858,1,0.6696428571428572
-242,Business,Startup Environment,France,3.836574130198117,6,2.877430597648588
-493,Business,Technology Adoption,France,4.08195768624868,8,4.08195768624868
+45,Business,Financing Incentives,France,5.357142857142858,1,0.5952380952380952
+242,Business,Startup Environment,France,3.8365741301981178,6,2.557716086798745
+501,Business,Technology Adoption,France,4.221258425072642,9,4.221258425072642
 27,Foundations,Data Exchange,France,4.876404494382022,1,1.2191011235955056
 159,Foundations,Digital Legal Identity,France,4.4188311688311686,3,3.3141233766233764
 354,Foundations,Digital Payments,France,5.644947443860488,2,2.822473721930244
@@ -11,23 +11,23 @@
 592,Government,Leadership and coordination,France,3.5,1,0.7000000000000001
 62,Infrastructure,Ambition,France,5.5588235294117645,1,0.0017215309784489
 236,Infrastructure,Capabilities,France,4.738317757009346,1,0.0014674257531772
-416,Infrastructure,Connectivity Technology,France,4.55299698867833,23,0.0324307620748224
-778,Infrastructure,Culture,France,5.037610602184303,4,0.0062404590922072
-1069,Infrastructure,Cybersecurity,France,6.0,1,0.001858160421183
-1144,Infrastructure,Data Exchange,France,4.876404494382022,1,0.0015101903048566
-1276,Infrastructure,Digital Legal Identity,France,5.891774891774891,3,0.005473931457208
-1492,Infrastructure,Digital Literacy Skills,France,3.670584908988235,9,0.0102308034007104
-1690,Infrastructure,Digital Payments,France,5.644947443860488,2,0.0034964059732799
-1871,Infrastructure,Digital Public Services,France,5.196556725146199,5,0.0080466966942493
-2103,Infrastructure,Digital Wellbeing,France,3.6862480903464983,8,0.0091328537388578
-2317,Infrastructure,Ethical Standards,France,4.65079365079365,1,0.0014403201148323
-2450,Infrastructure,Financing Incentives,France,5.357142857142858,1,0.0016590718046277
-2618,Infrastructure,Funding and procurement,France,6.0,1,0.001858160421183
-2815,Infrastructure,Innovation Ecosystem,France,2.3511993594921075,4,0.0029126037280794
-2997,Infrastructure,Leadership and coordination,France,3.5,1,0.0010839269123567
-3224,Infrastructure,Startup Environment,France,3.836574130198117,6,0.0071289702016688
-3475,Infrastructure,Technology Adoption,France,4.08195768624868,8,0.0101132429513748
-3664,Infrastructure,Usage and ownership,France,4.787532995001336,13,0.0192746760405752
+425,Infrastructure,Connectivity Technology,France,4.368789416302014,23,0.0311186610637802
+809,Infrastructure,Culture,France,5.079500081039978,4,0.0062923506733229
+1100,Infrastructure,Cybersecurity,France,6.0,1,0.001858160421183
+1175,Infrastructure,Data Exchange,France,4.876404494382022,1,0.0015101903048566
+1307,Infrastructure,Digital Legal Identity,France,5.891774891774891,3,0.005473931457208
+1521,Infrastructure,Digital Literacy Skills,France,3.664206321720728,9,0.0102130247431051
+1717,Infrastructure,Digital Payments,France,5.644947443860488,2,0.0034964059732799
+1898,Infrastructure,Digital Public Services,France,5.196556725146199,5,0.0080466966942493
+2130,Infrastructure,Digital Wellbeing,France,3.6862480903464983,8,0.0091328537388578
+2344,Infrastructure,Ethical Standards,France,4.65079365079365,1,0.0014403201148323
+2477,Infrastructure,Financing Incentives,France,5.357142857142858,1,0.0016590718046277
+2645,Infrastructure,Funding and procurement,France,6.0,1,0.001858160421183
+2842,Infrastructure,Innovation Ecosystem,France,2.3511993594921075,4,0.0029126037280794
+3024,Infrastructure,Leadership and coordination,France,3.5,1,0.0010839269123567
+3251,Infrastructure,Startup Environment,France,3.836574130198117,6,0.0071289702016688
+3510,Infrastructure,Technology Adoption,France,4.221258425072642,9,0.011765662999583
+3717,Infrastructure,Usage and ownership,France,4.787532995001336,13,0.0192746760405752
 18,Regulation,Cybersecurity,France,6.0,1,6.0
 106,Regulation,Ethical Standards,France,4.65079365079365,1,4.65079365079365
 7,Strategy,Ambition,France,5.5588235294117645,1,5.5588235294117645

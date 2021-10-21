@@ -1,7 +1,7 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-67,Business,Financing Incentives,Japan,5.428571428571429,1,0.6785714285714286
-283,Business,Startup Environment,Japan,3.304900293619884,6,2.478675220214913
-512,Business,Technology Adoption,Japan,3.983490620868627,5,2.489681638042892
+67,Business,Financing Incentives,Japan,5.428571428571429,1,0.6031746031746031
+283,Business,Startup Environment,Japan,3.3049002936198844,6,2.203266862413256
+524,Business,Technology Adoption,Japan,4.236598354350931,6,2.8243989029006205
 42,Foundations,Data Exchange,Japan,4.370786516853933,1,1.0926966292134832
 186,Foundations,Digital Legal Identity,Japan,4.4188311688311686,3,3.3141233766233764
 375,Foundations,Digital Payments,Japan,5.836359292881032,2,2.918179646440516
@@ -11,23 +11,23 @@
 617,Government,Leadership and coordination,Japan,6.0,1,1.2000000000000002
 87,Infrastructure,Ambition,Japan,5.359243697478991,1,0.0016597224210216
 252,Infrastructure,Capabilities,Japan,5.859813084112149,1,0.0018147454580712
-462,Infrastructure,Connectivity Technology,Japan,4.612224210499178,23,0.0328526345126915
-835,Infrastructure,Culture,Japan,3.979876024698399,3,0.0036976240551549
-1078,Infrastructure,Cybersecurity,Japan,6.0,1,0.001858160421183
-1159,Infrastructure,Data Exchange,Japan,4.370786516853933,1,0.0013536037525097
-1303,Infrastructure,Digital Legal Identity,Japan,5.891774891774891,3,0.005473931457208
-1518,Infrastructure,Digital Literacy Skills,Japan,4.648162839324637,5,0.0071975268493723
-1711,Infrastructure,Digital Payments,Japan,5.836359292881032,2,0.0036149639472784
-1899,Infrastructure,Digital Public Services,Japan,4.226438238453276,5,0.0065445002143903
-2140,Infrastructure,Digital Wellbeing,Japan,3.685273154924885,6,0.0068478287177297
-2334,Infrastructure,Ethical Standards,Japan,5.047619047619048,1,0.0015632143225825
-2472,Infrastructure,Financing Incentives,Japan,5.428571428571429,1,0.0016811927620227
-2643,Infrastructure,Funding and procurement,Japan,6.0,1,0.001858160421183
-2841,Infrastructure,Innovation Ecosystem,Japan,3.1703790121909563,4,0.0039273818670683
-3022,Infrastructure,Leadership and coordination,Japan,6.0,1,0.001858160421183
-3265,Infrastructure,Startup Environment,Japan,3.3049002936198844,6,0.0061410349215606
-3494,Infrastructure,Technology Adoption,Japan,4.780188745042352,5,0.0074019646098518
-3705,Infrastructure,Usage and ownership,Japan,4.566883546785779,15,0.0212150056369732
+473,Infrastructure,Connectivity Technology,Japan,4.423551813825088,23,0.0315087307890916
+866,Infrastructure,Culture,Japan,4.026957893612399,3,0.0037413668878405
+1109,Infrastructure,Cybersecurity,Japan,6.0,1,0.001858160421183
+1190,Infrastructure,Data Exchange,Japan,4.370786516853933,1,0.0013536037525097
+1334,Infrastructure,Digital Legal Identity,Japan,5.891774891774891,3,0.005473931457208
+1547,Infrastructure,Digital Literacy Skills,Japan,4.61462116658591,5,0.0071455886754194
+1738,Infrastructure,Digital Payments,Japan,5.836359292881032,2,0.0036149639472784
+1926,Infrastructure,Digital Public Services,Japan,4.226438238453276,5,0.0065445002143903
+2167,Infrastructure,Digital Wellbeing,Japan,3.685273154924885,6,0.0068478287177297
+2361,Infrastructure,Ethical Standards,Japan,5.047619047619048,1,0.0015632143225825
+2499,Infrastructure,Financing Incentives,Japan,5.428571428571429,1,0.0016811927620227
+2670,Infrastructure,Funding and procurement,Japan,6.0,1,0.001858160421183
+2868,Infrastructure,Innovation Ecosystem,Japan,3.1703790121909563,4,0.0039273818670683
+3049,Infrastructure,Leadership and coordination,Japan,6.0,1,0.001858160421183
+3292,Infrastructure,Startup Environment,Japan,3.3049002936198844,6,0.0061410349215606
+3533,Infrastructure,Technology Adoption,Japan,4.942698080076085,6,0.0091843259462547
+3758,Infrastructure,Usage and ownership,Japan,4.566883546785779,15,0.0212150056369732
 27,Regulation,Cybersecurity,Japan,6.0,1,6.0
 123,Regulation,Ethical Standards,Japan,5.047619047619048,1,5.047619047619048
 17,Strategy,Ambition,Japan,5.359243697478991,1,5.359243697478991

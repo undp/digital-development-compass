@@ -1,7 +1,7 @@
 ,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-49,Business,Financing Incentives,Germany,5.785714285714286,1,0.7232142857142857
-247,Business,Startup Environment,Germany,3.8317028374024864,6,2.8737771280518647
-496,Business,Technology Adoption,Germany,4.582003888499001,8,4.582003888499001
+49,Business,Financing Incentives,Germany,5.785714285714286,1,0.6428571428571428
+247,Business,Startup Environment,Germany,3.8317028374024864,6,2.554468558268324
+505,Business,Technology Adoption,Germany,4.708478980919081,9,4.708478980919081
 28,Foundations,Data Exchange,Germany,3.808988764044944,1,0.952247191011236
 164,Foundations,Digital Legal Identity,Germany,4.353896103896104,3,3.2654220779220777
 357,Foundations,Digital Payments,Germany,5.483569039655997,3,4.112676779741998
@@ -11,23 +11,23 @@
 596,Government,Leadership and coordination,Germany,3.5,1,0.7000000000000001
 66,Infrastructure,Ambition,Germany,5.642857142857142,1,0.0017475556342078
 238,Infrastructure,Capabilities,Germany,5.813084112149532,1,0.0018002738037006
-423,Infrastructure,Connectivity Technology,Germany,4.602747025019634,23,0.0327851290106694
-797,Infrastructure,Culture,Germany,4.632360150396755,4,0.0057384455254218
-1071,Infrastructure,Cybersecurity,Germany,5.444444444444445,1,0.0016861085303327
-1145,Infrastructure,Data Exchange,Germany,3.808988764044944,1,0.0011796186943465
-1281,Infrastructure,Digital Legal Identity,Germany,5.805194805194805,3,0.0053934916121351
-1497,Infrastructure,Digital Literacy Skills,Germany,3.5774464318944594,22,0.024374054351712
-1693,Infrastructure,Digital Payments,Germany,5.483569039655997,3,0.0050946754781567
-1876,Infrastructure,Digital Public Services,Germany,3.977535880707059,5,0.0061590831228043
-2109,Infrastructure,Digital Wellbeing,Germany,4.004323083533994,8,0.0099208995566032
-2319,Infrastructure,Ethical Standards,Germany,5.523809523809523,1,0.0017106873718827
-2454,Infrastructure,Financing Incentives,Germany,5.785714285714286,1,0.0017917975489979
-2622,Infrastructure,Funding and procurement,Germany,3.730415637147375,2,0.0023105702305031
-2820,Infrastructure,Innovation Ecosystem,Germany,2.6593826868677146,4,0.0032943731023446
-3001,Infrastructure,Leadership and coordination,Germany,3.5,1,0.0010839269123567
-3229,Infrastructure,Startup Environment,Germany,3.8317028374024864,6,0.007119918558196
-3478,Infrastructure,Technology Adoption,Germany,4.582003888499001,8,0.0113521310337541
-3670,Infrastructure,Usage and ownership,Germany,4.822017323198239,13,0.0194135104371561
+433,Infrastructure,Connectivity Technology,Germany,4.413016907413678,23,0.0314336911955759
+828,Infrastructure,Culture,Germany,4.643402344569311,4,0.0057521243042047
+1102,Infrastructure,Cybersecurity,Germany,5.444444444444445,1,0.0016861085303327
+1176,Infrastructure,Data Exchange,Germany,3.808988764044944,1,0.0011796186943465
+1312,Infrastructure,Digital Legal Identity,Germany,5.805194805194805,3,0.0053934916121351
+1526,Infrastructure,Digital Literacy Skills,Germany,3.6523435039163368,23,0.0260154538835787
+1720,Infrastructure,Digital Payments,Germany,5.483569039655997,3,0.0050946754781567
+1903,Infrastructure,Digital Public Services,Germany,3.977535880707059,5,0.0061590831228043
+2136,Infrastructure,Digital Wellbeing,Germany,4.004323083533994,8,0.0099208995566032
+2346,Infrastructure,Ethical Standards,Germany,5.523809523809523,1,0.0017106873718827
+2481,Infrastructure,Financing Incentives,Germany,5.785714285714286,1,0.0017917975489979
+2649,Infrastructure,Funding and procurement,Germany,3.730415637147375,2,0.0023105702305031
+2847,Infrastructure,Innovation Ecosystem,Germany,2.6593826868677146,4,0.0032943731023446
+3028,Infrastructure,Leadership and coordination,Germany,3.5,1,0.0010839269123567
+3256,Infrastructure,Startup Environment,Germany,3.8317028374024864,6,0.007119918558196
+3514,Infrastructure,Technology Adoption,Germany,4.708478980919081,9,0.013123663929474
+3723,Infrastructure,Usage and ownership,Germany,4.822017323198239,13,0.0194135104371561
 20,Regulation,Cybersecurity,Germany,5.444444444444445,1,5.444444444444445
 108,Regulation,Ethical Standards,Germany,5.523809523809523,1,5.523809523809523
 3,Strategy,Ambition,Germany,5.642857142857142,1,5.642857142857142
