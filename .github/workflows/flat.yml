@@ -840,3 +840,11 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv
            downloaded_filename: data/Chainalysis_2020_Geography_Cryptocurrency_Report.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/social_media_penetration.csv
+           downloaded_filename: data/social_media_penetration.csv
+           postprocess: ./process_raw_data.js
