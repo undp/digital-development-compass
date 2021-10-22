@@ -1,213 +1,153 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Afghanistan,2019,Doing Business Index,167.0,1.6084656084656084,False,Startup Environment
-Albania,2019,Doing Business Index,63.0,4.35978835978836,False,Startup Environment
-Algeria,2019,Doing Business Index,157.0,1.8730158730158726,False,Startup Environment
-Angola,2019,Doing Business Index,173.0,1.4497354497354493,False,Startup Environment
-Antigua and Barbuda,2019,Doing Business Index,112.0,3.0634920634920637,False,Startup Environment
-Argentina,2019,Doing Business Index,119.0,2.878306878306878,False,Startup Environment
-Armenia,2019,Doing Business Index,41.0,4.941798941798941,False,Startup Environment
-Australia,2019,Doing Business Index,18.0,5.550264550264551,False,Startup Environment
-Austria,2019,Doing Business Index,26.0,5.338624338624339,False,Startup Environment
-Azerbaijan,2019,Doing Business Index,25.0,5.365079365079366,False,Startup Environment
-"Bahamas, The",2019,Doing Business Index,118.0,2.904761904761905,False,Startup Environment
-Bahrain,2019,Doing Business Index,62.0,4.386243386243386,False,Startup Environment
-Bangladesh,2019,Doing Business Index,176.0,1.3703703703703702,False,Startup Environment
-Bangladesh Chittagong,2019,Doing Business Index,,,False,Startup Environment
-Bangladesh Dhaka,2019,Doing Business Index,,,False,Startup Environment
-Barbados,2019,Doing Business Index,129.0,2.613756613756614,False,Startup Environment
-Belarus,2019,Doing Business Index,37.0,5.0476190476190474,False,Startup Environment
-Belgium,2019,Doing Business Index,45.0,4.835978835978836,False,Startup Environment
-Belize,2019,Doing Business Index,125.0,2.71957671957672,False,Startup Environment
-Benin,2019,Doing Business Index,153.0,1.9788359788359786,False,Startup Environment
-Bhutan,2019,Doing Business Index,81.0,3.8835978835978837,False,Startup Environment
-Bolivia,2019,Doing Business Index,156.0,1.8994708994708995,False,Startup Environment
-Bosnia and Herzegovina,2019,Doing Business Index,89.0,3.671957671957672,False,Startup Environment
-Botswana,2019,Doing Business Index,86.0,3.751322751322751,False,Startup Environment
-Brazil,2019,Doing Business Index,109.0,3.142857142857143,False,Startup Environment
-Brazil Rio de Janeiro,2019,Doing Business Index,,,False,Startup Environment
-Brazil São Paulo,2019,Doing Business Index,,,False,Startup Environment
-Brunei Darussalam,2019,Doing Business Index,55.0,4.571428571428571,False,Startup Environment
-Bulgaria,2019,Doing Business Index,59.0,4.465608465608465,False,Startup Environment
-Burkina Faso,2019,Doing Business Index,151.0,2.0317460317460316,False,Startup Environment
-Burundi,2019,Doing Business Index,168.0,1.5820105820105823,False,Startup Environment
-Cabo Verde,2019,Doing Business Index,131.0,2.560846560846561,False,Startup Environment
-Cambodia,2019,Doing Business Index,138.0,2.375661375661376,False,Startup Environment
-Cameroon,2019,Doing Business Index,166.0,1.6349206349206353,False,Startup Environment
-Canada,2019,Doing Business Index,22.0,5.444444444444445,False,Startup Environment
-Central African Republic,2019,Doing Business Index,183.0,1.1851851851851851,False,Startup Environment
-Chad,2019,Doing Business Index,181.0,1.2380952380952381,False,Startup Environment
-Chile,2019,Doing Business Index,56.0,4.544973544973545,False,Startup Environment
-China,2019,Doing Business Index,46.0,4.809523809523809,False,Startup Environment
-China Beijing,2019,Doing Business Index,,,False,Startup Environment
-China Shanghai,2019,Doing Business Index,,,False,Startup Environment
-Colombia,2019,Doing Business Index,65.0,4.306878306878307,False,Startup Environment
-Comoros,2019,Doing Business Index,164.0,1.6878306878306875,False,Startup Environment
-"Congo, Dem. Rep.",2019,Doing Business Index,184.0,1.158730158730159,False,Startup Environment
-"Congo, Rep.",2019,Doing Business Index,180.0,1.2645502645502642,False,Startup Environment
-Costa Rica,2019,Doing Business Index,67.0,4.253968253968254,False,Startup Environment
-Côte d'Ivoire,2019,Doing Business Index,122.0,2.798941798941799,False,Startup Environment
-Croatia,2019,Doing Business Index,58.0,4.492063492063492,False,Startup Environment
-Cyprus,2019,Doing Business Index,57.0,4.518518518518519,False,Startup Environment
-Czech Republic,2019,Doing Business Index,35.0,5.1005291005291005,False,Startup Environment
-Denmark,2019,Doing Business Index,3.0,5.947089947089947,False,Startup Environment
-Djibouti,2019,Doing Business Index,99.0,3.4074074074074074,False,Startup Environment
-Dominica,2019,Doing Business Index,103.0,3.3015873015873014,False,Startup Environment
-Dominican Republic,2019,Doing Business Index,102.0,3.328042328042328,False,Startup Environment
-Ecuador,2019,Doing Business Index,123.0,2.772486772486772,False,Startup Environment
-"Egypt, Arab Rep.",2019,Doing Business Index,120.0,2.851851851851851,False,Startup Environment
-El Salvador,2019,Doing Business Index,85.0,3.7777777777777777,False,Startup Environment
-Equatorial Guinea,2019,Doing Business Index,177.0,1.3439153439153442,False,Startup Environment
-Eritrea,2019,Doing Business Index,189.0,1.026455026455026,False,Startup Environment
-Estonia,2019,Doing Business Index,16.0,5.603174603174603,False,Startup Environment
-Eswatini,2019,Doing Business Index,117.0,2.931216931216931,False,Startup Environment
-Ethiopia,2019,Doing Business Index,159.0,1.8201058201058204,False,Startup Environment
-Fiji,2019,Doing Business Index,101.0,3.3544973544973544,False,Startup Environment
-Finland,2019,Doing Business Index,17.0,5.576719576719577,False,Startup Environment
-France,2019,Doing Business Index,32.0,5.17989417989418,False,Startup Environment
-Gabon,2019,Doing Business Index,169.0,1.5555555555555554,False,Startup Environment
-"Gambia, The",2019,Doing Business Index,149.0,2.0846560846560847,False,Startup Environment
-Georgia,2019,Doing Business Index,6.0,5.867724867724868,False,Startup Environment
-Germany,2019,Doing Business Index,24.0,5.391534391534392,False,Startup Environment
-Ghana,2019,Doing Business Index,114.0,3.0105820105820107,False,Startup Environment
-Greece,2019,Doing Business Index,72.0,4.121693121693122,False,Startup Environment
-Grenada,2019,Doing Business Index,147.0,2.1375661375661377,False,Startup Environment
-Guatemala,2019,Doing Business Index,98.0,3.433862433862434,False,Startup Environment
-Guinea,2019,Doing Business Index,152.0,2.0052910052910047,False,Startup Environment
-Guinea-Bissau,2019,Doing Business Index,175.0,1.3968253968253972,False,Startup Environment
-Guyana,2019,Doing Business Index,134.0,2.481481481481481,False,Startup Environment
-Haiti,2019,Doing Business Index,182.0,1.211640211640212,False,Startup Environment
-Honduras,2019,Doing Business Index,121.0,2.825396825396826,False,Startup Environment
-"Hong Kong SAR, China",2019,Doing Business Index,4.0,5.920634920634921,False,Startup Environment
-Hungary,2019,Doing Business Index,53.0,4.624338624338624,False,Startup Environment
-Iceland,2019,Doing Business Index,21.0,5.470899470899471,False,Startup Environment
-India,2019,Doing Business Index,77.0,3.9894179894179893,False,Startup Environment
-India Delhi,2019,Doing Business Index,,,False,Startup Environment
-India Mumbai,2019,Doing Business Index,,,False,Startup Environment
-Indonesia,2019,Doing Business Index,73.0,4.095238095238095,False,Startup Environment
-Indonesia Jakarta,2019,Doing Business Index,,,False,Startup Environment
-Indonesia Surabaya,2019,Doing Business Index,,,False,Startup Environment
-"Iran, Islamic Rep.",2019,Doing Business Index,128.0,2.64021164021164,False,Startup Environment
-Iraq,2019,Doing Business Index,171.0,1.5026455026455023,False,Startup Environment
-Ireland,2019,Doing Business Index,23.0,5.417989417989418,False,Startup Environment
-Israel,2019,Doing Business Index,49.0,4.73015873015873,False,Startup Environment
-Italy,2019,Doing Business Index,51.0,4.677248677248677,False,Startup Environment
-Jamaica,2019,Doing Business Index,75.0,4.042328042328043,False,Startup Environment
-Japan,2019,Doing Business Index,39.0,4.994708994708994,False,Startup Environment
-Japan Osaka,2019,Doing Business Index,,,False,Startup Environment
-Japan Tokyo,2019,Doing Business Index,,,False,Startup Environment
-Jordan,2019,Doing Business Index,104.0,3.2751322751322753,False,Startup Environment
-Kazakhstan,2019,Doing Business Index,28.0,5.285714285714286,False,Startup Environment
-Kenya,2019,Doing Business Index,61.0,4.412698412698413,False,Startup Environment
-Kiribati,2019,Doing Business Index,158.0,1.8465608465608465,False,Startup Environment
-"Korea, Rep.",2019,Doing Business Index,5.0,5.894179894179894,False,Startup Environment
-Kosovo,2019,Doing Business Index,44.0,4.862433862433862,False,Startup Environment
-Kuwait,2019,Doing Business Index,97.0,3.4603174603174605,False,Startup Environment
-Kyrgyz Republic,2019,Doing Business Index,70.0,4.174603174603175,False,Startup Environment
-Lao PDR,2019,Doing Business Index,154.0,1.9523809523809526,False,Startup Environment
-Latvia,2019,Doing Business Index,19.0,5.523809523809524,False,Startup Environment
-Lebanon,2019,Doing Business Index,142.0,2.2698412698412698,False,Startup Environment
-Lesotho,2019,Doing Business Index,106.0,3.2222222222222223,False,Startup Environment
-Liberia,2019,Doing Business Index,174.0,1.4232804232804233,False,Startup Environment
-Libya,2019,Doing Business Index,186.0,1.105820105820106,False,Startup Environment
-Lithuania,2019,Doing Business Index,14.0,5.656084656084656,False,Startup Environment
-Luxembourg,2019,Doing Business Index,66.0,4.28042328042328,False,Startup Environment
-"Macedonia, FYR",2019,Doing Business Index,10.0,5.761904761904762,False,Startup Environment
-Madagascar,2019,Doing Business Index,161.0,1.7671957671957674,False,Startup Environment
-Malawi,2019,Doing Business Index,111.0,3.0899470899470898,False,Startup Environment
-Malaysia,2019,Doing Business Index,15.0,5.62962962962963,False,Startup Environment
-Maldives,2019,Doing Business Index,139.0,2.3492063492063497,False,Startup Environment
-Mali,2019,Doing Business Index,145.0,2.1904761904761907,False,Startup Environment
-Malta,2019,Doing Business Index,84.0,3.804232804232804,False,Startup Environment
-Marshall Islands,2019,Doing Business Index,150.0,2.0582010582010586,False,Startup Environment
-Mauritania,2019,Doing Business Index,148.0,2.1111111111111107,False,Startup Environment
-Mauritius,2019,Doing Business Index,20.0,5.497354497354497,False,Startup Environment
-Mexico,2019,Doing Business Index,54.0,4.597883597883598,False,Startup Environment
-Mexico Mexico City,2019,Doing Business Index,,,False,Startup Environment
-Mexico Monterrey,2019,Doing Business Index,,,False,Startup Environment
-"Micronesia, Fed. Sts.",2019,Doing Business Index,160.0,1.7936507936507935,False,Startup Environment
-Moldova,2019,Doing Business Index,47.0,4.783068783068783,False,Startup Environment
-Mongolia,2019,Doing Business Index,74.0,4.068783068783069,False,Startup Environment
-Montenegro,2019,Doing Business Index,50.0,4.703703703703704,False,Startup Environment
-Morocco,2019,Doing Business Index,60.0,4.439153439153439,False,Startup Environment
-Mozambique,2019,Doing Business Index,135.0,2.455026455026455,False,Startup Environment
-Myanmar,2019,Doing Business Index,171.0,1.5026455026455023,False,Startup Environment
-Namibia,2019,Doing Business Index,107.0,3.195767195767196,False,Startup Environment
-Nepal,2019,Doing Business Index,110.0,3.1164021164021163,False,Startup Environment
-Netherlands,2019,Doing Business Index,36.0,5.074074074074074,False,Startup Environment
-New Zealand,2019,Doing Business Index,1.0,6.0,False,Startup Environment
-Nicaragua,2019,Doing Business Index,132.0,2.534391534391535,False,Startup Environment
-Niger,2019,Doing Business Index,143.0,2.2433862433862437,False,Startup Environment
-Nigeria,2019,Doing Business Index,146.0,2.1640211640211646,False,Startup Environment
-Nigeria Kano,2019,Doing Business Index,,,False,Startup Environment
-Nigeria Lagos,2019,Doing Business Index,,,False,Startup Environment
-Norway,2019,Doing Business Index,7.0,5.841269841269842,False,Startup Environment
-Oman,2019,Doing Business Index,78.0,3.962962962962963,False,Startup Environment
-Pakistan,2019,Doing Business Index,136.0,2.428571428571429,False,Startup Environment
-Pakistan Karachi,2019,Doing Business Index,,,False,Startup Environment
-Pakistan Lahore,2019,Doing Business Index,,,False,Startup Environment
-Palau,2019,Doing Business Index,133.0,2.507936507936508,False,Startup Environment
-Panama,2019,Doing Business Index,79.0,3.9365079365079363,False,Startup Environment
-Papua New Guinea,2019,Doing Business Index,108.0,3.1693121693121693,False,Startup Environment
-Paraguay,2019,Doing Business Index,113.0,3.037037037037037,False,Startup Environment
-Peru,2019,Doing Business Index,68.0,4.227513227513228,False,Startup Environment
-Philippines,2019,Doing Business Index,124.0,2.746031746031746,False,Startup Environment
-Poland,2019,Doing Business Index,33.0,5.1534391534391535,False,Startup Environment
-Portugal,2019,Doing Business Index,34.0,5.1269841269841265,False,Startup Environment
-Puerto Rico (U.S.),2019,Doing Business Index,64.0,4.333333333333333,False,Startup Environment
-Qatar,2019,Doing Business Index,83.0,3.8306878306878307,False,Startup Environment
-Romania,2019,Doing Business Index,52.0,4.65079365079365,False,Startup Environment
-Russian Federation,2019,Doing Business Index,31.0,5.2063492063492065,False,Startup Environment
-Russian Federation Moscow,2019,Doing Business Index,,,False,Startup Environment
-Russian Federation Saint Petersburg,2019,Doing Business Index,,,False,Startup Environment
-Rwanda,2019,Doing Business Index,29.0,5.2592592592592595,False,Startup Environment
-Samoa,2019,Doing Business Index,90.0,3.6455026455026456,False,Startup Environment
-San Marino,2019,Doing Business Index,88.0,3.6984126984126986,False,Startup Environment
-São Tomé and Príncipe,2019,Doing Business Index,170.0,1.5291005291005293,False,Startup Environment
-Saudi Arabia,2019,Doing Business Index,92.0,3.5925925925925926,False,Startup Environment
-Senegal,2019,Doing Business Index,141.0,2.296296296296296,False,Startup Environment
-Serbia,2019,Doing Business Index,48.0,4.756613756613756,False,Startup Environment
-Seychelles,2019,Doing Business Index,96.0,3.486772486772487,False,Startup Environment
-Sierra Leone,2019,Doing Business Index,163.0,1.7142857142857144,False,Startup Environment
-Singapore,2019,Doing Business Index,2.0,5.973544973544973,False,Startup Environment
-Slovak Republic,2019,Doing Business Index,42.0,4.915343915343915,False,Startup Environment
-Slovenia,2019,Doing Business Index,40.0,4.968253968253968,False,Startup Environment
-Solomon Islands,2019,Doing Business Index,115.0,2.984126984126984,False,Startup Environment
-Somalia,2019,Doing Business Index,190.0,1.0,False,Startup Environment
-South Africa,2019,Doing Business Index,82.0,3.857142857142857,False,Startup Environment
-South Sudan,2019,Doing Business Index,185.0,1.132275132275132,False,Startup Environment
-Spain,2019,Doing Business Index,30.0,5.232804232804233,False,Startup Environment
-Sri Lanka,2019,Doing Business Index,100.0,3.380952380952381,False,Startup Environment
-St. Kitts and Nevis,2019,Doing Business Index,140.0,2.322751322751323,False,Startup Environment
-St. Lucia,2019,Doing Business Index,93.0,3.566137566137566,False,Startup Environment
-St. Vincent and the Grenadines,2019,Doing Business Index,130.0,2.587301587301587,False,Startup Environment
-Sudan,2019,Doing Business Index,162.0,1.7407407407407405,False,Startup Environment
-Suriname,2019,Doing Business Index,165.0,1.6613756613756614,False,Startup Environment
-Sweden,2019,Doing Business Index,12.0,5.708994708994709,False,Startup Environment
-Switzerland,2019,Doing Business Index,38.0,5.021164021164021,False,Startup Environment
-Syrian Arab Republic,2019,Doing Business Index,179.0,1.2910052910052912,False,Startup Environment
-"Taiwan, China",2019,Doing Business Index,13.0,5.682539682539683,False,Startup Environment
-Tajikistan,2019,Doing Business Index,126.0,2.693121693121693,False,Startup Environment
-Tanzania,2019,Doing Business Index,144.0,2.2169312169312168,False,Startup Environment
-Thailand,2019,Doing Business Index,27.0,5.312169312169312,False,Startup Environment
-Timor-Leste,2019,Doing Business Index,178.0,1.3174603174603172,False,Startup Environment
-Togo,2019,Doing Business Index,137.0,2.402116402116402,False,Startup Environment
-Tonga,2019,Doing Business Index,91.0,3.619047619047619,False,Startup Environment
-Trinidad and Tobago,2019,Doing Business Index,105.0,3.248677248677249,False,Startup Environment
-Tunisia,2019,Doing Business Index,80.0,3.9100529100529102,False,Startup Environment
-Turkey,2019,Doing Business Index,43.0,4.888888888888889,False,Startup Environment
-Uganda,2019,Doing Business Index,127.0,2.666666666666666,False,Startup Environment
-Ukraine,2019,Doing Business Index,71.0,4.148148148148148,False,Startup Environment
-United Arab Emirates,2019,Doing Business Index,11.0,5.735449735449736,False,Startup Environment
-United Kingdom,2019,Doing Business Index,9.0,5.788359788359788,False,Startup Environment
-United States,2019,Doing Business Index,8.0,5.814814814814815,False,Startup Environment
-United States Los Angeles,2019,Doing Business Index,,,False,Startup Environment
-United States New York City,2019,Doing Business Index,,,False,Startup Environment
-Uruguay,2019,Doing Business Index,95.0,3.513227513227513,False,Startup Environment
-Uzbekistan,2019,Doing Business Index,76.0,4.015873015873016,False,Startup Environment
-Vanuatu,2019,Doing Business Index,94.0,3.5396825396825395,False,Startup Environment
-"Venezuela, RB",2019,Doing Business Index,188.0,1.052910052910053,False,Startup Environment
-Vietnam,2019,Doing Business Index,69.0,4.201058201058201,False,Startup Environment
-West Bank and Gaza,2019,Doing Business Index,116.0,2.9576719576719572,False,Startup Environment
-"Yemen, Rep.",2019,Doing Business Index,187.0,1.079365079365079,False,Startup Environment
-Zambia,2019,Doing Business Index,87.0,3.7248677248677247,False,Startup Environment
-Zimbabwe,2019,Doing Business Index,155.0,1.9259259259259256,False,Startup Environment
+Angola,2017,"Venture capital availability, 1-7 (best)",141.0,1.0,True,Financing Incentives
+Albania,2017,"Venture capital availability, 1-7 (best)",81.0,3.142857142857143,True,Financing Incentives
+United Arab Emirates,2017,"Venture capital availability, 1-7 (best)",4.0,5.892857142857142,True,Financing Incentives
+Argentina,2017,"Venture capital availability, 1-7 (best)",118.0,1.8214285714285712,True,Financing Incentives
+Armenia,2017,"Venture capital availability, 1-7 (best)",56.0,4.035714285714286,True,Financing Incentives
+Australia,2017,"Venture capital availability, 1-7 (best)",46.0,4.392857142857142,True,Financing Incentives
+Austria,2017,"Venture capital availability, 1-7 (best)",38.0,4.678571428571429,True,Financing Incentives
+Azerbaijan,2017,"Venture capital availability, 1-7 (best)",24.0,5.178571428571429,True,Financing Incentives
+Burundi,2017,"Venture capital availability, 1-7 (best)",78.0,3.25,True,Financing Incentives
+Belgium,2017,"Venture capital availability, 1-7 (best)",31.0,4.928571428571429,True,Financing Incentives
+Benin,2017,"Venture capital availability, 1-7 (best)",126.0,1.5357142857142856,True,Financing Incentives
+Burkina Faso,2017,"Venture capital availability, 1-7 (best)",140.0,1.0357142857142856,True,Financing Incentives
+Bangladesh,2017,"Venture capital availability, 1-7 (best)",112.0,2.0357142857142856,True,Financing Incentives
+Bulgaria,2017,"Venture capital availability, 1-7 (best)",54.0,4.107142857142858,True,Financing Incentives
+Bahrain,2017,"Venture capital availability, 1-7 (best)",20.0,5.321428571428571,True,Financing Incentives
+Bosnia and Herzegovina,2017,"Venture capital availability, 1-7 (best)",117.0,1.8571428571428568,True,Financing Incentives
+Belize,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Bolivia,2017,"Venture capital availability, 1-7 (best)",108.0,2.178571428571429,True,Financing Incentives
+Brazil,2017,"Venture capital availability, 1-7 (best)",74.0,3.392857142857143,True,Financing Incentives
+Barbados,2017,"Venture capital availability, 1-7 (best)",132.0,1.3214285714285712,True,Financing Incentives
+Brunei Darussalam,2017,"Venture capital availability, 1-7 (best)",64.0,3.75,True,Financing Incentives
+Bhutan,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Botswana,2017,"Venture capital availability, 1-7 (best)",98.0,2.5357142857142856,True,Financing Incentives
+Canada,2017,"Venture capital availability, 1-7 (best)",27.0,5.071428571428571,True,Financing Incentives
+Switzerland,2017,"Venture capital availability, 1-7 (best)",16.0,5.464285714285714,True,Financing Incentives
+Chile,2017,"Venture capital availability, 1-7 (best)",35.0,4.785714285714286,True,Financing Incentives
+China,2017,"Venture capital availability, 1-7 (best)",13.0,5.571428571428571,True,Financing Incentives
+Cote d'Ivoire,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Cameroon,2017,"Venture capital availability, 1-7 (best)",103.0,2.3571428571428577,True,Financing Incentives
+"Congo, Dem. Rep.",2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Colombia,2017,"Venture capital availability, 1-7 (best)",70.0,3.5357142857142856,True,Financing Incentives
+Cabo Verde,2017,"Venture capital availability, 1-7 (best)",85.0,3.0,True,Financing Incentives
+Costa Rica,2017,"Venture capital availability, 1-7 (best)",96.0,2.6071428571428577,True,Financing Incentives
+Cyprus,2017,"Venture capital availability, 1-7 (best)",99.0,2.5,True,Financing Incentives
+Czech Republic,2017,"Venture capital availability, 1-7 (best)",32.0,4.892857142857142,True,Financing Incentives
+Germany,2017,"Venture capital availability, 1-7 (best)",7.0,5.785714285714286,True,Financing Incentives
+Denmark,2017,"Venture capital availability, 1-7 (best)",33.0,4.857142857142858,True,Financing Incentives
+Dominican Republic,2017,"Venture capital availability, 1-7 (best)",65.0,3.7142857142857144,True,Financing Incentives
+Algeria,2017,"Venture capital availability, 1-7 (best)",49.0,4.285714285714286,True,Financing Incentives
+Ecuador,2017,"Venture capital availability, 1-7 (best)",101.0,2.428571428571429,True,Financing Incentives
+"Egypt, Arab Rep.",2017,"Venture capital availability, 1-7 (best)",75.0,3.357142857142857,True,Financing Incentives
+Spain,2017,"Venture capital availability, 1-7 (best)",29.0,5.0,True,Financing Incentives
+Estonia,2017,"Venture capital availability, 1-7 (best)",30.0,4.964285714285714,True,Financing Incentives
+Ethiopia,2017,"Venture capital availability, 1-7 (best)",59.0,3.9285714285714284,True,Financing Incentives
+Finland,2017,"Venture capital availability, 1-7 (best)",3.0,5.928571428571429,True,Financing Incentives
+France,2017,"Venture capital availability, 1-7 (best)",19.0,5.357142857142858,True,Financing Incentives
+Gabon,2017,"Venture capital availability, 1-7 (best)",136.0,1.1785714285714288,True,Financing Incentives
+United Kingdom,2017,"Venture capital availability, 1-7 (best)",10.0,5.678571428571429,True,Financing Incentives
+Georgia,2017,"Venture capital availability, 1-7 (best)",109.0,2.1428571428571423,True,Financing Incentives
+Ghana,2017,"Venture capital availability, 1-7 (best)",93.0,2.7142857142857144,True,Financing Incentives
+Guinea,2017,"Venture capital availability, 1-7 (best)",43.0,4.5,True,Financing Incentives
+"Gambia, The",2017,"Venture capital availability, 1-7 (best)",84.0,3.0357142857142856,True,Financing Incentives
+Greece,2017,"Venture capital availability, 1-7 (best)",120.0,1.75,True,Financing Incentives
+Guatemala,2017,"Venture capital availability, 1-7 (best)",71.0,3.5,True,Financing Incentives
+Guyana,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+"Hong Kong SAR, China",2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Honduras,2017,"Venture capital availability, 1-7 (best)",87.0,2.928571428571429,True,Financing Incentives
+Croatia,2017,"Venture capital availability, 1-7 (best)",106.0,2.25,True,Financing Incentives
+Haiti,2017,"Venture capital availability, 1-7 (best)",137.0,1.1428571428571432,True,Financing Incentives
+Hungary,2017,"Venture capital availability, 1-7 (best)",47.0,4.357142857142858,True,Financing Incentives
+Indonesia,2017,"Venture capital availability, 1-7 (best)",37.0,4.714285714285714,True,Financing Incentives
+India,2017,"Venture capital availability, 1-7 (best)",22.0,5.25,True,Financing Incentives
+Ireland,2017,"Venture capital availability, 1-7 (best)",45.0,4.428571428571429,True,Financing Incentives
+"Iran, Islamic Rep.",2017,"Venture capital availability, 1-7 (best)",121.0,1.7142857142857144,True,Financing Incentives
+Iceland,2017,"Venture capital availability, 1-7 (best)",40.0,4.607142857142858,True,Financing Incentives
+Israel,2017,"Venture capital availability, 1-7 (best)",2.0,5.964285714285714,True,Financing Incentives
+Italy,2017,"Venture capital availability, 1-7 (best)",111.0,2.071428571428571,True,Financing Incentives
+Jamaica,2017,"Venture capital availability, 1-7 (best)",107.0,2.2142857142857144,True,Financing Incentives
+Jordan,2017,"Venture capital availability, 1-7 (best)",26.0,5.107142857142858,True,Financing Incentives
+Japan,2017,"Venture capital availability, 1-7 (best)",17.0,5.428571428571429,True,Financing Incentives
+Kazakhstan,2017,"Venture capital availability, 1-7 (best)",89.0,2.8571428571428577,True,Financing Incentives
+Kenya,2017,"Venture capital availability, 1-7 (best)",79.0,3.2142857142857144,True,Financing Incentives
+Kyrgyz Republic,2017,"Venture capital availability, 1-7 (best)",102.0,2.3928571428571423,True,Financing Incentives
+Cambodia,2017,"Venture capital availability, 1-7 (best)",66.0,3.6785714285714284,True,Financing Incentives
+"Korea, Rep.",2017,"Venture capital availability, 1-7 (best)",51.0,4.214285714285714,True,Financing Incentives
+Kuwait,2017,"Venture capital availability, 1-7 (best)",21.0,5.285714285714286,True,Financing Incentives
+Lao PDR,2017,"Venture capital availability, 1-7 (best)",67.0,3.642857142857143,True,Financing Incentives
+Lebanon,2017,"Venture capital availability, 1-7 (best)",62.0,3.8214285714285716,True,Financing Incentives
+Liberia,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Libya,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Sri Lanka,2017,"Venture capital availability, 1-7 (best)",57.0,4.0,True,Financing Incentives
+Lesotho,2017,"Venture capital availability, 1-7 (best)",138.0,1.1071428571428568,True,Financing Incentives
+Lithuania,2017,"Venture capital availability, 1-7 (best)",63.0,3.7857142857142856,True,Financing Incentives
+Luxembourg,2017,"Venture capital availability, 1-7 (best)",11.0,5.642857142857142,True,Financing Incentives
+Latvia,2017,"Venture capital availability, 1-7 (best)",48.0,4.321428571428571,True,Financing Incentives
+Morocco,2017,"Venture capital availability, 1-7 (best)",86.0,2.9642857142857144,True,Financing Incentives
+Moldova,2017,"Venture capital availability, 1-7 (best)",116.0,1.8928571428571432,True,Financing Incentives
+Madagascar,2017,"Venture capital availability, 1-7 (best)",113.0,2.0,True,Financing Incentives
+Mexico,2017,"Venture capital availability, 1-7 (best)",58.0,3.9642857142857144,True,Financing Incentives
+"Macedonia, FYR",2017,"Venture capital availability, 1-7 (best)",100.0,2.4642857142857144,True,Financing Incentives
+Mali,2017,"Venture capital availability, 1-7 (best)",97.0,2.571428571428571,True,Financing Incentives
+Malta,2017,"Venture capital availability, 1-7 (best)",83.0,3.0714285714285716,True,Financing Incentives
+Myanmar,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Montenegro,2017,"Venture capital availability, 1-7 (best)",39.0,4.642857142857142,True,Financing Incentives
+Mongolia,2017,"Venture capital availability, 1-7 (best)",124.0,1.6071428571428568,True,Financing Incentives
+Mozambique,2017,"Venture capital availability, 1-7 (best)",131.0,1.3571428571428568,True,Financing Incentives
+Mauritania,2017,"Venture capital availability, 1-7 (best)",127.0,1.5,True,Financing Incentives
+Mauritius,2017,"Venture capital availability, 1-7 (best)",72.0,3.4642857142857144,True,Financing Incentives
+Malawi,2017,"Venture capital availability, 1-7 (best)",135.0,1.2142857142857144,True,Financing Incentives
+Malaysia,2017,"Venture capital availability, 1-7 (best)",9.0,5.714285714285714,True,Financing Incentives
+Namibia,2017,"Venture capital availability, 1-7 (best)",82.0,3.107142857142857,True,Financing Incentives
+Nigeria,2017,"Venture capital availability, 1-7 (best)",133.0,1.2857142857142856,True,Financing Incentives
+Nicaragua,2017,"Venture capital availability, 1-7 (best)",123.0,1.6428571428571432,True,Financing Incentives
+Netherlands,2017,"Venture capital availability, 1-7 (best)",14.0,5.535714285714286,True,Financing Incentives
+Norway,2017,"Venture capital availability, 1-7 (best)",28.0,5.035714285714286,True,Financing Incentives
+Nepal,2017,"Venture capital availability, 1-7 (best)",92.0,2.75,True,Financing Incentives
+New Zealand,2017,"Venture capital availability, 1-7 (best)",18.0,5.392857142857142,True,Financing Incentives
+Oman,2017,"Venture capital availability, 1-7 (best)",23.0,5.214285714285714,True,Financing Incentives
+Pakistan,2017,"Venture capital availability, 1-7 (best)",36.0,4.75,True,Financing Incentives
+Panama,2017,"Venture capital availability, 1-7 (best)",52.0,4.178571428571429,True,Financing Incentives
+Peru,2017,"Venture capital availability, 1-7 (best)",73.0,3.4285714285714284,True,Financing Incentives
+Philippines,2017,"Venture capital availability, 1-7 (best)",44.0,4.464285714285714,True,Financing Incentives
+Poland,2017,"Venture capital availability, 1-7 (best)",90.0,2.821428571428571,True,Financing Incentives
+Puerto Rico,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Portugal,2017,"Venture capital availability, 1-7 (best)",50.0,4.25,True,Financing Incentives
+Paraguay,2017,"Venture capital availability, 1-7 (best)",91.0,2.7857142857142856,True,Financing Incentives
+Qatar,2017,"Venture capital availability, 1-7 (best)",5.0,5.857142857142858,True,Financing Incentives
+Romania,2017,"Venture capital availability, 1-7 (best)",104.0,2.321428571428571,True,Financing Incentives
+Russian Federation,2017,"Venture capital availability, 1-7 (best)",94.0,2.678571428571429,True,Financing Incentives
+Rwanda,2017,"Venture capital availability, 1-7 (best)",41.0,4.571428571428571,True,Financing Incentives
+Saudi Arabia,2017,"Venture capital availability, 1-7 (best)",12.0,5.607142857142858,True,Financing Incentives
+Senegal,2017,"Venture capital availability, 1-7 (best)",105.0,2.2857142857142856,True,Financing Incentives
+Singapore,2017,"Venture capital availability, 1-7 (best)",6.0,5.821428571428571,True,Financing Incentives
+Sierra Leone,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+El Salvador,2017,"Venture capital availability, 1-7 (best)",110.0,2.1071428571428577,True,Financing Incentives
+Serbia,2017,"Venture capital availability, 1-7 (best)",69.0,3.5714285714285716,True,Financing Incentives
+Suriname,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Slovak Republic,2017,"Venture capital availability, 1-7 (best)",42.0,4.535714285714286,True,Financing Incentives
+Slovenia,2017,"Venture capital availability, 1-7 (best)",60.0,3.892857142857143,True,Financing Incentives
+Sweden,2017,"Venture capital availability, 1-7 (best)",15.0,5.5,True,Financing Incentives
+Swaziland,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Seychelles,2017,"Venture capital availability, 1-7 (best)",53.0,4.142857142857142,True,Financing Incentives
+Syrian Arab Republic,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Chad,2017,"Venture capital availability, 1-7 (best)",122.0,1.6785714285714288,True,Financing Incentives
+Thailand,2017,"Venture capital availability, 1-7 (best)",34.0,4.821428571428571,True,Financing Incentives
+Tajikistan,2017,"Venture capital availability, 1-7 (best)",55.0,4.071428571428571,True,Financing Incentives
+Timor-Leste,2017,"Venture capital availability, 1-7 (best)",,,True,Financing Incentives
+Trinidad and Tobago,2017,"Venture capital availability, 1-7 (best)",119.0,1.7857142857142856,True,Financing Incentives
+Tunisia,2017,"Venture capital availability, 1-7 (best)",95.0,2.6428571428571423,True,Financing Incentives
+Turkey,2017,"Venture capital availability, 1-7 (best)",88.0,2.8928571428571423,True,Financing Incentives
+"Taiwan, China",2017,"Venture capital availability, 1-7 (best)",25.0,5.142857142857142,True,Financing Incentives
+Tanzania,2017,"Venture capital availability, 1-7 (best)",76.0,3.3214285714285716,True,Financing Incentives
+Uganda,2017,"Venture capital availability, 1-7 (best)",114.0,1.9642857142857144,True,Financing Incentives
+Ukraine,2017,"Venture capital availability, 1-7 (best)",80.0,3.1785714285714284,True,Financing Incentives
+Uruguay,2017,"Venture capital availability, 1-7 (best)",68.0,3.607142857142857,True,Financing Incentives
+United States,2017,"Venture capital availability, 1-7 (best)",1.0,6.0,True,Financing Incentives
+"Venezuela, RB",2017,"Venture capital availability, 1-7 (best)",129.0,1.4285714285714288,True,Financing Incentives
+Vietnam,2017,"Venture capital availability, 1-7 (best)",61.0,3.857142857142857,True,Financing Incentives
+"Yemen, Rep.",2017,"Venture capital availability, 1-7 (best)",125.0,1.5714285714285712,True,Financing Incentives
+South Africa,2017,"Venture capital availability, 1-7 (best)",77.0,3.2857142857142856,True,Financing Incentives
+Zambia,2017,"Venture capital availability, 1-7 (best)",139.0,1.0714285714285712,True,Financing Incentives
+Zimbabwe,2017,"Venture capital availability, 1-7 (best)",130.0,1.3928571428571432,True,Financing Incentives
