@@ -1,4 +1,5 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Population_B Male,2018,% of population with ID (female),,,True,Digital Legal Identity
 Afghanistan,2018,% of population with ID (female),45.0,3.25,True,Digital Legal Identity
 Albania,2018,% of population with ID (female),28.0,2.4,True,Digital Legal Identity
 Algeria,2018,% of population with ID (female),,,True,Digital Legal Identity

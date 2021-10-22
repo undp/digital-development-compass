@@ -1,31 +1,19 @@
-,Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-130,Business,Financing Incentives,Sweden,5.5,1,0.611111111111111
-411,Business,Startup Environment,Sweden,3.981487739480675,6,2.654325159653783
-591,Business,Technology Adoption,Sweden,4.741573190675744,8,4.214731725045106
-79,Foundations,Data Exchange,Sweden,3.9213483146067416,1,0.9803370786516854
-274,Foundations,Digital Legal Identity,Sweden,4.4188311688311686,3,3.3141233766233764
-446,Foundations,Digital Payments,Sweden,5.866550724637681,3,4.399913043478261
-92,Government,Capabilities,Sweden,5.719626168224299,1,1.14392523364486
-297,Government,Digital Public Services,Sweden,5.241067208364828,4,4.192853766691862
-503,Government,Funding and procurement,Sweden,6.0,1,1.2000000000000002
-701,Government,Leadership and coordination,Sweden,6.0,1,1.2000000000000002
-177,Infrastructure,Ambition,Sweden,5.968487394957982,1,0.0018484011752734
-297,Infrastructure,Capabilities,Sweden,5.719626168224299,1,0.0017713304949595
-640,Infrastructure,Connectivity Technology,Sweden,4.473267600980735,24,0.033248195238011
-1025,Infrastructure,Culture,Sweden,5.284539582269304,4,0.0065463481972986
-1227,Infrastructure,Data Exchange,Sweden,3.9213483146067416,1,0.0012144157059791
-1422,Infrastructure,Digital Legal Identity,Sweden,5.891774891774891,3,0.005473931457208
-1636,Infrastructure,Digital Literacy Skills,Sweden,4.778517148917627,6,0.0088792514380631
-1809,Infrastructure,Digital Payments,Sweden,5.866550724637681,3,0.0054504961826921
-2023,Infrastructure,Digital Public Services,Sweden,5.241067208364827,4,0.0064924957675624
-2265,Infrastructure,Digital Wellbeing,Sweden,4.358663582228914,8,0.0107987948769994
-2412,Infrastructure,Ethical Standards,Sweden,5.682539682539682,1,0.0017598450549828
-2562,Infrastructure,Financing Incentives,Sweden,5.5,1,0.0017033137194177
-2755,Infrastructure,Funding and procurement,Sweden,6.0,1,0.001858160421183
-2956,Infrastructure,Innovation Ecosystem,Sweden,3.621786711448303,8,0.0089731476282398
-3155,Infrastructure,Leadership and coordination,Sweden,6.0,1,0.001858160421183
-3442,Infrastructure,Startup Environment,Sweden,3.981487739480675,6,0.0073982429349284
-3622,Infrastructure,Technology Adoption,Sweden,4.741573190675744,8,0.0117474715160749
-3901,Infrastructure,Usage and ownership,Sweden,5.155284574557302,12,0.0191586915127555
-174,Regulation,Ethical Standards,Sweden,5.682539682539682,1,5.682539682539682
-1,Strategy,Ambition,Sweden,5.968487394957982,1,5.968487394957982
+Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
+Business,Financing Incentives,Sweden,5.5,1,0.611111111111111
+Business,Startup Environment,Sweden,3.981487739480675,6,2.654325159653783
+Business,Technology Adoption,Sweden,4.741573190675744,8,4.214731725045106
+Foundations,Data Exchange,Sweden,3.9213483146067416,1,0.9803370786516854
+Foundations,Digital Legal Identity,Sweden,4.4188311688311686,3,3.3141233766233764
+Foundations,Digital Payments,Sweden,5.866550724637681,3,4.399913043478261
+Government,Capabilities,Sweden,5.719626168224299,1,1.14392523364486
+Government,Digital Public Services,Sweden,5.241067208364828,4,4.192853766691862
+Government,Funding and procurement,Sweden,6.0,1,1.2000000000000002
+Government,Leadership and coordination,Sweden,6.0,1,1.2000000000000002
+Infrastructure,Connectivity Technology,Sweden,4.5316597175615065,25,4.5316597175615065
+Infrastructure,Innovation Ecosystem,Sweden,3.621786711448303,8,1.1589717476634571
+People,Culture,Sweden,5.284539582269304,4,0.0065463481972986
+People,Digital Literacy Skills,Sweden,4.778517148917626,6,0.0088792514380631
+People,Digital Wellbeing,Sweden,4.358663582228914,8,0.0107987948769994
+People,Usage and ownership,Sweden,4.418815349620545,12,0.0164217355823618
+Regulation,Ethical Standards,Sweden,5.682539682539682,1,5.682539682539682
+Strategy,Ambition,Sweden,5.968487394957982,1,5.968487394957982

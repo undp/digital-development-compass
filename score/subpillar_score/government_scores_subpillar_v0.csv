@@ -125,7 +125,7 @@ Government,Digital Public Services,Barbados,4.228343537414966,3,2.53700612244897
 Government,Digital Public Services,Belarus,4.71901700680272,3,2.831410204081632
 Government,Digital Public Services,Belgium,4.753959183673469,3,2.8523755102040815
 Government,Digital Public Services,Belize,3.1956700680272108,3,1.9174020408163264
-Government,Digital Public Services,Benin,3.6330136054421764,3,2.1798081632653057
+Government,Digital Public Services,Benin,3.633013605442177,3,2.179808163265306
 Government,Digital Public Services,Bhutan,4.7366190476190475,3,2.8419714285714286
 Government,Digital Public Services,Bolivia,4.374231292517006,3,2.6245387755102034
 Government,Digital Public Services,Bosnia and Herzegovina,4.111482993197279,3,2.4668897959183673
@@ -138,10 +138,10 @@ Government,Digital Public Services,Burundi,3.368156462585034,3,2.020893877551020
 Government,Digital Public Services,Cabo Verde,3.769329931972789,3,2.2615979591836735
 Government,Digital Public Services,Cambodia,3.5547755102040814,3,2.132865306122449
 Government,Digital Public Services,Cameroon,3.550261904761905,3,2.1301571428571426
-Government,Digital Public Services,Canada,4.968735047937303,5,4.968735047937303
+Government,Digital Public Services,Canada,4.968735047937304,5,4.968735047937304
 Government,Digital Public Services,Central African Republic,2.2531530612244897,3,1.3518918367346937
 Government,Digital Public Services,Chad,2.705207482993197,3,1.6231244897959183
-Government,Digital Public Services,Chile,5.38061224489796,3,3.228367346938776
+Government,Digital Public Services,Chile,5.380612244897958,3,3.2283673469387746
 Government,Digital Public Services,China,4.976590314410364,5,4.976590314410364
 Government,Digital Public Services,Chinese Taipei,5.23469387755102,1,1.0469387755102042
 Government,Digital Public Services,Colombia,5.2874591836734695,3,3.1724755102040816
@@ -150,17 +150,17 @@ Government,Digital Public Services,Congo,2.4785000000000004,2,0.9914000000000002
 Government,Digital Public Services,"Congo, Dem. Rep.",3.8571428571428577,1,0.7714285714285716
 Government,Digital Public Services,"Congo, Rep.",3.7040816326530615,1,0.7408163265306124
 Government,Digital Public Services,Costa Rica,2.8953333333333333,2,1.1581333333333335
-Government,Digital Public Services,Croatia,5.0355170068027215,3,3.0213102040816326
+Government,Digital Public Services,Croatia,5.035517006802721,3,3.021310204081632
 Government,Digital Public Services,Cuba,2.67275850340136,3,1.603655102040816
-Government,Digital Public Services,Cyprus,5.143775510204082,3,3.086265306122449
+Government,Digital Public Services,Cyprus,5.143775510204081,3,3.0862653061224488
 Government,Digital Public Services,Czech Republic,4.861744897959183,3,2.91704693877551
 Government,Digital Public Services,Côte d'Ivoire,3.602969387755102,3,2.161781632653061
 Government,Digital Public Services,Democratic People's Republic of Korea,1.13325,2,0.45330000000000004
 Government,Digital Public Services,Democratic Republic of the Congo,1.8295,2,0.7318
 Government,Digital Public Services,Denmark,5.628722001763668,4,4.502977601410935
-Government,Digital Public Services,Djibouti,2.8351088435374145,3,1.7010653061224488
+Government,Digital Public Services,Djibouti,2.8351088435374154,3,1.7010653061224492
 Government,Digital Public Services,Dominica,3.5308095238095234,3,2.118485714285714
-Government,Digital Public Services,Dominican Republic,4.924710884353741,3,2.954826530612244
+Government,Digital Public Services,Dominican Republic,4.9247108843537415,3,2.954826530612245
 Government,Digital Public Services,Ecuador,5.059884353741498,3,3.0359306122448984
 Government,Digital Public Services,Egypt,4.334778911564626,3,2.600867346938775
 Government,Digital Public Services,El Salvador,4.452377551020408,3,2.6714265306122447
@@ -179,17 +179,17 @@ Government,Digital Public Services,Georgia (Country),4.07775,2,1.6311
 Government,Digital Public Services,Germany,3.977535880707059,5,3.977535880707059
 Government,Digital Public Services,Ghana,4.488051020408164,3,2.692830612244898
 Government,Digital Public Services,Greece,5.016612244897959,3,3.0099673469387755
-Government,Digital Public Services,Grenada,3.2976360544217687,3,1.9785816326530612
+Government,Digital Public Services,Grenada,3.297636054421769,3,1.9785816326530614
 Government,Digital Public Services,Guatemala,3.927829931972789,3,2.3566979591836734
 Government,Digital Public Services,Guinea,2.6438061224489795,3,1.5862836734693877
 Government,Digital Public Services,Guinea-Bissau,2.1650340136054425,3,1.2990204081632655
 Government,Digital Public Services,Guyana,3.7699965986394566,3,2.261997959183674
-Government,Digital Public Services,Haiti,2.7110748299319734,3,1.6266448979591839
+Government,Digital Public Services,Haiti,2.7110748299319725,3,1.6266448979591834
 Government,Digital Public Services,Honduras,2.2546666666666666,2,0.9018666666666667
 Government,Digital Public Services,Hong Kong,5.2105263157894735,1,1.0421052631578946
 Government,Digital Public Services,"Hong Kong SAR, China",5.132653061224491,1,1.0265306122448983
-Government,Digital Public Services,Hungary,4.804738095238095,3,2.882842857142857
-Government,Digital Public Services,Iceland,5.1267721088435385,3,3.076063265306123
+Government,Digital Public Services,Hungary,4.804738095238096,3,2.8828428571428577
+Government,Digital Public Services,Iceland,5.126772108843538,3,3.0760632653061224
 Government,Digital Public Services,India,4.566711885533941,5,4.566711885533941
 Government,Digital Public Services,Indonesia,4.415437011841774,4,3.5323496094734192
 Government,Digital Public Services,Iran,3.349624060150376,2,1.3398496240601505
@@ -217,8 +217,8 @@ Government,Digital Public Services,Lebanon,3.3909557823129255,3,2.03457346938775
 Government,Digital Public Services,Lesotho,1.8301666666666667,2,0.7320666666666668
 Government,Digital Public Services,Liberia,2.982136054421769,3,1.7892816326530614
 Government,Digital Public Services,Libya,1.4683027210884354,3,0.8809816326530612
-Government,Digital Public Services,Liechtenstein,3.58602380952381,3,2.151614285714286
-Government,Digital Public Services,Lithuania,5.046224489795918,3,3.0277346938775507
+Government,Digital Public Services,Liechtenstein,3.5860238095238093,3,2.1516142857142855
+Government,Digital Public Services,Lithuania,5.046224489795919,3,3.027734693877551
 Government,Digital Public Services,Luxembourg,4.873738095238095,3,2.924242857142857
 Government,Digital Public Services,"Macao SAR, China",4.214285714285714,1,0.842857142857143
 Government,Digital Public Services,Madagascar,3.132795918367347,3,1.879677551020408
@@ -227,7 +227,7 @@ Government,Digital Public Services,Malaysia,4.918175233056186,4,3.93454018644494
 Government,Digital Public Services,Maldives,3.650142857142857,3,2.190085714285714
 Government,Digital Public Services,Mali,3.2706292517006808,3,1.9623775510204085
 Government,Digital Public Services,Malta,5.3064591836734705,3,3.183875510204082
-Government,Digital Public Services,Marshall Islands,2.5551088435374147,3,1.5330653061224488
+Government,Digital Public Services,Marshall Islands,2.555108843537415,3,1.533065306122449
 Government,Digital Public Services,Mauritania,2.498802721088435,3,1.4992816326530611
 Government,Digital Public Services,Mauritius,4.377622448979593,3,2.6265734693877554
 Government,Digital Public Services,Mexico,5.272112244897959,3,3.1632673469387753
@@ -242,7 +242,7 @@ Government,Digital Public Services,Mozambique,4.079204081632653,3,2.447522448979
 Government,Digital Public Services,Myanmar,2.633139455782313,3,1.5798836734693877
 Government,Digital Public Services,Namibia,3.6752210884353738,3,2.205132653061224
 Government,Digital Public Services,Nauru,2.318945578231292,3,1.391367346938775
-Government,Digital Public Services,Nepal,3.744251700680272,3,2.246551020408163
+Government,Digital Public Services,Nepal,3.7442517006802727,3,2.2465510204081633
 Government,Digital Public Services,Netherlands,5.606898400100781,4,4.485518720080625
 Government,Digital Public Services,New Zealand,5.655945294784581,4,4.524756235827665
 Government,Digital Public Services,Nicaragua,3.856261904761905,3,2.313757142857143
@@ -252,11 +252,11 @@ Government,Digital Public Services,North Korea,6.0,1,1.2000000000000002
 Government,Digital Public Services,North Macedonia,4.950697278911565,3,2.9704183673469386
 Government,Digital Public Services,Norway,5.195162414965987,4,4.15612993197279
 Government,Digital Public Services,Oman,5.034823129251701,3,3.020893877551021
-Government,Digital Public Services,Pakistan,4.344695488721804,4,3.4757563909774434
+Government,Digital Public Services,Pakistan,4.344695488721805,4,3.4757563909774443
 Government,Digital Public Services,Palau,2.6087448979591836,3,1.5652469387755101
 Government,Digital Public Services,Palestine,4.622448979591836,1,0.9244897959183673
 Government,Digital Public Services,Panama,4.065755102040817,3,2.4394530612244902
-Government,Digital Public Services,Papua New Guinea,2.937149659863945,3,1.762289795918367
+Government,Digital Public Services,Papua New Guinea,2.937149659863946,3,1.7622897959183674
 Government,Digital Public Services,Paraguay,4.8040510204081635,3,2.882430612244898
 Government,Digital Public Services,Peru,4.90221768707483,3,2.941330612244898
 Government,Digital Public Services,Philippines,4.877231292517007,3,2.9263387755102044
@@ -273,7 +273,7 @@ Government,Digital Public Services,Saint Kitts and Nevis,2.8185000000000002,2,1.
 Government,Digital Public Services,Saint Lucia,2.93825,2,1.1753
 Government,Digital Public Services,Saint Vincent and the Grenadines,3.33725,2,1.3349000000000002
 Government,Digital Public Services,Samoa,3.048309523809524,3,1.8289857142857142
-Government,Digital Public Services,San Marino,2.4286768707482995,3,1.4572061224489796
+Government,Digital Public Services,San Marino,2.428676870748299,3,1.4572061224489794
 Government,Digital Public Services,Sao Tome and Principe,2.1237500000000002,2,0.8495000000000001
 Government,Digital Public Services,Saudi Arabia,4.572760306851786,5,4.572760306851786
 Government,Digital Public Services,Senegal,3.731136054421769,3,2.238681632653061
@@ -308,7 +308,7 @@ Government,Digital Public Services,Togo,3.060649659863946,3,1.8363897959183675
 Government,Digital Public Services,Tonga,3.483996598639456,3,2.0903979591836737
 Government,Digital Public Services,Trinidad and Tobago,4.326843537414966,3,2.5961061224489796
 Government,Digital Public Services,Tunisia,4.584557823129252,3,2.750734693877551
-Government,Digital Public Services,Turkey,5.379474624060151,4,4.303579699248121
+Government,Digital Public Services,Turkey,5.37947462406015,4,4.303579699248121
 Government,Digital Public Services,Turkmenistan,1.8355816326530612,3,1.1013489795918368
 Government,Digital Public Services,Tuvalu,2.299248299319728,3,1.3795489795918368
 Government,Digital Public Services,UAE,6.0,1,1.2000000000000002
@@ -359,10 +359,12 @@ Government,Funding and procurement,Brunei Darussalam,6.0,1,1.2000000000000002
 Government,Funding and procurement,Bulgaria,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Burkina Faso,6.0,1,1.2000000000000002
 Government,Funding and procurement,Burundi,4.333333333333334,1,0.8666666666666668
+Government,Funding and procurement,CAN,2.471010386143842,1,0.4942020772287684
+Government,Funding and procurement,CHE,2.818395597757613,1,0.5636791195515226
 Government,Funding and procurement,Cabo Verde,6.0,1,1.2000000000000002
 Government,Funding and procurement,Cambodia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Cameroon,6.0,1,1.2000000000000002
-Government,Funding and procurement,Canada,4.235505193071921,2,1.6942020772287685
+Government,Funding and procurement,Canada,6.0,1,1.2000000000000002
 Government,Funding and procurement,Central African Republic,1.0,1,0.2
 Government,Funding and procurement,Chad,1.0,1,0.2
 Government,Funding and procurement,Chile,6.0,1,1.2000000000000002
@@ -378,10 +380,12 @@ Government,Funding and procurement,Cuba,6.0,1,1.2000000000000002
 Government,Funding and procurement,Cyprus,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Czech Republic,6.0,1,1.2000000000000002
 Government,Funding and procurement,Côte d'Ivoire,2.666666666666667,1,0.5333333333333334
+Government,Funding and procurement,DEU,1.4608312742947491,1,0.2921662548589498
 Government,Funding and procurement,Denmark,6.0,1,1.2000000000000002
 Government,Funding and procurement,Djibouti,2.666666666666667,1,0.5333333333333334
 Government,Funding and procurement,Dominica,2.666666666666667,1,0.5333333333333334
 Government,Funding and procurement,Dominican Republic,6.0,1,1.2000000000000002
+Government,Funding and procurement,ESP,1.7112818664716007,1,0.3422563732943202
 Government,Funding and procurement,Ecuador,6.0,1,1.2000000000000002
 Government,Funding and procurement,Egypt,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,El Salvador,6.0,1,1.2000000000000002
@@ -390,13 +394,14 @@ Government,Funding and procurement,Eritrea,1.0,1,0.2
 Government,Funding and procurement,Estonia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Eswatini,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Ethiopia,4.333333333333334,1,0.8666666666666668
+Government,Funding and procurement,FIN,2.121240922218991,1,0.42424818444379825
 Government,Funding and procurement,Fiji,6.0,1,1.2000000000000002
-Government,Funding and procurement,Finland,4.060620461109496,2,1.6242481844437984
+Government,Funding and procurement,Finland,6.0,1,1.2000000000000002
 Government,Funding and procurement,France,6.0,1,1.2000000000000002
 Government,Funding and procurement,Gabon,2.666666666666667,1,0.5333333333333334
 Government,Funding and procurement,Gambia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Georgia,6.0,1,1.2000000000000002
-Government,Funding and procurement,Germany,3.7304156371473747,2,1.49216625485895
+Government,Funding and procurement,Germany,6.0,1,1.2000000000000002
 Government,Funding and procurement,Ghana,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Greece,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Grenada,4.333333333333334,1,0.8666666666666668
@@ -408,17 +413,20 @@ Government,Funding and procurement,Haiti,6.0,1,1.2000000000000002
 Government,Funding and procurement,Honduras,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,"Hong Kong SAR, China",4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Hungary,6.0,1,1.2000000000000002
+Government,Funding and procurement,IRL,1.3960400638414776,1,0.27920801276829554
+Government,Funding and procurement,ITA,1.0723631663244144,1,0.2144726332648829
 Government,Funding and procurement,Iceland,6.0,1,1.2000000000000002
 Government,Funding and procurement,India,6.0,1,1.2000000000000002
 Government,Funding and procurement,Indonesia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Iran,6.0,1,1.2000000000000002
 Government,Funding and procurement,Iraq,6.0,1,1.2000000000000002
-Government,Funding and procurement,Ireland,3.6980200319207386,2,1.4792080127682956
+Government,Funding and procurement,Ireland,6.0,1,1.2000000000000002
 Government,Funding and procurement,Israel,6.0,1,1.2000000000000002
-Government,Funding and procurement,Italy,3.5361815831622074,2,1.4144726332648832
+Government,Funding and procurement,Italy,6.0,1,1.2000000000000002
 Government,Funding and procurement,Jamaica,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Japan,6.0,1,1.2000000000000002
 Government,Funding and procurement,Jordan,6.0,1,1.2000000000000002
+Government,Funding and procurement,KOR,1.0,1,0.2
 Government,Funding and procurement,Kazakhstan,6.0,1,1.2000000000000002
 Government,Funding and procurement,Kenya,6.0,1,1.2000000000000002
 Government,Funding and procurement,Kiribati,6.0,1,1.2000000000000002
@@ -455,11 +463,12 @@ Government,Funding and procurement,Montenegro,6.0,1,1.2000000000000002
 Government,Funding and procurement,Morocco,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Mozambique,6.0,1,1.2000000000000002
 Government,Funding and procurement,Myanmar,1.0,1,0.2
+Government,Funding and procurement,NZL,3.4559448991471773,1,0.6911889798294355
 Government,Funding and procurement,Namibia,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Nauru,1.0,1,0.2
 Government,Funding and procurement,Nepal,6.0,1,1.2000000000000002
 Government,Funding and procurement,Netherlands,6.0,1,1.2000000000000002
-Government,Funding and procurement,New Zealand,4.727972449573588,2,1.8911889798294355
+Government,Funding and procurement,New Zealand,6.0,1,1.2000000000000002
 Government,Funding and procurement,Nicaragua,6.0,1,1.2000000000000002
 Government,Funding and procurement,Niger,1.0,1,0.2
 Government,Funding and procurement,Nigeria,4.333333333333334,1,0.8666666666666668
@@ -493,9 +502,8 @@ Government,Funding and procurement,Slovenia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Solomon Islands,6.0,1,1.2000000000000002
 Government,Funding and procurement,Somalia,6.0,1,1.2000000000000002
 Government,Funding and procurement,South Africa,6.0,1,1.2000000000000002
-Government,Funding and procurement,South Korea,1.0,1,0.2
 Government,Funding and procurement,South Sudan,1.0,1,0.2
-Government,Funding and procurement,Spain,3.8556409332358004,2,1.5422563732943202
+Government,Funding and procurement,Spain,6.0,1,1.2000000000000002
 Government,Funding and procurement,Sri Lanka,6.0,1,1.2000000000000002
 Government,Funding and procurement,St. Kitts and Nevis,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,St. Lucia,1.0,1,0.2
@@ -503,7 +511,7 @@ Government,Funding and procurement,St. Vincent and the Grenadines,1.0,1,0.2
 Government,Funding and procurement,Sudan,1.0,1,0.2
 Government,Funding and procurement,Suriname,6.0,1,1.2000000000000002
 Government,Funding and procurement,Sweden,6.0,1,1.2000000000000002
-Government,Funding and procurement,Switzerland,4.4091977988788065,2,1.7636791195515227
+Government,Funding and procurement,Switzerland,6.0,1,1.2000000000000002
 Government,Funding and procurement,Syrian Arab Republic,6.0,1,1.2000000000000002
 Government,Funding and procurement,São Tomé and Principe,1.0,1,0.2
 Government,Funding and procurement,Tajikistan,6.0,1,1.2000000000000002
@@ -517,11 +525,11 @@ Government,Funding and procurement,Tunisia,6.0,1,1.2000000000000002
 Government,Funding and procurement,Turkey,6.0,1,1.2000000000000002
 Government,Funding and procurement,Turkmenistan,2.666666666666667,1,0.5333333333333334
 Government,Funding and procurement,Tuvalu,1.0,1,0.2
+Government,Funding and procurement,USA,6.0,1,1.2000000000000002
 Government,Funding and procurement,Uganda,6.0,1,1.2000000000000002
 Government,Funding and procurement,Ukraine,6.0,1,1.2000000000000002
 Government,Funding and procurement,United Arab Emirates,6.0,1,1.2000000000000002
 Government,Funding and procurement,United Kingdom,6.0,1,1.2000000000000002
-Government,Funding and procurement,United States,6.0,1,1.2000000000000002
 Government,Funding and procurement,United States of America,4.333333333333334,1,0.8666666666666668
 Government,Funding and procurement,Uruguay,6.0,1,1.2000000000000002
 Government,Funding and procurement,Uzbekistan,6.0,1,1.2000000000000002
