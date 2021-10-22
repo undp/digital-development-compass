@@ -4,12 +4,21 @@ Business,Startup Environment,Ease of doing business index (1=most business-frien
 Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Uzbekistan,2019.0,6.0,3.5,True
 Business,Startup Environment,Time required to start a business (days),Uzbekistan,2019.0,3.0,4.333333333333334,True
 Business,Technology Adoption,Country rank and value in the UNCTAD B2C E-commerce Index,Uzbekistan,2017.0,106.0,2.3286713286713283,True
+Foundations,Digital Payments,% Making online transactions - Women,Uzbekistan,2017.0,4.0,1.2247191011235956,True
 Foundations,Digital Payments,% of population with digital finance account - active (90 days),Uzbekistan,2017.0,34.0,2.467391304347826,True
-Foundations,Digital Payments,% of population with digital finance account - registered,Uzbekistan,2017.0,37.0,2.5384615384615383,True
+Foundations,Digital Payments,% of population with digital finance account,Uzbekistan,2017.0,37.0,2.5384615384615383,True
 Foundations,Digital Legal Identity,% of population with ID (all),Uzbekistan,2018.0,96.0,5.740259740259741,True
 Foundations,Digital Legal Identity,% of population with ID (female),Uzbekistan,2018.0,,,True
 Foundations,Digital Legal Identity,can ID be used for transactions,Uzbekistan,2018.0,1.0,6.0,True
+Foundations,Digital Payments,"
+% of population with digital finance account - registered",Uzbekistan,2017.0,37.0,2.5384615384615383,True
 Foundations,Digital Legal Identity,Is personal data siloed,Uzbekistan,2020.0,0.02,6.0,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Uzbekistan,2017.0,34.0,2.467391304347826,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Uzbekistan,2017.0,33.0,2.510416666666667,True
+Foundations,Digital Payments,"
+% Making online transactions - Men",Uzbekistan,2017.0,10.0,1.4945054945054943,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Uzbekistan,2017.0,7.0,1.4117647058823528,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Uzbekistan,2017.0,5.0,1.2941176470588236,True
 Government,Capabilities,% of digital skills certifications / training courses completed,Uzbekistan,2020.0,104.0,1.1869158878504669,True
 Government,Digital Public Services,E-Participation index,Uzbekistan,2020.0,0.8095,5.0475,True
 Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Uzbekistan,2020.0,3.0,6.0,True
@@ -47,13 +56,13 @@ People,Usage and ownership,% of population using Facebook,Uzbekistan,2021.0,9.12
 People,Digital Literacy Skills,% of population using internet (all),Uzbekistan,2019.0,70.4000024,4.226958686119897,True
 People,Digital Literacy Skills,% of population using internet (female),Uzbekistan,2019.0,65.91775518,4.051613927351127,True
 People,Digital Literacy Skills,% of population using internet (male),Uzbekistan,2019.0,74.90000359,4.40449430186986,True
-People,Usage and ownership,Crypto Adoption Index,Uzbekistan,2019.0,0.03,1.15,True
 People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Uzbekistan,2021.0,,,True
 People,Culture,Facebook Social Connectedness Index,Uzbekistan,2021.0,1938.3710126974293,1.0006262507673491,True
 People,Usage and ownership,Financial Inclusiveness,Uzbekistan,2017.0,37.0,2.5384615384615383,True
 People,Usage and ownership,Gender gap for social media use,Uzbekistan,2019.0,78.43665314,4.921832657,True
 People,Usage and ownership,Gender gap in internet usage,Uzbekistan,2019.0,65.91775518,4.051613927351127,True
 People,Usage and ownership,Gender gap in mobile usage,Uzbekistan,2019.0,46.96969604,3.348484802,True
+People,Usage and ownership,Global Crypto Adoption Index,Uzbekistan,2019.0,0.03,1.15,True
 People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Uzbekistan,2021.0,6.179,4.436736228614402,True
 People,Usage and ownership,Households with a computer and with Internet access,Uzbekistan,2019.0,81.14999958,5.026645758365883,True
 People,Digital Literacy Skills,Human Capital Index (HCI),Uzbekistan,2020.0,0.7434,4.717,True
@@ -63,7 +72,7 @@ People,Usage and ownership,Mobile Device Penetration (female),Uzbekistan,2019.0,
 People,Usage and ownership,Mobile Device Penetration,Uzbekistan,2019.0,69.80000068,3.2396617418610902,True
 People,Culture,Number of mobile apps available in national language(s),Uzbekistan,2019.0,10.67619705,1.3956802603092784,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Uzbekistan,2019.0,13.76,5.312,False
-People,Culture,UNDP Human Development Index (HDI) ,Uzbekistan,2019.0,0.72,3.895204262877442,True
+People,Usage and ownership,UNDP Human Development Index (HDI) ,Uzbekistan,2019.0,0.72,3.895204262877442,True
 Regulation,Cybersecurity,# key internet controls employed,Uzbekistan,2021.0,9.0,1.0,False
 Regulation,Ethical Standards,Rule of Law Index,Uzbekistan,2020.0,0.47,2.587301587301587,True
 Strategy,Ambition,SDG Index,Uzbekistan,2019.0,69.8,4.3088235294117645,True

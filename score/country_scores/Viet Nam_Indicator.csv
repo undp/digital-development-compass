@@ -11,12 +11,21 @@ Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong
 Business,Startup Environment,Time required to start a business (days),Viet Nam,2019.0,1.0,1.0,True
 Business,Technology Adoption,Country rank and value in the UNCTAD B2C E-commerce Index,Viet Nam,2017.0,74.0,3.4475524475524475,True
 Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Viet Nam,2017.0,61.0,3.857142857142857,True
+Foundations,Digital Payments,% Making online transactions - Women,Viet Nam,2017.0,21.0,2.1797752808988764,True
 Foundations,Digital Payments,% of population with digital finance account - active (90 days),Viet Nam,2017.0,23.0,1.869565217391304,True
-Foundations,Digital Payments,% of population with digital finance account - registered,Viet Nam,2017.0,31.0,2.208791208791209,True
+Foundations,Digital Payments,% of population with digital finance account,Viet Nam,2017.0,31.0,2.208791208791209,True
 Foundations,Digital Legal Identity,% of population with ID (all),Viet Nam,2018.0,96.0,5.740259740259741,True
 Foundations,Digital Legal Identity,% of population with ID (female),Viet Nam,2018.0,,,True
 Foundations,Digital Legal Identity,can ID be used for transactions,Viet Nam,2018.0,1.0,6.0,True
+Foundations,Digital Payments,"
+% of population with digital finance account - registered",Viet Nam,2017.0,30.0,2.1538461538461537,True
 Foundations,Digital Legal Identity,Is personal data siloed,Viet Nam,2020.0,0.02,6.0,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Viet Nam,2017.0,23.0,1.869565217391304,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Viet Nam,2017.0,23.0,1.9895833333333333,True
+Foundations,Digital Payments,"
+% Making online transactions - Men",Viet Nam,2017.0,20.0,2.043956043956044,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Viet Nam,2017.0,9.0,1.5294117647058822,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Viet Nam,2017.0,8.0,1.4705882352941178,True
 Government,Capabilities,% of digital skills certifications / training courses completed,Viet Nam,2020.0,20.0,5.11214953271028,True
 Government,Digital Public Services,E-Participation index,Viet Nam,2020.0,0.7024,4.5120000000000005,True
 Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Viet Nam,2020.0,3.0,6.0,True
@@ -63,13 +72,13 @@ People,Digital Literacy Skills,% of population using internet (all),Viet Nam,201
 People,Digital Literacy Skills,% of population using internet (female),Viet Nam,2019.0,65.50475236,4.02782941141132,True
 People,Digital Literacy Skills,% of population using internet (male),Viet Nam,2019.0,71.84789925,4.210482095666951,True
 People,Usage and ownership,% of population with a smartphone,Viet Nam,2020.0,0.63,4.515625,True
-People,Usage and ownership,Crypto Adoption Index,Viet Nam,2019.0,1.0,6.0,True
 People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),Viet Nam,2017.0,18.74,2.2002822684115984,True
 People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Viet Nam,2021.0,1.6219481377826768,1.1153442034077683,True
 People,Usage and ownership,Financial Inclusiveness,Viet Nam,2017.0,31.0,2.208791208791209,True
 People,Usage and ownership,Gender gap for social media use,Viet Nam,2019.0,85.97904968,5.298952484,True
 People,Usage and ownership,Gender gap in internet usage,Viet Nam,2019.0,65.50475236,4.02782941141132,True
 People,Usage and ownership,Gender gap in mobile usage,Viet Nam,2019.0,98.32418823,5.916209411500001,True
+People,Usage and ownership,Global Crypto Adoption Index,Viet Nam,2019.0,1.0,6.0,True
 People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Viet Nam,2021.0,5.411,3.7147960142884,True
 People,Digital Wellbeing,Gross National Wellbeing,Viet Nam,2019.0,5.47,3.730844793713163,True
 People,Usage and ownership,Households with a computer and with Internet access,Viet Nam,2019.0,71.32020841,4.5190665161105095,True
@@ -79,9 +88,10 @@ People,Usage and ownership,Mobile Broadband Pricing (pre-paid),Viet Nam,2019.0,1
 People,Usage and ownership,Mobile Device Penetration (female),Viet Nam,2019.0,76.74703415,4.421381937899607,True
 People,Usage and ownership,Mobile Device Penetration,Viet Nam,2019.0,77.49999971,3.943456522944599,True
 People,Culture,Number of mobile apps available in national language(s),Viet Nam,2019.0,71.30223846,4.520733941237113,True
+People,Usage and ownership,Social media penetration,Viet Nam,2021.0,73.7,4.479567307692308,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Viet Nam,2019.0,82.54,1.8729999999999996,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Viet Nam,2020.0,6.47,2.7591125198098254,True
-People,Culture,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,3.753108348134991,True
+People,Usage and ownership,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,3.753108348134991,True
 Regulation,Cybersecurity,# key internet controls employed,Viet Nam,2021.0,8.0,1.5555555555555554,False
 Regulation,Ethical Standards,Rule of Law Index,Viet Nam,2020.0,0.49,2.746031746031746,True
 Strategy,Ambition,SDG Index,Viet Nam,2019.0,72.8,4.623949579831932,True

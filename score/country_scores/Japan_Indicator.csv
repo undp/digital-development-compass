@@ -13,13 +13,22 @@ Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong
 Business,Startup Environment,Time required to start a business (days),Japan,2019.0,1.0,1.0,True
 Business,Technology Adoption,Country rank and value in the UNCTAD B2C E-commerce Index,Japan,2017.0,8.0,5.755244755244755,True
 Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Japan,2017.0,17.0,5.428571428571429,True
+Foundations,Digital Payments,% Making online transactions - Women,Japan,2017.0,44.0,3.4719101123595504,True
 Foundations,Digital Payments,% of population with digital finance account - active (90 days),Japan,2017.0,95.0,5.782608695652174,True
-Foundations,Digital Payments,% of population with digital finance account - registered,Japan,2017.0,98.0,5.8901098901098905,True
+Foundations,Digital Payments,% of population with digital finance account,Japan,2017.0,98.0,5.8901098901098905,True
 Foundations,Digital Legal Identity,% of population with ID (all),Japan,2018.0,95.0,5.675324675324675,True
 Foundations,Digital Legal Identity,% of population with ID (female),Japan,2018.0,,,True
 Foundations,Digital Legal Identity,can ID be used for transactions,Japan,2018.0,1.0,6.0,True
+Foundations,Digital Payments,"
+% of population with digital finance account - registered",Japan,2017.0,98.0,5.8901098901098905,True
 Foundations,Digital Legal Identity,Is personal data siloed,Japan,2020.0,0.02,6.0,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Japan,2017.0,95.0,5.782608695652174,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Japan,2017.0,96.0,5.791666666666667,True
+Foundations,Digital Payments,"
+% Making online transactions - Men",Japan,2017.0,54.0,3.912087912087912,True
 Foundations,Data Exchange,Open data index,Japan,2016.0,61.0,4.370786516853933,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Japan,2017.0,33.0,2.9411764705882355,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Japan,2017.0,29.0,2.7058823529411766,True
 Government,Capabilities,% of digital skills certifications / training courses completed,Japan,2020.0,4.0,5.859813084112149,True
 Government,Digital Public Services,E-Participation index,Japan,2020.0,0.9881,5.9405,True
 Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Japan,2020.0,3.0,6.0,True
@@ -68,7 +77,6 @@ People,Digital Literacy Skills,% of population using internet (female),Japan,201
 People,Digital Literacy Skills,% of population using internet (male),Japan,2019.0,94.64445824,5.659584161255139,True
 People,Usage and ownership,% of population with a smartphone,Japan,2020.0,0.63,4.515625,True
 People,Digital Wellbeing,Automation-led unemployment,Japan,2018.0,55.71,6.0,True
-People,Usage and ownership,Crypto Adoption Index,Japan,2019.0,0.03,1.15,True
 People,Digital Wellbeing,Cyberbullying,Japan,2018.0,5.0,5.444444444444445,True
 People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),Japan,2017.0,45.9,3.942648190916089,True
 People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Japan,2021.0,4.101649214239279,1.2920597141407104,True
@@ -76,6 +84,7 @@ People,Usage and ownership,Financial Inclusiveness,Japan,2017.0,98.0,5.890109890
 People,Usage and ownership,Gender gap for social media use,Japan,2019.0,100.0,6.0,True
 People,Usage and ownership,Gender gap in internet usage,Japan,2019.0,90.9524801,5.493344552600639,True
 People,Usage and ownership,Gender gap in mobile usage,Japan,2019.0,88.88889313,5.4444446565,True
+People,Usage and ownership,Global Crypto Adoption Index,Japan,2019.0,0.03,1.15,True
 People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Japan,2021.0,5.94,4.212069937958264,True
 People,Digital Wellbeing,Gross National Wellbeing,Japan,2019.0,5.91,4.163064833005894,True
 People,Usage and ownership,Households with a computer and with Internet access,Japan,2019.0,96.85234139,5.837464891724409,True
@@ -86,9 +95,10 @@ People,Usage and ownership,Mobile Broadband Pricing (pre-paid),Japan,2019.0,0.99
 People,Usage and ownership,Mobile Device Penetration (female),Japan,2019.0,91.2968272,5.4091512511441255,True
 People,Usage and ownership,Mobile Device Penetration,Japan,2019.0,92.14334941,5.281886963817103,True
 People,Culture,Number of mobile apps available in national language(s),Japan,2019.0,88.71601868,5.418351478350516,True
+People,Usage and ownership,Social media penetration,Japan,2021.0,74.3,4.515625,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Japan,2019.0,75.0,2.25,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Japan,2020.0,4.25,1.0,True
-People,Culture,UNDP Human Development Index (HDI) ,Japan,2019.0,0.919,5.662522202486679,True
+People,Usage and ownership,UNDP Human Development Index (HDI) ,Japan,2019.0,0.919,5.662522202486679,True
 Regulation,Cybersecurity,# key internet controls employed,Japan,2021.0,0.0,6.0,False
 Regulation,Ethical Standards,Rule of Law Index,Japan,2020.0,0.78,5.047619047619048,True
 Strategy,Ambition,SDG Index,Japan,2019.0,79.8,5.359243697478991,True
