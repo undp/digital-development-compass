@@ -53,7 +53,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d_nid.xlsx
            downloaded_filename: data/id4d_nid.xlsx
            postprocess: ./process_raw_data.js
 
