@@ -1,197 +1,68 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Benin,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Botswana,2019.0,Households with a computer and with Internet access,63.45425629,4.112893694365136,True,Usage and ownership
-Burkina Faso,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Burundi,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Cabo Verde,2019.0,Households with a computer and with Internet access,66.97186383,4.294531792146311,True,Usage and ownership
-Cameroon,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Central African Rep.,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Chad,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Congo (Rep. of the),2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Côte d'Ivoire,2019.0,Households with a computer and with Internet access,16.87575175,1.707727436921469,True,Usage and ownership
-Dem. Rep. of the Congo,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Equatorial Guinea,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Eritrea,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Eswatini,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Ethiopia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Gabon,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Gambia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Ghana,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Guinea,2019.0,Households with a computer and with Internet access,12.99997966,1.5075948576454508,True,Usage and ownership
-Guinea-Bissau,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Kenya,2019.0,Households with a computer and with Internet access,17.94959834,1.7631774692796558,True,Usage and ownership
-Lesotho,2019.0,Households with a computer and with Internet access,3.169886082,1.0,True,Usage and ownership
-Liberia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Madagascar,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Malawi,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Mali,2019.0,Households with a computer and with Internet access,21.63249276,1.9533504573605556,True,Usage and ownership
-Mauritius,2019.0,Households with a computer and with Internet access,71.20158913,4.512941392675229,True,Usage and ownership
-Mozambique,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Namibia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Niger,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Nigeria,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Rwanda,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Sao Tome and Principe,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Senegal,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Seychelles,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Sierra Leone,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-South Africa,2019.0,Households with a computer and with Internet access,63.25098032,4.1023971679347255,True,Usage and ownership
-South Sudan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Tanzania,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Togo,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Uganda,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Zambia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Zimbabwe,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Algeria,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Bahrain,2019.0,Households with a computer and with Internet access,99.70135558,5.984578949258858,True,Usage and ownership
-Comoros,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Djibouti,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Egypt,2019.0,Households with a computer and with Internet access,59.93702843,3.931275202055061,True,Usage and ownership
-Iraq,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Jordan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Kuwait,2019.0,Households with a computer and with Internet access,100.0,6.0,True,Usage and ownership
-Lebanon,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Libya,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Mauritania,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Morocco,2019.0,Households with a computer and with Internet access,80.76138201,5.006578779495596,True,Usage and ownership
-Oman,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Palestine,2019.0,Households with a computer and with Internet access,79.56833268,4.944973495678088,True,Usage and ownership
-Qatar,2019.0,Households with a computer and with Internet access,93.56436742,5.667684343248322,True,Usage and ownership
-Saudi Arabia,2019.0,Households with a computer and with Internet access,99.18200011,5.957761079848945,True,Usage and ownership
-Somalia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Sudan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Syrian Arab Republic,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Tunisia,2019.0,Households with a computer and with Internet access,51.4703361,3.494082061026126,True,Usage and ownership
-United Arab Emirates,2019.0,Households with a computer and with Internet access,99.09997171,5.953525393414172,True,Usage and ownership
-Yemen,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Afghanistan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Australia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Bangladesh,2019.0,Households with a computer and with Internet access,37.6,2.7778618925904057,True,Usage and ownership
-Bhutan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Brunei Darussalam,2019.0,Households with a computer and with Internet access,53.58876926,3.603471231103628,True,Usage and ownership
-Cambodia,2019.0,Households with a computer and with Internet access,73.59998717,4.6367870612877375,True,Usage and ownership
-China,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Dem. People's Rep. of Korea,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Fiji,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-"Hong Kong, China",2019.0,Households with a computer and with Internet access,94.12816125,5.696796868638793,True,Usage and ownership
-India,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Indonesia,2019.0,Households with a computer and with Internet access,73.74985003,4.644525504109714,True,Usage and ownership
-Iran (Islamic Republic of),2019.0,Households with a computer and with Internet access,86.86611992,5.321808084873145,True,Usage and ownership
-Japan,2019.0,Households with a computer and with Internet access,96.85234139,5.837464891724409,True,Usage and ownership
-Kiribati,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Korea (Rep. of),2019.0,Households with a computer and with Internet access,99.68929005,5.9839559235537445,True,Usage and ownership
-Lao P.D.R.,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-"Macao, China",2019.0,Households with a computer and with Internet access,92.30379747,5.602592508745912,True,Usage and ownership
-Malaysia,2019.0,Households with a computer and with Internet access,90.10448816,5.489027150769442,True,Usage and ownership
-Maldives,2019.0,Households with a computer and with Internet access,93.00075396,5.638581131592633,True,Usage and ownership
-Marshall Islands,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Micronesia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Mongolia,2019.0,Households with a computer and with Internet access,46.71978891,3.2487788698090334,True,Usage and ownership
-Myanmar,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Nauru,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Nepal (Republic of),2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-New Zealand,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Pakistan,2019.0,Households with a computer and with Internet access,34.13440036,2.5989093178296843,True,Usage and ownership
-Papua New Guinea,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Philippines,2019.0,Households with a computer and with Internet access,17.65287471,1.747855602042606,True,Usage and ownership
-Samoa,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Singapore,2019.0,Households with a computer and with Internet access,98.43300944,5.919085576965912,True,Usage and ownership
-Solomon Islands,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Sri Lanka,2019.0,Households with a computer and with Internet access,45.2,3.170301790287728,True,Usage and ownership
-Thailand,2019.0,Households with a computer and with Internet access,74.56201678,4.686463219410131,True,Usage and ownership
-Timor-Leste,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Tonga,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Tuvalu,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Vanuatu,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Viet Nam,2019.0,Households with a computer and with Internet access,71.32020841,4.5190665161105095,True,Usage and ownership
-Armenia,2019.0,Households with a computer and with Internet access,76.38719973,4.7807098786439335,True,Usage and ownership
-Azerbaijan,2019.0,Households with a computer and with Internet access,79.1,4.920790281332362,True,Usage and ownership
-Belarus,2019.0,Households with a computer and with Internet access,78.59118223,4.894516545331656,True,Usage and ownership
-Kazakhstan,2019.0,Households with a computer and with Internet access,90.33601491,5.500982457885783,True,Usage and ownership
-Kyrgyzstan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Russian Federation,2019.0,Households with a computer and with Internet access,76.9137768,4.807900648575584,True,Usage and ownership
-Tajikistan,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Turkmenistan,2019.0,Households with a computer and with Internet access,48.93861156,3.3633518347793627,True,Usage and ownership
-Uzbekistan,2019.0,Households with a computer and with Internet access,81.14999958,5.026645758365883,True,Usage and ownership
-Albania,2019.0,Households with a computer and with Internet access,82.19557434,5.080635923082896,True,Usage and ownership
-Andorra,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Austria,2019.0,Households with a computer and with Internet access,89.90734435,5.478847269634171,True,Usage and ownership
-Belgium,2019.0,Households with a computer and with Internet access,89.73014742,5.469697382123449,True,Usage and ownership
-Bosnia and Herzegovina,2019.0,Households with a computer and with Internet access,72.02548739,4.555484885947255,True,Usage and ownership
-Bulgaria,2019.0,Households with a computer and with Internet access,75.07468369,4.712935712793447,True,Usage and ownership
-Croatia,2019.0,Households with a computer and with Internet access,80.52238047,4.9942374979288715,True,Usage and ownership
-Cyprus,2019.0,Households with a computer and with Internet access,89.6119706,5.463595105919372,True,Usage and ownership
-Czech Republic,2019.0,Households with a computer and with Internet access,81.12712446,5.025464559714224,True,Usage and ownership
-Denmark,2019.0,Households with a computer and with Internet access,95.43429685,5.764241568802324,True,Usage and ownership
-Estonia,2019.0,Households with a computer and with Internet access,90.39962759,5.504267214942552,True,Usage and ownership
-Finland,2019.0,Households with a computer and with Internet access,89.03549184,5.433827570972125,True,Usage and ownership
-France,2019.0,Households with a computer and with Internet access,84.01013645,5.17433415582156,True,Usage and ownership
-Georgia,2019.0,Households with a computer and with Internet access,79.25656235,4.928874664571476,True,Usage and ownership
-Germany,2019.0,Households with a computer and with Internet access,90.79701975,5.524787285813095,True,Usage and ownership
-Greece,2019.0,Households with a computer and with Internet access,78.5402328,4.891885678345217,True,Usage and ownership
-Hungary,2019.0,Households with a computer and with Internet access,86.20093734,5.287460165972455,True,Usage and ownership
-Iceland,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Ireland,2019.0,Households with a computer and with Internet access,90.99986589,5.535261617185449,True,Usage and ownership
-Israel,2019.0,Households with a computer and with Internet access,75.93348423,4.757281449117132,True,Usage and ownership
-Italy,2019.0,Households with a computer and with Internet access,76.14833031,4.76837541933501,True,Usage and ownership
-Latvia,2019.0,Households with a computer and with Internet access,85.44955035,5.248660924724205,True,Usage and ownership
-Liechtenstein,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Lithuania,2019.0,Households with a computer and with Internet access,81.51887605,5.0456933694382196,True,Usage and ownership
-Luxembourg,2019.0,Households with a computer and with Internet access,95.19719146,5.751998198408233,True,Usage and ownership
-Malta,2019.0,Households with a computer and with Internet access,86.07956081,5.281192666891395,True,Usage and ownership
-Moldova,2019.0,Households with a computer and with Internet access,60.75711647,3.97362194764985,True,Usage and ownership
-Monaco,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Montenegro,2019.0,Households with a computer and with Internet access,74.25119602,4.670413421086893,True,Usage and ownership
-Netherlands,2019.0,Households with a computer and with Internet access,96.20253165,5.803910777528577,True,Usage and ownership
-North Macedonia,2019.0,Households with a computer and with Internet access,81.776227,5.058982156344839,True,Usage and ownership
-Norway,2019.0,Households with a computer and with Internet access,98.00000716,5.896726712430924,True,Usage and ownership
-Poland,2019.0,Households with a computer and with Internet access,86.74999231,5.315811623374692,True,Usage and ownership
-Portugal,2019.0,Households with a computer and with Internet access,80.9385301,5.0157261450636055,True,Usage and ownership
-Romania,2019.0,Households with a computer and with Internet access,83.61322247,5.153838776649739,True,Usage and ownership
-San Marino,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Serbia,2019.0,Households with a computer and with Internet access,80.13813936,4.974396505573674,True,Usage and ownership
-Slovakia,2019.0,Households with a computer and with Internet access,82.1911181,5.080405816981618,True,Usage and ownership
-Slovenia,2019.0,Households with a computer and with Internet access,88.96112318,5.4299874092191915,True,Usage and ownership
-Spain,2019.0,Households with a computer and with Internet access,91.43762008,5.557865855282841,True,Usage and ownership
-Sweden,2019.0,Households with a computer and with Internet access,96.06085489,5.796595038949565,True,Usage and ownership
-Switzerland,2019.0,Households with a computer and with Internet access,91.55185827,5.563764753124516,True,Usage and ownership
-Turkey,2019.0,Households with a computer and with Internet access,88.28936378,5.395299884191137,True,Usage and ownership
-Ukraine,2019.0,Households with a computer and with Internet access,65.78044827,4.233010871030338,True,Usage and ownership
-United Kingdom,2019.0,Households with a computer and with Internet access,92.89255039,5.6329938423898325,True,Usage and ownership
-Vatican,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Antigua and Barbuda,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Argentina,2019.0,Households with a computer and with Internet access,82.9,5.117010230181025,True,Usage and ownership
-Bahamas,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Barbados,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Belize,2019.0,Households with a computer and with Internet access,60.24527273,3.9471919601547696,True,Usage and ownership
-Bolivia (Plurinational State of),2019.0,Households with a computer and with Internet access,22.9974982,2.023835009364488,True,Usage and ownership
-Brazil,2019.0,Households with a computer and with Internet access,71.38817162,4.522575920739401,True,Usage and ownership
-Canada,2019.0,Households with a computer and with Internet access,90.99455579,5.534987420461666,True,Usage and ownership
-Chile,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Colombia,2019.0,Households with a computer and with Internet access,52.16032014,3.5297106486669665,True,Usage and ownership
-Costa Rica,2019.0,Households with a computer and with Internet access,86.33808591,5.294542083180367,True,Usage and ownership
-Cuba,2019.0,Households with a computer and with Internet access,32.35980968,2.507275082972602,True,Usage and ownership
-Dominica,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Dominican Rep.,2019.0,Households with a computer and with Internet access,33.68886776,2.5759034273079973,True,Usage and ownership
-Ecuador,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-El Salvador,2019.0,Households with a computer and with Internet access,23.50028114,2.049797125882588,True,Usage and ownership
-Grenada,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Guatemala,2019.0,Households with a computer and with Internet access,22.72747606,2.0098919223911182,True,Usage and ownership
-Guyana,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Haiti,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Honduras,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Jamaica,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Mexico,2019.0,Households with a computer and with Internet access,56.35686892,3.746407118917627,True,Usage and ownership
-Nicaragua,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Panama,2019.0,Households with a computer and with Internet access,70.71817562,4.4879794520949785,True,Usage and ownership
-Paraguay,2019.0,Households with a computer and with Internet access,28.26933107,2.2960557399145123,True,Usage and ownership
-Peru,2019.0,Households with a computer and with Internet access,35.86589294,2.688318103482168,True,Usage and ownership
-Saint Kitts and Nevis,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Saint Lucia,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Saint Vincent and the Grenadines,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-Suriname,2019.0,Households with a computer and with Internet access,54.86255674,3.669245576937751,True,Usage and ownership
-Trinidad and Tobago,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
-United States,2019.0,Households with a computer and with Internet access,86.61237785,5.308705649084683,True,Usage and ownership
-Uruguay,2019.0,Households with a computer and with Internet access,69.33091311,4.41634561558133,True,Usage and ownership
-Venezuela,2019.0,Households with a computer and with Internet access,,,True,Usage and ownership
+Mauritius,2020.0,Households with a computer and with Internet access,72.64247653,4.455201772120281,True,Usage and ownership
+Bahrain,2020.0,Households with a computer and with Internet access,99.67111548,5.992666270327154,True,Usage and ownership
+Egypt,2020.0,Households with a computer and with Internet access,73.01152829,4.476194467314826,True,Usage and ownership
+Kuwait,2020.0,Households with a computer and with Internet access,99.39994533,5.977241354578726,True,Usage and ownership
+Morocco,2020.0,Households with a computer and with Internet access,84.52001443,5.130829312269009,True,Usage and ownership
+Oman,2020.0,Households with a computer and with Internet access,94.40521854,5.693127340104173,True,Usage and ownership
+Qatar,2020.0,Households with a computer and with Internet access,95.01073505,5.7275708109324786,True,Usage and ownership
+Saudi Arabia,2020.0,Households with a computer and with Internet access,99.49999331,5.982932363203018,True,Usage and ownership
+Somalia,2020.0,Households with a computer and with Internet access,11.9,1.0,True,Usage and ownership
+United Arab Emirates,2020.0,Households with a computer and with Internet access,99.80004251,6.0,True,Usage and ownership
+Cambodia,2020.0,Households with a computer and with Internet access,73.60001003,4.509668952832456,True,Usage and ownership
+"Hong Kong, China",2020.0,Households with a computer and with Internet access,93.91333608,5.665147691519586,True,Usage and ownership
+Indonesia,2020.0,Households with a computer and with Internet access,78.17634138,4.769983465733821,True,Usage and ownership
+Iran (Islamic Republic of),2020.0,Households with a computer and with Internet access,93.30172743,5.630357682747382,True,Usage and ownership
+Korea (Rep. of),2020.0,Households with a computer and with Internet access,99.74851416,5.997068923488055,True,Usage and ownership
+Malaysia,2020.0,Households with a computer and with Internet access,91.70617992,5.539598482612838,True,Usage and ownership
+Mongolia,2020.0,Households with a computer and with Internet access,,,True,Usage and ownership
+Singapore,2020.0,Households with a computer and with Internet access,98.4436591,5.922845122068873,True,Usage and ownership
+Sri Lanka,2020.0,Households with a computer and with Internet access,52.8,3.326506269627059,True,Usage and ownership
+Thailand,2020.0,Households with a computer and with Internet access,85.19992293,5.16950440733069,True,Usage and ownership
+Viet Nam,2020.0,Households with a computer and with Internet access,74.80362832,4.578134123930813,True,Usage and ownership
+Belarus,2020.0,Households with a computer and with Internet access,76.98680595,4.702319367058063,True,Usage and ownership
+Kazakhstan,2020.0,Households with a computer and with Internet access,92.39570403,5.578820540436165,True,Usage and ownership
+Russian Federation,2020.0,Households with a computer and with Internet access,80.04080566,4.876039403066724,True,Usage and ownership
+Uzbekistan,2020.0,Households with a computer and with Internet access,93.51033767,5.642224016030228,True,Usage and ownership
+Albania,2020.0,Households with a computer and with Internet access,83.27987513,5.06028672408659,True,Usage and ownership
+Austria,2020.0,Households with a computer and with Internet access,90.40076082,5.465342597022596,True,Usage and ownership
+Belgium,2020.0,Households with a computer and with Internet access,90.86516337,5.491759111550856,True,Usage and ownership
+Bosnia and Herzegovina,2020.0,Households with a computer and with Internet access,72.83554192,4.466183870904707,True,Usage and ownership
+Bulgaria,2020.0,Households with a computer and with Internet access,78.85020735,4.808314844807008,True,Usage and ownership
+Croatia,2020.0,Households with a computer and with Internet access,84.99896561,5.158073393518772,True,Usage and ownership
+Cyprus,2020.0,Households with a computer and with Internet access,92.7761468,5.600461188104607,True,Usage and ownership
+Czech Republic,2020.0,Households with a computer and with Internet access,81.67271413,4.968866916194168,True,Usage and ownership
+Denmark,2020.0,Households with a computer and with Internet access,92.53785329,5.586906387492713,True,Usage and ownership
+Estonia,2020.0,Households with a computer and with Internet access,90.0,5.442546201903993,True,Usage and ownership
+Finland,2020.0,Households with a computer and with Internet access,91.07407407,5.503642535837949,True,Usage and ownership
+Georgia,2020.0,Households with a computer and with Internet access,83.84336642,5.092339682987941,True,Usage and ownership
+Germany,2020.0,Households with a computer and with Internet access,92.07629398,5.560651604399321,True,Usage and ownership
+Greece,2020.0,Households with a computer and with Internet access,80.38166755,4.895428579696599,True,Usage and ownership
+Hungary,2020.0,Households with a computer and with Internet access,87.63084244,5.307781900753031,True,Usage and ownership
+Ireland,2020.0,Households with a computer and with Internet access,91.9998674,5.556304247002349,True,Usage and ownership
+Latvia,2020.0,Households with a computer and with Internet access,89.72749767,5.427045508035216,True,Usage and ownership
+Lithuania,2020.0,Households with a computer and with Internet access,82.13069553,4.994918177770515,True,Usage and ownership
+Luxembourg,2020.0,Households with a computer and with Internet access,93.59986209,5.647316415160173,True,Usage and ownership
+Malta,2020.0,Households with a computer and with Internet access,90.3623821,5.463159508203519,True,Usage and ownership
+Moldova,2020.0,Households with a computer and with Internet access,64.61483143,3.998566890567935,True,Usage and ownership
+Montenegro,2020.0,Households with a computer and with Internet access,80.26226583,4.888636676269112,True,Usage and ownership
+Netherlands,2020.0,Households with a computer and with Internet access,93.75,5.655856678948039,True,Usage and ownership
+North Macedonia,2020.0,Households with a computer and with Internet access,79.9168849,4.868990444018387,True,Usage and ownership
+Norway,2020.0,Households with a computer and with Internet access,96.12251686,5.790812066468477,True,Usage and ownership
+Poland,2020.0,Households with a computer and with Internet access,90.38388072,5.464382409773649,True,Usage and ownership
+Portugal,2020.0,Households with a computer and with Internet access,84.49278057,5.129280174224116,True,Usage and ownership
+Romania,2020.0,Households with a computer and with Internet access,86.23980516,5.228655813877603,True,Usage and ownership
+Serbia,2020.0,Households with a computer and with Internet access,80.95218011,4.927880928052124,True,Usage and ownership
+Slovakia,2020.0,Households with a computer and with Internet access,85.77874679,5.2024295256509765,True,Usage and ownership
+Slovenia,2020.0,Households with a computer and with Internet access,89.97491584,5.441119344801099,True,Usage and ownership
+Spain,2020.0,Households with a computer and with Internet access,95.37748818,5.7484327536305315,True,Usage and ownership
+Turkey,2020.0,Households with a computer and with Internet access,90.73163903,5.484163874040885,True,Usage and ownership
+United Kingdom,2020.0,Households with a computer and with Internet access,95.24432725,5.740858187896683,True,Usage and ownership
+Argentina,2020.0,Households with a computer and with Internet access,90.0,5.442546201903993,True,Usage and ownership
+Bolivia (Plurinational State of),2020.0,Households with a computer and with Internet access,55.17787488,3.4617664362947536,True,Usage and ownership
+Costa Rica,2020.0,Households with a computer and with Internet access,84.69301365,5.140669991241396,True,Usage and ownership
+Cuba,2020.0,Households with a computer and with Internet access,33.30908983,2.217808843924301,True,Usage and ownership
+Ecuador,2020.0,Households with a computer and with Internet access,53.20949454,3.3497994631402146,True,Usage and ownership
+Mexico,2020.0,Households with a computer and with Internet access,60.55397014,3.767573754840042,True,Usage and ownership
+Paraguay,2020.0,Households with a computer and with Internet access,36.53360808,2.4012284508962294,True,Usage and ownership
+Peru,2020.0,Households with a computer and with Internet access,38.73349414,2.526364116203202,True,Usage and ownership

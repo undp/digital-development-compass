@@ -1,67 +1,138 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Mauritius,2020.0,% of population covered by internet connectivity,64.88490358,3.298838736923077,True,Connectivity Technology
-Uganda,2020.0,% of population covered by internet connectivity,,,True,Connectivity Technology
-Bahrain,2020.0,% of population covered by internet connectivity,99.53951246,5.964577881538461,True,Connectivity Technology
-Egypt,2020.0,% of population covered by internet connectivity,71.9142004,3.839553876923077,True,Connectivity Technology
-Iraq,2020.0,% of population covered by internet connectivity,,,True,Connectivity Technology
-Kuwait,2020.0,% of population covered by internet connectivity,98.59999513,5.892307317692308,True,Connectivity Technology
-Morocco,2020.0,% of population covered by internet connectivity,84.12036305,4.778489465384615,True,Connectivity Technology
-Oman,2020.0,% of population covered by internet connectivity,95.23229327,5.633253328461539,True,Connectivity Technology
-Qatar,2020.0,% of population covered by internet connectivity,99.65279354,5.973291810769231,True,Connectivity Technology
-Saudi Arabia,2020.0,% of population covered by internet connectivity,97.8623325,5.835564038461538,True,Connectivity Technology
-United Arab Emirates,2020.0,% of population covered by internet connectivity,100.0,6.0,True,Connectivity Technology
-Cambodia,2020.0,% of population covered by internet connectivity,78.80000044,4.369230803076924,True,Connectivity Technology
-China,2020.0,% of population covered by internet connectivity,70.64214286,3.7417032969230775,True,Connectivity Technology
-"Hong Kong, China",2020.0,% of population covered by internet connectivity,92.41313602,5.416395078461538,True,Connectivity Technology
-Indonesia,2020.0,% of population covered by internet connectivity,53.72649449,2.4404995761538464,True,Connectivity Technology
-Iran (Islamic Republic of),2020.0,% of population covered by internet connectivity,84.11087002,4.777759232307692,True,Connectivity Technology
-Korea (Rep. of),2020.0,% of population covered by internet connectivity,96.50506035,5.7311584884615385,True,Connectivity Technology
-Malaysia,2020.0,% of population covered by internet connectivity,89.55501192,5.196539378461538,True,Connectivity Technology
-Mongolia,2020.0,% of population covered by internet connectivity,62.50002848,3.115386806153846,True,Connectivity Technology
-Singapore,2020.0,% of population covered by internet connectivity,95.0,5.615384615384615,True,Connectivity Technology
-Sri Lanka,2020.0,% of population covered by internet connectivity,35.0,1.0,True,Connectivity Technology
-Thailand,2020.0,% of population covered by internet connectivity,77.8437476,4.295672892307692,True,Connectivity Technology
-Viet Nam,2020.0,% of population covered by internet connectivity,70.2900004,3.714615415384615,True,Connectivity Technology
-Belarus,2020.0,% of population covered by internet connectivity,85.08791245,4.852916342307693,True,Connectivity Technology
-Kazakhstan,2020.0,% of population covered by internet connectivity,85.94259898,4.91866146,True,Connectivity Technology
-Russian Federation,2020.0,% of population covered by internet connectivity,84.99466978,4.845743829230768,True,Connectivity Technology
-Albania,2020.0,% of population covered by internet connectivity,72.23767711,3.864436700769231,True,Connectivity Technology
-Austria,2020.0,% of population covered by internet connectivity,87.52942813,5.0407252407692305,True,Connectivity Technology
-Belgium,2020.0,% of population covered by internet connectivity,91.52423735,5.348018257692308,True,Connectivity Technology
-Bosnia and Herzegovina,2020.0,% of population covered by internet connectivity,73.21175294,3.9393656107692303,True,Connectivity Technology
-Bulgaria,2020.0,% of population covered by internet connectivity,70.16248359,3.7048064299999997,True,Connectivity Technology
-Croatia,2020.0,% of population covered by internet connectivity,78.32093274,4.332379441538462,True,Connectivity Technology
-Cyprus,2020.0,% of population covered by internet connectivity,90.80209879,5.292469137692308,True,Connectivity Technology
-Czech Republic,2020.0,% of population covered by internet connectivity,81.33889705,4.5645305423076925,True,Connectivity Technology
-Denmark,2020.0,% of population covered by internet connectivity,96.54914573,5.7345496715384625,True,Connectivity Technology
-Estonia,2020.0,% of population covered by internet connectivity,89.05828666,5.158329743076923,True,Connectivity Technology
-Finland,2020.0,% of population covered by internet connectivity,92.17027106,5.3977131584615385,True,Connectivity Technology
-Georgia,2020.0,% of population covered by internet connectivity,72.53158414,3.8870449338461546,True,Connectivity Technology
-Germany,2020.0,% of population covered by internet connectivity,89.81294133,5.216380102307692,True,Connectivity Technology
-Greece,2020.0,% of population covered by internet connectivity,78.11584474,4.3166034415384615,True,Connectivity Technology
-Hungary,2020.0,% of population covered by internet connectivity,84.77115202,4.828550155384615,True,Connectivity Technology
-Ireland,2020.0,% of population covered by internet connectivity,91.99989097,5.384606997692308,True,Connectivity Technology
-Latvia,2020.0,% of population covered by internet connectivity,88.89796078,5.145996983076923,True,Connectivity Technology
-Lithuania,2020.0,% of population covered by internet connectivity,83.0555907,4.696583899999999,True,Connectivity Technology
-Luxembourg,2020.0,% of population covered by internet connectivity,98.82242384,5.909417218461538,True,Connectivity Technology
-Malta,2020.0,% of population covered by internet connectivity,86.85876183,4.989135525384615,True,Connectivity Technology
-Montenegro,2020.0,% of population covered by internet connectivity,81.36996541,4.566920416153847,True,Connectivity Technology
-Netherlands,2020.0,% of population covered by internet connectivity,91.33333333,5.333333333076923,True,Connectivity Technology
-North Macedonia,2020.0,% of population covered by internet connectivity,81.40553811,4.569656777692307,True,Connectivity Technology
-Norway,2020.0,% of population covered by internet connectivity,97.00000121,5.769230862307692,True,Connectivity Technology
-Poland,2020.0,% of population covered by internet connectivity,86.83692746,4.987455958461538,True,Connectivity Technology
-Portugal,2020.0,% of population covered by internet connectivity,78.26165705,4.327819773076923,True,Connectivity Technology
-Romania,2020.0,% of population covered by internet connectivity,78.45526895,4.342712996153846,True,Connectivity Technology
-Serbia,2020.0,% of population covered by internet connectivity,78.36804864,4.336003741538461,True,Connectivity Technology
-Slovakia,2020.0,% of population covered by internet connectivity,89.92090413,5.224684933076923,True,Connectivity Technology
-Slovenia,2020.0,% of population covered by internet connectivity,86.60130109,4.969330853076924,True,Connectivity Technology
-Spain,2020.0,% of population covered by internet connectivity,93.20564609,5.477357391538462,True,Connectivity Technology
-Sweden,2020.0,% of population covered by internet connectivity,94.53943122,5.579956247692308,True,Connectivity Technology
-Turkey,2020.0,% of population covered by internet connectivity,77.66956038,4.282273875384615,True,Connectivity Technology
-United Kingdom,2020.0,% of population covered by internet connectivity,94.81820132,5.601400101538462,True,Connectivity Technology
-Argentina,2020.0,% of population covered by internet connectivity,85.5,4.884615384615385,True,Connectivity Technology
-Bolivia (Plurinational State of),2020.0,% of population covered by internet connectivity,55.13905053,2.549157733076923,True,Connectivity Technology
-Costa Rica,2020.0,% of population covered by internet connectivity,80.53018608,4.502322006153846,True,Connectivity Technology
-Mexico,2020.0,% of population covered by internet connectivity,71.97,3.8438461538461537,True,Connectivity Technology
-Paraguay,2020.0,% of population covered by internet connectivity,74.51524041,4.039633877692308,True,Connectivity Technology
-Peru,2020.0,% of population covered by internet connectivity,65.25179879,3.327061445384615,True,Connectivity Technology
+Cabo Verde,2019.0,% of population covered by internet connectivity,61.94339776,3.7152471888548657,True,Connectivity Technology
+Central African Rep.,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Congo (Rep. of the),2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Côte d'Ivoire,2019.0,% of population covered by internet connectivity,36.28895457,2.1628897008198593,True,Connectivity Technology
+Equatorial Guinea,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Eritrea,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Eswatini,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Kenya,2019.0,% of population covered by internet connectivity,22.56511937,1.3324566183516056,True,Connectivity Technology
+Lesotho,2019.0,% of population covered by internet connectivity,42.30173357,2.5267246293513814,True,Connectivity Technology
+Madagascar,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Mauritius,2019.0,% of population covered by internet connectivity,61.72995515,3.7023317171977617,True,Connectivity Technology
+Niger,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+South Sudan,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Uganda,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Bahrain,2019.0,% of population covered by internet connectivity,99.70149256,6.0,True,Connectivity Technology
+Comoros,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Egypt,2019.0,% of population covered by internet connectivity,57.2828664,3.4332371408746365,True,Connectivity Technology
+Iraq,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Kuwait,2019.0,% of population covered by internet connectivity,99.54267645,5.990389993041236,True,Connectivity Technology
+Libya,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Morocco,2019.0,% of population covered by internet connectivity,74.37631447,4.467566434684658,True,Connectivity Technology
+Palestine,2019.0,% of population covered by internet connectivity,70.6225837,4.2404271424489846,True,Connectivity Technology
+Qatar,2019.0,% of population covered by internet connectivity,99.65280421,5.997053854408657,True,Connectivity Technology
+Saudi Arabia,2019.0,% of population covered by internet connectivity,95.7247356,5.759365331017682,True,Connectivity Technology
+Somalia,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Tunisia,2019.0,% of population covered by internet connectivity,66.6999983,4.003070409619157,True,Connectivity Technology
+United Arab Emirates,2019.0,% of population covered by internet connectivity,99.14999998,5.966629030697791,True,Connectivity Technology
+Yemen,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Brunei Darussalam,2019.0,% of population covered by internet connectivity,95.0,5.715511378422676,True,Connectivity Technology
+Cambodia,2019.0,% of population covered by internet connectivity,78.27288351,4.703348910339682,True,Connectivity Technology
+China,2019.0,% of population covered by internet connectivity,64.56912253,3.8741305245032236,True,Connectivity Technology
+Dem. People's Rep. of Korea,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Fiji,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+"Hong Kong, China",2019.0,% of population covered by internet connectivity,91.74340039,5.518453630855348,True,Connectivity Technology
+India,2019.0,% of population covered by internet connectivity,41.0,2.447956369216087,True,Connectivity Technology
+Indonesia,2019.0,% of population covered by internet connectivity,47.69064898,2.8528093986501974,True,Connectivity Technology
+Iran (Islamic Republic of),2019.0,% of population covered by internet connectivity,77.77083846,4.672970024821629,True,Connectivity Technology
+Japan,2019.0,% of population covered by internet connectivity,92.73039781,5.578177119073772,True,Connectivity Technology
+Kiribati,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Korea (Rep. of),2019.0,% of population covered by internet connectivity,96.15757918,5.7855568163516065,True,Connectivity Technology
+"Macao, China",2019.0,% of population covered by internet connectivity,86.46792571,5.199233191659486,True,Connectivity Technology
+Malaysia,2019.0,% of population covered by internet connectivity,84.18714501,5.061222517563435,True,Connectivity Technology
+Marshall Islands,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Micronesia,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Mongolia,2019.0,% of population covered by internet connectivity,51.07999408,3.0578996127138045,True,Connectivity Technology
+Nauru,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Nepal (Republic of),2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Pakistan,2019.0,% of population covered by internet connectivity,17.07090203,1.0,True,Connectivity Technology
+Papua New Guinea,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Philippines,2019.0,% of population covered by internet connectivity,46.88,2.8037568035519156,True,Connectivity Technology
+Samoa,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Singapore,2019.0,% of population covered by internet connectivity,88.94925269,5.349378976899827,True,Connectivity Technology
+Solomon Islands,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Sri Lanka,2019.0,% of population covered by internet connectivity,29.0,1.7218330338368453,True,Connectivity Technology
+Thailand,2019.0,% of population covered by internet connectivity,66.65241946,4.000191400786302,True,Connectivity Technology
+Tonga,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Tuvalu,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Vanuatu,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Viet Nam,2019.0,% of population covered by internet connectivity,68.66158021,4.121766276211556,True,Connectivity Technology
+Armenia,2019.0,% of population covered by internet connectivity,66.54394969,3.993627864854617,True,Connectivity Technology
+Azerbaijan,2019.0,% of population covered by internet connectivity,81.09999907,4.8744184586671615,True,Connectivity Technology
+Belarus,2019.0,% of population covered by internet connectivity,82.78915209,4.9766295774045215,True,Connectivity Technology
+Kazakhstan,2019.0,% of population covered by internet connectivity,81.87762047,4.921472545719684,True,Connectivity Technology
+Russian Federation,2019.0,% of population covered by internet connectivity,82.64216156,4.967735139578458,True,Connectivity Technology
+Tajikistan,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Turkmenistan,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Uzbekistan,2019.0,% of population covered by internet connectivity,70.4000024,4.226958686119897,True,Connectivity Technology
+Albania,2019.0,% of population covered by internet connectivity,68.55039112,4.115038193470841,True,Connectivity Technology
+Andorra,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Austria,2019.0,% of population covered by internet connectivity,87.75220479,5.276945275753434,True,Connectivity Technology
+Belgium,2019.0,% of population covered by internet connectivity,90.27542981,5.429626323039664,True,Connectivity Technology
+Bosnia and Herzegovina,2019.0,% of population covered by internet connectivity,69.94634763,4.199507909894638,True,Connectivity Technology
+Bulgaria,2019.0,% of population covered by internet connectivity,67.94698094,4.078525675762226,True,Connectivity Technology
+Croatia,2019.0,% of population covered by internet connectivity,79.07978368,4.75217466390289,True,Connectivity Technology
+Cyprus,2019.0,% of population covered by internet connectivity,86.06362996,5.174769143453681,True,Connectivity Technology
+Czech Republic,2019.0,% of population covered by internet connectivity,80.86694441,4.860316256413423,True,Connectivity Technology
+Denmark,2019.0,% of population covered by internet connectivity,98.04643475,5.899851991896444,True,Connectivity Technology
+Estonia,2019.0,% of population covered by internet connectivity,90.2289282,5.426812497693521,True,Connectivity Technology
+Finland,2019.0,% of population covered by internet connectivity,89.60738511,5.389202752560795,True,Connectivity Technology
+France,2019.0,% of population covered by internet connectivity,83.33974409,5.009946052360616,True,Connectivity Technology
+Georgia,2019.0,% of population covered by internet connectivity,68.84670565,4.132968268041253,True,Connectivity Technology
+Germany,2019.0,% of population covered by internet connectivity,88.13451691,5.300079088397627,True,Connectivity Technology
+Greece,2019.0,% of population covered by internet connectivity,75.67120669,4.545920722829911,True,Connectivity Technology
+Hungary,2019.0,% of population covered by internet connectivity,80.37169361,4.830348492851319,True,Connectivity Technology
+Ireland,2019.0,% of population covered by internet connectivity,87.00005524,5.231432497424268,True,Connectivity Technology
+Israel,2019.0,% of population covered by internet connectivity,86.78787762,5.218593570663666,True,Connectivity Technology
+Latvia,2019.0,% of population covered by internet connectivity,86.13545644,5.179115383722528,True,Connectivity Technology
+Liechtenstein,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Lithuania,2019.0,% of population covered by internet connectivity,81.58186838,4.903576504550003,True,Connectivity Technology
+Luxembourg,2019.0,% of population covered by internet connectivity,97.12063569,5.843831633451598,True,Connectivity Technology
+Malta,2019.0,% of population covered by internet connectivity,85.77856081,5.157519529952704,True,Connectivity Technology
+Moldova,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Monaco,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Montenegro,2019.0,% of population covered by internet connectivity,73.47666575,4.413128440581652,True,Connectivity Technology
+Netherlands,2019.0,% of population covered by internet connectivity,93.2885906,5.611953519945393,True,Connectivity Technology
+North Macedonia,2019.0,% of population covered by internet connectivity,81.41288276,4.893351137714542,True,Connectivity Technology
+Norway,2019.0,% of population covered by internet connectivity,98.00000439,5.897042477907606,True,Connectivity Technology
+Poland,2019.0,% of population covered by internet connectivity,80.43590724,4.834234077450686,True,Connectivity Technology
+Portugal,2019.0,% of population covered by internet connectivity,75.34637155,4.526264858221145,True,Connectivity Technology
+Romania,2019.0,% of population covered by internet connectivity,73.65747575,4.424069303937479,True,Connectivity Technology
+San Marino,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Serbia,2019.0,% of population covered by internet connectivity,77.41677362,4.651545462941519,True,Connectivity Technology
+Slovakia,2019.0,% of population covered by internet connectivity,82.8536605,4.980532999223623,True,Connectivity Technology
+Slovenia,2019.0,% of population covered by internet connectivity,83.1083578,4.995944803639297,True,Connectivity Technology
+Spain,2019.0,% of population covered by internet connectivity,90.71866533,5.45644662755141,True,Connectivity Technology
+Sweden,2019.0,% of population covered by internet connectivity,94.49344341,5.684859498365247,True,Connectivity Technology
+Switzerland,2019.0,% of population covered by internet connectivity,93.14608695,5.60333058447525,True,Connectivity Technology
+Turkey,2019.0,% of population covered by internet connectivity,73.97670281,4.443385822066689,True,Connectivity Technology
+Ukraine,2019.0,% of population covered by internet connectivity,70.1248443,4.21030879300918,True,Connectivity Technology
+United Kingdom,2019.0,% of population covered by internet connectivity,92.51662855,5.5652418817343765,True,Connectivity Technology
+Vatican,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Antigua and Barbuda,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Argentina,2019.0,% of population covered by internet connectivity,79.9,4.801806181403796,True,Connectivity Technology
+Barbados,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Bolivia (Plurinational State of),2019.0,% of population covered by internet connectivity,47.47481911,2.8397494732269584,True,Connectivity Technology
+Brazil,2019.0,% of population covered by internet connectivity,73.91244005,4.439497264597366,True,Connectivity Technology
+Colombia,2019.0,% of population covered by internet connectivity,65.00690072,3.9006206044598146,True,Connectivity Technology
+Costa Rica,2019.0,% of population covered by internet connectivity,81.20259644,4.880626654042624,True,Connectivity Technology
+Cuba,2019.0,% of population covered by internet connectivity,67.97080866,4.079967497722299,True,Connectivity Technology
+Dominica,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+El Salvador,2019.0,% of population covered by internet connectivity,50.49119319,3.022271107203716,True,Connectivity Technology
+Grenada,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Guatemala,2019.0,% of population covered by internet connectivity,44.40104984,2.6537548403504068,True,Connectivity Technology
+Guyana,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Honduras,2019.0,% of population covered by internet connectivity,39.39,2.3505348217193722,True,Connectivity Technology
+Jamaica,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Mexico,2019.0,% of population covered by internet connectivity,70.06991047,4.206984731687116,True,Connectivity Technology
+Panama,2019.0,% of population covered by internet connectivity,63.62841477,3.8172080364775285,True,Connectivity Technology
+Paraguay,2019.0,% of population covered by internet connectivity,68.51762842,4.113055713387505,True,Connectivity Technology
+Peru,2019.0,% of population covered by internet connectivity,59.95050106,3.5946564556156755,True,Connectivity Technology
+Saint Kitts and Nevis,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Saint Lucia,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Saint Vincent and the Grenadines,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+Trinidad and Tobago,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology
+United States,2019.0,% of population covered by internet connectivity,89.43028486,5.378486367208588,True,Connectivity Technology
+Uruguay,2019.0,% of population covered by internet connectivity,83.35153377,5.010659449174337,True,Connectivity Technology
+Venezuela,2019.0,% of population covered by internet connectivity,,,True,Connectivity Technology

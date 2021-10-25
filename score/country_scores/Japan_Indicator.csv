@@ -38,6 +38,7 @@ Government,Digital Public Services,What is the % change of government digitizing
 Government,Digital Public Services,Security incidents (# of relevant issues),Japan,2020.0,10.0,3.631578947368421,True
 Government,Digital Public Services,"Use of public services online (% of services online, penetration, frequency of use)",Japan,2020.0,-20.0,1.0,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Japan,2019.0,100.0,6.0,True
+Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Japan,2019.0,92.73039781,5.578177119073772,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Japan,2019.0,99.9,5.989212513484358,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Japan,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Japan,2019.0,99.0,5.95,True
@@ -87,7 +88,6 @@ People,Usage and ownership,Gender gap in mobile usage,Japan,2019.0,88.88889313,5
 People,Usage and ownership,Global Crypto Adoption Index,Japan,2019.0,0.03,1.15,True
 People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Japan,2021.0,5.94,4.212069937958264,True
 People,Digital Wellbeing,Gross National Wellbeing,Japan,2019.0,5.91,4.163064833005894,True
-People,Usage and ownership,Households with a computer and with Internet access,Japan,2019.0,96.85234139,5.837464891724409,True
 People,Digital Literacy Skills,Human Capital Index (HCI),Japan,2020.0,0.8684,5.342,True
 People,Usage and ownership,Internet Usage,Japan,2019.0,92.73039781,5.578177119073772,True
 People,Culture,"Level of satisfaction for online public services (% of users, by type of interaction and service)",Japan,2020.0,-20.0,1.0,True
