@@ -1,78 +1,79 @@
 Pillar,Sub-Pillar,Indicator,Country Name,Year,data_col,new_rank_score,higher_is_better
-Business,Startup Environment,Doing Business Index,Armenia,2019.0,41.0,4.941798941798941,False
-Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Armenia,2019.0,47.0,4.783068783068783,True
-Business,Startup Environment,Ease of finding skilled employees,Armenia,2019.0,4.03,4.03,True
-Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Armenia,2020.0,51.91,3.571212121212121,True
-Business,Technology Adoption,Share of businesses with online presence,Armenia,2018.0,75.6,4.836777339215232,True
-Business,Technology Adoption,Size of digital economy (% of transactions),Armenia,2019.0,4.51,1.272890715294722,True
-Business,Technology Adoption,Size of gig economy (% of GDP),Armenia,2019.0,3.65,3.332317073170731,True
-Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Armenia,2019.0,6.0,3.5,True
-Business,Startup Environment,Time required to start a business (days),Armenia,2019.0,3.0,4.333333333333334,True
-Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Armenia,2016.0,47.0,3.3529411764705883,True
-Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Armenia,2017.0,56.0,4.035714285714286,True
-Foundations,Digital Payments,% Making online transactions - Women,Armenia,2017.0,12.0,1.6741573033707864,True
-Foundations,Digital Payments,% of population with digital finance account,Armenia,2017.0,48.0,3.142857142857143,True
-Foundations,Digital Legal Identity,% of population with ID (all),Armenia,2018.0,100.0,6.0,True
-Foundations,Digital Legal Identity,can ID be used for transactions,Armenia,2018.0,1.0,6.0,True
+Business,Startup Environment,Doing Business Index,Armenia,2019,41,4.941798942,FALSE
+Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Armenia,2019,47,4.783068783,TRUE
+Business,Startup Environment,Ease of finding skilled employees,Armenia,2019,4.03,4.03,TRUE
+Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Armenia,2020,51.91,3.571212121,TRUE
+Business,Technology Adoption,Share of businesses with online presence,Armenia,2018,75.6,4.836777339,TRUE
+Business,Technology Adoption,Size of digital economy (% of transactions),Armenia,2019,4.51,1.272890715,TRUE
+Business,Technology Adoption,Size of gig economy (% of GDP),Armenia,2019,3.65,3.332317073,TRUE
+Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Armenia,2019,6,3.5,TRUE
+Business,Startup Environment,Time required to start a business (days),Armenia,2019,3,4.333333333,TRUE
+Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Armenia,2016,47,3.352941176,TRUE
+Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Armenia,2017,56,4.035714286,TRUE
+Foundations,Digital Payments,% Making online transactions - Women,Armenia,2017,12,1.674157303,TRUE
+Foundations,Digital Payments,% of population with digital finance account,Armenia,2017,48,3.142857143,TRUE
+Foundations,Digital Legal Identity,% of population with ID (all),Armenia,2018,100,6,TRUE
+Foundations,Digital Legal Identity,can ID be used for transactions,Armenia,2018,1,6,TRUE
 Foundations,Digital Payments,"
-% of population with digital finance account - registered",Armenia,2017.0,45.0,2.978021978021978,True
-Foundations,Digital Legal Identity,Is personal data siloed,Armenia,2020.0,0.02,6.0,True
-Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Armenia,2017.0,42.0,2.9021739130434785,True
-Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Armenia,2017.0,34.0,2.5625,True
+% of population with digital finance account - registered",Armenia,2017,45,2.978021978,TRUE
+Foundations,Digital Legal Identity,Is personal data siloed,Armenia,2020,0.02,6,TRUE
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Armenia,2017,42,2.902173913,TRUE
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Armenia,2017,34,2.5625,TRUE
 Foundations,Digital Payments,"
-% Making online transactions - Men",Armenia,2017.0,19.0,1.989010989010989,True
-Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Armenia,2017.0,11.0,1.6470588235294117,True
-Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Armenia,2017.0,7.0,1.4117647058823528,True
-Government,Capabilities,% of digital skills certifications / training courses completed,Armenia,2020.0,57.0,3.383177570093458,True
-Government,Digital Public Services,E-Participation index,Armenia,2020.0,0.75,4.75,True
-Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Armenia,2020.0,1.0,2.666666666666667,True
-Government,Leadership and coordination,Evidence of focus on vulnerable groups,Armenia,2020.0,-0.03,1.0,True
-Government,Digital Public Services,Online-Service-Index (OSI),Armenia,2020.0,0.7,4.5,True
-Government,Digital Public Services,What is the % change of government digitizing public services?,Armenia,2020.0,0.73,4.724489795918368,True
-Infrastructure,Connectivity Technology,% of population covered by electricity,Armenia,2019.0,100.0,6.0,True
-Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Armenia,2019.0,66.54394969,3.993627864854617,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Armenia,2019.0,100.0,6.0,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Armenia,2019.0,99.0,5.934210526315789,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Armenia,2019.0,95.0,5.75,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Armenia,2019.0,0.0,1.0,True
-Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Armenia,2017.0,53.87,2.000157815828928,True
-Infrastructure,Connectivity Technology,Cellphone Signal Density,Armenia,2019.0,87.59999847,5.21752729058696,True
-Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Armenia,2019.0,-12.46,2.69263836646964,True
-Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Armenia,2019.0,-308.22,4.168410550076143,True
-Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",Armenia,2019.0,-6930.400000000001,4.656792849086608,True
-Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,Armenia,2020.0,68.0,3.0869565217391304,False
-Infrastructure,Connectivity Technology,Electricity Density,Armenia,2019.0,2453.168,1.2158419233796929,True
-Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,Armenia,2021.0,71.8,4.518907563025209,True
-Infrastructure,Connectivity Technology,Electricity supply quality,Armenia,2019.0,92.60532955,5.630266477499999,True
-Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Armenia,2020.0,50.47,3.0350806451612904,True
-Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Armenia,2019.0,56.24,3.796708242252796,True
-Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Armenia,2019.0,66.54394969,3.993627864854617,True
-Infrastructure,Connectivity Technology,ISP internet download speed average ,Armenia,2021.0,36.25,1.62755365147368,True
-Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Armenia,2018.0,2.9,2.814345991561181,True
-Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Armenia,2020.0,117.7357712,2.489670384988388,True
-Infrastructure,Connectivity Technology,Mobile Coverage Maps,Armenia,2020.0,117.7357712,2.489670384988388,True
-Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Armenia,2019.0,88.43795013,1.0595054878193515,True
-Infrastructure,Connectivity Technology,National cyber security index,Armenia,2021.0,31.17,2.57542194092827,True
-Infrastructure,Connectivity Technology,Postal Coverage,Armenia,2015.0,93.0,5.65,True
-Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Armenia,2019.0,21.43,1.7873019366197185,True
-Infrastructure,Connectivity Technology,Telecommunication Infrastructure Index (TII),Armenia,2020.0,0.6536,4.268,True
-People,Usage and ownership,% of population using digital financial services,Armenia,2017.0,15.0,1.7954545454545454,True
-People,Usage and ownership,% of population using Facebook,Armenia,2021.0,42.18,3.1010161386730424,True
-People,Digital Literacy Skills,% of population using internet (all),Armenia,2019.0,66.54394969,3.993627864854617,True
-People,Digital Literacy Skills,% of population using internet (female),Armenia,2019.0,67.22694118,4.127008945925507,True
-People,Digital Literacy Skills,% of population using internet (male),Armenia,2019.0,65.78686376,3.825202060552217,True
-People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),Armenia,2017.0,8.51,1.5440082114447011,True
-People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Armenia,2021.0,4.817254027568457,1.3430571796300272,True
-People,Usage and ownership,Financial Inclusiveness,Armenia,2017.0,48.0,3.142857142857143,True
-People,Usage and ownership,Gender gap for social media use,Armenia,2019.0,88.38256073,5.4191280365,True
-People,Usage and ownership,Gender gap in internet usage,Armenia,2019.0,67.22694118,4.127008945925507,True
-People,Usage and ownership,Gender gap in mobile usage,Armenia,2019.0,100.0,6.0,True
-People,Usage and ownership,Global Crypto Adoption Index,Armenia,2019.0,0.02,1.1,True
-People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Armenia,2021.0,5.283,3.594472645234067,True
-People,Digital Wellbeing,Gross National Wellbeing,Armenia,2019.0,5.06,3.3280943025540277,True
-People,Digital Literacy Skills,Human Capital Index (HCI),Armenia,2020.0,0.7872,4.936,True
-People,Usage and ownership,Internet Usage,Armenia,2019.0,66.54394969,3.993627864854617,True
-People,Culture,Number of mobile apps available in national language(s),Armenia,2019.0,12.54147625,1.4918286726804124,True
-People,Usage and ownership,Tax as % of total cost of mobile ownership,Armenia,2019.0,57.58,3.1210000000000004,False
-People,Usage and ownership,UNDP Human Development Index (HDI) ,Armenia,2019.0,0.776,4.392539964476022,True
-Strategy,Ambition,SDG Index,Armenia,2019.0,71.8,4.518907563025209,True
+% Making online transactions - Men",Armenia,2017,19,1.989010989,TRUE
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Armenia,2017,11,1.647058824,TRUE
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Armenia,2017,7,1.411764706,TRUE
+Government,Capabilities,% of digital skills certifications / training courses completed,Armenia,2020,57,3.38317757,TRUE
+Government,Digital Public Services,E-Participation index,Armenia,2020,0.75,4.75,TRUE
+Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Armenia,2020,1,2.666666667,TRUE
+Government,Leadership and coordination,Evidence of focus on vulnerable groups,Armenia,2020,-0.03,1,TRUE
+Government,Digital Public Services,Online-Service-Index (OSI),Armenia,2020,0.7,4.5,TRUE
+Government,Digital Public Services,What is the % change of government digitizing public services?,Armenia,2020,0.73,4.724489796,TRUE
+Infrastructure,Connectivity Technology,% of population covered by electricity,Armenia,2019,100,6,TRUE
+Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Armenia,2019,66.54394969,3.993627865,TRUE
+Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Armenia,2019,100,6,TRUE
+Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Armenia,2019,99,5.934210526,TRUE
+Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Armenia,2019,95,5.75,TRUE
+Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Armenia,2019,0,1,TRUE
+Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Armenia,2017,53.87,2.000157816,TRUE
+Infrastructure,Connectivity Technology,Cellphone Signal Density,Armenia,2019,87.59999847,5.217527291,TRUE
+Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Armenia,2019,-12.46,2.692638366,TRUE
+Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Armenia,2019,-308.22,4.16841055,TRUE
+Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",Armenia,2019,-6930.4,4.656792849,TRUE
+Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,Armenia,2020,68,3.086956522,FALSE
+Infrastructure,Connectivity Technology,Electricity Density,Armenia,2019,2453.168,1.215841923,TRUE
+Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,Armenia,2021,71.8,4.518907563,TRUE
+Infrastructure,Connectivity Technology,Electricity supply quality,Armenia,2019,92.60532955,5.630266477,TRUE
+Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Armenia,2020,50.47,3.035080645,TRUE
+Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Armenia,2019,56.24,3.796708242,TRUE
+Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Armenia,2019,66.54394969,3.993627865,TRUE
+Infrastructure,Connectivity Technology,ISP internet download speed average ,Armenia,2021,36.25,1.627553651,TRUE
+Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Armenia,2018,2.61,2.466666667,TRUE
+Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Armenia,2020,117.7357712,2.489670385,TRUE
+Infrastructure,Connectivity Technology,Mobile Coverage Maps,Armenia,2020,117.7357712,2.489670385,TRUE
+Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Armenia,2019,88.43795013,1.059505488,TRUE
+Infrastructure,Connectivity Technology,National cyber security index,Armenia,2021,31.17,2.575421941,TRUE
+Infrastructure,Connectivity Technology,Postal Coverage,Armenia,2015,93,5.65,TRUE
+Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Armenia,2019,21.43,1.787301937,TRUE
+Infrastructure,Connectivity Technology,Telecommunication Infrastructure Index (TII),Armenia,2020,0.6536,4.268,TRUE
+People,Usage and ownership,% of population using digital financial services,Armenia,2017,15,1.795454545,TRUE
+People,Usage and ownership,% of population using Facebook,Armenia,2021,42.18,3.101016139,TRUE
+People,Digital Literacy Skills,% of population using internet (all),Armenia,2019,66.54394969,3.993627865,TRUE
+People,Digital Literacy Skills,% of population using internet (female),Armenia,2019,67.22694118,4.127008946,TRUE
+People,Digital Literacy Skills,% of population using internet (male),Armenia,2019,65.78686376,3.825202061,TRUE
+People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),Armenia,2017,8.51,1.544008211,TRUE
+People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Armenia,2021,4.817254028,1.34305718,TRUE
+People,Usage and ownership,Financial Inclusiveness,Armenia,2017,48,3.142857143,TRUE
+People,Usage and ownership,Gender gap for social media use,Armenia,2019,88.38256073,5.419128037,TRUE
+People,Usage and ownership,Gender gap in internet usage,Armenia,2019,67.22694118,4.127008946,TRUE
+People,Usage and ownership,Gender gap in mobile usage,Armenia,2019,100,6,TRUE
+People,Usage and ownership,Global Crypto Adoption Index,Armenia,2019,0.02,1.1,TRUE
+People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Armenia,2021,5.283,3.594472645,TRUE
+People,Digital Wellbeing,Gross National Wellbeing,Armenia,2019,5.06,3.328094303,TRUE
+People,Digital Literacy Skills,Human Capital Index (HCI),Armenia,2020,0.7872,4.936,TRUE
+People,Usage and ownership,Internet Usage,Armenia,2019,66.54394969,3.993627865,TRUE
+People,Culture,Number of mobile apps available in national language(s),Armenia,2019,12.54147625,1.491828673,TRUE
+People,Usage and ownership,Tax as % of total cost of mobile ownership,Armenia,2019,57.58,3.121,FALSE
+People,Usage and ownership,UNDP Human Development Index (HDI) ,Armenia,2019,0.776,4.392539964,TRUE
+Business,Financing Incentives,Venture Capital Availability,Armenia,2018,2.780549526,2.599264714,TRUE
+Strategy,Ambition,SDG Index,Armenia,2019,71.8,4.518907563,TRUE
