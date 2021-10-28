@@ -31,6 +31,7 @@ Government,Funding and procurement,Evidence of digital strategies in/across Mins
 Government,Leadership and coordination,Evidence of focus on vulnerable groups,Viet Nam,2020.0,0.03,3.5,True
 Government,Digital Public Services,Online-Service-Index (OSI),Viet Nam,2020.0,0.6529,4.2645,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Viet Nam,2020.0,0.78,4.979591836734695,True
+Government,Digital Public Services,R&D spending (% of GDP),Viet Nam,2020.0,,,True
 Government,Digital Public Services,Security incidents (# of relevant issues),Viet Nam,2020.0,3.0,5.473684210526316,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Viet Nam,2019.0,99.4,5.967838580453471,True
 Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Viet Nam,2019.0,68.66158021,4.121766276211556,True
@@ -38,7 +39,6 @@ Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ dat
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Viet Nam,2019.0,95.0,5.671052631578948,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Viet Nam,2019.0,95.0,5.75,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Viet Nam,2019.0,0.0,1.0,True
-Infrastructure,Connectivity Technology,Average fixed broadband download speeds ,Viet Nam,2021.0,56.83,2.196908602150537,True
 Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Viet Nam,2017.0,137.43,3.6485441489781434,True
 Infrastructure,Connectivity Technology,Cellphone Signal Density,Viet Nam,2019.0,85.97000122,5.114670177105354,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Viet Nam,2019.0,-7.939999999999999,2.756554201193473,True
@@ -53,12 +53,10 @@ Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Viet Nam
 Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Viet Nam,2019.0,64.6,4.334190561913333,True
 Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Viet Nam,2019.0,68.66158021,4.121766276211556,True
 Infrastructure,Connectivity Technology,ISP internet download speed average ,Viet Nam,2021.0,78.43,2.4641596255305647,True
-Infrastructure,Connectivity Technology,ISP Speeds - Mobile,Viet Nam,2021.0,42.46,1.9750709142483087,True
 Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Viet Nam,2018.0,3.67,4.438818565400843,True
 Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Viet Nam,2020.0,142.7333617,2.99421774905207,True
 Infrastructure,Connectivity Technology,Mobile Coverage Maps,Viet Nam,2020.0,142.7333617,2.99421774905207,True
 Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Viet Nam,2019.0,84.55747223,1.2762843677165785,True
-Infrastructure,Connectivity Technology,Mobile download speed average ,Viet Nam,2021.0,42.46,1.9750709142483087,True
 Infrastructure,Connectivity Technology,National cyber security index,Viet Nam,2021.0,36.36,2.84915611814346,True
 Infrastructure,Connectivity Technology,Postal Coverage,Viet Nam,2015.0,,,True
 Infrastructure,Innovation Ecosystem,Software Developer Ecosystem size,Viet Nam,2018.0,14727.0,1.02676195925054,True
@@ -83,7 +81,6 @@ People,Digital Wellbeing,Gross National Wellbeing,Viet Nam,2019.0,5.47,3.7308447
 People,Usage and ownership,Households with a computer and with Internet access,Viet Nam,2020.0,74.80362832,4.578134123930813,True
 People,Digital Literacy Skills,Human Capital Index (HCI),Viet Nam,2020.0,0.6779,4.3895,True
 People,Usage and ownership,Internet Usage,Viet Nam,2019.0,68.66158021,4.121766276211556,True
-People,Usage and ownership,Mobile Broadband Pricing (pre-paid),Viet Nam,2019.0,1.11,5.9238204456094365,True
 People,Usage and ownership,Mobile Device Penetration (female),Viet Nam,2019.0,76.74703415,4.421381937899607,True
 People,Usage and ownership,Mobile Device Penetration,Viet Nam,2019.0,77.49999971,3.943456522944599,True
 People,Culture,Number of mobile apps available in national language(s),Viet Nam,2019.0,71.30223846,4.520733941237113,True
@@ -91,6 +88,4 @@ People,Usage and ownership,Social media penetration,Viet Nam,2021.0,73.7,4.47956
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Viet Nam,2019.0,82.54,1.8729999999999996,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Viet Nam,2020.0,6.47,2.7591125198098254,True
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,3.753108348134991,True
-Regulation,Cybersecurity,# key internet controls employed,Viet Nam,2021.0,8.0,1.5555555555555554,False
-Regulation,Ethical Standards,Rule of Law Index,Viet Nam,2020.0,0.49,2.746031746031746,True
 Strategy,Ambition,SDG Index,Viet Nam,2019.0,72.8,4.623949579831932,True

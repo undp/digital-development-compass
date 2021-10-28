@@ -24,13 +24,13 @@ Government,Funding and procurement,Evidence of digital strategies in/across Mins
 Government,Leadership and coordination,Evidence of focus on vulnerable groups,Uzbekistan,2020.0,-0.03,1.0,True
 Government,Digital Public Services,Online-Service-Index (OSI),Uzbekistan,2020.0,0.7824,4.912,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Uzbekistan,2020.0,0.77,4.928571428571429,True
+Government,Digital Public Services,R&D spending (% of GDP),Uzbekistan,2020.0,,,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Uzbekistan,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Uzbekistan,2019.0,70.4000024,4.226958686119897,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Uzbekistan,2019.0,98.6,5.848975188781013,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Uzbekistan,2019.0,75.5,4.3881578947368425,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Uzbekistan,2019.0,44.0,3.2,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Uzbekistan,2019.0,0.0,1.0,True
-Infrastructure,Connectivity Technology,Average fixed broadband download speeds ,Uzbekistan,2021.0,30.5,1.6070788530465951,True
 Infrastructure,Connectivity Technology,Cellphone Signal Density,Uzbekistan,2019.0,57.65999985,3.3282346333775803,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Uzbekistan,2019.0,1.5899999999999994,2.891314799626686,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Uzbekistan,2019.0,-109.31,4.184469864987433,True
@@ -41,12 +41,10 @@ Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Uzbekist
 Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Uzbekistan,2019.0,46.8,3.189790407612189,True
 Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Uzbekistan,2019.0,70.4000024,4.226958686119897,True
 Infrastructure,Connectivity Technology,ISP internet download speed average ,Uzbekistan,2021.0,40.9,1.7197826173192114,True
-Infrastructure,Connectivity Technology,ISP Speeds - Mobile,Uzbekistan,2021.0,18.61,1.3245690595679689,True
 Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Uzbekistan,2018.0,3.09,3.215189873417721,True
 Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Uzbekistan,2020.0,99.75439212,2.126737108797476,True
 Infrastructure,Connectivity Technology,Mobile Coverage Maps,Uzbekistan,2020.0,99.75439212,2.126737108797476,True
 Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Uzbekistan,2019.0,67.22479248,2.2445565750708223,True
-Infrastructure,Connectivity Technology,Mobile download speed average ,Uzbekistan,2021.0,18.61,1.3245690595679689,True
 Infrastructure,Connectivity Technology,National cyber security index,Uzbekistan,2021.0,31.17,2.57542194092827,True
 Infrastructure,Connectivity Technology,Postal Coverage,Uzbekistan,2015.0,,,True
 Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Uzbekistan,2019.0,31.05,2.316571302816901,True
@@ -57,7 +55,6 @@ People,Digital Literacy Skills,% of population using internet (all),Uzbekistan,2
 People,Digital Literacy Skills,% of population using internet (female),Uzbekistan,2019.0,65.91775518,4.051613927351127,True
 People,Digital Literacy Skills,% of population using internet (male),Uzbekistan,2019.0,74.90000359,4.40449430186986,True
 People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Uzbekistan,2021.0,,,True
-People,Culture,Facebook Social Connectedness Index,Uzbekistan,2021.0,1938.3710126974293,1.0006262507673491,True
 People,Usage and ownership,Financial Inclusiveness,Uzbekistan,2017.0,37.0,2.5384615384615383,True
 People,Usage and ownership,Gender gap for social media use,Uzbekistan,2019.0,78.43665314,4.921832657,True
 People,Usage and ownership,Gender gap in internet usage,Uzbekistan,2019.0,65.91775518,4.051613927351127,True
@@ -67,12 +64,9 @@ People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Uzb
 People,Usage and ownership,Households with a computer and with Internet access,Uzbekistan,2020.0,93.51033767,5.642224016030228,True
 People,Digital Literacy Skills,Human Capital Index (HCI),Uzbekistan,2020.0,0.7434,4.717,True
 People,Usage and ownership,Internet Usage,Uzbekistan,2019.0,70.4000024,4.226958686119897,True
-People,Usage and ownership,Mobile Broadband Pricing (pre-paid),Uzbekistan,2019.0,3.01,5.768184796854522,True
 People,Usage and ownership,Mobile Device Penetration (female),Uzbekistan,2019.0,62.13037603,3.429073229211661,True
 People,Usage and ownership,Mobile Device Penetration,Uzbekistan,2019.0,69.80000068,3.2396617418610902,True
 People,Culture,Number of mobile apps available in national language(s),Uzbekistan,2019.0,10.67619705,1.3956802603092784,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Uzbekistan,2019.0,13.76,5.312,False
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Uzbekistan,2019.0,0.72,3.895204262877442,True
-Regulation,Cybersecurity,# key internet controls employed,Uzbekistan,2021.0,9.0,1.0,False
-Regulation,Ethical Standards,Rule of Law Index,Uzbekistan,2020.0,0.47,2.587301587301587,True
 Strategy,Ambition,SDG Index,Uzbekistan,2019.0,69.8,4.3088235294117645,True

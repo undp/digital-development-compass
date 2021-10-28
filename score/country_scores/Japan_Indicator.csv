@@ -34,6 +34,7 @@ Government,Funding and procurement,Evidence of digital strategies in/across Mins
 Government,Leadership and coordination,Evidence of focus on vulnerable groups,Japan,2020.0,0.09,6.0,True
 Government,Digital Public Services,Online-Service-Index (OSI),Japan,2020.0,0.9059,5.5295000000000005,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Japan,2020.0,0.79,5.030612244897959,True
+Government,Digital Public Services,R&D spending (% of GDP),Japan,2020.0,,,True
 Government,Digital Public Services,Security incidents (# of relevant issues),Japan,2020.0,10.0,3.631578947368421,True
 Government,Digital Public Services,"Use of public services online (% of services online, penetration, frequency of use)",Japan,2020.0,-20.0,1.0,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Japan,2019.0,100.0,6.0,True
@@ -42,7 +43,6 @@ Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ dat
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Japan,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Japan,2019.0,99.0,5.95,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Japan,2019.0,0.0,1.0,True
-Infrastructure,Connectivity Technology,Average fixed broadband download speeds ,Japan,2021.0,132.75,3.897625448028674,True
 Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Japan,2017.0,157.51,4.044661879586522,True
 Infrastructure,Connectivity Technology,Cellphone Signal Density,Japan,2019.0,89.58999634,5.343101390017339,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Japan,2019.0,24.700000000000006,3.21810571565938,True
@@ -58,12 +58,10 @@ Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Japan,201
 Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Japan,2019.0,92.73039781,5.578177119073772,True
 Infrastructure,Innovation Ecosystem,International Co-Inventions,Japan,2017.0,545770.5532000001,3.228804544524831,True
 Infrastructure,Connectivity Technology,ISP internet download speed average ,Japan,2021.0,179.43,4.467412432067912,True
-Infrastructure,Connectivity Technology,ISP Speeds - Mobile,Japan,2021.0,61.59,2.496836133536985,True
 Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Japan,2018.0,4.25,5.662447257383966,True
 Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Japan,2020.0,152.0316954,3.181893827613301,True
 Infrastructure,Connectivity Technology,Mobile Coverage Maps,Japan,2020.0,152.0316954,3.181893827613301,True
 Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Japan,2019.0,74.01976013,1.864962743057272,True
-Infrastructure,Connectivity Technology,Mobile download speed average ,Japan,2021.0,61.59,2.496836133536985,True
 Infrastructure,Connectivity Technology,National cyber security index,Japan,2021.0,63.64,4.287974683544304,True
 Infrastructure,Connectivity Technology,Postal Coverage,Japan,2015.0,100.0,6.0,True
 Infrastructure,Innovation Ecosystem,Software Developer Ecosystem size,Japan,2018.0,39263.0,1.218535157898686,True
@@ -90,7 +88,6 @@ People,Digital Wellbeing,Gross National Wellbeing,Japan,2019.0,5.91,4.1630648330
 People,Digital Literacy Skills,Human Capital Index (HCI),Japan,2020.0,0.8684,5.342,True
 People,Usage and ownership,Internet Usage,Japan,2019.0,92.73039781,5.578177119073772,True
 People,Culture,"Level of satisfaction for online public services (% of users, by type of interaction and service)",Japan,2020.0,-20.0,1.0,True
-People,Usage and ownership,Mobile Broadband Pricing (pre-paid),Japan,2019.0,0.99,5.9336500655308,True
 People,Usage and ownership,Mobile Device Penetration (female),Japan,2019.0,91.2968272,5.4091512511441255,True
 People,Usage and ownership,Mobile Device Penetration,Japan,2019.0,92.14334941,5.281886963817103,True
 People,Culture,Number of mobile apps available in national language(s),Japan,2019.0,88.71601868,5.418351478350516,True
@@ -98,6 +95,4 @@ People,Usage and ownership,Social media penetration,Japan,2021.0,74.3,4.515625,T
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Japan,2019.0,75.0,2.25,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Japan,2020.0,4.25,1.0,True
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Japan,2019.0,0.919,5.662522202486679,True
-Regulation,Cybersecurity,# key internet controls employed,Japan,2021.0,0.0,6.0,False
-Regulation,Ethical Standards,Rule of Law Index,Japan,2020.0,0.78,5.047619047619048,True
 Strategy,Ambition,SDG Index,Japan,2019.0,79.8,5.359243697478991,True
