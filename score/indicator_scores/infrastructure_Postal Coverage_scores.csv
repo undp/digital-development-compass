@@ -1,191 +1,185 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Aruba,2015,Postal Coverage,,,True,Connectivity Technology
-Afghanistan,2015,Postal Coverage,,,True,Connectivity Technology
-Angola,2015,Postal Coverage,15.0,1.75,True,Connectivity Technology
-Albania,2015,Postal Coverage,,,True,Connectivity Technology
-United Arab Emirates,2015,Postal Coverage,,,True,Connectivity Technology
-Argentina,2015,Postal Coverage,93.0,5.65,True,Connectivity Technology
-Armenia,2015,Postal Coverage,93.0,5.65,True,Connectivity Technology
-Antigua and Barbuda,2015,Postal Coverage,80.0,5.0,True,Connectivity Technology
-Australia,2015,Postal Coverage,,,True,Connectivity Technology
-Austria,2015,Postal Coverage,99.0,5.95,True,Connectivity Technology
-Burundi,2015,Postal Coverage,,,True,Connectivity Technology
-Belgium,2015,Postal Coverage,,,True,Connectivity Technology
-Benin,2015,Postal Coverage,6.0,1.3,True,Connectivity Technology
-Burkina Faso,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Bangladesh,2015,Postal Coverage,,,True,Connectivity Technology
-Bulgaria,2015,Postal Coverage,,,True,Connectivity Technology
-Bahrain,2015,Postal Coverage,,,True,Connectivity Technology
-"Bahamas, The",2015,Postal Coverage,,,True,Connectivity Technology
-Bosnia and Herzegovina,2015,Postal Coverage,90.0,5.5,True,Connectivity Technology
-Belarus,2015,Postal Coverage,,,True,Connectivity Technology
-Belize,2015,Postal Coverage,90.0,5.5,True,Connectivity Technology
-Bermuda,2015,Postal Coverage,98.0,5.9,True,Connectivity Technology
-Bolivia,2015,Postal Coverage,35.0,2.75,True,Connectivity Technology
-Brazil,2015,Postal Coverage,85.5,5.275,True,Connectivity Technology
-Barbados,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Brunei Darussalam,2015,Postal Coverage,85.0,5.25,True,Connectivity Technology
-Bhutan,2015,Postal Coverage,,,True,Connectivity Technology
-Botswana,2015,Postal Coverage,,,True,Connectivity Technology
-Canada,2015,Postal Coverage,89.0,5.45,True,Connectivity Technology
-Switzerland,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Chile,2015,Postal Coverage,91.7,5.585,True,Connectivity Technology
-China,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Cameroon,2015,Postal Coverage,,,True,Connectivity Technology
-"Congo, Dem. Rep.",2015,Postal Coverage,22.0,2.1,True,Connectivity Technology
-"Congo, Rep.",2015,Postal Coverage,,,True,Connectivity Technology
-Colombia,2015,Postal Coverage,75.0,4.75,True,Connectivity Technology
-Comoros,2015,Postal Coverage,,,True,Connectivity Technology
-Cabo Verde,2015,Postal Coverage,39.0,2.95,True,Connectivity Technology
-Costa Rica,2015,Postal Coverage,97.0,5.85,True,Connectivity Technology
-Cuba,2015,Postal Coverage,,,True,Connectivity Technology
-Cayman Islands,2015,Postal Coverage,,,True,Connectivity Technology
-Cyprus,2015,Postal Coverage,98.0,5.9,True,Connectivity Technology
-Czech Republic,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Germany,2015,Postal Coverage,,,True,Connectivity Technology
-Djibouti,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Dominica,2015,Postal Coverage,,,True,Connectivity Technology
-Denmark,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Dominican Republic,2015,Postal Coverage,98.0,5.9,True,Connectivity Technology
-Algeria,2015,Postal Coverage,,,True,Connectivity Technology
-Ecuador,2015,Postal Coverage,57.3,3.865,True,Connectivity Technology
-"Egypt, Arab Rep.",2015,Postal Coverage,,,True,Connectivity Technology
-Eritrea,2015,Postal Coverage,20.0,2.0,True,Connectivity Technology
-Spain,2015,Postal Coverage,,,True,Connectivity Technology
-Estonia,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Ethiopia,2015,Postal Coverage,20.0,2.0,True,Connectivity Technology
-Finland,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Fiji,2015,Postal Coverage,,,True,Connectivity Technology
-France,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Faroe Islands,2015,Postal Coverage,,,True,Connectivity Technology
-Gabon,2015,Postal Coverage,,,True,Connectivity Technology
-United Kingdom,2015,Postal Coverage,99.9,5.995,True,Connectivity Technology
-Georgia,2015,Postal Coverage,60.0,4.0,True,Connectivity Technology
-Ghana,2015,Postal Coverage,5.0,1.25,True,Connectivity Technology
-Gibraltar,2015,Postal Coverage,,,True,Connectivity Technology
-Guinea,2015,Postal Coverage,,,True,Connectivity Technology
-"Gambia, The",2015,Postal Coverage,,,True,Connectivity Technology
-Guinea-Bissau,2015,Postal Coverage,,,True,Connectivity Technology
-Greece,2015,Postal Coverage,,,True,Connectivity Technology
-Grenada,2015,Postal Coverage,,,True,Connectivity Technology
-Greenland,2015,Postal Coverage,70.0,4.5,True,Connectivity Technology
-Guatemala,2015,Postal Coverage,,,True,Connectivity Technology
-Guyana,2015,Postal Coverage,90.0,5.5,True,Connectivity Technology
-"Hong Kong SAR, China",2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Honduras,2015,Postal Coverage,60.0,4.0,True,Connectivity Technology
-Croatia,2015,Postal Coverage,,,True,Connectivity Technology
-Haiti,2015,Postal Coverage,,,True,Connectivity Technology
-Hungary,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Indonesia,2015,Postal Coverage,80.0,5.0,True,Connectivity Technology
-Isle of Man,2015,Postal Coverage,,,True,Connectivity Technology
-India,2015,Postal Coverage,,,True,Connectivity Technology
-Ireland,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-"Iran, Islamic Rep.",2015,Postal Coverage,95.0,5.75,True,Connectivity Technology
-Iraq,2015,Postal Coverage,65.0,4.25,True,Connectivity Technology
-Iceland,2015,Postal Coverage,,,True,Connectivity Technology
-Israel,2015,Postal Coverage,,,True,Connectivity Technology
-Italy,2015,Postal Coverage,99.9,5.995,True,Connectivity Technology
-Jamaica,2015,Postal Coverage,,,True,Connectivity Technology
-Jordan,2015,Postal Coverage,1.0,1.05,True,Connectivity Technology
-Japan,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Kazakhstan,2015,Postal Coverage,86.0,5.3,True,Connectivity Technology
-Kenya,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Cambodia,2015,Postal Coverage,,,True,Connectivity Technology
-Kiribati,2015,Postal Coverage,,,True,Connectivity Technology
-St. Kitts and Nevis,2015,Postal Coverage,95.0,5.75,True,Connectivity Technology
-"Korea, Rep.",2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Kuwait,2015,Postal Coverage,,,True,Connectivity Technology
-Lao PDR,2015,Postal Coverage,70.0,4.5,True,Connectivity Technology
-Lebanon,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Liberia,2015,Postal Coverage,,,True,Connectivity Technology
-Libya,2015,Postal Coverage,10.0,1.5,True,Connectivity Technology
-St. Lucia,2015,Postal Coverage,10.0,1.5,True,Connectivity Technology
-Liechtenstein,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Sri Lanka,2015,Postal Coverage,98.0,5.9,True,Connectivity Technology
-Lesotho,2015,Postal Coverage,5.0,1.25,True,Connectivity Technology
-Lithuania,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Luxembourg,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Latvia,2015,Postal Coverage,,,True,Connectivity Technology
-"Macao SAR, China",2015,Postal Coverage,99.9,5.995,True,Connectivity Technology
-Morocco,2015,Postal Coverage,66.0,4.3,True,Connectivity Technology
-Monaco,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Moldova,2015,Postal Coverage,98.0,5.9,True,Connectivity Technology
-Madagascar,2015,Postal Coverage,80.0,5.0,True,Connectivity Technology
-Maldives,2015,Postal Coverage,92.0,5.6,True,Connectivity Technology
-Mexico,2015,Postal Coverage,,,True,Connectivity Technology
-"Macedonia, FYR",2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Mali,2015,Postal Coverage,,,True,Connectivity Technology
-Malta,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Montenegro,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Mongolia,2015,Postal Coverage,50.0,3.5,True,Connectivity Technology
-Mozambique,2015,Postal Coverage,,,True,Connectivity Technology
-Mauritania,2015,Postal Coverage,,,True,Connectivity Technology
-Mauritius,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Malawi,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Malaysia,2015,Postal Coverage,95.0,5.75,True,Connectivity Technology
-Namibia,2015,Postal Coverage,5.0,1.25,True,Connectivity Technology
-New Caledonia,2015,Postal Coverage,99.0,5.95,True,Connectivity Technology
-Niger,2015,Postal Coverage,5.0,1.25,True,Connectivity Technology
-Nigeria,2015,Postal Coverage,,,True,Connectivity Technology
-Nicaragua,2015,Postal Coverage,,,True,Connectivity Technology
-Netherlands,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Norway,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Nepal,2015,Postal Coverage,,,True,Connectivity Technology
-New Zealand,2015,Postal Coverage,97.0,5.85,True,Connectivity Technology
-Oman,2015,Postal Coverage,,,True,Connectivity Technology
-Pakistan,2015,Postal Coverage,95.0,5.75,True,Connectivity Technology
-Panama,2015,Postal Coverage,37.0,2.85,True,Connectivity Technology
-Peru,2015,Postal Coverage,88.0,5.4,True,Connectivity Technology
-Philippines,2015,Postal Coverage,85.0,5.25,True,Connectivity Technology
-Papua New Guinea,2015,Postal Coverage,,,True,Connectivity Technology
-Poland,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Portugal,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Paraguay,2015,Postal Coverage,,,True,Connectivity Technology
-French Polynesia,2015,Postal Coverage,,,True,Connectivity Technology
-Qatar,2015,Postal Coverage,2.0,1.1,True,Connectivity Technology
-Romania,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Russian Federation,2015,Postal Coverage,,,True,Connectivity Technology
-Rwanda,2015,Postal Coverage,0.1,1.005,True,Connectivity Technology
-Saudi Arabia,2015,Postal Coverage,,,True,Connectivity Technology
-Sudan,2015,Postal Coverage,,,True,Connectivity Technology
-Senegal,2015,Postal Coverage,,,True,Connectivity Technology
-Singapore,2015,Postal Coverage,,,True,Connectivity Technology
-Solomon Islands,2015,Postal Coverage,,,True,Connectivity Technology
-Sierra Leone,2015,Postal Coverage,90.0,5.5,True,Connectivity Technology
-El Salvador,2015,Postal Coverage,95.0,5.75,True,Connectivity Technology
-San Marino,2015,Postal Coverage,,,True,Connectivity Technology
-Serbia,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-South Sudan,2015,Postal Coverage,,,True,Connectivity Technology
-Sao Tome and Principe,2015,Postal Coverage,,,True,Connectivity Technology
-Suriname,2015,Postal Coverage,75.0,4.75,True,Connectivity Technology
-Slovak Republic,2015,Postal Coverage,99.0,5.95,True,Connectivity Technology
-Slovenia,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Sweden,2015,Postal Coverage,100.0,6.0,True,Connectivity Technology
-Swaziland,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Seychelles,2015,Postal Coverage,99.0,5.95,True,Connectivity Technology
-Syrian Arab Republic,2015,Postal Coverage,,,True,Connectivity Technology
-Chad,2015,Postal Coverage,,,True,Connectivity Technology
-Togo,2015,Postal Coverage,3.0,1.15,True,Connectivity Technology
-Thailand,2015,Postal Coverage,96.0,5.8,True,Connectivity Technology
-Tajikistan,2015,Postal Coverage,,,True,Connectivity Technology
-Turkmenistan,2015,Postal Coverage,,,True,Connectivity Technology
-Timor-Leste,2015,Postal Coverage,,,True,Connectivity Technology
-Tonga,2015,Postal Coverage,,,True,Connectivity Technology
-Trinidad and Tobago,2015,Postal Coverage,89.0,5.45,True,Connectivity Technology
-Tunisia,2015,Postal Coverage,,,True,Connectivity Technology
-Turkey,2015,Postal Coverage,97.0,5.85,True,Connectivity Technology
-Tanzania,2015,Postal Coverage,0.0,1.0,True,Connectivity Technology
-Uganda,2015,Postal Coverage,,,True,Connectivity Technology
-Ukraine,2015,Postal Coverage,,,True,Connectivity Technology
-Uruguay,2015,Postal Coverage,94.4,5.72,True,Connectivity Technology
-United States,2015,Postal Coverage,93.0,5.65,True,Connectivity Technology
-Uzbekistan,2015,Postal Coverage,,,True,Connectivity Technology
-St. Vincent and the Grenadines,2015,Postal Coverage,15.0,1.75,True,Connectivity Technology
-"Venezuela, RB",2015,Postal Coverage,92.2,5.61,True,Connectivity Technology
-Virgin Islands (U.S.),2015,Postal Coverage,,,True,Connectivity Technology
-Vietnam,2015,Postal Coverage,,,True,Connectivity Technology
-Vanuatu,2015,Postal Coverage,,,True,Connectivity Technology
-"Yemen, Rep.",2015,Postal Coverage,,,True,Connectivity Technology
-South Africa,2015,Postal Coverage,71.8,4.59,True,Connectivity Technology
-Zambia,2015,Postal Coverage,18.0,1.9,True,Connectivity Technology
-Zimbabwe,2015,Postal Coverage,32.0,2.6,True,Connectivity Technology
+Afghanistan,2019,Postal Coverage,50.0,3.5,True,Connectivity Technology
+Albania,2019,Postal Coverage,96.5,5.825,True,Connectivity Technology
+Algeria,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+Angola,2019,Postal Coverage,,,True,Connectivity Technology
+Antigua and Barbuda,2019,Postal Coverage,,,True,Connectivity Technology
+Argentina,2019,Postal Coverage,,,True,Connectivity Technology
+Armenia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Australia,2019,Postal Coverage,,,True,Connectivity Technology
+Austria,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+Azerbaijan,2019,Postal Coverage,,,True,Connectivity Technology
+Bahamas,2019,Postal Coverage,,,True,Connectivity Technology
+Bahrain (Kingdom of),2019,Postal Coverage,75.0,4.75,True,Connectivity Technology
+Barbados,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Belarus,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Belgium,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Belize,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+Benin,2019,Postal Coverage,6.0,1.3,True,Connectivity Technology
+Bermuda,2019,Postal Coverage,94.0,5.7,True,Connectivity Technology
+Bhutan,2019,Postal Coverage,30.0,2.5,True,Connectivity Technology
+Bolivia,2019,Postal Coverage,31.0,2.55,True,Connectivity Technology
+Bosnia and Herzegovina,2019,Postal Coverage,96.0,5.8,True,Connectivity Technology
+Botswana,2019,Postal Coverage,1.33,1.0665,True,Connectivity Technology
+Brazil,2019,Postal Coverage,,,True,Connectivity Technology
+Brunei Darussalam,2019,Postal Coverage,85.0,5.25,True,Connectivity Technology
+Bulgaria (Rep.),2019,Postal Coverage,87.0,5.35,True,Connectivity Technology
+Burkina Faso,2019,Postal Coverage,,,True,Connectivity Technology
+Burundi,2019,Postal Coverage,3.0,1.15,True,Connectivity Technology
+Cambodia,2019,Postal Coverage,5.0,1.25,True,Connectivity Technology
+Cameroon,2019,Postal Coverage,5.0,1.25,True,Connectivity Technology
+Canada,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+Cape Verde,2019,Postal Coverage,,,True,Connectivity Technology
+Cayman Islands,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Chad,2019,Postal Coverage,0.5,1.025,True,Connectivity Technology
+Chile,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+China (People's Rep.),2019,Postal Coverage,99.99,5.9995,True,Connectivity Technology
+Colombia,2019,Postal Coverage,80.0,5.0,True,Connectivity Technology
+Comoros,2019,Postal Coverage,3.0,1.15,True,Connectivity Technology
+Congo (Rep.),2019,Postal Coverage,,,True,Connectivity Technology
+Costa Rica,2019,Postal Coverage,,,True,Connectivity Technology
+Côte d'Ivoire (Rep.),2019,Postal Coverage,,,True,Connectivity Technology
+Croatia,2019,Postal Coverage,81.0,5.05,True,Connectivity Technology
+Cuba,2019,Postal Coverage,97.0,5.85,True,Connectivity Technology
+Cyprus,2019,Postal Coverage,,,True,Connectivity Technology
+Czech Rep.,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Democratic Republic of the Congo,2019,Postal Coverage,30.0,2.5,True,Connectivity Technology
+Denmark,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Djibouti,2019,Postal Coverage,0.3,1.015,True,Connectivity Technology
+Dominica (Commonwealth of),2019,Postal Coverage,,,True,Connectivity Technology
+Dominican Republic,2019,Postal Coverage,,,True,Connectivity Technology
+Ecuador,2019,Postal Coverage,64.51,4.2255,True,Connectivity Technology
+Egypt,2019,Postal Coverage,,,True,Connectivity Technology
+El Salvador,2019,Postal Coverage,85.0,5.25,True,Connectivity Technology
+Eritrea,2019,Postal Coverage,,,True,Connectivity Technology
+Estonia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Eswatini,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Ethiopia,2019,Postal Coverage,,,True,Connectivity Technology
+Faröe Islands,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Fiji,2019,Postal Coverage,,,True,Connectivity Technology
+Finland,2019,Postal Coverage,99.9,5.995,True,Connectivity Technology
+France,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+French Polynesia,2019,Postal Coverage,,,True,Connectivity Technology
+Georgia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Germany,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Ghana,2019,Postal Coverage,10.0,1.5,True,Connectivity Technology
+Greece,2019,Postal Coverage,97.0,5.85,True,Connectivity Technology
+Greenland,2019,Postal Coverage,70.0,4.5,True,Connectivity Technology
+Grenada,2019,Postal Coverage,,,True,Connectivity Technology
+Guatemala,2019,Postal Coverage,,,True,Connectivity Technology
+Guinea,2019,Postal Coverage,,,True,Connectivity Technology
+Guyana,2019,Postal Coverage,95.0,5.75,True,Connectivity Technology
+Honduras (Rep.),2019,Postal Coverage,,,True,Connectivity Technology
+"Hongkong, China",2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Hungary,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Iceland,2019,Postal Coverage,95.0,5.75,True,Connectivity Technology
+India,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Indonesia,2019,Postal Coverage,,,True,Connectivity Technology
+Iran (Islamic Rep.),2019,Postal Coverage,98.0,5.9,True,Connectivity Technology
+Iraq,2019,Postal Coverage,,,True,Connectivity Technology
+Ireland,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Israel,2019,Postal Coverage,85.0,5.25,True,Connectivity Technology
+Italy,2019,Postal Coverage,99.5,5.975,True,Connectivity Technology
+Jamaica,2019,Postal Coverage,50.0,3.5,True,Connectivity Technology
+Japan,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Jersey,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Jordan,2019,Postal Coverage,25.0,2.25,True,Connectivity Technology
+Kazakhstan,2019,Postal Coverage,94.0,5.7,True,Connectivity Technology
+Kenya,2019,Postal Coverage,1.0,1.05,True,Connectivity Technology
+Kiribati,2019,Postal Coverage,,,True,Connectivity Technology
+Korea (Rep.),2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Kyrgyzstan,2019,Postal Coverage,,,True,Connectivity Technology
+Lao People's Dem. Rep.,2019,Postal Coverage,70.0,4.5,True,Connectivity Technology
+Latvia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Lebanon,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Lesotho,2019,Postal Coverage,5.0,1.25,True,Connectivity Technology
+Liberia,2019,Postal Coverage,0.2,1.01,True,Connectivity Technology
+Libya,2019,Postal Coverage,,,True,Connectivity Technology
+Liechtenstein,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+Lithuania,2019,Postal Coverage,,,True,Connectivity Technology
+Luxembourg,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+"Macao, China",2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Madagascar,2019,Postal Coverage,,,True,Connectivity Technology
+Malawi,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Malaysia,2019,Postal Coverage,89.0,5.45,True,Connectivity Technology
+Maldives,2019,Postal Coverage,15.0,1.75,True,Connectivity Technology
+Mali,2019,Postal Coverage,,,True,Connectivity Technology
+Malta,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Mauritania,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Mauritius,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+Mexico,2019,Postal Coverage,88.4,5.42,True,Connectivity Technology
+Moldova,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Monaco,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Mongolia,2019,Postal Coverage,63.2,4.16,True,Connectivity Technology
+Montenegro,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Montserrat,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Morocco,2019,Postal Coverage,76.6,4.83,True,Connectivity Technology
+Mozambique,2019,Postal Coverage,,,True,Connectivity Technology
+Myanmar,2019,Postal Coverage,50.0,3.5,True,Connectivity Technology
+Namibia,2019,Postal Coverage,5.0,1.25,True,Connectivity Technology
+Nepal,2019,Postal Coverage,50.0,3.5,True,Connectivity Technology
+Netherlands,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+New Caledonia,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+New Zealand,2019,Postal Coverage,97.0,5.85,True,Connectivity Technology
+Nicaragua,2019,Postal Coverage,75.0,4.75,True,Connectivity Technology
+Niger,2019,Postal Coverage,,,True,Connectivity Technology
+Nigeria,2019,Postal Coverage,,,True,Connectivity Technology
+North Macedonia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Norway,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Oman,2019,Postal Coverage,,,True,Connectivity Technology
+Pakistan,2019,Postal Coverage,95.0,5.75,True,Connectivity Technology
+Panama (Rep.),2019,Postal Coverage,17.0,1.85,True,Connectivity Technology
+Papua New Guinea,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Paraguay,2019,Postal Coverage,95.0,5.75,True,Connectivity Technology
+Peru,2019,Postal Coverage,50.0,3.5,True,Connectivity Technology
+Philippines,2019,Postal Coverage,85.0,5.25,True,Connectivity Technology
+Poland,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Portugal,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Qatar,2019,Postal Coverage,80.0,5.0,True,Connectivity Technology
+Romania,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Russian Federation,2019,Postal Coverage,,,True,Connectivity Technology
+Rwanda,2019,Postal Coverage,0.0,1.0,True,Connectivity Technology
+Saint Christopher (St. Kitts) and Nevis,2019,Postal Coverage,,,True,Connectivity Technology
+Saint Lucia,2019,Postal Coverage,10.0,1.5,True,Connectivity Technology
+Saint Vincent and the Grenadines,2019,Postal Coverage,,,True,Connectivity Technology
+Samoa,2019,Postal Coverage,15.0,1.75,True,Connectivity Technology
+San Marino,2019,Postal Coverage,98.0,5.9,True,Connectivity Technology
+Sao Tome and Principe,2019,Postal Coverage,,,True,Connectivity Technology
+Saudi Arabia,2019,Postal Coverage,71.38,4.569,True,Connectivity Technology
+Senegal,2019,Postal Coverage,,,True,Connectivity Technology
+Serbia,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Seychelles,2019,Postal Coverage,60.0,4.0,True,Connectivity Technology
+Sierra Leone,2019,Postal Coverage,90.0,5.5,True,Connectivity Technology
+Singapore,2019,Postal Coverage,,,True,Connectivity Technology
+Slovakia,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+Slovenia,2019,Postal Coverage,99.96,5.997999999999999,True,Connectivity Technology
+South Africa,2019,Postal Coverage,,,True,Connectivity Technology
+Spain,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Sri Lanka,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Sudan,2019,Postal Coverage,31.0,2.55,True,Connectivity Technology
+Suriname,2019,Postal Coverage,85.0,5.25,True,Connectivity Technology
+Sweden,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Switzerland,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+Syrian Arab Rep.,2019,Postal Coverage,70.0,4.5,True,Connectivity Technology
+Tajikistan,2019,Postal Coverage,,,True,Connectivity Technology
+Tanzania (United Rep.),2019,Postal Coverage,0.3,1.015,True,Connectivity Technology
+Thailand,2019,Postal Coverage,96.0,5.8,True,Connectivity Technology
+Timor-Leste (Dem. Rep.),2019,Postal Coverage,,,True,Connectivity Technology
+Togo,2019,Postal Coverage,,,True,Connectivity Technology
+Tonga,2019,Postal Coverage,5.0,1.25,True,Connectivity Technology
+Trinidad and Tobago,2019,Postal Coverage,95.0,5.75,True,Connectivity Technology
+Tunisia,2019,Postal Coverage,94.0,5.7,True,Connectivity Technology
+Turkey,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+Tuvalu,2019,Postal Coverage,20.0,2.0,True,Connectivity Technology
+Uganda,2019,Postal Coverage,,,True,Connectivity Technology
+Ukraine,2019,Postal Coverage,99.0,5.95,True,Connectivity Technology
+United Arab Emirates,2019,Postal Coverage,0.03,1.0015,True,Connectivity Technology
+United Kingdom,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+United States of America,2019,Postal Coverage,93.0,5.65,True,Connectivity Technology
+Uruguay,2019,Postal Coverage,94.6,5.73,True,Connectivity Technology
+Uzbekistan,2019,Postal Coverage,100.0,6.0,True,Connectivity Technology
+Vatican,2019,Postal Coverage,,,True,Connectivity Technology
+Venezuela (Bolivarian Rep.),2019,Postal Coverage,98.0,5.9,True,Connectivity Technology
+Viet Nam,2019,Postal Coverage,98.0,5.9,True,Connectivity Technology
+Zambia,2019,Postal Coverage,,,True,Connectivity Technology
+Zimbabwe,2019,Postal Coverage,32.0,2.6,True,Connectivity Technology
