@@ -856,3 +856,27 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv
            downloaded_filename: data/TCdata360.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_innovation_dataset.csv
+           downloaded_filename: data/global_innovation_dataset.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/patent_application_PCT.csv
+           downloaded_filename: data/patent_application_PCT.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Hague_system.csv
+           downloaded_filename: data/Hague_system.csv
+           postprocess: ./process_raw_data.js
