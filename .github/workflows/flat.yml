@@ -853,6 +853,6 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://s3.amazonaws.com/datascope-ast-datasets-nov29/datasets/430/data.csv
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv
            downloaded_filename: data/TCdata360.csv
            postprocess: ./process_raw_data.js
