@@ -1,295 +1,153 @@
-Country ISO3,Country Name,Indicator Id,Indicator,Subindicator Type,2015,2016,2017
-AFG,Afghanistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.1,17,
-AFG,Afghanistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,130,132
-AGO,Angola,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,21.1,29,
-AGO,Angola,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,113,113
-ALB,Albania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,51,62,
-ALB,Albania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,59,59
-ARE,United Arab Emirates,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,73.4,87,
-ARE,United Arab Emirates,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,25,23
-ARG,Argentina,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,51.9,45,
-ARG,Argentina,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,57,81
-ARM,Armenia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,36.6,47,
-ARM,Armenia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,87,78
-AUS,Australia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,81.4,92,
-AUS,Australia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,12,14
-AUT,Austria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,76,91,
-AUT,Austria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,21,17
-AZE,Azerbaijan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,50.5,58,
-AZE,Azerbaijan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,60,68
-BDI,Burundi,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,10.6,10,
-BDI,Burundi,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,135,140
-BEL,Belgium,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,76,88,
-BEL,Belgium,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,22,22
-BEN,Benin,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,15.3,15,
-BEN,Benin,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,123,138
-BFA,Burkina Faso,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.9,18,
-BFA,Burkina Faso,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,125,128
-BGD,Bangladesh,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,16.7,35,
-BGD,Bangladesh,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,121,103
-BGR,Bulgaria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,56.4,66,
-BGR,Bulgaria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,50,50
-BHR,Bahrain,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,66.5,,
-BHR,Bahrain,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,32,
-BIH,Bosnia and Herzegovina,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,40.7,66,
-BIH,Bosnia and Herzegovina,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,81,52
-BLR,Belarus,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,50,71,
-BLR,Belarus,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,62,44
-BLZ,Belize,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,49,
-BLZ,Belize,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,77
-BOL,Bolivia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,30.8,,
-BOL,Bolivia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,97,
-BRA,Brazil,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,56.2,62,
-BRA,Brazil,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,51,62
-BTN,Bhutan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,27.8,36,
-BTN,Bhutan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,104,100
-BWA,Botswana,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,38.6,43,
-BWA,Botswana,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,85,87
-CAN,Canada,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,86.3,92,
-CAN,Canada,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,4,15
-CHE,Switzerland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,83.3,96.43,
-CHE,Switzerland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,9,2
-CHL,Chile,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,60.3,64,
-CHL,Chile,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,43,54
-CHN,China,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,49.1,60,
-CHN,China,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,64,65
-CIV,Cote d'Ivoire,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,15.4,,
-CIV,Cote d'Ivoire,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,122,
-CMR,Cameroon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,20,35,
-CMR,Cameroon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,116,107
-COG,"Congo, Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,16,
-COG,"Congo, Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,135
-COL,Colombia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,44.6,55,
-COL,Colombia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,72,71
-COM,Comoros,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,8,
-COM,Comoros,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,141
-CRI,Costa Rica,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,52.4,62,
-CRI,Costa Rica,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,55,61
-CYP,Cyprus,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,64.8,86,
-CYP,Cyprus,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,36,27
-CZE,Czech Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,71.7,84,
-CZE,Czech Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,29,29
-DEU,Germany,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,78,93.5,
-DEU,Germany,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,17,9
-DJI,Djibouti,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,18,
-DJI,Djibouti,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,129
-DNK,Denmark,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,78.7,93,
-DNK,Denmark,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,16,13
-DOM,Dominican Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,39.9,42,
-DOM,Dominican Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,83,88
-DZA,Algeria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,32.3,38,
-DZA,Algeria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,95,97
-ECU,Ecuador,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,45,41,
-ECU,Ecuador,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,71,91
-EGY,"Egypt, Arab Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,39.9,29,
-EGY,"Egypt, Arab Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,82,116
-ESP,Spain,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,75,80,
-ESP,Spain,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,24,33
-EST,Estonia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,72.3,90,
-EST,Estonia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,27,21
-ETH,Ethiopia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,21.2,16,
-ETH,Ethiopia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,112,133
-FIN,Finland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,84.3,93,
-FIN,Finland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,6,12
-FRA,France,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,76.2,90,
-FRA,France,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,19,20
-GAB,Gabon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,32,
-GAB,Gabon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,110
-GBR,United Kingdom,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,83.7,95.1,
-GBR,United Kingdom,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,8,6
-GEO,Georgia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,39.2,57,
-GEO,Georgia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,84,70
-GHA,Ghana,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,30.5,35,
-GHA,Ghana,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,99,105
-GIN,Guinea,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,7.9,7,
-GIN,Guinea,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,136,142
-GRC,Greece,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,58.6,80,
-GRC,Greece,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,46,34
-GTM,Guatemala,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,21.4,,
-GTM,Guatemala,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,111,
-HKG,"Hong Kong SAR, China",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,81.1,,
-HKG,"Hong Kong SAR, China",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,14,
-HND,Honduras,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,30.5,37,
-HND,Honduras,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,98,98
-HRV,Croatia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,69.6,81,
-HRV,Croatia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,30,32
-HTI,Haiti,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,16,
-HTI,Haiti,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,134
-HUN,Hungary,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,64.5,79,
-HUN,Hungary,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,37,36
-IDN,Indonesia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,33,36,
-IDN,Indonesia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,93,101
-IND,India,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,34,44,
-IND,India,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,90,83
-IRL,Ireland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,77.7,90,
-IRL,Ireland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,18,19
-IRN,"Iran, Islamic Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,42.6,,
-IRN,"Iran, Islamic Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,77,
-IRQ,Iraq,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.3,14,
-IRQ,Iraq,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,127,139
-ISL,Iceland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,89,93,
-ISL,Iceland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,2,11
-ISR,Israel,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,76.1,81,
-ISR,Israel,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,20,31
-ITA,Italy,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,63.5,74,
-ITA,Italy,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,38,40
-JAM,Jamaica,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,47.6,65,
-JAM,Jamaica,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,66,53
-JOR,Jordan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,41.3,50,
-JOR,Jordan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,80,75
-JPN,Japan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,86.1,93.6,
-JPN,Japan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,5,8
-KAZ,Kazakhstan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,36.5,66,
-KAZ,Kazakhstan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,88,51
-KEN,Kenya,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,37.9,45,
-KEN,Kenya,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,86,82
-KGZ,Kyrgyz Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,23.8,29,
-KGZ,Kyrgyz Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,109,117
-KHM,Cambodia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,19.5,29,
-KHM,Cambodia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,119,115
-KOR,"Korea, Rep.",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,84.3,,
-KOR,"Korea, Rep.",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,7,
-KWT,Kuwait,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,61.9,63,
-KWT,Kuwait,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,40,57
-LAO,Lao PDR,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,20.3,,
-LAO,Lao PDR,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,115,
-LBN,Lebanon,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,57.4,63,
-LBN,Lebanon,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,48,56
-LBR,Liberia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,15.1,18,
-LBR,Liberia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,124,130
-LKA,Sri Lanka,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,33.2,52,
-LKA,Sri Lanka,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,92,73
-LSO,Lesotho,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.5,22,
-LSO,Lesotho,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,126,125
-LTU,Lithuania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,61.3,79,
-LTU,Lithuania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,41,35
-LUX,Luxembourg,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,89.7,96.5,
-LUX,Luxembourg,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,1,1
-LVA,Latvia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,66.2,87,
-LVA,Latvia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,34,24
-MAR,Morocco,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,41.5,43,
-MAR,Morocco,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,79,85
-MDA,Moldova,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,51.4,59,
-MDA,Moldova,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,58,66
-MDG,Madagascar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,11.7,29,
-MDG,Madagascar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,134,118
-MEX,Mexico,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,49.1,42,
-MEX,Mexico,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,63,90
-MKD,"Macedonia, FYR",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,60,,
-MKD,"Macedonia, FYR",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,45,
-MLI,Mali,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,13.5,23,
-MLI,Mali,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,131,124
-MLT,Malta,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,66.3,85,
-MLT,Malta,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,33,28
-MMR,Myanmar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,12,23,
-MMR,Myanmar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,133,123
-MNE,Montenegro,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,41.5,57,
-MNE,Montenegro,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,78,69
-MNG,Mongolia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,29.8,64,
-MNG,Mongolia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,101,55
-MRT,Mauritania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,21,
-MRT,Mauritania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,126
-MUS,Mauritius,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,45.9,76,
-MUS,Mauritius,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,70,39
-MWI,Malawi,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.2,17,
-MWI,Malawi,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,129,131
-MYS,Malaysia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,60.1,77,
-MYS,Malaysia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,44,38
-NAM,Namibia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,42,
-NAM,Namibia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,89
-NER,Niger,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,6.5,3,
-NER,Niger,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,137,144
-NGA,Nigeria,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,30.4,46,
-NGA,Nigeria,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,100,80
-NIC,Nicaragua,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,20.7,23,
-NIC,Nicaragua,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,114,122
-NLD,Netherlands,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,79.5,95.9,
-NLD,Netherlands,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,15,4
-NOR,Norway,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,87.1,96.39,
-NOR,Norway,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,3,3
-NPL,Nepal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,19.9,35,
-NPL,Nepal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,118,108
-NZL,New Zealand,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,82.9,93,
-NZL,New Zealand,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,10,10
-OMN,Oman,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,48.8,60,
-OMN,Oman,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,65,64
-PAK,Pakistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,27.7,24,
-PAK,Pakistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,105,120
-PAN,Panama,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,47.2,43,
-PAN,Panama,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,68,84
-PER,Peru,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,43.1,41,
-PER,Peru,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,76,94
-PHL,Philippines,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,35.7,40,
-PHL,Philippines,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,89,96
-POL,Poland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,65.2,78,
-POL,Poland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,35,37
-PRT,Portugal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,60.4,68,
-PRT,Portugal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,42,48
-PRY,Paraguay,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,43.8,41,
-PRY,Paraguay,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,74,93
-QAT,Qatar,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,72.4,62,
-QAT,Qatar,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,26,58
-ROU,Romania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,55,69,
-ROU,Romania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,53,45
-RUS,Russian Federation,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,57.6,71,
-RUS,Russian Federation,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,47,43
-RWA,Rwanda,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,19.9,37,
-RWA,Rwanda,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,117,99
-SAU,Saudi Arabia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,52.2,69,
-SAU,Saudi Arabia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,56,46
-SDN,Sudan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,12.4,15,
-SDN,Sudan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,132,137
-SEN,Senegal,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,33.4,30,
-SEN,Senegal,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,91,112
-SGP,Singapore,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,75.8,90,
-SGP,Singapore,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,23,18
-SLE,Sierra Leone,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,14.3,16,
-SLE,Sierra Leone,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,128,136
-SLV,El Salvador,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,31.7,49,
-SLV,El Salvador,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,96,76
-SRB,Serbia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,55.9,73,
-SRB,Serbia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,52,41
-SVK,Slovak Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,68.2,82,
-SVK,Slovak Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,31,30
-SVN,Slovenia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,71.9,87,
-SVN,Slovenia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,28,25
-SWE,Sweden,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,81.4,94.6,
-SWE,Sweden,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,13,7
-SWZ,Swaziland,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,26.8,29,
-SWZ,Swaziland,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,106,114
-SYR,Syrian Arab Republic,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,21,
-SYR,Syrian Arab Republic,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,127
-TCD,Chad,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,,6,
-TCD,Chad,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,,143
-TGO,Togo,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,18.4,32,
-TGO,Togo,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,120,111
-THA,Thailand,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,47.2,68,
-THA,Thailand,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,69,49
-TTO,Trinidad and Tobago,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,47.5,,
-TTO,Trinidad and Tobago,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,67,
-TUN,Tunisia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,44.5,47,
-TUN,Tunisia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,73,79
-TUR,Turkey,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,56.5,62,
-TUR,Turkey,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,49,60
-TZA,Tanzania,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,26.5,27,
-TZA,Tanzania,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,107,119
-UGA,Uganda,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,29.7,43,
-UGA,Uganda,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,102,86
-UKR,Ukraine,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,54.6,60,
-UKR,Ukraine,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,54,63
-URY,Uruguay,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,62.6,59,
-URY,Uruguay,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,39,67
-USA,United States,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,82.6,87,
-USA,United States,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,11,26
-UZB,Uzbekistan,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,26.1,35,
-UZB,Uzbekistan,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,108,106
-VEN,"Venezuela, RB",24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,32.8,,
-VEN,"Venezuela, RB",24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,94,
-VNM,Vietnam,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,43.1,50,
-VNM,Vietnam,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,75,74
-ZAF,South Africa,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,50.3,54,
-ZAF,South Africa,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,61,72
-ZMB,Zambia,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,22.8,24,
-ZMB,Zambia,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,110,121
-ZWE,Zimbabwe,24717,Country rank and value in the UNCTAD B2C E-commerce Index,Value,28.7,33,
-ZWE,Zimbabwe,24718,Country rank and value in the UNCTAD B2C E-commerce Index,Rank,,103,109
+﻿2020 Rannk,Economy,Share of individuals using the Internet (2019 or latest),"Share of individuals with an account (15+, 2017)","Secure Internet servers (normalize d, 2019)",UPU postal reliability score (2019 or latest),2020 Index value,Index value change (2019-20data),Rank 2019
+1,Switzerland,97,98,92,97,95.9,-0.1,2
+2,Netherlands,96,100,94,93,95.8,-0.7,1
+3,Denmark,97,100,100,81,94.5,0.2,6
+4,Singapore,89,98,94,97,94.4,-0.4,3
+5,United Kingdom,96,96,84,98,93.6,-0.8,4
+6,Germany,93,99,90,91,93.4,0.6,9
+7,Finland,95,100,88,91,93.4,-0.9,5
+8,Ireland,88,95,92,98,93.4,-0.6,7
+9,Norway,98,100,84,88,92.6,-0.7,8
+10,"China, Hong Kong SAR",92,95,88,92,91.8,1,14
+11,New Zealand,95,99,80,93,91.8,-1,10
+12,United States of America,87,93,94,90,91,-0.7,13
+13,Canada,91,100,84,88,90.8,-0.9,11
+14,Estonia,90,98,91,84,90.8,0.2,15
+15,Sweden,98,100,82,84,90.8,1.2,17
+16,Australia,87,100,84,92,90.6,-1.1,12
+17,France,89,94,83,94,90,-0.3,16
+18,"Korea, Republic of",96,95,68,100,89.8,0.4,19
+19,Austria,88,98,82,87,88.8,-0.7,18
+20,Japan,85,98,79,93,88.7,2.4,21
+21,Belgium,90,99,79,79,86.8,-1.1,20
+22,Czechia,87,81,88,88,85.8,0.4,24
+23,Slovakia,83,84,80,96,85.7,0.5,25
+24,Spain,91,94,79,76,84.9,2.6,34
+25,Croatia,79,86,81,90,84,-0.3,27
+26,Israel,87,93,75,81,83.9,-2.2,22
+27,Lithuania,82,83,83,83,82.6,-0.9,30
+28,Poland,80,87,80,82,82.2,-0.7,32
+29,Italy,76,94,77,80,81.8,0.2,36
+30,Malaysia,84,85,71,85,81.3,-2.1,31
+31,Hungary,80,75,82,85,80.5,1.6,38
+32,Iceland,99,99,89,34,80.3,-4.5,26
+33,Greece,76,85,71,84,79.2,1.7,41
+34,Slovenia,83,98,85,49,78.8,-3.9,33
+35,Belarus,83,81,70,81,78.8,-0.5,37
+36,Luxembourg,96,99,85,34,78.4,-5.4,29
+37,United Arab Emirates,99,88,61,64,78.2,-5.6,28
+38,Cyprus,86,89,73,65,78.1,-7.4,23
+39,Latvia,86,93,80,52,77.8,-3.9,35
+40,Portugal,75,92,79,63,77.5,0.5,42
+41,Russian Federation,83,76,74,74,76.6,-1.3,40
+42,Thailand,67,82,59,97,76,2,48
+43,Serbia,77,71,73,80,75.3,-0.9,44
+44,Iran (Islamic Republic of),70,94,57,79,75,-0.4,45
+45,Romania,74,58,79,89,75,0.5,46
+46,Bulgaria,68,72,85,70,73.9,-4.4,39
+47,Georgia,71,61,64,98,73.6,0.8,51
+48,Malta,86,97,75,33,72.9,-3.7,43
+49,Saudi Arabia,96,72,43,78,72.3,-1,49
+50,Qatar,100,66,50,73,72.1,-2.2,47
+51,Ukraine,59,63,72,91,71.2,-1.2,52
+52,North Macedonia,81,77,54,73,71.1,-1.9,50
+53,Republic of Moldova,76,44,68,95,70.8,-1.5,53
+54,Oman,92,74,43,73,70.6,2.4,60
+55,China,61,80,54,85,70.1,0,55
+56,Costa Rica,86,68,59,63,68.8,3.7,62
+57,Turkey,74,69,70,63,68.8,-3,54
+58,Kuwait,100,80,50,45,68.7,-0.6,57
+59,Chile,82,74,75,42,68.4,1.7,61
+60,Kazakhstan,87,59,63,64,68.2,-1.5,56
+61,Mongolia,76,93,60,31,65,-3.7,59
+62,Brazil,74,70,64,46,63.5,6.1,72
+63,Viet Nam,69,31,64,83,61.6,0.8,66
+64,Lebanon,78,45,44,74,60.4,0.1,69
+65,Azerbaijan,81,29,49,82,60,-1.8,63
+66,Bahrain,100,83,49,7,59.7,-1,67
+67,Dominican Republic,75,56,40,67,59.3,-1.1,68
+68,Colombia,65,46,54,71,59.1,-1.9,65
+69,Mauritius,64,90,51,28,58.4,-10.6,58
+70,Bosnia and Herzegovina,70,59,64,40,58.1,-3.4,64
+71,India,34,80,49,65,57.1,1.4,75
+72,Uruguay,87,64,61,15,56.6,1.3,76
+73,South Africa,56,69,77,24,56.5,0.1,73
+74,Jamaica,55,78,41,45,55,-3.1,70
+75,Trinidad and Tobago,77,81,47,14,54.9,-2.9,71
+76,Jordan,67,42,39,71,54.7,2,80
+77,Tunisia,67,37,46,69,54.6,-1.4,74
+78,Montenegro,73,68,54,21,54,-0.1,77
+79,Peru,57,43,49,61,52.5,4.8,91
+80,Algeria,60,43,33,73,52.2,14,109
+81,Ghana,39,58,32,79,51.9,12.7,101
+82,Argentina,80,49,65,10,50.9,0,82
+83,Indonesia,48,49,60,43,50.1,0,85
+84,Armenia,65,48,51,36,49.9,-3.8,78
+85,Libya,75,66,57,1,49.7,-1,83
+86,Albania,70,40,54,34,49.5,-2.7,81
+87,Panama,64,46,61,26,49.5,0.7,90
+88,Kenya,23,82,46,46,49,0,89
+89,Belize,47,48,85,14,48.6,1.3,92
+90,Venezuela (Bolivarian Rep. of),72,73,45,2,48,-5.5,79
+91,Sri Lanka,34,74,48,36,47.8,-1.8,87
+92,Paraguay,69,49,48,23,47.1,-3.4,84
+93,Mexico,70,37,46,34,46.8,-0.2,93
+94,Nigeria,26,40,36,83,46.2,-3,88
+95,Morocco,74,29,49,27,44.8,1.3,97
+96,Philippines,65,35,39,40,44.7,-5.1,86
+97,Kyrgyzstan,80,40,47,11,44.3,2.7,110
+98,Honduras,39,45,38,54,44.2,0.7,96
+99,Senegal,46,42,26,62,44.1,1.1,98
+100,Namibia,51,81,42,3,43.9,-1.4,95
+101,Lao People's Dem. Rep.,26,29,30,78,40.6,5.4,112
+102,Ecuador,59,51,47,0,39.5,-0.1,100
+103,Bolivia (Plurinational State of),47,54,43,12,39.2,0.2,102
+104,Botswana,47,51,44,12,38.7,-0.1,106
+105,Gabon,62,59,28,4,38,-0.3,108
+106,El Salvador,51,30,38,29,37,-1.9,105
+107,Uzbekistan,30,37,50,30,37,-8.4,94
+108,Guatemala,65,44,38,0,36.8,1.7,113
+109,Egypt,57,33,31,26,36.6,-2.1,107
+110,United Republic of Tanzania,25,47,31,43,36.6,-3.9,99
+111,Cameroon,23,35,24,60,35.5,0.8,115
+112,Uganda,24,59,27,30,34.9,-3.9,104
+113,Nepal,34,45,43,14,34.3,-1.1,111
+114,Bhutan,48,34,51,2,33.6,0.8,117
+115,Bangladesh,13,50,39,32,33.3,-5.8,103
+116,Pakistan,24,21,35,50,32.5,-2.3,114
+117,Cambodia,40,22,42,21,31.1,0.3,121
+118,Zimbabwe,31,55,36,0,30.5,-3.7,116
+119,Cōte d'Ivoire,36,41,32,12,30.4,-0.9,119
+120,Zambia,24,46,31,19,30,1.2,125
+121,Tajikistan,36,47,36,1,30,4.3,130
+122,Nicaragua,46,31,37,2,29,-0.7,124
+123,Eswatini,47,29,38,0,28.4,-1.6,123
+124,Rwanda,11,50,36,16,28.3,0,127
+125,Djibouti,56,12,32,10,27.7,-0.9,126
+126,Ethiopia,19,35,6,51,27.5,-3.6,120
+127,Lesotho,29,46,35,0,27.4,-4.6,118
+128,Angola,14,29,24,37,26,-4.4,122
+129,Iraq,49,23,22,8,25.4,0.2,132
+130,Myanmar,31,26,22,17,24,-2.9,128
+131,Togo,12,45,26,9,23.2,-3,129
+132,Sudan,31,15,14,26,21.7,-3.9,131
+133,Syrian Arab Republic,34,23,27,0,21.1,-0.7,135
+134,Benin,20,38,21,4,20.7,1.4,140
+135,Haiti,32,33,16,0,20.2,-1,138
+136,Mozambique,10,42,26,2,20.1,-1.6,136
+137,Madagascar,10,18,19,30,19.2,-2.9,134
+138,"Yemen, Arab Republic",27,6,14,27,18.5,-0.6,141
+139,Burkina Faso,16,43,12,2,18.4,-0.4,143
+140,Guinea,18,23,15,16,18.1,2.3,146
+141,Malawi,14,34,25,0,18,-1.7,139
+142,Mali,13,35,21,0,17.5,-7,133
+143,Afghanistan,18,15,29,7,17.1,-1.9,142
+144,Liberia,8,36,15,9,16.9,0.2,144
+145,Mauritania,21,21,18,0,15,-1.5,145
+146,Sierra Leone,9,20,16,13,14.4,-6.9,137
+147,Congo,9,26,17,0,12.9,-1.1,148
+148,Dem. Rep. of the Congo,9,26,11,5,12.8,-1.3,147
+149,Comoros,8,22,18,0,12,-1,149
+150,Burundi,3,7,20,3,8.3,-0.7,150
+151,Chad,7,22,0,0,7.1,-1.4,151
+152,Niger,5,16,2,0,5.6,0.3,152
