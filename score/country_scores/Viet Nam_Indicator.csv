@@ -4,7 +4,6 @@ Business,Startup Environment,Doing Business Index,Viet Nam,2019.0,69.0,4.2010582
 Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Viet Nam,2019.0,70.0,4.174603174603175,True
 Business,Startup Environment,Ease of finding skilled employees,Viet Nam,2019.0,3.96,3.96,True
 Business,Startup Environment,Ease of Getting Credit,Viet Nam,2019.0,80.0,5.0,True
-Business,Startup Environment,Regulatory Quality,Viet Nam,2019.0,36.63971797,2.8319858985,True
 Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Viet Nam,2020.0,49.68,3.4585858585858587,True
 Business,Startup Environment,Regulatory Quality,Viet Nam,2019.0,36.63971797,2.8319858985,True
 Business,Technology Adoption,Share of businesses with online presence,Viet Nam,2018.0,48.6,3.269561179475273,True
@@ -17,7 +16,6 @@ Business,Financing Incentives,Venture Capital Availability,Viet Nam,2019.0,3.267
 Foundations,Digital Payments,% Making online transactions - Women,Viet Nam,2017.0,21.0,2.1797752808988764,True
 Foundations,Digital Payments,% of population with digital finance account,Viet Nam,2017.0,31.0,2.208791208791209,True
 Foundations,Digital Legal Identity,% of population with ID (all),Viet Nam,2018.0,96.0,5.740259740259741,True
-Foundations,Digital Legal Identity,% of population with ID (female),Viet Nam,2018.0,,,True
 Foundations,Digital Legal Identity,can ID be used for transactions,Viet Nam,2018.0,1.0,6.0,True
 Foundations,Digital Payments,"
 % of population with digital finance account - registered",Viet Nam,2017.0,30.0,2.1538461538461537,True
@@ -34,7 +32,6 @@ Government,Funding and procurement,Evidence of digital strategies in/across Mins
 Government,Leadership and coordination,Evidence of focus on vulnerable groups,Viet Nam,2020.0,0.03,3.5,True
 Government,Digital Public Services,Online-Service-Index (OSI),Viet Nam,2020.0,0.6529,4.2645,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Viet Nam,2020.0,0.78,4.979591836734695,True
-Government,Digital Public Services,R&D spending (% of GDP),Viet Nam,2020.0,,,True
 Government,Digital Public Services,Security incidents (# of relevant issues),Viet Nam,2020.0,3.0,5.473684210526316,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Viet Nam,2019.0,99.4,5.967838580453471,True
 Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Viet Nam,2019.0,68.66158021,4.121766276211556,True
@@ -99,4 +96,6 @@ People,Usage and ownership,Social media penetration,Viet Nam,2021.0,73.7,4.47956
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Viet Nam,2019.0,82.54,1.8729999999999996,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Viet Nam,2020.0,6.47,2.7591125198098254,True
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,3.753108348134991,True
+Regulation,Cybersecurity,# key internet controls employed,Viet Nam,2021.0,8.0,1.5555555555555554,False
+Regulation,Ethical Standards,Rule of Law Index,Viet Nam,2020.0,0.49,2.746031746031746,True
 Strategy,Ambition,SDG Index,Viet Nam,2019.0,72.8,4.623949579831932,True

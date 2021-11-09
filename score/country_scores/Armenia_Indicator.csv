@@ -3,7 +3,6 @@ Business,Startup Environment,Doing Business Index,Armenia,2019.0,41.0,4.94179894
 Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Armenia,2019.0,47.0,4.783068783068783,True
 Business,Startup Environment,Ease of finding skilled employees,Armenia,2019.0,4.03,4.03,True
 Business,Startup Environment,Ease of Getting Credit,Armenia,2019.0,70.0,4.5,True
-Business,Startup Environment,Regulatory Quality,Armenia,2019.0,50.02070102,3.501035051,True
 Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Armenia,2020.0,51.91,3.571212121212121,True
 Business,Startup Environment,Regulatory Quality,Armenia,2019.0,50.02070102,3.501035051,True
 Business,Technology Adoption,Share of businesses with online presence,Armenia,2018.0,75.6,4.836777339215232,True
@@ -32,6 +31,7 @@ Government,Funding and procurement,Evidence of digital strategies in/across Mins
 Government,Leadership and coordination,Evidence of focus on vulnerable groups,Armenia,2020.0,-0.03,1.0,True
 Government,Digital Public Services,Online-Service-Index (OSI),Armenia,2020.0,0.7,4.5,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Armenia,2020.0,0.73,4.724489795918368,True
+Government,Digital Public Services,R&D spending (% of GDP),Armenia,2018.0,0.18876,1.1804774055878524,True
 Infrastructure,Connectivity Technology,% of population covered by electricity,Armenia,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Armenia,2019.0,66.54394969,3.993627864854617,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Armenia,2019.0,100.0,6.0,True
@@ -86,4 +86,5 @@ People,Usage and ownership,Internet Usage,Armenia,2019.0,66.54394969,3.993627864
 People,Culture,Number of mobile apps available in national language(s),Armenia,2019.0,12.54147625,1.4918286726804124,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Armenia,2019.0,57.58,3.1210000000000004,False
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Armenia,2019.0,0.776,4.392539964476022,True
+Regulation,Cybersecurity,# key internet controls employed,Armenia,2021.0,2.0,4.888888888888889,False
 Strategy,Ambition,SDG Index,Armenia,2019.0,71.8,4.518907563025209,True
