@@ -3,7 +3,10 @@ Business,Technology Adoption,"Cloud Services (Spend, IT Forecast Data)",Japan,20
 Business,Startup Environment,Doing Business Index,Japan,2019.0,39.0,4.994708994708994,False
 Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Japan,2019.0,29.0,5.25925925925926,True
 Business,Startup Environment,Ease of finding skilled employees,Japan,2019.0,4.4,4.4,True
+Business,Startup Environment,Ease of Getting Credit,Japan,2019.0,55.0,3.75,True
+Business,Startup Environment,Regulatory Quality,Japan,2019.0,78.18686572,4.909343286,True
 Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Japan,2020.0,73.54,4.663636363636364,True
+Business,Startup Environment,Regulatory Quality,Japan,2019.0,78.18686572,4.909343286,True
 Business,Technology Adoption,Share of business with internet,Japan,2020.0,,,True
 Business,Technology Adoption,Share of businesses with online presence,Japan,2018.0,92.4,5.811934060831205,True
 Business,Technology Adoption,Size of digital economy (% of transactions),Japan,2019.0,56.21,4.592526004879929,True
@@ -11,8 +14,8 @@ Business,Technology Adoption,Size of gig economy (% of GDP),Japan,2019.0,3.85,3.
 Business,Startup Environment,"Amount invested into startups yearly from private, public, blended sources (respectively)",Japan,2019.0,2502.530372,1.0921001744177172,True
 Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Japan,2019.0,5.0,3.083333333333333,True
 Business,Startup Environment,Time required to start a business (days),Japan,2019.0,1.0,1.0,True
-Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Japan,2016.0,93.6,5.8449197860962565,True
-Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Japan,2017.0,17.0,5.428571428571429,True
+Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Japan,2020.0,88.7,5.601328903654485,True
+Business,Financing Incentives,Venture Capital Availability,Japan,2019.0,4.344073296,4.738137447592781,True
 Foundations,Digital Payments,% Making online transactions - Women,Japan,2017.0,44.0,3.4719101123595504,True
 Foundations,Digital Payments,% of population with digital finance account,Japan,2017.0,98.0,5.8901098901098905,True
 Foundations,Digital Legal Identity,% of population with ID (all),Japan,2018.0,95.0,5.675324675324675,True
@@ -43,7 +46,9 @@ Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ dat
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Japan,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Japan,2019.0,99.0,5.95,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Japan,2019.0,0.0,1.0,True
+Infrastructure,Innovation Ecosystem,Availability of scientists and engineers,Japan,2018.0,5.319746971,5.072216235751805,True
 Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Japan,2017.0,157.51,4.044661879586522,True
+Infrastructure,Connectivity Technology,Broadband Density,Japan,2020.0,34.49910256,4.242357098043675,True
 Infrastructure,Connectivity Technology,Cellphone Signal Density,Japan,2019.0,89.58999634,5.343101390017339,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Japan,2019.0,24.700000000000006,3.21810571565938,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Japan,2019.0,9605.360000000002,4.968799183720792,True
@@ -57,13 +62,19 @@ Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Japan,20
 Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Japan,2019.0,83.4,5.542882859714543,True
 Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Japan,2019.0,92.73039781,5.578177119073772,True
 Infrastructure,Innovation Ecosystem,International Co-Inventions,Japan,2017.0,545770.5532000001,3.228804544524831,True
+Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),Japan,2019.0,397.0,2.687925170068027,True
+Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),Japan,2019.0,1152.0,2.28370849119679,True
+Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),Japan,2019.0,52660.0,5.463468384471945,True
 Infrastructure,Connectivity Technology,ISP internet download speed average ,Japan,2021.0,179.43,4.467412432067912,True
 Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Japan,2018.0,4.03,5.622222222222223,True
+Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,Japan,2020.0,12.84088578,1.6420442890000002,True
 Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Japan,2020.0,152.0316954,3.181893827613301,True
 Infrastructure,Connectivity Technology,Mobile Coverage Maps,Japan,2020.0,152.0316954,3.181893827613301,True
 Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Japan,2019.0,74.01976013,1.864962743057272,True
 Infrastructure,Connectivity Technology,National cyber security index,Japan,2021.0,63.64,4.287974683544304,True
+Infrastructure,Innovation Ecosystem,Patents by origin/bn PPP$ GDP,Japan,2019.0,100.0,6.0,True
 Infrastructure,Connectivity Technology,Postal Coverage,Japan,2019.0,100.0,6.0,True
+Infrastructure,Innovation Ecosystem,Scientific and technical articles/bn PPP$ GDP,Japan,2020.0,25.40821213,2.2704106065,True
 Infrastructure,Innovation Ecosystem,Software Developer Ecosystem size,Japan,2018.0,39263.0,1.218535157898686,True
 Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Japan,2019.0,83.91,5.224801936619718,True
 Infrastructure,Connectivity Technology,Telecommunication Infrastructure Index (TII),Japan,2020.0,0.9223,5.6115,True

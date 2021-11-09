@@ -1,8 +1,9 @@
 Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-Business,Financing Incentives,Viet Nam,3.857142857142857,1,0.4285714285714285
+Business,Financing Incentives,Viet Nam,3.212789426704038,1,0.3569766029671153
+Business,Startup Environment,Viet Nam,3.5546572656666666,3,1.184885755222222
 Business,Startup Environment,Viet Nam,3.533798941798942,5,1.963221634332745
-Business,Technology Adoption,Viet Nam,3.649253560030212,4,1.6218904711245388
-Business,Technology Adoption,Viet Nam,3.082771448500349,2,0.6850603218889664
+Business,Technology Adoption,Viet Nam,3.7395578867838593,5,2.0775321593243663
+Business,Technology Adoption,Viet Nam,2.6521739130434785,1,0.2946859903381643
 Foundations,Digital Legal Identity,Viet Nam,4.435064935064935,3,1.4783549783549783
 Foundations,Digital Payments,Viet Nam,1.930689654777115,8,1.7161685820241022
 Government,Capabilities,Viet Nam,5.11214953271028,1,1.022429906542056
@@ -10,9 +11,10 @@ Government,Digital Public Services,Viet Nam,4.38825,2,1.7553
 Government,Digital Public Services,Viet Nam,3.484425349087003,2,1.3937701396348017
 Government,Funding and procurement,Viet Nam,6.0,1,1.2000000000000002
 Government,Leadership and coordination,Viet Nam,3.5,1,0.7000000000000001
-Infrastructure,Connectivity Technology,Viet Nam,4.371308553719132,8,1.589566746806957
-Infrastructure,Connectivity Technology,Viet Nam,3.7092862864349576,14,2.360454909549518
-Infrastructure,Innovation Ecosystem,Viet Nam,2.910193303841979,7,0.9259705966769932
+Infrastructure,Connectivity Technology,Viet Nam,4.175871050577487,9,1.63403649805206
+Infrastructure,Connectivity Technology,Viet Nam,3.7092862864349576,14,2.2578264352212787
+Infrastructure,Innovation Ecosystem,Viet Nam,1.5760808025276531,6,0.411151513702866
+Infrastructure,Innovation Ecosystem,Viet Nam,2.93234126015054,8,1.0199447861393185
 People,Culture,Viet Nam,4.520733941237113,1,0.2825458713273195
 People,Digital Literacy Skills,Viet Nam,4.16693683325371,5,1.3021677603917845
 People,Digital Wellbeing,Viet Nam,2.830024382804789,4,0.7075060957011974

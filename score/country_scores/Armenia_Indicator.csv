@@ -2,14 +2,17 @@ Pillar,Sub-Pillar,Indicator,Country Name,Year,data_col,new_rank_score,higher_is_
 Business,Startup Environment,Doing Business Index,Armenia,2019.0,41.0,4.941798941798941,False
 Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Armenia,2019.0,47.0,4.783068783068783,True
 Business,Startup Environment,Ease of finding skilled employees,Armenia,2019.0,4.03,4.03,True
+Business,Startup Environment,Ease of Getting Credit,Armenia,2019.0,70.0,4.5,True
+Business,Startup Environment,Regulatory Quality,Armenia,2019.0,50.02070102,3.501035051,True
 Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Armenia,2020.0,51.91,3.571212121212121,True
+Business,Startup Environment,Regulatory Quality,Armenia,2019.0,50.02070102,3.501035051,True
 Business,Technology Adoption,Share of businesses with online presence,Armenia,2018.0,75.6,4.836777339215232,True
 Business,Technology Adoption,Size of digital economy (% of transactions),Armenia,2019.0,4.51,1.272890715294722,True
 Business,Technology Adoption,Size of gig economy (% of GDP),Armenia,2019.0,3.65,3.332317073170731,True
 Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Armenia,2019.0,6.0,3.5,True
 Business,Startup Environment,Time required to start a business (days),Armenia,2019.0,3.0,4.333333333333334,True
-Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Armenia,2016.0,47.0,3.3529411764705883,True
-Business,Financing Incentives,"Venture capital availability, 1-7 (best)",Armenia,2017.0,56.0,4.035714285714286,True
+Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Armenia,2020.0,49.9,3.4529346622369874,True
+Business,Financing Incentives,Venture Capital Availability,Armenia,2019.0,3.311092377,3.274553597766255,True
 Foundations,Digital Payments,% Making online transactions - Women,Armenia,2017.0,12.0,1.6741573033707864,True
 Foundations,Digital Payments,% of population with digital finance account,Armenia,2017.0,48.0,3.142857142857143,True
 Foundations,Digital Legal Identity,% of population with ID (all),Armenia,2018.0,100.0,6.0,True
@@ -35,7 +38,9 @@ Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ dat
 Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Armenia,2019.0,99.0,5.934210526315789,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Armenia,2019.0,95.0,5.75,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Armenia,2019.0,0.0,1.0,True
+Infrastructure,Innovation Ecosystem,Availability of scientists and engineers,Armenia,2018.0,4.299044609,3.739407997790302,True
 Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Armenia,2017.0,53.87,2.000157815828928,True
+Infrastructure,Connectivity Technology,Broadband Density,Armenia,2020.0,14.52486347,2.36510200774538,True
 Infrastructure,Connectivity Technology,Cellphone Signal Density,Armenia,2019.0,87.59999847,5.21752729058696,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Armenia,2019.0,-12.46,2.69263836646964,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Armenia,2019.0,-308.22,4.168410550076143,True
@@ -47,13 +52,19 @@ Infrastructure,Connectivity Technology,Electricity supply quality,Armenia,2019.0
 Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Armenia,2020.0,50.47,3.0350806451612904,True
 Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Armenia,2019.0,56.24,3.796708242252796,True
 Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Armenia,2019.0,66.54394969,3.993627864854617,True
+Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),Armenia,2019.0,4.0,1.0170068027210883,True
+Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),Armenia,2019.0,7.0,1.0078003120124803,True
+Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),Armenia,2019.0,3.0,1.0002542803865062,True
 Infrastructure,Connectivity Technology,ISP internet download speed average ,Armenia,2021.0,36.25,1.62755365147368,True
 Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Armenia,2018.0,2.61,2.466666666666667,True
+Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,Armenia,2020.0,4.441896673,1.22209483365,True
 Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Armenia,2020.0,117.7357712,2.489670384988388,True
 Infrastructure,Connectivity Technology,Mobile Coverage Maps,Armenia,2020.0,117.7357712,2.489670384988388,True
 Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Armenia,2019.0,88.43795013,1.0595054878193515,True
 Infrastructure,Connectivity Technology,National cyber security index,Armenia,2021.0,31.17,2.57542194092827,True
+Infrastructure,Innovation Ecosystem,Patents by origin/bn PPP$ GDP,Armenia,2019.0,20.89172676,2.044586338,True
 Infrastructure,Connectivity Technology,Postal Coverage,Armenia,2019.0,100.0,6.0,True
+Infrastructure,Innovation Ecosystem,Scientific and technical articles/bn PPP$ GDP,Armenia,2020.0,32.2302333,2.611511665,True
 Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Armenia,2019.0,21.43,1.7873019366197185,True
 Infrastructure,Connectivity Technology,Telecommunication Infrastructure Index (TII),Armenia,2020.0,0.6536,4.268,True
 People,Usage and ownership,% of population using digital financial services,Armenia,2017.0,15.0,1.7954545454545454,True
