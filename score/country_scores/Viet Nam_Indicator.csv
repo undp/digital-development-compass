@@ -1,29 +1,29 @@
 Pillar,Sub-Pillar,Indicator,Country Name,Year,data_col,new_rank_score,higher_is_better
-Business,Technology Adoption,"Cloud Services (Spend, IT Forecast Data)",Viet Nam,2018.0,8.6,2.6521739130434785,True
+Business,Technology Adoption,"Cloud Services (Spend, IT Forecast Data)",Viet Nam,2018.0,8.6,1.43,True
 Business,Startup Environment,Doing Business Index,Viet Nam,2019.0,69.0,4.201058201058201,False
 Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),Viet Nam,2019.0,70.0,4.174603174603175,True
 Business,Startup Environment,Ease of finding skilled employees,Viet Nam,2019.0,3.96,3.96,True
 Business,Startup Environment,Ease of Getting Credit,Viet Nam,2019.0,80.0,5.0,True
-Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Viet Nam,2020.0,49.68,3.4585858585858587,True
+Business,Technology Adoption,"Networking Services (Spend, IT Forecast Data)",Viet Nam,2020.0,49.68,3.484,True
 Business,Startup Environment,Regulatory Quality,Viet Nam,2019.0,36.63971797,2.8319858985,True
-Business,Technology Adoption,Share of businesses with online presence,Viet Nam,2018.0,48.6,3.269561179475273,True
-Business,Technology Adoption,Size of digital economy (% of transactions),Viet Nam,2019.0,37.77,3.408501348401182,True
-Business,Technology Adoption,Size of gig economy (% of GDP),Viet Nam,2019.0,4.39,4.460365853658535,True
+Business,Technology Adoption,Share of businesses with online presence,Viet Nam,2018.0,48.6,3.43,True
+Business,Technology Adoption,Size of digital economy (% of transactions),Viet Nam,2019.0,37.77,2.8885000000000005,True
+Business,Technology Adoption,Size of gig economy (% of GDP),Viet Nam,2019.0,4.39,1.2195,True
 Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),Viet Nam,2019.0,8.0,4.333333333333334,True
 Business,Startup Environment,Time required to start a business (days),Viet Nam,2019.0,1.0,1.0,True
-Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Viet Nam,2020.0,61.6,4.10077519379845,True
-Business,Financing Incentives,Venture Capital Availability,Viet Nam,2019.0,3.267499924,3.212789426704038,True
-Foundations,Digital Payments,% Making online transactions - Women,Viet Nam,2017.0,21.0,2.1797752808988764,True
-Foundations,Digital Payments,% of population with digital finance account,Viet Nam,2017.0,31.0,2.208791208791209,True
-Foundations,Digital Legal Identity,% of population with ID (all),Viet Nam,2018.0,96.0,5.740259740259741,True
-Foundations,Digital Legal Identity,can ID be used for transactions,Viet Nam,2018.0,1.0,6.0,True
-Foundations,Digital Payments,% of population with digital finance account - registered,Viet Nam,2017.0,30.0,2.1538461538461537,True
-Foundations,Digital Legal Identity,Is personal data siloed,Viet Nam,2020.0,0.02,6.0,True
-Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Viet Nam,2017.0,23.0,1.869565217391304,True
-Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Viet Nam,2017.0,23.0,1.9895833333333333,True
-Foundations,Digital Payments,% Making online transactions - Men,Viet Nam,2017.0,20.0,2.043956043956044,True
-Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Viet Nam,2017.0,9.0,1.5294117647058822,True
-Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Viet Nam,2017.0,8.0,1.4705882352941178,True
+Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,Viet Nam,2020.0,61.6,4.08,True
+Business,Financing Incentives,Venture Capital Availability,Viet Nam,2019.0,3.267499924,2.88958327,True
+Foundations,Digital Payments,% Making online transactions - Women,Viet Nam,2017.0,21.0,2.05,True
+Foundations,Digital Payments,% of population with digital finance account,Viet Nam,2017.0,31.0,2.55,True
+Foundations,Digital Legal Identity,% of population with ID (all),Viet Nam,2018.0,96.0,5.8,True
+Foundations,Digital Legal Identity,can ID be used for transactions,Viet Nam,2018.0,1.0,1.05,True
+Foundations,Digital Payments,% of population with digital finance account - registered,Viet Nam,2017.0,30.0,2.5,True
+Foundations,Digital Legal Identity,Is personal data siloed,Viet Nam,2020.0,0.02,1.001,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Viet Nam,2017.0,23.0,2.15,True
+Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Viet Nam,2017.0,23.0,2.15,True
+Foundations,Digital Payments,% Making online transactions - Men,Viet Nam,2017.0,20.0,2.0,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Viet Nam,2017.0,15.0,1.75,True
+Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Viet Nam,2017.0,8.0,1.4,True
 Government,Capabilities,% of digital skills certifications / training courses completed,Viet Nam,2020.0,20.0,5.11214953271028,True
 Government,Digital Public Services,E-Participation index,Viet Nam,2020.0,0.7024,4.5120000000000005,True
 Government,Funding and procurement,Evidence of digital strategies in/across Minstries,Viet Nam,2020.0,3.0,6.0,True
@@ -31,69 +31,69 @@ Government,Leadership and coordination,Evidence of focus on vulnerable groups,Vi
 Government,Digital Public Services,Online-Service-Index (OSI),Viet Nam,2020.0,0.6529,4.2645,True
 Government,Digital Public Services,What is the % change of government digitizing public services?,Viet Nam,2020.0,0.78,4.979591836734695,True
 Government,Digital Public Services,Security incidents (# of relevant issues),Viet Nam,2020.0,3.0,5.473684210526316,True
-Infrastructure,Connectivity Technology,% of population covered by electricity,Viet Nam,2019.0,99.4,5.967838580453471,True
-Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Viet Nam,2019.0,68.66158021,4.121766276211556,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Viet Nam,2019.0,99.7,5.967637540453075,True
-Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Viet Nam,2019.0,95.0,5.671052631578948,True
+Infrastructure,Connectivity Technology,% of population covered by electricity,Viet Nam,2019.0,99.4,5.97,True
+Infrastructure,Connectivity Technology,% of population covered by internet connectivity,Viet Nam,2019.0,68.66158021,4.4330790105,True
+Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,Viet Nam,2019.0,99.7,5.985,True
+Infrastructure,Connectivity Technology,% of population covered by mobile 3G+ data connectivity,Viet Nam,2019.0,95.0,5.75,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 4G+ data connectivity,Viet Nam,2019.0,95.0,5.75,True
 Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,Viet Nam,2019.0,0.0,1.0,True
-Infrastructure,Innovation Ecosystem,Availability of scientists and engineers,Viet Nam,2018.0,3.799700737,3.087376954310465,True
-Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Viet Nam,2017.0,137.43,3.6485441489781434,True
-Infrastructure,Connectivity Technology,Broadband Density,Viet Nam,2020.0,17.15583808,2.61237102544432,True
-Infrastructure,Connectivity Technology,Cellphone Signal Density,Viet Nam,2019.0,85.97000122,5.114670177105354,True
+Infrastructure,Innovation Ecosystem,Availability of scientists and engineers,Viet Nam,2018.0,3.799700737,1.18998503685,True
+Infrastructure,Innovation Ecosystem,Banking Ecosystem size,Viet Nam,2017.0,137.43,7.871500000000001,True
+Infrastructure,Connectivity Technology,Broadband Density,Viet Nam,2020.0,17.15583808,1.857791904,True
+Infrastructure,Connectivity Technology,Cellphone Signal Density,Viet Nam,2019.0,85.97000122,5.298500061,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",Viet Nam,2019.0,-7.939999999999999,2.756554201193473,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",Viet Nam,2019.0,-2645.19,3.979731563759541,True
 Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",Viet Nam,2019.0,-1952.6499999999976,4.731536293368428,True
-Infrastructure,Innovation Ecosystem,Digital Finance Ecosystem size,Viet Nam,2021.0,8.118,1.749964090778512,True
-Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,Viet Nam,2020.0,82.0,2.478260869565217,False
-Infrastructure,Connectivity Technology,Electricity Density,Viet Nam,2019.0,2689.645,1.2366483461420392,True
-Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,Viet Nam,2021.0,72.8,4.623949579831932,True
+Infrastructure,Innovation Ecosystem,Digital Finance Ecosystem size,Viet Nam,2021.0,8.118,1.4059,True
+Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,Viet Nam,2020.0,82.0,1.9000000000000004,False
+Infrastructure,Connectivity Technology,Electricity Density,Viet Nam,2019.0,2689.645,135.48225,True
+Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,Viet Nam,2021.0,72.8,4.640000000000001,True
 Infrastructure,Connectivity Technology,Electricity supply quality,Viet Nam,2019.0,93.54774952,5.677387476,True
-Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Viet Nam,2020.0,94.59,4.814112903225807,True
-Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Viet Nam,2019.0,64.6,4.334190561913333,True
-Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Viet Nam,2019.0,68.66158021,4.121766276211556,True
-Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),Viet Nam,2019.0,2.0,1.0085034013605445,True
-Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),Viet Nam,2019.0,10.0,1.011143302874972,True
-Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),Viet Nam,2019.0,34.0,1.0028818443804035,True
-Infrastructure,Connectivity Technology,ISP internet download speed average ,Viet Nam,2021.0,78.43,2.4641596255305647,True
-Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Viet Nam,2018.0,3.27,3.9333333333333336,True
+Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),Viet Nam,2020.0,94.59,5.729500000000001,True
+Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,Viet Nam,2019.0,64.6,4.23,True
+Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),Viet Nam,2019.0,68.66158021,4.4330790105,True
+Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),Viet Nam,2019.0,2.0,1.1,True
+Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),Viet Nam,2019.0,10.0,1.5,True
+Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),Viet Nam,2019.0,34.0,2.7,True
+Infrastructure,Connectivity Technology,ISP internet download speed average ,Viet Nam,2021.0,78.43,4.9215,True
+Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,Viet Nam,2018.0,3.27,3.8375,True
 Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,Viet Nam,2020.0,47.9099405,3.395497025,True
-Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Viet Nam,2020.0,142.7333617,2.99421774905207,True
-Infrastructure,Connectivity Technology,Mobile Coverage Maps,Viet Nam,2020.0,142.7333617,2.99421774905207,True
-Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Viet Nam,2019.0,84.55747223,1.2762843677165785,True
-Infrastructure,Connectivity Technology,National cyber security index,Viet Nam,2021.0,36.36,2.84915611814346,True
+Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),Viet Nam,2020.0,142.7333617,8.136668085,True
+Infrastructure,Connectivity Technology,Mobile Coverage Maps,Viet Nam,2020.0,142.7333617,8.136668085,True
+Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,Viet Nam,2019.0,84.55747223,1.7721263884999994,True
+Infrastructure,Connectivity Technology,National cyber security index,Viet Nam,2021.0,36.36,2.818,True
 Infrastructure,Innovation Ecosystem,Patents by origin/bn PPP$ GDP,Viet Nam,2019.0,5.324811451,1.26624057255,True
 Infrastructure,Connectivity Technology,Postal Coverage,Viet Nam,2019.0,98.0,5.9,True
 Infrastructure,Innovation Ecosystem,Scientific and technical articles/bn PPP$ GDP,Viet Nam,2020.0,15.44437338,1.772218669,True
-Infrastructure,Innovation Ecosystem,Software Developer Ecosystem size,Viet Nam,2018.0,14727.0,1.02676195925054,True
-Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Viet Nam,2019.0,20.59,1.741087147887324,True
+Infrastructure,Innovation Ecosystem,Software Developer Ecosystem size,Viet Nam,2018.0,14727.0,737.35,True
+Infrastructure,Connectivity Technology,Spectrum Allocated to Mobile Providers,Viet Nam,2019.0,20.59,2.0295,True
 Infrastructure,Connectivity Technology,Telecommunication Infrastructure Index (TII),Viet Nam,2020.0,0.6694,4.347,True
-People,Digital Literacy Skills,% of internet users who own cryptocurrency,Viet Nam,2020.0,21.1,4.085106382978724,True
-People,Usage and ownership,% of population using digital financial services,Viet Nam,2017.0,21.0,2.1363636363636367,True
-People,Usage and ownership,% of population using Facebook,Viet Nam,2021.0,67.96,4.385136481370791,True
-People,Digital Literacy Skills,% of population using internet (all),Viet Nam,2019.0,68.66158021,4.121766276211556,True
-People,Digital Literacy Skills,% of population using internet (female),Viet Nam,2019.0,65.50475236,4.02782941141132,True
-People,Digital Literacy Skills,% of population using internet (male),Viet Nam,2019.0,71.84789925,4.210482095666951,True
-People,Usage and ownership,% of population with a smartphone,Viet Nam,2020.0,0.63,4.515625,True
+People,Digital Literacy Skills,% of internet users who own cryptocurrency,Viet Nam,2020.0,21.1,2.055,True
+People,Usage and ownership,% of population using digital financial services,Viet Nam,2017.0,21.0,2.05,True
+People,Usage and ownership,% of population using Facebook,Viet Nam,2021.0,67.96,4.398,True
+People,Digital Literacy Skills,% of population using internet (all),Viet Nam,2019.0,68.66158021,4.4330790105,True
+People,Digital Literacy Skills,% of population using internet (female),Viet Nam,2019.0,65.50475236,4.275237618,True
+People,Digital Literacy Skills,% of population using internet (male),Viet Nam,2019.0,71.84789925,4.5923949625,True
+People,Usage and ownership,% of population with a smartphone,Viet Nam,2020.0,0.63,4.15,True
 People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),Viet Nam,2017.0,18.74,2.2002822684115984,True
 People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",Viet Nam,2021.0,1.6219481377826768,1.1153442034077683,True
-People,Usage and ownership,Financial Inclusiveness,Viet Nam,2017.0,31.0,2.208791208791209,True
+People,Usage and ownership,Financial Inclusiveness,Viet Nam,2017.0,31.0,2.55,True
 People,Usage and ownership,Gender gap for social media use,Viet Nam,2019.0,85.97904968,5.298952484,True
-People,Usage and ownership,Gender gap in internet usage,Viet Nam,2019.0,65.50475236,4.02782941141132,True
+People,Usage and ownership,Gender gap in internet usage,Viet Nam,2019.0,65.50475236,4.275237618,True
 People,Usage and ownership,Gender gap in mobile usage,Viet Nam,2019.0,98.32418823,5.916209411500001,True
 People,Usage and ownership,Global Crypto Adoption Index,Viet Nam,2019.0,1.0,6.0,True
-People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Viet Nam,2021.0,5.411,3.7147960142884,True
-People,Digital Wellbeing,Gross National Wellbeing,Viet Nam,2019.0,5.47,3.730844793713163,True
-People,Usage and ownership,Households with a computer and with Internet access,Viet Nam,2020.0,74.80362832,4.578134123930813,True
+People,Digital Wellbeing,Global Wellbeing Initiative (World Happiness Index),Viet Nam,2021.0,5.411,3.7055,True
+People,Digital Wellbeing,Gross National Wellbeing,Viet Nam,2019.0,5.47,1.2735,True
+People,Usage and ownership,Households with a computer and with Internet access,Viet Nam,2020.0,74.80362832,4.740181416,True
 People,Digital Literacy Skills,Human Capital Index (HCI),Viet Nam,2020.0,0.6779,4.3895,True
-People,Usage and ownership,Internet Usage,Viet Nam,2019.0,68.66158021,4.121766276211556,True
-People,Usage and ownership,Mobile Device Penetration (female),Viet Nam,2019.0,76.74703415,4.421381937899607,True
-People,Usage and ownership,Mobile Device Penetration,Viet Nam,2019.0,77.49999971,3.943456522944599,True
-People,Culture,Number of mobile apps available in national language(s),Viet Nam,2019.0,71.30223846,4.520733941237113,True
-People,Usage and ownership,Social media penetration,Viet Nam,2021.0,73.7,4.479567307692308,True
+People,Usage and ownership,Internet Usage,Viet Nam,2019.0,68.66158021,4.4330790105,True
+People,Usage and ownership,Mobile Device Penetration (female),Viet Nam,2019.0,76.74703415,4.8373517075,True
+People,Usage and ownership,Mobile Device Penetration,Viet Nam,2019.0,77.49999971,4.8749999855,True
+People,Culture,Number of mobile apps available in national language(s),Viet Nam,2019.0,71.30223846,4.565111923,True
+People,Usage and ownership,Social media penetration,Viet Nam,2021.0,73.7,4.6850000000000005,True
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Viet Nam,2019.0,82.54,1.8729999999999996,False
-People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Viet Nam,2020.0,6.47,2.7591125198098254,True
-People,Usage and ownership,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,3.753108348134991,True
-Regulation,Cybersecurity,# key internet controls employed,Viet Nam,2020.0,22.0,1.7058823529411766,True
-Regulation,Ethical Standards,Rule of Law Index,Viet Nam,2020.0,0.49,2.746031746031746,True
-Strategy,Ambition,SDG Index,Viet Nam,2019.0,72.8,4.623949579831932,True
+People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Viet Nam,2020.0,6.47,1.3235,True
+People,Usage and ownership,UNDP Human Development Index (HDI) ,Viet Nam,2019.0,0.704,4.52,True
+Regulation,Cybersecurity,# key internet controls employed,Viet Nam,2020.0,22.0,2.1,True
+Regulation,Ethical Standards,Rule of Law Index,Viet Nam,2020.0,0.49,3.45,True
+Strategy,Ambition,SDG Index,Viet Nam,2019.0,72.8,4.64,True

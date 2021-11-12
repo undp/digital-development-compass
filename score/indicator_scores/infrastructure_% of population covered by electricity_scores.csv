@@ -1,12 +1,12 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
 Aruba,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Africa Eastern and Southern,2019,% of population covered by electricity,43.64066111,2.9790060943227292,True,Connectivity Technology
-Afghanistan,2019,% of population covered by electricity,97.7,5.876714558404967,True,Connectivity Technology
-Africa Western and Central,2019,% of population covered by electricity,51.34142147,3.3917850689314766,True,Connectivity Technology
-Angola,2019,% of population covered by electricity,45.67031479,3.0878003335504602,True,Connectivity Technology
+Africa Eastern and Southern,2019,% of population covered by electricity,43.64066111,3.1820330555000003,True,Connectivity Technology
+Afghanistan,2019,% of population covered by electricity,97.7,5.885,True,Connectivity Technology
+Africa Western and Central,2019,% of population covered by electricity,51.34142147,3.5670710735,True,Connectivity Technology
+Angola,2019,% of population covered by electricity,45.67031479,3.2835157395,True,Connectivity Technology
 Albania,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Andorra,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Arab World,2019,% of population covered by electricity,89.51228232,5.437833519346597,True,Connectivity Technology
+Arab World,2019,% of population covered by electricity,89.51228232,5.475614116,True,Connectivity Technology
 United Arab Emirates,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Argentina,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Armenia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
@@ -15,100 +15,100 @@ Antigua and Barbuda,2019,% of population covered by electricity,100.0,6.0,True,C
 Australia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Austria,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Azerbaijan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Burundi,2019,% of population covered by electricity,11.0647974,1.2328627278762356,True,Connectivity Technology
+Burundi,2019,% of population covered by electricity,11.0647974,1.55323987,True,Connectivity Technology
 Belgium,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Benin,2019,% of population covered by electricity,40.31874084,2.800943308483408,True,Connectivity Technology
-Burkina Faso,2019,% of population covered by electricity,18.3791523,1.6249294556281,True,Connectivity Technology
-Bangladesh,2019,% of population covered by electricity,92.2,5.581901545895108,True,Connectivity Technology
+Benin,2019,% of population covered by electricity,40.31874084,3.015937042,True,Connectivity Technology
+Burkina Faso,2019,% of population covered by electricity,18.3791523,1.918957615,True,Connectivity Technology
+Bangladesh,2019,% of population covered by electricity,92.2,5.61,True,Connectivity Technology
 Bulgaria,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Bahrain,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Bahamas, The",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Bosnia and Herzegovina,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Belarus,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Belize,2019,% of population covered by electricity,92.72,5.609774776168767,True,Connectivity Technology
+Belize,2019,% of population covered by electricity,92.72,5.636,True,Connectivity Technology
 Bermuda,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Bolivia,2019,% of population covered by electricity,96.30310059,5.8018374450894505,True,Connectivity Technology
-Brazil,2019,% of population covered by electricity,99.8,5.989279526817823,True,Connectivity Technology
+Bolivia,2019,% of population covered by electricity,96.30310059,5.8151550295,True,Connectivity Technology
+Brazil,2019,% of population covered by electricity,99.8,5.99,True,Connectivity Technology
 Barbados,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Brunei Darussalam,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Bhutan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Botswana,2019,% of population covered by electricity,70.18318176,4.401747998401212,True,Connectivity Technology
-Central African Republic,2019,% of population covered by electricity,14.3,1.4062772414372775,True,Connectivity Technology
+Botswana,2019,% of population covered by electricity,70.18318176,4.5091590880000005,True,Connectivity Technology
+Central African Republic,2019,% of population covered by electricity,14.3,1.7149999999999999,True,Connectivity Technology
 Canada,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Central Europe and the Baltics,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Switzerland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Channel Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Chile,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 China,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Cote d'Ivoire,2019,% of population covered by electricity,68.55010986,4.314211480858631,True,Connectivity Technology
-Cameroon,2019,% of population covered by electricity,63.45231247,4.040957479820303,True,Connectivity Technology
-"Congo, Dem. Rep.",2019,% of population covered by electricity,19.1,1.6635685978095187,True,Connectivity Technology
-"Congo, Rep.",2019,% of population covered by electricity,48.32972336,3.23035092482614,True,Connectivity Technology
-Colombia,2019,% of population covered by electricity,99.7662735,5.98747170662393,True,Connectivity Technology
-Comoros,2019,% of population covered by electricity,84.04824066,5.144947958934965,True,Connectivity Technology
-Cabo Verde,2019,% of population covered by electricity,95.53353882,5.760587113502884,True,Connectivity Technology
-Costa Rica,2019,% of population covered by electricity,99.71,5.984455313885843,True,Connectivity Technology
-Caribbean small states,2019,% of population covered by electricity,98.28050491,5.907830995003852,True,Connectivity Technology
-Cuba,2019,% of population covered by electricity,99.8,5.989279526817823,True,Connectivity Technology
+Cote d'Ivoire,2019,% of population covered by electricity,68.55010986,4.427505493,True,Connectivity Technology
+Cameroon,2019,% of population covered by electricity,63.45231247,4.1726156235000005,True,Connectivity Technology
+"Congo, Dem. Rep.",2019,% of population covered by electricity,19.1,1.955,True,Connectivity Technology
+"Congo, Rep.",2019,% of population covered by electricity,48.32972336,3.416486168,True,Connectivity Technology
+Colombia,2019,% of population covered by electricity,99.7662735,5.988313675,True,Connectivity Technology
+Comoros,2019,% of population covered by electricity,84.04824066,5.202412033000001,True,Connectivity Technology
+Cabo Verde,2019,% of population covered by electricity,95.53353882,5.776676941,True,Connectivity Technology
+Costa Rica,2019,% of population covered by electricity,99.71,5.985499999999999,True,Connectivity Technology
+Caribbean small states,2019,% of population covered by electricity,98.28050491,5.9140252455,True,Connectivity Technology
+Cuba,2019,% of population covered by electricity,99.8,5.99,True,Connectivity Technology
 Curacao,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Cayman Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Cyprus,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Czech Republic,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Germany,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Djibouti,2019,% of population covered by electricity,61.27593613,3.9242985588838337,True,Connectivity Technology
+Djibouti,2019,% of population covered by electricity,61.27593613,4.0637968065,True,Connectivity Technology
 Dominica,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Denmark,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Dominican Republic,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Algeria,2019,% of population covered by electricity,99.5,5.973198817044558,True,Connectivity Technology
-East Asia & Pacific (excluding high income),2019,% of population covered by electricity,97.92847301,5.888961252287749,True,Connectivity Technology
-Early-demographic dividend,2019,% of population covered by electricity,92.54255259,5.600263175168009,True,Connectivity Technology
-East Asia & Pacific,2019,% of population covered by electricity,98.12820952,5.899667601782531,True,Connectivity Technology
-Europe & Central Asia (excluding high income),2019,% of population covered by electricity,99.98532524,5.999213398144826,True,Connectivity Technology
-Europe & Central Asia,2019,% of population covered by electricity,99.99332629,5.999642273354596,True,Connectivity Technology
+Algeria,2019,% of population covered by electricity,99.5,5.975,True,Connectivity Technology
+East Asia & Pacific (excluding high income),2019,% of population covered by electricity,97.92847301,5.8964236505,True,Connectivity Technology
+Early-demographic dividend,2019,% of population covered by electricity,92.54255259,5.6271276295,True,Connectivity Technology
+East Asia & Pacific,2019,% of population covered by electricity,98.12820952,5.906410476,True,Connectivity Technology
+Europe & Central Asia (excluding high income),2019,% of population covered by electricity,99.98532524,5.999266262,True,Connectivity Technology
+Europe & Central Asia,2019,% of population covered by electricity,99.99332629,5.999666314500001,True,Connectivity Technology
 Ecuador,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Egypt, Arab Rep.",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Euro area,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Eritrea,2019,% of population covered by electricity,50.38573074,3.340557784724377,True,Connectivity Technology
+Eritrea,2019,% of population covered by electricity,50.38573074,3.5192865369999997,True,Connectivity Technology
 Spain,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Estonia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Ethiopia,2019,% of population covered by electricity,48.2716217,3.2272365383867903,True,Connectivity Technology
+Ethiopia,2019,% of population covered by electricity,48.2716217,3.4135810849999997,True,Connectivity Technology
 European Union,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Fragile and conflict affected situations,2019,% of population covered by electricity,54.06689684,3.537876996995317,True,Connectivity Technology
+Fragile and conflict affected situations,2019,% of population covered by electricity,54.06689684,3.7033448420000004,True,Connectivity Technology
 Finland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Fiji,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 France,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Faroe Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-"Micronesia, Fed. Sts.",2019,% of population covered by electricity,82.11694336,5.041425854377663,True,Connectivity Technology
-Gabon,2019,% of population covered by electricity,90.68525696,5.500707735204064,True,Connectivity Technology
+"Micronesia, Fed. Sts.",2019,% of population covered by electricity,82.11694336,5.1058471679999995,True,Connectivity Technology
+Gabon,2019,% of population covered by electricity,90.68525696,5.534262848,True,Connectivity Technology
 United Kingdom,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Georgia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Ghana,2019,% of population covered by electricity,83.5,5.115560962470421,True,Connectivity Technology
+Ghana,2019,% of population covered by electricity,83.5,5.175,True,Connectivity Technology
 Gibraltar,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Guinea,2019,% of population covered by electricity,42.41838837,2.913489383670351,True,Connectivity Technology
-"Gambia, The",2019,% of population covered by electricity,59.92128754,3.8516861894819914,True,Connectivity Technology
-Guinea-Bissau,2019,% of population covered by electricity,31.0404129,2.303602979202353,True,Connectivity Technology
-Equatorial Guinea,2019,% of population covered by electricity,66.59217834,4.209261719095138,True,Connectivity Technology
+Guinea,2019,% of population covered by electricity,42.41838837,3.1209194185,True,Connectivity Technology
+"Gambia, The",2019,% of population covered by electricity,59.92128754,3.996064377,True,Connectivity Technology
+Guinea-Bissau,2019,% of population covered by electricity,31.0404129,2.552020645,True,Connectivity Technology
+Equatorial Guinea,2019,% of population covered by electricity,66.59217834,4.329608917,True,Connectivity Technology
 Greece,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Grenada,2019,% of population covered by electricity,95.42874146,5.754969727065669,True,Connectivity Technology
+Grenada,2019,% of population covered by electricity,95.42874146,5.7714370729999995,True,Connectivity Technology
 Greenland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Guatemala,2019,% of population covered by electricity,95.72457123,5.770826902644541,True,Connectivity Technology
+Guatemala,2019,% of population covered by electricity,95.72457123,5.7862285615,True,Connectivity Technology
 Guam,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Guyana,2019,% of population covered by electricity,92.02169037,5.572343727862414,True,Connectivity Technology
-High income,2019,% of population covered by electricity,99.99970841,5.999984370086124,True,Connectivity Technology
+Guyana,2019,% of population covered by electricity,92.02169037,5.6010845184999996,True,Connectivity Technology
+High income,2019,% of population covered by electricity,99.99970841,5.9999854205,True,Connectivity Technology
 "Hong Kong SAR, China",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Honduras,2019,% of population covered by electricity,92.77952576,5.612965497737411,True,Connectivity Technology
-Heavily indebted poor countries (HIPC),2019,% of population covered by electricity,44.62496514,3.0317671191063464,True,Connectivity Technology
+Honduras,2019,% of population covered by electricity,92.77952576,5.638976288,True,Connectivity Technology
+Heavily indebted poor countries (HIPC),2019,% of population covered by electricity,44.62496514,3.231248257,True,Connectivity Technology
 Croatia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Haiti,2019,% of population covered by electricity,45.37134552,3.0717748733438106,True,Connectivity Technology
+Haiti,2019,% of population covered by electricity,45.37134552,3.268567276,True,Connectivity Technology
 Hungary,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-IBRD only,2019,% of population covered by electricity,98.50206442,5.9197071089299085,True,Connectivity Technology
-IDA & IBRD total,2019,% of population covered by electricity,88.50726547,5.383962238406293,True,Connectivity Technology
-IDA total,2019,% of population covered by electricity,59.69449796,3.8395297314300554,True,Connectivity Technology
-IDA blend,2019,% of population covered by electricity,66.83906857,4.22249561954342,True,Connectivity Technology
-Indonesia,2019,% of population covered by electricity,98.85,5.938357279202483,True,Connectivity Technology
-IDA only,2019,% of population covered by electricity,56.07704629,3.6456257633497784,True,Connectivity Technology
+IBRD only,2019,% of population covered by electricity,98.50206442,5.925103221,True,Connectivity Technology
+IDA & IBRD total,2019,% of population covered by electricity,88.50726547,5.4253632734999995,True,Connectivity Technology
+IDA total,2019,% of population covered by electricity,59.69449796,3.984724898,True,Connectivity Technology
+IDA blend,2019,% of population covered by electricity,66.83906857,4.3419534285,True,Connectivity Technology
+Indonesia,2019,% of population covered by electricity,98.85,5.9425,True,Connectivity Technology
+IDA only,2019,% of population covered by electricity,56.07704629,3.8038523145,True,Connectivity Technology
 Isle of Man,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-India,2019,% of population covered by electricity,97.81528473,5.882894092686365,True,Connectivity Technology
+India,2019,% of population covered by electricity,97.81528473,5.890764236500001,True,Connectivity Technology
 Not classified,2019,% of population covered by electricity,,,True,Connectivity Technology
 Ireland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Iran, Islamic Rep.",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
@@ -116,152 +116,152 @@ Iraq,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Tec
 Iceland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Israel,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Italy,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Jamaica,2019,% of population covered by electricity,99.3837738,5.966968817743727,True,Connectivity Technology
+Jamaica,2019,% of population covered by electricity,99.3837738,5.969188689999999,True,Connectivity Technology
 Jordan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Japan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Kazakhstan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Kenya,2019,% of population covered by electricity,69.7,4.375848312900228,True,Connectivity Technology
-Kyrgyz Republic,2019,% of population covered by electricity,99.88175201,5.993661627971794,True,Connectivity Technology
-Cambodia,2019,% of population covered by electricity,93.0,5.624783438623815,True,Connectivity Technology
+Kenya,2019,% of population covered by electricity,69.7,4.484999999999999,True,Connectivity Technology
+Kyrgyz Republic,2019,% of population covered by electricity,99.88175201,5.9940876005,True,Connectivity Technology
+Cambodia,2019,% of population covered by electricity,93.0,5.65,True,Connectivity Technology
 Kiribati,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 St. Kitts and Nevis,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Korea, Rep.",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Kuwait,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Latin America & Caribbean (excluding high income),2019,% of population covered by electricity,98.27271963,5.907413685576573,True,Connectivity Technology
+Latin America & Caribbean (excluding high income),2019,% of population covered by electricity,98.27271963,5.9136359815,True,Connectivity Technology
 Lao PDR,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Lebanon,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Liberia,2019,% of population covered by electricity,27.64920998,2.1218264794064563,True,Connectivity Technology
-Libya,2019,% of population covered by electricity,68.53218842,4.3132508492741,True,Connectivity Technology
-St. Lucia,2019,% of population covered by electricity,99.54777527,5.975759684548589,True,Connectivity Technology
-Latin America & Caribbean,2019,% of population covered by electricity,98.4242947,5.915538467941682,True,Connectivity Technology
-Least developed countries: UN classification,2019,% of population covered by electricity,52.77828064,3.4688041199242248,True,Connectivity Technology
-Low income,2019,% of population covered by electricity,40.92334181,2.8333513509074226,True,Connectivity Technology
+Liberia,2019,% of population covered by electricity,27.64920998,2.382460499,True,Connectivity Technology
+Libya,2019,% of population covered by electricity,68.53218842,4.426609421,True,Connectivity Technology
+St. Lucia,2019,% of population covered by electricity,99.54777527,5.9773887635,True,Connectivity Technology
+Latin America & Caribbean,2019,% of population covered by electricity,98.4242947,5.921214735,True,Connectivity Technology
+Least developed countries: UN classification,2019,% of population covered by electricity,52.77828064,3.638914032,True,Connectivity Technology
+Low income,2019,% of population covered by electricity,40.92334181,3.0461670905,True,Connectivity Technology
 Liechtenstein,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Sri Lanka,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Lower middle income,2019,% of population covered by electricity,89.03552552,5.412278226902495,True,Connectivity Technology
-Low & middle income,2019,% of population covered by electricity,88.21043054,5.368051183873302,True,Connectivity Technology
-Lesotho,2019,% of population covered by electricity,44.64067841,3.0326093875545426,True,Connectivity Technology
-Late-demographic dividend,2019,% of population covered by electricity,99.37013627,5.966237813870546,True,Connectivity Technology
+Lower middle income,2019,% of population covered by electricity,89.03552552,5.4517762759999995,True,Connectivity Technology
+Low & middle income,2019,% of population covered by electricity,88.21043054,5.410521527,True,Connectivity Technology
+Lesotho,2019,% of population covered by electricity,44.64067841,3.2320339204999997,True,Connectivity Technology
+Late-demographic dividend,2019,% of population covered by electricity,99.37013627,5.9685068135,True,Connectivity Technology
 Lithuania,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Luxembourg,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Latvia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Macao SAR, China",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 St. Martin (French part),2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Morocco,2019,% of population covered by electricity,99.6,5.978559053635646,True,Connectivity Technology
+Morocco,2019,% of population covered by electricity,99.6,5.98,True,Connectivity Technology
 Monaco,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Moldova,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Madagascar,2019,% of population covered by electricity,26.9071846,2.0820521634725337,True,Connectivity Technology
+Madagascar,2019,% of population covered by electricity,26.9071846,2.3453592299999997,True,Connectivity Technology
 Maldives,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Middle East & North Africa,2019,% of population covered by electricity,97.2325398,5.851657585715793,True,Connectivity Technology
+Middle East & North Africa,2019,% of population covered by electricity,97.2325398,5.8616269899999995,True,Connectivity Technology
 Mexico,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Marshall Islands,2019,% of population covered by electricity,97.44360352,5.862971100465745,True,Connectivity Technology
-Middle income,2019,% of population covered by electricity,93.50516872,5.651861677199987,True,Connectivity Technology
+Marshall Islands,2019,% of population covered by electricity,97.44360352,5.872180176,True,Connectivity Technology
+Middle income,2019,% of population covered by electricity,93.50516872,5.675258436,True,Connectivity Technology
 North Macedonia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Mali,2019,% of population covered by electricity,48.02124786,3.2138159082005977,True,Connectivity Technology
+Mali,2019,% of population covered by electricity,48.02124786,3.401062393,True,Connectivity Technology
 Malta,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Myanmar,2019,% of population covered by electricity,68.35665131,4.303841644872942,True,Connectivity Technology
-Middle East & North Africa (excluding high income),2019,% of population covered by electricity,96.75464785,5.826041446546028,True,Connectivity Technology
+Myanmar,2019,% of population covered by electricity,68.35665131,4.4178325655,True,Connectivity Technology
+Middle East & North Africa (excluding high income),2019,% of population covered by electricity,96.75464785,5.8377323924999995,True,Connectivity Technology
 Montenegro,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Mongolia,2019,% of population covered by electricity,99.12526703,5.953112243267746,True,Connectivity Technology
+Mongolia,2019,% of population covered by electricity,99.12526703,5.9562633515000005,True,Connectivity Technology
 Northern Mariana Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Mozambique,2019,% of population covered by electricity,29.61616135,2.22725972647011,True,Connectivity Technology
-Mauritania,2019,% of population covered by electricity,45.81206894,3.095398691368147,True,Connectivity Technology
+Mozambique,2019,% of population covered by electricity,29.61616135,2.4808080675,True,Connectivity Technology
+Mauritania,2019,% of population covered by electricity,45.81206894,3.2906034470000005,True,Connectivity Technology
 Mauritius,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Malawi,2019,% of population covered by electricity,11.2,1.2401099071135384,True,Connectivity Technology
+Malawi,2019,% of population covered by electricity,11.2,1.56,True,Connectivity Technology
 Malaysia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 North America,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Namibia,2019,% of population covered by electricity,55.19511795,3.5983523177619205,True,Connectivity Technology
+Namibia,2019,% of population covered by electricity,55.19511795,3.7597558975,True,Connectivity Technology
 New Caledonia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Niger,2019,% of population covered by electricity,18.77472496,1.6461330860937613,True,Connectivity Technology
-Nigeria,2019,% of population covered by electricity,55.4,3.6093344803745926,True,Connectivity Technology
-Nicaragua,2019,% of population covered by electricity,88.21266937,5.368171190458174,True,Connectivity Technology
+Niger,2019,% of population covered by electricity,18.77472496,1.938736248,True,Connectivity Technology
+Nigeria,2019,% of population covered by electricity,55.4,3.77,True,Connectivity Technology
+Nicaragua,2019,% of population covered by electricity,88.21266937,5.4106334685,True,Connectivity Technology
 Netherlands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Norway,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Nepal,2019,% of population covered by electricity,89.9,5.458616104300076,True,Connectivity Technology
+Nepal,2019,% of population covered by electricity,89.9,5.495,True,Connectivity Technology
 Nauru,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 New Zealand,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-OECD members,2019,% of population covered by electricity,99.99030697,5.999480430659155,True,Connectivity Technology
+OECD members,2019,% of population covered by electricity,99.99030697,5.9995153485,True,Connectivity Technology
 Oman,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Other small states,2019,% of population covered by electricity,78.2433314,4.833791088700969,True,Connectivity Technology
-Pakistan,2019,% of population covered by electricity,73.91436005,4.601747982380537,True,Connectivity Technology
-Panama,2019,% of population covered by electricity,95.83455658,5.776722377620077,True,Connectivity Technology
-Peru,2019,% of population covered by electricity,98.34660339,5.911374029914965,True,Connectivity Technology
-Philippines,2019,% of population covered by electricity,95.62862396,5.76568390196985,True,Connectivity Technology
+Other small states,2019,% of population covered by electricity,78.2433314,4.91216657,True,Connectivity Technology
+Pakistan,2019,% of population covered by electricity,73.91436005,4.6957180025,True,Connectivity Technology
+Panama,2019,% of population covered by electricity,95.83455658,5.791727829,True,Connectivity Technology
+Peru,2019,% of population covered by electricity,98.34660339,5.9173301695,True,Connectivity Technology
+Philippines,2019,% of population covered by electricity,95.62862396,5.781431198,True,Connectivity Technology
 Palau,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Papua New Guinea,2019,% of population covered by electricity,63.46451187,4.041611396522997,True,Connectivity Technology
+Papua New Guinea,2019,% of population covered by electricity,63.46451187,4.1732255935,True,Connectivity Technology
 Poland,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Pre-demographic dividend,2019,% of population covered by electricity,47.23105972,3.1714599543818767,True,Connectivity Technology
+Pre-demographic dividend,2019,% of population covered by electricity,47.23105972,3.361552986,True,Connectivity Technology
 Puerto Rico,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-"Korea, Dem. People's Rep.",2019,% of population covered by electricity,49.37275696,3.286259993510686,True,Connectivity Technology
+"Korea, Dem. People's Rep.",2019,% of population covered by electricity,49.37275696,3.4686378479999997,True,Connectivity Technology
 Portugal,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Paraguay,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 West Bank and Gaza,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Pacific island small states,2019,% of population covered by electricity,86.74578058,5.289542480786022,True,Connectivity Technology
-Post-demographic dividend,2019,% of population covered by electricity,99.9979629,5.999890806620403,True,Connectivity Technology
+Pacific island small states,2019,% of population covered by electricity,86.74578058,5.337289029,True,Connectivity Technology
+Post-demographic dividend,2019,% of population covered by electricity,99.9979629,5.999898145,True,Connectivity Technology
 French Polynesia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Qatar,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Romania,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Russian Federation,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Rwanda,2019,% of population covered by electricity,37.78243637,2.664991388221058,True,Connectivity Technology
-South Asia,2019,% of population covered by electricity,94.39872919,5.699758632476429,True,Connectivity Technology
+Rwanda,2019,% of population covered by electricity,37.78243637,2.8891218185,True,Connectivity Technology
+South Asia,2019,% of population covered by electricity,94.39872919,5.7199364594999995,True,Connectivity Technology
 Saudi Arabia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Sudan,2019,% of population covered by electricity,53.82707214,3.525021825671449,True,Connectivity Technology
-Senegal,2019,% of population covered by electricity,70.4,4.413369969037847,True,Connectivity Technology
+Sudan,2019,% of population covered by electricity,53.82707214,3.691353607,True,Connectivity Technology
+Senegal,2019,% of population covered by electricity,70.4,4.52,True,Connectivity Technology
 Singapore,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Solomon Islands,2019,% of population covered by electricity,70.25849152,4.405784779713393,True,Connectivity Technology
-Sierra Leone,2019,% of population covered by electricity,22.7,1.8565371150886996,True,Connectivity Technology
+Solomon Islands,2019,% of population covered by electricity,70.25849152,4.5129245760000005,True,Connectivity Technology
+Sierra Leone,2019,% of population covered by electricity,22.7,2.135,True,Connectivity Technology
 El Salvador,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 San Marino,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Somalia,2019,% of population covered by electricity,36.0331955,2.5712279390410457,True,Connectivity Technology
-Serbia,2019,% of population covered by electricity,99.8,5.989279526817823,True,Connectivity Technology
-Sub-Saharan Africa (excluding high income),2019,% of population covered by electricity,46.74498892,3.145405409501681,True,Connectivity Technology
-South Sudan,2019,% of population covered by electricity,6.720535278,1.0,True,Connectivity Technology
-Sub-Saharan Africa,2019,% of population covered by electricity,46.74968559,3.1456571621255836,True,Connectivity Technology
-Small states,2019,% of population covered by electricity,82.35172866,5.054010901938761,True,Connectivity Technology
-Sao Tome and Principe,2019,% of population covered by electricity,75.18190765,4.669691532645199,True,Connectivity Technology
-Suriname,2019,% of population covered by electricity,97.88735199,5.88675706832708,True,Connectivity Technology
+Somalia,2019,% of population covered by electricity,36.0331955,2.801659775,True,Connectivity Technology
+Serbia,2019,% of population covered by electricity,99.8,5.99,True,Connectivity Technology
+Sub-Saharan Africa (excluding high income),2019,% of population covered by electricity,46.74498892,3.337249446,True,Connectivity Technology
+South Sudan,2019,% of population covered by electricity,6.720535278,1.3360267639,True,Connectivity Technology
+Sub-Saharan Africa,2019,% of population covered by electricity,46.74968559,3.3374842795,True,Connectivity Technology
+Small states,2019,% of population covered by electricity,82.35172866,5.1175864330000005,True,Connectivity Technology
+Sao Tome and Principe,2019,% of population covered by electricity,75.18190765,4.7590953825,True,Connectivity Technology
+Suriname,2019,% of population covered by electricity,97.88735199,5.8943675995,True,Connectivity Technology
 Slovak Republic,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Slovenia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Sweden,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Eswatini,2019,% of population covered by electricity,77.16963959,4.77623866742583,True,Connectivity Technology
+Eswatini,2019,% of population covered by electricity,77.16963959,4.8584819795000005,True,Connectivity Technology
 Sint Maarten (Dutch part),2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Seychelles,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Syrian Arab Republic,2019,% of population covered by electricity,89.32488251,5.427788446159346,True,Connectivity Technology
+Syrian Arab Republic,2019,% of population covered by electricity,89.32488251,5.4662441255,True,Connectivity Technology
 Turks and Caicos Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Chad,2019,% of population covered by electricity,8.4,1.0900232825630645,True,Connectivity Technology
-East Asia & Pacific (IDA & IBRD countries),2019,% of population covered by electricity,98.53113688,5.921265461568758,True,Connectivity Technology
-Europe & Central Asia (IDA & IBRD countries),2019,% of population covered by electricity,99.98666379,5.999285147591715,True,Connectivity Technology
-Togo,2019,% of population covered by electricity,52.44109726,3.4507302930103965,True,Connectivity Technology
-Thailand,2019,% of population covered by electricity,99.9,5.994639763408912,True,Connectivity Technology
-Tajikistan,2019,% of population covered by electricity,99.63539124,5.9804561078321665,True,Connectivity Technology
-Turkmenistan,2019,% of population covered by electricity,99.9,5.994639763408912,True,Connectivity Technology
-Latin America & the Caribbean (IDA & IBRD countries),2019,% of population covered by electricity,98.38844661,5.913616925504296,True,Connectivity Technology
-Timor-Leste,2019,% of population covered by electricity,94.71617889,5.716774687454128,True,Connectivity Technology
-Middle East & North Africa (IDA & IBRD countries),2019,% of population covered by electricity,96.7151297,5.823923180209606,True,Connectivity Technology
-Tonga,2019,% of population covered by electricity,98.4,5.914236214542587,True,Connectivity Technology
-South Asia (IDA & IBRD),2019,% of population covered by electricity,94.39872919,5.699758632476429,True,Connectivity Technology
-Sub-Saharan Africa (IDA & IBRD countries),2019,% of population covered by electricity,46.74968559,3.1456571621255836,True,Connectivity Technology
+Chad,2019,% of population covered by electricity,8.4,1.42,True,Connectivity Technology
+East Asia & Pacific (IDA & IBRD countries),2019,% of population covered by electricity,98.53113688,5.926556844,True,Connectivity Technology
+Europe & Central Asia (IDA & IBRD countries),2019,% of population covered by electricity,99.98666379,5.9993331895,True,Connectivity Technology
+Togo,2019,% of population covered by electricity,52.44109726,3.6220548630000002,True,Connectivity Technology
+Thailand,2019,% of population covered by electricity,99.9,5.995,True,Connectivity Technology
+Tajikistan,2019,% of population covered by electricity,99.63539124,5.981769562,True,Connectivity Technology
+Turkmenistan,2019,% of population covered by electricity,99.9,5.995,True,Connectivity Technology
+Latin America & the Caribbean (IDA & IBRD countries),2019,% of population covered by electricity,98.38844661,5.919422330500001,True,Connectivity Technology
+Timor-Leste,2019,% of population covered by electricity,94.71617889,5.7358089445,True,Connectivity Technology
+Middle East & North Africa (IDA & IBRD countries),2019,% of population covered by electricity,96.7151297,5.835756485000001,True,Connectivity Technology
+Tonga,2019,% of population covered by electricity,98.4,5.92,True,Connectivity Technology
+South Asia (IDA & IBRD),2019,% of population covered by electricity,94.39872919,5.7199364594999995,True,Connectivity Technology
+Sub-Saharan Africa (IDA & IBRD countries),2019,% of population covered by electricity,46.74968559,3.3374842795,True,Connectivity Technology
 Trinidad and Tobago,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Tunisia,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Turkey,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Tuvalu,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Tanzania,2019,% of population covered by electricity,37.7,2.6605726037519535,True,Connectivity Technology
-Uganda,2019,% of population covered by electricity,41.3,2.8535411210311343,True,Connectivity Technology
+Tanzania,2019,% of population covered by electricity,37.7,2.885,True,Connectivity Technology
+Uganda,2019,% of population covered by electricity,41.3,3.065,True,Connectivity Technology
 Ukraine,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Upper middle income,2019,% of population covered by electricity,99.37740261,5.966627306886059,True,Connectivity Technology
-Uruguay,2019,% of population covered by electricity,99.9,5.994639763408912,True,Connectivity Technology
+Upper middle income,2019,% of population covered by electricity,99.37740261,5.9688701305,True,Connectivity Technology
+Uruguay,2019,% of population covered by electricity,99.9,5.995,True,Connectivity Technology
 United States,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Uzbekistan,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 St. Vincent and the Grenadines,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 "Venezuela, RB",2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 British Virgin Islands,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
 Virgin Islands (U.S.),2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-Vietnam,2019,% of population covered by electricity,99.4,5.967838580453471,True,Connectivity Technology
-Vanuatu,2019,% of population covered by electricity,64.66623688,4.106026700233277,True,Connectivity Technology
-World,2019,% of population covered by electricity,90.08403052,5.468480575571886,True,Connectivity Technology
-Samoa,2019,% of population covered by electricity,99.2,5.9571181072712935,True,Connectivity Technology
+Vietnam,2019,% of population covered by electricity,99.4,5.97,True,Connectivity Technology
+Vanuatu,2019,% of population covered by electricity,64.66623688,4.233311843999999,True,Connectivity Technology
+World,2019,% of population covered by electricity,90.08403052,5.504201526,True,Connectivity Technology
+Samoa,2019,% of population covered by electricity,99.2,5.96,True,Connectivity Technology
 Kosovo,2019,% of population covered by electricity,100.0,6.0,True,Connectivity Technology
-"Yemen, Rep.",2019,% of population covered by electricity,72.75170135,4.539426725313666,True,Connectivity Technology
-South Africa,2019,% of population covered by electricity,85.0,5.195964511336746,True,Connectivity Technology
-Zambia,2019,% of population covered by electricity,43.0,2.9446651430796362,True,Connectivity Technology
-Zimbabwe,2019,% of population covered by electricity,41.08910751,2.8422367846142964,True,Connectivity Technology
+"Yemen, Rep.",2019,% of population covered by electricity,72.75170135,4.6375850675,True,Connectivity Technology
+South Africa,2019,% of population covered by electricity,85.0,5.25,True,Connectivity Technology
+Zambia,2019,% of population covered by electricity,43.0,3.15,True,Connectivity Technology
+Zimbabwe,2019,% of population covered by electricity,41.08910751,3.0544553755,True,Connectivity Technology

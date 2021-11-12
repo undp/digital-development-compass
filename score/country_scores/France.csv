@@ -1,20 +1,20 @@
 Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-Business,Financing Incentives,France,4.566738832431249,1,0.5074154258256943
-Business,Startup Environment,France,3.947115681148588,8,3.5085472721320774
-Business,Technology Adoption,France,4.258774741658725,9,4.258774741658725
-Foundations,Data Exchange,France,4.876404494382022,1,0.5418227215980025
-Foundations,Digital Legal Identity,France,4.4188311688311686,3,1.4729437229437228
-Foundations,Digital Payments,France,4.934123767996733,8,4.385887793774874
+Business,Financing Incentives,France,3.685918410833334,1,0.4095464900925926
+Business,Startup Environment,France,17.468061381374106,8,15.527165672332538
+Business,Technology Adoption,France,3.678824166666667,9,3.678824166666667
+Foundations,Data Exchange,France,4.5,1,0.5
+Foundations,Digital Legal Identity,France,1.95025,3,0.6500833333333333
+Foundations,Digital Payments,France,4.79375,8,4.261111111111111
 Government,Capabilities,France,4.738317757009346,1,0.7897196261682243
 Government,Digital Public Services,France,4.865984365696591,6,4.865984365696591
 Government,Funding and procurement,France,6.0,1,1.0
 Government,Leadership and coordination,France,3.5,1,0.5833333333333333
-Infrastructure,Connectivity Technology,France,4.611103834125943,23,4.611103834125943
-Infrastructure,Innovation Ecosystem,France,3.033721042280927,14,1.8466128083449125
-People,Culture,France,4.938445341919496,3,0.9259585016099054
-People,Digital Literacy Skills,France,4.33247734471915,5,1.3538991702247345
-People,Digital Wellbeing,France,3.686248090346499,8,1.8431240451732496
-People,Usage and ownership,France,4.079409605576415,13,3.314520304530837
-Regulation,Cybersecurity,France,4.941176470588236,1,4.941176470588236
-Regulation,Ethical Standards,France,4.65079365079365,1,4.65079365079365
-Strategy,Ambition,France,5.5588235294117645,1,5.5588235294117645
+Infrastructure,Connectivity Technology,France,23.994991583021736,23,23.994991583021736
+Infrastructure,Innovation Ecosystem,France,274.4062615858997,14,167.02989835663462
+People,Culture,France,4.365829384166667,3,0.8185930095312501
+People,Digital Literacy Skills,France,4.418435343600001,5,1.3807610448750005
+People,Digital Wellbeing,France,3.088017721200912,8,1.544008860600456
+People,Usage and ownership,France,4.033761574240818,13,3.2774312790706643
+Regulation,Cybersecurity,France,4.9,1,4.9
+Regulation,Ethical Standards,France,4.65,1,4.65
+Strategy,Ambition,France,5.085,1,5.085

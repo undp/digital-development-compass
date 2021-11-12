@@ -19,8 +19,8 @@ Japan,4.85,2,4.85
 "Hong Kong SAR, China",4.8,1,2.4
 France,4.775,2,4.775
 United States,4.675,2,4.675
-Republic of Korea,4.65,1,2.325
 Spain,4.65,1,2.325
+Republic of Korea,4.65,1,2.325
 Czech Republic,4.65,1,2.325
 Italy,4.550000000000001,2,4.550000000000001
 Armenia,4.55,1,2.275
@@ -37,15 +37,15 @@ Barbados,4.25,1,2.125
 Argentina,4.225,2,4.225
 St. Vincent and the Grenadines,4.2,1,2.1
 Antigua and Barbuda,4.15,1,2.075
-Romania,4.15,1,2.075
 St. Kitts and Nevis,4.15,1,2.075
 Namibia,4.15,1,2.075
+Romania,4.15,1,2.075
 St. Lucia,4.1,1,2.05
 Hungary,4.075,2,4.075
 The Bahamas,4.05,1,2.025
 Greece,4.05,1,2.025
-Mauritius,4.05,1,2.025
 Croatia,4.05,1,2.025
+Mauritius,4.05,1,2.025
 Serbia,4.025,2,4.025
 Ghana,4.025,2,4.025
 Botswana,4.0,1,2.0
@@ -61,62 +61,62 @@ Philippines,3.8,2,3.8
 Malawi,3.7750000000000004,2,3.7750000000000004
 Kenya,3.775,2,3.775
 Ecuador,3.775,2,3.775
-Bulgaria,3.75,1,1.875
 Senegal,3.75,1,1.875
-Trinidad and Tobago,3.7,1,1.85
+Bulgaria,3.75,1,1.875
 Kosovo,3.7,1,1.85
-Mongolia,3.65,1,1.825
+Trinidad and Tobago,3.7,1,1.85
+North Macedonia,3.65,1,1.825
+"Gambia, The",3.65,1,1.825
 Kyrgyzstan,3.65,1,1.825
 Nepal,3.65,1,1.825
-"Gambia, The",3.65,1,1.825
-North Macedonia,3.65,1,1.825
+Mongolia,3.65,1,1.825
 Angola,3.625,2,3.625
 Panama,3.6,1,1.8
 Mexico,3.6,2,3.6
+Jordan,3.6,2,3.6
 Bosnia and Herzegovina,3.6,1,1.8
 Zambia,3.6,2,3.6
-Jordan,3.6,2,3.6
 Sri Lanka,3.575,2,3.575
 Morocco,3.575,2,3.575
-Nigeria,3.55,2,3.55
 Burkina Faso,3.55,1,1.775
+Nigeria,3.55,2,3.55
 Indonesia,3.525,2,3.525
-The Gambia,3.5,1,1.75
 India,3.5,2,3.5
-Guyana,3.5,1,1.75
-Suriname,3.5,1,1.75
-Moldova,3.5,1,1.75
-Rwanda,3.5,2,3.5
-Peru,3.5,1,1.75
+The Gambia,3.5,1,1.75
 Albania,3.5,1,1.75
+Peru,3.5,1,1.75
+Rwanda,3.5,2,3.5
 Benin,3.5,1,1.75
-El Salvador,3.45,1,1.725
+Moldova,3.5,1,1.75
+Suriname,3.5,1,1.75
+Guyana,3.5,1,1.75
 Algeria,3.45,1,1.725
+El Salvador,3.45,1,1.725
 Belize,3.4,1,1.7
-Dominican Republic,3.4,1,1.7
+Lebanon,3.4,2,3.4
 Libya,3.4,1,1.7
 Kyrgyz Republic,3.4,1,1.7
-Lebanon,3.4,2,3.4
-Russian Federation,3.35,1,1.675
+Dominican Republic,3.4,1,1.7
 Tanzania,3.35,1,1.675
+Russian Federation,3.35,1,1.675
 Cote d'Ivoire,3.3000000000000003,1,1.6500000000000001
 United Arab Emirates,3.3,2,3.3
-Guatemala,3.25,1,1.625
-Liberia,3.25,1,1.625
 Togo,3.25,1,1.625
+Guatemala,3.25,1,1.625
 Sierra Leone,3.25,1,1.625
 Niger,3.25,1,1.625
+Liberia,3.25,1,1.625
 Uganda,3.225,2,3.225
-Mali,3.2,1,1.6
 Madagascar,3.2,1,1.6
+Mali,3.2,1,1.6
 Nicaragua,3.175,2,3.175
 Thailand,3.175,2,3.175
 Zimbabwe,3.125,2,3.125
 Kazakhstan,3.125,2,3.125
 Guinea,3.1,1,1.55
 Mozambique,3.05,1,1.525
-Belarus,3.05,2,3.05
 Iraq,3.05,1,1.525
+Belarus,3.05,2,3.05
 Bangladesh,3.025,2,3.025
 Honduras,3.0,1,1.5
 Turkey,2.925,2,2.925
@@ -128,8 +128,8 @@ Mauritania,2.8,1,1.4
 Cameroon,2.8,1,1.4
 Vietnam,2.7750000000000004,2,2.7750000000000004
 Azerbaijan,2.75,1,1.375
-Ethiopia,2.7,2,2.7
 "Congo, Dem. Rep.",2.7,1,1.35
+Ethiopia,2.7,2,2.7
 Sudan,2.65,1,1.325
 Pakistan,2.6,2,2.6
 Egypt,2.55,2,2.55
@@ -142,4 +142,3 @@ Venezuela,2.4,1,1.2
 "Venezuela, RB",2.35,1,1.175
 Saudi Arabia,2.2,1,1.1
 Cuba,2.05,1,1.025
-June 2020-May 2021 coverage period,0.0,0,0.0
