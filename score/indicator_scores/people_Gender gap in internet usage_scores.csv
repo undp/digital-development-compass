@@ -1,87 +1,87 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Cabo Verde,2019.0,Gender gap in internet usage,60.965017,3.7663895306075448,True,Usage and ownership
-Côte d'Ivoire,2019.0,Gender gap in internet usage,32.92444456,2.1515544499161354,True,Usage and ownership
-Kenya,2019.0,Gender gap in internet usage,20.12512243,1.4144512959480746,True,Usage and ownership
-Lesotho,2019.0,Gender gap in internet usage,44.92276804,2.842528705397042,True,Usage and ownership
-Mauritius,2019.0,Gender gap in internet usage,60.13064467,3.7183386674618197,True,Usage and ownership
-Bahrain,2019.0,Gender gap in internet usage,99.31640309,5.975016468726947,True,Usage and ownership
-Egypt,2019.0,Gender gap in internet usage,52.98698988,3.3069410619412807,True,Usage and ownership
-Kuwait,2019.0,Gender gap in internet usage,99.57995943,5.99019447639713,True,Usage and ownership
-Morocco,2019.0,Gender gap in internet usage,70.16712968,4.296332148716921,True,Usage and ownership
-Oman,2019.0,Gender gap in internet usage,97.15346632,5.850454597495999,True,Usage and ownership
-Palestine,2019.0,Gender gap in internet usage,68.93449038,4.225345395941524,True,Usage and ownership
-Qatar,2019.0,Gender gap in internet usage,99.3194985,5.975194731016985,True,Usage and ownership
-Saudi Arabia,2019.0,Gender gap in internet usage,94.56689044,5.701495674534216,True,Usage and ownership
-Tunisia,2019.0,Gender gap in internet usage,61.11255938,3.7748863832171873,True,Usage and ownership
-United Arab Emirates,2019.0,Gender gap in internet usage,99.50150764,5.985676497924825,True,Usage and ownership
-Brunei Darussalam,2019.0,Gender gap in internet usage,99.75022604,6.0,True,Usage and ownership
-Cambodia,2019.0,Gender gap in internet usage,77.78378557,4.734969525148701,True,Usage and ownership
-China,2019.0,Gender gap in internet usage,63.52405152,3.9137623677505333,True,Usage and ownership
-"Hong Kong, China",2019.0,Gender gap in internet usage,90.47216801,5.465683747377355,True,Usage and ownership
-Indonesia,2019.0,Gender gap in internet usage,44.86402159,2.839145542356092,True,Usage and ownership
-Iran (Islamic Republic of),2019.0,Gender gap in internet usage,71.61635451,4.379791896206051,True,Usage and ownership
-Japan,2019.0,Gender gap in internet usage,90.9524801,5.493344552600639,True,Usage and ownership
-Korea (Rep. of),2019.0,Gender gap in internet usage,95.31349602,5.7444921177988375,True,Usage and ownership
-"Macao, China",2019.0,Gender gap in internet usage,85.75598365,5.194082303867875,True,Usage and ownership
-Malaysia,2019.0,Gender gap in internet usage,82.36896816,4.999026677104171,True,Usage and ownership
-Mongolia,2019.0,Gender gap in internet usage,55.04734908,3.4255955695161364,True,Usage and ownership
-Pakistan,2019.0,Gender gap in internet usage,12.92844227,1.0,True,Usage and ownership
-Singapore,2019.0,Gender gap in internet usage,87.80582903,5.312131328605159,True,Usage and ownership
-Thailand,2019.0,Gender gap in internet usage,65.57296567,4.031757763665675,True,Usage and ownership
-Viet Nam,2019.0,Gender gap in internet usage,65.50475236,4.02782941141132,True,Usage and ownership
-Armenia,2019.0,Gender gap in internet usage,67.22694118,4.127008945925507,True,Usage and ownership
-Azerbaijan,2019.0,Gender gap in internet usage,78.03007612,4.749153209202719,True,Usage and ownership
-Belarus,2019.0,Gender gap in internet usage,83.03013958,5.037103032558438,True,Usage and ownership
-Kazakhstan,2019.0,Gender gap in internet usage,80.99023385,4.919626424648381,True,Usage and ownership
-Russian Federation,2019.0,Gender gap in internet usage,81.98767073,4.977068050280165,True,Usage and ownership
-Uzbekistan,2019.0,Gender gap in internet usage,65.91775518,4.051613927351127,True,Usage and ownership
-Albania,2019.0,Gender gap in internet usage,65.96156004,4.054136615672991,True,Usage and ownership
-Austria,2019.0,Gender gap in internet usage,85.26650739,5.165893741116349,True,Usage and ownership
-Belgium,2019.0,Gender gap in internet usage,89.2103486,5.393016534426358,True,Usage and ownership
-Bosnia and Herzegovina,2019.0,Gender gap in internet usage,67.45225822,4.139984781609607,True,Usage and ownership
-Bulgaria,2019.0,Gender gap in internet usage,66.69928025,4.09662135728774,True,Usage and ownership
-Croatia,2019.0,Gender gap in internet usage,76.1521023,4.641002135909007,True,Usage and ownership
-Cyprus,2019.0,Gender gap in internet usage,85.84730878,5.199341648126564,True,Usage and ownership
-Czech Republic,2019.0,Gender gap in internet usage,78.33164069,4.7665200817147415,True,Usage and ownership
-Denmark,2019.0,Gender gap in internet usage,98.05809938,5.9025517222450405,True,Usage and ownership
-Estonia,2019.0,Gender gap in internet usage,89.48928179,5.409080083105508,True,Usage and ownership
-Finland,2019.0,Gender gap in internet usage,88.88643491,5.37436259321858,True,Usage and ownership
-France,2019.0,Gender gap in internet usage,82.16576693,4.987324473971701,True,Usage and ownership
-Georgia,2019.0,Gender gap in internet usage,67.7768481,4.158677664081354,True,Usage and ownership
-Germany,2019.0,Gender gap in internet usage,85.2831396,5.166851577345795,True,Usage and ownership
-Greece,2019.0,Gender gap in internet usage,73.99621178,4.51684605281636,True,Usage and ownership
-Hungary,2019.0,Gender gap in internet usage,79.65167855,4.842540050591269,True,Usage and ownership
-Ireland,2019.0,Gender gap in internet usage,87.98193266,5.322273001717204,True,Usage and ownership
-Israel,2019.0,Gender gap in internet usage,86.06911373,5.212115225238708,True,Usage and ownership
-Latvia,2019.0,Gender gap in internet usage,85.01046862,5.151148664542117,True,Usage and ownership
-Lithuania,2019.0,Gender gap in internet usage,82.34446641,4.997615640096171,True,Usage and ownership
-Luxembourg,2019.0,Gender gap in internet usage,96.88050643,5.8347350465867995,True,Usage and ownership
-Malta,2019.0,Gender gap in internet usage,85.81534372,5.197500804814436,True,Usage and ownership
-Montenegro,2019.0,Gender gap in internet usage,71.08089856,4.348955398339427,True,Usage and ownership
-Netherlands,2019.0,Gender gap in internet usage,92.0,5.553670420978037,True,Usage and ownership
-North Macedonia,2019.0,Gender gap in internet usage,80.76745136,4.9067965517566785,True,Usage and ownership
-Norway,2019.0,Gender gap in internet usage,97.00000891,5.841617102841056,True,Usage and ownership
-Poland,2019.0,Gender gap in internet usage,79.96973525,4.860856692232874,True,Usage and ownership
-Portugal,2019.0,Gender gap in internet usage,74.05943938,4.520487281852122,True,Usage and ownership
-Romania,2019.0,Gender gap in internet usage,72.04119809,4.404258312441257,True,Usage and ownership
-Serbia,2019.0,Gender gap in internet usage,73.73677398,4.5019052287089405,True,Usage and ownership
-Slovakia,2019.0,Gender gap in internet usage,82.31635059,4.9959964715661584,True,Usage and ownership
-Slovenia,2019.0,Gender gap in internet usage,81.96276645,4.975633831877905,True,Usage and ownership
-Spain,2019.0,Gender gap in internet usage,90.74373116,5.481322861100208,True,Usage and ownership
-Sweden,2019.0,Gender gap in internet usage,94.07715545,5.673292211720243,True,Usage and ownership
-Switzerland,2019.0,Gender gap in internet usage,91.25823773,5.510952900225123,True,Usage and ownership
-Turkey,2019.0,Gender gap in internet usage,67.59839643,4.148400769144898,True,Usage and ownership
-Ukraine,2019.0,Gender gap in internet usage,68.17509986,4.181612677778782,True,Usage and ownership
-United Kingdom,2019.0,Gender gap in internet usage,91.401132,5.519182071741487,True,Usage and ownership
-Bolivia (Plurinational State of),2019.0,Gender gap in internet usage,44.43076351,2.8141945415135075,True,Usage and ownership
-Brazil,2019.0,Gender gap in internet usage,73.47293867,4.4867111553702195,True,Usage and ownership
-Colombia,2019.0,Gender gap in internet usage,65.89683719,4.050409276335467,True,Usage and ownership
-Costa Rica,2019.0,Gender gap in internet usage,81.97330054,4.976240482049243,True,Usage and ownership
-Cuba,2019.0,Gender gap in internet usage,75.11275379,4.58114685162037,True,Usage and ownership
-El Salvador,2019.0,Gender gap in internet usage,48.87095779,3.069901927793576,True,Usage and ownership
-Guatemala,2019.0,Gender gap in internet usage,41.84880108,2.665501303602162,True,Usage and ownership
-Mexico,2019.0,Gender gap in internet usage,68.5746531,4.204622642712147,True,Usage and ownership
-Panama,2019.0,Gender gap in internet usage,63.81149369,3.9303159420678653,True,Usage and ownership
-Paraguay,2019.0,Gender gap in internet usage,69.01722958,4.230110283070496,True,Usage and ownership
-Peru,2019.0,Gender gap in internet usage,56.99214438,3.5375948406409945,True,Usage and ownership
-Uruguay,2019.0,Gender gap in internet usage,83.83570588,5.083494978509124,True,Usage and ownership
+Cabo Verde,2019.0,Gender gap in internet usage,60.965017,4.0482508500000005,True,Usage and ownership
+Côte d'Ivoire,2019.0,Gender gap in internet usage,32.92444456,2.646222228,True,Usage and ownership
+Kenya,2019.0,Gender gap in internet usage,20.12512243,2.0062561215,True,Usage and ownership
+Lesotho,2019.0,Gender gap in internet usage,44.92276804,3.246138402,True,Usage and ownership
+Mauritius,2019.0,Gender gap in internet usage,60.13064467,4.0065322335,True,Usage and ownership
+Bahrain,2019.0,Gender gap in internet usage,99.31640309,5.965820154499999,True,Usage and ownership
+Egypt,2019.0,Gender gap in internet usage,52.98698988,3.649349494,True,Usage and ownership
+Kuwait,2019.0,Gender gap in internet usage,99.57995943,5.9789979715,True,Usage and ownership
+Morocco,2019.0,Gender gap in internet usage,70.16712968,4.508356484,True,Usage and ownership
+Oman,2019.0,Gender gap in internet usage,97.15346632,5.8576733160000005,True,Usage and ownership
+Palestine,2019.0,Gender gap in internet usage,68.93449038,4.446724519,True,Usage and ownership
+Qatar,2019.0,Gender gap in internet usage,99.3194985,5.965974925,True,Usage and ownership
+Saudi Arabia,2019.0,Gender gap in internet usage,94.56689044,5.7283445219999996,True,Usage and ownership
+Tunisia,2019.0,Gender gap in internet usage,61.11255938,4.055627969,True,Usage and ownership
+United Arab Emirates,2019.0,Gender gap in internet usage,99.50150764,5.975075382,True,Usage and ownership
+Brunei Darussalam,2019.0,Gender gap in internet usage,99.75022604,5.987511302000001,True,Usage and ownership
+Cambodia,2019.0,Gender gap in internet usage,77.78378557,4.8891892785,True,Usage and ownership
+China,2019.0,Gender gap in internet usage,63.52405152,4.176202576,True,Usage and ownership
+"Hong Kong, China",2019.0,Gender gap in internet usage,90.47216801,5.523608400500001,True,Usage and ownership
+Indonesia,2019.0,Gender gap in internet usage,44.86402159,3.2432010795,True,Usage and ownership
+Iran (Islamic Republic of),2019.0,Gender gap in internet usage,71.61635451,4.580817725499999,True,Usage and ownership
+Japan,2019.0,Gender gap in internet usage,90.9524801,5.547624005,True,Usage and ownership
+Korea (Rep. of),2019.0,Gender gap in internet usage,95.31349602,5.765674801,True,Usage and ownership
+"Macao, China",2019.0,Gender gap in internet usage,85.75598365,5.287799182500001,True,Usage and ownership
+Malaysia,2019.0,Gender gap in internet usage,82.36896816,5.118448408,True,Usage and ownership
+Mongolia,2019.0,Gender gap in internet usage,55.04734908,3.752367454,True,Usage and ownership
+Pakistan,2019.0,Gender gap in internet usage,12.92844227,1.6464221135,True,Usage and ownership
+Singapore,2019.0,Gender gap in internet usage,87.80582903,5.3902914514999996,True,Usage and ownership
+Thailand,2019.0,Gender gap in internet usage,65.57296567,4.278648283500001,True,Usage and ownership
+Viet Nam,2019.0,Gender gap in internet usage,65.50475236,4.275237618,True,Usage and ownership
+Armenia,2019.0,Gender gap in internet usage,67.22694118,4.361347059,True,Usage and ownership
+Azerbaijan,2019.0,Gender gap in internet usage,78.03007612,4.901503806,True,Usage and ownership
+Belarus,2019.0,Gender gap in internet usage,83.03013958,5.151506979,True,Usage and ownership
+Kazakhstan,2019.0,Gender gap in internet usage,80.99023385,5.049511692499999,True,Usage and ownership
+Russian Federation,2019.0,Gender gap in internet usage,81.98767073,5.0993835365,True,Usage and ownership
+Uzbekistan,2019.0,Gender gap in internet usage,65.91775518,4.295887758999999,True,Usage and ownership
+Albania,2019.0,Gender gap in internet usage,65.96156004,4.298078002,True,Usage and ownership
+Austria,2019.0,Gender gap in internet usage,85.26650739,5.2633253695,True,Usage and ownership
+Belgium,2019.0,Gender gap in internet usage,89.2103486,5.4605174299999995,True,Usage and ownership
+Bosnia and Herzegovina,2019.0,Gender gap in internet usage,67.45225822,4.372612911,True,Usage and ownership
+Bulgaria,2019.0,Gender gap in internet usage,66.69928025,4.3349640125,True,Usage and ownership
+Croatia,2019.0,Gender gap in internet usage,76.1521023,4.807605114999999,True,Usage and ownership
+Cyprus,2019.0,Gender gap in internet usage,85.84730878,5.292365439,True,Usage and ownership
+Czech Republic,2019.0,Gender gap in internet usage,78.33164069,4.916582034499999,True,Usage and ownership
+Denmark,2019.0,Gender gap in internet usage,98.05809938,5.902904969,True,Usage and ownership
+Estonia,2019.0,Gender gap in internet usage,89.48928179,5.4744640895000005,True,Usage and ownership
+Finland,2019.0,Gender gap in internet usage,88.88643491,5.4443217455,True,Usage and ownership
+France,2019.0,Gender gap in internet usage,82.16576693,5.1082883465,True,Usage and ownership
+Georgia,2019.0,Gender gap in internet usage,67.7768481,4.388842405,True,Usage and ownership
+Germany,2019.0,Gender gap in internet usage,85.2831396,5.26415698,True,Usage and ownership
+Greece,2019.0,Gender gap in internet usage,73.99621178,4.699810589,True,Usage and ownership
+Hungary,2019.0,Gender gap in internet usage,79.65167855,4.9825839275,True,Usage and ownership
+Ireland,2019.0,Gender gap in internet usage,87.98193266,5.399096633,True,Usage and ownership
+Israel,2019.0,Gender gap in internet usage,86.06911373,5.3034556865,True,Usage and ownership
+Latvia,2019.0,Gender gap in internet usage,85.01046862,5.2505234309999995,True,Usage and ownership
+Lithuania,2019.0,Gender gap in internet usage,82.34446641,5.1172233205,True,Usage and ownership
+Luxembourg,2019.0,Gender gap in internet usage,96.88050643,5.844025321499999,True,Usage and ownership
+Malta,2019.0,Gender gap in internet usage,85.81534372,5.290767186,True,Usage and ownership
+Montenegro,2019.0,Gender gap in internet usage,71.08089856,4.554044928,True,Usage and ownership
+Netherlands,2019.0,Gender gap in internet usage,92.0,5.6,True,Usage and ownership
+North Macedonia,2019.0,Gender gap in internet usage,80.76745136,5.038372568,True,Usage and ownership
+Norway,2019.0,Gender gap in internet usage,97.00000891,5.8500004455,True,Usage and ownership
+Poland,2019.0,Gender gap in internet usage,79.96973525,4.9984867625,True,Usage and ownership
+Portugal,2019.0,Gender gap in internet usage,74.05943938,4.702971969,True,Usage and ownership
+Romania,2019.0,Gender gap in internet usage,72.04119809,4.602059904499999,True,Usage and ownership
+Serbia,2019.0,Gender gap in internet usage,73.73677398,4.686838699,True,Usage and ownership
+Slovakia,2019.0,Gender gap in internet usage,82.31635059,5.1158175295,True,Usage and ownership
+Slovenia,2019.0,Gender gap in internet usage,81.96276645,5.0981383225000005,True,Usage and ownership
+Spain,2019.0,Gender gap in internet usage,90.74373116,5.537186557999999,True,Usage and ownership
+Sweden,2019.0,Gender gap in internet usage,94.07715545,5.7038577725,True,Usage and ownership
+Switzerland,2019.0,Gender gap in internet usage,91.25823773,5.5629118865,True,Usage and ownership
+Turkey,2019.0,Gender gap in internet usage,67.59839643,4.3799198215,True,Usage and ownership
+Ukraine,2019.0,Gender gap in internet usage,68.17509986,4.4087549930000005,True,Usage and ownership
+United Kingdom,2019.0,Gender gap in internet usage,91.401132,5.5700566,True,Usage and ownership
+Bolivia (Plurinational State of),2019.0,Gender gap in internet usage,44.43076351,3.2215381754999997,True,Usage and ownership
+Brazil,2019.0,Gender gap in internet usage,73.47293867,4.673646933500001,True,Usage and ownership
+Colombia,2019.0,Gender gap in internet usage,65.89683719,4.2948418595,True,Usage and ownership
+Costa Rica,2019.0,Gender gap in internet usage,81.97330054,5.098665026999999,True,Usage and ownership
+Cuba,2019.0,Gender gap in internet usage,75.11275379,4.7556376895,True,Usage and ownership
+El Salvador,2019.0,Gender gap in internet usage,48.87095779,3.4435478895,True,Usage and ownership
+Guatemala,2019.0,Gender gap in internet usage,41.84880108,3.092440054,True,Usage and ownership
+Mexico,2019.0,Gender gap in internet usage,68.5746531,4.428732655,True,Usage and ownership
+Panama,2019.0,Gender gap in internet usage,63.81149369,4.1905746845,True,Usage and ownership
+Paraguay,2019.0,Gender gap in internet usage,69.01722958,4.450861479,True,Usage and ownership
+Peru,2019.0,Gender gap in internet usage,56.99214438,3.849607219,True,Usage and ownership
+Uruguay,2019.0,Gender gap in internet usage,83.83570588,5.191785294,True,Usage and ownership

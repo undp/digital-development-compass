@@ -1,33 +1,33 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Estonia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",67,6.0,True,Culture
-UAE ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",61,5.655172413793103,True,Culture
-Saudi Arabia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",59,5.540229885057471,True,Culture
-Singapore,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",54,5.252873563218391,True,Culture
-China ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",53,5.195402298850575,True,Culture
-New Zealand ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",52,5.137931034482759,True,Culture
-Netherlands ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",51,5.080459770114943,True,Culture
-Qatar ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",51,5.080459770114943,True,Culture
-Canada ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",40,4.448275862068965,True,Culture
-Denmark,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",48,4.908045977011494,True,Culture
-India ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",45,4.735632183908046,True,Culture
-France ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",43,4.620689655172414,True,Culture
-UK,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",42,4.563218390804598,True,Culture
-Sweden,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",41,4.505747126436781,True,Culture
-Australia,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",40,4.448275862068965,True,Culture
-United States ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",39,4.39080459770115,True,Culture
-Russia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",39,4.39080459770115,True,Culture
-Norway ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",34,4.103448275862069,True,Culture
-Austria,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",33,4.045977011494253,True,Culture
-Kazakhstan ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",32,3.9885057471264367,True,Culture
-Switzerland ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",26,3.6436781609195403,True,Culture
-Poland ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",25,3.586206896551724,True,Culture
-Kenya ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",25,3.586206896551724,True,Culture
-Ukraine ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",21,3.3563218390804597,True,Culture
-Malaysia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",21,3.3563218390804597,True,Culture
-Indonesia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",20,3.2988505747126435,True,Culture
-South Korea ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",19,3.2413793103448274,True,Culture
-Germany ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",17,3.1264367816091956,True,Culture
-Argentina ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",15,3.0114942528735633,True,Culture
-Morocco ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-2,2.0344827586206895,True,Culture
-Switzerland,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-18,1.1149425287356323,True,Culture
-Japan ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-20,1.0,True,Culture
+Estonia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",67,4.35,True,Culture
+UAE ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",61,4.05,True,Culture
+Saudi Arabia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",59,3.95,True,Culture
+Singapore,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",54,3.7,True,Culture
+China ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",53,3.65,True,Culture
+New Zealand ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",52,3.6,True,Culture
+Netherlands ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",51,3.55,True,Culture
+Qatar ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",51,3.55,True,Culture
+Canada ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",40,3.0,True,Culture
+Denmark,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",48,3.4,True,Culture
+India ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",45,3.25,True,Culture
+France ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",43,3.15,True,Culture
+UK,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",42,3.1,True,Culture
+Sweden,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",41,3.05,True,Culture
+Australia,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",40,3.0,True,Culture
+United States ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",39,2.95,True,Culture
+Russia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",39,2.95,True,Culture
+Norway ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",34,2.7,True,Culture
+Austria,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",33,2.65,True,Culture
+Kazakhstan ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",32,2.6,True,Culture
+Switzerland ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",26,2.3,True,Culture
+Poland ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",25,2.25,True,Culture
+Kenya ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",25,2.25,True,Culture
+Ukraine ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",21,2.05,True,Culture
+Malaysia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",21,2.05,True,Culture
+Indonesia ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",20,2.0,True,Culture
+South Korea ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",19,1.95,True,Culture
+Germany ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",17,1.85,True,Culture
+Argentina ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",15,1.75,True,Culture
+Morocco ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-2,0.9,True,Culture
+Switzerland,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-18,0.09999999999999998,True,Culture
+Japan ,2020,"Level of satisfaction for online public services (% of users, by type of interaction and service)",-20,0.0,True,Culture

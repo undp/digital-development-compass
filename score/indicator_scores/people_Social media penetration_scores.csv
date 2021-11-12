@@ -1,48 +1,48 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-UAE,2021,Social media penetration,99.0,6.0,True,Usage and ownership
-South Korea,2021,Social media penetration,89.3,5.4170673076923075,True,Usage and ownership
-Taiwan,2021,Social media penetration,88.1,5.344951923076923,True,Usage and ownership
-Netherlands,2021,Social media penetration,88.0,5.3389423076923075,True,Usage and ownership
-Malaysia,2021,Social media penetration,86.0,5.21875,True,Usage and ownership
-Hong Kong,2021,Social media penetration,85.6,5.194711538461538,True,Usage and ownership
-Canada,2021,Social media penetration,84.9,5.152644230769232,True,Usage and ownership
-Singapore,2021,Social media penetration,84.4,5.122596153846154,True,Usage and ownership
-Denmark,2021,Social media penetration,83.6,5.074519230769231,True,Usage and ownership
-Sweden,2021,Social media penetration,82.1,4.984375,True,Usage and ownership
-New Zealand,2021,Social media penetration,82.0,4.978365384615385,True,Usage and ownership
-Switzerland,2021,Social media penetration,81.8,4.966346153846153,True,Usage and ownership
-Philippines,2021,Social media penetration,80.7,4.900240384615385,True,Usage and ownership
-Spain,2021,Social media penetration,80.0,4.858173076923077,True,Usage and ownership
-Australia,2021,Social media penetration,79.9,4.852163461538462,True,Usage and ownership
-Austria,2021,Social media penetration,79.9,4.852163461538462,True,Usage and ownership
-Saudi Arabia,2021,Social media penetration,79.3,4.816105769230769,True,Usage and ownership
-Argentina,2021,Social media penetration,79.3,4.816105769230769,True,Usage and ownership
-Thailand,2021,Social media penetration,78.7,4.780048076923077,True,Usage and ownership
-Germany,2021,Social media penetration,78.7,4.780048076923077,True,Usage and ownership
-Israel,2021,Social media penetration,78.1,4.743990384615385,True,Usage and ownership
-UK,2021,Social media penetration,77.9,4.731971153846154,True,Usage and ownership
-Mexico,2021,Social media penetration,77.2,4.689903846153846,True,Usage and ownership
-Portugal,2021,Social media penetration,76.6,4.653846153846153,True,Usage and ownership
-Colombia,2021,Social media penetration,76.4,4.641826923076923,True,Usage and ownership
-Ireland,2021,Social media penetration,76.4,4.641826923076923,True,Usage and ownership
-Belgium,2021,Social media penetration,76.0,4.617788461538462,True,Usage and ownership
-France,2021,Social media penetration,75.9,4.611778846153847,True,Usage and ownership
-Japan,2021,Social media penetration,74.3,4.515625,True,Usage and ownership
-Vietnam,2021,Social media penetration,73.7,4.4795673076923075,True,Usage and ownership
-United States,2021,Social media penetration,72.3,4.395432692307692,True,Usage and ownership
-Turkey,2021,Social media penetration,70.8,4.305288461538462,True,Usage and ownership
-Brazil,2021,Social media penetration,70.3,4.275240384615385,True,Usage and ownership
-Poland,2021,Social media penetration,68.5,4.1670673076923075,True,Usage and ownership
-Italy,2021,Social media penetration,67.9,4.131009615384616,True,Usage and ownership
-Russia,2021,Social media penetration,67.8,4.125,True,Usage and ownership
-China,2021,Social media penetration,64.6,3.9326923076923075,True,Usage and ownership
-Romania,2021,Social media penetration,62.6,3.8125,True,Usage and ownership
-Indonesia,2021,Social media penetration,61.8,3.7644230769230766,True,Usage and ownership
-Morocco,2021,Social media penetration,59.3,3.614182692307692,True,Usage and ownership
-Worldwide,2021,Social media penetration,53.6,3.2716346153846154,True,Usage and ownership
-Egypt,2021,Social media penetration,47.4,2.8990384615384617,True,Usage and ownership
-South Africa,2021,Social media penetration,41.9,2.5685096153846154,True,Usage and ownership
-India,2021,Social media penetration,32.3,1.9915865384615383,True,Usage and ownership
-Ghana,2021,Social media penetration,26.1,1.6189903846153846,True,Usage and ownership
-Kenya,2021,Social media penetration,20.2,1.2644230769230769,True,Usage and ownership
-Nigeria,2021,Social media penetration,15.8,1.0,True,Usage and ownership
+UAE,2021,Social media penetration,99.0,5.95,True,Usage and ownership
+South Korea,2021,Social media penetration,89.3,5.465,True,Usage and ownership
+Taiwan,2021,Social media penetration,88.1,5.405,True,Usage and ownership
+Netherlands,2021,Social media penetration,88.0,5.4,True,Usage and ownership
+Malaysia,2021,Social media penetration,86.0,5.3,True,Usage and ownership
+Hong Kong,2021,Social media penetration,85.6,5.28,True,Usage and ownership
+Canada,2021,Social media penetration,84.9,5.245,True,Usage and ownership
+Singapore,2021,Social media penetration,84.4,5.22,True,Usage and ownership
+Denmark,2021,Social media penetration,83.6,5.18,True,Usage and ownership
+Sweden,2021,Social media penetration,82.1,5.105,True,Usage and ownership
+New Zealand,2021,Social media penetration,82.0,5.1,True,Usage and ownership
+Switzerland,2021,Social media penetration,81.8,5.09,True,Usage and ownership
+Philippines,2021,Social media penetration,80.7,5.035,True,Usage and ownership
+Spain,2021,Social media penetration,80.0,5.0,True,Usage and ownership
+Australia,2021,Social media penetration,79.9,4.995,True,Usage and ownership
+Austria,2021,Social media penetration,79.9,4.995,True,Usage and ownership
+Saudi Arabia,2021,Social media penetration,79.3,4.965,True,Usage and ownership
+Argentina,2021,Social media penetration,79.3,4.965,True,Usage and ownership
+Thailand,2021,Social media penetration,78.7,4.9350000000000005,True,Usage and ownership
+Germany,2021,Social media penetration,78.7,4.9350000000000005,True,Usage and ownership
+Israel,2021,Social media penetration,78.1,4.904999999999999,True,Usage and ownership
+UK,2021,Social media penetration,77.9,4.895,True,Usage and ownership
+Mexico,2021,Social media penetration,77.2,4.859999999999999,True,Usage and ownership
+Portugal,2021,Social media penetration,76.6,4.83,True,Usage and ownership
+Colombia,2021,Social media penetration,76.4,4.82,True,Usage and ownership
+Ireland,2021,Social media penetration,76.4,4.82,True,Usage and ownership
+Belgium,2021,Social media penetration,76.0,4.8,True,Usage and ownership
+France,2021,Social media penetration,75.9,4.795,True,Usage and ownership
+Japan,2021,Social media penetration,74.3,4.715,True,Usage and ownership
+Vietnam,2021,Social media penetration,73.7,4.6850000000000005,True,Usage and ownership
+United States,2021,Social media penetration,72.3,4.615,True,Usage and ownership
+Turkey,2021,Social media penetration,70.8,4.54,True,Usage and ownership
+Brazil,2021,Social media penetration,70.3,4.515000000000001,True,Usage and ownership
+Poland,2021,Social media penetration,68.5,4.425,True,Usage and ownership
+Italy,2021,Social media penetration,67.9,4.395,True,Usage and ownership
+Russia,2021,Social media penetration,67.8,4.390000000000001,True,Usage and ownership
+China,2021,Social media penetration,64.6,4.23,True,Usage and ownership
+Romania,2021,Social media penetration,62.6,4.13,True,Usage and ownership
+Indonesia,2021,Social media penetration,61.8,4.09,True,Usage and ownership
+Morocco,2021,Social media penetration,59.3,3.965,True,Usage and ownership
+Worldwide,2021,Social media penetration,53.6,3.68,True,Usage and ownership
+Egypt,2021,Social media penetration,47.4,3.37,True,Usage and ownership
+South Africa,2021,Social media penetration,41.9,3.095,True,Usage and ownership
+India,2021,Social media penetration,32.3,2.615,True,Usage and ownership
+Ghana,2021,Social media penetration,26.1,2.3049999999999997,True,Usage and ownership
+Kenya,2021,Social media penetration,20.2,2.01,True,Usage and ownership
+Nigeria,2021,Social media penetration,15.8,1.79,True,Usage and ownership

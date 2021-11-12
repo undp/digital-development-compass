@@ -1,67 +1,76 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2020,# key internet controls employed,62.0,4.0588235294117645,True,Cybersecurity
-Argentina,2020,# key internet controls employed,71.0,4.588235294117647,True,Cybersecurity
-Armenia,2020,# key internet controls employed,75.0,4.8235294117647065,True,Cybersecurity
-Australia,2020,# key internet controls employed,76.0,4.882352941176471,True,Cybersecurity
-Azerbaijan,2020,# key internet controls employed,38.0,2.6470588235294117,True,Cybersecurity
-Bahrain,2020,# key internet controls employed,29.0,2.1176470588235294,True,Cybersecurity
-Bangladesh,2020,# key internet controls employed,42.0,2.8823529411764706,True,Cybersecurity
-Belarus,2020,# key internet controls employed,38.0,2.6470588235294117,True,Cybersecurity
-Brazil,2020,# key internet controls employed,63.0,4.117647058823529,True,Cybersecurity
-Cambodia,2020,# key internet controls employed,43.0,2.9411764705882355,True,Cybersecurity
-Canada,2020,# key internet controls employed,87.0,5.529411764705882,True,Cybersecurity
-China,2020,# key internet controls employed,10.0,1.0,True,Cybersecurity
-Colombia,2020,# key internet controls employed,66.0,4.294117647058823,True,Cybersecurity
-Cuba,2020,# key internet controls employed,22.0,1.7058823529411766,True,Cybersecurity
-Ecuador,2020,# key internet controls employed,57.0,3.764705882352941,True,Cybersecurity
-Egypt,2020,# key internet controls employed,26.0,1.9411764705882353,True,Cybersecurity
-Estonia,2020,# key internet controls employed,94.0,5.9411764705882355,True,Cybersecurity
-Ethiopia,2020,# key internet controls employed,29.0,2.1176470588235294,True,Cybersecurity
-France,2020,# key internet controls employed,77.0,4.9411764705882355,True,Cybersecurity
-Georgia,2020,# key internet controls employed,76.0,4.882352941176471,True,Cybersecurity
-Germany,2020,# key internet controls employed,80.0,5.117647058823529,True,Cybersecurity
-Hungary,2020,# key internet controls employed,71.0,4.588235294117647,True,Cybersecurity
-Iceland,2020,# key internet controls employed,95.0,6.0,True,Cybersecurity
-India,2020,# key internet controls employed,51.0,3.411764705882353,True,Cybersecurity
-Indonesia,2020,# key internet controls employed,49.0,3.2941176470588234,True,Cybersecurity
-Iran,2020,# key internet controls employed,15.0,1.2941176470588236,True,Cybersecurity
-Italy,2020,# key internet controls employed,76.0,4.882352941176471,True,Cybersecurity
-Japan,2020,# key internet controls employed,75.0,4.8235294117647065,True,Cybersecurity
-Jordan,2020,# key internet controls employed,49.0,3.2941176470588234,True,Cybersecurity
-Kazakhstan,2020,# key internet controls employed,32.0,2.2941176470588234,True,Cybersecurity
-Kenya,2020,# key internet controls employed,67.0,4.352941176470589,True,Cybersecurity
-Kyrgyzstan,2020,# key internet controls employed,56.0,3.7058823529411766,True,Cybersecurity
-Lebanon,2020,# key internet controls employed,52.0,3.4705882352941178,True,Cybersecurity
-Libya,2020,# key internet controls employed,50.0,3.3529411764705883,True,Cybersecurity
-Malawi,2020,# key internet controls employed,60.0,3.9411764705882355,True,Cybersecurity
-Malaysia,2020,# key internet controls employed,58.0,3.823529411764706,True,Cybersecurity
-Mexico,2020,# key internet controls employed,61.0,4.0,True,Cybersecurity
-Morocco,2020,# key internet controls employed,52.0,3.4705882352941178,True,Cybersecurity
-Myanmar,2020,# key internet controls employed,31.0,2.235294117647059,True,Cybersecurity
-Nigeria,2020,# key internet controls employed,60.0,3.9411764705882355,True,Cybersecurity
-Pakistan,2020,# key internet controls employed,26.0,1.9411764705882353,True,Cybersecurity
-Philippines,2020,# key internet controls employed,64.0,4.1764705882352935,True,Cybersecurity
-Russia,2020,# key internet controls employed,30.0,2.1764705882352944,True,Cybersecurity
-Rwanda,2020,# key internet controls employed,39.0,2.7058823529411766,True,Cybersecurity
-Saudi Arabia,2020,# key internet controls employed,26.0,1.9411764705882353,True,Cybersecurity
-Singapore,2020,# key internet controls employed,54.0,3.588235294117647,True,Cybersecurity
-South Africa,2020,# key internet controls employed,70.0,4.529411764705882,True,Cybersecurity
-South Korea,2020,# key internet controls employed,66.0,4.294117647058823,True,Cybersecurity
-Sri Lanka,2020,# key internet controls employed,52.0,3.4705882352941178,True,Cybersecurity
-Sudan,2020,# key internet controls employed,30.0,2.1764705882352944,True,Cybersecurity
-Syria,2020,# key internet controls employed,17.0,1.4117647058823528,True,Cybersecurity
-Thailand,2020,# key internet controls employed,35.0,2.4705882352941178,True,Cybersecurity
-The Gambia,2020,# key internet controls employed,49.0,3.2941176470588234,True,Cybersecurity
-Tunisia,2020,# key internet controls employed,64.0,4.1764705882352935,True,Cybersecurity
-Turkey,2020,# key internet controls employed,35.0,2.4705882352941178,True,Cybersecurity
-Uganda,2020,# key internet controls employed,56.0,3.7058823529411766,True,Cybersecurity
-Ukraine,2020,# key internet controls employed,61.0,4.0,True,Cybersecurity
-United Arab Emirates,2020,# key internet controls employed,29.0,2.1176470588235294,True,Cybersecurity
-United Kingdom,2020,# key internet controls employed,78.0,5.0,True,Cybersecurity
-United States,2020,# key internet controls employed,76.0,4.882352941176471,True,Cybersecurity
-Uzbekistan,2020,# key internet controls employed,27.0,2.0,True,Cybersecurity
-Venezuela,2020,# key internet controls employed,28.0,2.0588235294117645,True,Cybersecurity
-Vietnam,2020,# key internet controls employed,22.0,1.7058823529411766,True,Cybersecurity
-Zambia,2020,# key internet controls employed,59.0,3.8823529411764706,True,Cybersecurity
-Zimbabwe,2020,# key internet controls employed,46.0,3.1176470588235294,True,Cybersecurity
-June 2019-May 2020 coverage period,2020,# key internet controls employed,,,True,Cybersecurity
+Angola,2020,# key internet controls employed,62.0,4.1,True,Cybersecurity
+Argentina,2020,# key internet controls employed,71.0,4.55,True,Cybersecurity
+Armenia,2020,# key internet controls employed,71.0,4.55,True,Cybersecurity
+Australia,2020,# key internet controls employed,75.0,4.75,True,Cybersecurity
+Azerbaijan,2020,# key internet controls employed,35.0,2.75,True,Cybersecurity
+Bahrain,2020,# key internet controls employed,30.0,2.5,True,Cybersecurity
+Bangladesh,2020,# key internet controls employed,40.0,3.0,True,Cybersecurity
+Belarus,2020,# key internet controls employed,31.0,2.55,True,Cybersecurity
+Brazil,2020,# key internet controls employed,64.0,4.2,True,Cybersecurity
+Cambodia,2020,# key internet controls employed,43.0,3.15,True,Cybersecurity
+Canada,2020,# key internet controls employed,87.0,5.35,True,Cybersecurity
+China,2020,# key internet controls employed,10.0,1.5,True,Cybersecurity
+Colombia,2020,# key internet controls employed,65.0,4.25,True,Cybersecurity
+Costa Rica,2020,# key internet controls employed,87.0,5.35,True,Cybersecurity
+Cuba,2020,# key internet controls employed,21.0,2.05,True,Cybersecurity
+Ecuador,2020,# key internet controls employed,62.0,4.1,True,Cybersecurity
+Egypt,2020,# key internet controls employed,26.0,2.3,True,Cybersecurity
+Estonia,2020,# key internet controls employed,94.0,5.7,True,Cybersecurity
+Ethiopia,2020,# key internet controls employed,27.0,2.35,True,Cybersecurity
+France,2020,# key internet controls employed,78.0,4.9,True,Cybersecurity
+"Gambia, The",2020,# key internet controls employed,53.0,3.65,True,Cybersecurity
+Georgia,2020,# key internet controls employed,77.0,4.85,True,Cybersecurity
+Germany,2020,# key internet controls employed,79.0,4.95,True,Cybersecurity
+Ghana,2020,# key internet controls employed,64.0,4.2,True,Cybersecurity
+Hungary,2020,# key internet controls employed,70.0,4.5,True,Cybersecurity
+Iceland,2020,# key internet controls employed,96.0,5.8,True,Cybersecurity
+India,2020,# key internet controls employed,49.0,3.45,True,Cybersecurity
+Indonesia,2020,# key internet controls employed,48.0,3.4,True,Cybersecurity
+Iran,2020,# key internet controls employed,16.0,1.8,True,Cybersecurity
+Iraq,2020,# key internet controls employed,41.0,3.05,True,Cybersecurity
+Italy,2020,# key internet controls employed,76.0,4.8,True,Cybersecurity
+Japan,2020,# key internet controls employed,76.0,4.8,True,Cybersecurity
+Jordan,2020,# key internet controls employed,47.0,3.35,True,Cybersecurity
+Kazakhstan,2020,# key internet controls employed,33.0,2.65,True,Cybersecurity
+Kenya,2020,# key internet controls employed,66.0,4.3,True,Cybersecurity
+Kyrgyzstan,2020,# key internet controls employed,53.0,3.65,True,Cybersecurity
+Lebanon,2020,# key internet controls employed,51.0,3.55,True,Cybersecurity
+Libya,2020,# key internet controls employed,48.0,3.4,True,Cybersecurity
+Malawi,2020,# key internet controls employed,59.0,3.95,True,Cybersecurity
+Malaysia,2020,# key internet controls employed,58.0,3.9,True,Cybersecurity
+Mexico,2020,# key internet controls employed,60.0,4.0,True,Cybersecurity
+Morocco,2020,# key internet controls employed,53.0,3.65,True,Cybersecurity
+Myanmar,2020,# key internet controls employed,17.0,1.85,True,Cybersecurity
+Nicaragua,2020,# key internet controls employed,48.0,3.4,True,Cybersecurity
+Nigeria,2020,# key internet controls employed,59.0,3.95,True,Cybersecurity
+Pakistan,2020,# key internet controls employed,25.0,2.25,True,Cybersecurity
+Philippines,2020,# key internet controls employed,65.0,4.25,True,Cybersecurity
+Russia,2020,# key internet controls employed,30.0,2.5,True,Cybersecurity
+Rwanda,2020,# key internet controls employed,38.0,2.9,True,Cybersecurity
+Saudi Arabia,2020,# key internet controls employed,24.0,2.2,True,Cybersecurity
+Serbia,2020,# key internet controls employed,71.0,4.55,True,Cybersecurity
+Singapore,2020,# key internet controls employed,54.0,3.7,True,Cybersecurity
+South Africa,2020,# key internet controls employed,73.0,4.65,True,Cybersecurity
+South Korea,2020,# key internet controls employed,67.0,4.35,True,Cybersecurity
+Sri Lanka,2020,# key internet controls employed,51.0,3.55,True,Cybersecurity
+Sudan,2020,# key internet controls employed,33.0,2.65,True,Cybersecurity
+Taiwan,2020,# key internet controls employed,80.0,5.0,True,Cybersecurity
+Thailand,2020,# key internet controls employed,36.0,2.8,True,Cybersecurity
+Tunisia,2020,# key internet controls employed,63.0,4.15,True,Cybersecurity
+Turkey,2020,# key internet controls employed,34.0,2.7,True,Cybersecurity
+Uganda,2020,# key internet controls employed,49.0,3.45,True,Cybersecurity
+Ukraine,2020,# key internet controls employed,62.0,4.1,True,Cybersecurity
+United Arab Emirates,2020,# key internet controls employed,27.0,2.35,True,Cybersecurity
+United Kingdom,2020,# key internet controls employed,78.0,4.9,True,Cybersecurity
+United States,2020,# key internet controls employed,75.0,4.75,True,Cybersecurity
+Uzbekistan,2020,# key internet controls employed,28.0,2.4,True,Cybersecurity
+Venezuela,2020,# key internet controls employed,28.0,2.4,True,Cybersecurity
+Vietnam,2020,# key internet controls employed,22.0,2.1,True,Cybersecurity
+Zambia,2020,# key internet controls employed,59.0,3.95,True,Cybersecurity
+Zimbabwe,2020,# key internet controls employed,46.0,3.3,True,Cybersecurity
+June 2020-May 2021 coverage period,2020,# key internet controls employed,,,True,Cybersecurity
+,2020,# key internet controls employed,,,True,Cybersecurity
+,2020,# key internet controls employed,,,True,Cybersecurity
+,2020,# key internet controls employed,,,True,Cybersecurity
+,2020,# key internet controls employed,,,True,Cybersecurity
