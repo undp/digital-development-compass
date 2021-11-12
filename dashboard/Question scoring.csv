@@ -1,0 +1,78 @@
+﻿Question,Pillar,Sub-Pillar,1,2,3,0
+Has the COVID-19 pandemic impacted your organization's adoption of digital?,Strategy,Ambition,Slowed,No,Accelerated,I don’t know
+Does a national digital payments system exist?,Foundations,Digital Payments,No,Limited (delivered by private sector),Yes (government supported),I don't know
+Does a national digital legal identity system exist?,Foundations,Digital Legal Identity,No,Limited (e.g. only for elections; or CRVS),Yes,I don't know
+Does a national data sharing system exist?,Foundations,Data Exchange,No,Limited (e.g. not completely open),Yes,I don't know
+Where does digital rank as a national priority given all other needs?,Strategy,Ambition,Low,Medium,High,I don't know
+How bold is the country leadership willing to be in digital transformation?,Strategy,Ambition,Not,Somewhat,Very,I don't know
+Are there incentives to attract foreign digitally-skilled workers?,Infrastructure,Innovation Ecosystem,No,Some,Many,I don't know
+Are there mechanisms to connect digitally-skilled diaspora to local efforts?,Infrastructure,Innovation Ecosystem,No,Some,Many,I don't know
+Are local universities graduating the experts on digital needed in your country? What percentage of need do you think is being met?,Infrastructure,Innovation Ecosystem,Small,Medium,High,null
+Where is access to broadband internet available?,Infrastructure,Connectivity technology,Only the capital city,Only major cities,Widely available,I don't know
+Do you have wifi internet at home?,People,Usage and Ownership,No,"Yes, but data runs out","Yes, with lots of data",I don't know
+Do you have wifi internet at the office?,Business,Technology adoption,No,"Yes, but data runs out","Yes, with lots of data",I don't know
+Do you have internet on your phone?,People,Usage and Ownership,No,"Yes, but data runs out","Yes, with lots of data",I don't know
+How difficult is it for a postal package to reach its destination throughout the country?,Infrastructure,Connectivity technology,Very,Medium,Not,I don't know
+Are government website analytics measured and used?,Government,Digital public services,No,Some,Yes,I don't know
+Is the source code for government software apps and/or websites available to staff to modify?,Government,Digital public services,No,"Yes, on office computers","Yes, in the Cloud",I don't know
+Does the government own any software apps and/or websites that it pays for?,Government,Digital public services,No,Some,All,I don't know
+Are data sets available in digital formats?,Government,Digital public services,No,"Yes, e.g. as spreadsheets","Yes, via APIs",I don't know
+Is the data collected from projects open and available to the public for use?,Government,Digital public services,No,Offline (paper),Online,I don't know
+Does the government have any data security and privacy standards in place?,Government,Digital public services,No,Limited,"Thorough (password policy, etc.)",I don't know
+Has the government completed a data security threat analysis?,Government,Digital public services,No,"Yes, but security measures have not yet been implemented","Yes, and security measures have been implemented",I don't know
+What impact do procurement standards have on digital work?,Government,Funding and procurement,A barrier,Limited impact,An enabler,I don't know
+Do digital programmes get ongoing funding beyond the programme's initial lifecycle?,Government,Funding and procurement,Rarely,Sometimes,Often,I don't know
+Is there an intention for citizens to be directly involved in participatory policy decisions?,Government,Leadership and coordination,No,Limited,Yes,I don't know
+Is there support in senior levels of government in pursuing digital transformation?,Government,Leadership and coordination,No,Some,"Yes, with dedicated staff",I don't know
+Do digital services have political support within the government?,Government,Leadership and coordination,No,Some,Yes,I don't know
+Is staff recruitment done with a specific focus on inclusivity?,Government,Capabilities,No,Somewhat,Often,I don't know
+How fast can citizens get access to government data?,Government,Monitoring,They cannot,Less than 1 year,Less than 1 month,I don't know
+Does the government have fact checking / data sourcing governance mechanisms to ensure digital data accuracy?,Government,Monitoring,No,Some,Yes,I don't know
+Does the government have a formal oversight board for digital programmes?,Government,Monitoring,No,"Yes, with limited scope",Yes,I don't know
+Do you use user feedback to improve digital projects?,Government,Monitoring,No,"Collected, but not used",Collected and used,I don't know
+Are digital efforts increasing efficiency in the government?,Government,Monitoring,No,Limited,Yes,I don't know
+Is there a way for digital projects to improve from user feedback once deployed?,Government,Monitoring,No,Limited,Yes,I don't know
+Is the adoption of new technology tools fast in the public sector?,Government,Capabilities,No,Limited,Yes,I don't know
+Are digital staff being recruited in the public sector?,Government,Capabilities,No,Limited,Yes,I don't know
+Is there technical support that is available to help with *evaluation* of proposals for digital programmes?,Government,Capabilities,No,Yes (external),Yes (internal),I don't know
+Is there technical support that is available to help with *implementation* of proposals for digital programmes?,Government,Capabilities,No,Yes (external),Yes (internal),I don't know
+Teams have the right skills to properly implement digital programmes,Government,Capabilities,No,Some,Yes,I don't know
+Digital teams are seen as thought leaders inside the government,Government,Capabilities,No,Only in certain projects,Yes,I don't know
+Do teams use any digital tools besides email for programme management?,Government,Capabilities,No,Real-time chat,Chat and Project Management tools,I don't know
+How are official documents shared with partners?,Government,Capabilities,Stamped and sent physically,Scanned and sent via email,Collaboration online,I don't know
+Does your office receive IT support,Government,Capabilities,No,Limited,Dedicated,I don't know
+Is there a file management system used?,Government,Capabilities,No,Intranet,Cloud-based,I don't know
+Is there an open data law in place?,Regulation,Data Standards and Protection,No,Weak,Strong,I don't know
+Is there a digital privacy law in place?,Regulation,Data Standards and Protection,No,Weak,Strong,I don't know
+Is international data storage prohibited?,Regulation,Data Standards and Protection,Yes,Some,No,I don't know
+Is there a digital consumer protections law in place?,Regulation,E-Commerce,No,Weak,Strong,I don't know
+Is there a digital transactions law in place?,Regulation,E-Commerce,No,Weak,Strong,I don't know
+Are there digital payments laws in place?,Regulation,E-Commerce,No,Restrictive,Permissive,I don't know
+Is there an intellectual property law in place?,Regulation,Fair Market Competition,No,Weak,Strong,I don't know
+Is there a digital ID law in place?,Regulation,Fair Market Competition,No,Weak,Strong,I don't know
+Are any common carrier or network neutrality laws in place?,Regulation,Fair Market Competition,No,Weak,Strong,I don't know
+Does internet policy enable competition in telecoms networks?,Regulation,Fair Market Competition,No,Weak,Strong,I don't know
+What impact do regulations have on digital development?,Regulation,Fair Market Competition,A barrier,Limited impact,An enabler,I don't know
+Is there a cyber crime law in place?,Regulation,Cybersecurity,No,Weak,Strong,I don't know
+Is there a content filtering law in place?,Regulation,Cybersecurity,Strong,Weak,No,I don't know
+Is there a law allowing for electronic courts?,Regulation,Ethical standards,No,Weak,Strong,I don't know
+Is there a law for Freedom of Information requests for government information?,Regulation,Ethical standards,No,Weak,Strong,I don't know
+Is there an institutional focus on addressing the needs of vulnerable groups?,Regulation,Ethical standards,No,Weak,Strong,I don't know
+Is data gathered on vulnerable groups to better understand their needs and perspectives?,Regulation,Ethical standards,No,Weak,Strong,I don't know
+Key drivers of the economy are adopting digital technologies,Business,Technology adoption,No interest,Need help,Making progress,I don't know
+How is the process of getting technology through customs?,Business,Technology adoption,Slow,Medium,Fast,I don't know
+There are financial vehicles to encourage corporate digital transformation,Business,Financing Incentives,No,Weak,Strong,I don't know
+Local corporations are adhering to responsible behavior around protecting customers online,Business,Impact Commitments,No,Weak,Strong,I don't know
+Startup companies feel comfortable growing here,Business,Startup Environment,No interest,Need help,Making progress,I don't know
+Getting internet set up in offices is:,Business,Technology adoption,Easy,Medium,Hard,I don't know
+Has the government's position on digital resulted in greater popularity and/or electability for officials?,People,Culture,Decreased,Neutral,Increased,I don't know
+Are there efforts underway to close the digital divide for women and girls?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
+Are there efforts underway to close the digital divide for ethnic and/or religious minorities?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
+Are there efforts underway to close the digital divide for other marginalized groups?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
+Are people motivated to embrace technology solutions?,People,Culture,Nervous,Interested,Excited,I don't know
+How are citizens' attitudes towards entrepreneurial risk?,People,Culture,Negative,Neutral,Positive,I don't know
+What impact is the internet having on individuals?,People,Digital Wellbeing,Negative,Neutral,Positive,I don't know
+Are people having beneficial financial impacts from the digital economy who had less opportunity in the physical economy?,People,Usage and Ownership,No,Few,Many,I don't know
+Do you have grid electricity at the office?,Business,Technology adoption,No,Sometimes Disconnected,Yes,I don't know
+Is inclusivity a priority for digital transformation?,Strategy,Ambition,Not,Somewhat,Very,I don't know
+Are any countries in your region and/or income-group doing interesting work on digital?,Infrastructure,Innovation Ecosystem,No,Some,Many,I don't know
