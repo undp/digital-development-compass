@@ -1,153 +1,153 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2019,Venture Capital Availability,1.705738187,1.0,True,Financing Incentives
-Albania,2019,Venture Capital Availability,3.0140872000000005,2.85374042263725,True,Financing Incentives
-United Arab Emirates,2019,Venture Capital Availability,4.832028866,5.429499580763893,True,Financing Incentives
-Argentina,2019,Venture Capital Availability,2.328206539,1.8819471979185054,True,Financing Incentives
-Armenia,2019,Venture Capital Availability,3.311092377,3.274553597766255,True,Financing Incentives
-Australia,2019,Venture Capital Availability,3.538999796,3.597465291069321,True,Financing Incentives
-Austria,2019,Venture Capital Availability,3.710370064,3.840272057362788,True,Financing Incentives
-Azerbaijan,2019,Venture Capital Availability,4.117246151,4.416756345562705,True,Financing Incentives
-Burundi,2019,Venture Capital Availability,3.021276712,2.8639269163640844,True,Financing Incentives
-Belgium,2019,Venture Capital Availability,3.8091712,3.98025890933107,True,Financing Incentives
-Benin,2019,Venture Capital Availability,2.152067661,1.63238400422764,True,Financing Incentives
-Burkina Faso,2019,Venture Capital Availability,1.723668098,1.025404078319115,True,Financing Incentives
-Bangladesh,2019,Venture Capital Availability,2.522684336,2.157493974827597,True,Financing Incentives
-Bulgaria,2019,Venture Capital Availability,3.336735487,3.310886158189208,True,Financing Incentives
-Bahrain,2019,Venture Capital Availability,4.216711044,4.557683644743072,True,Financing Incentives
-Bosnia and Herzegovina,2019,Venture Capital Availability,2.34045887,1.899306970441398,True,Financing Incentives
+Angola,2019,Venture Capital Availability,1.705738187,1.588115155833333,True,Financing Incentives
+Albania,2019,Venture Capital Availability,3.0140872000000005,2.6784060000000007,True,Financing Incentives
+United Arab Emirates,2019,Venture Capital Availability,4.832028866,4.193357388333334,True,Financing Incentives
+Argentina,2019,Venture Capital Availability,2.328206539,2.1068387824999997,True,Financing Incentives
+Armenia,2019,Venture Capital Availability,3.311092377,2.925910314166667,True,Financing Incentives
+Australia,2019,Venture Capital Availability,3.538999796,3.1158331633333334,True,Financing Incentives
+Austria,2019,Venture Capital Availability,3.710370064,3.25864172,True,Financing Incentives
+Azerbaijan,2019,Venture Capital Availability,4.117246151,3.597705125833333,True,Financing Incentives
+Burundi,2019,Venture Capital Availability,3.021276712,2.68439726,True,Financing Incentives
+Belgium,2019,Venture Capital Availability,3.8091712,3.340976,True,Financing Incentives
+Benin,2019,Venture Capital Availability,2.152067661,1.9600563841666667,True,Financing Incentives
+Burkina Faso,2019,Venture Capital Availability,1.723668098,1.6030567483333336,True,Financing Incentives
+Bangladesh,2019,Venture Capital Availability,2.522684336,2.2689036133333333,True,Financing Incentives
+Bulgaria,2019,Venture Capital Availability,3.336735487,2.9472795725000003,True,Financing Incentives
+Bahrain,2019,Venture Capital Availability,4.216711044,3.680592536666667,True,Financing Incentives
+Bosnia and Herzegovina,2019,Venture Capital Availability,2.34045887,2.1170490583333335,True,Financing Incentives
 Belize,2019,Venture Capital Availability,,,True,Financing Incentives
-Bolivia,2019,Venture Capital Availability,2.593163729,2.2573530326698616,True,Financing Incentives
-Brazil,2019,Venture Capital Availability,3.092388391,2.9646818315847865,True,Financing Incentives
-Barbados,2019,Venture Capital Availability,2.020408154,1.4458416155184042,True,Financing Incentives
-Brunei Darussalam,2019,Venture Capital Availability,3.1928436760000003,3.1070123723057628,True,Financing Incentives
+Bolivia,2019,Venture Capital Availability,2.593163729,2.3276364408333334,True,Financing Incentives
+Brazil,2019,Venture Capital Availability,3.092388391,2.7436569925,True,Financing Incentives
+Barbados,2019,Venture Capital Availability,2.020408154,1.8503401283333334,True,Financing Incentives
+Brunei Darussalam,2019,Venture Capital Availability,3.1928436760000003,2.82736973,True,Financing Incentives
 Bhutan,2019,Venture Capital Availability,,,True,Financing Incentives
-Botswana,2019,Venture Capital Availability,2.681376219,2.382337311994177,True,Financing Incentives
-Canada,2019,Venture Capital Availability,4.004153728,4.256520816719845,True,Financing Incentives
-Switzerland,2019,Venture Capital Availability,4.360048771000001,4.760772374117796,True,Financing Incentives
-Chile,2019,Venture Capital Availability,3.766344309,3.9195794283716734,True,Financing Incentives
-China,2019,Venture Capital Availability,4.418037415,4.8429338557779795,True,Financing Incentives
-Cote d'Ivoire,2019,Venture Capital Availability,1.994865656,1.4096516076785532,True,Financing Incentives
-Cameroon,2019,Venture Capital Availability,2.663348436,2.356794563273784,True,Financing Incentives
-"Congo, Dem. Rep.",2019,Venture Capital Availability,2.067664146,1.5127964889595185,True,Financing Incentives
-Colombia,2019,Venture Capital Availability,3.1523096560000003,3.0495815563542195,True,Financing Incentives
-Cabo Verde,2019,Venture Capital Availability,2.985001564,2.812530303138873,True,Financing Incentives
-Costa Rica,2019,Venture Capital Availability,2.694061995,2.4003112130940063,True,Financing Incentives
-Cyprus,2019,Venture Capital Availability,2.67484951,2.37308991380006,True,Financing Incentives
-Czech Republic,2019,Venture Capital Availability,3.797457457,3.963662237736773,True,Financing Incentives
-Germany,2019,Venture Capital Availability,4.805063248,5.391293218691302,True,Financing Incentives
-Denmark,2019,Venture Capital Availability,3.790090322,3.9532240780310453,True,Financing Incentives
-Dominican Republic,2019,Venture Capital Availability,3.187982798,3.1001252145607157,True,Financing Incentives
-Algeria,2019,Venture Capital Availability,3.484624386,3.520423236913337,True,Financing Incentives
-Ecuador,2019,Venture Capital Availability,2.670003176,2.366223362789484,True,Financing Incentives
-"Egypt, Arab Rep.",2019,Venture Capital Availability,3.072822094,2.9369592321026667,True,Financing Incentives
-Spain,2019,Venture Capital Availability,3.82720685,4.005812804447233,True,Financing Incentives
-Estonia,2019,Venture Capital Availability,3.825948238,4.004029534144253,True,Financing Incentives
-Ethiopia,2019,Venture Capital Availability,3.294736862,3.2513802097885094,True,Financing Incentives
-Finland,2019,Venture Capital Availability,5.1287312510000005,5.849883743630518,True,Financing Incentives
-France,2019,Venture Capital Availability,4.2231020930000005,4.566738832431249,True,Financing Incentives
-Gabon,2019,Venture Capital Availability,1.90625,1.2840961007201686,True,Financing Incentives
-United Kingdom,2019,Venture Capital Availability,4.475592136,4.924480531604693,True,Financing Incentives
-Georgia,2019,Venture Capital Availability,2.576984167,2.2344289445236925,True,Financing Incentives
-Ghana,2019,Venture Capital Availability,2.83706212,2.602921609494924,True,Financing Incentives
-Guinea,2019,Venture Capital Availability,3.607142925,3.6940142023285865,True,Financing Incentives
-"Gambia, The",2019,Venture Capital Availability,2.987557173,2.816151229711739,True,Financing Incentives
-Greece,2019,Venture Capital Availability,2.279331446,1.8126982936475353,True,Financing Incentives
-Guatemala,2019,Venture Capital Availability,3.139204025,3.0310127817325596,True,Financing Incentives
+Botswana,2019,Venture Capital Availability,2.681376219,2.4011468491666665,True,Financing Incentives
+Canada,2019,Venture Capital Availability,4.004153728,3.50346144,True,Financing Incentives
+Switzerland,2019,Venture Capital Availability,4.360048771000001,3.800040642500001,True,Financing Incentives
+Chile,2019,Venture Capital Availability,3.766344309,3.305286924166667,True,Financing Incentives
+China,2019,Venture Capital Availability,4.418037415,3.8483645125,True,Financing Incentives
+Cote d'Ivoire,2019,Venture Capital Availability,1.994865656,1.8290547133333335,True,Financing Incentives
+Cameroon,2019,Venture Capital Availability,2.663348436,2.386123696666667,True,Financing Incentives
+"Congo, Dem. Rep.",2019,Venture Capital Availability,2.067664146,1.8897201216666666,True,Financing Incentives
+Colombia,2019,Venture Capital Availability,3.1523096560000003,2.7935913800000005,True,Financing Incentives
+Cabo Verde,2019,Venture Capital Availability,2.985001564,2.6541679700000005,True,Financing Incentives
+Costa Rica,2019,Venture Capital Availability,2.694061995,2.411718329166667,True,Financing Incentives
+Cyprus,2019,Venture Capital Availability,2.67484951,2.395707925,True,Financing Incentives
+Czech Republic,2019,Venture Capital Availability,3.797457457,3.3312145475,True,Financing Incentives
+Germany,2019,Venture Capital Availability,4.805063248,4.170886039999999,True,Financing Incentives
+Denmark,2019,Venture Capital Availability,3.790090322,3.3250752683333338,True,Financing Incentives
+Dominican Republic,2019,Venture Capital Availability,3.187982798,2.8233189983333338,True,Financing Incentives
+Algeria,2019,Venture Capital Availability,3.484624386,3.0705203216666668,True,Financing Incentives
+Ecuador,2019,Venture Capital Availability,2.670003176,2.391669313333333,True,Financing Incentives
+"Egypt, Arab Rep.",2019,Venture Capital Availability,3.072822094,2.727351745,True,Financing Incentives
+Spain,2019,Venture Capital Availability,3.82720685,3.3560057083333334,True,Financing Incentives
+Estonia,2019,Venture Capital Availability,3.825948238,3.354956865,True,Financing Incentives
+Ethiopia,2019,Venture Capital Availability,3.294736862,2.9122807183333332,True,Financing Incentives
+Finland,2019,Venture Capital Availability,5.1287312510000005,4.4406093758333345,True,Financing Incentives
+France,2019,Venture Capital Availability,4.2231020930000005,3.685918410833334,True,Financing Incentives
+Gabon,2019,Venture Capital Availability,1.90625,1.7552083333333335,True,Financing Incentives
+United Kingdom,2019,Venture Capital Availability,4.475592136,3.8963267800000003,True,Financing Incentives
+Georgia,2019,Venture Capital Availability,2.576984167,2.3141534725,True,Financing Incentives
+Ghana,2019,Venture Capital Availability,2.83706212,2.5308851,True,Financing Incentives
+Guinea,2019,Venture Capital Availability,3.607142925,3.172619104166667,True,Financing Incentives
+"Gambia, The",2019,Venture Capital Availability,2.987557173,2.656297644166666,True,Financing Incentives
+Greece,2019,Venture Capital Availability,2.279331446,2.0661095383333334,True,Financing Incentives
+Guatemala,2019,Venture Capital Availability,3.139204025,2.7826700208333337,True,Financing Incentives
 Guyana,2019,Venture Capital Availability,,,True,Financing Incentives
-"Hong Kong SAR, China",2019,Venture Capital Availability,4.722456932,5.274252073237902,True,Financing Incentives
-Honduras,2019,Venture Capital Availability,2.966897249,2.7868791196960814,True,Financing Incentives
-Croatia,2019,Venture Capital Availability,2.626958609,2.305235466570681,True,Financing Incentives
-Haiti,2019,Venture Capital Availability,1.877171397,1.242895945960759,True,Financing Incentives
-Hungary,2019,Venture Capital Availability,3.52744031,3.5810871792274543,True,Financing Incentives
-Indonesia,2019,Venture Capital Availability,3.755820751,3.904669075965142,True,Financing Incentives
-India,2019,Venture Capital Availability,4.16496706,4.484369938831258,True,Financing Incentives
-Ireland,2019,Venture Capital Availability,3.543218613,3.60344274168143,True,Financing Incentives
-"Iran, Islamic Rep.",2019,Venture Capital Availability,2.243260384,1.7615908406266234,True,Financing Incentives
-Iceland,2019,Venture Capital Availability,3.678439617,3.795031254084269,True,Financing Incentives
-Israel,2019,Venture Capital Availability,5.185565948,5.9304102500828435,True,Financing Incentives
-Italy,2019,Venture Capital Availability,2.545851946,2.1903191114892735,True,Financing Incentives
-Jamaica,2019,Venture Capital Availability,2.623440027,2.300250147195687,True,Financing Incentives
-Jordan,2019,Venture Capital Availability,4.047568321,4.318032986008609,True,Financing Incentives
-Japan,2019,Venture Capital Availability,4.344073296,4.738137447592781,True,Financing Incentives
-Kazakhstan,2019,Venture Capital Availability,2.918185472,2.717861610464092,True,Financing Incentives
-Kenya,2019,Venture Capital Availability,3.020547628,2.862893910286296,True,Financing Incentives
-Kyrgyz Republic,2019,Venture Capital Availability,2.66982007,2.365963928196379,True,Financing Incentives
-Cambodia,2019,Venture Capital Availability,3.187371016,3.0992584083706443,True,Financing Incentives
-"Korea, Rep.",2019,Venture Capital Availability,3.430000067,3.443028514875715,True,Financing Incentives
-Kuwait,2019,Venture Capital Availability,4.194252014,4.525862462970817,True,Financing Incentives
-Lao PDR,2019,Venture Capital Availability,3.166703463,3.0699754891706297,True,Financing Incentives
-Lebanon,2019,Venture Capital Availability,3.254025936,3.1936987437428788,True,Financing Incentives
+"Hong Kong SAR, China",2019,Venture Capital Availability,4.722456932,4.102047443333333,True,Financing Incentives
+Honduras,2019,Venture Capital Availability,2.966897249,2.639081040833333,True,Financing Incentives
+Croatia,2019,Venture Capital Availability,2.626958609,2.355798840833333,True,Financing Incentives
+Haiti,2019,Venture Capital Availability,1.877171397,1.7309761641666666,True,Financing Incentives
+Hungary,2019,Venture Capital Availability,3.52744031,3.1062002583333332,True,Financing Incentives
+Indonesia,2019,Venture Capital Availability,3.755820751,3.2965172925,True,Financing Incentives
+India,2019,Venture Capital Availability,4.16496706,3.6374725500000005,True,Financing Incentives
+Ireland,2019,Venture Capital Availability,3.543218613,3.119348844166667,True,Financing Incentives
+"Iran, Islamic Rep.",2019,Venture Capital Availability,2.243260384,2.03605032,True,Financing Incentives
+Iceland,2019,Venture Capital Availability,3.678439617,3.232033014166667,True,Financing Incentives
+Israel,2019,Venture Capital Availability,5.185565948,4.487971623333333,True,Financing Incentives
+Italy,2019,Venture Capital Availability,2.545851946,2.288209955,True,Financing Incentives
+Jamaica,2019,Venture Capital Availability,2.623440027,2.3528666891666665,True,Financing Incentives
+Jordan,2019,Venture Capital Availability,4.047568321,3.5396402675,True,Financing Incentives
+Japan,2019,Venture Capital Availability,4.344073296,3.786727746666667,True,Financing Incentives
+Kazakhstan,2019,Venture Capital Availability,2.918185472,2.598487893333333,True,Financing Incentives
+Kenya,2019,Venture Capital Availability,3.020547628,2.6837896900000002,True,Financing Incentives
+Kyrgyz Republic,2019,Venture Capital Availability,2.66982007,2.391516725,True,Financing Incentives
+Cambodia,2019,Venture Capital Availability,3.187371016,2.82280918,True,Financing Incentives
+"Korea, Rep.",2019,Venture Capital Availability,3.430000067,3.0250000558333334,True,Financing Incentives
+Kuwait,2019,Venture Capital Availability,4.194252014,3.6618766783333334,True,Financing Incentives
+Lao PDR,2019,Venture Capital Availability,3.166703463,2.805586219166667,True,Financing Incentives
+Lebanon,2019,Venture Capital Availability,3.254025936,2.8783549466666667,True,Financing Incentives
 Liberia,2019,Venture Capital Availability,,,True,Financing Incentives
 Libya,2019,Venture Capital Availability,,,True,Financing Incentives
-Sri Lanka,2019,Venture Capital Availability,3.3092558380000003,3.271951488888408,True,Financing Incentives
-Lesotho,2019,Venture Capital Availability,1.87397182,1.2383626103130785,True,Financing Incentives
-Lithuania,2019,Venture Capital Availability,3.2538540360000003,3.193455186423322,True,Financing Incentives
-Luxembourg,2019,Venture Capital Availability,4.4642663,4.908433467858896,True,Financing Incentives
-Latvia,2019,Venture Capital Availability,3.520197392,3.570825016959559,True,Financing Incentives
-Morocco,2019,Venture Capital Availability,2.978321314,2.803065359660276,True,Financing Incentives
-Moldova,2019,Venture Capital Availability,2.475635052,2.0908319765837535,True,Financing Incentives
-Madagascar,2019,Venture Capital Availability,2.5,2.1253535671947255,True,Financing Incentives
-Mexico,2019,Venture Capital Availability,3.299335241,3.257895444596812,True,Financing Incentives
-"Macedonia, FYR",2019,Venture Capital Availability,2.674037218,2.371939014078026,True,Financing Incentives
-Mali,2019,Venture Capital Availability,2.684203386,2.3863429967903373,True,Financing Incentives
-Malta,2019,Venture Capital Availability,3.000451088,2.8344200335278877,True,Financing Incentives
+Sri Lanka,2019,Venture Capital Availability,3.3092558380000003,2.9243798650000006,True,Financing Incentives
+Lesotho,2019,Venture Capital Availability,1.87397182,1.72830985,True,Financing Incentives
+Lithuania,2019,Venture Capital Availability,3.2538540360000003,2.878211696666667,True,Financing Incentives
+Luxembourg,2019,Venture Capital Availability,4.4642663,3.886888583333333,True,Financing Incentives
+Latvia,2019,Venture Capital Availability,3.520197392,3.100164493333333,True,Financing Incentives
+Morocco,2019,Venture Capital Availability,2.978321314,2.648601095,True,Financing Incentives
+Moldova,2019,Venture Capital Availability,2.475635052,2.229695876666667,True,Financing Incentives
+Madagascar,2019,Venture Capital Availability,2.5,2.25,True,Financing Incentives
+Mexico,2019,Venture Capital Availability,3.299335241,2.9161127008333336,True,Financing Incentives
+"Macedonia, FYR",2019,Venture Capital Availability,2.674037218,2.395031015,True,Financing Incentives
+Mali,2019,Venture Capital Availability,2.684203386,2.4035028216666667,True,Financing Incentives
+Malta,2019,Venture Capital Availability,3.000451088,2.667042573333333,True,Financing Incentives
 Myanmar,2019,Venture Capital Availability,,,True,Financing Incentives
-Montenegro,2019,Venture Capital Availability,3.698900461,3.8240212966701574,True,Financing Incentives
-Mongolia,2019,Venture Capital Availability,2.17786479,1.6689347871916107,True,Financing Incentives
-Mozambique,2019,Venture Capital Availability,2.042726278,1.477463153965065,True,Financing Incentives
-Mauritania,2019,Venture Capital Availability,2.109327316,1.5718271463734115,True,Financing Incentives
-Mauritius,2019,Venture Capital Availability,3.10926795,2.9885977137566564,True,Financing Incentives
-Malawi,2019,Venture Capital Availability,1.953561902,1.3511301905064632,True,Financing Incentives
-Malaysia,2019,Venture Capital Availability,4.570549488,5.059021300222212,True,Financing Incentives
-Namibia,2019,Venture Capital Availability,3.006424427,2.8428833868475234,True,Financing Incentives
-Nigeria,2019,Venture Capital Availability,2.011003971,1.432517254819721,True,Financing Incentives
-Nicaragua,2019,Venture Capital Availability,2.177974224,1.6690898392667033,True,Financing Incentives
-Netherlands,2019,Venture Capital Availability,4.383280753999999,4.793688717965811,True,Financing Incentives
-Norway,2019,Venture Capital Availability,3.906944513,4.118789485471204,True,Financing Incentives
-Nepal,2019,Venture Capital Availability,2.86187911,2.6380836779293224,True,Financing Incentives
-New Zealand,2019,Venture Capital Availability,4.288594246000001,4.6595316959373445,True,Financing Incentives
-Oman,2019,Venture Capital Availability,4.139357567,4.448085008812095,True,Financing Incentives
-Pakistan,2019,Venture Capital Availability,3.765487432,3.9183653581837143,True,Financing Incentives
-Panama,2019,Venture Capital Availability,3.427287579,3.439185313557446,True,Financing Incentives
-Peru,2019,Venture Capital Availability,3.098534107,2.9733894180636615,True,Financing Incentives
-Philippines,2019,Venture Capital Availability,3.559462786,3.626458374225353,True,Financing Incentives
-Poland,2019,Venture Capital Availability,2.904554844,2.698548991385798,True,Financing Incentives
+Montenegro,2019,Venture Capital Availability,3.698900461,3.2490837175,True,Financing Incentives
+Mongolia,2019,Venture Capital Availability,2.17786479,1.981553991666667,True,Financing Incentives
+Mozambique,2019,Venture Capital Availability,2.042726278,1.868938565,True,Financing Incentives
+Mauritania,2019,Venture Capital Availability,2.109327316,1.92443943,True,Financing Incentives
+Mauritius,2019,Venture Capital Availability,3.10926795,2.7577232916666663,True,Financing Incentives
+Malawi,2019,Venture Capital Availability,1.953561902,1.7946349183333332,True,Financing Incentives
+Malaysia,2019,Venture Capital Availability,4.570549488,3.975457906666667,True,Financing Incentives
+Namibia,2019,Venture Capital Availability,3.006424427,2.6720203558333333,True,Financing Incentives
+Nigeria,2019,Venture Capital Availability,2.011003971,1.8425033091666667,True,Financing Incentives
+Nicaragua,2019,Venture Capital Availability,2.177974224,1.981645186666667,True,Financing Incentives
+Netherlands,2019,Venture Capital Availability,4.383280753999999,3.8194006283333324,True,Financing Incentives
+Norway,2019,Venture Capital Availability,3.906944513,3.422453760833333,True,Financing Incentives
+Nepal,2019,Venture Capital Availability,2.86187911,2.5515659250000002,True,Financing Incentives
+New Zealand,2019,Venture Capital Availability,4.288594246000001,3.7404952050000007,True,Financing Incentives
+Oman,2019,Venture Capital Availability,4.139357567,3.6161313058333335,True,Financing Incentives
+Pakistan,2019,Venture Capital Availability,3.765487432,3.30457286,True,Financing Incentives
+Panama,2019,Venture Capital Availability,3.427287579,3.0227396491666667,True,Financing Incentives
+Peru,2019,Venture Capital Availability,3.098534107,2.7487784225,True,Financing Incentives
+Philippines,2019,Venture Capital Availability,3.559462786,3.1328856550000004,True,Financing Incentives
+Poland,2019,Venture Capital Availability,2.904554844,2.587129036666667,True,Financing Incentives
 Puerto Rico,2019,Venture Capital Availability,,,True,Financing Incentives
-Portugal,2019,Venture Capital Availability,3.436919451,3.452832276481449,True,Financing Incentives
-Paraguay,2019,Venture Capital Availability,2.89983058,2.691855395826056,True,Financing Incentives
-Qatar,2019,Venture Capital Availability,4.827404976,5.422948200575839,True,Financing Incentives
-Romania,2019,Venture Capital Availability,2.647964954,2.33499840480157,True,Financing Incentives
-Russian Federation,2019,Venture Capital Availability,2.757106304,2.489635837371866,True,Financing Incentives
-Rwanda,2019,Venture Capital Availability,3.661409378,3.7709018802491596,True,Financing Incentives
-Saudi Arabia,2019,Venture Capital Availability,4.423228264,4.850288534478766,True,Financing Incentives
-Senegal,2019,Venture Capital Availability,2.643872499,2.329199990780583,True,Financing Incentives
-Singapore,2019,Venture Capital Availability,4.808745861,5.396510946156374,True,Financing Incentives
+Portugal,2019,Venture Capital Availability,3.436919451,3.0307662091666665,True,Financing Incentives
+Paraguay,2019,Venture Capital Availability,2.89983058,2.5831921500000004,True,Financing Incentives
+Qatar,2019,Venture Capital Availability,4.827404976,4.189504146666668,True,Financing Incentives
+Romania,2019,Venture Capital Availability,2.647964954,2.3733041283333334,True,Financing Incentives
+Russian Federation,2019,Venture Capital Availability,2.757106304,2.4642552533333335,True,Financing Incentives
+Rwanda,2019,Venture Capital Availability,3.661409378,3.2178411483333336,True,Financing Incentives
+Saudi Arabia,2019,Venture Capital Availability,4.423228264,3.8526902199999995,True,Financing Incentives
+Senegal,2019,Venture Capital Availability,2.643872499,2.3698937491666667,True,Financing Incentives
+Singapore,2019,Venture Capital Availability,4.808745861,4.173954884166667,True,Financing Incentives
 Sierra Leone,2019,Venture Capital Availability,,,True,Financing Incentives
-El Salvador,2019,Venture Capital Availability,2.567311525,2.2207242164343697,True,Financing Incentives
-Serbia,2019,Venture Capital Availability,3.155874491,3.054632409508745,True,Financing Incentives
+El Salvador,2019,Venture Capital Availability,2.567311525,2.3060929375,True,Financing Incentives
+Serbia,2019,Venture Capital Availability,3.155874491,2.796562075833333,True,Financing Incentives
 Suriname,2019,Venture Capital Availability,,,True,Financing Incentives
-Slovak Republic,2019,Venture Capital Availability,3.618739128,3.710444336823752,True,Financing Incentives
-Slovenia,2019,Venture Capital Availability,3.276289701,3.225243263385969,True,Financing Incentives
-Sweden,2019,Venture Capital Availability,4.38152504,4.791201126367506,True,Financing Incentives
-Swaziland,2019,Venture Capital Availability,2.482843876,2.1010458326081762,True,Financing Incentives
-Seychelles,2019,Venture Capital Availability,3.422599077,3.432542387554783,True,Financing Incentives
+Slovak Republic,2019,Venture Capital Availability,3.618739128,3.1822826066666665,True,Financing Incentives
+Slovenia,2019,Venture Capital Availability,3.276289701,2.8969080841666663,True,Financing Incentives
+Sweden,2019,Venture Capital Availability,4.38152504,3.817937533333333,True,Financing Incentives
+Swaziland,2019,Venture Capital Availability,2.482843876,2.2357032300000004,True,Financing Incentives
+Seychelles,2019,Venture Capital Availability,3.422599077,3.018832564166667,True,Financing Incentives
 Syrian Arab Republic,2019,Venture Capital Availability,,,True,Financing Incentives
-Chad,2019,Venture Capital Availability,2.181058645,1.6734600155968096,True,Financing Incentives
-Thailand,2019,Venture Capital Availability,3.76664567,3.920006413115007,True,Financing Incentives
-Tajikistan,2019,Venture Capital Availability,3.330858707,3.302559614940655,True,Financing Incentives
+Chad,2019,Venture Capital Availability,2.181058645,1.9842155375,True,Financing Incentives
+Thailand,2019,Venture Capital Availability,3.76664567,3.305538058333333,True,Financing Incentives
+Tajikistan,2019,Venture Capital Availability,3.330858707,2.9423822558333335,True,Financing Incentives
 Timor-Leste,2019,Venture Capital Availability,,,True,Financing Incentives
-Trinidad and Tobago,2019,Venture Capital Availability,2.317754984,1.867138863299525,True,Financing Incentives
-Tunisia,2019,Venture Capital Availability,2.741847277,2.4680160135488984,True,Financing Incentives
-Turkey,2019,Venture Capital Availability,2.942585707,2.7524331976261704,True,Financing Incentives
-"Taiwan, China",2019,Venture Capital Availability,4.084826468999999,4.370822367384632,True,Financing Incentives
-Tanzania,2019,Venture Capital Availability,3.0639200210000004,2.924346288307549,True,Financing Incentives
-Uganda,2019,Venture Capital Availability,2.498054981,2.1225977579211506,True,Financing Incentives
-Ukraine,2019,Venture Capital Availability,3.019632339,2.861597078782747,True,Financing Incentives
-Uruguay,2019,Venture Capital Availability,3.157426119,3.056830840902751,True,Financing Incentives
-United States,2019,Venture Capital Availability,5.2346816060000005,6.0,True,Financing Incentives
-"Venezuela, RB",2019,Venture Capital Availability,2.064788818,1.5087225670250959,True,Financing Incentives
-Vietnam,2019,Venture Capital Availability,3.267499924,3.212789426704038,True,Financing Incentives
-"Yemen, Rep.",2019,Venture Capital Availability,2.163688421,1.648848932423192,True,Financing Incentives
-South Africa,2019,Venture Capital Availability,3.051583052,2.906866596038217,True,Financing Incentives
-Zambia,2019,Venture Capital Availability,1.803465962,1.1384660554116979,True,Financing Incentives
-Zimbabwe,2019,Venture Capital Availability,2.058022738,1.499136014909283,True,Financing Incentives
+Trinidad and Tobago,2019,Venture Capital Availability,2.317754984,2.0981291533333337,True,Financing Incentives
+Tunisia,2019,Venture Capital Availability,2.741847277,2.4515393975000004,True,Financing Incentives
+Turkey,2019,Venture Capital Availability,2.942585707,2.6188214225,True,Financing Incentives
+"Taiwan, China",2019,Venture Capital Availability,4.084826468999999,3.5706887241666663,True,Financing Incentives
+Tanzania,2019,Venture Capital Availability,3.0639200210000004,2.719933350833334,True,Financing Incentives
+Uganda,2019,Venture Capital Availability,2.498054981,2.2483791508333333,True,Financing Incentives
+Ukraine,2019,Venture Capital Availability,3.019632339,2.683026949166667,True,Financing Incentives
+Uruguay,2019,Venture Capital Availability,3.157426119,2.797855099166667,True,Financing Incentives
+United States,2019,Venture Capital Availability,5.2346816060000005,4.528901338333334,True,Financing Incentives
+"Venezuela, RB",2019,Venture Capital Availability,2.064788818,1.887324015,True,Financing Incentives
+Vietnam,2019,Venture Capital Availability,3.267499924,2.88958327,True,Financing Incentives
+"Yemen, Rep.",2019,Venture Capital Availability,2.163688421,1.9697403508333333,True,Financing Incentives
+South Africa,2019,Venture Capital Availability,3.051583052,2.709652543333333,True,Financing Incentives
+Zambia,2019,Venture Capital Availability,1.803465962,1.6695549683333333,True,Financing Incentives
+Zimbabwe,2019,Venture Capital Availability,2.058022738,1.8816856149999999,True,Financing Incentives

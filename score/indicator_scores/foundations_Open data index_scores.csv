@@ -1,0 +1,95 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Taiwan,2016,Open data index,90,5.5,True,Data Exchange
+Australia,2016,Open data index,79,4.95,True,Data Exchange
+Great Britain,2016,Open data index,79,4.95,True,Data Exchange
+France,2016,Open data index,70,4.5,True,Data Exchange
+Finland,2016,Open data index,69,4.45,True,Data Exchange
+Canada,2016,Open data index,69,4.45,True,Data Exchange
+Norway,2016,Open data index,69,4.45,True,Data Exchange
+Brazil,2016,Open data index,68,4.4,True,Data Exchange
+New Zealand,2016,Open data index,68,4.4,True,Data Exchange
+Northern Ireland,2016,Open data index,67,4.35,True,Data Exchange
+United States,2016,Open data index,65,4.25,True,Data Exchange
+Denmark,2016,Open data index,65,4.25,True,Data Exchange
+Mexico,2016,Open data index,65,4.25,True,Data Exchange
+Colombia,2016,Open data index,64,4.2,True,Data Exchange
+Latvia,2016,Open data index,64,4.2,True,Data Exchange
+Japan,2016,Open data index,61,4.05,True,Data Exchange
+Argentina,2016,Open data index,60,4.0,True,Data Exchange
+Singapore,2016,Open data index,60,4.0,True,Data Exchange
+Uruguay,2016,Open data index,55,3.75,True,Data Exchange
+Netherlands,2016,Open data index,54,3.7,True,Data Exchange
+Sweden,2016,Open data index,53,3.65,True,Data Exchange
+Belgium,2016,Open data index,52,3.6,True,Data Exchange
+Chile,2016,Open data index,52,3.6,True,Data Exchange
+Germany,2016,Open data index,51,3.55,True,Data Exchange
+Hong Kong,2016,Open data index,51,3.55,True,Data Exchange
+Romania,2016,Open data index,51,3.55,True,Data Exchange
+Czech Republic,2016,Open data index,50,3.5,True,Data Exchange
+Poland,2016,Open data index,49,3.45,True,Data Exchange
+Austria,2016,Open data index,49,3.45,True,Data Exchange
+Slovenia,2016,Open data index,49,3.45,True,Data Exchange
+Ukraine,2016,Open data index,48,3.4,True,Data Exchange
+India,2016,Open data index,47,3.35,True,Data Exchange
+Italy,2016,Open data index,47,3.35,True,Data Exchange
+Slovakia,2016,Open data index,47,3.35,True,Data Exchange
+Greece,2016,Open data index,46,3.3,True,Data Exchange
+Bulgaria,2016,Open data index,45,3.25,True,Data Exchange
+Paraguay,2016,Open data index,44,3.2,True,Data Exchange
+Puerto Rico,2016,Open data index,43,3.15,True,Data Exchange
+Russia,2016,Open data index,43,3.15,True,Data Exchange
+Isle of Man,2016,Open data index,43,3.15,True,Data Exchange
+Serbia,2016,Open data index,41,3.05,True,Data Exchange
+Israel,2016,Open data index,41,3.05,True,Data Exchange
+South Africa,2016,Open data index,40,3.0,True,Data Exchange
+Croatia,2016,Open data index,39,2.95,True,Data Exchange
+Portugal,2016,Open data index,37,2.85,True,Data Exchange
+Turkey,2016,Open data index,37,2.85,True,Data Exchange
+Albania,2016,Open data index,36,2.8,True,Data Exchange
+Switzerland,2016,Open data index,36,2.8,True,Data Exchange
+El Salvador,2016,Open data index,35,2.75,True,Data Exchange
+Montenegro,2016,Open data index,35,2.75,True,Data Exchange
+Thailand,2016,Open data index,34,2.7,True,Data Exchange
+Macedonia,2016,Open data index,31,2.55,True,Data Exchange
+Bolivia,2016,Open data index,30,2.5,True,Data Exchange
+Philippines,2016,Open data index,30,2.5,True,Data Exchange
+Peru,2016,Open data index,29,2.45,True,Data Exchange
+Guatemala,2016,Open data index,28,2.4,True,Data Exchange
+Dominican Republic,2016,Open data index,27,2.35,True,Data Exchange
+Bosnia and Herzegovina,2016,Open data index,26,2.3,True,Data Exchange
+Kosovo,2016,Open data index,26,2.3,True,Data Exchange
+Jamaica,2016,Open data index,26,2.3,True,Data Exchange
+Indonesia,2016,Open data index,25,2.25,True,Data Exchange
+Panama,2016,Open data index,25,2.25,True,Data Exchange
+Bangladesh,2016,Open data index,25,2.25,True,Data Exchange
+Costa Rica,2016,Open data index,23,2.15,True,Data Exchange
+Bhutan,2016,Open data index,23,2.15,True,Data Exchange
+Tunisia,2016,Open data index,22,2.1,True,Data Exchange
+Iran,2016,Open data index,21,2.05,True,Data Exchange
+Trinidad and Tobago,2016,Open data index,21,2.05,True,Data Exchange
+Nepal,2016,Open data index,20,2.0,True,Data Exchange
+Tanzania,2016,Open data index,20,2.0,True,Data Exchange
+Guyana,2016,Open data index,20,2.0,True,Data Exchange
+Pakistan,2016,Open data index,19,1.95,True,Data Exchange
+Zambia,2016,Open data index,19,1.95,True,Data Exchange
+Cambodia,2016,Open data index,17,1.85,True,Data Exchange
+The Bahamas,2016,Open data index,17,1.85,True,Data Exchange
+Lesotho,2016,Open data index,16,1.8,True,Data Exchange
+Ghana,2016,Open data index,16,1.8,True,Data Exchange
+Namibia,2016,Open data index,15,1.75,True,Data Exchange
+Saint Lucia,2016,Open data index,15,1.75,True,Data Exchange
+Kenya,2016,Open data index,15,1.75,True,Data Exchange
+Oman,2016,Open data index,14,1.7,True,Data Exchange
+Venezuela,2016,Open data index,14,1.7,True,Data Exchange
+Zimbabwe,2016,Open data index,13,1.65,True,Data Exchange
+Mozambique,2016,Open data index,12,1.6,True,Data Exchange
+Afghanistan,2016,Open data index,12,1.6,True,Data Exchange
+Cameroon,2016,Open data index,11,1.55,True,Data Exchange
+Malaysia,2016,Open data index,10,1.5,True,Data Exchange
+Botswana,2016,Open data index,9,1.45,True,Data Exchange
+Saint Vincent and the Grenadines,2016,Open data index,7,1.35,True,Data Exchange
+Antigua and Barbuda,2016,Open data index,5,1.25,True,Data Exchange
+Malawi,2016,Open data index,5,1.25,True,Data Exchange
+Barbados,2016,Open data index,4,1.2,True,Data Exchange
+Saint Kitts and Nevis,2016,Open data index,4,1.2,True,Data Exchange
+Myanmar,2016,Open data index,1,1.05,True,Data Exchange

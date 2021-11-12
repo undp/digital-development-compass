@@ -1,206 +1,206 @@
 ,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-0,Afghanistan,2019,SDG Index,53.9,2.6386554621848735,True,Ambition
-1,Angola,2019,SDG Index,50.3,2.2605042016806722,True,Ambition
-2,Albania,2019,SDG Index,71.0,4.434873949579831,True,Ambition
-3,Andorra,2019,SDG Index,,,True,Ambition
-4,United Arab Emirates,2019,SDG Index,70.2,4.350840336134453,True,Ambition
-5,Argentina,2019,SDG Index,72.8,4.623949579831932,True,Ambition
-6,Armenia,2019,SDG Index,71.8,4.518907563025209,True,Ambition
-7,Antigua and Barbuda,2019,SDG Index,,,True,Ambition
-8,Australia,2019,SDG Index,75.6,4.918067226890756,True,Ambition
-9,Austria,2019,SDG Index,82.1,5.6008403361344525,True,Ambition
-10,Azerbaijan,2019,SDG Index,72.4,4.581932773109244,True,Ambition
-11,Burundi,2019,SDG Index,51.8,2.418067226890756,True,Ambition
-12,Belgium,2019,SDG Index,82.2,5.611344537815126,True,Ambition
-13,Benin,2019,SDG Index,49.9,2.2184873949579833,True,Ambition
-14,Burkina Faso,2019,SDG Index,53.5,2.596638655462185,True,Ambition
-15,Bangladesh,2019,SDG Index,63.5,3.6470588235294117,True,Ambition
-16,Bulgaria,2019,SDG Index,73.8,4.728991596638655,True,Ambition
-17,Bahrain,2019,SDG Index,66.1,3.92016806722689,True,Ambition
-18,"Bahamas, The",2019,SDG Index,,,True,Ambition
-19,Bosnia and Herzegovina,2019,SDG Index,73.7,4.718487394957983,True,Ambition
-20,Belarus,2019,SDG Index,78.8,5.254201680672268,True,Ambition
-21,Belize,2019,SDG Index,64.4,3.741596638655463,True,Ambition
-22,Bolivia,2019,SDG Index,67.6,4.077731092436974,True,Ambition
-23,Brazil,2019,SDG Index,71.3,4.466386554621848,True,Ambition
-24,Barbados,2019,SDG Index,68.4,4.161764705882353,True,Ambition
-25,Brunei Darussalam,2019,SDG Index,68.3,4.15126050420168,True,Ambition
-26,Bhutan,2019,SDG Index,70.0,4.329831932773109,True,Ambition
-27,Botswana,2019,SDG Index,61.9,3.478991596638655,True,Ambition
-28,Central African Republic,2019,SDG Index,38.3,1.0,True,Ambition
-29,Canada,2019,SDG Index,79.2,5.296218487394958,True,Ambition
-30,Switzerland,2019,SDG Index,80.1,5.390756302521008,True,Ambition
-31,Chile,2019,SDG Index,77.1,5.075630252100839,True,Ambition
-32,China,2019,SDG Index,72.1,4.550420168067227,True,Ambition
-33,Cote d'Ivoire,2019,SDG Index,57.6,3.0273109243697482,True,Ambition
-34,Cameroon,2019,SDG Index,55.3,2.7857142857142856,True,Ambition
-35,"Congo, Dem. Rep.",2019,SDG Index,49.3,2.1554621848739495,True,Ambition
-36,"Congo, Rep.",2019,SDG Index,52.9,2.533613445378151,True,Ambition
-37,Colombia,2019,SDG Index,70.6,4.392857142857142,True,Ambition
-38,Comoros,2019,SDG Index,,,True,Ambition
-39,Cabo Verde,2019,SDG Index,68.1,4.130252100840336,True,Ambition
-40,Costa Rica,2019,SDG Index,73.6,4.70798319327731,True,Ambition
-41,Cuba,2019,SDG Index,73.7,4.718487394957983,True,Ambition
-42,Cyprus,2019,SDG Index,74.9,4.844537815126051,True,Ambition
-43,Czech Republic,2019,SDG Index,81.4,5.527310924369749,True,Ambition
-44,Germany,2019,SDG Index,82.5,5.642857142857142,True,Ambition
-45,Djibouti,2019,SDG Index,53.8,2.6281512605042012,True,Ambition
-46,Dominica,2019,SDG Index,,,True,Ambition
-47,Denmark,2019,SDG Index,84.9,5.894957983193278,True,Ambition
-48,Dominican Republic,2019,SDG Index,70.8,4.413865546218487,True,Ambition
-49,Algeria,2019,SDG Index,70.9,4.42436974789916,True,Ambition
-50,Ecuador,2019,SDG Index,72.5,4.592436974789916,True,Ambition
-51,"Egypt, Arab Rep.",2019,SDG Index,68.6,4.182773109243697,True,Ambition
-52,Eritrea,2019,SDG Index,,,True,Ambition
-53,Spain,2019,SDG Index,79.5,5.327731092436974,True,Ambition
-54,Estonia,2019,SDG Index,81.6,5.548319327731091,True,Ambition
-55,Ethiopia,2019,SDG Index,54.5,2.7016806722689077,True,Ambition
-56,Finland,2019,SDG Index,85.9,6.0,True,Ambition
-57,Fiji,2019,SDG Index,71.2,4.455882352941177,True,Ambition
-58,France,2019,SDG Index,81.7,5.5588235294117645,True,Ambition
-59,"Micronesia, Fed. Sts.",2019,SDG Index,,,True,Ambition
-60,Gabon,2019,SDG Index,62.8,3.5735294117647056,True,Ambition
-61,United Kingdom,2019,SDG Index,80.0,5.380252100840336,True,Ambition
-62,Georgia,2019,SDG Index,72.2,4.560924369747899,True,Ambition
-63,Ghana,2019,SDG Index,62.5,3.542016806722689,True,Ambition
-64,Guinea,2019,SDG Index,51.0,2.3340336134453783,True,Ambition
-65,"Gambia, The",2019,SDG Index,59.3,3.205882352941176,True,Ambition
-66,Guinea-Bissau,2019,SDG Index,,,True,Ambition
-67,Equatorial Guinea,2019,SDG Index,,,True,Ambition
-68,Greece,2019,SDG Index,75.4,4.897058823529412,True,Ambition
-69,Grenada,2019,SDG Index,,,True,Ambition
-70,Guatemala,2019,SDG Index,59.9,3.2689075630252096,True,Ambition
-71,Guyana,2019,SDG Index,57.9,3.0588235294117645,True,Ambition
-72,Honduras,2019,SDG Index,62.8,3.5735294117647056,True,Ambition
-73,Croatia,2019,SDG Index,80.4,5.4222689075630255,True,Ambition
-74,Haiti,2019,SDG Index,51.4,2.376050420168067,True,Ambition
-75,Hungary,2019,SDG Index,78.8,5.254201680672268,True,Ambition
-76,Indonesia,2019,SDG Index,66.3,3.9411764705882346,True,Ambition
-77,India,2019,SDG Index,60.1,3.289915966386555,True,Ambition
-78,Ireland,2019,SDG Index,81.0,5.485294117647058,True,Ambition
-79,"Iran, Islamic Rep.",2019,SDG Index,70.0,4.329831932773109,True,Ambition
-80,Iraq,2019,SDG Index,63.8,3.678571428571428,True,Ambition
-81,Iceland,2019,SDG Index,78.2,5.1911764705882355,True,Ambition
-82,Israel,2019,SDG Index,75.0,4.855042016806722,True,Ambition
-83,Italy,2019,SDG Index,78.8,5.254201680672268,True,Ambition
-84,Jamaica,2019,SDG Index,69.0,4.224789915966386,True,Ambition
-85,Jordan,2019,SDG Index,70.1,4.34033613445378,True,Ambition
-86,Japan,2019,SDG Index,79.8,5.359243697478991,True,Ambition
-87,Kazakhstan,2019,SDG Index,71.6,4.497899159663865,True,Ambition
-88,Kenya,2019,SDG Index,60.6,3.342436974789916,True,Ambition
-89,Kyrgyz Republic,2019,SDG Index,74.0,4.749999999999999,True,Ambition
-90,Cambodia,2019,SDG Index,64.5,3.752100840336134,True,Ambition
-91,Kiribati,2019,SDG Index,,,True,Ambition
-92,St. Kitts and Nevis,2019,SDG Index,,,True,Ambition
-93,"Korea, Rep.",2019,SDG Index,78.6,5.2331932773109235,True,Ambition
-94,Kuwait,2019,SDG Index,62.5,3.542016806722689,True,Ambition
-95,Lao PDR,2019,SDG Index,63.0,3.59453781512605,True,Ambition
-96,Lebanon,2019,SDG Index,66.8,3.993697478991596,True,Ambition
-97,Liberia,2019,SDG Index,48.6,2.081932773109244,True,Ambition
-98,Libya,2019,SDG Index,,,True,Ambition
-99,St. Lucia,2019,SDG Index,,,True,Ambition
-100,Liechtenstein,2019,SDG Index,,,True,Ambition
-101,Sri Lanka,2019,SDG Index,68.1,4.130252100840336,True,Ambition
-102,Lesotho,2019,SDG Index,54.6,2.71218487394958,True,Ambition
-103,Lithuania,2019,SDG Index,76.7,5.033613445378151,True,Ambition
-104,Luxembourg,2019,SDG Index,74.2,4.7710084033613445,True,Ambition
-105,Latvia,2019,SDG Index,79.2,5.296218487394958,True,Ambition
-106,Morocco,2019,SDG Index,70.5,4.38235294117647,True,Ambition
-107,Monaco,2019,SDG Index,,,True,Ambition
-108,Moldova,2019,SDG Index,73.7,4.718487394957983,True,Ambition
-109,Madagascar,2019,SDG Index,49.0,2.1239495798319328,True,Ambition
-110,Maldives,2019,SDG Index,69.3,4.2563025210084025,True,Ambition
-111,Mexico,2019,SDG Index,69.1,4.235294117647058,True,Ambition
-112,Marshall Islands,2019,SDG Index,,,True,Ambition
-113,North Macedonia,2019,SDG Index,72.5,4.592436974789916,True,Ambition
-114,Mali,2019,SDG Index,52.2,2.4600840336134455,True,Ambition
-115,Malta,2019,SDG Index,75.7,4.928571428571429,True,Ambition
-116,Myanmar,2019,SDG Index,64.9,3.7941176470588243,True,Ambition
-117,Montenegro,2019,SDG Index,68.2,4.140756302521009,True,Ambition
-118,Mongolia,2019,SDG Index,63.8,3.678571428571428,True,Ambition
-119,Mozambique,2019,SDG Index,51.1,2.344537815126051,True,Ambition
-120,Mauritania,2019,SDG Index,55.5,2.80672268907563,True,Ambition
-121,Mauritius,2019,SDG Index,66.7,3.9831932773109244,True,Ambition
-122,Malawi,2019,SDG Index,51.4,2.376050420168067,True,Ambition
-123,Malaysia,2019,SDG Index,70.9,4.42436974789916,True,Ambition
-124,Namibia,2019,SDG Index,61.8,3.468487394957983,True,Ambition
-125,Niger,2019,SDG Index,49.5,2.1764705882352944,True,Ambition
-126,Nigeria,2019,SDG Index,48.9,2.1134453781512605,True,Ambition
-127,Nicaragua,2019,SDG Index,66.3,3.9411764705882346,True,Ambition
-128,Netherlands,2019,SDG Index,81.6,5.548319327731091,True,Ambition
-129,Norway,2019,SDG Index,82.0,5.59033613445378,True,Ambition
-130,Nepal,2019,SDG Index,66.5,3.9621848739495795,True,Ambition
-131,Nauru,2019,SDG Index,,,True,Ambition
-132,New Zealand,2019,SDG Index,79.1,5.285714285714285,True,Ambition
-133,Oman,2019,SDG Index,70.1,4.34033613445378,True,Ambition
-134,Pakistan,2019,SDG Index,57.7,3.0378151260504205,True,Ambition
-135,Panama,2019,SDG Index,68.0,4.119747899159663,True,Ambition
-136,Peru,2019,SDG Index,71.1,4.4453781512605035,True,Ambition
-137,Philippines,2019,SDG Index,64.5,3.752100840336134,True,Ambition
-138,Palau,2019,SDG Index,,,True,Ambition
-139,Papua New Guinea,2019,SDG Index,51.3,2.3655462184873945,True,Ambition
-140,Poland,2019,SDG Index,80.2,5.40126050420168,True,Ambition
-141,"Korea, Dem. Rep.",2019,SDG Index,,,True,Ambition
-142,Portugal,2019,SDG Index,78.6,5.2331932773109235,True,Ambition
-143,Paraguay,2019,SDG Index,66.9,4.00420168067227,True,Ambition
-144,Qatar,2019,SDG Index,66.7,3.9831932773109244,True,Ambition
-145,Romania,2019,SDG Index,75.0,4.855042016806722,True,Ambition
-146,Russian Federation,2019,SDG Index,73.8,4.728991596638655,True,Ambition
-147,Rwanda,2019,SDG Index,57.6,3.0273109243697482,True,Ambition
-148,Saudi Arabia,2019,SDG Index,66.3,3.9411764705882346,True,Ambition
-149,Sudan,2019,SDG Index,49.5,2.1764705882352944,True,Ambition
-150,Senegal,2019,SDG Index,58.4,3.1113445378151257,True,Ambition
-151,Singapore,2019,SDG Index,69.9,4.319327731092438,True,Ambition
-152,Solomon Islands,2019,SDG Index,,,True,Ambition
-153,Sierra Leone,2019,SDG Index,51.7,2.4075630252100844,True,Ambition
-154,El Salvador,2019,SDG Index,67.9,4.109243697478992,True,Ambition
-155,San Marino,2019,SDG Index,,,True,Ambition
-156,Somalia,2019,SDG Index,45.6,1.766806722689076,True,Ambition
-157,Serbia,2019,SDG Index,75.6,4.918067226890756,True,Ambition
-158,South Sudan,2019,SDG Index,38.9,1.0630252100840338,True,Ambition
-159,Sao Tome and Principe,2019,SDG Index,58.8,3.1533613445378146,True,Ambition
-160,Suriname,2019,SDG Index,67.0,4.01470588235294,True,Ambition
-161,Slovak Republic,2019,SDG Index,79.6,5.338235294117646,True,Ambition
-162,Slovenia,2019,SDG Index,81.6,5.548319327731091,True,Ambition
-163,Sweden,2019,SDG Index,85.6,5.968487394957982,True,Ambition
-164,Eswatini,2019,SDG Index,53.3,2.57563025210084,True,Ambition
-165,Seychelles,2019,SDG Index,,,True,Ambition
-166,Syrian Arab Republic,2019,SDG Index,58.0,3.0693277310924367,True,Ambition
-167,Chad,2019,SDG Index,40.9,1.2731092436974791,True,Ambition
-168,Togo,2019,SDG Index,53.2,2.5651260504201683,True,Ambition
-169,Thailand,2019,SDG Index,74.2,4.7710084033613445,True,Ambition
-170,Tajikistan,2019,SDG Index,69.8,4.3088235294117645,True,Ambition
-171,Turkmenistan,2019,SDG Index,61.1,3.3949579831932777,True,Ambition
-172,Timor-Leste,2019,SDG Index,,,True,Ambition
-173,Tonga,2019,SDG Index,,,True,Ambition
-174,Trinidad and Tobago,2019,SDG Index,63.5,3.6470588235294117,True,Ambition
-175,Tunisia,2019,SDG Index,71.4,4.476890756302522,True,Ambition
-176,Turkey,2019,SDG Index,70.4,4.371848739495799,True,Ambition
-177,Tuvalu,2019,SDG Index,,,True,Ambition
-178,Tanzania,2019,SDG Index,56.4,2.90126050420168,True,Ambition
-179,Uganda,2019,SDG Index,53.5,2.596638655462185,True,Ambition
-180,Ukraine,2019,SDG Index,75.5,4.9075630252100835,True,Ambition
-181,Uruguay,2019,SDG Index,74.5,4.80252100840336,True,Ambition
-182,United States,2019,SDG Index,76.0,4.960084033613445,True,Ambition
-183,Uzbekistan,2019,SDG Index,69.8,4.3088235294117645,True,Ambition
-184,St. Vincent and the Grenadines,2019,SDG Index,,,True,Ambition
-185,"Venezuela, RB",2019,SDG Index,59.3,3.205882352941176,True,Ambition
-186,Vietnam,2019,SDG Index,72.8,4.623949579831932,True,Ambition
-187,Vanuatu,2019,SDG Index,60.5,3.3319327731092434,True,Ambition
-188,Samoa,2019,SDG Index,,,True,Ambition
-189,"Yemen, Rep.",2019,SDG Index,52.9,2.533613445378151,True,Ambition
-190,South Africa,2019,SDG Index,63.7,3.6680672268907566,True,Ambition
-191,Zambia,2019,SDG Index,53.4,2.5861344537815123,True,Ambition
-192,Zimbabwe,2019,SDG Index,58.7,3.1428571428571432,True,Ambition
-193,Eastern Europe and Central Asia,2019,SDG Index,71.4,4.476890756302522,True,Ambition
-194,East and South Asia,2019,SDG Index,65.7,3.8781512605042017,True,Ambition
-195,Latin America and the Caribbean,2019,SDG Index,68.6,4.182773109243697,True,Ambition
-196,Middle East and North Africa,2019,SDG Index,67.1,4.025210084033613,True,Ambition
-197,Oceania,2019,SDG Index,50.1,2.2394957983193278,True,Ambition
-198,OECD members,2019,SDG Index,77.2,5.086134453781512,True,Ambition
-199,Small Island Developing States,2019,SDG Index,62.5,3.542016806722689,True,Ambition
-200,Sub-Saharan Africa,2019,SDG Index,51.9,2.4285714285714284,True,Ambition
-201,Low-income Countries,2019,SDG Index,51.0,2.3340336134453783,True,Ambition
-202,Lower-middle-income Countries,2019,SDG Index,60.1,3.289915966386555,True,Ambition
-203,Upper-middle-income Countries,2019,SDG Index,70.8,4.413865546218487,True,Ambition
-204,High-income Countries,2019,SDG Index,78.1,5.180672268907562,True,Ambition
+0,Afghanistan,2019,SDG Index,53.9,3.695,TRUE,Ambition
+1,Angola,2019,SDG Index,50.3,3.515,TRUE,Ambition
+2,Albania,2019,SDG Index,71,4.55,TRUE,Ambition
+3,Andorra,2019,SDG Index,,,TRUE,Ambition
+4,United Arab Emirates,2019,SDG Index,70.2,4.51,TRUE,Ambition
+5,Argentina,2019,SDG Index,72.8,4.64,TRUE,Ambition
+6,Armenia,2019,SDG Index,71.8,4.59,TRUE,Ambition
+7,Antigua and Barbuda,2019,SDG Index,,,TRUE,Ambition
+8,Australia,2019,SDG Index,75.6,4.78,TRUE,Ambition
+9,Austria,2019,SDG Index,82.1,5.105,TRUE,Ambition
+10,Azerbaijan,2019,SDG Index,72.4,4.62,TRUE,Ambition
+11,Burundi,2019,SDG Index,51.8,3.59,TRUE,Ambition
+12,Belgium,2019,SDG Index,82.2,5.11,TRUE,Ambition
+13,Benin,2019,SDG Index,49.9,3.495,TRUE,Ambition
+14,Burkina Faso,2019,SDG Index,53.5,3.675,TRUE,Ambition
+15,Bangladesh,2019,SDG Index,63.5,4.175,TRUE,Ambition
+16,Bulgaria,2019,SDG Index,73.8,4.69,TRUE,Ambition
+17,Bahrain,2019,SDG Index,66.1,4.305,TRUE,Ambition
+18,"Bahamas, The",2019,SDG Index,,,TRUE,Ambition
+19,Bosnia and Herzegovina,2019,SDG Index,73.7,4.685,TRUE,Ambition
+20,Belarus,2019,SDG Index,78.8,4.94,TRUE,Ambition
+21,Belize,2019,SDG Index,64.4,4.22,TRUE,Ambition
+22,Bolivia,2019,SDG Index,67.6,4.38,TRUE,Ambition
+23,Brazil,2019,SDG Index,71.3,4.565,TRUE,Ambition
+24,Barbados,2019,SDG Index,68.4,4.42,TRUE,Ambition
+25,Brunei Darussalam,2019,SDG Index,68.3,4.415,TRUE,Ambition
+26,Bhutan,2019,SDG Index,70,4.5,TRUE,Ambition
+27,Botswana,2019,SDG Index,61.9,4.095,TRUE,Ambition
+28,Central African Republic,2019,SDG Index,38.3,2.915,TRUE,Ambition
+29,Canada,2019,SDG Index,79.2,4.96,TRUE,Ambition
+30,Switzerland,2019,SDG Index,80.1,5.005,TRUE,Ambition
+31,Chile,2019,SDG Index,77.1,4.855,TRUE,Ambition
+32,China,2019,SDG Index,72.1,4.605,TRUE,Ambition
+33,Cote d'Ivoire,2019,SDG Index,57.6,3.88,TRUE,Ambition
+34,Cameroon,2019,SDG Index,55.3,3.765,TRUE,Ambition
+35,"Congo, Dem. Rep.",2019,SDG Index,49.3,3.465,TRUE,Ambition
+36,"Congo, Rep.",2019,SDG Index,52.9,3.645,TRUE,Ambition
+37,Colombia,2019,SDG Index,70.6,4.53,TRUE,Ambition
+38,Comoros,2019,SDG Index,,,TRUE,Ambition
+39,Cabo Verde,2019,SDG Index,68.1,4.405,TRUE,Ambition
+40,Costa Rica,2019,SDG Index,73.6,4.68,TRUE,Ambition
+41,Cuba,2019,SDG Index,73.7,4.685,TRUE,Ambition
+42,Cyprus,2019,SDG Index,74.9,4.745,TRUE,Ambition
+43,Czech Republic,2019,SDG Index,81.4,5.07,TRUE,Ambition
+44,Germany,2019,SDG Index,82.5,5.125,TRUE,Ambition
+45,Djibouti,2019,SDG Index,53.8,3.69,TRUE,Ambition
+46,Dominica,2019,SDG Index,,,TRUE,Ambition
+47,Denmark,2019,SDG Index,84.9,5.245,TRUE,Ambition
+48,Dominican Republic,2019,SDG Index,70.8,4.54,TRUE,Ambition
+49,Algeria,2019,SDG Index,70.9,4.545,TRUE,Ambition
+50,Ecuador,2019,SDG Index,72.5,4.625,TRUE,Ambition
+51,"Egypt, Arab Rep.",2019,SDG Index,68.6,4.43,TRUE,Ambition
+52,Eritrea,2019,SDG Index,,,TRUE,Ambition
+53,Spain,2019,SDG Index,79.5,4.975,TRUE,Ambition
+54,Estonia,2019,SDG Index,81.6,5.08,TRUE,Ambition
+55,Ethiopia,2019,SDG Index,54.5,3.725,TRUE,Ambition
+56,Finland,2019,SDG Index,85.9,5.295,TRUE,Ambition
+57,Fiji,2019,SDG Index,71.2,4.56,TRUE,Ambition
+58,France,2019,SDG Index,81.7,5.085,TRUE,Ambition
+59,"Micronesia, Fed. Sts.",2019,SDG Index,,,TRUE,Ambition
+60,Gabon,2019,SDG Index,62.8,4.14,TRUE,Ambition
+61,United Kingdom,2019,SDG Index,80,5,TRUE,Ambition
+62,Georgia,2019,SDG Index,72.2,4.61,TRUE,Ambition
+63,Ghana,2019,SDG Index,62.5,4.125,TRUE,Ambition
+64,Guinea,2019,SDG Index,51,3.55,TRUE,Ambition
+65,"Gambia, The",2019,SDG Index,59.3,3.965,TRUE,Ambition
+66,Guinea-Bissau,2019,SDG Index,,,TRUE,Ambition
+67,Equatorial Guinea,2019,SDG Index,,,TRUE,Ambition
+68,Greece,2019,SDG Index,75.4,4.77,TRUE,Ambition
+69,Grenada,2019,SDG Index,,,TRUE,Ambition
+70,Guatemala,2019,SDG Index,59.9,3.995,TRUE,Ambition
+71,Guyana,2019,SDG Index,57.9,3.895,TRUE,Ambition
+72,Honduras,2019,SDG Index,62.8,4.14,TRUE,Ambition
+73,Croatia,2019,SDG Index,80.4,5.02,TRUE,Ambition
+74,Haiti,2019,SDG Index,51.4,3.57,TRUE,Ambition
+75,Hungary,2019,SDG Index,78.8,4.94,TRUE,Ambition
+76,Indonesia,2019,SDG Index,66.3,4.315,TRUE,Ambition
+77,India,2019,SDG Index,60.1,4.005,TRUE,Ambition
+78,Ireland,2019,SDG Index,81,5.05,TRUE,Ambition
+79,"Iran, Islamic Rep.",2019,SDG Index,70,4.5,TRUE,Ambition
+80,Iraq,2019,SDG Index,63.8,4.19,TRUE,Ambition
+81,Iceland,2019,SDG Index,78.2,4.91,TRUE,Ambition
+82,Israel,2019,SDG Index,75,4.75,TRUE,Ambition
+83,Italy,2019,SDG Index,78.8,4.94,TRUE,Ambition
+84,Jamaica,2019,SDG Index,69,4.45,TRUE,Ambition
+85,Jordan,2019,SDG Index,70.1,4.505,TRUE,Ambition
+86,Japan,2019,SDG Index,79.8,4.99,TRUE,Ambition
+87,Kazakhstan,2019,SDG Index,71.6,4.58,TRUE,Ambition
+88,Kenya,2019,SDG Index,60.6,4.03,TRUE,Ambition
+89,Kyrgyz Republic,2019,SDG Index,74,4.7,TRUE,Ambition
+90,Cambodia,2019,SDG Index,64.5,4.225,TRUE,Ambition
+91,Kiribati,2019,SDG Index,,,TRUE,Ambition
+92,St. Kitts and Nevis,2019,SDG Index,,,TRUE,Ambition
+93,"Korea, Rep.",2019,SDG Index,78.6,4.93,TRUE,Ambition
+94,Kuwait,2019,SDG Index,62.5,4.125,TRUE,Ambition
+95,Lao PDR,2019,SDG Index,63,4.15,TRUE,Ambition
+96,Lebanon,2019,SDG Index,66.8,4.34,TRUE,Ambition
+97,Liberia,2019,SDG Index,48.6,3.43,TRUE,Ambition
+98,Libya,2019,SDG Index,,,TRUE,Ambition
+99,St. Lucia,2019,SDG Index,,,TRUE,Ambition
+100,Liechtenstein,2019,SDG Index,,,TRUE,Ambition
+101,Sri Lanka,2019,SDG Index,68.1,4.405,TRUE,Ambition
+102,Lesotho,2019,SDG Index,54.6,3.73,TRUE,Ambition
+103,Lithuania,2019,SDG Index,76.7,4.835,TRUE,Ambition
+104,Luxembourg,2019,SDG Index,74.2,4.71,TRUE,Ambition
+105,Latvia,2019,SDG Index,79.2,4.96,TRUE,Ambition
+106,Morocco,2019,SDG Index,70.5,4.525,TRUE,Ambition
+107,Monaco,2019,SDG Index,,,TRUE,Ambition
+108,Moldova,2019,SDG Index,73.7,4.685,TRUE,Ambition
+109,Madagascar,2019,SDG Index,49,3.45,TRUE,Ambition
+110,Maldives,2019,SDG Index,69.3,4.465,TRUE,Ambition
+111,Mexico,2019,SDG Index,69.1,4.455,TRUE,Ambition
+112,Marshall Islands,2019,SDG Index,,,TRUE,Ambition
+113,North Macedonia,2019,SDG Index,72.5,4.625,TRUE,Ambition
+114,Mali,2019,SDG Index,52.2,3.61,TRUE,Ambition
+115,Malta,2019,SDG Index,75.7,4.785,TRUE,Ambition
+116,Myanmar,2019,SDG Index,64.9,4.245,TRUE,Ambition
+117,Montenegro,2019,SDG Index,68.2,4.41,TRUE,Ambition
+118,Mongolia,2019,SDG Index,63.8,4.19,TRUE,Ambition
+119,Mozambique,2019,SDG Index,51.1,3.555,TRUE,Ambition
+120,Mauritania,2019,SDG Index,55.5,3.775,TRUE,Ambition
+121,Mauritius,2019,SDG Index,66.7,4.335,TRUE,Ambition
+122,Malawi,2019,SDG Index,51.4,3.57,TRUE,Ambition
+123,Malaysia,2019,SDG Index,70.9,4.545,TRUE,Ambition
+124,Namibia,2019,SDG Index,61.8,4.09,TRUE,Ambition
+125,Niger,2019,SDG Index,49.5,3.475,TRUE,Ambition
+126,Nigeria,2019,SDG Index,48.9,3.445,TRUE,Ambition
+127,Nicaragua,2019,SDG Index,66.3,4.315,TRUE,Ambition
+128,Netherlands,2019,SDG Index,81.6,5.08,TRUE,Ambition
+129,Norway,2019,SDG Index,82,5.1,TRUE,Ambition
+130,Nepal,2019,SDG Index,66.5,4.325,TRUE,Ambition
+131,Nauru,2019,SDG Index,,,TRUE,Ambition
+132,New Zealand,2019,SDG Index,79.1,4.955,TRUE,Ambition
+133,Oman,2019,SDG Index,70.1,4.505,TRUE,Ambition
+134,Pakistan,2019,SDG Index,57.7,3.885,TRUE,Ambition
+135,Panama,2019,SDG Index,68,4.4,TRUE,Ambition
+136,Peru,2019,SDG Index,71.1,4.555,TRUE,Ambition
+137,Philippines,2019,SDG Index,64.5,4.225,TRUE,Ambition
+138,Palau,2019,SDG Index,,,TRUE,Ambition
+139,Papua New Guinea,2019,SDG Index,51.3,3.565,TRUE,Ambition
+140,Poland,2019,SDG Index,80.2,5.01,TRUE,Ambition
+141,"Korea, Dem. Rep.",2019,SDG Index,,,TRUE,Ambition
+142,Portugal,2019,SDG Index,78.6,4.93,TRUE,Ambition
+143,Paraguay,2019,SDG Index,66.9,4.345,TRUE,Ambition
+144,Qatar,2019,SDG Index,66.7,4.335,TRUE,Ambition
+145,Romania,2019,SDG Index,75,4.75,TRUE,Ambition
+146,Russian Federation,2019,SDG Index,73.8,4.69,TRUE,Ambition
+147,Rwanda,2019,SDG Index,57.6,3.88,TRUE,Ambition
+148,Saudi Arabia,2019,SDG Index,66.3,4.315,TRUE,Ambition
+149,Sudan,2019,SDG Index,49.5,3.475,TRUE,Ambition
+150,Senegal,2019,SDG Index,58.4,3.92,TRUE,Ambition
+151,Singapore,2019,SDG Index,69.9,4.495,TRUE,Ambition
+152,Solomon Islands,2019,SDG Index,,,TRUE,Ambition
+153,Sierra Leone,2019,SDG Index,51.7,3.585,TRUE,Ambition
+154,El Salvador,2019,SDG Index,67.9,4.395,TRUE,Ambition
+155,San Marino,2019,SDG Index,,,TRUE,Ambition
+156,Somalia,2019,SDG Index,45.6,3.28,TRUE,Ambition
+157,Serbia,2019,SDG Index,75.6,4.78,TRUE,Ambition
+158,South Sudan,2019,SDG Index,38.9,2.945,TRUE,Ambition
+159,Sao Tome and Principe,2019,SDG Index,58.8,3.94,TRUE,Ambition
+160,Suriname,2019,SDG Index,67,4.35,TRUE,Ambition
+161,Slovak Republic,2019,SDG Index,79.6,4.98,TRUE,Ambition
+162,Slovenia,2019,SDG Index,81.6,5.08,TRUE,Ambition
+163,Sweden,2019,SDG Index,85.6,5.28,TRUE,Ambition
+164,Eswatini,2019,SDG Index,53.3,3.665,TRUE,Ambition
+165,Seychelles,2019,SDG Index,,,TRUE,Ambition
+166,Syrian Arab Republic,2019,SDG Index,58,3.9,TRUE,Ambition
+167,Chad,2019,SDG Index,40.9,3.045,TRUE,Ambition
+168,Togo,2019,SDG Index,53.2,3.66,TRUE,Ambition
+169,Thailand,2019,SDG Index,74.2,4.71,TRUE,Ambition
+170,Tajikistan,2019,SDG Index,69.8,4.49,TRUE,Ambition
+171,Turkmenistan,2019,SDG Index,61.1,4.055,TRUE,Ambition
+172,Timor-Leste,2019,SDG Index,,,TRUE,Ambition
+173,Tonga,2019,SDG Index,,,TRUE,Ambition
+174,Trinidad and Tobago,2019,SDG Index,63.5,4.175,TRUE,Ambition
+175,Tunisia,2019,SDG Index,71.4,4.57,TRUE,Ambition
+176,Turkey,2019,SDG Index,70.4,4.52,TRUE,Ambition
+177,Tuvalu,2019,SDG Index,,,TRUE,Ambition
+178,Tanzania,2019,SDG Index,56.4,3.82,TRUE,Ambition
+179,Uganda,2019,SDG Index,53.5,3.675,TRUE,Ambition
+180,Ukraine,2019,SDG Index,75.5,4.775,TRUE,Ambition
+181,Uruguay,2019,SDG Index,74.5,4.725,TRUE,Ambition
+182,United States,2019,SDG Index,76,4.8,TRUE,Ambition
+183,Uzbekistan,2019,SDG Index,69.8,4.49,TRUE,Ambition
+184,St. Vincent and the Grenadines,2019,SDG Index,,,TRUE,Ambition
+185,"Venezuela, RB",2019,SDG Index,59.3,3.965,TRUE,Ambition
+186,Vietnam,2019,SDG Index,72.8,4.64,TRUE,Ambition
+187,Vanuatu,2019,SDG Index,60.5,4.025,TRUE,Ambition
+188,Samoa,2019,SDG Index,,,TRUE,Ambition
+189,"Yemen, Rep.",2019,SDG Index,52.9,3.645,TRUE,Ambition
+190,South Africa,2019,SDG Index,63.7,4.185,TRUE,Ambition
+191,Zambia,2019,SDG Index,53.4,3.67,TRUE,Ambition
+192,Zimbabwe,2019,SDG Index,58.7,3.935,TRUE,Ambition
+193,Eastern Europe and Central Asia,2019,SDG Index,71.4,4.57,TRUE,Ambition
+194,East and South Asia,2019,SDG Index,65.7,4.285,TRUE,Ambition
+195,Latin America and the Caribbean,2019,SDG Index,68.6,4.43,TRUE,Ambition
+196,Middle East and North Africa,2019,SDG Index,67.1,4.355,TRUE,Ambition
+197,Oceania,2019,SDG Index,50.1,3.505,TRUE,Ambition
+198,OECD members,2019,SDG Index,77.2,4.86,TRUE,Ambition
+199,Small Island Developing States,2019,SDG Index,62.5,4.125,TRUE,Ambition
+200,Sub-Saharan Africa,2019,SDG Index,51.9,3.595,TRUE,Ambition
+201,Low-income Countries,2019,SDG Index,51,3.55,TRUE,Ambition
+202,Lower-middle-income Countries,2019,SDG Index,60.1,4.005,TRUE,Ambition
+203,Upper-middle-income Countries,2019,SDG Index,70.8,4.54,TRUE,Ambition
+204,High-income Countries,2019,SDG Index,78.1,4.905,TRUE,Ambition

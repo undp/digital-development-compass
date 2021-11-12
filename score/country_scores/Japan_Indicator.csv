@@ -18,13 +18,11 @@ Foundations,Digital Payments,% Making online transactions - Women,Japan,2017.0,4
 Foundations,Digital Payments,% of population with digital finance account,Japan,2017.0,98.0,5.8901098901098905,True
 Foundations,Digital Legal Identity,% of population with ID (all),Japan,2018.0,95.0,5.675324675324675,True
 Foundations,Digital Legal Identity,can ID be used for transactions,Japan,2018.0,1.0,6.0,True
-Foundations,Digital Payments,"
-% of population with digital finance account - registered",Japan,2017.0,98.0,5.8901098901098905,True
+Foundations,Digital Payments,% of population with digital finance account - registered,Japan,2017.0,98.0,5.8901098901098905,True
 Foundations,Digital Legal Identity,Is personal data siloed,Japan,2020.0,0.02,6.0,True
 Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,Japan,2017.0,95.0,5.782608695652174,True
 Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,Japan,2017.0,96.0,5.791666666666667,True
-Foundations,Digital Payments,"
-% Making online transactions - Men",Japan,2017.0,54.0,3.912087912087912,True
+Foundations,Digital Payments,% Making online transactions - Men,Japan,2017.0,54.0,3.912087912087912,True
 Foundations,Data Exchange,Open data index,Japan,2016.0,61.0,4.370786516853933,True
 Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,Japan,2017.0,33.0,2.9411764705882355,True
 Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,Japan,2017.0,29.0,2.7058823529411766,True
@@ -103,6 +101,6 @@ People,Usage and ownership,Social media penetration,Japan,2021.0,74.3,4.515625,T
 People,Usage and ownership,Tax as % of total cost of mobile ownership,Japan,2019.0,75.0,2.25,False
 People,Digital Wellbeing,Device Addiction (time of use on internet / on devices),Japan,2020.0,4.25,1.0,True
 People,Usage and ownership,UNDP Human Development Index (HDI) ,Japan,2019.0,0.919,5.662522202486679,True
-Regulation,Cybersecurity,# key internet controls employed,Japan,2021.0,0.0,6.0,False
+Regulation,Cybersecurity,# key internet controls employed,Japan,2020.0,75.0,4.8235294117647065,True
 Regulation,Ethical Standards,Rule of Law Index,Japan,2020.0,0.78,5.047619047619048,True
 Strategy,Ambition,SDG Index,Japan,2019.0,79.8,5.359243697478991,True
