@@ -1,197 +1,197 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2020.0,Mobile Coverage Maps,44.55951073,3.2279755365,True,Connectivity Technology
-Benin,2020.0,Mobile Coverage Maps,91.8972796,5.59486398,True,Connectivity Technology
-Botswana,2020.0,Mobile Coverage Maps,162.3990114,9.11995057,True,Connectivity Technology
-Burkina Faso,2020.0,Mobile Coverage Maps,105.8074398,6.29037199,True,Connectivity Technology
-Burundi,2020.0,Mobile Coverage Maps,55.76717229,3.7883586145,True,Connectivity Technology
-Cabo Verde,2020.0,Mobile Coverage Maps,97.97513251,5.8987566255,True,Connectivity Technology
-Cameroon,2020.0,Mobile Coverage Maps,95.10006889,5.7550034445,True,Connectivity Technology
+Angola,2020.0,Mobile Coverage Maps,44.55951073,1.7639115492516688,True,Connectivity Technology
+Benin,2020.0,Mobile Coverage Maps,91.8972796,2.575452514652191,True,Connectivity Technology
+Botswana,2020.0,Mobile Coverage Maps,162.3990114,3.7841077777362178,True,Connectivity Technology
+Burkina Faso,2020.0,Mobile Coverage Maps,105.8074398,2.813923087031407,True,Connectivity Technology
+Burundi,2020.0,Mobile Coverage Maps,55.76717229,1.9560514979523123,True,Connectivity Technology
+Cabo Verde,2020.0,Mobile Coverage Maps,97.97513251,2.6796489467166023,True,Connectivity Technology
+Cameroon,2020.0,Mobile Coverage Maps,95.10006889,2.6303599337052312,True,Connectivity Technology
 Central African Rep.,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Chad,2020.0,Mobile Coverage Maps,52.88702622,3.6443513110000003,True,Connectivity Technology
+Chad,2020.0,Mobile Coverage Maps,52.88702622,1.9066753533232488,True,Connectivity Technology
 Congo (Rep. of the),2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Côte d'Ivoire,2020.0,Mobile Coverage Maps,152.0010217,8.600051085,True,Connectivity Technology
-Dem. Rep. of the Congo,2020.0,Mobile Coverage Maps,45.55354721,3.2776773605,True,Connectivity Technology
+Côte d'Ivoire,2020.0,Mobile Coverage Maps,152.0010217,3.605848539905715,True,Connectivity Technology
+Dem. Rep. of the Congo,2020.0,Mobile Coverage Maps,45.55354721,1.7809529380597877,True,Connectivity Technology
 Equatorial Guinea,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Eritrea,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Eswatini,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Ethiopia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Gabon,2020.0,Mobile Coverage Maps,138.7740853,7.938704265,True,Connectivity Technology
-Gambia,2020.0,Mobile Coverage Maps,110.8118285,6.540591425,True,Connectivity Technology
-Ghana,2020.0,Mobile Coverage Maps,130.2149362,7.5107468100000006,True,Connectivity Technology
+Gabon,2020.0,Mobile Coverage Maps,138.7740853,3.379090900253838,True,Connectivity Technology
+Gambia,2020.0,Mobile Coverage Maps,110.8118285,2.899716451057299,True,Connectivity Technology
+Ghana,2020.0,Mobile Coverage Maps,130.2149362,3.2323560563980465,True,Connectivity Technology
 Guinea,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Guinea-Bissau,2020.0,Mobile Coverage Maps,97.2488327,5.862441635,True,Connectivity Technology
-Kenya,2020.0,Mobile Coverage Maps,114.2038756,6.71019378,True,Connectivity Technology
-Lesotho,2020.0,Mobile Coverage Maps,72.94427492,4.647213746,True,Connectivity Technology
+Guinea-Bissau,2020.0,Mobile Coverage Maps,97.2488327,2.6671975350204513,True,Connectivity Technology
+Kenya,2020.0,Mobile Coverage Maps,114.2038756,2.957868435063512,True,Connectivity Technology
+Lesotho,2020.0,Mobile Coverage Maps,72.94427492,2.2505293067695415,True,Connectivity Technology
 Liberia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Madagascar,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Malawi,2020.0,Mobile Coverage Maps,52.29851073,3.6149255365,True,Connectivity Technology
-Mali,2020.0,Mobile Coverage Maps,125.0101564,7.25050782,True,Connectivity Technology
-Mauritius,2020.0,Mobile Coverage Maps,150.4126539,8.520632695,True,Connectivity Technology
+Malawi,2020.0,Mobile Coverage Maps,52.29851073,1.896586064362052,True,Connectivity Technology
+Mali,2020.0,Mobile Coverage Maps,125.0101564,3.1431272624684277,True,Connectivity Technology
+Mauritius,2020.0,Mobile Coverage Maps,150.4126539,3.5786181577268876,True,Connectivity Technology
 Mozambique,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Namibia,2020.0,Mobile Coverage Maps,102.1046438,6.105232190000001,True,Connectivity Technology
+Namibia,2020.0,Mobile Coverage Maps,102.1046438,2.750443740364826,True,Connectivity Technology
 Niger,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Nigeria,2020.0,Mobile Coverage Maps,99.07300145,5.9536500725,True,Connectivity Technology
-Rwanda,2020.0,Mobile Coverage Maps,81.95050454,5.097525227,True,Connectivity Technology
-Sao Tome and Principe,2020.0,Mobile Coverage Maps,79.48703909,4.9743519544999995,True,Connectivity Technology
-Senegal,2020.0,Mobile Coverage Maps,113.9454801,6.697274005,True,Connectivity Technology
-Seychelles,2020.0,Mobile Coverage Maps,186.5822038,10.32911019,True,Connectivity Technology
-Sierra Leone,2020.0,Mobile Coverage Maps,86.30081072,5.315040536000001,True,Connectivity Technology
-South Africa,2020.0,Mobile Coverage Maps,161.7965917,9.089829585,True,Connectivity Technology
+Nigeria,2020.0,Mobile Coverage Maps,99.07300145,2.6984704002983637,True,Connectivity Technology
+Rwanda,2020.0,Mobile Coverage Maps,81.95050454,2.404928731476386,True,Connectivity Technology
+Sao Tome and Principe,2020.0,Mobile Coverage Maps,79.48703909,2.362696003207885,True,Connectivity Technology
+Senegal,2020.0,Mobile Coverage Maps,113.9454801,2.9534385994685763,True,Connectivity Technology
+Seychelles,2020.0,Mobile Coverage Maps,186.5822038,4.198695363405051,True,Connectivity Technology
+Sierra Leone,2020.0,Mobile Coverage Maps,86.30081072,2.479508749955932,True,Connectivity Technology
+South Africa,2020.0,Mobile Coverage Maps,161.7965917,3.77378012021064,True,Connectivity Technology
 South Sudan,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Tanzania,2020.0,Mobile Coverage Maps,85.74688799,5.2873443995,True,Connectivity Technology
-Togo,2020.0,Mobile Coverage Maps,78.71394191,4.9356970955,True,Connectivity Technology
-Uganda,2020.0,Mobile Coverage Maps,60.53427508,4.026713753999999,True,Connectivity Technology
-Zambia,2020.0,Mobile Coverage Maps,103.9178349,6.195891745,True,Connectivity Technology
-Zimbabwe,2020.0,Mobile Coverage Maps,88.75580606,5.437790303,True,Connectivity Technology
-Algeria,2020.0,Mobile Coverage Maps,103.8873168,6.19436584,True,Connectivity Technology
-Bahrain,2020.0,Mobile Coverage Maps,102.7678474,6.138392369999999,True,Connectivity Technology
-Comoros,2020.0,Mobile Coverage Maps,54.37148761,3.7185743805,True,Connectivity Technology
-Djibouti,2020.0,Mobile Coverage Maps,43.93066802,3.196533401,True,Connectivity Technology
-Egypt,2020.0,Mobile Coverage Maps,93.1821785,5.659108925000001,True,Connectivity Technology
-Iraq,2020.0,Mobile Coverage Maps,91.85556947,5.5927784735,True,Connectivity Technology
-Jordan,2020.0,Mobile Coverage Maps,68.48769211,4.4243846055,True,Connectivity Technology
-Kuwait,2020.0,Mobile Coverage Maps,158.5349125,8.926745624999999,True,Connectivity Technology
-Lebanon,2020.0,Mobile Coverage Maps,62.82698051,4.1413490255,True,Connectivity Technology
+Tanzania,2020.0,Mobile Coverage Maps,85.74688799,2.4700125063054124,True,Connectivity Technology
+Togo,2020.0,Mobile Coverage Maps,78.71394191,2.3494423149419976,True,Connectivity Technology
+Uganda,2020.0,Mobile Coverage Maps,60.53427508,2.0377769212815027,True,Connectivity Technology
+Zambia,2020.0,Mobile Coverage Maps,103.9178349,2.781528408926005,True,Connectivity Technology
+Zimbabwe,2020.0,Mobile Coverage Maps,88.75580606,2.521596269833532,True,Connectivity Technology
+Algeria,2020.0,Mobile Coverage Maps,103.8873168,2.7810052180590206,True,Connectivity Technology
+Bahrain,2020.0,Mobile Coverage Maps,102.7678474,2.7618134542877435,True,Connectivity Technology
+Comoros,2020.0,Mobile Coverage Maps,54.37148761,1.9321244029573532,True,Connectivity Technology
+Djibouti,2020.0,Mobile Coverage Maps,43.93066802,1.7531309055470623,True,Connectivity Technology
+Egypt,2020.0,Mobile Coverage Maps,93.1821785,2.5974803397618134,True,Connectivity Technology
+Iraq,2020.0,Mobile Coverage Maps,91.85556947,2.5747374518181116,True,Connectivity Technology
+Jordan,2020.0,Mobile Coverage Maps,68.48769211,2.1741273215820476,True,Connectivity Technology
+Kuwait,2020.0,Mobile Coverage Maps,158.5349125,3.7178631146148757,True,Connectivity Technology
+Lebanon,2020.0,Mobile Coverage Maps,62.82698051,2.0770822037748733,True,Connectivity Technology
 Libya,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Mauritania,2020.0,Mobile Coverage Maps,106.0845981,6.304229905,True,Connectivity Technology
-Morocco,2020.0,Mobile Coverage Maps,133.893994,7.6946997,True,Connectivity Technology
-Oman,2020.0,Mobile Coverage Maps,133.8469596,7.692347979999999,True,Connectivity Technology
-Palestine,2020.0,Mobile Coverage Maps,83.65851115,5.1829255575,True,Connectivity Technology
-Qatar,2020.0,Mobile Coverage Maps,131.8446415,7.592232074999999,True,Connectivity Technology
-Saudi Arabia,2020.0,Mobile Coverage Maps,124.1328176,7.20664088,True,Connectivity Technology
+Mauritania,2020.0,Mobile Coverage Maps,106.0845981,2.8186745850364874,True,Connectivity Technology
+Morocco,2020.0,Mobile Coverage Maps,133.893994,3.295428444261862,True,Connectivity Technology
+Oman,2020.0,Mobile Coverage Maps,133.8469596,3.294622104138654,True,Connectivity Technology
+Palestine,2020.0,Mobile Coverage Maps,83.65851115,2.434210156568398,True,Connectivity Technology
+Qatar,2020.0,Mobile Coverage Maps,131.8446415,3.26029511318191,True,Connectivity Technology
+Saudi Arabia,2020.0,Mobile Coverage Maps,124.1328176,3.1280864949432274,True,Connectivity Technology
 Somalia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Sudan,2020.0,Mobile Coverage Maps,80.26408427,5.0132042135,True,Connectivity Technology
-Syrian Arab Republic,2020.0,Mobile Coverage Maps,95.19786627,5.7598933135,True,Connectivity Technology
-Tunisia,2020.0,Mobile Coverage Maps,125.6733718,7.2836685899999996,True,Connectivity Technology
-United Arab Emirates,2020.0,Mobile Coverage Maps,185.7794253,10.288971265,True,Connectivity Technology
+Sudan,2020.0,Mobile Coverage Maps,80.26408427,2.376017374505903,True,Connectivity Technology
+Syrian Arab Republic,2020.0,Mobile Coverage Maps,95.19786627,2.6320365353295454,True,Connectivity Technology
+Tunisia,2020.0,Mobile Coverage Maps,125.6733718,3.1544971786861224,True,Connectivity Technology
+United Arab Emirates,2020.0,Mobile Coverage Maps,185.7794253,4.184932829714841,True,Connectivity Technology
 Yemen,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Afghanistan,2020.0,Mobile Coverage Maps,58.25581184,3.912790592,True,Connectivity Technology
-Australia,2020.0,Mobile Coverage Maps,107.6632349,6.383161745,True,Connectivity Technology
-Bangladesh,2020.0,Mobile Coverage Maps,103.3076686,6.165383429999999,True,Connectivity Technology
-Bhutan,2020.0,Mobile Coverage Maps,96.56937201,5.8284686005,True,Connectivity Technology
-Brunei Darussalam,2020.0,Mobile Coverage Maps,120.401665,7.02008325,True,Connectivity Technology
+Afghanistan,2020.0,Mobile Coverage Maps,58.25581184,1.9987158015549449,True,Connectivity Technology
+Australia,2020.0,Mobile Coverage Maps,107.6632349,2.8457381425988864,True,Connectivity Technology
+Bangladesh,2020.0,Mobile Coverage Maps,103.3076686,2.771067946593766,True,Connectivity Technology
+Bhutan,2020.0,Mobile Coverage Maps,96.56937201,2.655549115640387,True,Connectivity Technology
+Brunei Darussalam,2020.0,Mobile Coverage Maps,120.401665,3.0641210133554453,True,Connectivity Technology
 Cambodia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-China,2020.0,Mobile Coverage Maps,117.857846,6.8928923,True,Connectivity Technology
+China,2020.0,Mobile Coverage Maps,117.857846,3.0205107339454984,True,Connectivity Technology
 Dem. People's Rep. of Korea,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Fiji,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-"Hong Kong, China",2020.0,Mobile Coverage Maps,291.6536003,15.582680015000001,True,Connectivity Technology
-India,2020.0,Mobile Coverage Maps,83.60189609,5.1800948044999995,True,Connectivity Technology
-Indonesia,2020.0,Mobile Coverage Maps,130.0613865,7.503069325,True,Connectivity Technology
-Iran (Islamic Republic of),2020.0,Mobile Coverage Maps,151.94722,8.597361,True,Connectivity Technology
-Japan,2020.0,Mobile Coverage Maps,152.0316954,8.601584769999999,True,Connectivity Technology
-Kiribati,2020.0,Mobile Coverage Maps,45.76095237,3.2880476185,True,Connectivity Technology
-Korea (Rep. of),2020.0,Mobile Coverage Maps,137.536175,7.876808749999999,True,Connectivity Technology
+"Hong Kong, China",2020.0,Mobile Coverage Maps,291.6536003,6.0,True,Connectivity Technology
+India,2020.0,Mobile Coverage Maps,83.60189609,2.433239569201368,True,Connectivity Technology
+Indonesia,2020.0,Mobile Coverage Maps,130.0613865,3.2297236578978725,True,Connectivity Technology
+Iran (Islamic Republic of),2020.0,Mobile Coverage Maps,151.94722,3.604926183727964,True,Connectivity Technology
+Japan,2020.0,Mobile Coverage Maps,152.0316954,3.606374398320774,True,Connectivity Technology
+Kiribati,2020.0,Mobile Coverage Maps,45.76095237,1.784508614379001,True,Connectivity Technology
+Korea (Rep. of),2020.0,Mobile Coverage Maps,137.536175,3.3578686300893916,True,Connectivity Technology
 Lao P.D.R.,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 "Macao, China",2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Malaysia,2020.0,Mobile Coverage Maps,135.0911492,7.75455746,True,Connectivity Technology
-Maldives,2020.0,Mobile Coverage Maps,132.7751302,7.63875651,True,Connectivity Technology
+Malaysia,2020.0,Mobile Coverage Maps,135.0911492,3.315952024268565,True,Connectivity Technology
+Maldives,2020.0,Mobile Coverage Maps,132.7751302,3.2762470626699822,True,Connectivity Technology
 Marshall Islands,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Micronesia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Mongolia,2020.0,Mobile Coverage Maps,133.1157097,7.655785485,True,Connectivity Technology
+Mongolia,2020.0,Mobile Coverage Maps,133.1157097,3.2820858299550366,True,Connectivity Technology
 Myanmar,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Nauru,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Nepal (Republic of),2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 New Zealand,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Pakistan,2020.0,Mobile Coverage Maps,79.50676968,4.975338484,True,Connectivity Technology
+Pakistan,2020.0,Mobile Coverage Maps,79.50676968,2.3630342570470235,True,Connectivity Technology
 Papua New Guinea,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Philippines,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Samoa,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Singapore,2020.0,Mobile Coverage Maps,144.0514076,8.202570380000001,True,Connectivity Technology
+Singapore,2020.0,Mobile Coverage Maps,144.0514076,3.469563335611599,True,Connectivity Technology
 Solomon Islands,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Sri Lanka,2020.0,Mobile Coverage Maps,138.8414481,7.942072405,True,Connectivity Technology
-Thailand,2020.0,Mobile Coverage Maps,166.6103677,9.330518385,True,Connectivity Technology
-Timor-Leste,2020.0,Mobile Coverage Maps,104.5106167,6.225530835,True,Connectivity Technology
+Sri Lanka,2020.0,Mobile Coverage Maps,138.8414481,3.380245742846741,True,Connectivity Technology
+Thailand,2020.0,Mobile Coverage Maps,166.6103677,3.8563056915570675,True,Connectivity Technology
+Timor-Leste,2020.0,Mobile Coverage Maps,104.5106167,2.791690837906656,True,Connectivity Technology
 Tonga,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Tuvalu,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Vanuatu,2020.0,Mobile Coverage Maps,80.16799883,5.0083999415,True,Connectivity Technology
-Viet Nam,2020.0,Mobile Coverage Maps,142.7333617,8.136668085,True,Connectivity Technology
-Armenia,2020.0,Mobile Coverage Maps,117.7357712,6.88678856,True,Connectivity Technology
-Azerbaijan,2020.0,Mobile Coverage Maps,102.0230735,6.101153675,True,Connectivity Technology
-Belarus,2020.0,Mobile Coverage Maps,123.8616142,7.19308071,True,Connectivity Technology
-Kazakhstan,2020.0,Mobile Coverage Maps,134.0863443,7.7043172150000006,True,Connectivity Technology
+Vanuatu,2020.0,Mobile Coverage Maps,80.16799883,2.3743701217392443,True,Connectivity Technology
+Viet Nam,2020.0,Mobile Coverage Maps,142.7333617,3.44696725075881,True,Connectivity Technology
+Armenia,2020.0,Mobile Coverage Maps,117.7357712,3.0184179293328612,True,Connectivity Technology
+Azerbaijan,2020.0,Mobile Coverage Maps,102.0230735,2.7490453297174673,True,Connectivity Technology
+Belarus,2020.0,Mobile Coverage Maps,123.8616142,3.1234370855116103,True,Connectivity Technology
+Kazakhstan,2020.0,Mobile Coverage Maps,134.0863443,3.298726025704405,True,Connectivity Technology
 Kyrgyzstan,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Russian Federation,2020.0,Mobile Coverage Maps,163.5893357,9.179466784999999,True,Connectivity Technology
+Russian Federation,2020.0,Mobile Coverage Maps,163.5893357,3.8045142513538175,True,Connectivity Technology
 Tajikistan,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Turkmenistan,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Uzbekistan,2020.0,Mobile Coverage Maps,99.75439212,5.987719606000001,True,Connectivity Technology
-Albania,2020.0,Mobile Coverage Maps,91.00294427,5.5501472135,True,Connectivity Technology
+Uzbekistan,2020.0,Mobile Coverage Maps,99.75439212,2.710151906532114,True,Connectivity Technology
+Albania,2020.0,Mobile Coverage Maps,91.00294427,2.5601203649876565,True,Connectivity Technology
 Andorra,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Austria,2020.0,Mobile Coverage Maps,118.6078386,6.93039193,True,Connectivity Technology
-Belgium,2020.0,Mobile Coverage Maps,99.48320148,5.974160074,True,Connectivity Technology
-Bosnia and Herzegovina,2020.0,Mobile Coverage Maps,106.9755448,6.3487772399999995,True,Connectivity Technology
-Bulgaria,2020.0,Mobile Coverage Maps,114.3527653,6.717638265000001,True,Connectivity Technology
-Croatia,2020.0,Mobile Coverage Maps,106.58744,6.329371999999999,True,Connectivity Technology
-Cyprus,2020.0,Mobile Coverage Maps,138.593018,7.9296509,True,Connectivity Technology
-Czech Republic,2020.0,Mobile Coverage Maps,121.3873944,7.06936972,True,Connectivity Technology
-Denmark,2020.0,Mobile Coverage Maps,123.3403635,7.167018174999999,True,Connectivity Technology
-Estonia,2020.0,Mobile Coverage Maps,145.1743829,8.258719145,True,Connectivity Technology
-Finland,2020.0,Mobile Coverage Maps,128.5031548,7.4251577399999995,True,Connectivity Technology
-France,2020.0,Mobile Coverage Maps,111.4556255,6.572781275,True,Connectivity Technology
-Georgia,2020.0,Mobile Coverage Maps,127.8487714,7.39243857,True,Connectivity Technology
-Germany,2020.0,Mobile Coverage Maps,128.3062093,7.415310465,True,Connectivity Technology
-Greece,2020.0,Mobile Coverage Maps,109.4976098,6.47488049,True,Connectivity Technology
-Hungary,2020.0,Mobile Coverage Maps,106.9594676,6.34797338,True,Connectivity Technology
-Iceland,2020.0,Mobile Coverage Maps,123.4850239,7.174251195,True,Connectivity Technology
-Ireland,2020.0,Mobile Coverage Maps,105.9994702,6.29997351,True,Connectivity Technology
-Israel,2020.0,Mobile Coverage Maps,131.7076299,7.585381495,True,Connectivity Technology
-Italy,2020.0,Mobile Coverage Maps,128.6710064,7.43355032,True,Connectivity Technology
-Latvia,2020.0,Mobile Coverage Maps,108.7562918,6.43781459,True,Connectivity Technology
-Liechtenstein,2020.0,Mobile Coverage Maps,128.2626941,7.413134705,True,Connectivity Technology
-Lithuania,2020.0,Mobile Coverage Maps,174.2073307,9.710366535,True,Connectivity Technology
-Luxembourg,2020.0,Mobile Coverage Maps,142.1775206,8.108876030000001,True,Connectivity Technology
-Malta,2020.0,Mobile Coverage Maps,143.3887526,8.169437630000001,True,Connectivity Technology
-Moldova,2020.0,Mobile Coverage Maps,84.7896473,5.239482365,True,Connectivity Technology
-Monaco,2020.0,Mobile Coverage Maps,90.4260741,5.521303704999999,True,Connectivity Technology
-Montenegro,2020.0,Mobile Coverage Maps,171.9706209,9.598531045,True,Connectivity Technology
-Netherlands,2020.0,Mobile Coverage Maps,124.9790486,7.248952429999999,True,Connectivity Technology
-North Macedonia,2020.0,Mobile Coverage Maps,88.01535394,5.400767697,True,Connectivity Technology
-Norway,2020.0,Mobile Coverage Maps,107.4584952,6.37292476,True,Connectivity Technology
-Poland,2020.0,Mobile Coverage Maps,130.3966794,7.5198339700000005,True,Connectivity Technology
-Portugal,2020.0,Mobile Coverage Maps,116.2629923,6.8131496149999995,True,Connectivity Technology
-Romania,2020.0,Mobile Coverage Maps,117.436131,6.87180655,True,Connectivity Technology
+Austria,2020.0,Mobile Coverage Maps,118.6078386,3.033368325952395,True,Connectivity Technology
+Belgium,2020.0,Mobile Coverage Maps,99.48320148,2.7055027158531533,True,Connectivity Technology
+Bosnia and Herzegovina,2020.0,Mobile Coverage Maps,106.9755448,2.8339486412984973,True,Connectivity Technology
+Bulgaria,2020.0,Mobile Coverage Maps,114.3527653,2.960420944270442,True,Connectivity Technology
+Croatia,2020.0,Mobile Coverage Maps,106.58744,2.8272951180846437,True,Connectivity Technology
+Cyprus,2020.0,Mobile Coverage Maps,138.593018,3.3759867503339716,True,Connectivity Technology
+Czech Republic,2020.0,Mobile Coverage Maps,121.3873944,3.081019988697873,True,Connectivity Technology
+Denmark,2020.0,Mobile Coverage Maps,123.3403635,3.1145009588966146,True,Connectivity Technology
+Estonia,2020.0,Mobile Coverage Maps,145.1743829,3.488815203218323,True,Connectivity Technology
+Finland,2020.0,Mobile Coverage Maps,128.5031548,3.203009917721218,True,Connectivity Technology
+France,2020.0,Mobile Coverage Maps,111.4556255,2.910753465504194,True,Connectivity Technology
+Georgia,2020.0,Mobile Coverage Maps,127.8487714,3.1917914140009334,True,Connectivity Technology
+Germany,2020.0,Mobile Coverage Maps,128.3062093,3.199633557892342,True,Connectivity Technology
+Greece,2020.0,Mobile Coverage Maps,109.4976098,2.8771859782867217,True,Connectivity Technology
+Hungary,2020.0,Mobile Coverage Maps,106.9594676,2.8336730198080806,True,Connectivity Technology
+Iceland,2020.0,Mobile Coverage Maps,123.4850239,3.116980962569657,True,Connectivity Technology
+Ireland,2020.0,Mobile Coverage Maps,105.9994702,2.8172151842282607,True,Connectivity Technology
+Israel,2020.0,Mobile Coverage Maps,131.7076299,3.257946237668989,True,Connectivity Technology
+Italy,2020.0,Mobile Coverage Maps,128.6710064,3.2058875026340625,True,Connectivity Technology
+Latvia,2020.0,Mobile Coverage Maps,108.7562918,2.8644771003706344,True,Connectivity Technology
+Liechtenstein,2020.0,Mobile Coverage Maps,128.2626941,3.1988875496147955,True,Connectivity Technology
+Lithuania,2020.0,Mobile Coverage Maps,174.2073307,3.9865451775806524,True,Connectivity Technology
+Luxembourg,2020.0,Mobile Coverage Maps,142.1775206,3.4374381192920938,True,Connectivity Technology
+Malta,2020.0,Mobile Coverage Maps,143.3887526,3.458203026681444,True,Connectivity Technology
+Moldova,2020.0,Mobile Coverage Maps,84.7896473,2.453601930728506,True,Connectivity Technology
+Monaco,2020.0,Mobile Coverage Maps,90.4260741,2.550230719027404,True,Connectivity Technology
+Montenegro,2020.0,Mobile Coverage Maps,171.9706209,3.948199863178579,True,Connectivity Technology
+Netherlands,2020.0,Mobile Coverage Maps,124.9790486,3.142593962005687,True,Connectivity Technology
+North Macedonia,2020.0,Mobile Coverage Maps,88.01535394,2.5089022362395985,True,Connectivity Technology
+Norway,2020.0,Mobile Coverage Maps,107.4584952,2.842228161926791,True,Connectivity Technology
+Poland,2020.0,Mobile Coverage Maps,130.3966794,3.2354717936941584,True,Connectivity Technology
+Portugal,2020.0,Mobile Coverage Maps,116.2629923,2.993169159928248,True,Connectivity Technology
+Romania,2020.0,Mobile Coverage Maps,117.436131,3.0132810100613048,True,Connectivity Technology
 San Marino,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Serbia,2020.0,Mobile Coverage Maps,120.2168595,7.010842975,True,Connectivity Technology
-Slovakia,2020.0,Mobile Coverage Maps,133.5198718,7.675993590000001,True,Connectivity Technology
-Slovenia,2020.0,Mobile Coverage Maps,122.7018314,7.135091569999999,True,Connectivity Technology
-Spain,2020.0,Mobile Coverage Maps,119.0138278,6.950691389999999,True,Connectivity Technology
-Sweden,2020.0,Mobile Coverage Maps,128.3247642,7.41623821,True,Connectivity Technology
-Switzerland,2020.0,Mobile Coverage Maps,125.9442642,7.29721321,True,Connectivity Technology
-Turkey,2020.0,Mobile Coverage Maps,97.37848298,5.868924149,True,Connectivity Technology
-Ukraine,2020.0,Mobile Coverage Maps,129.3411657,7.467058285,True,Connectivity Technology
-United Kingdom,2020.0,Mobile Coverage Maps,116.3818566,6.819092830000001,True,Connectivity Technology
+Serbia,2020.0,Mobile Coverage Maps,120.2168595,3.0609527771360074,True,Connectivity Technology
+Slovakia,2020.0,Mobile Coverage Maps,133.5198718,3.289014633501166,True,Connectivity Technology
+Slovenia,2020.0,Mobile Coverage Maps,122.7018314,3.103554203921823,True,Connectivity Technology
+Spain,2020.0,Mobile Coverage Maps,119.0138278,3.0403284526160537,True,Connectivity Technology
+Sweden,2020.0,Mobile Coverage Maps,128.3247642,3.1999516561428165,True,Connectivity Technology
+Switzerland,2020.0,Mobile Coverage Maps,125.9442642,3.159141256450315,True,Connectivity Technology
+Turkey,2020.0,Mobile Coverage Maps,97.37848298,2.6694202108226124,True,Connectivity Technology
+Ukraine,2020.0,Mobile Coverage Maps,129.3411657,3.217376462470503,True,Connectivity Technology
+United Kingdom,2020.0,Mobile Coverage Maps,116.3818566,2.99520692493231,True,Connectivity Technology
 Vatican,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Antigua and Barbuda,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Argentina,2020.0,Mobile Coverage Maps,121.1703997,7.058519985,True,Connectivity Technology
+Argentina,2020.0,Mobile Coverage Maps,121.1703997,3.0772999128994467,True,Connectivity Technology
 Bahamas,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Barbados,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Belize,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Bolivia (Plurinational State of),2020.0,Mobile Coverage Maps,101.1250044,6.056250219999999,True,Connectivity Technology
-Brazil,2020.0,Mobile Coverage Maps,96.83635,5.841817499999999,True,Connectivity Technology
-Canada,2020.0,Mobile Coverage Maps,95.63052761,5.7815263805,True,Connectivity Technology
-Chile,2020.0,Mobile Coverage Maps,131.1361447,7.556807234999999,True,Connectivity Technology
-Colombia,2020.0,Mobile Coverage Maps,132.9967081,7.649835405,True,Connectivity Technology
-Costa Rica,2020.0,Mobile Coverage Maps,147.4714563,8.373572815,True,Connectivity Technology
-Cuba,2020.0,Mobile Coverage Maps,58.81512183,3.9407560915,True,Connectivity Technology
+Bolivia (Plurinational State of),2020.0,Mobile Coverage Maps,101.1250044,2.7336491696996204,True,Connectivity Technology
+Brazil,2020.0,Mobile Coverage Maps,96.83635,2.660126086226819,True,Connectivity Technology
+Canada,2020.0,Mobile Coverage Maps,95.63052761,2.639453919163569,True,Connectivity Technology
+Chile,2020.0,Mobile Coverage Maps,131.1361447,3.2481489096159115,True,Connectivity Technology
+Colombia,2020.0,Mobile Coverage Maps,132.9967081,3.2800457111312404,True,Connectivity Technology
+Costa Rica,2020.0,Mobile Coverage Maps,147.4714563,3.5281953685520815,True,Connectivity Technology
+Cuba,2020.0,Mobile Coverage Maps,58.81512183,2.0083044023715417,True,Connectivity Technology
 Dominica,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Dominican Rep.,2020.0,Mobile Coverage Maps,82.86929925,5.1434649624999995,True,Connectivity Technology
-Ecuador,2020.0,Mobile Coverage Maps,87.77032593,5.3885162965,True,Connectivity Technology
+Dominican Rep.,2020.0,Mobile Coverage Maps,82.86929925,2.420680203583278,True,Connectivity Technology
+Ecuador,2020.0,Mobile Coverage Maps,87.77032593,2.504701567882548,True,Connectivity Technology
 El Salvador,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Grenada,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Guatemala,2020.0,Mobile Coverage Maps,113.8153755,6.6907687750000004,True,Connectivity Technology
+Guatemala,2020.0,Mobile Coverage Maps,113.8153755,2.9512081349746326,True,Connectivity Technology
 Guyana,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Haiti,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Honduras,2020.0,Mobile Coverage Maps,70.27693274,4.513846637,True,Connectivity Technology
-Jamaica,2020.0,Mobile Coverage Maps,97.03130556,5.851565278000001,True,Connectivity Technology
-Mexico,2020.0,Mobile Coverage Maps,93.44558787,5.6722793935,True,Connectivity Technology
-Nicaragua,2020.0,Mobile Coverage Maps,90.21707726,5.5108538629999995,True,Connectivity Technology
-Panama,2020.0,Mobile Coverage Maps,132.2936557,7.614682785,True,Connectivity Technology
+Honduras,2020.0,Mobile Coverage Maps,70.27693274,2.2048013922631493,True,Connectivity Technology
+Jamaica,2020.0,Mobile Coverage Maps,97.03130556,2.663468331270245,True,Connectivity Technology
+Mexico,2020.0,Mobile Coverage Maps,93.44558787,2.6019961312646274,True,Connectivity Technology
+Nicaragua,2020.0,Mobile Coverage Maps,90.21707726,2.5466477555428964,True,Connectivity Technology
+Panama,2020.0,Mobile Coverage Maps,132.2936557,3.2679928443180613,True,Connectivity Technology
 Paraguay,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Peru,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Saint Kitts and Nevis,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Saint Lucia,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Saint Vincent and the Grenadines,2020.0,Mobile Coverage Maps,87.48783126,5.374391563,True,Connectivity Technology
-Suriname,2020.0,Mobile Coverage Maps,153.3054794,8.66527397,True,Connectivity Technology
-Trinidad and Tobago,2020.0,Mobile Coverage Maps,142.0516646,8.10258323,True,Connectivity Technology
+Saint Vincent and the Grenadines,2020.0,Mobile Coverage Maps,87.48783126,2.4998585851504744,True,Connectivity Technology
+Suriname,2020.0,Mobile Coverage Maps,153.3054794,3.628211673751109,True,Connectivity Technology
+Trinidad and Tobago,2020.0,Mobile Coverage Maps,142.0516646,3.4352804912040034,True,Connectivity Technology
 United States,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
 Uruguay,2020.0,Mobile Coverage Maps,,,True,Connectivity Technology
-Venezuela,2020.0,Mobile Coverage Maps,63.40000717,4.1700003585,True,Connectivity Technology
+Venezuela,2020.0,Mobile Coverage Maps,63.40000717,2.086905958040388,True,Connectivity Technology
