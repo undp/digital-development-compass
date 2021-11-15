@@ -1,31 +1,31 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-United States,2018,Software Developer Ecosystem size,651017,32551.85,True,Innovation Ecosystem
-China,2018,Software Developer Ecosystem size,183805,9191.25,True,Innovation Ecosystem
-India,2018,Software Developer Ecosystem size,168328,8417.4,True,Innovation Ecosystem
-United Kingdom,2018,Software Developer Ecosystem size,109460,5474.0,True,Innovation Ecosystem
-Germany,2018,Software Developer Ecosystem size,94359,4718.95,True,Innovation Ecosystem
-Brazil,2018,Software Developer Ecosystem size,80903,4046.15,True,Innovation Ecosystem
-Canada,2018,Software Developer Ecosystem size,77318,3866.9,True,Innovation Ecosystem
-France,2018,Software Developer Ecosystem size,66367,3319.35,True,Innovation Ecosystem
-Russia,2018,Software Developer Ecosystem size,58767,2939.35,True,Innovation Ecosystem
-Australia,2018,Software Developer Ecosystem size,41790,2090.5,True,Innovation Ecosystem
-Japan,2018,Software Developer Ecosystem size,39263,1964.15,True,Innovation Ecosystem
-Spain,2018,Software Developer Ecosystem size,38020,1902.0,True,Innovation Ecosystem
-Netherlands,2018,Software Developer Ecosystem size,35782,1790.1,True,Innovation Ecosystem
-Ukraine,2018,Software Developer Ecosystem size,33032,1652.6,True,Innovation Ecosystem
-Poland,2018,Software Developer Ecosystem size,30928,1547.4,True,Innovation Ecosystem
-Sweden,2018,Software Developer Ecosystem size,25846,1293.3,True,Innovation Ecosystem
-Indonesia,2018,Software Developer Ecosystem size,25480,1275.0,True,Innovation Ecosystem
-Italy,2018,Software Developer Ecosystem size,23971,1199.55,True,Innovation Ecosystem
-Mexico,2018,Software Developer Ecosystem size,18855,943.75,True,Innovation Ecosystem
-Turkey,2018,Software Developer Ecosystem size,18106,906.3,True,Innovation Ecosystem
-Switzerland,2018,Software Developer Ecosystem size,17123,857.15,True,Innovation Ecosystem
-South Korea,2018,Software Developer Ecosystem size,15323,767.15,True,Innovation Ecosystem
-Vietnam,2018,Software Developer Ecosystem size,14727,737.35,True,Innovation Ecosystem
-Argentina,2018,Software Developer Ecosystem size,14212,711.6,True,Innovation Ecosystem
-Taiwan,2018,Software Developer Ecosystem size,13955,698.75,True,Innovation Ecosystem
-Belgium,2018,Software Developer Ecosystem size,13492,675.6,True,Innovation Ecosystem
-Denmark,2018,Software Developer Ecosystem size,12566,629.3,True,Innovation Ecosystem
-Norway,2018,Software Developer Ecosystem size,11898,595.9,True,Innovation Ecosystem
-Bangladesh,2018,Software Developer Ecosystem size,11776,589.8,True,Innovation Ecosystem
-Finland,2018,Software Developer Ecosystem size,11303,566.15,True,Innovation Ecosystem
+United States,2018,Software Developer Ecosystem size,651017,6.0,True,Innovation Ecosystem
+China,2018,Software Developer Ecosystem size,183805,2.3482743851158485,True,Innovation Ecosystem
+India,2018,Software Developer Ecosystem size,168328,2.227306264987166,True,Innovation Ecosystem
+United Kingdom,2018,Software Developer Ecosystem size,109460,1.7671944024986166,True,Innovation Ecosystem
+Germany,2018,Software Developer Ecosystem size,94359,1.6491650956521196,True,Innovation Ecosystem
+Brazil,2018,Software Developer Ecosystem size,80903,1.5439930969151838,True,Innovation Ecosystem
+Canada,2018,Software Developer Ecosystem size,77318,1.515972762828389,True,Innovation Ecosystem
+France,2018,Software Developer Ecosystem size,66367,1.430379825984737,True,Innovation Ecosystem
+Russia,2018,Software Developer Ecosystem size,58767,1.3709782809192859,True,Innovation Ecosystem
+Australia,2018,Software Developer Ecosystem size,41790,1.2382861716329485,True,Innovation Ecosystem
+Japan,2018,Software Developer Ecosystem size,39263,1.218535157898686,True,Innovation Ecosystem
+Spain,2018,Software Developer Ecosystem size,38020,1.208819878883376,True,Innovation Ecosystem
+Netherlands,2018,Software Developer Ecosystem size,35782,1.191327687060155,True,Innovation Ecosystem
+Ukraine,2018,Software Developer Ecosystem size,33032,1.1698337069377878,True,Innovation Ecosystem
+Poland,2018,Software Developer Ecosystem size,30928,1.153388858145984,True,Innovation Ecosystem
+Sweden,2018,Software Developer Ecosystem size,25846,1.1136679828798495,True,Innovation Ecosystem
+Indonesia,2018,Software Developer Ecosystem size,25480,1.1108073295253817,True,Innovation Ecosystem
+Italy,2018,Software Developer Ecosystem size,23971,1.0990129964327808,True,Innovation Ecosystem
+Mexico,2018,Software Developer Ecosystem size,18855,1.0590263774124062,True,Innovation Ecosystem
+Turkey,2018,Software Developer Ecosystem size,18106,1.0531721988263505,True,Innovation Ecosystem
+Switzerland,2018,Software Developer Ecosystem size,17123,1.0454890779317008,True,Innovation Ecosystem
+South Korea,2018,Software Developer Ecosystem size,15323,1.031420290942515,True,Innovation Ecosystem
+Vietnam,2018,Software Developer Ecosystem size,14727,1.0267619592505401,True,Innovation Ecosystem
+Argentina,2018,Software Developer Ecosystem size,14212,1.0227367229730786,True,Innovation Ecosystem
+Taiwan,2018,Software Developer Ecosystem size,13955,1.0207280128307337,True,Innovation Ecosystem
+Belgium,2018,Software Developer Ecosystem size,13492,1.0171092081774042,True,Innovation Ecosystem
+Denmark,2018,Software Developer Ecosystem size,12566,1.0098715988707454,True,Innovation Ecosystem
+Norway,2018,Software Developer Ecosystem size,11898,1.0046505156992032,True,Innovation Ecosystem
+Bangladesh,2018,Software Developer Ecosystem size,11776,1.0036969645810472,True,Innovation Ecosystem
+Finland,2018,Software Developer Ecosystem size,11303,1.0,True,Innovation Ecosystem

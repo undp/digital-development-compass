@@ -1,69 +1,69 @@
 ,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-0,Germany,2019,International industrial applications by origin (Hague System),772,39.6,True,Innovation Ecosystem
-1,Republic of Korea,2019,International industrial applications by origin (Hague System),1176,59.8,True,Innovation Ecosystem
-2,Switzerland,2019,International industrial applications by origin (Hague System),601,31.05,True,Innovation Ecosystem
-3,Italy,2019,International industrial applications by origin (Hague System),412,21.6,True,Innovation Ecosystem
-4,Netherlands,2019,International industrial applications by origin (Hague System),181,10.05,True,Innovation Ecosystem
-5,United States of America,2019,International industrial applications by origin (Hague System),410,21.5,True,Innovation Ecosystem
-6,France,2019,International industrial applications by origin (Hague System),467,24.35,True,Innovation Ecosystem
-7,Japan,2019,International industrial applications by origin (Hague System),397,20.85,True,Innovation Ecosystem
-8,China,2019,International industrial applications by origin (Hague System),239,12.95,True,Innovation Ecosystem
-9,United Kingdom,2019,International industrial applications by origin (Hague System),182,10.1,True,Innovation Ecosystem
-10,Sweden,2019,International industrial applications by origin (Hague System),100,6.0,True,Innovation Ecosystem
-11,Denmark,2019,International industrial applications by origin (Hague System),98,5.9,True,Innovation Ecosystem
-12,Cyprus,2019,International industrial applications by origin (Hague System),33,2.65,True,Innovation Ecosystem
-13,Turkey,2019,International industrial applications by origin (Hague System),91,5.55,True,Innovation Ecosystem
-14,Spain,2019,International industrial applications by origin (Hague System),81,5.05,True,Innovation Ecosystem
-15,Luxembourg,2019,International industrial applications by origin (Hague System),41,3.05,True,Innovation Ecosystem
-16,Austria,2019,International industrial applications by origin (Hague System),48,3.4,True,Innovation Ecosystem
-17,Czech Republic,2019,International industrial applications by origin (Hague System),19,1.95,True,Innovation Ecosystem
-18,Liechtenstein,2019,International industrial applications by origin (Hague System),19,1.95,True,Innovation Ecosystem
-19,Ukraine,2019,International industrial applications by origin (Hague System),38,2.9,True,Innovation Ecosystem
-20,Norway,2019,International industrial applications by origin (Hague System),43,3.15,True,Innovation Ecosystem
-21,Russian Federation,2019,International industrial applications by origin (Hague System),36,2.8,True,Innovation Ecosystem
-22,Belgium,2019,International industrial applications by origin (Hague System),47,3.35,True,Innovation Ecosystem
-23,Poland,2019,International industrial applications by origin (Hague System),51,3.55,True,Innovation Ecosystem
-24,Tunisia,2019,International industrial applications by origin (Hague System),2,1.1,True,Innovation Ecosystem
-25,Canada,2019,International industrial applications by origin (Hague System),37,2.85,True,Innovation Ecosystem
-26,Bosnia and Herzegovina,2019,International industrial applications by origin (Hague System),8,1.4,True,Innovation Ecosystem
-27,Hungary,2019,International industrial applications by origin (Hague System),11,1.55,True,Innovation Ecosystem
-28,Portugal,2019,International industrial applications by origin (Hague System),24,2.2,True,Innovation Ecosystem
-29,Morocco,2019,International industrial applications by origin (Hague System),4,1.2,True,Innovation Ecosystem
-30,Croatia,2019,International industrial applications by origin (Hague System),17,1.85,True,Innovation Ecosystem
-31,Slovenia,2019,International industrial applications by origin (Hague System),32,2.6,True,Innovation Ecosystem
-32,Finland,2019,International industrial applications by origin (Hague System),25,2.25,True,Innovation Ecosystem
-33,Bulgaria,2019,International industrial applications by origin (Hague System),11,1.55,True,Innovation Ecosystem
-34,Slovakia,2019,International industrial applications by origin (Hague System),3,1.15,True,Innovation Ecosystem
-35,Serbia,2019,International industrial applications by origin (Hague System),19,1.95,True,Innovation Ecosystem
-36,Singapore,2019,International industrial applications by origin (Hague System),16,1.8,True,Innovation Ecosystem
-37,Ireland,2019,International industrial applications by origin (Hague System),9,1.45,True,Innovation Ecosystem
-38,Republic of Moldova,2019,International industrial applications by origin (Hague System),8,1.4,True,Innovation Ecosystem
-39,Lithuania,2019,International industrial applications by origin (Hague System),7,1.35,True,Innovation Ecosystem
-40,United Arab Emirates,2019,International industrial applications by origin (Hague System),3,1.15,True,Innovation Ecosystem
-41,South Africa,2019,International industrial applications by origin (Hague System),3,1.15,True,Innovation Ecosystem
-42,Viet Nam,2019,International industrial applications by origin (Hague System),2,1.1,True,Innovation Ecosystem
-43,Greece,2019,International industrial applications by origin (Hague System),6,1.3,True,Innovation Ecosystem
-44,Monaco,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-45,Romania,2019,International industrial applications by origin (Hague System),5,1.25,True,Innovation Ecosystem
-46,Armenia,2019,International industrial applications by origin (Hague System),4,1.2,True,Innovation Ecosystem
-47,North Macedonia,2019,International industrial applications by origin (Hague System),6,1.3,True,Innovation Ecosystem
-48,Australia,2019,International industrial applications by origin (Hague System),4,1.2,True,Innovation Ecosystem
-49,Estonia,2019,International industrial applications by origin (Hague System),6,1.3,True,Innovation Ecosystem
-50,Iceland,2019,International industrial applications by origin (Hague System),4,1.2,True,Innovation Ecosystem
-51,Israel,2019,International industrial applications by origin (Hague System),2,1.1,True,Innovation Ecosystem
-52,India,2019,International industrial applications by origin (Hague System),2,1.1,True,Innovation Ecosystem
-53,Latvia,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-54,Cameroon,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-55,Iran (Islamic Republic of),2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-56,New Zealand,2019,International industrial applications by origin (Hague System),2,1.1,True,Innovation Ecosystem
-57,Dominican Republic,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-58,Georgia,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-59,Kazakhstan,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-60,Lebanon,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-61,Maldives,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-62,Oman,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-63,Saudi Arabia,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
-64,Syrian Arab Republic,2019,International industrial applications by origin (Hague System),1,1.05,True,Innovation Ecosystem
+0,Germany,2019,International industrial applications by origin (Hague System),772,4.282312925170068,True,Innovation Ecosystem
+1,Republic of Korea,2019,International industrial applications by origin (Hague System),1176,6.0,True,Innovation Ecosystem
+2,Switzerland,2019,International industrial applications by origin (Hague System),601,3.5552721088435373,True,Innovation Ecosystem
+3,Italy,2019,International industrial applications by origin (Hague System),412,2.751700680272109,True,Innovation Ecosystem
+4,Netherlands,2019,International industrial applications by origin (Hague System),181,1.7695578231292517,True,Innovation Ecosystem
+5,United States of America,2019,International industrial applications by origin (Hague System),410,2.7431972789115644,True,Innovation Ecosystem
+6,France,2019,International industrial applications by origin (Hague System),467,2.9855442176870746,True,Innovation Ecosystem
+7,Japan,2019,International industrial applications by origin (Hague System),397,2.687925170068027,True,Innovation Ecosystem
+8,China,2019,International industrial applications by origin (Hague System),239,2.016156462585034,True,Innovation Ecosystem
+9,United Kingdom,2019,International industrial applications by origin (Hague System),182,1.7738095238095237,True,Innovation Ecosystem
+10,Sweden,2019,International industrial applications by origin (Hague System),100,1.4251700680272108,True,Innovation Ecosystem
+11,Denmark,2019,International industrial applications by origin (Hague System),98,1.4166666666666667,True,Innovation Ecosystem
+12,Cyprus,2019,International industrial applications by origin (Hague System),33,1.1403061224489797,True,Innovation Ecosystem
+13,Turkey,2019,International industrial applications by origin (Hague System),91,1.3869047619047619,True,Innovation Ecosystem
+14,Spain,2019,International industrial applications by origin (Hague System),81,1.344387755102041,True,Innovation Ecosystem
+15,Luxembourg,2019,International industrial applications by origin (Hague System),41,1.1743197278911564,True,Innovation Ecosystem
+16,Austria,2019,International industrial applications by origin (Hague System),48,1.2040816326530612,True,Innovation Ecosystem
+17,Czech Republic,2019,International industrial applications by origin (Hague System),19,1.0807823129251701,True,Innovation Ecosystem
+18,Liechtenstein,2019,International industrial applications by origin (Hague System),19,1.0807823129251701,True,Innovation Ecosystem
+19,Ukraine,2019,International industrial applications by origin (Hague System),38,1.1615646258503403,True,Innovation Ecosystem
+20,Norway,2019,International industrial applications by origin (Hague System),43,1.1828231292517006,True,Innovation Ecosystem
+21,Russian Federation,2019,International industrial applications by origin (Hague System),36,1.153061224489796,True,Innovation Ecosystem
+22,Belgium,2019,International industrial applications by origin (Hague System),47,1.1998299319727892,True,Innovation Ecosystem
+23,Poland,2019,International industrial applications by origin (Hague System),51,1.2168367346938775,True,Innovation Ecosystem
+24,Tunisia,2019,International industrial applications by origin (Hague System),2,1.0085034013605443,True,Innovation Ecosystem
+25,Canada,2019,International industrial applications by origin (Hague System),37,1.157312925170068,True,Innovation Ecosystem
+26,Bosnia and Herzegovina,2019,International industrial applications by origin (Hague System),8,1.034013605442177,True,Innovation Ecosystem
+27,Hungary,2019,International industrial applications by origin (Hague System),11,1.0467687074829932,True,Innovation Ecosystem
+28,Portugal,2019,International industrial applications by origin (Hague System),24,1.1020408163265305,True,Innovation Ecosystem
+29,Morocco,2019,International industrial applications by origin (Hague System),4,1.0170068027210883,True,Innovation Ecosystem
+30,Croatia,2019,International industrial applications by origin (Hague System),17,1.0722789115646258,True,Innovation Ecosystem
+31,Slovenia,2019,International industrial applications by origin (Hague System),32,1.1360544217687074,True,Innovation Ecosystem
+32,Finland,2019,International industrial applications by origin (Hague System),25,1.1062925170068028,True,Innovation Ecosystem
+33,Bulgaria,2019,International industrial applications by origin (Hague System),11,1.0467687074829932,True,Innovation Ecosystem
+34,Slovakia,2019,International industrial applications by origin (Hague System),3,1.0127551020408163,True,Innovation Ecosystem
+35,Serbia,2019,International industrial applications by origin (Hague System),19,1.0807823129251701,True,Innovation Ecosystem
+36,Singapore,2019,International industrial applications by origin (Hague System),16,1.0680272108843538,True,Innovation Ecosystem
+37,Ireland,2019,International industrial applications by origin (Hague System),9,1.038265306122449,True,Innovation Ecosystem
+38,Republic of Moldova,2019,International industrial applications by origin (Hague System),8,1.034013605442177,True,Innovation Ecosystem
+39,Lithuania,2019,International industrial applications by origin (Hague System),7,1.0297619047619047,True,Innovation Ecosystem
+40,United Arab Emirates,2019,International industrial applications by origin (Hague System),3,1.0127551020408163,True,Innovation Ecosystem
+41,South Africa,2019,International industrial applications by origin (Hague System),3,1.0127551020408163,True,Innovation Ecosystem
+42,Viet Nam,2019,International industrial applications by origin (Hague System),2,1.0085034013605443,True,Innovation Ecosystem
+43,Greece,2019,International industrial applications by origin (Hague System),6,1.0255102040816326,True,Innovation Ecosystem
+44,Monaco,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+45,Romania,2019,International industrial applications by origin (Hague System),5,1.0212585034013606,True,Innovation Ecosystem
+46,Armenia,2019,International industrial applications by origin (Hague System),4,1.0170068027210883,True,Innovation Ecosystem
+47,North Macedonia,2019,International industrial applications by origin (Hague System),6,1.0255102040816326,True,Innovation Ecosystem
+48,Australia,2019,International industrial applications by origin (Hague System),4,1.0170068027210883,True,Innovation Ecosystem
+49,Estonia,2019,International industrial applications by origin (Hague System),6,1.0255102040816326,True,Innovation Ecosystem
+50,Iceland,2019,International industrial applications by origin (Hague System),4,1.0170068027210883,True,Innovation Ecosystem
+51,Israel,2019,International industrial applications by origin (Hague System),2,1.0085034013605443,True,Innovation Ecosystem
+52,India,2019,International industrial applications by origin (Hague System),2,1.0085034013605443,True,Innovation Ecosystem
+53,Latvia,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+54,Cameroon,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+55,Iran (Islamic Republic of),2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+56,New Zealand,2019,International industrial applications by origin (Hague System),2,1.0085034013605443,True,Innovation Ecosystem
+57,Dominican Republic,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+58,Georgia,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+59,Kazakhstan,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+60,Lebanon,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+61,Maldives,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+62,Oman,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+63,Saudi Arabia,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
+64,Syrian Arab Republic,2019,International industrial applications by origin (Hague System),1,1.004251700680272,True,Innovation Ecosystem
 65,Albania,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
 66,Bahamas,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
 67,Curaçao,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
@@ -72,4 +72,4 @@
 70,Malta,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
 71,Seychelles,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
 72,Turkmenistan,2019,International industrial applications by origin (Hague System),0,1.0,True,Innovation Ecosystem
-73,Unknown,2019,International industrial applications by origin (Hague System),10,1.5,True,Innovation Ecosystem
+73,Unknown,2019,International industrial applications by origin (Hague System),10,1.0425170068027212,True,Innovation Ecosystem

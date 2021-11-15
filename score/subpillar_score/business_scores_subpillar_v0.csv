@@ -1,5 +1,5 @@
 Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-Business,Financing Incentives,Albania,2.6784060000000007,1,0.29760066666666674
+Business,Financing Incentives,Albania,2.678406,1,0.2976006666666666
 Business,Financing Incentives,Algeria,3.0705203216666668,1,0.3411689246296296
 Business,Financing Incentives,Angola,1.588115155833333,1,0.176457239537037
 Business,Financing Incentives,Argentina,2.1068387825,1,0.23409319805555556
@@ -29,7 +29,7 @@ Business,Financing Incentives,Canada,3.50346144,1,0.38927349333333333
 Business,Financing Incentives,Chad,1.9842155375,1,0.22046839305555554
 Business,Financing Incentives,Chile,3.305286924166667,1,0.3672541026851852
 Business,Financing Incentives,China,3.8483645125,1,0.4275960569444444
-Business,Financing Incentives,Colombia,2.7935913800000005,1,0.31039904222222225
+Business,Financing Incentives,Colombia,2.79359138,1,0.3103990422222222
 Business,Financing Incentives,"Congo, Dem. Rep.",1.8897201216666664,1,0.20996890240740737
 Business,Financing Incentives,Costa Rica,2.411718329166667,1,0.26796870324074074
 Business,Financing Incentives,Cote d'Ivoire,1.8290547133333332,1,0.20322830148148147
@@ -43,8 +43,8 @@ Business,Financing Incentives,"Egypt, Arab Rep.",2.727351745,1,0.303039082777777
 Business,Financing Incentives,El Salvador,2.3060929375,1,0.2562325486111111
 Business,Financing Incentives,Estonia,3.354956865,1,0.372772985
 Business,Financing Incentives,Ethiopia,2.912280718333333,1,0.3235867464814814
-Business,Financing Incentives,Finland,4.440609375833335,1,0.4934010417592595
-Business,Financing Incentives,France,3.685918410833334,1,0.40954649009259264
+Business,Financing Incentives,Finland,4.440609375833333,1,0.49340104175925914
+Business,Financing Incentives,France,3.685918410833333,1,0.40954649009259253
 Business,Financing Incentives,Gabon,1.7552083333333337,1,0.19502314814814817
 Business,Financing Incentives,"Gambia, The",2.656297644166666,1,0.2951441826851851
 Business,Financing Incentives,Georgia,2.3141534725,1,0.2571281636111111
@@ -98,8 +98,8 @@ Business,Financing Incentives,Mozambique,1.868938565,1,0.20765984055555556
 Business,Financing Incentives,Myanmar,0.0,0,0.0
 Business,Financing Incentives,Namibia,2.6720203558333333,1,0.29689115064814814
 Business,Financing Incentives,Nepal,2.551565925,1,0.283507325
-Business,Financing Incentives,Netherlands,3.819400628333333,1,0.4243778475925925
-Business,Financing Incentives,New Zealand,3.7404952050000007,1,0.41561057833333337
+Business,Financing Incentives,Netherlands,3.8194006283333337,1,0.4243778475925926
+Business,Financing Incentives,New Zealand,3.740495205,1,0.4156105783333333
 Business,Financing Incentives,Nicaragua,1.981645186666667,1,0.22018279851851852
 Business,Financing Incentives,Nigeria,1.8425033091666667,1,0.2047225899074074
 Business,Financing Incentives,Norway,3.422453760833333,1,0.38027264009259254
@@ -126,15 +126,15 @@ Business,Financing Incentives,Slovak Republic,3.1822826066666665,1,0.35358695629
 Business,Financing Incentives,Slovenia,2.8969080841666663,1,0.32187867601851844
 Business,Financing Incentives,South Africa,2.709652543333333,1,0.3010725048148148
 Business,Financing Incentives,Spain,3.356005708333333,1,0.3728895231481481
-Business,Financing Incentives,Sri Lanka,2.924379865000001,1,0.3249310961111112
+Business,Financing Incentives,Sri Lanka,2.924379865,1,0.3249310961111111
 Business,Financing Incentives,Suriname,0.0,0,0.0
 Business,Financing Incentives,Swaziland,2.2357032300000004,1,0.24841147000000002
 Business,Financing Incentives,Sweden,3.817937533333333,1,0.42421528148148147
-Business,Financing Incentives,Switzerland,3.800040642500001,1,0.4222267380555556
+Business,Financing Incentives,Switzerland,3.8000406425,1,0.42222673805555555
 Business,Financing Incentives,Syrian Arab Republic,0.0,0,0.0
-Business,Financing Incentives,"Taiwan, China",3.5706887241666663,1,0.396743191574074
+Business,Financing Incentives,"Taiwan, China",3.5706887241666667,1,0.39674319157407406
 Business,Financing Incentives,Tajikistan,2.942382255833333,1,0.3269313617592592
-Business,Financing Incentives,Tanzania,2.719933350833334,1,0.3022148167592593
+Business,Financing Incentives,Tanzania,2.719933350833333,1,0.3022148167592592
 Business,Financing Incentives,Thailand,3.305538058333333,1,0.36728200648148146
 Business,Financing Incentives,Timor-Leste,0.0,0,0.0
 Business,Financing Incentives,Trinidad and Tobago,2.0981291533333337,1,0.2331254614814815
@@ -144,7 +144,7 @@ Business,Financing Incentives,Uganda,2.2483791508333333,1,0.24981990564814813
 Business,Financing Incentives,Ukraine,2.683026949166667,1,0.29811410546296296
 Business,Financing Incentives,United Arab Emirates,4.193357388333334,1,0.4659285987037038
 Business,Financing Incentives,United Kingdom,3.89632678,1,0.4329251977777777
-Business,Financing Incentives,United States,4.528901338333334,1,0.5032112598148148
+Business,Financing Incentives,United States,4.528901338333332,1,0.5032112598148146
 Business,Financing Incentives,Uruguay,2.797855099166667,1,0.3108727887962963
 Business,Financing Incentives,"Venezuela, RB",1.887324015,1,0.20970266833333331
 Business,Financing Incentives,Vietnam,2.88958327,1,0.3210648077777778
@@ -164,8 +164,8 @@ Business,Startup Environment,Arab World,1.1022727272222221,2,0.24494949493827156
 Business,Startup Environment,Argentina,2.6607985517517005,7,2.069509984695767
 Business,Startup Environment,Armenia,4.227033729885865,7,3.2876929010223397
 Business,Startup Environment,Aruba,0.0,0,0.0
-Business,Startup Environment,Australia,8.01237436628818,8,7.122110547811715
-Business,Startup Environment,Austria,4.1400486788867665,8,3.68004327012157
+Business,Startup Environment,Australia,4.9689090003753655,8,4.416808000333658
+Business,Startup Environment,Austria,3.575341580352591,8,3.1780814047578585
 Business,Startup Environment,Azerbaijan,4.927722116628118,7,3.8326727573774253
 Business,Startup Environment,"Bahamas, The",2.570767195767196,4,1.1425631981187536
 Business,Startup Environment,Bahrain,3.808680170399849,7,2.9623067991998826
@@ -174,7 +174,7 @@ Business,Startup Environment,Bangladesh Chittagong,0.0,0,0.0
 Business,Startup Environment,Bangladesh Dhaka,0.0,0,0.0
 Business,Startup Environment,Barbados,2.8727936507936507,5,1.5959964726631393
 Business,Startup Environment,Belarus,3.443095737157407,6,2.295397158104938
-Business,Startup Environment,Belgium,6.618240020403615,8,5.882880018136547
+Business,Startup Environment,Belgium,4.14611961819377,8,3.6854396606166837
 Business,Startup Environment,Belize,2.2103174603174605,4,0.982363315696649
 Business,Startup Environment,Benin,2.866234055736961,7,2.229293154462081
 Business,Startup Environment,Bermuda,0.0,0,0.0
@@ -188,13 +188,13 @@ Business,Startup Environment,Brazil Rio de Janeiro,0.0,0,0.0
 Business,Startup Environment,Brazil São Paulo,0.0,0,0.0
 Business,Startup Environment,British Virgin Islands,0.0,0,0.0
 Business,Startup Environment,Brunei Darussalam,4.739909921955026,7,3.68659660596502
-Business,Startup Environment,Bulgaria,3.393620246374895,8,3.016551330111018
+Business,Startup Environment,Bulgaria,3.3689358263300266,8,2.994609623404468
 Business,Startup Environment,Burkina Faso,2.5151832042131517,7,1.9562536032768958
 Business,Startup Environment,Burundi,2.802719576719577,5,1.5570664315108762
 Business,Startup Environment,Cabo Verde,2.698228501113757,7,2.098622167532922
 Business,Startup Environment,Cambodia,3.0986631140370373,7,2.410071310917696
 Business,Startup Environment,Cameroon,2.608188317555178,7,2.0285909136540274
-Business,Startup Environment,Canada,25.311757812471985,8,22.499340277752875
+Business,Startup Environment,Canada,4.783928455981391,8,4.252380849761236
 Business,Startup Environment,Caribbean small states,1.403846153888889,2,0.31196581197530865
 Business,Startup Environment,Cayman Islands,0.0,0,0.0
 Business,Startup Environment,Central African Republic,1.710978835978836,4,0.760435038212816
@@ -216,9 +216,9 @@ Business,Startup Environment,Croatia,3.4071482233065002,7,2.6500041736828335
 Business,Startup Environment,Cuba,0.0,0,0.0
 Business,Startup Environment,Curacao,0.0,0,0.0
 Business,Startup Environment,Cyprus,4.132550167676493,7,3.214205685970606
-Business,Startup Environment,Czech Republic,3.733951823495134,8,3.31906828755123
+Business,Startup Environment,Czech Republic,3.564029708734314,8,3.1680264077638345
 Business,Startup Environment,Côte d'Ivoire,2.798941798941799,1,0.31099353321575546
-Business,Startup Environment,Denmark,6.7245957537732295,8,5.977418447798426
+Business,Startup Environment,Denmark,4.523467291996986,8,4.020859815108432
 Business,Startup Environment,Djibouti,2.9510582010582014,4,1.311581422692534
 Business,Startup Environment,Dominica,2.7228835978835977,4,1.2101704879482655
 Business,Startup Environment,Dominican Republic,2.741954790476569,7,2.132631503703998
@@ -232,7 +232,7 @@ Business,Startup Environment,"Egypt, Arab Rep.",2.791153439153439,5,1.5506407995
 Business,Startup Environment,El Salvador,3.591429442617913,7,2.7933340109250437
 Business,Startup Environment,Equatorial Guinea,1.7903439153439153,4,0.7957084068195179
 Business,Startup Environment,Eritrea,1.013227513227513,4,0.450323339212228
-Business,Startup Environment,Estonia,4.461374070281324,8,3.9656658402500655
+Business,Startup Environment,Estonia,4.211175217996318,8,3.743266860441171
 Business,Startup Environment,Eswatini,2.355820105820106,4,1.0470311581422693
 Business,Startup Environment,Ethiopia,2.04187837774452,7,1.5881276271346267
 Business,Startup Environment,Euro area,1.8947368420833335,2,0.4210526315740741
@@ -242,17 +242,17 @@ Business,Startup Environment,Europe & Central Asia (excluding high income),1.819
 Business,Startup Environment,European Union,1.4485596708333333,2,0.32190214907407405
 Business,Startup Environment,Faroe Islands,0.0,0,0.0
 Business,Startup Environment,Fiji,2.691468253968254,4,1.1962081128747795
-Business,Startup Environment,Finland,5.93084156626464,8,5.271859170013013
+Business,Startup Environment,Finland,3.922514099367432,8,3.486679199437717
 Business,Startup Environment,Fragile and conflict affected situations,1.342836257361111,2,0.298408057191358
-Business,Startup Environment,France,17.468061381374106,8,15.527165672332538
+Business,Startup Environment,France,3.9471156811485875,8,3.5085472721320774
 Business,Startup Environment,French Polynesia,0.0,0,0.0
 Business,Startup Environment,Gabon,2.623555555555556,5,1.457530864197531
 Business,Startup Environment,"Gambia, The",2.9574497354497353,5,1.6430276308054086
 Business,Startup Environment,Georgia,5.130075580570673,7,3.9900587848883013
-Business,Startup Environment,Germany,18.976669363401687,8,16.868150545245943
+Business,Startup Environment,Germany,4.114660874239364,8,3.6574763326572124
 Business,Startup Environment,Ghana,3.1507271549062734,7,2.4505655649271016
 Business,Startup Environment,Gibraltar,0.0,0,0.0
-Business,Startup Environment,Greece,3.4956567361435793,8,3.1072504321276257
+Business,Startup Environment,Greece,3.326651704252921,8,2.9570237371137074
 Business,Startup Environment,Greenland,0.0,0,0.0
 Business,Startup Environment,Grenada,2.2003968253968256,4,0.9779541446208113
 Business,Startup Environment,Guam,0.0,0,0.0
@@ -266,7 +266,7 @@ Business,Startup Environment,High income,2.0052681991666668,2,0.4456151553703704
 Business,Startup Environment,Honduras,3.1753601590952383,7,2.4697245681851854
 Business,Startup Environment,Hong Kong,5.25868964925,2,1.1685976998333332
 Business,Startup Environment,"Hong Kong SAR, China",5.550264550264551,4,2.4667842445620223
-Business,Startup Environment,Hungary,4.643615673026437,8,4.127658376023499
+Business,Startup Environment,Hungary,3.6763834448542303,8,3.267896395425982
 Business,Startup Environment,IBRD only,1.448937908472222,2,0.321986201882716
 Business,Startup Environment,IDA & IBRD total,1.4566587863888891,2,0.32370195253086426
 Business,Startup Environment,IDA blend,1.435185185138889,2,0.3189300411419753
@@ -282,19 +282,19 @@ Business,Startup Environment,Indonesia Surabaya,0.0,0,0.0
 Business,Startup Environment,Iran (Islamic Republic of),2.407368116,2,0.5349706924444444
 Business,Startup Environment,"Iran, Islamic Rep.",2.406042328042328,5,1.336690182245738
 Business,Startup Environment,Iraq,1.2447089947089947,4,0.5532039976484421
-Business,Startup Environment,Ireland,5.057701366293722,8,4.4957345478166415
+Business,Startup Environment,Ireland,3.902698989854154,8,3.469065768759248
 Business,Startup Environment,Isle of Man,0.0,0,0.0
 Business,Startup Environment,Israel,4.141422086526833,7,3.2211060672986482
-Business,Startup Environment,Italy,4.751440834457812,8,4.223502963962499
+Business,Startup Environment,Italy,3.1206549980252207,8,2.773915553800196
 Business,Startup Environment,Jamaica,4.316815376687075,7,3.3575230707566144
-Business,Startup Environment,Japan,19.1903954341627,8,17.058129274811286
+Business,Startup Environment,Japan,3.561093130964913,8,3.165416116413256
 Business,Startup Environment,Japan Osaka,0.0,0,0.0
 Business,Startup Environment,Japan Tokyo,0.0,0,0.0
 Business,Startup Environment,Jordan,3.957275485899093,7,3.0778809334770725
 Business,Startup Environment,Kazakhstan,4.5345320517086165,7,3.5268582624400353
 Business,Startup Environment,Kenya,4.139113026929327,7,3.2193101320561435
 Business,Startup Environment,Kiribati,1.8002645502645502,4,0.8001175778953556
-Business,Startup Environment,Korea,136.421962788243,1,15.157995865360334
+Business,Startup Environment,Korea,1.099690180559253,1,0.12218779783991698
 Business,Startup Environment,"Korea, Dem. People's Rep.",0.0,0,0.0
 Business,Startup Environment,"Korea, Rep.",4.489671957671957,5,2.494262198706643
 Business,Startup Environment,Kosovo,4.824404761904762,4,2.144179894179894
@@ -307,18 +307,18 @@ Business,Startup Environment,Late-demographic dividend,1.5607638888888886,2,0.34
 Business,Startup Environment,Latin America & Caribbean,1.3947811447222225,2,0.3099513654938272
 Business,Startup Environment,Latin America & Caribbean (excluding high income),1.3555555555555554,2,0.30123456790123454
 Business,Startup Environment,Latin America & the Caribbean (IDA & IBRD countries),1.3564814815277775,2,0.301440329228395
-Business,Startup Environment,Latvia,4.419796895141549,8,3.9287083512369323
+Business,Startup Environment,Latvia,4.379360491362037,8,3.8927648812106996
 Business,Startup Environment,Least developed countries: UN classification,1.3882850241666667,2,0.30850778314814814
 Business,Startup Environment,Lebanon,2.5764533111515497,7,2.00390813089565
 Business,Startup Environment,Lesotho,2.706899470899471,5,1.503833039388595
 Business,Startup Environment,Liberia,1.7973544973544975,4,0.7988242210464432
 Business,Startup Environment,Libya,1.052910052910053,4,0.4679600235155791
 Business,Startup Environment,Liechtenstein,1.0833333333333333,2,0.2407407407407407
-Business,Startup Environment,Lithuania,4.139590790751873,8,3.6796362584461093
+Business,Startup Environment,Lithuania,4.109071494743585,8,3.652507995327631
 Business,Startup Environment,Low & middle income,1.4613617376388888,2,0.3247470528086419
 Business,Startup Environment,Low income,1.3397435897222223,2,0.29772079771604937
 Business,Startup Environment,Lower middle income,1.4570707070833333,2,0.32379349046296296
-Business,Startup Environment,Luxembourg,3.1305356177653407,8,2.782698326902525
+Business,Startup Environment,Luxembourg,3.0224245528585274,8,2.686599602540913
 Business,Startup Environment,"Macao SAR, China",0.0,0,0.0
 Business,Startup Environment,"Macedonia, FYR",4.610952380952381,2,1.0246560846560846
 Business,Startup Environment,Madagascar,2.439293910627362,7,1.897228597154615
@@ -348,9 +348,9 @@ Business,Startup Environment,Myanmar,1.890836767336861,6,1.2605578448912405
 Business,Startup Environment,Namibia,3.0695396915332576,7,2.3874197600814226
 Business,Startup Environment,Nauru,0.0,0,0.0
 Business,Startup Environment,Nepal,3.400127417750189,7,2.644543547139036
-Business,Startup Environment,Netherlands,8.240068520445714,8,7.324505351507301
+Business,Startup Environment,Netherlands,3.856162293198609,8,3.427699816176541
 Business,Startup Environment,New Caledonia,0.0,0,0.0
-Business,Startup Environment,New Zealand,5.559919784082326,8,4.942150919184289
+Business,Startup Environment,New Zealand,5.098247613045449,8,4.531775656040399
 Business,Startup Environment,Nicaragua,2.1915132275132274,5,1.2175073486184598
 Business,Startup Environment,Niger,2.9575480651574075,6,1.9716987101049384
 Business,Startup Environment,Nigeria,3.3415787351477704,7,2.5990056828927104
@@ -359,7 +359,7 @@ Business,Startup Environment,Nigeria Lagos,0.0,0,0.0
 Business,Startup Environment,North America,3.1666666666666665,2,0.7037037037037036
 Business,Startup Environment,North Macedonia,4.033328277643915,5,2.2407379320243974
 Business,Startup Environment,Northern Mariana Islands,0.0,0,0.0
-Business,Startup Environment,Norway,5.310597635185875,8,4.7205312312763335
+Business,Startup Environment,Norway,4.321866990544297,8,3.841659547150486
 Business,Startup Environment,Not classified,0.0,0,0.0
 Business,Startup Environment,OECD members,2.114035087777778,2,0.46978557506172836
 Business,Startup Environment,Oman,3.5425199752823135,7,2.7552933141084663
@@ -374,8 +374,8 @@ Business,Startup Environment,Papua New Guinea,2.942791005291005,4,1.307907113462
 Business,Startup Environment,Paraguay,2.473177273611489,7,1.9235823239200471
 Business,Startup Environment,Peru,3.6374319150075585,7,2.8291137116725453
 Business,Startup Environment,Philippines,2.8418556918465607,7,2.2103322047695473
-Business,Startup Environment,Poland,4.378492333467124,8,3.8919931853041096
-Business,Startup Environment,Portugal,3.8073437608600567,8,3.384305565208939
+Business,Startup Environment,Poland,3.672852732859823,8,3.264757984764287
+Business,Startup Environment,Portugal,3.4857355660666864,8,3.0984316142814987
 Business,Startup Environment,Post-demographic dividend,1.4961419752777776,2,0.33247599450617277
 Business,Startup Environment,Pre-demographic dividend,1.3873873873611113,2,0.3083083083024692
 Business,Startup Environment,Puerto Rico,4.880070546737214,3,1.6266901822457378
@@ -383,8 +383,8 @@ Business,Startup Environment,Puerto Rico (U.S.),4.333333333333333,1,0.4814814814
 Business,Startup Environment,Qatar,3.4951826201341656,7,2.718475371215462
 Business,Startup Environment,Republic of Korea,4.4116165305,2,0.9803592289999999
 Business,Startup Environment,Republic of Moldova,3.843844712,2,0.8541877137777778
-Business,Startup Environment,Romania,3.6472797725269626,8,3.242026464468411
-Business,Startup Environment,Russia,7.55,1,0.8388888888888888
+Business,Startup Environment,Romania,3.50022313388027,8,3.1113094523380176
+Business,Startup Environment,Russia,1.004683207460266,1,0.11163146749558511
 Business,Startup Environment,Russian Federation,4.291351483890023,7,3.337717820803351
 Business,Startup Environment,Russian Federation Moscow,0.0,0,0.0
 Business,Startup Environment,Russian Federation Saint Petersburg,0.0,0,0.0
@@ -399,17 +399,17 @@ Business,Startup Environment,Seychelles,2.7642116402116406,5,1.5356731334509115
 Business,Startup Environment,Sierra Leone,1.8357142857142859,4,0.8158730158730159
 Business,Startup Environment,Singapore,5.451489040060468,7,4.240047031158142
 Business,Startup Environment,Sint Maarten (Dutch part),0.0,0,0.0
-Business,Startup Environment,Slovak Republic,3.387974451222973,6,2.2586496341486484
+Business,Startup Environment,Slovak Republic,3.1831250850787463,6,2.1220833900524974
 Business,Startup Environment,Slovakia,4.495422270500001,2,0.9989827267777779
 Business,Startup Environment,Slovenia,3.8480108285770975,7,2.99289731111552
 Business,Startup Environment,Small states,1.4450231481944442,2,0.3211162551543209
 Business,Startup Environment,Solomon Islands,3.3115079365079367,4,1.4717813051146384
 Business,Startup Environment,Somalia,1.0,4,0.4444444444444444
-Business,Startup Environment,South Africa,6.018502339234074,8,5.349779857096955
+Business,Startup Environment,South Africa,3.0101682341820273,8,2.675705097050691
 Business,Startup Environment,South Asia,1.4305555555555554,2,0.31790123456790115
 Business,Startup Environment,South Asia (IDA & IBRD),1.4305555555555554,2,0.31790123456790115
 Business,Startup Environment,South Sudan,1.2744708994708993,4,0.5664315108759552
-Business,Startup Environment,Spain,7.685706938899563,8,6.831739501244056
+Business,Startup Environment,Spain,3.593816411575517,8,3.194503476956015
 Business,Startup Environment,Sri Lanka,3.0960384841942554,7,2.4080299321510874
 Business,Startup Environment,St. Kitts and Nevis,2.1888227513227516,4,0.9728101116990007
 Business,Startup Environment,St. Lucia,2.8039021164021163,4,1.2461787184009405
@@ -420,8 +420,8 @@ Business,Startup Environment,Sub-Saharan Africa (IDA & IBRD countries),1.3813657
 Business,Startup Environment,Sub-Saharan Africa (excluding high income),1.3906619384722223,2,0.3090359863271605
 Business,Startup Environment,Sudan,1.6233465608465607,4,0.7214873603762492
 Business,Startup Environment,Suriname,1.5588624338624337,4,0.6928277483833039
-Business,Startup Environment,Sweden,6.691585912650331,8,5.9480763668002945
-Business,Startup Environment,Switzerland,7.432538944905046,8,6.606701284360041
+Business,Startup Environment,Sweden,4.177345698735506,8,3.7131961766537827
+Business,Startup Environment,Switzerland,3.9753345754898732,8,3.533630733768776
 Business,Startup Environment,Syrian Arab Republic,1.269510582010582,4,0.5642269253380364
 Business,Startup Environment,São Tomé and Príncipe,1.5291005291005293,1,0.16990005878894768
 Business,Startup Environment,"Taiwan, China",5.416269841269841,2,1.2036155202821868
@@ -440,9 +440,9 @@ Business,Startup Environment,Tuvalu,0.0,0,0.0
 Business,Startup Environment,Uganda,2.9776323294531366,7,2.3159362562413284
 Business,Startup Environment,Ukraine,3.924039300283069,7,3.0520305668868315
 Business,Startup Environment,United Arab Emirates,4.753845165422525,7,3.6974351286619638
-Business,Startup Environment,United Kingdom,25.431511146767953,8,22.605787686015958
+Business,Startup Environment,United Kingdom,4.509567193983961,8,4.008504172430188
 Business,Startup Environment,United Republic of Tanzania,3.2935892984999997,2,0.7319087329999999
-Business,Startup Environment,United States,1135.0589570057011,6,756.7059713371341
+Business,Startup Environment,United States,5.486534391534391,6,3.6576895943562606
 Business,Startup Environment,United States Los Angeles,0.0,0,0.0
 Business,Startup Environment,United States New York City,0.0,0,0.0
 Business,Startup Environment,United States of America,5.34169749425,2,1.1870438876111111
@@ -461,177 +461,177 @@ Business,Startup Environment,"Yemen, Rep.",1.5737460317460317,5,0.87430335097001
 Business,Startup Environment,Zambia,4.101866587020786,7,3.1903406787939446
 Business,Startup Environment,Zimbabwe,2.6630069718038927,7,2.071227644736361
 Business,Technology Adoption,Afghanistan,1.855,1,0.2061111111111111
-Business,Technology Adoption,Albania,2.6324,5,1.4624444444444447
-Business,Technology Adoption,Algeria,1.7421,4,0.7742666666666667
-Business,Technology Adoption,Angola,1.8153,5,1.0085
-Business,Technology Adoption,Argentina,2.7557500000000004,6,1.8371666666666668
-Business,Technology Adoption,Armenia,2.8556999999999997,5,1.5864999999999998
-Business,Technology Adoption,Australia,2.935714285714286,6,1.9571428571428573
-Business,Technology Adoption,Austria,4.022026,8,3.575134222222222
-Business,Technology Adoption,Azerbaijan,2.6657,5,1.4809444444444446
+Business,Technology Adoption,Albania,2.8836000000000004,5,1.6020000000000003
+Business,Technology Adoption,Algeria,2.3267,4,1.0340888888888888
+Business,Technology Adoption,Angola,1.8469000000000002,5,1.0260555555555557
+Business,Technology Adoption,Argentina,3.0363333333333333,6,2.024222222222222
+Business,Technology Adoption,Armenia,3.2876999999999996,5,1.8264999999999998
+Business,Technology Adoption,Australia,3.4882142857142857,6,2.3254761904761905
+Business,Technology Adoption,Austria,4.233463500000001,8,3.7630786666666673
+Business,Technology Adoption,Azerbaijan,3.3562,5,1.8645555555555555
 Business,Technology Adoption,B:,0.0,0,0.0
-Business,Technology Adoption,Bahrain,2.2377000000000002,4,0.9945333333333334
-Business,Technology Adoption,Bangladesh,2.0833,5,1.1573888888888888
+Business,Technology Adoption,Bahrain,2.8632,4,1.2725333333333333
+Business,Technology Adoption,Bangladesh,2.3104,5,1.2835555555555556
 Business,Technology Adoption,Belarus,3.2201999999999997,4,1.4311999999999998
 Business,Technology Adoption,Belgium,3.676916142857143,6,2.4512774285714283
 Business,Technology Adoption,Belize,3.43,1,0.3811111111111111
-Business,Technology Adoption,Benin,1.7487000000000001,4,0.7772
+Business,Technology Adoption,Benin,2.1716,4,0.9651555555555555
 Business,Technology Adoption,Bhutan,2.68,1,0.29777777777777775
-Business,Technology Adoption,Bolivia,2.251,4,1.0004444444444442
+Business,Technology Adoption,Bolivia,2.28875,4,1.017222222222222
 Business,Technology Adoption,Bolivia (Plurinational State of),2.96,1,0.32888888888888884
-Business,Technology Adoption,Bosnia and Herzegovina,2.8921,5,1.6067222222222224
-Business,Technology Adoption,Botswana,2.2054,5,1.2252222222222222
-Business,Technology Adoption,Brazil,2.407142857142857,6,1.6047619047619046
-Business,Technology Adoption,Bulgaria,3.0868,5,1.7148888888888891
-Business,Technology Adoption,Burkina Faso,1.4405999999999999,4,0.6402666666666665
-Business,Technology Adoption,Burundi,1.6227,5,0.9015000000000001
-Business,Technology Adoption,Cabo Verde,2.145,4,0.9533333333333333
-Business,Technology Adoption,Cambodia,1.9464,5,1.0813333333333333
-Business,Technology Adoption,Cameroon,1.9962,5,1.109
-Business,Technology Adoption,Canada,2.976642857142857,6,1.9844285714285714
-Business,Technology Adoption,Chad,1.1389,4,0.5061777777777777
-Business,Technology Adoption,Chile,3.2251,5,1.7917222222222222
+Business,Technology Adoption,Bosnia and Herzegovina,3.0925999999999996,5,1.718111111111111
+Business,Technology Adoption,Botswana,2.3057,5,1.2809444444444444
+Business,Technology Adoption,Brazil,2.6063571428571426,6,1.7375714285714283
+Business,Technology Adoption,Bulgaria,3.7153000000000005,5,2.064055555555556
+Business,Technology Adoption,Burkina Faso,1.5816,4,0.7029333333333333
+Business,Technology Adoption,Burundi,1.9154,5,1.0641111111111112
+Business,Technology Adoption,Cabo Verde,2.552375,4,1.134388888888889
+Business,Technology Adoption,Cambodia,2.2069,5,1.2260555555555557
+Business,Technology Adoption,Cameroon,2.5453,5,1.4140555555555556
+Business,Technology Adoption,Canada,3.556142857142857,6,2.3707619047619044
+Business,Technology Adoption,Chad,1.2292,4,0.5463111111111111
+Business,Technology Adoption,Chile,3.6148000000000002,5,2.0082222222222224
 Business,Technology Adoption,China,2.9065833333333333,5,1.6147685185185185
 Business,Technology Adoption,"China, Hong Kong SAR",5.59,1,0.6211111111111111
-Business,Technology Adoption,Colombia,2.4985833333333334,5,1.388101851851852
+Business,Technology Adoption,Colombia,2.7792499999999998,5,1.5440277777777778
 Business,Technology Adoption,Comoros,1.6,1,0.17777777777777778
 Business,Technology Adoption,Congo,1.645,1,0.18277777777777776
-Business,Technology Adoption,"Congo, Dem. Rep.",1.20225,3,0.40075
-Business,Technology Adoption,Costa Rica,2.9946,5,1.6636666666666668
-Business,Technology Adoption,Croatia,3.4854,5,1.9363333333333332
-Business,Technology Adoption,Cyprus,3.3893999999999997,5,1.883
-Business,Technology Adoption,Czech Republic,3.748428235714286,7,2.9154441833333338
+Business,Technology Adoption,"Congo, Dem. Rep.",1.34625,3,0.44875
+Business,Technology Adoption,Costa Rica,3.4382000000000006,5,1.9101111111111115
+Business,Technology Adoption,Croatia,3.7052,5,2.0584444444444445
+Business,Technology Adoption,Cyprus,3.711,5,2.0616666666666665
+Business,Technology Adoption,Czech Republic,4.062499664285714,7,3.1597219611111114
 Business,Technology Adoption,Czechia,5.29,1,0.5877777777777777
-Business,Technology Adoption,Côte d'Ivoire,1.848125,4,0.8213888888888888
+Business,Technology Adoption,Côte d'Ivoire,2.341,4,1.0404444444444445
 Business,Technology Adoption,Cōte d'Ivoire,2.52,1,0.27999999999999997
 Business,Technology Adoption,D:,0.0,0,0.0
 Business,Technology Adoption,Data extracted on 10 Sep 2021 15:04 UTC (GMT) from OECD.Stat,0.0,0,0.0
 Business,Technology Adoption,Dem. Rep. of the Congo,1.64,1,0.1822222222222222
 Business,Technology Adoption,Denmark,4.3133333333333335,5,2.3962962962962964
 Business,Technology Adoption,Djibouti,2.385,1,0.26499999999999996
-Business,Technology Adoption,Dominican Republic,2.3041,4,1.0240444444444443
-Business,Technology Adoption,Ecuador,2.7469,5,1.5260555555555557
-Business,Technology Adoption,Egypt,2.4989,5,1.3882777777777777
-Business,Technology Adoption,El Salvador,2.3874,5,1.3263333333333334
-Business,Technology Adoption,Estonia,3.862758875,8,3.4335634444444443
-Business,Technology Adoption,Eswatini,2.2222999999999997,5,1.234611111111111
-Business,Technology Adoption,Ethiopia,2.0494,5,1.1385555555555555
-Business,Technology Adoption,Finland,4.043432,7,3.1448915555555557
-Business,Technology Adoption,France,3.678824166666667,9,3.678824166666667
+Business,Technology Adoption,Dominican Republic,2.6452,4,1.1756444444444443
+Business,Technology Adoption,Ecuador,2.8753,5,1.597388888888889
+Business,Technology Adoption,Egypt,3.343,5,1.8572222222222223
+Business,Technology Adoption,El Salvador,2.5623,5,1.4235
+Business,Technology Adoption,Estonia,4.251758874999999,8,3.7793412222222216
+Business,Technology Adoption,Eswatini,2.3055,5,1.2808333333333333
+Business,Technology Adoption,Ethiopia,2.3137,5,1.285388888888889
+Business,Technology Adoption,Finland,4.499146285714285,7,3.499335999999999
+Business,Technology Adoption,France,4.043713055555555,9,4.043713055555555
 Business,Technology Adoption,Gabon,2.9,1,0.3222222222222222
-Business,Technology Adoption,Gambia,1.7388750000000002,4,0.7728333333333334
+Business,Technology Adoption,Gambia,2.188625,4,0.9727222222222222
 Business,Technology Adoption,Georgia,2.6427,4,1.1745333333333332
-Business,Technology Adoption,Germany,3.9537883333333337,9,3.9537883333333337
-Business,Technology Adoption,Ghana,2.2625,5,1.2569444444444446
-Business,Technology Adoption,Greece,3.0308231928571425,7,2.3573069277777776
-Business,Technology Adoption,Guatemala,2.5551000000000004,5,1.4195000000000002
-Business,Technology Adoption,Guinea,1.4965,4,0.6651111111111111
+Business,Technology Adoption,Germany,4.383010555555556,9,4.383010555555556
+Business,Technology Adoption,Ghana,2.6146,5,1.4525555555555556
+Business,Technology Adoption,Greece,3.184251764285714,7,2.476640261111111
+Business,Technology Adoption,Guatemala,2.7354999999999996,5,1.519722222222222
+Business,Technology Adoption,Guinea,2.0686,4,0.9193777777777777
 Business,Technology Adoption,Haiti,2.01,1,0.2233333333333333
 Business,Technology Adoption,Honduras,2.1109,4,0.9381777777777778
-Business,Technology Adoption,Hong Kong (China),2.154875,3,0.7182916666666667
-Business,Technology Adoption,Hungary,3.6063110375000003,8,3.205609811111111
-Business,Technology Adoption,Iceland,3.1277304375,7,2.432679229166667
-Business,Technology Adoption,India,2.638666666666667,6,1.7591111111111113
-Business,Technology Adoption,Indonesia,2.3759166666666665,6,1.5839444444444442
+Business,Technology Adoption,Hong Kong (China),3.005,3,1.0016666666666665
+Business,Technology Adoption,Hungary,3.7671860375000006,8,3.3486098111111113
+Business,Technology Adoption,Iceland,3.5089179374999997,7,2.729158395833333
+Business,Technology Adoption,India,2.939916666666667,6,1.9599444444444445
+Business,Technology Adoption,Indonesia,2.94825,6,1.9654999999999998
 Business,Technology Adoption,Iran (Islamic Republic of),4.75,1,0.5277777777777778
-Business,Technology Adoption,"Iran, Islamic Rep.",1.90125,3,0.63375
+Business,Technology Adoption,"Iran, Islamic Rep.",2.207875,3,0.7359583333333333
 Business,Technology Adoption,Iraq,2.27,1,0.25222222222222224
-Business,Technology Adoption,Ireland,4.320785714285715,7,3.3606111111111114
-Business,Technology Adoption,Israel,3.6833,5,2.046277777777778
-Business,Technology Adoption,Italy,3.4678607277777775,9,3.4678607277777775
-Business,Technology Adoption,Jamaica,2.6119,5,1.4510555555555555
-Business,Technology Adoption,Japan,3.25,6,2.1666666666666665
-Business,Technology Adoption,Jordan,3.0969,5,1.7205000000000001
-Business,Technology Adoption,Kazakhstan,2.8753,5,1.597388888888889
-Business,Technology Adoption,Kenya,2.586,5,1.4366666666666668
+Business,Technology Adoption,Ireland,4.752428571428572,7,3.696333333333334
+Business,Technology Adoption,Israel,4.5173000000000005,5,2.5096111111111115
+Business,Technology Adoption,Italy,3.8028607277777775,9,3.8028607277777775
+Business,Technology Adoption,Jamaica,3.0446999999999997,5,1.6915
+Business,Technology Adoption,Japan,3.601,6,2.4006666666666665
+Business,Technology Adoption,Jordan,3.6584000000000003,5,2.0324444444444447
+Business,Technology Adoption,Kazakhstan,3.2183,5,1.7879444444444446
+Business,Technology Adoption,Kenya,3.1365,5,1.7425
 Business,Technology Adoption,Korea,0.9975,1,0.11083333333333334
-Business,Technology Adoption,"Korea, Rep.",3.602125,4,1.6009444444444443
+Business,Technology Adoption,"Korea, Rep.",4.443375,4,1.974833333333333
 Business,Technology Adoption,"Korea, Republic of",5.49,1,0.61
-Business,Technology Adoption,Kuwait,2.3419,4,1.0408444444444442
-Business,Technology Adoption,Kyrgyzstan,2.4616,5,1.3675555555555554
-Business,Technology Adoption,Lao PDR,2.069875,4,0.9199444444444445
+Business,Technology Adoption,Kuwait,2.8617,4,1.2718666666666665
+Business,Technology Adoption,Kyrgyzstan,2.7307999999999995,5,1.5171111111111109
+Business,Technology Adoption,Lao PDR,2.73275,4,1.2145555555555554
 Business,Technology Adoption,Lao People's Dem. Rep.,3.03,1,0.3366666666666666
-Business,Technology Adoption,Latvia,3.1650211428571424,7,2.461683111111111
-Business,Technology Adoption,Lebanon,2.8859,5,1.6032777777777778
+Business,Technology Adoption,Latvia,3.5592354285714287,7,2.7682942222222224
+Business,Technology Adoption,Lebanon,3.2549,5,1.8082777777777779
 Business,Technology Adoption,Legend:,0.0,0,0.0
-Business,Technology Adoption,Lesotho,1.5329000000000002,4,0.6812888888888889
+Business,Technology Adoption,Lesotho,1.8513000000000002,4,0.8228
 Business,Technology Adoption,Liberia,1.845,1,0.205
 Business,Technology Adoption,Libya,3.485,1,0.3872222222222222
-Business,Technology Adoption,Lithuania,3.525263857142857,7,2.741871888888889
-Business,Technology Adoption,Luxembourg,3.8547824375,8,3.4264732777777773
-Business,Technology Adoption,Madagascar,1.8174,5,1.0096666666666667
-Business,Technology Adoption,Malawi,2.0171,5,1.1206111111111112
-Business,Technology Adoption,Malaysia,2.974333333333334,6,1.9828888888888891
-Business,Technology Adoption,Mali,1.6989,4,0.7550666666666667
-Business,Technology Adoption,Malta,3.5963000000000003,5,1.9979444444444447
+Business,Technology Adoption,Lithuania,3.900335285714285,7,3.0335941111111104
+Business,Technology Adoption,Luxembourg,4.161094937500001,8,3.698751055555556
+Business,Technology Adoption,Madagascar,2.245,5,1.2472222222222222
+Business,Technology Adoption,Malawi,2.0324999999999998,5,1.1291666666666667
+Business,Technology Adoption,Malaysia,3.683666666666667,6,2.4557777777777776
+Business,Technology Adoption,Mali,1.9929,4,0.8857333333333333
+Business,Technology Adoption,Malta,4.1798,5,2.3221111111111115
 Business,Technology Adoption,Mauritania,1.75,1,0.19444444444444442
-Business,Technology Adoption,Mauritius,2.572,5,1.428888888888889
-Business,Technology Adoption,Mexico,2.2301428571428574,6,1.486761904761905
-Business,Technology Adoption,Moldova,2.43925,4,1.084111111111111
-Business,Technology Adoption,Mongolia,2.5263,5,1.4035
-Business,Technology Adoption,Montenegro,2.6436,5,1.4686666666666668
-Business,Technology Adoption,Morocco,2.7115,5,1.506388888888889
-Business,Technology Adoption,Mozambique,1.9778000000000002,5,1.0987777777777779
+Business,Technology Adoption,Mauritius,2.8976,5,1.609777777777778
+Business,Technology Adoption,Mexico,2.524785714285714,6,1.6831904761904761
+Business,Technology Adoption,Moldova,2.9471249999999998,4,1.3098333333333332
+Business,Technology Adoption,Mongolia,2.8066000000000004,5,1.5592222222222225
+Business,Technology Adoption,Montenegro,3.045,5,1.6916666666666667
+Business,Technology Adoption,Morocco,3.0941,5,1.7189444444444446
+Business,Technology Adoption,Mozambique,2.0130000000000003,5,1.1183333333333336
 Business,Technology Adoption,Myanmar,2.2,1,0.24444444444444446
-Business,Technology Adoption,Namibia,2.3017,5,1.278722222222222
-Business,Technology Adoption,Nepal,2.0347,5,1.1303888888888889
-Business,Technology Adoption,Netherlands,4.2121475625,8,3.7441311666666666
-Business,Technology Adoption,New Zealand,3.932916666666667,6,2.6219444444444444
+Business,Technology Adoption,Namibia,2.6628,5,1.4793333333333334
+Business,Technology Adoption,Nepal,2.2392000000000003,5,1.2440000000000002
+Business,Technology Adoption,Netherlands,4.7709600625,8,4.240853388888889
+Business,Technology Adoption,New Zealand,4.510583333333333,6,3.007055555555555
 Business,Technology Adoption,Nicaragua,2.45,1,0.27222222222222225
 Business,Technology Adoption,Niger,1.28,1,0.14222222222222222
-Business,Technology Adoption,Nigeria,2.3552000000000004,5,1.3084444444444447
-Business,Technology Adoption,North Macedonia,3.0934999999999997,5,1.718611111111111
+Business,Technology Adoption,Nigeria,2.6355000000000004,5,1.464166666666667
+Business,Technology Adoption,North Macedonia,3.4627000000000003,5,1.9237222222222226
 Business,Technology Adoption,Norway,3.8151904374999996,7,2.9673703402777774
-Business,Technology Adoption,Oman,2.3212,4,1.0316444444444444
-Business,Technology Adoption,Pakistan,2.4099000000000004,5,1.3388333333333335
-Business,Technology Adoption,Panama,2.4417999999999997,5,1.3565555555555555
-Business,Technology Adoption,Paraguay,2.8403,5,1.5779444444444446
-Business,Technology Adoption,Peru,2.8402000000000003,5,1.5778888888888891
-Business,Technology Adoption,Philippines,2.9183999999999997,5,1.6213333333333333
-Business,Technology Adoption,Poland,3.3336982777777773,9,3.3336982777777773
-Business,Technology Adoption,Portugal,3.6895000000000002,7,2.8696111111111113
-Business,Technology Adoption,Qatar,2.711,4,1.2048888888888887
+Business,Technology Adoption,Oman,2.9294,4,1.3019555555555553
+Business,Technology Adoption,Pakistan,2.8503000000000003,5,1.5835000000000001
+Business,Technology Adoption,Panama,2.7455000000000003,5,1.525277777777778
+Business,Technology Adoption,Paraguay,2.87,5,1.5944444444444446
+Business,Technology Adoption,Peru,3.0018000000000002,5,1.6676666666666669
+Business,Technology Adoption,Philippines,3.4854999999999996,5,1.9363888888888887
+Business,Technology Adoption,Poland,3.6187538333333324,9,3.6187538333333324
+Business,Technology Adoption,Portugal,4.093571428571429,7,3.183888888888889
+Business,Technology Adoption,Qatar,3.4135999999999997,4,1.5171555555555554
 Business,Technology Adoption,Republic of Moldova,4.54,1,0.5044444444444445
-Business,Technology Adoption,Romania,3.4286000000000003,5,1.9047777777777781
+Business,Technology Adoption,Romania,3.778,5,2.098888888888889
 Business,Technology Adoption,Russia,1.785,1,0.1983333333333333
-Business,Technology Adoption,Russian Federation,3.2390999999999996,5,1.7994999999999999
-Business,Technology Adoption,Rwanda,2.1846,5,1.2136666666666667
-Business,Technology Adoption,Saudi Arabia,2.5324,4,1.1255111111111111
-Business,Technology Adoption,Senegal,2.4092000000000002,5,1.3384444444444445
-Business,Technology Adoption,Serbia,3.3704,5,1.8724444444444446
+Business,Technology Adoption,Russian Federation,3.8637,5,2.1465
+Business,Technology Adoption,Rwanda,2.6193,5,1.4551666666666667
+Business,Technology Adoption,Saudi Arabia,3.3848999999999996,4,1.5043999999999997
+Business,Technology Adoption,Senegal,2.8452,5,1.5806666666666669
+Business,Technology Adoption,Serbia,3.707,5,2.0594444444444444
 Business,Technology Adoption,Sierra Leone,1.72,1,0.1911111111111111
-Business,Technology Adoption,Singapore,3.162833333333333,5,1.7571296296296295
+Business,Technology Adoption,Singapore,3.8345,5,2.1302777777777777
 Business,Technology Adoption,Slovak Republic,3.683027766666667,3,1.2276759222222222
-Business,Technology Adoption,Slovakia,3.7439999999999998,5,2.08
-Business,Technology Adoption,Slovenia,3.1437726250000004,7,2.4451564861111117
-Business,Technology Adoption,South Africa,2.46475,6,1.6431666666666667
-Business,Technology Adoption,Spain,3.5975066944444447,9,3.5975066944444447
-Business,Technology Adoption,Sri Lanka,2.2058,5,1.2254444444444446
+Business,Technology Adoption,Slovakia,4.090300000000001,5,2.2723888888888895
+Business,Technology Adoption,Slovenia,3.369147625,7,2.620448152777778
+Business,Technology Adoption,South Africa,2.734083333333333,6,1.822722222222222
+Business,Technology Adoption,Spain,3.875117805555556,9,3.875117805555556
+Business,Technology Adoption,Sri Lanka,2.7278000000000002,5,1.5154444444444446
 Business,Technology Adoption,Sudan,2.085,1,0.23166666666666666
-Business,Technology Adoption,Sweden,4.2421800625,8,3.770826722222222
-Business,Technology Adoption,Switzerland,3.373376071428571,6,2.2489173809523804
+Business,Technology Adoption,Sweden,4.666430062500001,8,4.147937833333334
+Business,Technology Adoption,Switzerland,3.814876071428571,6,2.5432507142857137
 Business,Technology Adoption,Syrian Arab Republic,2.055,1,0.22833333333333333
-Business,Technology Adoption,Tajikistan,1.9744999999999997,5,1.0969444444444443
-Business,Technology Adoption,Tanzania,1.83475,4,0.8154444444444444
-Business,Technology Adoption,Thailand,2.9219166666666667,6,1.9479444444444445
+Business,Technology Adoption,Tajikistan,2.1889000000000003,5,1.2160555555555557
+Business,Technology Adoption,Tanzania,2.290875,4,1.0181666666666667
+Business,Technology Adoption,Thailand,3.3352500000000003,6,2.2235
 Business,Technology Adoption,Togo,2.16,1,0.24
-Business,Technology Adoption,Trinidad and Tobago,2.7169,5,1.509388888888889
-Business,Technology Adoption,Tunisia,2.9873000000000003,5,1.6596111111111114
-Business,Technology Adoption,Turkey,3.25125,8,2.89
-Business,Technology Adoption,Uganda,1.9956,5,1.1086666666666667
-Business,Technology Adoption,Ukraine,3.1900000000000004,5,1.7722222222222226
-Business,Technology Adoption,United Arab Emirates,2.5295,4,1.1242222222222222
-Business,Technology Adoption,United Kingdom,3.275511111111111,8,2.911565432098765
+Business,Technology Adoption,Trinidad and Tobago,2.89,5,1.6055555555555556
+Business,Technology Adoption,Tunisia,3.1915000000000004,5,1.7730555555555558
+Business,Technology Adoption,Turkey,3.4919375,8,3.1039444444444446
+Business,Technology Adoption,Uganda,2.2318,5,1.2398888888888888
+Business,Technology Adoption,Ukraine,3.7557,5,2.0865
+Business,Technology Adoption,United Arab Emirates,3.319,4,1.475111111111111
+Business,Technology Adoption,United Kingdom,3.767788888888889,8,3.3491456790123455
 Business,Technology Adoption,United Republic of Tanzania,2.83,1,0.3144444444444444
-Business,Technology Adoption,United States,2.576803571428571,6,1.7178690476190472
+Business,Technology Adoption,United States,3.252517857142857,6,2.1683452380952377
 Business,Technology Adoption,United States of America,5.55,1,0.6166666666666666
-Business,Technology Adoption,Uruguay,2.9893,5,1.6607222222222224
+Business,Technology Adoption,Uruguay,3.2495,5,1.8052777777777778
 Business,Technology Adoption,Uzbekistan,2.85,1,0.31666666666666665
-Business,Technology Adoption,Venezuela,2.53675,4,1.1274444444444445
+Business,Technology Adoption,Venezuela,2.6862500000000002,4,1.193888888888889
 Business,Technology Adoption,Venezuela (Bolivarian Rep. of),3.4,1,0.37777777777777777
-Business,Technology Adoption,Viet Nam,3.0204,5,1.6780000000000002
+Business,Technology Adoption,Viet Nam,3.6712000000000002,5,2.039555555555556
 Business,Technology Adoption,Vietnam,1.43,1,0.15888888888888889
-Business,Technology Adoption,Yemen,1.546875,4,0.6875
+Business,Technology Adoption,Yemen,1.73225,4,0.7698888888888888
 Business,Technology Adoption,"Yemen, Arab Republic",1.925,1,0.21388888888888888
-Business,Technology Adoption,Zambia,2.4339,5,1.3521666666666667
-Business,Technology Adoption,Zimbabwe,2.1892,5,1.2162222222222223
+Business,Technology Adoption,Zambia,2.6066000000000003,5,1.4481111111111113
+Business,Technology Adoption,Zimbabwe,2.168,5,1.2044444444444447
