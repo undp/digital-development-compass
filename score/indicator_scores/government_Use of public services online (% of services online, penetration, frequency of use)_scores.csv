@@ -1,32 +1,36 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-UAE ,2020,"Use of public services online (% of services online, penetration, frequency of use)",61,6.0,True,Digital Public Services
-Saudi Arabia ,2020,"Use of public services online (% of services online, penetration, frequency of use)",59,5.8765432098765435,True,Digital Public Services
-Singapore,2020,"Use of public services online (% of services online, penetration, frequency of use)",54,5.567901234567901,True,Digital Public Services
-China ,2020,"Use of public services online (% of services online, penetration, frequency of use)",53,5.506172839506172,True,Digital Public Services
-New Zealand ,2020,"Use of public services online (% of services online, penetration, frequency of use)",52,5.444444444444445,True,Digital Public Services
-Netherlands ,2020,"Use of public services online (% of services online, penetration, frequency of use)",51,5.382716049382716,True,Digital Public Services
-Qatar ,2020,"Use of public services online (% of services online, penetration, frequency of use)",51,5.382716049382716,True,Digital Public Services
-Canada ,2020,"Use of public services online (% of services online, penetration, frequency of use)",40,4.703703703703704,True,Digital Public Services
-Denmark,2020,"Use of public services online (% of services online, penetration, frequency of use)",48,5.197530864197531,True,Digital Public Services
-India ,2020,"Use of public services online (% of services online, penetration, frequency of use)",45,5.012345679012346,True,Digital Public Services
-France ,2020,"Use of public services online (% of services online, penetration, frequency of use)",43,4.888888888888889,True,Digital Public Services
-UK,2020,"Use of public services online (% of services online, penetration, frequency of use)",42,4.827160493827161,True,Digital Public Services
-Sweden,2020,"Use of public services online (% of services online, penetration, frequency of use)",41,4.765432098765432,True,Digital Public Services
-Australia,2020,"Use of public services online (% of services online, penetration, frequency of use)",40,4.703703703703704,True,Digital Public Services
-United States ,2020,"Use of public services online (% of services online, penetration, frequency of use)",39,4.6419753086419755,True,Digital Public Services
-Russia ,2020,"Use of public services online (% of services online, penetration, frequency of use)",39,4.6419753086419755,True,Digital Public Services
-Norway ,2020,"Use of public services online (% of services online, penetration, frequency of use)",34,4.333333333333334,True,Digital Public Services
-Austria,2020,"Use of public services online (% of services online, penetration, frequency of use)",33,4.271604938271604,True,Digital Public Services
-Kazakhstan ,2020,"Use of public services online (% of services online, penetration, frequency of use)",32,4.209876543209877,True,Digital Public Services
-Switzerland ,2020,"Use of public services online (% of services online, penetration, frequency of use)",26,3.8395061728395063,True,Digital Public Services
-Poland ,2020,"Use of public services online (% of services online, penetration, frequency of use)",25,3.7777777777777777,True,Digital Public Services
-Kenya ,2020,"Use of public services online (% of services online, penetration, frequency of use)",25,3.7777777777777777,True,Digital Public Services
-Ukraine ,2020,"Use of public services online (% of services online, penetration, frequency of use)",21,3.5308641975308643,True,Digital Public Services
-Malaysia ,2020,"Use of public services online (% of services online, penetration, frequency of use)",21,3.5308641975308643,True,Digital Public Services
-Indonesia ,2020,"Use of public services online (% of services online, penetration, frequency of use)",20,3.4691358024691357,True,Digital Public Services
-South Korea ,2020,"Use of public services online (% of services online, penetration, frequency of use)",19,3.4074074074074074,True,Digital Public Services
-Germany ,2020,"Use of public services online (% of services online, penetration, frequency of use)",17,3.2839506172839505,True,Digital Public Services
-Argentina ,2020,"Use of public services online (% of services online, penetration, frequency of use)",15,3.1604938271604937,True,Digital Public Services
-Morocco ,2020,"Use of public services online (% of services online, penetration, frequency of use)",-2,2.111111111111111,True,Digital Public Services
-Switzerland,2020,"Use of public services online (% of services online, penetration, frequency of use)",-18,1.123456790123457,True,Digital Public Services
-Japan ,2020,"Use of public services online (% of services online, penetration, frequency of use)",-20,1.0,True,Digital Public Services
+India,2020,"Use of public services online (% of services online, penetration, frequency of use)",86.1,6.0,True,Digital Public Services
+Saudi Arabia,2020,"Use of public services online (% of services online, penetration, frequency of use)",84.2,5.764851485148516,True,Digital Public Services
+China,2020,"Use of public services online (% of services online, penetration, frequency of use)",81.8,5.467821782178218,True,Digital Public Services
+Singapore,2020,"Use of public services online (% of services online, penetration, frequency of use)",80.9,5.356435643564358,True,Digital Public Services
+France,2020,"Use of public services online (% of services online, penetration, frequency of use)",79.1,5.133663366336633,True,Digital Public Services
+Chile,2020,"Use of public services online (% of services online, penetration, frequency of use)",78.3,5.034653465346535,True,Digital Public Services
+Hong Kong,2020,"Use of public services online (% of services online, penetration, frequency of use)",76.6,4.824257425742574,True,Digital Public Services
+Kenya,2020,"Use of public services online (% of services online, penetration, frequency of use)",76.1,4.762376237623762,True,Digital Public Services
+Poland,2020,"Use of public services online (% of services online, penetration, frequency of use)",75.2,4.650990099009902,True,Digital Public Services
+Australia,2020,"Use of public services online (% of services online, penetration, frequency of use)",74.5,4.564356435643566,True,Digital Public Services
+Estonia,2020,"Use of public services online (% of services online, penetration, frequency of use)",74.3,4.53960396039604,True,Digital Public Services
+Indonesia,2020,"Use of public services online (% of services online, penetration, frequency of use)",73.8,4.477722772277228,True,Digital Public Services
+Qatar,2020,"Use of public services online (% of services online, penetration, frequency of use)",72.7,4.341584158415842,True,Digital Public Services
+United Kingdom,2020,"Use of public services online (% of services online, penetration, frequency of use)",72.0,4.254950495049506,True,Digital Public Services
+New Zealand,2020,"Use of public services online (% of services online, penetration, frequency of use)",71.9,4.242574257425743,True,Digital Public Services
+Canada,2020,"Use of public services online (% of services online, penetration, frequency of use)",71.5,4.193069306930694,True,Digital Public Services
+United States of America,2020,"Use of public services online (% of services online, penetration, frequency of use)",70.7,4.094059405940595,True,Digital Public Services
+Malaysia,2020,"Use of public services online (% of services online, penetration, frequency of use)",70.6,4.081683168316831,True,Digital Public Services
+Switzerland,2020,"Use of public services online (% of services online, penetration, frequency of use)",70.1,4.01980198019802,True,Digital Public Services
+Ukraine,2020,"Use of public services online (% of services online, penetration, frequency of use)",69.5,3.945544554455446,True,Digital Public Services
+South Africa,2020,"Use of public services online (% of services online, penetration, frequency of use)",69.5,3.945544554455446,True,Digital Public Services
+Norway,2020,"Use of public services online (% of services online, penetration, frequency of use)",68.4,3.8094059405940603,True,Digital Public Services
+Sweden,2020,"Use of public services online (% of services online, penetration, frequency of use)",67.6,3.71039603960396,True,Digital Public Services
+Argentina,2020,"Use of public services online (% of services online, penetration, frequency of use)",66.8,3.6113861386138613,True,Digital Public Services
+Nigeria,2020,"Use of public services online (% of services online, penetration, frequency of use)",66.8,3.6113861386138613,True,Digital Public Services
+Denmark,2020,"Use of public services online (% of services online, penetration, frequency of use)",66.7,3.5990099009900995,True,Digital Public Services
+Bangladesh,2020,"Use of public services online (% of services online, penetration, frequency of use)",65.8,3.4876237623762374,True,Digital Public Services
+Kazakhstan,2020,"Use of public services online (% of services online, penetration, frequency of use)",65.2,3.413366336633664,True,Digital Public Services
+Austria,2020,"Use of public services online (% of services online, penetration, frequency of use)",64.2,3.28960396039604,True,Digital Public Services
+Russia,2020,"Use of public services online (% of services online, penetration, frequency of use)",63.4,3.1905940594059405,True,Digital Public Services
+Germany,2020,"Use of public services online (% of services online, penetration, frequency of use)",62.7,3.1039603960396045,True,Digital Public Services
+Netherlands,2020,"Use of public services online (% of services online, penetration, frequency of use)",62.7,3.1039603960396045,True,Digital Public Services
+Morocco,2020,"Use of public services online (% of services online, penetration, frequency of use)",62.3,3.054455445544554,True,Digital Public Services
+South Korea,2020,"Use of public services online (% of services online, penetration, frequency of use)",59.7,2.7326732673267333,True,Digital Public Services
+Japan,2020,"Use of public services online (% of services online, penetration, frequency of use)",45.7,1.0,True,Digital Public Services
