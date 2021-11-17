@@ -1,27 +1,21 @@
 Country Name,Year,Pillar,Sub-Pillar,Indicator,data_col,new_rank_score,higher_is_better
-Uzbekistan,2019.0,Business,Startup Environment,Doing Business Index,76.0,4.015873015873016,False
-Uzbekistan,2019.0,Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),69.0,4.201058201058201,True
+Uzbekistan,2019.0,Business,Startup Environment,Doing Business Index,67.4,4.37,False
 Uzbekistan,2019.0,Business,Startup Environment,Ease of Getting Credit,65.0,4.25,True
 Uzbekistan,2019.0,Business,Startup Environment,Regulatory Quality,17.53159656,1.876579828,True
 Uzbekistan,2019.0,Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),6.0,3.5,True
-Uzbekistan,2019.0,Business,Startup Environment,Time required to start a business (days),3.0,4.333333333333334,True
 Uzbekistan,2020.0,Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,37.0,2.85,True
 Uzbekistan,2017.0,Foundations,Digital Payments,% Making online transactions - Women,4.0,1.2,True
 Uzbekistan,2017.0,Foundations,Digital Payments,% of population with digital finance account,37.0,2.85,True
 Uzbekistan,2018.0,Foundations,Digital Legal Identity,% of population with ID (all),96.0,5.8,True
 Uzbekistan,2018.0,Foundations,Digital Legal Identity,can ID be used for transactions,1.0,6.0,True
 Uzbekistan,2017.0,Foundations,Digital Payments,% of population with digital finance account - registered,37.0,2.85,True
-Uzbekistan,2020.0,Foundations,Digital Legal Identity,Is personal data siloed,0.02,6.0,True
 Uzbekistan,2017.0,Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,34.0,2.7,True
 Uzbekistan,2017.0,Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,33.0,2.65,True
 Uzbekistan,2017.0,Foundations,Digital Payments,% Making online transactions - Men,10.0,1.5,True
 Uzbekistan,2017.0,Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,11.0,1.55,True
 Uzbekistan,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,104.0,1.1869158878504669,True
 Uzbekistan,2020.0,Government,Digital Public Services,E-Participation index,0.8095,5.0475,True
-Uzbekistan,2020.0,Government,Funding and procurement,Evidence of digital strategies in/across Minstries,3.0,6.0,True
-Uzbekistan,2020.0,Government,Leadership and coordination,Evidence of focus on vulnerable groups,-0.03,1.0,True
 Uzbekistan,2020.0,Government,Digital Public Services,Online-Service-Index (OSI),0.7824,4.912,True
-Uzbekistan,2020.0,Government,Digital Public Services,What is the % change of government digitizing public services?,0.77,4.928571428571429,True
 Uzbekistan,2018.0,Government,Digital Public Services,R&D spending (% of GDP),0.13003,1.120913269425028,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,% of population covered by electricity,100.0,6.0,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,% of population covered by internet connectivity,70.4000024,4.520000120000001,True
@@ -31,15 +25,11 @@ Uzbekistan,2019.0,Infrastructure,Connectivity Technology,% of population covered
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,% of population covered by mobile 5G+ data connectivity,0.0,1.0,True
 Uzbekistan,2020.0,Infrastructure,Connectivity Technology,Broadband Density,14.4013259,1.720066295,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,Cellphone Signal Density,57.65999985,3.8829999925,True
-Uzbekistan,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",1.5899999999999994,2.891314799626686,True
-Uzbekistan,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",-109.31,4.184469864987433,True
-Uzbekistan,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",1575.8800000000003,4.784518963340148,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,Electricity Density,1850.899,1.1628513009062365,True
 Uzbekistan,2021.0,Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,69.8,4.49,True
 Uzbekistan,2020.0,Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),71.11,4.5555,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,46.8,3.34,True
 Uzbekistan,2019.0,Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),70.4000024,4.520000120000001,True
-Uzbekistan,2019.0,Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),1.0,1.0000847601288354,True
 Uzbekistan,2021.0,Infrastructure,Connectivity Technology,ISP internet download speed average ,40.9,1.7197826173192114,True
 Uzbekistan,2018.0,Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,2.58,2.975,True
 Uzbekistan,2020.0,Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,0.003258442,1.0001629221,True

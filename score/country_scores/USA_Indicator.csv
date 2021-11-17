@@ -1,7 +1,6 @@
 Country Name,Year,Pillar,Sub-Pillar,Indicator,data_col,new_rank_score,higher_is_better
 United States of America,2018.0,Business,Technology Adoption,"Cloud Services (Spend, IT Forecast Data)",18.0,1.9,True
-United States of America,2019.0,Business,Startup Environment,Doing Business Index,8.0,5.814814814814815,False
-United States of America,2019.0,Business,Startup Environment,Ease of doing business index (1=most business-friendly regulations),6.0,5.867724867724868,True
+United States of America,2019.0,Business,Startup Environment,Doing Business Index,82.75,5.1375,False
 United States of America,2019.0,Business,Startup Environment,Ease of finding skilled employees,5.32,5.32,True
 United States of America,2019.0,Business,Startup Environment,Ease of Getting Credit,95.0,5.75,True
 United States of America,2017.0,Business,Technology Adoption,ICT task-intensive jobs as a percentage of total employment,17.8225,1.891125,True
@@ -12,7 +11,6 @@ United States of America,2019.0,Business,Technology Adoption,Size of digital eco
 United States of America,2019.0,Business,Technology Adoption,Size of gig economy (% of GDP),100.0,6.0,True
 United States of America,2019.0,Business,Startup Environment,"Amount invested into startups yearly from private, public, blended sources (respectively)",135648.6907137,6.0,True
 United States of America,2019.0,Business,Startup Environment,Strength of legal rights index (0=weak to 12=strong),11.0,5.583333333333333,True
-United States of America,2019.0,Business,Startup Environment,Time required to start a business (days),3.0,4.333333333333334,True
 United States of America,2020.0,Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,91.0,5.55,True
 United States of America,2019.0,Business,Financing Incentives,Venture Capital Availability,5.234681606,4.528901338333332,True
 United States of America,2017.0,Foundations,Digital Payments,% Making online transactions - Women,77.0,4.85,True
@@ -20,7 +18,6 @@ United States of America,2017.0,Foundations,Digital Payments,% of population wit
 United States of America,2018.0,Foundations,Digital Legal Identity,% of population with ID (all),88.0,5.4,True
 United States of America,2017.0,Foundations,Digital Payments,Digital payments penetration,84.4,5.22,True
 United States of America,2017.0,Foundations,Digital Payments,% of population with digital finance account - registered,93.0,5.65,True
-United States of America,2020.0,Foundations,Digital Legal Identity,Is personal data siloed,0.02,6.0,True
 United States of America,2017.0,Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,91.0,5.55,True
 United States of America,2017.0,Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,91.0,5.55,True
 United States of America,2017.0,Foundations,Digital Payments,% Making online transactions - Men,77.0,4.85,True
@@ -28,10 +25,7 @@ United States of America,2016.0,Foundations,Data Exchange,Open data index,65.0,4
 United States of America,2017.0,Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,71.0,4.55,True
 United States of America,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,29.0,4.691588785046729,True
 United States of America,2020.0,Government,Digital Public Services,E-Participation index,1.0,6.0,True
-United States of America,2020.0,Government,Funding and procurement,Evidence of digital strategies in/across Minstries,2.0,4.333333333333334,True
-United States of America,2020.0,Government,Leadership and coordination,Evidence of focus on vulnerable groups,0.09,6.0,True
 United States of America,2020.0,Government,Digital Public Services,Online-Service-Index (OSI),0.9471,5.7355,True
-United States of America,2020.0,Government,Digital Public Services,What is the % change of government digitizing public services?,0.92,5.6938775510204085,True
 United States of America,2018.0,Government,Digital Public Services,R&D spending (% of GDP),2.83283,3.862100860449738,True
 United States of America,2020.0,Government,Digital Public Services,Security incidents (# of relevant issues),20.0,1.0,True
 United States of America,2020.0,Government,Digital Public Services,"Use of public services online (% of services online, penetration, frequency of use)",70.7,4.535,True
@@ -44,9 +38,6 @@ United States of America,2019.0,Infrastructure,Connectivity Technology,% of popu
 United States of America,2018.0,Infrastructure,Innovation Ecosystem,Availability of scientists and engineers,5.748474121,4.957061767500001,True
 United States of America,2020.0,Infrastructure,Connectivity Technology,Broadband Density,36.41390775,2.8206953875,True
 United States of America,2019.0,Infrastructure,Connectivity Technology,Cellphone Signal Density,96.42333221,5.8211666105,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",2.5000000000000004,2.9041828105998477,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",1188.4300000000003,4.289244965952573,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",2799.8299999999995,4.802897194193191,True
 United States of America,2021.0,Infrastructure,Innovation Ecosystem,Digital Finance Ecosystem size,31.789,2.5894500000000003,True
 United States of America,2020.0,Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,85.0,5.25,True
 United States of America,2019.0,Infrastructure,Connectivity Technology,Electricity Density,12647.454,2.1127859148726014,True
@@ -55,10 +46,6 @@ United States of America,2018.0,Infrastructure,Connectivity Technology,Electrici
 United States of America,2020.0,Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),100.0,6.0,True
 United States of America,2019.0,Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,84.99,5.2495,True
 United States of America,2019.0,Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),89.43028486,5.4715142430000006,True
-United States of America,2017.0,Infrastructure,Innovation Ecosystem,International Co-Inventions,1224357.1436999994,6.0,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),410.0,2.7431972789115644,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),1351.0,2.5054602184087367,True
-United States of America,2019.0,Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),57840.0,5.902525851839295,True
 United States of America,2021.0,Infrastructure,Connectivity Technology,ISP internet download speed average ,195.55,4.787139513665755,True
 United States of America,2018.0,Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,3.89,4.612500000000001,True
 United States of America,2020.0,Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,27.35330587,2.3676652935,True
@@ -75,8 +62,8 @@ United States of America,2017.0,People,Usage and ownership,% of population using
 United States of America,2021.0,People,Usage and ownership,% of population using Facebook,72.09,4.6045,True
 United States of America,2019.0,People,Digital Literacy Skills,% of population using internet (all),89.43028486,5.4715142430000006,True
 United States of America,2020.0,People,Usage and ownership,% of population with a smartphone,0.82,5.1,True
-United States of America,2018.0,People,Digital Wellbeing,Automation-led unemployment,45.8,3.71,True
-United States of America,2018.0,People,Digital Wellbeing,Cyberbullying,26.0,2.5277777777777777,True
+United States of America,2018.0,People,Digital Wellbeing,Automation-led unemployment,45.8,3.71,False
+United States of America,2018.0,People,Digital Wellbeing,Cyberbullying,26.0,4.7,True
 United States of America,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),70.43,5.516294585578651,True
 United States of America,2021.0,People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",7.468911695816155,1.5320271500761868,True
 United States of America,2017.0,People,Usage and ownership,Financial Inclusiveness,93.0,5.65,True
@@ -87,7 +74,7 @@ United States of America,2021.0,People,Digital Wellbeing,Global Wellbeing Initia
 United States of America,2019.0,People,Digital Wellbeing,Gross National Wellbeing,83.55,5.1775,True
 United States of America,2020.0,People,Digital Literacy Skills,Human Capital Index (HCI),0.9239,5.6195,True
 United States of America,2019.0,People,Usage and ownership,Internet Usage,89.43028486,5.4715142430000006,True
-United States of America,2020.0,People,Culture,"Level of satisfaction for online public services (% of users, by type of interaction and service)",39.0,2.95,True
+United States of America,2020.0,People,Culture,"Level of satisfaction for online public services (% of users, by type of interaction and service)",70.7,4.535,True
 United States of America,2019.0,People,Culture,Number of mobile apps available in national language(s),100.0,6.0,True
 United States of America,2021.0,People,Usage and ownership,Social media penetration,72.3,4.615,True
 United States of America,2019.0,People,Usage and ownership,Tax as % of total cost of mobile ownership,77.58,2.1210000000000004,False
