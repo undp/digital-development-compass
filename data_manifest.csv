@@ -54,7 +54,7 @@ ecosystem,csv,https://raw.githubusercontent.com/mbelinsky/public_development_dat
 population_density,xlsx,https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel,1,4,,
 sustainability_index,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx,3,1,,
 RD_Percentage_GDP,xlsx,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel,1,4,,
-ICT_Investment,csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.ICTINVST.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en,1,1,,
+ICT_Investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv,,,,
 start_up_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv,,,,
 SDG_digital_literacy_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv,,,,
 Egov_strategy,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,2,,
