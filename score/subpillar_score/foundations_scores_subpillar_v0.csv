@@ -105,7 +105,7 @@ Foundations,Digital Legal Identity,Argentina,4.5,3,1.6875
 Foundations,Digital Legal Identity,Armenia,4.5,3,1.6875
 Foundations,Digital Legal Identity,Australia,2.85,2,0.7125
 Foundations,Digital Legal Identity,Austria,2.85,2,0.7125
-Foundations,Digital Legal Identity,Azerbaijan,5.0249999999999995,4,2.5124999999999997
+Foundations,Digital Legal Identity,Azerbaijan,5.025,4,2.5125
 Foundations,Digital Legal Identity,Bahamas,6.0,1,0.75
 Foundations,Digital Legal Identity,"Bahamas, The",1.7333333333333334,2,0.43333333333333335
 Foundations,Digital Legal Identity,Bahrain,4.45,3,1.6687500000000002
@@ -115,7 +115,7 @@ Foundations,Digital Legal Identity,Belarus,3.25,3,1.21875
 Foundations,Digital Legal Identity,Belgium,4.375,3,1.640625
 Foundations,Digital Legal Identity,Belize,2.425,3,0.9093749999999999
 Foundations,Digital Legal Identity,Benin,3.0375,3,1.1390625
-Foundations,Digital Legal Identity,Bhutan,5.2749999999999995,4,2.6374999999999997
+Foundations,Digital Legal Identity,Bhutan,5.275,4,2.6375
 Foundations,Digital Legal Identity,Bolivia,3.6375,3,1.3640625000000002
 Foundations,Digital Legal Identity,Bosnia and Herzegovina,4.5,3,1.6875
 Foundations,Digital Legal Identity,Botswana,3.45,3,1.2937500000000002
@@ -208,7 +208,7 @@ Foundations,Digital Legal Identity,Luxembourg,4.025,3,1.5093750000000001
 Foundations,Digital Legal Identity,"Macao SAR, China",4.0375,3,1.5140624999999999
 Foundations,Digital Legal Identity,"Macedonia, FYR",4.5,3,1.6875
 Foundations,Digital Legal Identity,Madagascar,2.875,3,1.078125
-Foundations,Digital Legal Identity,Malawi,3.9499999999999997,4,1.9749999999999999
+Foundations,Digital Legal Identity,Malawi,3.95,4,1.975
 Foundations,Digital Legal Identity,Malaysia,4.4875,3,1.6828124999999998
 Foundations,Digital Legal Identity,Maldives,4.425,4,2.2125
 Foundations,Digital Legal Identity,Mali,5.05,4,2.525
@@ -227,7 +227,7 @@ Foundations,Digital Legal Identity,Mozambique,2.7625,3,1.0359375000000002
 Foundations,Digital Legal Identity,Myanmar,1.6,3,0.6000000000000001
 Foundations,Digital Legal Identity,Namibia,3.0875,3,1.1578125
 Foundations,Digital Legal Identity,Nauru,1.65,2,0.4125
-Foundations,Digital Legal Identity,Nepal,4.949999999999999,4,2.4749999999999996
+Foundations,Digital Legal Identity,Nepal,4.95,4,2.475
 Foundations,Digital Legal Identity,Netherlands,4.4375,3,1.6640625
 Foundations,Digital Legal Identity,New Zealand,2.9125,2,0.728125
 Foundations,Digital Legal Identity,Nicaragua,4.325,3,1.6218750000000002
@@ -307,16 +307,16 @@ Foundations,Digital Legal Identity,Zimbabwe,3.975,3,1.490625
 Foundations,Digital Payments,Afghanistan,1.3499999999999999,7,1.18125
 Foundations,Digital Payments,Albania,2.1142857142857143,7,1.85
 Foundations,Digital Payments,Algeria,2.0357142857142856,7,1.78125
-Foundations,Digital Payments,Arab world,2.0142857142857147,7,1.7625000000000004
+Foundations,Digital Payments,Arab world,2.0142857142857142,7,1.7625
 Foundations,Digital Payments,Argentina,2.6142857142857143,7,2.2875
 Foundations,Digital Payments,Armenia,2.4785714285714286,7,2.16875
 Foundations,Digital Payments,Australia,5.3398125,8,5.3398125
 Foundations,Digital Payments,Austria,5.021428571428571,7,4.39375
-Foundations,Digital Payments,Azerbaijan,1.9214285714285715,7,1.6812500000000001
-Foundations,Digital Payments,Bahrain,4.1499999999999995,7,3.6312499999999996
+Foundations,Digital Payments,Azerbaijan,1.9214285714285713,7,1.68125
+Foundations,Digital Payments,Bahrain,4.15,7,3.6312500000000005
 Foundations,Digital Payments,Bangladesh,2.1214285714285714,7,1.85625
 Foundations,Digital Payments,Belarus,4.171428571428572,7,3.6500000000000004
-Foundations,Digital Payments,Belgium,5.219687499999999,8,5.219687499999999
+Foundations,Digital Payments,Belgium,5.2196875,8,5.2196875
 Foundations,Digital Payments,Benin,1.9714285714285715,7,1.725
 Foundations,Digital Payments,Bolivia,2.4642857142857144,7,2.15625
 Foundations,Digital Payments,Bosnia and Herzegovina,2.814285714285714,7,2.4625
@@ -326,7 +326,7 @@ Foundations,Digital Payments,Bulgaria,3.4642857142857144,7,3.03125
 Foundations,Digital Payments,Burkina Faso,2.0714285714285716,7,1.8125000000000002
 Foundations,Digital Payments,Cambodia,1.5642857142857143,7,1.36875
 Foundations,Digital Payments,Cameroon,1.942857142857143,7,1.7000000000000002
-Foundations,Digital Payments,Canada,5.440812500000001,8,5.440812500000001
+Foundations,Digital Payments,Canada,5.4408125,8,5.4408125
 Foundations,Digital Payments,Central African Republic,1.3857142857142857,7,1.2125
 Foundations,Digital Payments,Chad,1.3499999999999999,6,1.0125
 Foundations,Digital Payments,Chile,3.6285714285714286,7,3.175
@@ -334,92 +334,92 @@ Foundations,Digital Payments,China,4.057142857142858,7,3.5500000000000007
 Foundations,Digital Payments,Colombia,2.4071428571428575,7,2.10625
 Foundations,Digital Payments,"Congo, Dem. Rep.",1.6642857142857144,7,1.45625
 Foundations,Digital Payments,"Congo, Rep.",1.6642857142857144,7,1.45625
-Foundations,Digital Payments,Costa Rica,3.3285714285714283,7,2.9124999999999996
+Foundations,Digital Payments,Costa Rica,3.3285714285714287,7,2.9125
 Foundations,Digital Payments,Cote d'Ivoire,2.05,7,1.7937499999999997
-Foundations,Digital Payments,Croatia,4.435714285714285,7,3.8812499999999996
+Foundations,Digital Payments,Croatia,4.435714285714286,7,3.88125
 Foundations,Digital Payments,Cyprus,4.214285714285714,7,3.6875
 Foundations,Digital Payments,Czech Republic,4.6290625,8,4.6290625
-Foundations,Digital Payments,Denmark,5.732749999999999,8,5.732749999999999
+Foundations,Digital Payments,Denmark,5.73275,8,5.73275
 Foundations,Digital Payments,Developing,2.9,7,2.5375
 Foundations,Digital Payments,Dominican Republic,2.692857142857143,7,2.35625
-Foundations,Digital Payments,East Asia & Pacific,3.728571428571429,7,3.2625000000000006
-Foundations,Digital Payments,East Asia & Pacific (excluding high income),3.5857142857142854,7,3.1374999999999997
+Foundations,Digital Payments,East Asia & Pacific,3.7285714285714286,7,3.2625
+Foundations,Digital Payments,East Asia & Pacific (excluding high income),3.585714285714286,7,3.1375
 Foundations,Digital Payments,Ecuador,2.335714285714286,7,2.04375
-Foundations,Digital Payments,"Egypt, Arab Rep.",1.8285714285714285,7,1.5999999999999999
-Foundations,Digital Payments,El Salvador,1.8428571428571432,7,1.6125000000000003
-Foundations,Digital Payments,Estonia,5.367624999999999,8,5.367624999999999
-Foundations,Digital Payments,Ethiopia,1.6571428571428573,7,1.4500000000000002
+Foundations,Digital Payments,"Egypt, Arab Rep.",1.8285714285714287,7,1.6
+Foundations,Digital Payments,El Salvador,1.842857142857143,7,1.6125
+Foundations,Digital Payments,Estonia,5.367625,8,5.367625
+Foundations,Digital Payments,Ethiopia,1.657142857142857,7,1.45
 Foundations,Digital Payments,Euro area,5.05,7,4.41875
-Foundations,Digital Payments,Europe & Central Asia,4.328571428571429,7,3.7875000000000005
+Foundations,Digital Payments,Europe & Central Asia,4.328571428571428,7,3.7874999999999996
 Foundations,Digital Payments,Europe & Central Asia (excluding high income),3.4142857142857146,7,2.9875000000000003
 Foundations,Digital Payments,Finland,5.6746875,8,5.6746875
 Foundations,Digital Payments,France,5.007142857142857,7,4.38125
 Foundations,Digital Payments,Gabon,2.7357142857142853,7,2.39375
-Foundations,Digital Payments,Georgia,2.9357142857142855,7,2.5687499999999996
+Foundations,Digital Payments,Georgia,2.935714285714286,7,2.56875
 Foundations,Digital Payments,Germany,5.2387500000000005,8,5.2387500000000005
 Foundations,Digital Payments,Ghana,2.564285714285714,7,2.24375
-Foundations,Digital Payments,Greece,3.735714285714286,7,3.2687500000000003
+Foundations,Digital Payments,Greece,3.7357142857142853,7,3.26875
 Foundations,Digital Payments,Guatemala,2.25,7,1.96875
 Foundations,Digital Payments,Guinea,1.6285714285714286,7,1.425
-Foundations,Digital Payments,Haiti,1.9999999999999998,7,1.7499999999999998
-Foundations,Digital Payments,High income,5.007142857142858,7,4.3812500000000005
+Foundations,Digital Payments,Haiti,2.0,7,1.75
+Foundations,Digital Payments,High income,5.007142857142857,7,4.38125
 Foundations,Digital Payments,High income: OECD,5.085714285714286,7,4.45
-Foundations,Digital Payments,Honduras,2.2499999999999996,7,1.9687499999999996
+Foundations,Digital Payments,Honduras,2.25,7,1.96875
 Foundations,Digital Payments,"Hong Kong SAR, China",4.6571428571428575,7,4.075
-Foundations,Digital Payments,Hungary,3.871428571428571,7,3.3874999999999997
+Foundations,Digital Payments,Hungary,3.8714285714285714,7,3.3875
 Foundations,Digital Payments,India,2.6142857142857143,7,2.2875
 Foundations,Digital Payments,Indonesia,2.4,7,2.1
 Foundations,Digital Payments,"Iran, Islamic Rep.",4.521428571428571,7,3.95625
 Foundations,Digital Payments,Iraq,1.7642857142857142,7,1.54375
-Foundations,Digital Payments,Ireland,5.092857142857143,7,4.456250000000001
+Foundations,Digital Payments,Ireland,5.0928571428571425,7,4.45625
 Foundations,Digital Payments,Israel,4.764285714285714,7,4.16875
 Foundations,Digital Payments,Italy,4.978571428571429,7,4.35625
-Foundations,Digital Payments,Japan,4.621428571428571,7,4.043749999999999
+Foundations,Digital Payments,Japan,4.621428571428572,7,4.04375
 Foundations,Digital Payments,Jordan,2.164285714285714,7,1.8937499999999998
 Foundations,Digital Payments,Kazakhstan,3.142857142857143,7,2.75
-Foundations,Digital Payments,Kenya,3.721428571428571,7,3.2562499999999996
+Foundations,Digital Payments,Kenya,3.7214285714285715,7,3.25625
 Foundations,Digital Payments,"Korea, Rep.",5.204,8,5.204
 Foundations,Digital Payments,Kosovo,2.5142857142857147,7,2.2
 Foundations,Digital Payments,Kuwait,3.9785714285714286,7,3.48125
 Foundations,Digital Payments,Kyrgyz Republic,2.207142857142857,7,1.9312499999999997
-Foundations,Digital Payments,Lao PDR,1.735714285714286,7,1.5187500000000003
+Foundations,Digital Payments,Lao PDR,1.7357142857142858,7,1.51875
 Foundations,Digital Payments,Latin America & Caribbean,2.7357142857142853,7,2.39375
 Foundations,Digital Payments,Latin America & Caribbean (excluding high income),2.7142857142857144,7,2.375
 Foundations,Digital Payments,Latvia,4.921428571428572,7,4.30625
 Foundations,Digital Payments,Lebanon,2.335714285714286,7,2.04375
 Foundations,Digital Payments,Lesotho,2.3285714285714287,7,2.0375
 Foundations,Digital Payments,Liberia,1.8357142857142856,7,1.60625
-Foundations,Digital Payments,Libya,2.757142857142857,7,2.4125
+Foundations,Digital Payments,Libya,2.7571428571428567,7,2.4124999999999996
 Foundations,Digital Payments,Lithuania,4.4071428571428575,7,3.85625
-Foundations,Digital Payments,Low income,1.8571428571428574,7,1.6250000000000002
-Foundations,Digital Payments,Lower middle income,2.342857142857143,7,2.0500000000000003
+Foundations,Digital Payments,Low income,1.8571428571428572,7,1.625
+Foundations,Digital Payments,Lower middle income,2.3428571428571425,7,2.05
 Foundations,Digital Payments,Luxembourg,5.357142857142857,7,4.6875
-Foundations,Digital Payments,"Macedonia, FYR",3.428571428571428,7,2.9999999999999996
+Foundations,Digital Payments,"Macedonia, FYR",3.4285714285714284,7,3.0
 Foundations,Digital Payments,Madagascar,1.2857142857142858,6,0.9642857142857144
-Foundations,Digital Payments,Malawi,1.9571428571428573,7,1.7125000000000001
+Foundations,Digital Payments,Malawi,1.957142857142857,7,1.7125
 Foundations,Digital Payments,Malaysia,3.9785714285714286,7,3.48125
 Foundations,Digital Payments,Mali,1.8785714285714286,7,1.64375
 Foundations,Digital Payments,Malta,4.8,7,4.2
 Foundations,Digital Payments,Mauritania,1.5642857142857143,7,1.36875
 Foundations,Digital Payments,Mauritius,3.607142857142857,7,3.15625
-Foundations,Digital Payments,Mexico,2.1857142857142855,7,1.9124999999999999
+Foundations,Digital Payments,Mexico,2.185714285714286,7,1.9125
 Foundations,Digital Payments,Middle East & North Africa,2.4857142857142853,7,2.175
 Foundations,Digital Payments,Middle East & North Africa (excluding high income),2.2785714285714285,7,1.99375
 Foundations,Digital Payments,Middle income,2.9857142857142853,7,2.6125
 Foundations,Digital Payments,Moldova,2.8285714285714287,7,2.475
 Foundations,Digital Payments,Mongolia,4.128571428571428,7,3.6125
 Foundations,Digital Payments,Montenegro,3.15,7,2.75625
-Foundations,Digital Payments,Morocco,1.635714285714286,7,1.4312500000000001
+Foundations,Digital Payments,Morocco,1.6357142857142857,7,1.43125
 Foundations,Digital Payments,Mozambique,2.2,7,1.9250000000000003
 Foundations,Digital Payments,Myanmar,1.5357142857142858,7,1.34375
-Foundations,Digital Payments,Namibia,3.7,7,3.2375000000000003
+Foundations,Digital Payments,Namibia,3.6999999999999997,7,3.2375
 Foundations,Digital Payments,Nepal,1.9142857142857144,7,1.675
 Foundations,Digital Payments,Netherlands,5.6063125,8,5.6063125
 Foundations,Digital Payments,New Zealand,5.4983125,8,5.4983125
-Foundations,Digital Payments,Nicaragua,1.857142857142857,7,1.6249999999999998
+Foundations,Digital Payments,Nicaragua,1.8571428571428572,7,1.625
 Foundations,Digital Payments,Niger,1.25,6,0.9375
 Foundations,Digital Payments,Nigeria,2.092857142857143,7,1.83125
-Foundations,Digital Payments,North America,5.278571428571428,7,4.6187499999999995
+Foundations,Digital Payments,North America,5.278571428571429,7,4.61875
 Foundations,Digital Payments,Norway,5.79375,8,5.79375
 Foundations,Digital Payments,Pakistan,1.5571428571428572,7,1.3625
 Foundations,Digital Payments,Panama,2.335714285714286,7,2.04375
@@ -427,28 +427,28 @@ Foundations,Digital Payments,Paraguay,2.3214285714285716,7,2.03125
 Foundations,Digital Payments,Peru,2.1928571428571426,7,1.9187499999999997
 Foundations,Digital Payments,Philippines,2.0142857142857142,7,1.7625
 Foundations,Digital Payments,Poland,4.7208749999999995,8,4.7208749999999995
-Foundations,Digital Payments,Portugal,4.264285714285713,7,3.7312499999999993
+Foundations,Digital Payments,Portugal,4.264285714285714,7,3.73125
 Foundations,Digital Payments,Romania,2.85,7,2.49375
 Foundations,Digital Payments,Russian Federation,3.9785714285714286,7,3.48125
 Foundations,Digital Payments,Rwanda,2.257142857142857,7,1.975
 Foundations,Digital Payments,Saudi Arabia,3.4857142857142853,7,3.05
 Foundations,Digital Payments,Senegal,2.164285714285714,7,1.8937499999999998
-Foundations,Digital Payments,Serbia,3.407142857142857,7,2.9812499999999997
-Foundations,Digital Payments,Sierra Leone,1.507142857142857,7,1.3187499999999999
+Foundations,Digital Payments,Serbia,3.4071428571428575,7,2.98125
+Foundations,Digital Payments,Sierra Leone,1.5071428571428573,7,1.31875
 Foundations,Digital Payments,Singapore,4.9071428571428575,7,4.29375
-Foundations,Digital Payments,Slovak Republic,4.528571428571428,7,3.962499999999999
+Foundations,Digital Payments,Slovak Republic,4.5285714285714285,7,3.9625
 Foundations,Digital Payments,Slovenia,4.878571428571428,7,4.26875
-Foundations,Digital Payments,South Africa,3.221428571428572,7,2.8187500000000005
+Foundations,Digital Payments,South Africa,3.2214285714285715,7,2.81875
 Foundations,Digital Payments,South Asia,2.435714285714286,7,2.13125
 Foundations,Digital Payments,South Sudan,1.1142857142857143,6,0.8357142857142857
 Foundations,Digital Payments,Spain,4.978571428571429,7,4.35625
-Foundations,Digital Payments,Sri Lanka,2.8428571428571425,7,2.4875
+Foundations,Digital Payments,Sri Lanka,2.842857142857143,7,2.4875000000000003
 Foundations,Digital Payments,Sub-Saharan Africa,2.1785714285714284,7,1.9062499999999998
 Foundations,Digital Payments,Sub-Saharan Africa (excluding high income),2.1785714285714284,7,1.9062499999999998
 Foundations,Digital Payments,Sweden,5.6505,8,5.6505
-Foundations,Digital Payments,Switzerland,5.128571428571429,7,4.487500000000001
-Foundations,Digital Payments,"Taiwan, China",4.335714285714285,7,3.7937499999999997
-Foundations,Digital Payments,Tajikistan,2.4928571428571433,7,2.1812500000000004
+Foundations,Digital Payments,Switzerland,5.128571428571428,7,4.4875
+Foundations,Digital Payments,"Taiwan, China",4.335714285714286,7,3.7937500000000006
+Foundations,Digital Payments,Tajikistan,2.492857142857143,7,2.18125
 Foundations,Digital Payments,Tanzania,2.2857142857142856,7,2.0
 Foundations,Digital Payments,Thailand,3.457142857142857,7,3.025
 Foundations,Digital Payments,Togo,2.085714285714286,7,1.8250000000000002
@@ -456,15 +456,15 @@ Foundations,Digital Payments,Trinidad and Tobago,3.414285714285714,7,2.9875
 Foundations,Digital Payments,Tunisia,2.042857142857143,7,1.7875000000000003
 Foundations,Digital Payments,Turkey,3.5,7,3.0625
 Foundations,Digital Payments,Turkmenistan,2.085714285714286,7,1.8250000000000002
-Foundations,Digital Payments,Uganda,2.621428571428571,7,2.2937499999999997
+Foundations,Digital Payments,Uganda,2.6214285714285714,7,2.29375
 Foundations,Digital Payments,Ukraine,3.3642857142857143,7,2.94375
 Foundations,Digital Payments,United Arab Emirates,4.542857142857143,7,3.9749999999999996
 Foundations,Digital Payments,United Kingdom,5.335714285714286,7,4.66875
 Foundations,Digital Payments,United States,5.23375,8,5.23375
 Foundations,Digital Payments,Upper middle income,3.664285714285714,7,3.20625
-Foundations,Digital Payments,Uruguay,3.3142857142857145,7,2.9000000000000004
-Foundations,Digital Payments,Uzbekistan,2.1857142857142855,7,1.9124999999999999
-Foundations,Digital Payments,"Venezuela, RB",3.6857142857142864,7,3.2250000000000005
+Foundations,Digital Payments,Uruguay,3.314285714285714,7,2.9
+Foundations,Digital Payments,Uzbekistan,2.185714285714286,7,1.9125
+Foundations,Digital Payments,"Venezuela, RB",3.685714285714286,7,3.225
 Foundations,Digital Payments,Vietnam,2.164285714285714,7,1.8937499999999998
 Foundations,Digital Payments,West Bank and Gaza,1.657142857142857,7,1.45
 Foundations,Digital Payments,World,3.2857142857142856,7,2.875
