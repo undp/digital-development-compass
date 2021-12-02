@@ -1,138 +1,138 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Cabo Verde,2019.0,Internet Usage,61.94339776,4.097169888,True,Usage and ownership
-Central African Rep.,2019.0,Internet Usage,,,True,Usage and ownership
-Congo (Rep. of the),2019.0,Internet Usage,,,True,Usage and ownership
-Côte d'Ivoire,2019.0,Internet Usage,36.28895457,2.8144477285000002,True,Usage and ownership
-Equatorial Guinea,2019.0,Internet Usage,,,True,Usage and ownership
-Eritrea,2019.0,Internet Usage,,,True,Usage and ownership
-Eswatini,2019.0,Internet Usage,,,True,Usage and ownership
-Kenya,2019.0,Internet Usage,22.56511937,2.1282559685000004,True,Usage and ownership
-Lesotho,2019.0,Internet Usage,42.30173357,3.1150866785000004,True,Usage and ownership
-Madagascar,2019.0,Internet Usage,,,True,Usage and ownership
-Mauritius,2019.0,Internet Usage,61.72995515,4.0864977575,True,Usage and ownership
-Niger,2019.0,Internet Usage,,,True,Usage and ownership
-South Sudan,2019.0,Internet Usage,,,True,Usage and ownership
-Uganda,2019.0,Internet Usage,,,True,Usage and ownership
-Bahrain,2019.0,Internet Usage,99.70149256,5.9850746280000005,True,Usage and ownership
-Comoros,2019.0,Internet Usage,,,True,Usage and ownership
-Egypt,2019.0,Internet Usage,57.2828664,3.86414332,True,Usage and ownership
-Iraq,2019.0,Internet Usage,,,True,Usage and ownership
-Kuwait,2019.0,Internet Usage,99.54267645,5.9771338225,True,Usage and ownership
-Libya,2019.0,Internet Usage,,,True,Usage and ownership
-Morocco,2019.0,Internet Usage,74.37631447,4.718815723500001,True,Usage and ownership
-Palestine,2019.0,Internet Usage,70.6225837,4.531129185,True,Usage and ownership
-Qatar,2019.0,Internet Usage,99.65280421,5.9826402105,True,Usage and ownership
-Saudi Arabia,2019.0,Internet Usage,95.7247356,5.78623678,True,Usage and ownership
-Somalia,2019.0,Internet Usage,,,True,Usage and ownership
-Tunisia,2019.0,Internet Usage,66.6999983,4.334999915,True,Usage and ownership
-United Arab Emirates,2019.0,Internet Usage,99.14999998,5.957499999,True,Usage and ownership
-Yemen,2019.0,Internet Usage,,,True,Usage and ownership
-Brunei Darussalam,2019.0,Internet Usage,95.0,5.75,True,Usage and ownership
-Cambodia,2019.0,Internet Usage,78.27288351,4.9136441755,True,Usage and ownership
-China,2019.0,Internet Usage,64.56912253,4.2284561265,True,Usage and ownership
-Dem. People's Rep. of Korea,2019.0,Internet Usage,,,True,Usage and ownership
-Fiji,2019.0,Internet Usage,,,True,Usage and ownership
-"Hong Kong, China",2019.0,Internet Usage,91.74340039,5.5871700195,True,Usage and ownership
-India,2019.0,Internet Usage,41.0,3.05,True,Usage and ownership
-Indonesia,2019.0,Internet Usage,47.69064898,3.384532449,True,Usage and ownership
-Iran (Islamic Republic of),2019.0,Internet Usage,77.77083846,4.888541923,True,Usage and ownership
-Japan,2019.0,Internet Usage,92.73039781,5.6365198905,True,Usage and ownership
-Kiribati,2019.0,Internet Usage,,,True,Usage and ownership
-Korea (Rep. of),2019.0,Internet Usage,96.15757918,5.807878959,True,Usage and ownership
-"Macao, China",2019.0,Internet Usage,86.46792571,5.3233962855,True,Usage and ownership
-Malaysia,2019.0,Internet Usage,84.18714501,5.2093572505,True,Usage and ownership
-Marshall Islands,2019.0,Internet Usage,,,True,Usage and ownership
-Micronesia,2019.0,Internet Usage,,,True,Usage and ownership
-Mongolia,2019.0,Internet Usage,51.07999408,3.553999704,True,Usage and ownership
-Nauru,2019.0,Internet Usage,,,True,Usage and ownership
-Nepal (Republic of),2019.0,Internet Usage,,,True,Usage and ownership
-Pakistan,2019.0,Internet Usage,17.07090203,1.8535451015,True,Usage and ownership
-Papua New Guinea,2019.0,Internet Usage,,,True,Usage and ownership
-Philippines,2019.0,Internet Usage,46.88,3.344,True,Usage and ownership
-Samoa,2019.0,Internet Usage,,,True,Usage and ownership
-Singapore,2019.0,Internet Usage,88.94925269,5.4474626345,True,Usage and ownership
-Solomon Islands,2019.0,Internet Usage,,,True,Usage and ownership
-Sri Lanka,2019.0,Internet Usage,29.0,2.45,True,Usage and ownership
-Thailand,2019.0,Internet Usage,66.65241946,4.332620973000001,True,Usage and ownership
-Tonga,2019.0,Internet Usage,,,True,Usage and ownership
-Tuvalu,2019.0,Internet Usage,,,True,Usage and ownership
-Vanuatu,2019.0,Internet Usage,,,True,Usage and ownership
-Viet Nam,2019.0,Internet Usage,68.66158021,4.4330790105,True,Usage and ownership
-Armenia,2019.0,Internet Usage,66.54394969,4.3271974845,True,Usage and ownership
-Azerbaijan,2019.0,Internet Usage,81.09999907,5.054999953499999,True,Usage and ownership
-Belarus,2019.0,Internet Usage,82.78915209,5.1394576045,True,Usage and ownership
-Kazakhstan,2019.0,Internet Usage,81.87762047,5.0938810235,True,Usage and ownership
-Russian Federation,2019.0,Internet Usage,82.64216156,5.132108078,True,Usage and ownership
-Tajikistan,2019.0,Internet Usage,,,True,Usage and ownership
-Turkmenistan,2019.0,Internet Usage,,,True,Usage and ownership
-Uzbekistan,2019.0,Internet Usage,70.4000024,4.520000120000001,True,Usage and ownership
-Albania,2019.0,Internet Usage,68.55039112,4.427519556,True,Usage and ownership
-Andorra,2019.0,Internet Usage,,,True,Usage and ownership
-Austria,2019.0,Internet Usage,87.75220479,5.3876102395,True,Usage and ownership
-Belgium,2019.0,Internet Usage,90.27542981,5.5137714905,True,Usage and ownership
-Bosnia and Herzegovina,2019.0,Internet Usage,69.94634763,4.4973173815,True,Usage and ownership
-Bulgaria,2019.0,Internet Usage,67.94698094,4.3973490470000005,True,Usage and ownership
-Croatia,2019.0,Internet Usage,79.07978368,4.953989184,True,Usage and ownership
-Cyprus,2019.0,Internet Usage,86.06362996,5.303181498,True,Usage and ownership
-Czech Republic,2019.0,Internet Usage,80.86694441,5.043347220499999,True,Usage and ownership
-Denmark,2019.0,Internet Usage,98.04643475,5.9023217375,True,Usage and ownership
-Estonia,2019.0,Internet Usage,90.2289282,5.51144641,True,Usage and ownership
-Finland,2019.0,Internet Usage,89.60738511,5.480369255499999,True,Usage and ownership
-France,2019.0,Internet Usage,83.33974409,5.1669872045,True,Usage and ownership
-Georgia,2019.0,Internet Usage,68.84670565,4.4423352825,True,Usage and ownership
-Germany,2019.0,Internet Usage,88.13451691,5.4067258455000005,True,Usage and ownership
-Greece,2019.0,Internet Usage,75.67120669,4.783560334500001,True,Usage and ownership
-Hungary,2019.0,Internet Usage,80.37169361,5.018584680499999,True,Usage and ownership
-Ireland,2019.0,Internet Usage,87.00005524,5.350002762,True,Usage and ownership
-Israel,2019.0,Internet Usage,86.78787762,5.339393881,True,Usage and ownership
-Latvia,2019.0,Internet Usage,86.13545644,5.306772822,True,Usage and ownership
-Liechtenstein,2019.0,Internet Usage,,,True,Usage and ownership
-Lithuania,2019.0,Internet Usage,81.58186838,5.079093419,True,Usage and ownership
-Luxembourg,2019.0,Internet Usage,97.12063569,5.8560317845,True,Usage and ownership
-Malta,2019.0,Internet Usage,85.77856081,5.2889280405,True,Usage and ownership
-Moldova,2019.0,Internet Usage,,,True,Usage and ownership
-Monaco,2019.0,Internet Usage,,,True,Usage and ownership
-Montenegro,2019.0,Internet Usage,73.47666575,4.6738332875,True,Usage and ownership
-Netherlands,2019.0,Internet Usage,93.2885906,5.6644295300000005,True,Usage and ownership
-North Macedonia,2019.0,Internet Usage,81.41288276,5.0706441380000005,True,Usage and ownership
-Norway,2019.0,Internet Usage,98.00000439,5.9000002195,True,Usage and ownership
-Poland,2019.0,Internet Usage,80.43590724,5.021795362000001,True,Usage and ownership
-Portugal,2019.0,Internet Usage,75.34637155,4.7673185775,True,Usage and ownership
-Romania,2019.0,Internet Usage,73.65747575,4.6828737875,True,Usage and ownership
-San Marino,2019.0,Internet Usage,,,True,Usage and ownership
-Serbia,2019.0,Internet Usage,77.41677362,4.870838681,True,Usage and ownership
-Slovakia,2019.0,Internet Usage,82.8536605,5.142683025,True,Usage and ownership
-Slovenia,2019.0,Internet Usage,83.1083578,5.15541789,True,Usage and ownership
-Spain,2019.0,Internet Usage,90.71866533,5.5359332665,True,Usage and ownership
-Sweden,2019.0,Internet Usage,94.49344341,5.7246721705,True,Usage and ownership
-Switzerland,2019.0,Internet Usage,93.14608695,5.657304347499999,True,Usage and ownership
-Turkey,2019.0,Internet Usage,73.97670281,4.6988351405,True,Usage and ownership
-Ukraine,2019.0,Internet Usage,70.1248443,4.506242215,True,Usage and ownership
-United Kingdom,2019.0,Internet Usage,92.51662855,5.6258314275,True,Usage and ownership
-Vatican,2019.0,Internet Usage,,,True,Usage and ownership
-Antigua and Barbuda,2019.0,Internet Usage,,,True,Usage and ownership
-Argentina,2019.0,Internet Usage,79.9,4.995,True,Usage and ownership
-Barbados,2019.0,Internet Usage,,,True,Usage and ownership
-Bolivia (Plurinational State of),2019.0,Internet Usage,47.47481911,3.3737409554999997,True,Usage and ownership
-Brazil,2019.0,Internet Usage,73.91244005,4.6956220025,True,Usage and ownership
-Colombia,2019.0,Internet Usage,65.00690072,4.250345036000001,True,Usage and ownership
-Costa Rica,2019.0,Internet Usage,81.20259644,5.0601298219999995,True,Usage and ownership
-Cuba,2019.0,Internet Usage,67.97080866,4.398540433,True,Usage and ownership
-Dominica,2019.0,Internet Usage,,,True,Usage and ownership
-El Salvador,2019.0,Internet Usage,50.49119319,3.5245596595,True,Usage and ownership
-Grenada,2019.0,Internet Usage,,,True,Usage and ownership
-Guatemala,2019.0,Internet Usage,44.40104984,3.2200524919999998,True,Usage and ownership
-Guyana,2019.0,Internet Usage,,,True,Usage and ownership
-Honduras,2019.0,Internet Usage,39.39,2.9695,True,Usage and ownership
-Jamaica,2019.0,Internet Usage,,,True,Usage and ownership
-Mexico,2019.0,Internet Usage,70.06991047,4.5034955235,True,Usage and ownership
-Panama,2019.0,Internet Usage,63.62841477,4.1814207385,True,Usage and ownership
-Paraguay,2019.0,Internet Usage,68.51762842,4.425881421,True,Usage and ownership
-Peru,2019.0,Internet Usage,59.95050106,3.997525053,True,Usage and ownership
-Saint Kitts and Nevis,2019.0,Internet Usage,,,True,Usage and ownership
-Saint Lucia,2019.0,Internet Usage,,,True,Usage and ownership
-Saint Vincent and the Grenadines,2019.0,Internet Usage,,,True,Usage and ownership
-Trinidad and Tobago,2019.0,Internet Usage,,,True,Usage and ownership
-United States,2019.0,Internet Usage,89.43028486,5.4715142430000006,True,Usage and ownership
-Uruguay,2019.0,Internet Usage,83.35153377,5.1675766885000005,True,Usage and ownership
-Venezuela,2019.0,Internet Usage,,,True,Usage and ownership
+Cabo Verde,2019.0,Internet Usage,61.94339776,4.097169888,True,Usage and Ownership
+Central African Rep.,2019.0,Internet Usage,,,True,Usage and Ownership
+Congo (Rep. of the),2019.0,Internet Usage,,,True,Usage and Ownership
+Côte d'Ivoire,2019.0,Internet Usage,36.28895457,2.8144477285000002,True,Usage and Ownership
+Equatorial Guinea,2019.0,Internet Usage,,,True,Usage and Ownership
+Eritrea,2019.0,Internet Usage,,,True,Usage and Ownership
+Eswatini,2019.0,Internet Usage,,,True,Usage and Ownership
+Kenya,2019.0,Internet Usage,22.56511937,2.1282559685000004,True,Usage and Ownership
+Lesotho,2019.0,Internet Usage,42.30173357,3.1150866785000004,True,Usage and Ownership
+Madagascar,2019.0,Internet Usage,,,True,Usage and Ownership
+Mauritius,2019.0,Internet Usage,61.72995515,4.0864977575,True,Usage and Ownership
+Niger,2019.0,Internet Usage,,,True,Usage and Ownership
+South Sudan,2019.0,Internet Usage,,,True,Usage and Ownership
+Uganda,2019.0,Internet Usage,,,True,Usage and Ownership
+Bahrain,2019.0,Internet Usage,99.70149256,5.9850746280000005,True,Usage and Ownership
+Comoros,2019.0,Internet Usage,,,True,Usage and Ownership
+Egypt,2019.0,Internet Usage,57.2828664,3.86414332,True,Usage and Ownership
+Iraq,2019.0,Internet Usage,,,True,Usage and Ownership
+Kuwait,2019.0,Internet Usage,99.54267645,5.9771338225,True,Usage and Ownership
+Libya,2019.0,Internet Usage,,,True,Usage and Ownership
+Morocco,2019.0,Internet Usage,74.37631447,4.718815723500001,True,Usage and Ownership
+Palestine,2019.0,Internet Usage,70.6225837,4.531129185,True,Usage and Ownership
+Qatar,2019.0,Internet Usage,99.65280421,5.9826402105,True,Usage and Ownership
+Saudi Arabia,2019.0,Internet Usage,95.7247356,5.78623678,True,Usage and Ownership
+Somalia,2019.0,Internet Usage,,,True,Usage and Ownership
+Tunisia,2019.0,Internet Usage,66.6999983,4.334999915,True,Usage and Ownership
+United Arab Emirates,2019.0,Internet Usage,99.14999998,5.957499999,True,Usage and Ownership
+Yemen,2019.0,Internet Usage,,,True,Usage and Ownership
+Brunei Darussalam,2019.0,Internet Usage,95.0,5.75,True,Usage and Ownership
+Cambodia,2019.0,Internet Usage,78.27288351,4.9136441755,True,Usage and Ownership
+China,2019.0,Internet Usage,64.56912253,4.2284561265,True,Usage and Ownership
+Dem. People's Rep. of Korea,2019.0,Internet Usage,,,True,Usage and Ownership
+Fiji,2019.0,Internet Usage,,,True,Usage and Ownership
+"Hong Kong, China",2019.0,Internet Usage,91.74340039,5.5871700195,True,Usage and Ownership
+India,2019.0,Internet Usage,41.0,3.05,True,Usage and Ownership
+Indonesia,2019.0,Internet Usage,47.69064898,3.384532449,True,Usage and Ownership
+Iran (Islamic Republic of),2019.0,Internet Usage,77.77083846,4.888541923,True,Usage and Ownership
+Japan,2019.0,Internet Usage,92.73039781,5.6365198905,True,Usage and Ownership
+Kiribati,2019.0,Internet Usage,,,True,Usage and Ownership
+Korea (Rep. of),2019.0,Internet Usage,96.15757918,5.807878959,True,Usage and Ownership
+"Macao, China",2019.0,Internet Usage,86.46792571,5.3233962855,True,Usage and Ownership
+Malaysia,2019.0,Internet Usage,84.18714501,5.2093572505,True,Usage and Ownership
+Marshall Islands,2019.0,Internet Usage,,,True,Usage and Ownership
+Micronesia,2019.0,Internet Usage,,,True,Usage and Ownership
+Mongolia,2019.0,Internet Usage,51.07999408,3.553999704,True,Usage and Ownership
+Nauru,2019.0,Internet Usage,,,True,Usage and Ownership
+Nepal (Republic of),2019.0,Internet Usage,,,True,Usage and Ownership
+Pakistan,2019.0,Internet Usage,17.07090203,1.8535451015,True,Usage and Ownership
+Papua New Guinea,2019.0,Internet Usage,,,True,Usage and Ownership
+Philippines,2019.0,Internet Usage,46.88,3.344,True,Usage and Ownership
+Samoa,2019.0,Internet Usage,,,True,Usage and Ownership
+Singapore,2019.0,Internet Usage,88.94925269,5.4474626345,True,Usage and Ownership
+Solomon Islands,2019.0,Internet Usage,,,True,Usage and Ownership
+Sri Lanka,2019.0,Internet Usage,29.0,2.45,True,Usage and Ownership
+Thailand,2019.0,Internet Usage,66.65241946,4.332620973000001,True,Usage and Ownership
+Tonga,2019.0,Internet Usage,,,True,Usage and Ownership
+Tuvalu,2019.0,Internet Usage,,,True,Usage and Ownership
+Vanuatu,2019.0,Internet Usage,,,True,Usage and Ownership
+Viet Nam,2019.0,Internet Usage,68.66158021,4.4330790105,True,Usage and Ownership
+Armenia,2019.0,Internet Usage,66.54394969,4.3271974845,True,Usage and Ownership
+Azerbaijan,2019.0,Internet Usage,81.09999907,5.054999953499999,True,Usage and Ownership
+Belarus,2019.0,Internet Usage,82.78915209,5.1394576045,True,Usage and Ownership
+Kazakhstan,2019.0,Internet Usage,81.87762047,5.0938810235,True,Usage and Ownership
+Russian Federation,2019.0,Internet Usage,82.64216156,5.132108078,True,Usage and Ownership
+Tajikistan,2019.0,Internet Usage,,,True,Usage and Ownership
+Turkmenistan,2019.0,Internet Usage,,,True,Usage and Ownership
+Uzbekistan,2019.0,Internet Usage,70.4000024,4.520000120000001,True,Usage and Ownership
+Albania,2019.0,Internet Usage,68.55039112,4.427519556,True,Usage and Ownership
+Andorra,2019.0,Internet Usage,,,True,Usage and Ownership
+Austria,2019.0,Internet Usage,87.75220479,5.3876102395,True,Usage and Ownership
+Belgium,2019.0,Internet Usage,90.27542981,5.5137714905,True,Usage and Ownership
+Bosnia and Herzegovina,2019.0,Internet Usage,69.94634763,4.4973173815,True,Usage and Ownership
+Bulgaria,2019.0,Internet Usage,67.94698094,4.3973490470000005,True,Usage and Ownership
+Croatia,2019.0,Internet Usage,79.07978368,4.953989184,True,Usage and Ownership
+Cyprus,2019.0,Internet Usage,86.06362996,5.303181498,True,Usage and Ownership
+Czech Republic,2019.0,Internet Usage,80.86694441,5.043347220499999,True,Usage and Ownership
+Denmark,2019.0,Internet Usage,98.04643475,5.9023217375,True,Usage and Ownership
+Estonia,2019.0,Internet Usage,90.2289282,5.51144641,True,Usage and Ownership
+Finland,2019.0,Internet Usage,89.60738511,5.480369255499999,True,Usage and Ownership
+France,2019.0,Internet Usage,83.33974409,5.1669872045,True,Usage and Ownership
+Georgia,2019.0,Internet Usage,68.84670565,4.4423352825,True,Usage and Ownership
+Germany,2019.0,Internet Usage,88.13451691,5.4067258455000005,True,Usage and Ownership
+Greece,2019.0,Internet Usage,75.67120669,4.783560334500001,True,Usage and Ownership
+Hungary,2019.0,Internet Usage,80.37169361,5.018584680499999,True,Usage and Ownership
+Ireland,2019.0,Internet Usage,87.00005524,5.350002762,True,Usage and Ownership
+Israel,2019.0,Internet Usage,86.78787762,5.339393881,True,Usage and Ownership
+Latvia,2019.0,Internet Usage,86.13545644,5.306772822,True,Usage and Ownership
+Liechtenstein,2019.0,Internet Usage,,,True,Usage and Ownership
+Lithuania,2019.0,Internet Usage,81.58186838,5.079093419,True,Usage and Ownership
+Luxembourg,2019.0,Internet Usage,97.12063569,5.8560317845,True,Usage and Ownership
+Malta,2019.0,Internet Usage,85.77856081,5.2889280405,True,Usage and Ownership
+Moldova,2019.0,Internet Usage,,,True,Usage and Ownership
+Monaco,2019.0,Internet Usage,,,True,Usage and Ownership
+Montenegro,2019.0,Internet Usage,73.47666575,4.6738332875,True,Usage and Ownership
+Netherlands,2019.0,Internet Usage,93.2885906,5.6644295300000005,True,Usage and Ownership
+North Macedonia,2019.0,Internet Usage,81.41288276,5.0706441380000005,True,Usage and Ownership
+Norway,2019.0,Internet Usage,98.00000439,5.9000002195,True,Usage and Ownership
+Poland,2019.0,Internet Usage,80.43590724,5.021795362000001,True,Usage and Ownership
+Portugal,2019.0,Internet Usage,75.34637155,4.7673185775,True,Usage and Ownership
+Romania,2019.0,Internet Usage,73.65747575,4.6828737875,True,Usage and Ownership
+San Marino,2019.0,Internet Usage,,,True,Usage and Ownership
+Serbia,2019.0,Internet Usage,77.41677362,4.870838681,True,Usage and Ownership
+Slovakia,2019.0,Internet Usage,82.8536605,5.142683025,True,Usage and Ownership
+Slovenia,2019.0,Internet Usage,83.1083578,5.15541789,True,Usage and Ownership
+Spain,2019.0,Internet Usage,90.71866533,5.5359332665,True,Usage and Ownership
+Sweden,2019.0,Internet Usage,94.49344341,5.7246721705,True,Usage and Ownership
+Switzerland,2019.0,Internet Usage,93.14608695,5.657304347499999,True,Usage and Ownership
+Turkey,2019.0,Internet Usage,73.97670281,4.6988351405,True,Usage and Ownership
+Ukraine,2019.0,Internet Usage,70.1248443,4.506242215,True,Usage and Ownership
+United Kingdom,2019.0,Internet Usage,92.51662855,5.6258314275,True,Usage and Ownership
+Vatican,2019.0,Internet Usage,,,True,Usage and Ownership
+Antigua and Barbuda,2019.0,Internet Usage,,,True,Usage and Ownership
+Argentina,2019.0,Internet Usage,79.9,4.995,True,Usage and Ownership
+Barbados,2019.0,Internet Usage,,,True,Usage and Ownership
+Bolivia (Plurinational State of),2019.0,Internet Usage,47.47481911,3.3737409554999997,True,Usage and Ownership
+Brazil,2019.0,Internet Usage,73.91244005,4.6956220025,True,Usage and Ownership
+Colombia,2019.0,Internet Usage,65.00690072,4.250345036000001,True,Usage and Ownership
+Costa Rica,2019.0,Internet Usage,81.20259644,5.0601298219999995,True,Usage and Ownership
+Cuba,2019.0,Internet Usage,67.97080866,4.398540433,True,Usage and Ownership
+Dominica,2019.0,Internet Usage,,,True,Usage and Ownership
+El Salvador,2019.0,Internet Usage,50.49119319,3.5245596595,True,Usage and Ownership
+Grenada,2019.0,Internet Usage,,,True,Usage and Ownership
+Guatemala,2019.0,Internet Usage,44.40104984,3.2200524919999998,True,Usage and Ownership
+Guyana,2019.0,Internet Usage,,,True,Usage and Ownership
+Honduras,2019.0,Internet Usage,39.39,2.9695,True,Usage and Ownership
+Jamaica,2019.0,Internet Usage,,,True,Usage and Ownership
+Mexico,2019.0,Internet Usage,70.06991047,4.5034955235,True,Usage and Ownership
+Panama,2019.0,Internet Usage,63.62841477,4.1814207385,True,Usage and Ownership
+Paraguay,2019.0,Internet Usage,68.51762842,4.425881421,True,Usage and Ownership
+Peru,2019.0,Internet Usage,59.95050106,3.997525053,True,Usage and Ownership
+Saint Kitts and Nevis,2019.0,Internet Usage,,,True,Usage and Ownership
+Saint Lucia,2019.0,Internet Usage,,,True,Usage and Ownership
+Saint Vincent and the Grenadines,2019.0,Internet Usage,,,True,Usage and Ownership
+Trinidad and Tobago,2019.0,Internet Usage,,,True,Usage and Ownership
+United States,2019.0,Internet Usage,89.43028486,5.4715142430000006,True,Usage and Ownership
+Uruguay,2019.0,Internet Usage,83.35153377,5.1675766885000005,True,Usage and Ownership
+Venezuela,2019.0,Internet Usage,,,True,Usage and Ownership
