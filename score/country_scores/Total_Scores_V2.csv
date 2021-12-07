@@ -47,7 +47,7 @@ Algeria,3.0705203216666668,Business,Financing Incentives
 Algeria,2.4814207811266664,Business,Startup Environment
 Algeria,2.3267,Business,Technology Adoption
 Algeria,2.626213700931111,Business,
-Algeria,3.1125,Foundations,Digital Legal Identity
+Algeria,3.1124999999999994,Foundations,Digital Legal Identity
 Algeria,2.0357142857142856,Foundations,Digital Payments
 Algeria,2.5741071428571427,Foundations,
 Algeria,1.6074766355140184,Government,Capabilities
@@ -76,9 +76,9 @@ Andorra,2.0877499999999998,People,
 Andorra,2.1211185370304255,,
 Angola,1.588115155833333,Business,Financing Incentives
 Angola,2.125239672033333,Business,Startup Environment
-Angola,1.8469,Business,Technology Adoption
+Angola,1.8469000000000002,Business,Technology Adoption
 Angola,1.8534182759555555,Business,
-Angola,3.8,Foundations,Digital Legal Identity
+Angola,3.7999999999999994,Foundations,Digital Legal Identity
 Angola,2.2343333333333333,Government,Digital public services
 Angola,2.3040469962634123,Infrastructure,Connectivity Technology
 Angola,0.500844809225,Infrastructure,Innovation Ecosystem
@@ -146,7 +146,7 @@ Armenia,2.970217513324835,Infrastructure,
 Armenia,1.6270738125,People,Culture
 Armenia,4.478471932875,People,Digital Literacy Skills
 Armenia,2.7710190598766755,People,Digital Wellbeing
-Armenia,3.000898522418823,People,Usage and ownership
+Armenia,3.0008985224188227,People,Usage and ownership
 Armenia,2.9693658319176244,People,
 Armenia,4.55,Regulation,Cybersecurity
 Armenia,4.59,Strategy,Ambition
@@ -210,7 +210,7 @@ Azerbaijan,3.473214285714286,Foundations,
 Azerbaijan,2.6822429906542062,Government,Capabilities
 Azerbaijan,3.385937357419976,Government,Digital public services
 Azerbaijan,3.0340901740370914,Government,
-Azerbaijan,3.434017036452069,Infrastructure,Connectivity Technology
+Azerbaijan,3.4340170364520692,Infrastructure,Connectivity Technology
 Azerbaijan,2.04842042848,Infrastructure,Innovation Ecosystem
 Azerbaijan,2.7412187324660344,Infrastructure,
 Azerbaijan,2.270041466,People,Culture
@@ -223,17 +223,17 @@ Azerbaijan,4.62,Strategy,Ambition
 Azerbaijan,3.432663256893619,,
 Bahamas (the),3.7225,Business,Startup Environment
 Bahamas (the),1.85,Foundations,Data Exchange
-Bahamas (the),3.8666666666666667,Foundations,Digital Legal Identity
-Bahamas (the),3.194444444444444,Foundations,
+Bahamas (the),3.1555555555555554,Foundations,Digital Legal Identity
+Bahamas (the),2.5027777777777778,Foundations,
 Bahamas (the),4.23875,Government,Digital public services
-Bahamas (the),2.5744263401975878,Infrastructure,Connectivity Technology
+Bahamas (the),2.7312264534133988,Infrastructure,Connectivity Technology
 Bahamas (the),6.0,People,Culture
 Bahamas (the),4.773,People,Digital Literacy Skills
 Bahamas (the),1.9024539276112864,People,Digital Wellbeing
-Bahamas (the),3.1720625,People,Usage and ownership
-Bahamas (the),3.9618791069028214,People,
+Bahamas (the),3.1720625000000005,People,Usage and ownership
+Bahamas (the),3.961879106902822,People,
 Bahamas (the),4.05,Regulation,Ethical Standards
-Bahamas (the),3.6149859434475538,,
+Bahamas (the),3.5595548436580238,,
 Bahrain,3.680592536666667,Business,Financing Incentives
 Bahrain,3.8422924502,Business,Startup Environment
 Bahrain,2.8632,Business,Technology Adoption
@@ -242,9 +242,9 @@ Bahrain,4.45,Foundations,Digital Legal Identity
 Bahrain,4.15,Foundations,Digital Payments
 Bahrain,4.300000000000001,Foundations,
 Bahrain,3.27,Government,Digital public services
-Bahrain,4.444295366535876,Infrastructure,Connectivity Technology
+Bahrain,4.165173744677327,Infrastructure,Connectivity Technology
 Bahrain,1.9124350269666668,Infrastructure,Innovation Ecosystem
-Bahrain,3.600341920012806,Infrastructure,
+Bahrain,3.038804385821997,Infrastructure,
 Bahrain,4.9226718905,People,Culture
 Bahrain,5.791477625125,People,Digital Literacy Skills
 Bahrain,3.624211162600136,People,Digital Wellbeing
@@ -252,7 +252,7 @@ Bahrain,4.415393120020822,People,Usage and ownership
 Bahrain,4.68843844956149,People,
 Bahrain,2.5,Regulation,Cybersecurity
 Bahrain,4.305,Strategy,Ambition
-Bahrain,3.8693977984725114,,
+Bahrain,3.8494605397683297,,
 Bangladesh,2.2689036133333333,Business,Financing Incentives
 Bangladesh,3.012501730966666,Business,Startup Environment
 Bangladesh,2.3104,Business,Technology Adoption
@@ -262,8 +262,8 @@ Bangladesh,2.85,Foundations,Digital Legal Identity
 Bangladesh,2.1214285714285714,Foundations,Digital Payments
 Bangladesh,2.407142857142857,Foundations,
 Bangladesh,3.05607476635514,Government,Capabilities
-Bangladesh,3.0515,Government,Digital public services
-Bangladesh,3.05378738317757,Government,
+Bangladesh,3.0514999999999994,Government,Digital public services
+Bangladesh,3.0537873831775695,Government,
 Bangladesh,3.1918364455050443,Infrastructure,Connectivity Technology
 Bangladesh,1.5074304143330066,Infrastructure,Innovation Ecosystem
 Bangladesh,2.3496334299190256,Infrastructure,
@@ -292,8 +292,8 @@ Barbados,2.7927602439209185,Infrastructure,Connectivity Technology
 Barbados,6.0,People,Culture
 Barbados,2.63725,People,Digital Literacy Skills
 Barbados,2.757425279124716,People,Digital Wellbeing
-Barbados,2.8161679551666667,People,Usage and ownership
-Barbados,3.5527108085728454,People,
+Barbados,2.816167955166667,People,Usage and ownership
+Barbados,3.552710808572846,People,
 Barbados,4.25,Regulation,Ethical Standards
 Barbados,4.42,Strategy,Ambition
 Barbados,3.3390937928830935,,
@@ -304,7 +304,7 @@ Belarus,3.25,Foundations,Digital Legal Identity
 Belarus,4.171428571428572,Foundations,Digital Payments
 Belarus,3.710714285714286,Foundations,
 Belarus,5.485981308411216,Government,Capabilities
-Belarus,3.627183707979884,Government,Digital public services
+Belarus,3.6271837079798837,Government,Digital public services
 Belarus,4.55658250819555,Government,
 Belarus,3.917196019208219,Infrastructure,Connectivity Technology
 Belarus,2.655563265625,Infrastructure,Innovation Ecosystem
@@ -370,7 +370,7 @@ Benin,2.164057793557666,Infrastructure,
 Benin,2.4739473345,People,Culture
 Benin,3.202,People,Digital Literacy Skills
 Benin,2.6240289879757603,People,Digital Wellbeing
-Benin,1.7879252496141438,People,Usage and ownership
+Benin,1.7879252496141436,People,Usage and ownership
 Benin,2.521975393022476,People,
 Benin,3.5,Regulation,Ethical Standards
 Benin,3.495,Strategy,Ambition
@@ -401,27 +401,27 @@ Bhutan,2.7620395711599257,People,
 Bhutan,4.5,Strategy,Ambition
 Bhutan,3.023707266178017,,
 Bolivia (Plurinational State of),2.327636440833333,Business,Financing Incentives
-Bolivia (Plurinational State of),2.52260781425,Business,Startup Environment
-Bolivia (Plurinational State of),2.6243749999999997,Business,Technology Adoption
-Bolivia (Plurinational State of),2.524320413866667,Business,
+Bolivia (Plurinational State of),2.5644862514000004,Business,Startup Environment
+Bolivia (Plurinational State of),2.4229999999999996,Business,Technology Adoption
+Bolivia (Plurinational State of),2.438374230744444,Business,
 Bolivia (Plurinational State of),2.5,Foundations,Data Exchange
-Bolivia (Plurinational State of),3.6375,Foundations,Digital Legal Identity
+Bolivia (Plurinational State of),3.6375000000000006,Foundations,Digital Legal Identity
 Bolivia (Plurinational State of),2.4642857142857144,Foundations,Digital Payments
 Bolivia (Plurinational State of),2.867261904761905,Foundations,
 Bolivia (Plurinational State of),1.5140186915887854,Government,Capabilities
 Bolivia (Plurinational State of),2.6293333333333333,Government,Digital public services
 Bolivia (Plurinational State of),2.0716760124610594,Government,
-Bolivia (Plurinational State of),2.892886782714277,Infrastructure,Connectivity Technology
+Bolivia (Plurinational State of),3.039581057819309,Infrastructure,Connectivity Technology
 Bolivia (Plurinational State of),1.1465363966166666,Infrastructure,Innovation Ecosystem
-Bolivia (Plurinational State of),2.3107699873484067,Infrastructure,
+Bolivia (Plurinational State of),2.0930587272179877,Infrastructure,
 Bolivia (Plurinational State of),5.486214447,People,Culture
-Bolivia (Plurinational State of),4.032836577833333,People,Digital Literacy Skills
+Bolivia (Plurinational State of),3.70450486675,People,Digital Literacy Skills
 Bolivia (Plurinational State of),3.007644484734166,People,Digital Wellbeing
-Bolivia (Plurinational State of),2.3594166265981222,People,Usage and ownership
-Bolivia (Plurinational State of),3.3768259953135997,People,
+Bolivia (Plurinational State of),2.8813052267550474,People,Usage and ownership
+Bolivia (Plurinational State of),3.7699172563098036,People,
 Bolivia (Plurinational State of),2.9,Regulation,Ethical Standards
 Bolivia (Plurinational State of),4.38,Strategy,Ambition
-Bolivia (Plurinational State of),2.9015807693617335,,
+Bolivia (Plurinational State of),2.912877931944772,,
 Bosnia and Herzegovina,2.117049058333333,Business,Financing Incentives
 Bosnia and Herzegovina,3.713797311033333,Business,Startup Environment
 Bosnia and Herzegovina,3.0926,Business,Technology Adoption
@@ -447,7 +447,7 @@ Botswana,3.7983956108666654,Business,Startup Environment
 Botswana,2.3057000000000003,Business,Technology Adoption
 Botswana,2.8350808200111106,Business,
 Botswana,1.45,Foundations,Data Exchange
-Botswana,3.45,Foundations,Digital Legal Identity
+Botswana,3.4500000000000006,Foundations,Digital Legal Identity
 Botswana,2.557142857142857,Foundations,Digital Payments
 Botswana,2.4857142857142858,Foundations,
 Botswana,1.8411214953271031,Government,Capabilities
@@ -495,19 +495,19 @@ Brunei Darussalam,4.9191368537,Business,Startup Environment
 Brunei Darussalam,3.8732532918500002,Business,
 Brunei Darussalam,3.25,Foundations,Digital Legal Identity
 Brunei Darussalam,3.061703205692518,Government,Digital public services
-Brunei Darussalam,2.86204316851118,Infrastructure,Connectivity Technology
-Brunei Darussalam,1.5272336587125,Infrastructure,Innovation Ecosystem
-Brunei Darussalam,2.4171066652449533,Infrastructure,
+Brunei Darussalam,3.7708735777612756,Infrastructure,Connectivity Technology
+Brunei Darussalam,1.5272336587124997,Infrastructure,Innovation Ecosystem
+Brunei Darussalam,2.649053618236888,Infrastructure,
 Brunei Darussalam,4.419803238,People,Culture
 Brunei Darussalam,5.5329176085,People,Digital Literacy Skills
 Brunei Darussalam,2.2964115360462705,People,Digital Wellbeing
-Brunei Darussalam,5.050173202361111,People,Usage and ownership
-Brunei Darussalam,4.469895757453699,People,
+Brunei Darussalam,4.66871176425,People,Usage and ownership
+Brunei Darussalam,4.2294610366990675,People,
 Brunei Darussalam,4.415,Strategy,Ambition
-Brunei Darussalam,3.651072018320326,,
+Brunei Darussalam,3.6990146520602334,,
 Bulgaria,2.9472795725000003,Business,Financing Incentives
 Bulgaria,3.6058632887222224,Business,Startup Environment
-Bulgaria,3.715300000000001,Business,Technology Adoption
+Bulgaria,3.7153000000000005,Business,Technology Adoption
 Bulgaria,3.422814287074074,Business,
 Bulgaria,3.25,Foundations,Data Exchange
 Bulgaria,4.5,Foundations,Digital Legal Identity
@@ -516,9 +516,9 @@ Bulgaria,3.7380952380952386,Foundations,
 Bulgaria,5.345794392523365,Government,Capabilities
 Bulgaria,4.024306295360225,Government,Digital public services
 Bulgaria,4.6850503439417945,Government,
-Bulgaria,4.557819322485544,Infrastructure,Connectivity Technology
+Bulgaria,3.8345239212766926,Infrastructure,Connectivity Technology
 Bulgaria,2.0484854343944447,Infrastructure,Innovation Ecosystem
-Bulgaria,3.7213746931218448,Infrastructure,
+Bulgaria,2.9415046778355687,Infrastructure,
 Bulgaria,4.021197319,People,Culture
 Bulgaria,4.599435960625,People,Digital Literacy Skills
 Bulgaria,2.850624442113741,People,Digital Wellbeing
@@ -526,7 +526,7 @@ Bulgaria,3.4566162505044,People,Usage and ownership
 Bulgaria,3.7319684930607853,People,
 Bulgaria,3.75,Regulation,Ethical Standards
 Bulgaria,4.69,Strategy,Ambition
-Bulgaria,3.8016879995321657,,
+Bulgaria,3.756482036956613,,
 Burkina Faso,1.6030567483333336,Business,Financing Incentives
 Burkina Faso,3.2242580732,Business,Startup Environment
 Burkina Faso,1.5816,Business,Technology Adoption
@@ -550,7 +550,7 @@ Burundi,2.68439726,Business,Financing Incentives
 Burundi,3.277944444444444,Business,Startup Environment
 Burundi,1.9154,Business,Technology Adoption
 Burundi,2.6259139014814816,Business,
-Burundi,1.6625,Foundations,Digital Legal Identity
+Burundi,1.6625000000000003,Foundations,Digital Legal Identity
 Burundi,2.212061129389301,Government,Digital public services
 Burundi,1.936747489437322,Infrastructure,Connectivity Technology
 Burundi,2.02751025125,Infrastructure,Innovation Ecosystem
@@ -568,22 +568,22 @@ Cabo Verde,2.552375,Business,Technology Adoption
 Cabo Verde,2.739212315211111,Business,
 Cabo Verde,4.4375,Foundations,Digital Legal Identity
 Cabo Verde,2.1945,Government,Digital public services
-Cabo Verde,1.8779759073023996,Infrastructure,Connectivity Technology
+Cabo Verde,2.938761860945032,Infrastructure,Connectivity Technology
 Cabo Verde,1.5949739125541669,Infrastructure,Innovation Ecosystem
-Cabo Verde,1.7836419090529887,Infrastructure,
+Cabo Verde,2.2668678867495995,Infrastructure,
 Cabo Verde,5.1413211825,People,Culture
 Cabo Verde,4.11499475725,People,Digital Literacy Skills
 Cabo Verde,0.6662620269016531,People,Digital Wellbeing
-Cabo Verde,3.386990003475,People,Usage and ownership
-Cabo Verde,3.3393115947203307,People,
+Cabo Verde,3.588582006255,People,Usage and ownership
+Cabo Verde,3.3777899932266635,People,
 Cabo Verde,4.404999999999999,Strategy,Ambition
-Cabo Verde,3.003096227968046,,
+Cabo Verde,3.1082943910032657,,
 Cambodia,2.82280918,Business,Financing Incentives
 Cambodia,3.9676098411333336,Business,Startup Environment
 Cambodia,2.2069,Business,Technology Adoption
 Cambodia,2.9991063403777773,Business,
 Cambodia,1.85,Foundations,Data Exchange
-Cambodia,3.075,Foundations,Digital Legal Identity
+Cambodia,3.0750000000000006,Foundations,Digital Legal Identity
 Cambodia,1.5642857142857145,Foundations,Digital Payments
 Cambodia,2.1630952380952384,Foundations,
 Cambodia,2.116,Government,Digital public services
@@ -605,7 +605,7 @@ Cameroon,3.4805863959,Business,Startup Environment
 Cameroon,2.5453,Business,Technology Adoption
 Cameroon,2.804003364188889,Business,
 Cameroon,1.55,Foundations,Data Exchange
-Cameroon,2.7375,Foundations,Digital Legal Identity
+Cameroon,2.7374999999999994,Foundations,Digital Legal Identity
 Cameroon,1.942857142857143,Foundations,Digital Payments
 Cameroon,2.0767857142857142,Foundations,
 Cameroon,5.158878504672897,Government,Capabilities
@@ -654,18 +654,18 @@ Cayman Islands,2.9803285834058406,Infrastructure,Connectivity Technology
 Cayman Islands,2.81825,People,Usage and ownership
 Cayman Islands,2.89928929170292,,
 Central African Republic (the),3.1725000000000003,Business,Startup Environment
-Central African Republic (the),1.65,Foundations,Digital Legal Identity
+Central African Republic (the),1.6499999999999997,Foundations,Digital Legal Identity
 Central African Republic (the),1.3857142857142857,Foundations,Digital Payments
 Central African Republic (the),1.5178571428571428,Foundations,
 Central African Republic (the),1.1204999999999998,Government,Digital public services
-Central African Republic (the),1.2395448695962736,Infrastructure,Connectivity Technology
+Central African Republic (the),2.136011900678794,Infrastructure,Connectivity Technology
 Central African Republic (the),2.2212706565,People,Culture
 Central African Republic (the),2.2695,People,Digital Literacy Skills
 Central African Republic (the),1.042369472733136,People,Digital Wellbeing
 Central African Republic (the),2.3789136542857143,People,Usage and ownership
 Central African Republic (the),1.9780134458797127,People,
 Central African Republic (the),2.915,Strategy,Ambition
-Central African Republic (the),1.939531293882941,,
+Central African Republic (the),2.029177996991193,,
 Central Europe and the Baltics,3.9166666666666665,Business,Startup Environment
 Central Europe and the Baltics,2.208654616245908,Government,Digital public services
 Central Europe and the Baltics,6.0,Infrastructure,Connectivity Technology
@@ -675,7 +675,7 @@ Chad,3.4393333333333334,Business,Startup Environment
 Chad,1.2292,Business,Technology Adoption
 Chad,2.2175829569444443,Business,
 Chad,3.8375,Foundations,Digital Legal Identity
-Chad,1.35,Foundations,Digital Payments
+Chad,1.3500000000000003,Foundations,Digital Payments
 Chad,2.59375,Foundations,
 Chad,1.4365,Government,Digital public services
 Chad,2.178902703427446,Infrastructure,Connectivity Technology
@@ -698,8 +698,8 @@ Chile,4.475,Foundations,Digital Legal Identity
 Chile,3.628571428571429,Foundations,Digital Payments
 Chile,3.9011904761904765,Foundations,
 Chile,1.88785046728972,Government,Capabilities
-Chile,3.86625,Government,Digital public services
-Chile,2.87705023364486,Government,
+Chile,3.8662499999999995,Government,Digital public services
+Chile,2.8770502336448596,Government,
 Chile,4.004599107049625,Infrastructure,Connectivity Technology
 Chile,2.3214944566527778,Infrastructure,Innovation Ecosystem
 Chile,3.163046781851201,Infrastructure,
@@ -721,9 +721,9 @@ China,4.266071428571429,Foundations,
 China,4.224299065420561,Government,Capabilities
 China,4.488624833579981,Government,Digital public services
 China,4.356461949500271,Government,
-China,5.008140399236282,Infrastructure,Connectivity Technology
-China,2.713395947445121,Infrastructure,Innovation Ecosystem
-China,4.243225581972562,Infrastructure,
+China,4.102985981147669,Infrastructure,Connectivity Technology
+China,2.7133959474451204,Infrastructure,Innovation Ecosystem
+China,3.408190964296395,Infrastructure,
 China,5.1270394515,People,Culture
 China,3.7452281908,People,Digital Literacy Skills
 China,3.134238214585429,People,Digital Wellbeing
@@ -733,38 +733,38 @@ China,1.5,Regulation,Cybersecurity
 China,3.4,Regulation,Ethical Standards
 China,2.45,Regulation,
 China,4.605,Strategy,Ambition
-China,3.7742098376366613,,
+China,3.717637686506123,,
 China Beijing,4.679500000000001,Business,Startup Environment
 China Shanghai,4.684,Business,Startup Environment
 "China, Hong Kong Special Administrative Region",4.102047443333333,Business,Financing Incentives
 "China, Hong Kong Special Administrative Region",5.0154281579583335,Business,Startup Environment
-"China, Hong Kong Special Administrative Region",4.297499999999999,Business,Technology Adoption
-"China, Hong Kong Special Administrative Region",4.54558075185,Business,
+"China, Hong Kong Special Administrative Region",3.65125,Business,Technology Adoption
+"China, Hong Kong Special Administrative Region",4.256241867097223,Business,
 "China, Hong Kong Special Administrative Region",3.55,Foundations,Data Exchange
 "China, Hong Kong Special Administrative Region",4.05,Foundations,Digital Legal Identity
 "China, Hong Kong Special Administrative Region",4.6571428571428575,Foundations,Digital Payments
 "China, Hong Kong Special Administrative Region",4.085714285714285,Foundations,
 "China, Hong Kong Special Administrative Region",4.97196261682243,Government,Capabilities
-"China, Hong Kong Special Administrative Region",3.4424812030837746,Government,Digital public services
-"China, Hong Kong Special Administrative Region",3.9523083409966593,Government,
-"China, Hong Kong Special Administrative Region",5.001195264482736,Infrastructure,Connectivity Technology
-"China, Hong Kong Special Administrative Region",3.375871001252083,Infrastructure,Innovation Ecosystem
-"China, Hong Kong Special Administrative Region",4.536816903559692,Infrastructure,
+"China, Hong Kong Special Administrative Region",3.9684085213540956,Government,Digital public services
+"China, Hong Kong Special Administrative Region",4.470185569088263,Government,
+"China, Hong Kong Special Administrative Region",4.499184970852411,Infrastructure,Connectivity Technology
+"China, Hong Kong Special Administrative Region",2.9940391060447915,Infrastructure,Innovation Ecosystem
+"China, Hong Kong Special Administrative Region",3.7466120384486015,Infrastructure,
 "China, Hong Kong Special Administrative Region",5.415,People,Culture
 "China, Hong Kong Special Administrative Region",5.589439769333334,People,Digital Literacy Skills
 "China, Hong Kong Special Administrative Region",3.158506113030133,People,Digital Wellbeing
-"China, Hong Kong Special Administrative Region",4.779922130532816,People,Usage and ownership
-"China, Hong Kong Special Administrative Region",4.321643170374358,People,
+"China, Hong Kong Special Administrative Region",4.769128630008717,People,Usage and ownership
+"China, Hong Kong Special Administrative Region",4.7330186280930455,People,
 "China, Hong Kong Special Administrative Region",4.8,Regulation,Ethical Standards
-"China, Hong Kong Special Administrative Region",4.413766437131455,,
+"China, Hong Kong Special Administrative Region",4.346102545725362,,
 "China, Macao Special Administrative Region",4.0375,Foundations,Digital Legal Identity
 "China, Macao Special Administrative Region",1.1934186345583553,Government,Digital public services
-"China, Macao Special Administrative Region",4.343812381650158,Infrastructure,Connectivity Technology
+"China, Macao Special Administrative Region",3.716073600390095,Infrastructure,Connectivity Technology
 "China, Macao Special Administrative Region",5.325167582500001,People,Digital Literacy Skills
 "China, Macao Special Administrative Region",2.280310951150886,People,Digital Wellbeing
-"China, Macao Special Administrative Region",3.5019767673333337,People,Usage and ownership
-"China, Macao Special Administrative Region",3.6222817671301777,People,
-"China, Macao Special Administrative Region",3.447031052865455,,
+"China, Macao Special Administrative Region",4.457953534666667,People,Usage and ownership
+"China, Macao Special Administrative Region",4.021144022772518,People,
+"China, Macao Special Administrative Region",3.5017373838776673,,
 Colombia,2.79359138,Business,Financing Incentives
 Colombia,4.709727270466667,Business,Startup Environment
 Colombia,2.77925,Business,Technology Adoption
@@ -792,7 +792,7 @@ Colombia,3.514733200908343,,
 Comoros (the),3.4665,Business,Startup Environment
 Comoros (the),1.6,Business,Technology Adoption
 Comoros (the),2.53325,Business,
-Comoros (the),2.95,Foundations,Digital Legal Identity
+Comoros (the),2.9500000000000006,Foundations,Digital Legal Identity
 Comoros (the),1.0708333333333333,Government,Digital public services
 Comoros (the),2.5025189560808143,Infrastructure,Connectivity Technology
 Comoros (the),2.052819538,People,Culture
@@ -808,21 +808,21 @@ Congo (the),3.1,Foundations,Digital Legal Identity
 Congo (the),1.6642857142857144,Foundations,Digital Payments
 Congo (the),2.382142857142857,Foundations,
 Congo (the),2.4785000000000004,Government,Digital public services
-Congo (the),2.1776239763234506,Infrastructure,Connectivity Technology
+Congo (the),2.833619651378257,Infrastructure,Connectivity Technology
 Congo (the),3.442541313,People,Culture
 Congo (the),3.911000000000001,People,Digital Literacy Skills
 Congo (the),3.671,People,Digital Wellbeing
-Congo (the),2.4646952997916665,People,Usage and ownership
-Congo (the),3.0697712020625,People,
+Congo (the),3.0191205139285713,People,Usage and ownership
+Congo (the),3.510915456732143,People,
 Congo (the),3.645,Strategy,Ambition
-Congo (the),2.8586723912182577,,
+Congo (the),2.9687106538720496,,
 Cook Islands,1.2137497286763357,Infrastructure,Connectivity Technology
 Cook Islands,3.389,People,Usage and ownership
 Cook Islands,2.3013748643381677,,
 Costa Rica,2.411718329166667,Business,Financing Incentives
 Costa Rica,4.699407635933333,Business,Startup Environment
-Costa Rica,3.4382,Business,Technology Adoption
-Costa Rica,3.5164419883666667,Business,
+Costa Rica,3.4382000000000006,Business,Technology Adoption
+Costa Rica,3.516441988366667,Business,
 Costa Rica,2.15,Foundations,Data Exchange
 Costa Rica,4.4125,Foundations,Digital Legal Identity
 Costa Rica,3.3285714285714287,Foundations,Digital Payments
@@ -836,7 +836,7 @@ Costa Rica,2.8686756525616204,Infrastructure,
 Costa Rica,5.486214447,People,Culture
 Costa Rica,5.097920907375,People,Digital Literacy Skills
 Costa Rica,3.675253252954531,People,Digital Wellbeing
-Costa Rica,3.583793178566947,People,Usage and ownership
+Costa Rica,3.5837931785669475,People,Usage and ownership
 Costa Rica,4.46079544647412,People,
 Costa Rica,5.35,Regulation,Cybersecurity
 Costa Rica,4.4,Regulation,Ethical Standards
@@ -860,7 +860,7 @@ Croatia,3.2948991148099798,Infrastructure,
 Croatia,4.1535593035,People,Culture
 Croatia,5.019214121875,People,Digital Literacy Skills
 Croatia,3.280104975085825,People,Digital Wellbeing
-Croatia,3.66727549264293,People,Usage and ownership
+Croatia,3.6672754926429305,People,Usage and ownership
 Croatia,4.030038473275939,People,
 Croatia,4.05,Regulation,Ethical Standards
 Croatia,5.02,Strategy,Ambition
@@ -897,8 +897,8 @@ Cyprus,4.745,Strategy,Ambition
 Cyprus,4.04517788673848,,
 Czechia,3.3312145475,Business,Financing Incentives
 Czechia,3.7124849379244114,Business,Startup Environment
-Czechia,4.676249832142857,Business,Technology Adoption
-Czechia,4.099049787427531,Business,
+Czechia,4.2159372062500005,Business,Technology Adoption
+Czechia,3.7532122305581375,Business,
 Czechia,3.5,Foundations,Data Exchange
 Czechia,4.4625,Foundations,Digital Legal Identity
 Czechia,4.6290625,Foundations,Digital Payments
@@ -906,62 +906,62 @@ Czechia,4.1971875,Foundations,
 Czechia,5.439252336448599,Government,Capabilities
 Czechia,4.065040157701789,Government,Digital public services
 Czechia,4.752146247075194,Government,
-Czechia,4.74822108205665,Infrastructure,Connectivity Technology
-Czechia,2.169818037233333,Infrastructure,Innovation Ecosystem
-Czechia,3.7168598641273234,Infrastructure,
+Czechia,4.216288885540165,Infrastructure,Connectivity Technology
+Czechia,2.610096728722222,Infrastructure,Innovation Ecosystem
+Czechia,3.4131928071311934,Infrastructure,
 Czechia,4.23798685375,People,Culture
-Czechia,3.3118165655625,People,Digital Literacy Skills
+Czechia,4.4229065049,People,Digital Literacy Skills
 Czechia,4.341114854536664,People,Digital Wellbeing
-Czechia,4.629928507777272,People,Usage and ownership
-Czechia,4.100082672673744,People,
+Czechia,4.69445720599935,People,Usage and ownership
+Czechia,4.424116354796503,People,
 Czechia,4.65,Regulation,Ethical Standards
 Czechia,5.07,Strategy,Ambition
-Czechia,4.1859181382896296,,
+Czechia,4.224896419954575,,
 Côte d'Ivoire,1.8290547133333328,Business,Financing Incentives
-Côte d'Ivoire,3.6929091124166664,Business,Startup Environment
-Côte d'Ivoire,2.4305000000000003,Business,Technology Adoption
-Côte d'Ivoire,2.9614636750972223,Business,
+Côte d'Ivoire,3.689363668625,Business,Startup Environment
+Côte d'Ivoire,2.3768000000000002,Business,Technology Adoption
+Côte d'Ivoire,2.6317394606527778,Business,
 Côte d'Ivoire,4.75,Foundations,Digital Legal Identity
 Côte d'Ivoire,2.05,Foundations,Digital Payments
 Côte d'Ivoire,3.4,Foundations,
 Côte d'Ivoire,3.14425,Government,Digital public services
 Côte d'Ivoire,3.1450180154525063,Infrastructure,Connectivity Technology
 Côte d'Ivoire,0.7517452832,Infrastructure,Innovation Ecosystem
-Côte d'Ivoire,2.347260438035004,Infrastructure,
+Côte d'Ivoire,1.9483816493262531,Infrastructure,
 Côte d'Ivoire,3.400428581,People,Culture
 Côte d'Ivoire,2.838778374125,People,Digital Literacy Skills
-Côte d'Ivoire,2.81370184934744,People,Digital Wellbeing
-Côte d'Ivoire,2.7565654712735035,People,Usage and ownership
-Côte d'Ivoire,2.8687511146234783,People,
+Côte d'Ivoire,3.03827638701058,People,Digital Wellbeing
+Côte d'Ivoire,3.046386672780275,People,Usage and ownership
+Côte d'Ivoire,3.0809675037289637,People,
 Côte d'Ivoire,3.3000000000000003,Regulation,Ethical Standards
 Côte d'Ivoire,3.88,Strategy,Ambition
-Côte d'Ivoire,2.913067957153461,,
-Democratic People's Republic of Korea (the),1.6,Foundations,Digital Legal Identity
-Democratic People's Republic of Korea (the),3.566625,Government,Digital public services
+Côte d'Ivoire,2.9457215496804783,,
+Democratic People's Republic of Korea (the),1.8,Foundations,Digital Legal Identity
+Democratic People's Republic of Korea (the),2.7555,Government,Digital public services
 Democratic People's Republic of Korea (the),1.4410321460283455,Infrastructure,Connectivity Technology
 Democratic People's Republic of Korea (the),4.2010000000000005,People,Digital Literacy Skills
 Democratic People's Republic of Korea (the),1.0025,People,Usage and ownership
 Democratic People's Republic of Korea (the),2.60175,People,
-Democratic People's Republic of Korea (the),2.3622314292056688,,
+Democratic People's Republic of Korea (the),2.2400064292056694,,
 Democratic Republic of the Congo (the),1.8897201216666664,Business,Financing Incentives
 Democratic Republic of the Congo (the),3.17125,Business,Startup Environment
-Democratic Republic of the Congo (the),1.493125,Business,Technology Adoption
-Democratic Republic of the Congo (the),2.011805030416667,Business,
+Democratic Republic of the Congo (the),1.4196875,Business,Technology Adoption
+Democratic Republic of the Congo (the),2.160219207222222,Business,
 Democratic Republic of the Congo (the),1.25,Foundations,Digital Legal Identity
 Democratic Republic of the Congo (the),1.6642857142857144,Foundations,Digital Payments
 Democratic Republic of the Congo (the),1.4571428571428573,Foundations,
 Democratic Republic of the Congo (the),1.8295,Government,Digital public services
-Democratic Republic of the Congo (the),1.6720943369471961,Infrastructure,Connectivity Technology
+Democratic Republic of the Congo (the),2.1573810610620083,Infrastructure,Connectivity Technology
 Democratic Republic of the Congo (the),3.3038268091666665,Infrastructure,Innovation Ecosystem
-Democratic Republic of the Congo (the),1.8760608959746299,Infrastructure,
+Democratic Republic of the Congo (the),2.7306039351143374,Infrastructure,
 Democratic Republic of the Congo (the),2.9793006895000005,People,Culture
 Democratic Republic of the Congo (the),3.6515,People,Digital Literacy Skills
 Democratic Republic of the Congo (the),1.295,People,Digital Wellbeing
-Democratic Republic of the Congo (the),2.0456602228072365,People,Usage and ownership
-Democratic Republic of the Congo (the),2.2692627254420232,People,
+Democratic Republic of the Congo (the),2.0831003713453935,People,Usage and ownership
+Democratic Republic of the Congo (the),2.5022252652113486,People,
 Democratic Republic of the Congo (the),2.7,Regulation,Ethical Standards
 Democratic Republic of the Congo (the),3.465,Strategy,Ambition
-Democratic Republic of the Congo (the),2.315018778169534,,
+Democratic Republic of the Congo (the),2.3471108762161745,,
 Denmark,3.3250752683333338,Business,Financing Incentives
 Denmark,4.203113355819615,Business,Startup Environment
 Denmark,4.3133333333333335,Business,Technology Adoption
@@ -990,7 +990,7 @@ Developing,3.0,,
 Djibouti,4.217166666666667,Business,Startup Environment
 Djibouti,2.385,Business,Technology Adoption
 Djibouti,3.3010833333333336,Business,
-Djibouti,2.675,Foundations,Digital Legal Identity
+Djibouti,2.6749999999999994,Foundations,Digital Legal Identity
 Djibouti,1.3963333333333334,Government,Digital public services
 Djibouti,1.9960814230700583,Infrastructure,Connectivity Technology
 Djibouti,2.709,People,Digital Literacy Skills
@@ -1019,9 +1019,9 @@ Dominican Republic (the),3.380952380952381,Foundations,
 Dominican Republic (the),1.7476635514018692,Government,Capabilities
 Dominican Republic (the),3.230833333333333,Government,Digital public services
 Dominican Republic (the),2.489248442367601,Government,
-Dominican Republic (the),3.080744610489244,Infrastructure,Connectivity Technology
+Dominican Republic (the),3.268771983787807,Infrastructure,Connectivity Technology
 Dominican Republic (the),1.6231554055266666,Infrastructure,Innovation Ecosystem
-Dominican Republic (the),2.5948815421683853,Infrastructure,
+Dominican Republic (the),2.4459636946572365,Infrastructure,
 Dominican Republic (the),5.486214447,People,Culture
 Dominican Republic (the),3.11225,People,Digital Literacy Skills
 Dominican Republic (the),3.137359760055132,People,Digital Wellbeing
@@ -1029,7 +1029,7 @@ Dominican Republic (the),3.577692325655205,People,Usage and ownership
 Dominican Republic (the),3.828379133177584,People,
 Dominican Republic (the),3.4,Regulation,Ethical Standards
 Dominican Republic (the),4.54,Strategy,Ambition
-Dominican Republic (the),3.233424526180329,,
+Dominican Republic (the),3.245176237011489,,
 Early-demographic dividend,3.2131147541666665,Business,Startup Environment
 Early-demographic dividend,5.6271276295,Infrastructure,Connectivity Technology
 Early-demographic dividend,4.420121191833333,,
@@ -1077,28 +1077,28 @@ Ecuador,3.775,Regulation,
 Ecuador,4.625,Strategy,Ambition
 Ecuador,3.491211565011613,,
 Egypt,2.727351745,Business,Financing Incentives
-Egypt,3.422623141888889,Business,Startup Environment
+Egypt,3.472854069066666,Business,Startup Environment
 Egypt,3.343,Business,Technology Adoption
-Egypt,3.2288995071944444,Business,
-Egypt,4.983333333333333,Foundations,Digital Legal Identity
+Egypt,3.181068604688889,Business,
+Egypt,4.644444444444445,Foundations,Digital Legal Identity
 Egypt,1.8285714285714287,Foundations,Digital Payments
-Egypt,3.931746031746032,Foundations,
+Egypt,3.2365079365079366,Foundations,
 Egypt,3.5700934579439254,Government,Capabilities
-Egypt,2.7147238300155374,Government,Digital public services
-Egypt,2.9998470393250005,Government,
-Egypt,3.437467689106465,Infrastructure,Connectivity Technology
-Egypt,2.578113166515,Infrastructure,Innovation Ecosystem
-Egypt,3.007790427810733,Infrastructure,
+Egypt,3.0452325533436917,Government,Digital public services
+Egypt,3.3076630056438088,Government,
+Egypt,3.2455785718639887,Infrastructure,Connectivity Technology
+Egypt,1.8961819408583336,Infrastructure,Innovation Ecosystem
+Egypt,2.570880256361161,Infrastructure,
 Egypt,4.9226718905,People,Culture
-Egypt,3.4203120285,People,Digital Literacy Skills
-Egypt,2.2990911146511213,People,Digital Wellbeing
-Egypt,2.887267407736336,People,Usage and ownership
-Egypt,3.119283493962485,People,
+Egypt,3.4203120285000006,People,Digital Literacy Skills
+Egypt,2.8366877929285943,People,Digital Wellbeing
+Egypt,3.6112635067429815,People,Usage and ownership
+Egypt,3.697733804667894,People,
 Egypt,2.3,Regulation,Cybersecurity
 Egypt,2.8,Regulation,Ethical Standards
 Egypt,2.55,Regulation,
 Egypt,4.43,Strategy,Ambition
-Egypt,3.229038764610127,,
+Egypt,3.255890214360253,,
 El Salvador,2.3060929375,Business,Financing Incentives
 El Salvador,4.2027361403,Business,Startup Environment
 El Salvador,2.5623,Business,Technology Adoption
@@ -1115,16 +1115,16 @@ El Salvador,1.44682969745,Infrastructure,Innovation Ecosystem
 El Salvador,2.17644942033147,Infrastructure,
 El Salvador,5.486214447,People,Culture
 El Salvador,3.677022046,People,Digital Literacy Skills
-El Salvador,3.358406984243344,People,Digital Wellbeing
+El Salvador,3.3584069842433437,People,Digital Wellbeing
 El Salvador,2.552980266135943,People,Usage and ownership
-El Salvador,3.768655935844822,People,
+El Salvador,3.7686559358448215,People,
 El Salvador,3.45,Regulation,Ethical Standards
 El Salvador,4.395,Strategy,Ambition
 El Salvador,3.1829289183184066,,
 Equatorial Guinea,3.2985,Business,Startup Environment
 Equatorial Guinea,2.3375,Foundations,Digital Legal Identity
 Equatorial Guinea,0.8935,Government,Digital public services
-Equatorial Guinea,0.9821734606374872,Infrastructure,Connectivity Technology
+Equatorial Guinea,0.9821734606374871,Infrastructure,Connectivity Technology
 Equatorial Guinea,1.88675,People,Digital Literacy Skills
 Equatorial Guinea,1.0614,People,Usage and ownership
 Equatorial Guinea,1.474075,People,
@@ -1165,18 +1165,18 @@ Eswatini,2.2357032300000004,Business,Financing Incentives
 Eswatini,3.3070833333333334,Business,Startup Environment
 Eswatini,2.3055,Business,Technology Adoption
 Eswatini,2.616095521111111,Business,
-Eswatini,3.3583333333333334,Foundations,Digital Legal Identity
+Eswatini,3.3111111111111113,Foundations,Digital Legal Identity
 Eswatini,2.2343333333333333,Government,Digital public services
-Eswatini,1.7228063730022762,Infrastructure,Connectivity Technology
+Eswatini,2.1441533201450516,Infrastructure,Connectivity Technology
 Eswatini,2.31205678,Infrastructure,Innovation Ecosystem
-Eswatini,1.9192231753348505,Infrastructure,
+Eswatini,2.228105050072526,Infrastructure,
 Eswatini,1.25,People,Culture
 Eswatini,2.098,People,Digital Literacy Skills
-Eswatini,2.5709246487213964,People,Digital Wellbeing
-Eswatini,2.9658206472499997,People,Usage and ownership
-Eswatini,2.403581765323799,People,
+Eswatini,2.3765661982951953,People,Digital Wellbeing
+Eswatini,2.3123130356,People,Usage and ownership
+Eswatini,2.009219808473799,People,
 Eswatini,3.665,Strategy,Ambition
-Eswatini,2.502130139914472,,
+Eswatini,2.462651695151502,,
 Ethiopia,2.912280718333333,Business,Financing Incentives
 Ethiopia,2.6211874008,Business,Startup Environment
 Ethiopia,2.3137,Business,Technology Adoption
@@ -1233,9 +1233,9 @@ Faroe Islands,6.0,Infrastructure,Connectivity Technology
 Faroe Islands,4.3675,People,Usage and ownership
 Faroe Islands,5.18375,,
 Fiji,3.5704166666666666,Business,Startup Environment
-Fiji,1.9625,Foundations,Digital Legal Identity
+Fiji,1.9624999999999997,Foundations,Digital Legal Identity
 Fiji,2.2836666666666665,Government,Digital public services
-Fiji,2.6237083276356934,Infrastructure,Connectivity Technology
+Fiji,2.623708327635693,Infrastructure,Connectivity Technology
 Fiji,2.4354480745,People,Culture
 Fiji,2.55675,People,Digital Literacy Skills
 Fiji,1.3778252600229526,People,Digital Wellbeing
@@ -1256,8 +1256,8 @@ Finland,5.132965225011055,Government,Digital public services
 Finland,2.121240922218991,Government,Funding and procurement
 Finland,4.215576503905343,Government,
 Finland,4.69408665440104,Infrastructure,Connectivity Technology
-Finland,3.8835202792857135,Infrastructure,Innovation Ecosystem
-Finland,4.288803466843376,Infrastructure,
+Finland,3.883520279285714,Infrastructure,Innovation Ecosystem
+Finland,4.288803466843377,Infrastructure,
 Finland,5.0478873575000005,People,Culture
 Finland,4.6943249251,People,Digital Literacy Skills
 Finland,4.220100701696845,People,Digital Wellbeing
@@ -1319,21 +1319,21 @@ Gambia (the),2.656297644166666,Business,Financing Incentives
 Gambia (the),3.898666666666667,Business,Startup Environment
 Gambia (the),2.188625,Business,Technology Adoption
 Gambia (the),2.9145297702777775,Business,
-Gambia (the),4.816666666666666,Foundations,Digital Legal Identity
-Gambia (the),1.1118619390950877,Government,Digital public services
-Gambia (the),2.2606132262835215,Infrastructure,Connectivity Technology
+Gambia (the),4.422222222222222,Foundations,Digital Legal Identity
+Gambia (the),1.1288246260633918,Government,Digital public services
+Gambia (the),2.6638342680005964,Infrastructure,Connectivity Technology
 Gambia (the),2.8803008399999994,Infrastructure,Innovation Ecosystem
-Gambia (the),2.415535129712641,Infrastructure,
+Gambia (the),2.772067554000298,Infrastructure,
 Gambia (the),1.15,People,Culture
 Gambia (the),2.815,People,Digital Literacy Skills
-Gambia (the),2.298032311068067,People,Digital Wellbeing
-Gambia (the),1.74582492925,People,Usage and ownership
-Gambia (the),2.061377910277227,People,
+Gambia (the),2.690938207378711,People,Digital Wellbeing
+Gambia (the),1.7458249292499999,People,Usage and ownership
+Gambia (the),2.1004407841571777,People,
 Gambia (the),3.65,Regulation,Cybersecurity
 Gambia (the),3.5,Regulation,Ethical Standards
 Gambia (the),3.575,Regulation,
 Gambia (the),3.965,Strategy,Ambition
-Gambia (the),2.781206373085477,,
+Gambia (the),2.811109600267732,,
 Georgia,2.3141534725,Business,Financing Incentives
 Georgia,4.673106871,Business,Startup Environment
 Georgia,2.6427,Business,Technology Adoption
@@ -1342,21 +1342,21 @@ Georgia,4.5,Foundations,Digital Legal Identity
 Georgia,2.935714285714286,Foundations,Digital Payments
 Georgia,3.717857142857143,Foundations,
 Georgia,2.7757009345794392,Government,Capabilities
-Georgia,2.675645331725484,Government,Digital public services
-Georgia,2.7089971993434694,Government,
-Georgia,4.085172933324396,Infrastructure,Connectivity Technology
+Georgia,3.1430135544836557,Government,Digital public services
+Georgia,2.9593572445315477,Government,
+Georgia,3.741569959403192,Infrastructure,Connectivity Technology
 Georgia,1.9587579848533327,Infrastructure,Innovation Ecosystem
-Georgia,3.376367950500708,Infrastructure,
+Georgia,2.8501639721282626,Infrastructure,
 Georgia,1.7565425394999998,People,Culture
-Georgia,4.901819601166666,People,Digital Literacy Skills
+Georgia,4.67347940175,People,Digital Literacy Skills
 Georgia,2.669623909507815,People,Digital Wellbeing
 Georgia,4.120391628645946,People,Usage and ownership
-Georgia,3.6700394559974185,People,
+Georgia,3.30500936985094,People,
 Georgia,4.85,Regulation,Cybersecurity
 Georgia,4.0,Regulation,Ethical Standards
 Georgia,4.425,Regulation,
 Georgia,4.609999999999999,Strategy,Ambition
-Georgia,3.466833093282335,,
+Georgia,3.460297158871104,,
 Germany,4.170886039999999,Business,Financing Incentives
 Germany,4.059940248544902,Business,Startup Environment
 Germany,4.383010555555556,Business,Technology Adoption
@@ -1429,7 +1429,7 @@ Greece,3.329554597537024,Infrastructure,
 Greece,4.172545198,People,Culture
 Greece,4.2728802385,People,Digital Literacy Skills
 Greece,4.046063589046783,People,Digital Wellbeing
-Greece,3.589721421322703,People,Usage and ownership
+Greece,3.5897214213227024,People,Usage and ownership
 Greece,4.020302611717371,People,
 Greece,4.05,Regulation,Ethical Standards
 Greece,4.77,Strategy,Ambition
@@ -1479,9 +1479,9 @@ Guinea,3.172619104166667,Business,Financing Incentives
 Guinea,3.1448352269,Business,Startup Environment
 Guinea,2.0686,Business,Technology Adoption
 Guinea,2.795351443688889,Business,
-Guinea,2.925,Foundations,Digital Legal Identity
+Guinea,2.9249999999999994,Foundations,Digital Legal Identity
 Guinea,1.6285714285714286,Foundations,Digital Payments
-Guinea,2.2767857142857144,Foundations,
+Guinea,2.276785714285714,Foundations,
 Guinea,1.5451666666666668,Government,Digital public services
 Guinea,2.144851048635424,Infrastructure,Connectivity Technology
 Guinea,1.1520330898958333,Infrastructure,Innovation Ecosystem
@@ -1493,7 +1493,7 @@ Guinea,1.9800235999780085,People,Usage and ownership
 Guinea,2.2049625464682228,People,
 Guinea,3.1,Regulation,Ethical Standards
 Guinea,3.55,Strategy,Ambition
-Guinea,2.3751090536220656,,
+Guinea,2.375109053622065,,
 Guinea-Bissau,3.32125,Business,Startup Environment
 Guinea-Bissau,2.65,Foundations,Digital Legal Identity
 Guinea-Bissau,0.9133333333333334,Government,Digital public services
@@ -1589,7 +1589,7 @@ Hungary,3.2061555866699374,Infrastructure,
 Hungary,4.161765191999999,People,Culture
 Hungary,4.3264753488,People,Digital Literacy Skills
 Hungary,3.852800126651976,People,Digital Wellbeing
-Hungary,3.645755980565416,People,Usage and ownership
+Hungary,3.6457559805654163,People,Usage and ownership
 Hungary,3.996699162004348,People,
 Hungary,4.5,Regulation,Cybersecurity
 Hungary,3.65,Regulation,Ethical Standards
@@ -1620,8 +1620,8 @@ Iceland,3.6818950554,Business,
 Iceland,4.4625,Foundations,Digital Legal Identity
 Iceland,4.299626517078501,Government,Digital public services
 Iceland,4.365811794431965,Infrastructure,Connectivity Technology
-Iceland,3.66594424851,Infrastructure,Innovation Ecosystem
-Iceland,4.015878021470982,Infrastructure,
+Iceland,3.6659442485100002,Infrastructure,Innovation Ecosystem
+Iceland,4.015878021470983,Infrastructure,
 Iceland,5.3057225,People,Culture
 Iceland,5.7625,People,Digital Literacy Skills
 Iceland,4.497361824642506,People,Digital Wellbeing
@@ -1639,8 +1639,8 @@ India,5.2625,Foundations,Digital Legal Identity
 India,2.6142857142857143,Foundations,Digital Payments
 India,3.742261904761905,Foundations,
 India,2.915887850467289,Government,Capabilities
-India,3.80648883832346,Government,Digital public services
-India,3.3611883443953747,Government,
+India,3.8064888383234594,Government,Digital public services
+India,3.3611883443953743,Government,
 India,3.516143599714116,Infrastructure,Connectivity Technology
 India,2.176698187355309,Infrastructure,Innovation Ecosystem
 India,2.8464208935347126,Infrastructure,
@@ -1683,27 +1683,27 @@ Indonesia,3.3531876185623397,,
 Indonesia Jakarta,4.407,Business,Startup Environment
 Indonesia Surabaya,4.365,Business,Startup Environment
 Iran (Islamic Republic of),2.03605032,Business,Financing Incentives
-Iran (Islamic Republic of),2.7990729468888884,Business,Startup Environment
-Iran (Islamic Republic of),3.4789375,Business,Technology Adoption
-Iran (Islamic Republic of),2.9184142427555555,Business,
+Iran (Islamic Republic of),2.877413913066666,Business,Startup Environment
+Iran (Islamic Republic of),2.84340625,Business,Technology Adoption
+Iran (Islamic Republic of),2.585623494355555,Business,
 Iran (Islamic Republic of),2.05,Foundations,Data Exchange
-Iran (Islamic Republic of),2.466666666666667,Foundations,Digital Legal Identity
+Iran (Islamic Republic of),2.9555555555555557,Foundations,Digital Legal Identity
 Iran (Islamic Republic of),4.521428571428571,Foundations,Digital Payments
-Iran (Islamic Republic of),2.876190476190476,Foundations,
-Iran (Islamic Republic of),3.2366776315789476,Government,Digital public services
-Iran (Islamic Republic of),4.1732033593328675,Infrastructure,Connectivity Technology
-Iran (Islamic Republic of),3.1512571434222223,Infrastructure,Innovation Ecosystem
-Iran (Islamic Republic of),3.7352264096568772,Infrastructure,
+Iran (Islamic Republic of),3.1756613756613756,Foundations,
+Iran (Islamic Republic of),3.368201754385965,Government,Digital public services
+Iran (Islamic Republic of),3.64690631647503,Infrastructure,Connectivity Technology
+Iran (Islamic Republic of),3.3226268374933334,Infrastructure,Innovation Ecosystem
+Iran (Islamic Republic of),3.484766576984182,Infrastructure,
 Iran (Islamic Republic of),3.5998460770000005,People,Culture
 Iran (Islamic Republic of),4.87542654025,People,Digital Literacy Skills
-Iran (Islamic Republic of),2.888256882272609,People,Digital Wellbeing
-Iran (Islamic Republic of),3.4203312220832145,People,Usage and ownership
-Iran (Islamic Republic of),3.49163890876601,People,
+Iran (Islamic Republic of),2.730842509696812,People,Digital Wellbeing
+Iran (Islamic Republic of),4.025317494643238,People,Usage and ownership
+Iran (Islamic Republic of),3.8078581553975126,People,
 Iran (Islamic Republic of),1.8,Regulation,Cybersecurity
 Iran (Islamic Republic of),3.15,Regulation,Ethical Standards
 Iran (Islamic Republic of),2.475,Regulation,
 Iran (Islamic Republic of),4.5,Strategy,Ambition
-Iran (Islamic Republic of),3.259197178807749,,
+Iran (Islamic Republic of),3.2689388837496978,,
 Iraq,2.1180000000000003,Business,Startup Environment
 Iraq,2.27,Business,Technology Adoption
 Iraq,2.194,Business,
@@ -1764,7 +1764,7 @@ Israel,3.9463990095718846,Infrastructure,
 Israel,4.345,People,Culture
 Israel,4.545417935400001,People,Digital Literacy Skills
 Israel,3.788317511835464,People,Digital Wellbeing
-Israel,3.940308367129064,People,Usage and ownership
+Israel,3.9403083671290644,People,Usage and ownership
 Israel,4.154760953591132,People,
 Israel,4.75,Strategy,Ambition
 Israel,4.285520283181404,,
@@ -1814,8 +1814,8 @@ Jamaica,4.45,Strategy,Ambition
 Jamaica,3.2306978914804705,,
 Japan,3.786727746666667,Business,Financing Incentives
 Japan,3.669546132291842,Business,Startup Environment
-Japan,3.601,Business,Technology Adoption
-Japan,3.685757959652836,Business,
+Japan,3.6010000000000004,Business,Technology Adoption
+Japan,3.6857579596528365,Business,
 Japan,4.05,Foundations,Data Exchange
 Japan,4.4375,Foundations,Digital Legal Identity
 Japan,4.621428571428572,Foundations,Digital Payments
@@ -1828,9 +1828,9 @@ Japan,3.018068456556955,Infrastructure,Innovation Ecosystem
 Japan,3.753010827601421,Infrastructure,
 Japan,4.360400467,People,Culture
 Japan,4.688673361499999,People,Digital Literacy Skills
-Japan,3.231009952356785,People,Digital Wellbeing
+Japan,3.2310099523567843,People,Digital Wellbeing
 Japan,4.46758303822774,People,Usage and ownership
-Japan,4.186916704771131,People,
+Japan,4.18691670477113,People,
 Japan,4.8,Regulation,Cybersecurity
 Japan,4.9,Regulation,Ethical Standards
 Japan,4.85,Regulation,
@@ -1841,7 +1841,7 @@ Japan Tokyo,4.785499999999999,Business,Startup Environment
 Jersey,6.0,Infrastructure,Connectivity Technology
 Jordan,3.5396402675,Business,Financing Incentives
 Jordan,4.686493616766667,Business,Startup Environment
-Jordan,3.6584,Business,Technology Adoption
+Jordan,3.6583999999999994,Business,Technology Adoption
 Jordan,3.9615112947555553,Business,
 Jordan,3.6625,Foundations,Digital Legal Identity
 Jordan,2.164285714285714,Foundations,Digital Payments
@@ -1950,46 +1950,46 @@ Kuwait,4.6755740321102035,People,
 Kuwait,4.125,Strategy,Ambition
 Kuwait,3.8956138144327896,,
 Kyrgyzstan,2.391516725,Business,Financing Incentives
-Kyrgyzstan,4.118803376833333,Business,Startup Environment
+Kyrgyzstan,4.1454760348,Business,Startup Environment
 Kyrgyzstan,2.7308,Business,Technology Adoption
-Kyrgyzstan,3.339980869666667,Business,
+Kyrgyzstan,3.0892642532666663,Business,
 Kyrgyzstan,5.4625,Foundations,Digital Legal Identity
 Kyrgyzstan,2.207142857142857,Foundations,Digital Payments
 Kyrgyzstan,3.834821428571429,Foundations,
 Kyrgyzstan,2.02803738317757,Government,Capabilities
-Kyrgyzstan,2.7475209767585262,Government,Digital public services
-Kyrgyzstan,2.507693112231541,Government,
-Kyrgyzstan,3.1307002051370114,Infrastructure,Connectivity Technology
-Kyrgyzstan,2.2347979938104165,Infrastructure,Innovation Ecosystem
-Kyrgyzstan,2.682749099473714,Infrastructure,
+Kyrgyzstan,3.2995139845056847,Government,Digital public services
+Kyrgyzstan,2.663775683841627,Government,
+Kyrgyzstan,2.8274468383389593,Infrastructure,Connectivity Technology
+Kyrgyzstan,1.8214577585966665,Infrastructure,Innovation Ecosystem
+Kyrgyzstan,2.324452298467813,Infrastructure,
 Kyrgyzstan,1.954701519,People,Culture
 Kyrgyzstan,4.9365000000000006,People,Digital Literacy Skills
-Kyrgyzstan,2.4960714413797755,People,Digital Wellbeing
-Kyrgyzstan,2.4332126899761137,People,Usage and ownership
-Kyrgyzstan,2.7916282969519632,People,
+Kyrgyzstan,2.9661309609198505,People,Digital Wellbeing
+Kyrgyzstan,2.604441962185066,People,Usage and ownership
+Kyrgyzstan,3.115443610526229,People,
 Kyrgyzstan,3.65,Regulation,Cybersecurity
 Kyrgyzstan,3.4,Regulation,Ethical Standards
 Kyrgyzstan,3.525,Regulation,
 Kyrgyzstan,4.7,Strategy,Ambition
-Kyrgyzstan,3.1638940730134752,,
+Kyrgyzstan,3.1953541264791654,,
 Lao People's Democratic Republic (the),2.805586219166667,Business,Financing Incentives
-Lao People's Democratic Republic (the),3.436166339875,Business,Startup Environment
-Lao People's Democratic Republic (the),2.881375,Business,Technology Adoption
-Lao People's Democratic Republic (the),3.088133779783333,Business,
+Lao People's Democratic Republic (the),3.4991330719000002,Business,Startup Environment
+Lao People's Democratic Republic (the),2.7922,Business,Technology Adoption
+Lao People's Democratic Republic (the),3.032306430355556,Business,
 Lao People's Democratic Republic (the),3.0375,Foundations,Digital Legal Identity
 Lao People's Democratic Republic (the),1.7357142857142858,Foundations,Digital Payments
 Lao People's Democratic Republic (the),2.3866071428571427,Foundations,
 Lao People's Democratic Republic (the),2.021,Government,Digital public services
-Lao People's Democratic Republic (the),2.6851049395700364,Infrastructure,Connectivity Technology
-Lao People's Democratic Republic (the),1.7987893921416667,Infrastructure,Innovation Ecosystem
-Lao People's Democratic Republic (the),2.4318719260190735,Infrastructure,
+Lao People's Democratic Republic (the),2.948318464425102,Infrastructure,Connectivity Technology
+Lao People's Democratic Republic (the),1.4550067323,Infrastructure,Innovation Ecosystem
+Lao People's Democratic Republic (the),2.201662598362551,Infrastructure,
 Lao People's Democratic Republic (the),3.084914589,People,Culture
 Lao People's Democratic Republic (the),3.7695,People,Digital Literacy Skills
-Lao People's Democratic Republic (the),2.8926154377525846,People,Digital Wellbeing
-Lao People's Democratic Republic (the),3.1012037089963798,People,Usage and ownership
-Lao People's Democratic Republic (the),3.1347509416420434,People,
+Lao People's Democratic Republic (the),2.6851539170034457,People,Digital Wellbeing
+Lao People's Democratic Republic (the),2.980124582329713,People,Usage and ownership
+Lao People's Democratic Republic (the),3.1299232720832895,People,
 Lao People's Democratic Republic (the),4.15,Strategy,Ambition
-Lao People's Democratic Republic (the),2.8768823009397404,,
+Lao People's Democratic Republic (the),2.843396297064555,,
 Late-demographic dividend,3.6822916666666665,Business,Startup Environment
 Late-demographic dividend,2.7462925153854583,Government,Digital public services
 Late-demographic dividend,5.9685068135,Infrastructure,Connectivity Technology
@@ -2029,7 +2029,7 @@ Latvia,3.197037118383342,Infrastructure,
 Latvia,4.18764772525,People,Culture
 Latvia,5.3783370815,People,Digital Literacy Skills
 Latvia,4.24033309257033,People,Digital Wellbeing
-Latvia,3.863759218060422,People,Usage and ownership
+Latvia,3.8637592180604217,People,Usage and ownership
 Latvia,4.417519279345187,People,
 Latvia,4.96,Strategy,Ambition
 Latvia,4.0994405413643955,,
@@ -2040,7 +2040,7 @@ Lebanon,2.8783549466666667,Business,Financing Incentives
 Lebanon,3.244789132966667,Business,Startup Environment
 Lebanon,3.2549,Business,Technology Adoption
 Lebanon,3.1260146932111113,Business,
-Lebanon,3.075,Foundations,Digital Legal Identity
+Lebanon,3.0750000000000006,Foundations,Digital Legal Identity
 Lebanon,2.335714285714286,Foundations,Digital Payments
 Lebanon,2.7053571428571432,Foundations,
 Lebanon,3.289719626168224,Government,Capabilities
@@ -2145,7 +2145,7 @@ Low & middle income,2.4687718540440327,Government,Digital public services
 Low & middle income,5.410521527,Infrastructure,Connectivity Technology
 Low & middle income,3.754459531320233,,
 Low income,3.0192307691666667,Business,Startup Environment
-Low income,1.8571428571428568,Foundations,Digital Payments
+Low income,1.8571428571428565,Foundations,Digital Payments
 Low income,3.0461670905,Infrastructure,Connectivity Technology
 Low income,2.0,People,Usage and ownership
 Low income,2.480635179202381,,
@@ -2192,8 +2192,8 @@ Madagascar,1.6549405409627296,Infrastructure,
 Madagascar,1.8422555925,People,Culture
 Madagascar,1.82675,People,Digital Literacy Skills
 Madagascar,2.253777892654052,People,Digital Wellbeing
-Madagascar,1.7935134821464909,People,Usage and ownership
-Madagascar,1.9290742418251356,People,
+Madagascar,1.793513482146491,People,Usage and ownership
+Madagascar,1.9290742418251359,People,
 Madagascar,3.2,Regulation,Ethical Standards
 Madagascar,3.45,Strategy,Ambition
 Madagascar,2.202756583543354,,
@@ -2235,7 +2235,7 @@ Malaysia,2.324132713166667,Infrastructure,Innovation Ecosystem
 Malaysia,3.1657390935555503,Infrastructure,
 Malaysia,4.474901619,People,Culture
 Malaysia,4.3983990243,People,Digital Literacy Skills
-Malaysia,3.7010752143853134,People,Digital Wellbeing
+Malaysia,3.701075214385314,People,Digital Wellbeing
 Malaysia,4.521921341079497,People,Usage and ownership
 Malaysia,4.274074299691202,People,
 Malaysia,3.9,Regulation,Cybersecurity
@@ -2245,7 +2245,7 @@ Malaysia,3.8906247533003815,,
 Maldives,2.7774166666666664,Business,Startup Environment
 Maldives,4.425,Foundations,Digital Legal Identity
 Maldives,2.126333333333333,Government,Digital public services
-Maldives,3.696100098108516,Infrastructure,Connectivity Technology
+Maldives,3.6961000981085155,Infrastructure,Connectivity Technology
 Maldives,3.083165741,People,Culture
 Maldives,4.443,People,Digital Literacy Skills
 Maldives,2.560980540280682,People,Digital Wellbeing
@@ -2305,7 +2305,7 @@ Mauritania,1.92443943,Business,Financing Incentives
 Mauritania,3.0376111111111115,Business,Startup Environment
 Mauritania,1.75,Business,Technology Adoption
 Mauritania,2.2373501803703704,Business,
-Mauritania,2.7375,Foundations,Digital Legal Identity
+Mauritania,2.7374999999999994,Foundations,Digital Legal Identity
 Mauritania,1.5642857142857145,Foundations,Digital Payments
 Mauritania,2.150892857142857,Foundations,
 Mauritania,1.3253333333333333,Government,Digital public services
@@ -2315,11 +2315,11 @@ Mauritania,2.1960446051201146,Infrastructure,
 Mauritania,2.8828824995,People,Culture
 Mauritania,2.7875,People,Digital Literacy Skills
 Mauritania,2.108456576933471,People,Digital Wellbeing
-Mauritania,2.412210500055556,People,Usage and ownership
-Mauritania,2.547762394122257,People,
+Mauritania,2.4122105000555556,People,Usage and ownership
+Mauritania,2.5477623941222567,People,
 Mauritania,2.8,Regulation,Ethical Standards
 Mauritania,3.775,Strategy,Ambition
-Mauritania,2.392664883961387,,
+Mauritania,2.3926648839613867,,
 Mauritius,2.7577232916666663,Business,Financing Incentives
 Mauritius,4.249286805,Business,Startup Environment
 Mauritius,2.8976,Business,Technology Adoption
@@ -2328,7 +2328,7 @@ Mauritius,4.45,Foundations,Digital Legal Identity
 Mauritius,3.607142857142857,Foundations,Digital Payments
 Mauritius,4.0285714285714285,Foundations,
 Mauritius,3.3517911979358943,Government,Digital public services
-Mauritius,3.76691058660518,Infrastructure,Connectivity Technology
+Mauritius,3.7669105866051806,Infrastructure,Connectivity Technology
 Mauritius,1.946935143223333,Infrastructure,Innovation Ecosystem
 Mauritius,2.8569228649142566,Infrastructure,
 Mauritius,4.0742328645,People,Culture
@@ -2355,7 +2355,7 @@ Mexico,3.7552979889260136,Infrastructure,Connectivity Technology
 Mexico,1.7882664553565342,Infrastructure,Innovation Ecosystem
 Mexico,2.771782222141274,Infrastructure,
 Mexico,3.9989420165,People,Culture
-Mexico,3.9735488753,People,Digital Literacy Skills
+Mexico,3.9735488752999997,People,Digital Literacy Skills
 Mexico,3.9434664869152,People,Digital Wellbeing
 Mexico,3.273601810163732,People,Usage and ownership
 Mexico,3.797389797219733,People,
@@ -2369,12 +2369,12 @@ Mexico Monterrey,4.771000000000001,Business,Startup Environment
 Micronesia (Federated States of),4.308083333333333,Business,Startup Environment
 Micronesia (Federated States of),1.35,Foundations,Digital Legal Identity
 Micronesia (Federated States of),2.7155,Government,Digital public services
-Micronesia (Federated States of),1.4660885962938257,Infrastructure,Connectivity Technology
+Micronesia (Federated States of),1.1782769984407384,Infrastructure,Connectivity Technology
 Micronesia (Federated States of),4.3735,People,Digital Literacy Skills
 Micronesia (Federated States of),1.1355803768656356,People,Digital Wellbeing
 Micronesia (Federated States of),2.288125,People,Usage and ownership
-Micronesia (Federated States of),2.5213325942164087,People,
-Micronesia (Federated States of),2.519553900927542,,
+Micronesia (Federated States of),2.599068458955212,People,
+Micronesia (Federated States of),2.4784379583771012,,
 Middle East & North Africa,2.349206349166667,Business,Startup Environment
 Middle East & North Africa,2.4857142857142853,Foundations,Digital Payments
 Middle East & North Africa,5.86162699,Infrastructure,Connectivity Technology
@@ -2412,8 +2412,8 @@ Mongolia,4.128571428571428,Foundations,Digital Payments
 Mongolia,4.133035714285715,Foundations,
 Mongolia,2.925045764215406,Government,Digital public services
 Mongolia,3.3652270456264377,Infrastructure,Connectivity Technology
-Mongolia,1.9982918167033328,Infrastructure,Innovation Ecosystem
-Mongolia,2.681759431164885,Infrastructure,
+Mongolia,1.998291816703333,Infrastructure,Innovation Ecosystem
+Mongolia,2.6817594311648856,Infrastructure,
 Mongolia,1.988198757,People,Culture
 Mongolia,3.9202289215,People,Digital Literacy Skills
 Mongolia,2.996105279208011,People,Digital Wellbeing
@@ -2458,31 +2458,31 @@ Morocco,3.676516246086687,Infrastructure,Connectivity Technology
 Morocco,2.0580883484,Infrastructure,Innovation Ecosystem
 Morocco,2.8673022972433433,Infrastructure,
 Morocco,4.51883594525,People,Culture
-Morocco,3.9400027743,People,Digital Literacy Skills
-Morocco,3.0461962051391387,People,Digital Wellbeing
-Morocco,3.653524372376392,People,Usage and ownership
-Morocco,3.640951100440934,People,
+Morocco,3.9400027742999995,People,Digital Literacy Skills
+Morocco,2.830544307708708,People,Digital Wellbeing
+Morocco,3.6535243723763915,People,Usage and ownership
+Morocco,3.735726849908775,People,
 Morocco,3.65,Regulation,Cybersecurity
 Morocco,3.5,Regulation,Ethical Standards
 Morocco,3.575,Regulation,
 Morocco,4.525,Strategy,Ambition
-Morocco,3.29907402410622,,
+Morocco,3.285595780516818,,
 Mozambique,1.868938565,Business,Financing Incentives
 Mozambique,2.5921471149333337,Business,Startup Environment
 Mozambique,2.013,Business,Technology Adoption
 Mozambique,2.1580285599777778,Business,
 Mozambique,1.6,Foundations,Data Exchange
-Mozambique,2.7625,Foundations,Digital Legal Identity
+Mozambique,2.7625000000000006,Foundations,Digital Legal Identity
 Mozambique,2.2,Foundations,Digital Payments
 Mozambique,2.1875000000000004,Foundations,
 Mozambique,2.402333333333333,Government,Digital public services
 Mozambique,1.8675942931429608,Infrastructure,Connectivity Technology
-Mozambique,1.4545656301791667,Infrastructure,Innovation Ecosystem
-Mozambique,1.6610799616610636,Infrastructure,
+Mozambique,1.454565630179167,Infrastructure,Innovation Ecosystem
+Mozambique,1.6610799616610639,Infrastructure,
 Mozambique,2.7807682035,People,Culture
 Mozambique,3.111,People,Digital Literacy Skills
 Mozambique,2.78031914580285,People,Digital Wellbeing
-Mozambique,1.966385712870378,People,Usage and ownership
+Mozambique,1.9663857128703779,People,Usage and ownership
 Mozambique,2.659618265543307,People,
 Mozambique,3.05,Regulation,Ethical Standards
 Mozambique,3.555,Strategy,Ambition
@@ -2491,15 +2491,15 @@ Myanmar,2.1875831933333334,Business,Startup Environment
 Myanmar,2.2,Business,Technology Adoption
 Myanmar,2.193791596666667,Business,
 Myanmar,1.05,Foundations,Data Exchange
-Myanmar,1.6,Foundations,Digital Legal Identity
+Myanmar,1.6000000000000003,Foundations,Digital Legal Identity
 Myanmar,1.5357142857142858,Foundations,Digital Payments
 Myanmar,1.3952380952380954,Foundations,
 Myanmar,2.355140186915888,Government,Capabilities
 Myanmar,1.5345000000000002,Government,Digital public services
 Myanmar,1.944820093457944,Government,
-Myanmar,1.9869333697906943,Infrastructure,Connectivity Technology
+Myanmar,2.536723242620712,Infrastructure,Connectivity Technology
 Myanmar,0.5285730758625,Infrastructure,Innovation Ecosystem
-Myanmar,1.5008132718146296,Infrastructure,
+Myanmar,1.532648159241606,Infrastructure,
 Myanmar,4.1807512285,People,Culture
 Myanmar,3.5625,People,Digital Literacy Skills
 Myanmar,2.148893910871682,People,Digital Wellbeing
@@ -2509,7 +2509,7 @@ Myanmar,1.85,Regulation,Cybersecurity
 Myanmar,3.1,Regulation,Ethical Standards
 Myanmar,2.475,Regulation,
 Myanmar,4.245,Strategy,Ambition
-Myanmar,2.2573897971648993,,
+Myanmar,2.291751664216775,,
 Namibia,2.6720203558333333,Business,Financing Incentives
 Namibia,3.608475673966667,Business,Startup Environment
 Namibia,2.6628,Business,Technology Adoption
@@ -2548,9 +2548,9 @@ Nepal,2.9547619047619045,Foundations,
 Nepal,3.149532710280374,Government,Capabilities
 Nepal,1.9483333333333333,Government,Digital public services
 Nepal,2.5489330218068535,Government,
-Nepal,1.7359088074488036,Infrastructure,Connectivity Technology
-Nepal,1.9118786807133328,Infrastructure,Innovation Ecosystem
-Nepal,1.7945654318703133,Infrastructure,
+Nepal,2.7975314511069995,Infrastructure,Connectivity Technology
+Nepal,1.911878680713333,Infrastructure,Innovation Ecosystem
+Nepal,2.3547050659101663,Infrastructure,
 Nepal,2.3,People,Culture
 Nepal,3.7025,People,Digital Literacy Skills
 Nepal,2.7996034375875545,People,Digital Wellbeing
@@ -2558,7 +2558,7 @@ Nepal,2.822528545241154,People,Usage and ownership
 Nepal,2.906157995707177,People,
 Nepal,3.65,Regulation,Ethical Standards
 Nepal,4.325,Strategy,Ambition
-Nepal,2.8765999129702253,,
+Nepal,2.942951328198862,,
 Netherlands (the),3.8194006283333337,Business,Financing Incentives
 Netherlands (the),3.5547578371395905,Business,Startup Environment
 Netherlands (the),4.7709600625,Business,Technology Adoption
@@ -2571,8 +2571,8 @@ Netherlands (the),5.252336448598131,Government,Capabilities
 Netherlands (the),4.667376960961303,Government,Digital public services
 Netherlands (the),4.9598567047797175,Government,
 Netherlands (the),4.426594099542284,Infrastructure,Connectivity Technology
-Netherlands (the),2.5997129515605684,Infrastructure,Innovation Ecosystem
-Netherlands (the),3.2086733342211406,Infrastructure,
+Netherlands (the),3.2257936312466886,Infrastructure,Innovation Ecosystem
+Netherlands (the),3.8261938653944867,Infrastructure,
 Netherlands (the),4.7318704445,People,Culture
 Netherlands (the),4.8337318519,People,Digital Literacy Skills
 Netherlands (the),4.071022426828064,People,Digital Wellbeing
@@ -2580,7 +2580,7 @@ Netherlands (the),4.362350276074287,People,Usage and ownership
 Netherlands (the),4.499743749825588,People,
 Netherlands (the),5.2,Regulation,Ethical Standards
 Netherlands (the),5.08,Strategy,Ambition
-Netherlands (the),4.444620405496098,,
+Netherlands (the),4.48375044797648,,
 New Caledonia,4.629590066860075,Infrastructure,Connectivity Technology
 New Caledonia,2.302,People,Usage and ownership
 New Caledonia,3.4657950334300374,,
@@ -2601,18 +2601,18 @@ New Zealand,2.9543415650388885,Infrastructure,Innovation Ecosystem
 New Zealand,3.503465243363596,Infrastructure,
 New Zealand,5.2975,People,Culture
 New Zealand,3.5065,People,Digital Literacy Skills
-New Zealand,3.4337699934595944,People,Digital Wellbeing
+New Zealand,3.8027944513621335,People,Digital Wellbeing
 New Zealand,3.912740993716588,People,Usage and ownership
-New Zealand,3.9168561961271555,People,
+New Zealand,4.129883861269681,People,
 New Zealand,5.15,Regulation,Ethical Standards
 New Zealand,4.955,Strategy,Ambition
-New Zealand,4.155450412761165,,
+New Zealand,4.177157733814256,,
 Nicaragua,1.981645186666667,Business,Financing Incentives
 Nicaragua,2.978444444444444,Business,Startup Environment
 Nicaragua,2.45,Business,Technology Adoption
 Nicaragua,2.470029877037037,Business,
 Nicaragua,4.325,Foundations,Digital Legal Identity
-Nicaragua,1.8571428571428568,Foundations,Digital Payments
+Nicaragua,1.8571428571428565,Foundations,Digital Payments
 Nicaragua,3.0910714285714285,Foundations,
 Nicaragua,1.5607476635514017,Government,Capabilities
 Nicaragua,2.4515,Government,Digital public services
@@ -2629,7 +2629,7 @@ Nicaragua,3.4,Regulation,Cybersecurity
 Nicaragua,2.95,Regulation,Ethical Standards
 Nicaragua,3.175,Regulation,
 Nicaragua,4.315,Strategy,Ambition
-Nicaragua,3.0269433285524605,,
+Nicaragua,3.02694332855246,,
 Niger (the),3.496710986625,Business,Startup Environment
 Niger (the),1.28,Business,Technology Adoption
 Niger (the),2.3883554933125,Business,
@@ -2684,25 +2684,25 @@ North America,5.300000000000001,People,Usage and ownership
 North America,4.731663099146778,,
 North Cyprus,3.768,People,Digital Wellbeing
 North Macedonia,2.395031015,Business,Financing Incentives
-North Macedonia,4.399361968583333,Business,Startup Environment
+North Macedonia,4.4254843623,Business,Startup Environment
 North Macedonia,3.4626999999999994,Business,Technology Adoption
-North Macedonia,3.664113738041667,Business,
+North Macedonia,3.4277384591,Business,
 North Macedonia,2.55,Foundations,Data Exchange
-North Macedonia,5.25,Foundations,Digital Legal Identity
+North Macedonia,4.875,Foundations,Digital Legal Identity
 North Macedonia,3.4285714285714284,Foundations,Digital Payments
-North Macedonia,4.119642857142857,Foundations,
-North Macedonia,3.7439845969625294,Government,Digital public services
-North Macedonia,2.804233531755228,Infrastructure,Connectivity Technology
-North Macedonia,1.9793850619166666,Infrastructure,Innovation Ecosystem
-North Macedonia,2.3918092968359472,Infrastructure,
+North Macedonia,3.6178571428571424,Foundations,
+North Macedonia,3.743984596962529,Government,Digital public services
+North Macedonia,3.933082196987253,Infrastructure,Connectivity Technology
+North Macedonia,1.8365775928749999,Infrastructure,Innovation Ecosystem
+North Macedonia,2.8848298949311264,Infrastructure,
 North Macedonia,1.8283984185,People,Culture
 North Macedonia,4.977271219125,People,Digital Literacy Skills
-North Macedonia,2.2289982674041653,People,Digital Wellbeing
-North Macedonia,3.3112688697158013,People,Usage and ownership
-North Macedonia,2.981033985310822,People,
+North Macedonia,2.6248321782694437,People,Digital Wellbeing
+North Macedonia,3.2388945140804024,People,Usage and ownership
+North Macedonia,3.167349082493711,People,
 North Macedonia,3.65,Regulation,Ethical Standards
 North Macedonia,4.625,Strategy,Ambition
-North Macedonia,3.3756136251689433,,
+North Macedonia,3.4396551681780703,,
 Northern Ireland,4.35,Foundations,Data Exchange
 Northern Mariana Islands,6.0,Infrastructure,Connectivity Technology
 Northern Mariana Islands,4.1035,People,Usage and ownership
@@ -2809,9 +2809,9 @@ Panama,2.986904761904762,Foundations,
 Panama,1.3271028037383177,Government,Capabilities
 Panama,2.6779999999999995,Government,Digital public services
 Panama,2.002551401869159,Government,
-Panama,2.732775866296585,Infrastructure,Connectivity Technology
+Panama,3.538788613784771,Infrastructure,Connectivity Technology
 Panama,1.9220543378,Infrastructure,Innovation Ecosystem
-Panama,2.4625353567977233,Infrastructure,
+Panama,2.7304214757923853,Infrastructure,
 Panama,5.486214447,People,Culture
 Panama,4.313546795375,People,Digital Literacy Skills
 Panama,3.160569962037321,People,Digital Wellbeing
@@ -2819,9 +2819,9 @@ Panama,2.974167735801326,People,Usage and ownership
 Panama,3.9836247350534117,People,
 Panama,3.6,Regulation,Ethical Standards
 Panama,4.4,Strategy,Ambition
-Panama,3.21892737659976,,
+Panama,3.2693031733177724,,
 Papua New Guinea,4.378,Business,Startup Environment
-Papua New Guinea,2.9875,Foundations,Digital Legal Identity
+Papua New Guinea,2.9874999999999994,Foundations,Digital Legal Identity
 Papua New Guinea,1.3963333333333334,Government,Digital public services
 Papua New Guinea,2.1048918262182905,Infrastructure,Connectivity Technology
 Papua New Guinea,4.8,People,Culture
@@ -2830,7 +2830,7 @@ Papua New Guinea,1.064076556541242,People,Digital Wellbeing
 Papua New Guinea,1.928767149222222,People,Usage and ownership
 Papua New Guinea,2.386523426440866,People,
 Papua New Guinea,3.565,Strategy,Ambition
-Papua New Guinea,2.6642020961461212,,
+Papua New Guinea,2.664202096146121,,
 Paraguay,2.5831921500000004,Business,Financing Incentives
 Paraguay,2.905125431733333,Business,Startup Environment
 Paraguay,2.87,Business,Technology Adoption
@@ -2867,7 +2867,7 @@ Peru,3.0679658680809103,Infrastructure,Connectivity Technology
 Peru,1.692400464727778,Infrastructure,Innovation Ecosystem
 Peru,2.3801831664043442,Infrastructure,
 Peru,5.486214447,People,Culture
-Peru,3.7535834839,People,Digital Literacy Skills
+Peru,3.7535834839000004,People,Digital Literacy Skills
 Peru,3.6468019724369634,People,Digital Wellbeing
 Peru,3.5087654635912697,People,Usage and ownership
 Peru,4.098841341732058,People,
@@ -2876,7 +2876,7 @@ Peru,4.555,Strategy,Ambition
 Peru,3.399311074948952,,
 Philippines (the),3.1328856550000004,Business,Financing Incentives
 Philippines (the),3.303546116733334,Business,Startup Environment
-Philippines (the),3.4855,Business,Technology Adoption
+Philippines (the),3.4855000000000005,Business,Technology Adoption
 Philippines (the),3.307310590577778,Business,
 Philippines (the),2.5,Foundations,Data Exchange
 Philippines (the),2.8125,Foundations,Digital Legal Identity
@@ -2900,7 +2900,7 @@ Philippines (the),4.225,Strategy,Ambition
 Philippines (the),3.2125857847994537,,
 Poland,2.587129036666667,Business,Financing Incentives
 Poland,3.85143812353091,Business,Startup Environment
-Poland,3.618753833333333,Business,Technology Adoption
+Poland,3.6187538333333324,Business,Technology Adoption
 Poland,3.35244033117697,Business,
 Poland,3.45,Foundations,Data Exchange
 Poland,4.475,Foundations,Digital Legal Identity
@@ -2937,8 +2937,8 @@ Portugal,3.545589192241672,Infrastructure,
 Portugal,4.09519309125,People,Culture
 Portugal,4.1889279797,People,Digital Literacy Skills
 Portugal,3.3714117094763623,People,Digital Wellbeing
-Portugal,3.716117279005432,People,Usage and ownership
-Portugal,3.842912514857949,People,
+Portugal,3.7161172790054318,People,Usage and ownership
+Portugal,3.8429125148579484,People,
 Portugal,4.5,Regulation,Ethical Standards
 Portugal,4.93,Strategy,Ambition
 Portugal,3.9227180328801476,,
@@ -2976,48 +2976,48 @@ Qatar,4.455895026545392,People,
 Qatar,4.335,Strategy,Ambition
 Qatar,3.964140820968419,,
 Republic of Korea (the),3.025000055833333,Business,Financing Incentives
-Republic of Korea (the),3.303805940723455,Business,Startup Environment
-Republic of Korea (the),3.643625,Business,Technology Adoption
-Republic of Korea (the),3.4096132682862423,Business,
+Republic of Korea (the),3.8538760958154312,Business,Startup Environment
+Republic of Korea (the),4.043499999999999,Business,Technology Adoption
+Republic of Korea (the),3.6407920505495874,Business,
 Republic of Korea (the),4.5,Foundations,Digital Legal Identity
 Republic of Korea (the),5.204,Foundations,Digital Payments
 Republic of Korea (the),4.852,Foundations,
 Republic of Korea (the),3.102803738317757,Government,Capabilities
-Republic of Korea (the),4.8665621000348525,Government,Digital public services
+Republic of Korea (the),4.723700417915649,Government,Digital public services
 Republic of Korea (the),1.0,Government,Funding and procurement
-Republic of Korea (the),3.740498007684463,Government,
-Republic of Korea (the),4.744674225469072,Infrastructure,Connectivity Technology
-Republic of Korea (the),3.3459107108269457,Infrastructure,Innovation Ecosystem
-Republic of Korea (the),4.325045171076434,Infrastructure,
+Republic of Korea (the),2.9421680520778017,Government,
+Republic of Korea (the),4.657624034745052,Infrastructure,Connectivity Technology
+Republic of Korea (the),3.1808137474917877,Infrastructure,Innovation Ecosystem
+Republic of Korea (the),3.91921889111842,Infrastructure,
 Republic of Korea (the),4.507296257,People,Culture
-Republic of Korea (the),4.228637267277777,People,Digital Literacy Skills
-Republic of Korea (the),3.305062516603395,People,Digital Wellbeing
-Republic of Korea (the),4.513338794550093,People,Usage and ownership
-Republic of Korea (the),4.2608201627954365,People,
+Republic of Korea (the),4.8601470811,People,Digital Literacy Skills
+Republic of Korea (the),3.4163733602501245,People,Digital Wellbeing
+Republic of Korea (the),4.9395978883438545,People,Usage and ownership
+Republic of Korea (the),4.430853646673494,People,
 Republic of Korea (the),4.35,Regulation,Cybersecurity
 Republic of Korea (the),4.65,Regulation,Ethical Standards
 Republic of Korea (the),4.5,Regulation,
 Republic of Korea (the),4.93,Strategy,Ambition
-Republic of Korea (the),3.9541598003903924,,
+Republic of Korea (the),4.055572510400765,,
 Republic of Moldova (the),2.229695876666667,Business,Financing Incentives
-Republic of Moldova (the),3.9569779115555557,Business,Startup Environment
-Republic of Moldova (the),3.7435625000000003,Business,Technology Adoption
-Republic of Moldova (the),3.5261553399555554,Business,
+Republic of Moldova (the),3.979604551466667,Business,Startup Environment
+Republic of Moldova (the),3.2657000000000003,Business,Technology Adoption
+Republic of Moldova (the),3.158333476044445,Business,
 Republic of Moldova (the),4.5,Foundations,Digital Legal Identity
 Republic of Moldova (the),2.8285714285714287,Foundations,Digital Payments
 Republic of Moldova (the),3.6642857142857146,Foundations,
-Republic of Moldova (the),3.0156455259453385,Government,Digital public services
-Republic of Moldova (the),3.5910495009771033,Infrastructure,Connectivity Technology
-Republic of Moldova (the),2.2120045271249995,Infrastructure,Innovation Ecosystem
-Republic of Moldova (the),3.039431511436262,Infrastructure,
+Republic of Moldova (the),3.6060970172968925,Government,Digital public services
+Republic of Moldova (the),3.426562931223565,Infrastructure,Connectivity Technology
+Republic of Moldova (the),2.1562159304666664,Infrastructure,Innovation Ecosystem
+Republic of Moldova (the),2.7913894308451157,Infrastructure,
 Republic of Moldova (the),4.68828125,People,Culture
 Republic of Moldova (the),4.715999999999999,People,Digital Literacy Skills
 Republic of Moldova (the),3.0220267158212644,People,Digital Wellbeing
-Republic of Moldova (the),2.91226629189614,People,Usage and ownership
-Republic of Moldova (the),3.5271844735849474,People,
+Republic of Moldova (the),2.7544391005507363,People,Usage and ownership
+Republic of Moldova (the),3.795186766593,People,
 Republic of Moldova (the),3.5,Regulation,Ethical Standards
 Republic of Moldova (the),4.6850000000000005,Strategy,Ambition
-Republic of Moldova (the),3.5429343948970353,,
+Republic of Moldova (the),3.5255853430045634,,
 Romania,2.3733041283333334,Business,Financing Incentives
 Romania,3.7324271414699903,Business,Startup Environment
 Romania,3.778,Business,Technology Adoption
@@ -3041,29 +3041,29 @@ Romania,4.15,Regulation,Ethical Standards
 Romania,4.75,Strategy,Ambition
 Romania,3.7627093009403954,,
 Russian Federation (the),2.464255253333333,Business,Financing Incentives
-Russian Federation (the),2.6772646265801328,Business,Startup Environment
-Russian Federation (the),2.82435,Business,Technology Adoption
-Russian Federation (the),2.6934969012987198,Business,
+Russian Federation (the),3.7923189059933775,Business,Startup Environment
+Russian Federation (the),3.51725,Business,Technology Adoption
+Russian Federation (the),3.257941386442237,Business,
 Russian Federation (the),3.15,Foundations,Data Exchange
 Russian Federation (the),4.5,Foundations,Digital Legal Identity
 Russian Federation (the),3.9785714285714286,Foundations,Digital Payments
 Russian Federation (the),3.8761904761904766,Foundations,
 Russian Federation (the),5.626168224299065,Government,Capabilities
-Russian Federation (the),4.349132832608907,Government,Digital public services
-Russian Federation (the),4.774811296505626,Government,
-Russian Federation (the),3.0573056726834524,Infrastructure,Connectivity Technology
-Russian Federation (the),2.2602874321740476,Infrastructure,Innovation Ecosystem
-Russian Federation (the),2.65879655242875,Infrastructure,
+Russian Federation (the),4.307222557025426,Government,Digital public services
+Russian Federation (the),4.966695390662245,Government,
+Russian Federation (the),3.7838488022174177,Infrastructure,Connectivity Technology
+Russian Federation (the),2.320872385297993,Infrastructure,Innovation Ecosystem
+Russian Federation (the),3.0523605937577054,Infrastructure,
 Russian Federation (the),4.638114891,People,Culture
-Russian Federation (the),3.2846726102500003,People,Digital Literacy Skills
-Russian Federation (the),3.461825713635421,People,Digital Wellbeing
-Russian Federation (the),4.003286997414244,People,Usage and ownership
-Russian Federation (the),3.846975053074916,People,
+Russian Federation (the),4.4364761764,People,Digital Literacy Skills
+Russian Federation (the),3.7050192422651356,People,Digital Wellbeing
+Russian Federation (the),4.361799704131479,People,Usage and ownership
+Russian Federation (the),4.285352503449154,People,
 Russian Federation (the),2.5,Regulation,Cybersecurity
 Russian Federation (the),3.35,Regulation,Ethical Standards
 Russian Federation (the),2.925,Regulation,
 Russian Federation (the),4.69,Strategy,Ambition
-Russian Federation (the),3.5773668048558838,,
+Russian Federation (the),3.8307010335608624,,
 Russian Federation Moscow,4.8795,Business,Startup Environment
 Russian Federation Saint Petersburg,4.842499999999999,Business,Startup Environment
 Rwanda,3.2178411483333336,Business,Financing Incentives
@@ -3098,13 +3098,13 @@ Saint Kitts and Nevis,1.2,Foundations,Data Exchange
 Saint Kitts and Nevis,4.45,Foundations,Digital Legal Identity
 Saint Kitts and Nevis,2.825,Foundations,
 Saint Kitts and Nevis,2.8185,Government,Digital public services
-Saint Kitts and Nevis,2.024734433634339,Infrastructure,Connectivity Technology
+Saint Kitts and Nevis,1.3745573893905654,Infrastructure,Connectivity Technology
 Saint Kitts and Nevis,2.50875,People,Digital Literacy Skills
 Saint Kitts and Nevis,1.918659042828476,People,Digital Wellbeing
 Saint Kitts and Nevis,1.8271,People,Usage and ownership
 Saint Kitts and Nevis,2.084836347609492,People,
 Saint Kitts and Nevis,4.15,Regulation,Ethical Standards
-Saint Kitts and Nevis,2.6998233492366097,,
+Saint Kitts and Nevis,2.627581455431746,,
 Saint Lucia,3.6171666666666655,Business,Startup Environment
 Saint Lucia,1.75,Foundations,Data Exchange
 Saint Lucia,4.475,Foundations,Digital Legal Identity
@@ -3112,14 +3112,14 @@ Saint Lucia,3.1125,Foundations,
 Saint Lucia,2.074766355140187,Government,Capabilities
 Saint Lucia,2.93825,Government,Digital public services
 Saint Lucia,2.5065081775700935,Government,
-Saint Lucia,2.589230228897825,Infrastructure,Connectivity Technology
+Saint Lucia,2.2430279630926067,Infrastructure,Connectivity Technology
 Saint Lucia,6.0,People,Culture
 Saint Lucia,2.30125,People,Digital Literacy Skills
 Saint Lucia,1.643209425485368,People,Digital Wellbeing
 Saint Lucia,2.9206875,People,Usage and ownership
 Saint Lucia,3.216286731371342,People,
 Saint Lucia,4.1,Regulation,Ethical Standards
-Saint Lucia,3.1281418341990945,,
+Saint Lucia,3.0966689009440747,,
 Saint Martin,3.76375,People,Usage and ownership
 Saint Martin (Dutch Part),6.0,Infrastructure,Connectivity Technology
 Saint Martin (French Part),6.0,Infrastructure,Connectivity Technology
@@ -3129,14 +3129,14 @@ Saint Vincent and the Grenadines,1.35,Foundations,Data Exchange
 Saint Vincent and the Grenadines,4.5,Foundations,Digital Legal Identity
 Saint Vincent and the Grenadines,2.925,Foundations,
 Saint Vincent and the Grenadines,3.33725,Government,Digital public services
-Saint Vincent and the Grenadines,2.806016786382748,Infrastructure,Connectivity Technology
+Saint Vincent and the Grenadines,2.634855127308702,Infrastructure,Connectivity Technology
 Saint Vincent and the Grenadines,6.0,People,Culture
 Saint Vincent and the Grenadines,2.3035,People,Digital Literacy Skills
 Saint Vincent and the Grenadines,1.5857355805602449,People,Digital Wellbeing
 Saint Vincent and the Grenadines,2.9939375,People,Usage and ownership
 Saint Vincent and the Grenadines,3.220793270140061,People,
 Saint Vincent and the Grenadines,4.2,Regulation,Ethical Standards
-Saint Vincent and the Grenadines,3.2526856533609667,,
+Saint Vincent and the Grenadines,3.2355694874535623,,
 Samoa,4.469250000000001,Business,Startup Environment
 Samoa,1.4875,Foundations,Digital Legal Identity
 Samoa,1.5245,Government,Digital public services
@@ -3158,13 +3158,13 @@ San Marino,2.3135543097582993,,
 Sao Tome and Principe,2.1285,Business,Startup Environment
 Sao Tome and Principe,4.475,Foundations,Digital Legal Identity
 Sao Tome and Principe,1.4158333333333335,Government,Digital public services
-Sao Tome and Principe,2.6317015738124123,Infrastructure,Connectivity Technology
+Sao Tome and Principe,2.296636131222067,Infrastructure,Connectivity Technology
 Sao Tome and Principe,4.368,People,Digital Literacy Skills
 Sao Tome and Principe,1.0742754150924243,People,Digital Wellbeing
 Sao Tome and Principe,1.608625,People,Usage and ownership
 Sao Tome and Principe,2.3503001383641418,People,
 Sao Tome and Principe,3.94,Strategy,Ambition
-Sao Tome and Principe,2.705241915279771,,
+Sao Tome and Principe,2.663358734955978,,
 Saudi Arabia,3.85269022,Business,Financing Incentives
 Saudi Arabia,3.789485515633333,Business,Startup Environment
 Saudi Arabia,3.3849,Business,Technology Adoption
@@ -3246,7 +3246,7 @@ Sierra Leone,2.1734444444444443,Business,Startup Environment
 Sierra Leone,1.72,Business,Technology Adoption
 Sierra Leone,1.9467222222222222,Business,
 Sierra Leone,5.125,Foundations,Digital Legal Identity
-Sierra Leone,1.5071428571428571,Foundations,Digital Payments
+Sierra Leone,1.5071428571428573,Foundations,Digital Payments
 Sierra Leone,3.3160714285714286,Foundations,
 Sierra Leone,1.1401869158878508,Government,Capabilities
 Sierra Leone,1.8313333333333333,Government,Digital public services
@@ -3287,28 +3287,28 @@ Singapore,4.325,Regulation,
 Singapore,4.495,Strategy,Ambition
 Singapore,4.441072271562547,,
 Slovakia,3.1822826066666665,Business,Financing Incentives
-Slovakia,3.8859521051437165,Business,Startup Environment
-Slovakia,3.886663883333334,Business,Technology Adoption
-Slovakia,3.7455029167241536,Business,
+Slovakia,3.6827953833582883,Business,Startup Environment
+Slovakia,3.9375729125000003,Business,Technology Adoption
+Slovakia,3.6008836341749855,Business,
 Slovakia,3.35,Foundations,Data Exchange
 Slovakia,4.5,Foundations,Digital Legal Identity
 Slovakia,4.5285714285714285,Foundations,Digital Payments
 Slovakia,4.126190476190476,Foundations,
 Slovakia,3.850467289719626,Government,Capabilities
-Slovakia,3.1944996734266677,Government,Digital public services
-Slovakia,3.4131555455243205,Government,
-Slovakia,4.063783262615928,Infrastructure,Connectivity Technology
-Slovakia,2.6584540341666667,Infrastructure,Innovation Ecosystem
-Slovakia,3.3611186483912974,Infrastructure,
+Slovakia,3.6463331156177787,Government,Digital public services
+Slovakia,3.7484002026687024,Government,
+Slovakia,4.135182661892619,Infrastructure,Connectivity Technology
+Slovakia,2.4224460416666664,Infrastructure,Innovation Ecosystem
+Slovakia,3.278814351779643,Infrastructure,
 Slovakia,4.17369513675,People,Culture
 Slovakia,5.142895933,People,Digital Literacy Skills
-Slovakia,4.120541394269828,People,Digital Wellbeing
-Slovakia,4.143883922172162,People,Usage and ownership
-Slovakia,4.2884481199119975,People,
+Slovakia,4.079149673123792,People,Digital Wellbeing
+Slovakia,3.889806536953605,People,Usage and ownership
+Slovakia,4.3213868199568495,People,
 Slovakia,4.98,Strategy,Ambition
-Slovakia,3.9774460446557356,,
+Slovakia,3.9667465813213654,,
 Slovenia,2.8969080841666663,Business,Financing Incentives
-Slovenia,3.8068072235,Business,Startup Environment
+Slovenia,3.8068072235000003,Business,Startup Environment
 Slovenia,3.369147625,Business,Technology Adoption
 Slovenia,3.3576209775555554,Business,
 Slovenia,3.45,Foundations,Data Exchange
@@ -3362,14 +3362,14 @@ South Africa,4.1625,Foundations,Digital Legal Identity
 South Africa,3.2214285714285715,Foundations,Digital Payments
 South Africa,3.4613095238095237,Foundations,
 South Africa,4.08411214953271,Government,Capabilities
-South Africa,3.490125,Government,Digital public services
+South Africa,3.4901250000000004,Government,Digital public services
 South Africa,3.787118574766355,Government,
 South Africa,3.357536094460291,Infrastructure,Connectivity Technology
 South Africa,1.9771883640222223,Infrastructure,Innovation Ecosystem
 South Africa,2.667362229241257,Infrastructure,
 South Africa,4.169286823249999,People,Culture
 South Africa,3.2877499999999995,People,Digital Literacy Skills
-South Africa,3.747130820197568,People,Digital Wellbeing
+South Africa,3.7471308201975675,People,Digital Wellbeing
 South Africa,3.6049448170685134,People,Usage and ownership
 South Africa,3.70227811512902,People,
 South Africa,4.65,Regulation,Cybersecurity
@@ -3436,12 +3436,12 @@ State of Palestine (the),4.144416666666666,Business,Startup Environment
 State of Palestine (the),3.9375,Foundations,Digital Legal Identity
 State of Palestine (the),1.657142857142857,Foundations,Digital Payments
 State of Palestine (the),2.7973214285714283,Foundations,
-State of Palestine (the),3.593391323124759,Infrastructure,Connectivity Technology
+State of Palestine (the),2.8785797539577707,Infrastructure,Connectivity Technology
 State of Palestine (the),4.530327288166666,People,Digital Literacy Skills
 State of Palestine (the),3.2585,People,Digital Wellbeing
-State of Palestine (the),3.5672284717333334,People,Usage and ownership
-State of Palestine (the),3.6981025406733337,People,
-State of Palestine (the),3.5269295152620406,,
+State of Palestine (the),3.7435533845,People,Usage and ownership
+State of Palestine (the),3.844126890888889,People,
+State of Palestine (the),3.4500028500619946,,
 Sub-Saharan Africa,3.144097222083333,Business,Startup Environment
 Sub-Saharan Africa,2.1785714285714284,Foundations,Digital Payments
 Sub-Saharan Africa,3.4662421397500003,Infrastructure,Connectivity Technology
@@ -3458,24 +3458,24 @@ Sub-Saharan Africa (excluding high income),2.275,People,Usage and ownership
 Sub-Saharan Africa (excluding high income),2.740701672497024,,
 Sudan (the),2.5730833333333334,Business,Startup Environment
 Sudan (the),2.085,Business,Technology Adoption
-Sudan (the),2.410388888888889,Business,
+Sudan (the),2.329041666666667,Business,
 Sudan (the),2.68125,Foundations,Digital Legal Identity
 Sudan (the),1.1142857142857143,Foundations,Digital Payments
-Sudan (the),2.1589285714285715,Foundations,
+Sudan (the),1.8977678571428571,Foundations,
 Sudan (the),1.981308411214953,Government,Capabilities
 Sudan (the),1.12,Government,Digital public services
-Sudan (the),1.4071028037383178,Government,
-Sudan (the),2.099932131612298,Infrastructure,Connectivity Technology
+Sudan (the),1.5506542056074766,Government,
+Sudan (the),2.1903307091747863,Infrastructure,Connectivity Technology
 Sudan (the),3.0363359452500003,People,Culture
 Sudan (the),1.8863750000000001,People,Digital Literacy Skills
 Sudan (the),1.09379807033611,People,Digital Wellbeing
-Sudan (the),2.0268779741971428,People,Usage and ownership
-Sudan (the),2.141853701318628,People,
+Sudan (the),1.9349114862776189,People,Usage and ownership
+Sudan (the),1.9878551254659322,People,
 Sudan (the),2.65,Regulation,Cybersecurity
 Sudan (the),3.21,Strategy,Ambition
-Sudan (the),2.1198651215561197,,
+Sudan (the),2.1197445130671166,,
 Suriname,2.6179166666666664,Business,Startup Environment
-Suriname,3.8,Foundations,Digital Legal Identity
+Suriname,3.7999999999999994,Foundations,Digital Legal Identity
 Suriname,1.5636666666666663,Government,Digital public services
 Suriname,3.3046153126862072,Infrastructure,Connectivity Technology
 Suriname,3.000175667,People,Culture
@@ -3485,7 +3485,7 @@ Suriname,2.7789267425625,People,Usage and ownership
 Suriname,3.0012871448402016,People,
 Suriname,3.5,Regulation,Ethical Standards
 Suriname,4.35,Strategy,Ambition
-Suriname,3.114134722538035,,
+Suriname,3.1141347225380343,,
 Sweden,3.817937533333333,Business,Financing Incentives
 Sweden,4.057449908719652,Business,Startup Environment
 Sweden,4.6664300625,Business,Technology Adoption
@@ -3535,29 +3535,29 @@ Syrian Arab Republic (the),2.055,Business,Technology Adoption
 Syrian Arab Republic (the),2.1512916666666664,Business,
 Syrian Arab Republic (the),3.75,Foundations,Digital Legal Identity
 Syrian Arab Republic (the),2.4218333333333333,Government,Digital public services
-Syrian Arab Republic (the),2.7164289667564474,Infrastructure,Connectivity Technology
+Syrian Arab Republic (the),2.4698753497133374,Infrastructure,Connectivity Technology
 Syrian Arab Republic (the),3.5365,People,Digital Literacy Skills
-Syrian Arab Republic (the),2.1578749999999998,People,Usage and ownership
-Syrian Arab Republic (the),2.6174166666666667,People,
+Syrian Arab Republic (the),1.8498333333333334,People,Usage and ownership
+Syrian Arab Republic (the),2.693166666666667,People,
 Syrian Arab Republic (the),3.9,Strategy,Ambition
-Syrian Arab Republic (the),2.848152579177889,,
+Syrian Arab Republic (the),2.778828168714167,,
 Taiwan,3.5706887241666667,Business,Financing Incentives
 Taiwan,5.0975,Business,Startup Environment
 Taiwan,4.334094362083333,Business,
 Taiwan,5.5,Foundations,Data Exchange
-Taiwan,4.975,Foundations,Digital Legal Identity
+Taiwan,4.633333333333334,Foundations,Digital Legal Identity
 Taiwan,4.335714285714286,Foundations,Digital Payments
-Taiwan,4.946428571428571,Foundations,
+Taiwan,4.823015873015873,Foundations,
 Taiwan,4.878504672897196,Government,Capabilities
-Taiwan,3.5689053520868854,Infrastructure,Connectivity Technology
+Taiwan,3.341873802782514,Infrastructure,Connectivity Technology
 Taiwan,1.930592670943578,Infrastructure,Innovation Ecosystem
-Taiwan,3.0228011250391162,Infrastructure,
+Taiwan,2.636233236863046,Infrastructure,
 Taiwan,1.26,People,Digital Literacy Skills
-Taiwan,3.991466323296354,People,Digital Wellbeing
+Taiwan,3.891288431061806,People,Digital Wellbeing
 Taiwan,4.85675,People,Usage and ownership
-Taiwan,3.791286529318542,People,
+Taiwan,3.3360128103539353,People,
 Taiwan,5.0,Regulation,Cybersecurity
-Taiwan,4.080426835758748,,
+Taiwan,4.024687160074948,,
 Tajikistan,2.942382255833333,Business,Financing Incentives
 Tajikistan,4.194436475966667,Business,Startup Environment
 Tajikistan,2.1889,Business,Technology Adoption
@@ -3613,7 +3613,7 @@ Timor-Leste,2.349000442319715,,
 Togo,3.5118526705,Business,Startup Environment
 Togo,2.16,Business,Technology Adoption
 Togo,2.83592633525,Business,
-Togo,3.0125,Foundations,Digital Legal Identity
+Togo,3.0125000000000006,Foundations,Digital Legal Identity
 Togo,2.085714285714286,Foundations,Digital Payments
 Togo,2.5491071428571432,Foundations,
 Togo,2.353166666666666,Government,Digital public services
@@ -3735,9 +3735,9 @@ Uganda,2.2483791508333333,Business,Financing Incentives
 Uganda,3.614417536366667,Business,Startup Environment
 Uganda,2.2318,Business,Technology Adoption
 Uganda,2.698198895733333,Business,
-Uganda,3.8875,Foundations,Digital Legal Identity
+Uganda,3.8875000000000006,Foundations,Digital Legal Identity
 Uganda,2.6214285714285714,Foundations,Digital Payments
-Uganda,3.2544642857142856,Foundations,
+Uganda,3.254464285714286,Foundations,
 Uganda,4.317757009345795,Government,Capabilities
 Uganda,2.5896666666666666,Government,Digital public services
 Uganda,3.453711838006231,Government,
@@ -3747,7 +3747,7 @@ Uganda,2.0051547090893087,Infrastructure,
 Uganda,3.669667053,People,Culture
 Uganda,1.84875,People,Digital Literacy Skills
 Uganda,2.5281746485031613,People,Digital Wellbeing
-Uganda,1.9721894505664188,People,Usage and ownership
+Uganda,1.972189450566419,People,Usage and ownership
 Uganda,2.5046952880173947,People,
 Uganda,3.45,Regulation,Cybersecurity
 Uganda,3.0,Regulation,Ethical Standards
@@ -3793,14 +3793,14 @@ United Arab Emirates (the),2.2384171233361108,Infrastructure,Innovation Ecosyste
 United Arab Emirates (the),3.3721171372517142,Infrastructure,
 United Arab Emirates (the),5.17383594525,People,Culture
 United Arab Emirates (the),4.8088152183,People,Digital Literacy Skills
-United Arab Emirates (the),3.5848776278058434,People,Digital Wellbeing
-United Arab Emirates (the),5.296424845412158,People,Usage and ownership
-United Arab Emirates (the),4.47573339111312,People,
+United Arab Emirates (the),3.6450776698286482,People,Digital Wellbeing
+United Arab Emirates (the),4.729993044769361,People,Usage and ownership
+United Arab Emirates (the),4.589430469537002,People,
 United Arab Emirates (the),2.35,Regulation,Cybersecurity
 United Arab Emirates (the),4.25,Regulation,Ethical Standards
 United Arab Emirates (the),3.3,Regulation,
 United Arab Emirates (the),4.51,Strategy,Ambition
-United Arab Emirates (the),4.077464170028464,,
+United Arab Emirates (the),4.045824685114714,,
 United Kingdom of Great Britain and Northern Ireland (the),3.89632678,Business,Financing Incentives
 United Kingdom of Great Britain and Northern Ireland (the),4.212088269227292,Business,Startup Environment
 United Kingdom of Great Britain and Northern Ireland (the),3.767788888888889,Business,Technology Adoption
@@ -3810,61 +3810,61 @@ United Kingdom of Great Britain and Northern Ireland (the),2.8625,Foundations,Di
 United Kingdom of Great Britain and Northern Ireland (the),5.335714285714286,Foundations,Digital Payments
 United Kingdom of Great Britain and Northern Ireland (the),4.382738095238095,Foundations,
 United Kingdom of Great Britain and Northern Ireland (the),3.663551401869159,Government,Capabilities
-United Kingdom of Great Britain and Northern Ireland (the),4.348603033815375,Government,Digital public services
-United Kingdom of Great Britain and Northern Ireland (the),4.120252489833303,Government,
-United Kingdom of Great Britain and Northern Ireland (the),5.035471634753726,Infrastructure,Connectivity Technology
+United Kingdom of Great Britain and Northern Ireland (the),4.05082364057845,Government,Digital public services
+United Kingdom of Great Britain and Northern Ireland (the),3.8571875212238043,Government,
+United Kingdom of Great Britain and Northern Ireland (the),4.522315301267997,Infrastructure,Connectivity Technology
 United Kingdom of Great Britain and Northern Ireland (the),3.2682458440950404,Infrastructure,Innovation Ecosystem
-United Kingdom of Great Britain and Northern Ireland (the),4.446396371200831,Infrastructure,
+United Kingdom of Great Britain and Northern Ireland (the),3.8952805726815187,Infrastructure,
 United Kingdom of Great Britain and Northern Ireland (the),4.916516666666666,People,Culture
-United Kingdom of Great Britain and Northern Ireland (the),5.087315381374999,People,Digital Literacy Skills
-United Kingdom of Great Britain and Northern Ireland (the),4.7160137278745715,People,Digital Wellbeing
-United Kingdom of Great Britain and Northern Ireland (the),4.633713123837396,People,Usage and ownership
-United Kingdom of Great Britain and Northern Ireland (the),4.827228733262943,People,
+United Kingdom of Great Britain and Northern Ireland (the),4.7521046102,People,Digital Literacy Skills
+United Kingdom of Great Britain and Northern Ireland (the),4.428024023780501,People,Digital Wellbeing
+United Kingdom of Great Britain and Northern Ireland (the),4.40975294426945,People,Usage and ownership
+United Kingdom of Great Britain and Northern Ireland (the),4.626599561229154,People,
 United Kingdom of Great Britain and Northern Ireland (the),4.9,Regulation,Cybersecurity
 United Kingdom of Great Britain and Northern Ireland (the),4.95,Regulation,Ethical Standards
 United Kingdom of Great Britain and Northern Ireland (the),4.925000000000001,Regulation,
 United Kingdom of Great Britain and Northern Ireland (the),5.0,Strategy,Ambition
-United Kingdom of Great Britain and Northern Ireland (the),4.443755825771612,,
+United Kingdom of Great Britain and Northern Ireland (the),4.346220744503396,,
 United Republic of Tanzania (the),2.719933350833333,Business,Financing Incentives
-United Republic of Tanzania (the),3.489266871472222,Business,Startup Environment
-United Republic of Tanzania (the),2.5604375,Business,Technology Adoption
-United Republic of Tanzania (the),2.9638684187555553,Business,
+United Republic of Tanzania (the),3.5284023860666665,Business,Startup Environment
+United Republic of Tanzania (the),2.3987000000000003,Business,Technology Adoption
+United Republic of Tanzania (the),2.882345245633333,Business,
 United Republic of Tanzania (the),2.0,Foundations,Data Exchange
 United Republic of Tanzania (the),3.2875,Foundations,Digital Legal Identity
 United Republic of Tanzania (the),2.2857142857142856,Foundations,Digital Payments
 United Republic of Tanzania (the),2.5244047619047616,Foundations,
 United Republic of Tanzania (the),3.781,Government,Digital public services
-United Republic of Tanzania (the),1.8978844069250695,Infrastructure,Connectivity Technology
+United Republic of Tanzania (the),2.549206983545237,Infrastructure,Connectivity Technology
 United Republic of Tanzania (the),1.6448901154333335,Infrastructure,Innovation Ecosystem
-United Republic of Tanzania (the),1.8135529764278244,Infrastructure,
+United Republic of Tanzania (the),2.097048549489285,Infrastructure,
 United Republic of Tanzania (the),3.669667053,People,Culture
 United Republic of Tanzania (the),3.3295,People,Digital Literacy Skills
 United Republic of Tanzania (the),2.317982370977585,People,Digital Wellbeing
-United Republic of Tanzania (the),2.8854231956693743,People,Usage and ownership
-United Republic of Tanzania (the),3.0175991630632666,People,
+United Republic of Tanzania (the),2.2946412367455538,People,Usage and ownership
+United Republic of Tanzania (the),2.9029476651807844,People,
 United Republic of Tanzania (the),3.35,Regulation,Ethical Standards
 United Republic of Tanzania (the),3.82,Strategy,Ambition
-United Republic of Tanzania (the),2.869279943335014,,
+United Republic of Tanzania (the),2.865142518821066,,
 United States Los Angeles,5.044,Business,Startup Environment
 United States New York City,5.1995,Business,Startup Environment
-United States Virgin Islands,3.6947679676388923,Infrastructure,Connectivity Technology
+United States Virgin Islands,3.6715762208993,Infrastructure,Connectivity Technology
 United States Virgin Islands,2.0191666666666666,People,Usage and ownership
-United States Virgin Islands,2.8569673171527796,,
+United States Virgin Islands,2.8453714437829833,,
 United States of America (the),4.528901338333332,Business,Financing Incentives
-United States of America (the),5.425952913791667,Business,Startup Environment
-United States of America (the),4.401258928571428,Business,Technology Adoption
-United States of America (the),4.836665004611904,Business,
+United States of America (the),5.454038053638889,Business,Startup Environment
+United States of America (the),3.5807295918367346,Business,Technology Adoption
+United States of America (the),4.521222994602985,Business,
 United States of America (the),4.25,Foundations,Data Exchange
 United States of America (the),3.9,Foundations,Digital Legal Identity
 United States of America (the),5.23375,Foundations,Digital Payments
-United States of America (the),4.3209375,Foundations,
+United States of America (the),4.46125,Foundations,
 United States of America (the),4.691588785046729,Government,Capabilities
-United States of America (the),3.9272752151124344,Government,Digital public services
+United States of America (the),4.226520172089947,Government,Digital public services
 United States of America (the),6.0,Government,Funding and procurement
-United States of America (the),4.6365348038178995,Government,
-United States of America (the),4.360149931696674,Infrastructure,Connectivity Technology
-United States of America (the),4.149512625104167,Infrastructure,Innovation Ecosystem
-United States of America (the),4.25483127840042,Infrastructure,
+United States of America (the),4.972702985712226,Government,
+United States of America (the),4.399723788386443,Infrastructure,Connectivity Technology
+United States of America (the),4.228029098928571,Infrastructure,Innovation Ecosystem
+United States of America (the),4.313876443657508,Infrastructure,
 United States of America (the),5.2675,People,Culture
 United States of America (the),4.133671414333334,People,Digital Literacy Skills
 United States of America (the),3.8102118678547474,People,Digital Wellbeing
@@ -3874,7 +3874,7 @@ United States of America (the),4.75,Regulation,Cybersecurity
 United States of America (the),4.6,Regulation,Ethical Standards
 United States of America (the),4.675,Regulation,
 United States of America (the),4.8,Strategy,Ambition
-United States of America (the),4.5728558217714355,,
+United States of America (the),4.552016437916113,,
 Upper middle income,3.580128205,Business,Startup Environment
 Upper middle income,3.664285714285714,Foundations,Digital Payments
 Upper middle income,2.6571564661519926,Government,Digital public services
@@ -3899,7 +3899,7 @@ Uruguay,1.9832285587694445,Infrastructure,Innovation Ecosystem
 Uruguay,2.7858767822739825,Infrastructure,
 Uruguay,5.486214447,People,Culture
 Uruguay,5.1894851202500005,People,Digital Literacy Skills
-Uruguay,3.607884923603968,People,Digital Wellbeing
+Uruguay,3.6078849236039674,People,Digital Wellbeing
 Uruguay,4.346938244520134,People,Usage and ownership
 Uruguay,4.657630683843525,People,
 Uruguay,4.55,Regulation,Ethical Standards
@@ -3943,8 +3943,8 @@ Vatican,1.1,People,Usage and ownership
 Vatican,0.6214285714285714,,
 Venezuela (Bolivarian Republic of),1.887324015,Business,Financing Incentives
 Venezuela (Bolivarian Republic of),2.4457222222222224,Business,Startup Environment
-Venezuela (Bolivarian Republic of),3.043125,Business,Technology Adoption
-Venezuela (Bolivarian Republic of),2.6048240593055554,Business,
+Venezuela (Bolivarian Republic of),2.8289999999999997,Business,Technology Adoption
+Venezuela (Bolivarian Republic of),2.3873487457407405,Business,
 Venezuela (Bolivarian Republic of),1.7,Foundations,Data Exchange
 Venezuela (Bolivarian Republic of),3.7125,Foundations,Digital Legal Identity
 Venezuela (Bolivarian Republic of),3.685714285714286,Foundations,Digital Payments
@@ -3952,32 +3952,32 @@ Venezuela (Bolivarian Republic of),3.032738095238095,Foundations,
 Venezuela (Bolivarian Republic of),3.196261682242991,Government,Capabilities
 Venezuela (Bolivarian Republic of),2.38925,Government,Digital public services
 Venezuela (Bolivarian Republic of),2.7927558411214957,Government,
-Venezuela (Bolivarian Republic of),4.004194268544698,Infrastructure,Connectivity Technology
+Venezuela (Bolivarian Republic of),2.994223330273595,Infrastructure,Connectivity Technology
 Venezuela (Bolivarian Republic of),2.601062814166667,Infrastructure,Innovation Ecosystem
-Venezuela (Bolivarian Republic of),3.65341140495019,Infrastructure,
+Venezuela (Bolivarian Republic of),2.797643072220131,Infrastructure,
 Venezuela (Bolivarian Republic of),5.486214447,People,Culture
 Venezuela (Bolivarian Republic of),2.45175,People,Digital Literacy Skills
-Venezuela (Bolivarian Republic of),2.4753805546431527,People,Digital Wellbeing
-Venezuela (Bolivarian Republic of),3.549121356409014,People,Usage and ownership
-Venezuela (Bolivarian Republic of),3.3622985179304776,People,
+Venezuela (Bolivarian Republic of),2.782337036428768,People,Digital Wellbeing
+Venezuela (Bolivarian Republic of),2.989909379484694,People,Usage and ownership
+Venezuela (Bolivarian Republic of),3.4275527157283654,People,
 Venezuela (Bolivarian Republic of),2.4,Regulation,Cybersecurity
 Venezuela (Bolivarian Republic of),2.35,Regulation,Ethical Standards
 Venezuela (Bolivarian Republic of),2.375,Regulation,
 Venezuela (Bolivarian Republic of),3.965,Strategy,Ambition
-Venezuela (Bolivarian Republic of),3.0201541556437075,,
+Venezuela (Bolivarian Republic of),2.933309953678425,,
 Viet Nam,2.88958327,Business,Financing Incentives
-Viet Nam,4.076552030180555,Business,Startup Environment
-Viet Nam,2.5505999999999998,Business,Technology Adoption
-Viet Nam,3.228777466072222,Business,
+Viet Nam,4.1086638463666665,Business,Startup Environment
+Viet Nam,3.2976666666666663,Business,Technology Adoption
+Viet Nam,3.431971261011111,Business,
 Viet Nam,4.45,Foundations,Digital Legal Identity
 Viet Nam,2.164285714285714,Foundations,Digital Payments
 Viet Nam,3.307142857142857,Foundations,
 Viet Nam,5.11214953271028,Government,Capabilities
-Viet Nam,3.5625460526315793,Government,Digital public services
-Viet Nam,4.079080545991146,Government,
-Viet Nam,3.8995950861897715,Infrastructure,Connectivity Technology
-Viet Nam,2.0449192827688174,Infrastructure,Innovation Ecosystem
-Viet Nam,2.9722571844792944,Infrastructure,
+Viet Nam,3.837780701754386,Government,Digital public services
+Viet Nam,4.474965117232333,Government,
+Viet Nam,3.8083811396734886,Infrastructure,Connectivity Technology
+Viet Nam,2.0306717390429343,Infrastructure,Innovation Ecosystem
+Viet Nam,2.9195264393582114,Infrastructure,
 Viet Nam,4.565111923,People,Culture
 Viet Nam,3.9490423182,People,Digital Literacy Skills
 Viet Nam,2.8266141808043983,People,Digital Wellbeing
@@ -3987,7 +3987,7 @@ Viet Nam,2.1,Regulation,Cybersecurity
 Viet Nam,3.45,Regulation,Ethical Standards
 Viet Nam,2.7750000000000004,Regulation,
 Viet Nam,4.640000000000001,Strategy,Ambition
-Viet Nam,3.5285089224755843,,
+Viet Nam,3.587818400083923,,
 Wallis and Futuna,2.5455,People,Usage and ownership
 Western Sahara,1.222043714546392,Infrastructure,Connectivity Technology
 Western Sahara,1.2205,People,Usage and ownership
@@ -3995,35 +3995,35 @@ Western Sahara,1.221271857273196,,
 World,2.840145565625,Business,Startup Environment
 World,2.65,Foundations,Digital Payments
 World,3.224218675329312,Government,Digital public services
-World,4.437715062390593,Infrastructure,Connectivity Technology
+World,4.091748711187457,Infrastructure,Connectivity Technology
 World,2.7432646592709986,People,Digital Wellbeing
-World,3.0933333333333333,People,Usage and ownership
-World,3.00581616481775,People,
-World,3.1647795493248725,,
+World,2.976,People,Usage and ownership
+World,2.8596323296354993,People,
+World,3.0875629352354608,,
 Yemen,1.969740350833333,Business,Financing Incentives
-Yemen,1.72175,Business,Startup Environment
-Yemen,1.828625,Business,Technology Adoption
-Yemen,1.8140980701666662,Business,
-Yemen,2.083333333333333,Foundations,Digital Legal Identity
+Yemen,1.8660999999999999,Business,Startup Environment
+Yemen,1.7708,Business,Technology Adoption
+Yemen,1.8688801169444442,Business,
+Yemen,2.444444444444444,Foundations,Digital Legal Identity
 Yemen,2.5825,Government,Digital public services
-Yemen,2.4108425411275545,Infrastructure,Connectivity Technology
-Yemen,2.0880924939916663,Infrastructure,Innovation Ecosystem
-Yemen,2.2494675175596104,Infrastructure,
+Yemen,2.108259822096554,Infrastructure,Connectivity Technology
+Yemen,1.7341185726541664,Infrastructure,Innovation Ecosystem
+Yemen,1.92118919737536,Infrastructure,
 Yemen,4.9226718905,People,Culture
 Yemen,1.5355,People,Digital Literacy Skills
-Yemen,1.8807574470829187,People,Digital Wellbeing
+Yemen,2.1382549647219458,People,Digital Wellbeing
 Yemen,1.0020555555555557,People,Usage and ownership
-Yemen,2.244348468044279,People,
+Yemen,2.3996206026943754,People,
 Yemen,3.645,Strategy,Ambition
-Yemen,2.30590571770203,,
+Yemen,2.309953800067166,,
 Zambia,1.6695549683333333,Business,Financing Incentives
 Zambia,4.559550787966666,Business,Startup Environment
 Zambia,2.6066,Business,Technology Adoption
 Zambia,2.9452352521,Business,
 Zambia,1.95,Foundations,Data Exchange
-Zambia,3.8,Foundations,Digital Legal Identity
+Zambia,3.7999999999999994,Foundations,Digital Legal Identity
 Zambia,2.3857142857142857,Foundations,Digital Payments
-Zambia,2.711904761904762,Foundations,
+Zambia,2.7119047619047616,Foundations,
 Zambia,1.6138333333333332,Government,Digital public services
 Zambia,2.654439826230249,Infrastructure,Connectivity Technology
 Zambia,1.5336714570433334,Infrastructure,Innovation Ecosystem
