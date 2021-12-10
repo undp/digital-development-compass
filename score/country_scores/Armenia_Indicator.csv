@@ -20,10 +20,10 @@ Armenia,2017.0,Foundations,Digital Payments,Made or received digital payments in
 Armenia,2017.0,Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,34.0,2.7,True
 Armenia,2017.0,Foundations,Digital Payments,% Making online transactions - Men,19.0,1.95,True
 Armenia,2017.0,Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,7.0,1.35,True
-Armenia,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,57.0,3.383177570093458,True
+Armenia,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,0.415,3.075,True
 Armenia,2020.0,Government,Digital Public Services,E-Participation index,0.75,4.75,True
 Armenia,2020.0,Government,Digital Public Services,Online-Service-Index (OSI),0.7,4.5,True
-Armenia,2018.0,Government,Funding and procurement,R&D spending (% of GDP),0.18876,1.1804774055878524,True
+Armenia,2018.0,Government,Funding and procurement,R&D spending (% of GDP),0.18876,1.009438,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,% of population covered by electricity,100.0,6.0,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,% of population covered by internet connectivity,66.54394969,4.3271974845,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,% of population covered by mobile 2G+ data connectivity,100.0,6.0,True
@@ -45,7 +45,7 @@ Armenia,2018.0,Infrastructure,Connectivity Technology,Logistics Performance Inde
 Armenia,2020.0,Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,4.441896673,1.22209483365,True
 Armenia,2020.0,Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),117.7357712,3.018417929332861,True
 Armenia,2020.0,Infrastructure,Connectivity Technology,Mobile Coverage Maps,117.7357712,3.018417929332861,True
-Armenia,2019.0,Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,88.43795013,1.5781024935000003,True
+Armenia,2019.0,Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,88.43795013,5.4218975065,True
 Armenia,2021.0,Infrastructure,Connectivity Technology,National cyber security index,31.17,2.5585000000000004,True
 Armenia,2019.0,Infrastructure,Innovation Ecosystem,Patents by origin/bn PPP$ GDP,20.89172676,2.044586338,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,Postal Coverage,100.0,6.0,True
@@ -57,7 +57,7 @@ Armenia,2021.0,People,Usage and ownership,% of population using Facebook,42.18,3
 Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (all),66.54394969,4.3271974845,True
 Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (female),67.22694118,4.361347059,True
 Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (male),65.78686376,4.289343188,True
-Armenia,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),8.51,1.5440082114447011,True
+Armenia,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),10.88,1.544,True
 Armenia,2021.0,People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",4.817254027568457,1.3430571796300272,True
 Armenia,2017.0,People,Usage and ownership,Financial Inclusiveness,48.0,3.4,True
 Armenia,2019.0,People,Usage and ownership,Gender gap for social media use,88.38256073,5.4191280365,True

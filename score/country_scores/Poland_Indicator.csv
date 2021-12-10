@@ -27,10 +27,10 @@ Poland,2017.0,Foundations,Digital Payments,Made or received digital payments in 
 Poland,2017.0,Foundations,Digital Payments,% Making online transactions - Men,65.0,4.25,True
 Poland,2016.0,Foundations,Data Exchange,Open data index,49.0,3.45,True
 Poland,2017.0,Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,57.0,3.85,True
-Poland,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,30.0,4.644859813084112,True
+Poland,2020.0,Government,Capabilities,% of digital skills certifications / training courses completed,0.7,4.5,True
 Poland,2020.0,Government,Digital Public Services,E-Participation index,0.9643,5.8215,True
 Poland,2020.0,Government,Digital Public Services,Online-Service-Index (OSI),0.8588,5.2940000000000005,True
-Poland,2018.0,Government,Funding and procurement,R&D spending (% of GDP),1.20953,2.215745297141165,True
+Poland,2018.0,Government,Funding and procurement,R&D spending (% of GDP),1.20953,1.0604765,True
 Poland,2020.0,Government,Digital Public Services,"Use of public services online (% of services online, penetration, frequency of use)",75.2,4.76,True
 Poland,2019.0,Infrastructure,Connectivity Technology,% of population covered by electricity,100.0,6.0,True
 Poland,2019.0,Infrastructure,Connectivity Technology,% of population covered by internet connectivity,80.43590724,5.021795362000001,True
@@ -54,7 +54,7 @@ Poland,2018.0,Infrastructure,Connectivity Technology,Logistics Performance Index
 Poland,2020.0,Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,15.51429582,1.775714791,True
 Poland,2020.0,Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),130.3966794,3.2354717936941584,True
 Poland,2020.0,Infrastructure,Connectivity Technology,Mobile Coverage Maps,130.3966794,3.2354717936941584,True
-Poland,2019.0,Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,79.29411316,2.0352943420000003,True
+Poland,2019.0,Infrastructure,Connectivity Technology,Mobile dowload speed at the slowest hour of the day,79.29411316,4.964705658,True
 Poland,2021.0,Infrastructure,Connectivity Technology,National cyber security index,87.01,5.3505,True
 Poland,2019.0,Infrastructure,Innovation Ecosystem,Patents by origin/bn PPP$ GDP,25.0361627,2.251808135,True
 Poland,2019.0,Infrastructure,Connectivity Technology,Postal Coverage,100.0,6.0,True
@@ -69,8 +69,8 @@ Poland,2019.0,People,Digital Literacy Skills,% of population using internet (all
 Poland,2019.0,People,Digital Literacy Skills,% of population using internet (female),79.96973525,4.9984867625,True
 Poland,2019.0,People,Digital Literacy Skills,% of population using internet (male),80.91981478,5.0459907390000005,True
 Poland,2018.0,People,Digital Wellbeing,Automation-led unemployment,49.67,3.5165,False
-Poland,2018.0,People,Digital Wellbeing,Cyberbullying,12.0,5.4,True
-Poland,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),47.79,4.063895304080061,True
+Poland,2018.0,People,Digital Wellbeing,Cyberbullying,12.0,5.4,False
+Poland,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),61.28,4.064,True
 Poland,2021.0,People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",5.911162640668352,1.4210144064484087,True
 Poland,2017.0,People,Usage and ownership,Financial Inclusiveness,87.0,5.35,True
 Poland,2019.0,People,Usage and ownership,Gender gap for social media use,100.0,6.0,True
