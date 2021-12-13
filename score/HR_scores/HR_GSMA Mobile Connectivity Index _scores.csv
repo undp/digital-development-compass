@@ -1,0 +1,171 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,HRAssociation
+Afghanistan,2019,GSMA Mobile Connectivity Index ,28.94,2.447,True,Access
+Angola,2019,GSMA Mobile Connectivity Index ,43.53,3.1765,True,Access
+Albania,2019,GSMA Mobile Connectivity Index ,67.89,4.3945,True,Access
+United Arab Emirates,2019,GSMA Mobile Connectivity Index ,78.23,4.9115,True,Access
+Argentina,2019,GSMA Mobile Connectivity Index ,67.16,4.358,True,Access
+Armenia,2019,GSMA Mobile Connectivity Index ,56.24,3.812,True,Access
+Australia,2019,GSMA Mobile Connectivity Index ,90.51,5.5255,True,Access
+Austria,2019,GSMA Mobile Connectivity Index ,84.21,5.2105,True,Access
+Azerbaijan,2019,GSMA Mobile Connectivity Index ,58.28,3.9139999999999997,True,Access
+Burundi,2019,GSMA Mobile Connectivity Index ,26.16,2.308,True,Access
+Belgium,2019,GSMA Mobile Connectivity Index ,82.56,5.128,True,Access
+Benin,2019,GSMA Mobile Connectivity Index ,39.07,2.9535,True,Access
+Burkina Faso,2019,GSMA Mobile Connectivity Index ,32.44,2.622,True,Access
+Bangladesh,2019,GSMA Mobile Connectivity Index ,46.47,3.3235,True,Access
+Bulgaria,2019,GSMA Mobile Connectivity Index ,70.37,4.5185,True,Access
+Bahrain,2019,GSMA Mobile Connectivity Index ,71.23,4.5615000000000006,True,Access
+Bahamas,2019,GSMA Mobile Connectivity Index ,68.65,4.4325,True,Access
+Bosnia and Herzegovina,2019,GSMA Mobile Connectivity Index ,56.86,3.843,True,Access
+Belarus,2019,GSMA Mobile Connectivity Index ,65.61,4.2805,True,Access
+Belize,2019,GSMA Mobile Connectivity Index ,57.13,3.8565000000000005,True,Access
+Bolivia,2019,GSMA Mobile Connectivity Index ,59.71,3.9855,True,Access
+Brazil,2019,GSMA Mobile Connectivity Index ,63.52,4.176,True,Access
+Barbados,2019,GSMA Mobile Connectivity Index ,64.73,4.2365,True,Access
+Brunei Darussalam,2019,GSMA Mobile Connectivity Index ,67.36,4.368,True,Access
+Bhutan,2019,GSMA Mobile Connectivity Index ,53.29,3.6645,True,Access
+Botswana,2019,GSMA Mobile Connectivity Index ,51.31,3.5655,True,Access
+Central African Republic,2019,GSMA Mobile Connectivity Index ,17.18,1.859,True,Access
+Canada,2019,GSMA Mobile Connectivity Index ,83.27,5.1635,True,Access
+Switzerland,2019,GSMA Mobile Connectivity Index ,87.12,5.356,True,Access
+Chile,2019,GSMA Mobile Connectivity Index ,73.23,4.6615,True,Access
+China,2019,GSMA Mobile Connectivity Index ,76.01,4.8004999999999995,True,Access
+Cote d'Ivoire,2019,GSMA Mobile Connectivity Index ,43.96,3.198,True,Access
+Cameroon,2019,GSMA Mobile Connectivity Index ,44.15,3.2075,True,Access
+"Congo, Democratic Republic",2019,GSMA Mobile Connectivity Index ,26.19,2.3095,True,Access
+Congo,2019,GSMA Mobile Connectivity Index ,42.55,3.1275,True,Access
+Colombia,2019,GSMA Mobile Connectivity Index ,63.74,4.186999999999999,True,Access
+Comoros,2019,GSMA Mobile Connectivity Index ,23.98,2.199,True,Access
+Cabo Verde,2019,GSMA Mobile Connectivity Index ,48.72,3.436,True,Access
+Costa Rica,2019,GSMA Mobile Connectivity Index ,63.33,4.166499999999999,True,Access
+Cyprus,2019,GSMA Mobile Connectivity Index ,75.54,4.777000000000001,True,Access
+Czechia,2019,GSMA Mobile Connectivity Index ,78.4,4.92,True,Access
+Germany,2019,GSMA Mobile Connectivity Index ,83.06,5.1530000000000005,True,Access
+Denmark,2019,GSMA Mobile Connectivity Index ,85.39,5.2695,True,Access
+Dominican Republic,2019,GSMA Mobile Connectivity Index ,59.78,3.989,True,Access
+Algeria,2019,GSMA Mobile Connectivity Index ,53.23,3.6614999999999998,True,Access
+Ecuador,2019,GSMA Mobile Connectivity Index ,65.33,4.2665,True,Access
+Egypt,2019,GSMA Mobile Connectivity Index ,55.71,3.7855000000000003,True,Access
+Spain,2019,GSMA Mobile Connectivity Index ,80.26,5.013,True,Access
+Estonia,2019,GSMA Mobile Connectivity Index ,79.96,4.997999999999999,True,Access
+Ethiopia,2019,GSMA Mobile Connectivity Index ,35.94,2.7969999999999997,True,Access
+Finland,2019,GSMA Mobile Connectivity Index ,86.78,5.3389999999999995,True,Access
+Fiji,2019,GSMA Mobile Connectivity Index ,58.14,3.907,True,Access
+France,2019,GSMA Mobile Connectivity Index ,80.71,5.0355,True,Access
+Gabon,2019,GSMA Mobile Connectivity Index ,48.71,3.4355,True,Access
+United Kingdom,2019,GSMA Mobile Connectivity Index ,85.87,5.2935,True,Access
+Georgia,2019,GSMA Mobile Connectivity Index ,60.64,4.032,True,Access
+Ghana,2019,GSMA Mobile Connectivity Index ,52.01,3.6005000000000003,True,Access
+Guinea,2019,GSMA Mobile Connectivity Index ,31.14,2.557,True,Access
+Gambia,2019,GSMA Mobile Connectivity Index ,30.28,2.5140000000000002,True,Access
+Guinea-Bissau,2019,GSMA Mobile Connectivity Index ,24.42,2.221,True,Access
+Greece,2019,GSMA Mobile Connectivity Index ,70.56,4.5280000000000005,True,Access
+Guatemala,2019,GSMA Mobile Connectivity Index ,55.62,3.7809999999999997,True,Access
+Guyana,2019,GSMA Mobile Connectivity Index ,54.01,3.7005,True,Access
+Hong Kong,2019,GSMA Mobile Connectivity Index ,83.43,5.1715,True,Access
+Honduras,2019,GSMA Mobile Connectivity Index ,50.21,3.5105,True,Access
+Croatia,2019,GSMA Mobile Connectivity Index ,75.29,4.7645,True,Access
+Haiti,2019,GSMA Mobile Connectivity Index ,32.81,2.6405000000000003,True,Access
+Hungary,2019,GSMA Mobile Connectivity Index ,76.57,4.8285,True,Access
+Indonesia,2019,GSMA Mobile Connectivity Index ,62.9,4.145,True,Access
+India,2019,GSMA Mobile Connectivity Index ,56.6,3.83,True,Access
+Ireland,2019,GSMA Mobile Connectivity Index ,85.41,5.270499999999999,True,Access
+Iran,2019,GSMA Mobile Connectivity Index ,59.66,3.9829999999999997,True,Access
+Iraq,2019,GSMA Mobile Connectivity Index ,45.52,3.2760000000000002,True,Access
+Iceland,2019,GSMA Mobile Connectivity Index ,82.68,5.134,True,Access
+Israel,2019,GSMA Mobile Connectivity Index ,75.21,4.7604999999999995,True,Access
+Italy,2019,GSMA Mobile Connectivity Index ,76.15,4.8075,True,Access
+Jamaica,2019,GSMA Mobile Connectivity Index ,59.21,3.9605,True,Access
+Jordan,2019,GSMA Mobile Connectivity Index ,60.44,4.022,True,Access
+Japan,2019,GSMA Mobile Connectivity Index ,83.4,5.17,True,Access
+Kazakhstan,2019,GSMA Mobile Connectivity Index ,67.5,4.375,True,Access
+Kenya,2019,GSMA Mobile Connectivity Index ,49.62,3.481,True,Access
+Kyrgyzstan,2019,GSMA Mobile Connectivity Index ,51.07,3.5535,True,Access
+Cambodia,2019,GSMA Mobile Connectivity Index ,49.14,3.457,True,Access
+"Korea, South",2019,GSMA Mobile Connectivity Index ,80.77,5.0385,True,Access
+Kuwait,2019,GSMA Mobile Connectivity Index ,70.35,4.5175,True,Access
+Laos,2019,GSMA Mobile Connectivity Index ,45.69,3.2845,True,Access
+Lebanon,2019,GSMA Mobile Connectivity Index ,59.53,3.9764999999999997,True,Access
+Liberia,2019,GSMA Mobile Connectivity Index ,34.43,2.7215,True,Access
+Libya,2019,GSMA Mobile Connectivity Index ,50.85,3.5425,True,Access
+Saint Lucia,2019,GSMA Mobile Connectivity Index ,57.69,3.8845,True,Access
+Sri Lanka,2019,GSMA Mobile Connectivity Index ,56.54,3.827,True,Access
+Lesotho,2019,GSMA Mobile Connectivity Index ,40.58,3.029,True,Access
+Lithuania,2019,GSMA Mobile Connectivity Index ,77.53,4.8765,True,Access
+Luxembourg,2019,GSMA Mobile Connectivity Index ,83.3,5.165,True,Access
+Latvia,2019,GSMA Mobile Connectivity Index ,74.78,4.739,True,Access
+Morocco,2019,GSMA Mobile Connectivity Index ,59.89,3.9945,True,Access
+Moldova,2019,GSMA Mobile Connectivity Index ,63.83,4.1915,True,Access
+Madagascar,2019,GSMA Mobile Connectivity Index ,31.33,2.5664999999999996,True,Access
+Maldives,2019,GSMA Mobile Connectivity Index ,58.32,3.9160000000000004,True,Access
+Mexico,2019,GSMA Mobile Connectivity Index ,67.56,4.378,True,Access
+North Macedonia,2019,GSMA Mobile Connectivity Index ,59.73,3.9865,True,Access
+Mali,2019,GSMA Mobile Connectivity Index ,33.9,2.6950000000000003,True,Access
+Malta,2019,GSMA Mobile Connectivity Index ,74.86,4.743,True,Access
+Myanmar,2019,GSMA Mobile Connectivity Index ,52.59,3.6295000000000006,True,Access
+Montenegro,2019,GSMA Mobile Connectivity Index ,70.25,4.5125,True,Access
+Mongolia,2019,GSMA Mobile Connectivity Index ,58.0,3.9,True,Access
+Mozambique,2019,GSMA Mobile Connectivity Index ,34.95,2.7475,True,Access
+Mauritania,2019,GSMA Mobile Connectivity Index ,32.09,2.6045000000000003,True,Access
+Mauritius,2019,GSMA Mobile Connectivity Index ,65.75,4.2875,True,Access
+Malawi,2019,GSMA Mobile Connectivity Index ,26.94,2.3470000000000004,True,Access
+Malaysia,2019,GSMA Mobile Connectivity Index ,69.17,4.458500000000001,True,Access
+Namibia,2019,GSMA Mobile Connectivity Index ,40.23,3.0115,True,Access
+Niger,2019,GSMA Mobile Connectivity Index ,18.25,1.9125,True,Access
+Nigeria,2019,GSMA Mobile Connectivity Index ,49.12,3.456,True,Access
+Nicaragua,2019,GSMA Mobile Connectivity Index ,52.52,3.6260000000000003,True,Access
+Netherlands,2019,GSMA Mobile Connectivity Index ,85.03,5.2515,True,Access
+Norway,2019,GSMA Mobile Connectivity Index ,86.87,5.343500000000001,True,Access
+Nepal,2019,GSMA Mobile Connectivity Index ,43.29,3.1645,True,Access
+New Zealand,2019,GSMA Mobile Connectivity Index ,87.63,5.3815,True,Access
+Oman,2019,GSMA Mobile Connectivity Index ,68.74,4.436999999999999,True,Access
+Pakistan,2019,GSMA Mobile Connectivity Index ,40.56,3.028,True,Access
+Panama,2019,GSMA Mobile Connectivity Index ,65.28,4.263999999999999,True,Access
+Peru,2019,GSMA Mobile Connectivity Index ,66.62,4.331,True,Access
+Philippines,2019,GSMA Mobile Connectivity Index ,62.79,4.1395,True,Access
+Papua New Guinea,2019,GSMA Mobile Connectivity Index ,47.81,3.3905000000000003,True,Access
+Poland,2019,GSMA Mobile Connectivity Index ,76.09,4.804500000000001,True,Access
+Portugal,2019,GSMA Mobile Connectivity Index ,76.55,4.827500000000001,True,Access
+Paraguay,2019,GSMA Mobile Connectivity Index ,64.02,4.201,True,Access
+Qatar,2019,GSMA Mobile Connectivity Index ,75.72,4.786,True,Access
+Romania,2019,GSMA Mobile Connectivity Index ,72.45,4.6225000000000005,True,Access
+Russian Federation,2019,GSMA Mobile Connectivity Index ,74.9,4.745,True,Access
+Rwanda,2019,GSMA Mobile Connectivity Index ,42.79,3.1395,True,Access
+Saudi Arabia,2019,GSMA Mobile Connectivity Index ,72.58,4.629,True,Access
+Sudan,2019,GSMA Mobile Connectivity Index ,35.13,2.7565,True,Access
+Senegal,2019,GSMA Mobile Connectivity Index ,41.31,3.0655,True,Access
+Singapore,2019,GSMA Mobile Connectivity Index ,89.27,5.4635,True,Access
+Solomon Islands,2019,GSMA Mobile Connectivity Index ,39.65,2.9825,True,Access
+Sierra Leone,2019,GSMA Mobile Connectivity Index ,38.57,2.9284999999999997,True,Access
+El Salvador,2019,GSMA Mobile Connectivity Index ,55.36,3.7680000000000002,True,Access
+Serbia,2019,GSMA Mobile Connectivity Index ,69.28,4.464,True,Access
+South Sudan,2019,GSMA Mobile Connectivity Index ,12.74,1.637,True,Access
+Suriname,2019,GSMA Mobile Connectivity Index ,51.57,3.5785,True,Access
+Slovakia,2019,GSMA Mobile Connectivity Index ,74.75,4.7375,True,Access
+Slovenia,2019,GSMA Mobile Connectivity Index ,76.88,4.843999999999999,True,Access
+Sweden,2019,GSMA Mobile Connectivity Index ,84.34,5.2170000000000005,True,Access
+Eswatini,2019,GSMA Mobile Connectivity Index ,39.2,2.96,True,Access
+Chad,2019,GSMA Mobile Connectivity Index ,16.35,1.8175,True,Access
+Togo,2019,GSMA Mobile Connectivity Index ,35.86,2.793,True,Access
+Thailand,2019,GSMA Mobile Connectivity Index ,70.9,4.545,True,Access
+Tajikistan,2019,GSMA Mobile Connectivity Index ,41.71,3.0855,True,Access
+Timor-Leste,2019,GSMA Mobile Connectivity Index ,41.58,3.0789999999999997,True,Access
+Tonga,2019,GSMA Mobile Connectivity Index ,54.71,3.7355,True,Access
+Trinidad and Tobago,2019,GSMA Mobile Connectivity Index ,67.19,4.3595,True,Access
+Tunisia,2019,GSMA Mobile Connectivity Index ,60.03,4.0015,True,Access
+Turkey,2019,GSMA Mobile Connectivity Index ,67.13,4.3565,True,Access
+Tanzania,2019,GSMA Mobile Connectivity Index ,40.11,3.0055,True,Access
+Uganda,2019,GSMA Mobile Connectivity Index ,40.9,3.045,True,Access
+Ukraine,2019,GSMA Mobile Connectivity Index ,66.92,4.346,True,Access
+Uruguay,2019,GSMA Mobile Connectivity Index ,76.74,4.837,True,Access
+United States of America,2019,GSMA Mobile Connectivity Index ,84.99,5.2495,True,Access
+Uzbekistan,2019,GSMA Mobile Connectivity Index ,46.8,3.34,True,Access
+Saint Vincent and the Grenadines,2019,GSMA Mobile Connectivity Index ,61.03,4.0515,True,Access
+Venezuela,2019,GSMA Mobile Connectivity Index ,57.43,3.8714999999999997,True,Access
+Vietnam,2019,GSMA Mobile Connectivity Index ,64.6,4.23,True,Access
+Vanuatu,2019,GSMA Mobile Connectivity Index ,50.61,3.5305,True,Access
+Samoa,2019,GSMA Mobile Connectivity Index ,60.2,4.01,True,Access
+Yemen,2019,GSMA Mobile Connectivity Index ,29.71,2.4855,True,Access
+South Africa,2019,GSMA Mobile Connectivity Index ,60.14,4.007,True,Access
+Zambia,2019,GSMA Mobile Connectivity Index ,35.34,2.7670000000000003,True,Access
+Zimbabwe,2019,GSMA Mobile Connectivity Index ,36.57,2.8285,True,Access

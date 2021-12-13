@@ -1,0 +1,171 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,HRAssociation
+Afghanistan,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Angola,2019,Gender gap in mobile usage,57.71231079,3.8856155395,True,Access
+Albania,2019,Gender gap in mobile usage,67.74193573,4.3870967865,True,Access
+United Arab Emirates,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Argentina,2019,Gender gap in mobile usage,99.65052795,5.982526397499999,True,Access
+Armenia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Australia,2019,Gender gap in mobile usage,92.83154297,5.6415771485,True,Access
+Austria,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Azerbaijan,2019,Gender gap in mobile usage,79.16667175,4.9583335875,True,Access
+Burundi,2019,Gender gap in mobile usage,10.56910133,1.5284550665,True,Access
+Belgium,2019,Gender gap in mobile usage,93.26599121,5.6632995605,True,Access
+Benin,2019,Gender gap in mobile usage,33.33333206,2.666666603,True,Access
+Burkina Faso,2019,Gender gap in mobile usage,38.27160645,2.9135803225,True,Access
+Bangladesh,2019,Gender gap in mobile usage,2.323335409,1.11616677045,True,Access
+Bulgaria,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Bahrain,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Bahamas,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Bosnia and Herzegovina,2019,Gender gap in mobile usage,81.88405609,5.0942028045,True,Access
+Belarus,2019,Gender gap in mobile usage,92.59259033,5.6296295165,True,Access
+Belize,2019,Gender gap in mobile usage,89.33228302,5.466614151,True,Access
+Bolivia,2019,Gender gap in mobile usage,71.32616425,4.566308212500001,True,Access
+Brazil,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Barbados,2019,Gender gap in mobile usage,96.30023193,5.8150115965,True,Access
+Brunei Darussalam,2019,Gender gap in mobile usage,92.9864502,5.649322509999999,True,Access
+Bhutan,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Botswana,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Central African Republic,2019,Gender gap in mobile usage,45.73643112,3.286821556,True,Access
+Canada,2019,Gender gap in mobile usage,78.02198029,4.9010990145,True,Access
+Switzerland,2019,Gender gap in mobile usage,92.67399597,5.6336997985,True,Access
+Chile,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+China,2019,Gender gap in mobile usage,97.18959045,5.859479522499999,True,Access
+Cote d'Ivoire,2019,Gender gap in mobile usage,70.46897888,4.523448944,True,Access
+Cameroon,2019,Gender gap in mobile usage,75.30864716,4.765432358,True,Access
+"Congo, Democratic Republic",2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Congo,2019,Gender gap in mobile usage,81.98197937,5.0990989685,True,Access
+Colombia,2019,Gender gap in mobile usage,96.6302948,5.83151474,True,Access
+Comoros,2019,Gender gap in mobile usage,54.73251343,3.7366256714999997,True,Access
+Cabo Verde,2019,Gender gap in mobile usage,80.41005707,5.0205028535,True,Access
+Costa Rica,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Cyprus,2019,Gender gap in mobile usage,83.16498566,5.158249283,True,Access
+Czechia,2019,Gender gap in mobile usage,92.9078064,5.645390320000001,True,Access
+Germany,2019,Gender gap in mobile usage,88.88889313,5.4444446565,True,Access
+Denmark,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Dominican Republic,2019,Gender gap in mobile usage,85.20994568,5.260497284,True,Access
+Algeria,2019,Gender gap in mobile usage,79.88915253,4.9944576265,True,Access
+Ecuador,2019,Gender gap in mobile usage,91.76954651,5.5884773254999995,True,Access
+Egypt,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Spain,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Estonia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Ethiopia,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Finland,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Fiji,2019,Gender gap in mobile usage,88.71710968,5.435855484,True,Access
+France,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Gabon,2019,Gender gap in mobile usage,92.33716583,5.6168582915,True,Access
+United Kingdom,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Georgia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Ghana,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Guinea,2019,Gender gap in mobile usage,20.45454597,2.0227272985,True,Access
+Gambia,2019,Gender gap in mobile usage,53.48836899,3.6744184495,True,Access
+Guinea-Bissau,2019,Gender gap in mobile usage,47.19798279,3.3598991395,True,Access
+Greece,2019,Gender gap in mobile usage,85.5072403,5.275362015000001,True,Access
+Guatemala,2019,Gender gap in mobile usage,64.62081909,4.2310409545,True,Access
+Guyana,2019,Gender gap in mobile usage,99.54163361,5.9770816805,True,Access
+Hong Kong,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Honduras,2019,Gender gap in mobile usage,78.07017517,4.903508758499999,True,Access
+Croatia,2019,Gender gap in mobile usage,89.24730682,5.462365341,True,Access
+Haiti,2019,Gender gap in mobile usage,82.22222137,5.1111110685,True,Access
+Hungary,2019,Gender gap in mobile usage,96.41577148,5.820788574,True,Access
+Indonesia,2019,Gender gap in mobile usage,65.54933167,4.277466583500001,True,Access
+India,2019,Gender gap in mobile usage,33.90550613,2.6952753065,True,Access
+Ireland,2019,Gender gap in mobile usage,89.01098633,5.450549316499999,True,Access
+Iran,2019,Gender gap in mobile usage,49.82078552,3.4910392760000004,True,Access
+Iraq,2019,Gender gap in mobile usage,53.90070724,3.695035362,True,Access
+Iceland,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Israel,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Italy,2019,Gender gap in mobile usage,93.19728088,5.659864044,True,Access
+Jamaica,2019,Gender gap in mobile usage,85.96491241,5.2982456205,True,Access
+Jordan,2019,Gender gap in mobile usage,85.34798431,5.2673992155,True,Access
+Japan,2019,Gender gap in mobile usage,88.88889313,5.4444446565,True,Access
+Kazakhstan,2019,Gender gap in mobile usage,85.81560516,5.290780258000001,True,Access
+Kenya,2019,Gender gap in mobile usage,81.74703979,5.0873519895,True,Access
+Kyrgyzstan,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Cambodia,2019,Gender gap in mobile usage,51.21951294,3.5609756470000002,True,Access
+"Korea, South",2019,Gender gap in mobile usage,93.26599121,5.6632995605,True,Access
+Kuwait,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Laos,2019,Gender gap in mobile usage,87.95181274,5.3975906369999995,True,Access
+Lebanon,2019,Gender gap in mobile usage,85.81560516,5.290780258000001,True,Access
+Liberia,2019,Gender gap in mobile usage,34.42622757,2.7213113785000003,True,Access
+Libya,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Saint Lucia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Sri Lanka,2019,Gender gap in mobile usage,66.66667175,4.3333335875,True,Access
+Lesotho,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Lithuania,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Luxembourg,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Latvia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Morocco,2019,Gender gap in mobile usage,77.77777863,4.8888889315,True,Access
+Moldova,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Madagascar,2019,Gender gap in mobile usage,25.00000381,2.2500001904999998,True,Access
+Maldives,2019,Gender gap in mobile usage,93.05555725,5.6527778625,True,Access
+Mexico,2019,Gender gap in mobile usage,94.44409943,5.7222049715,True,Access
+North Macedonia,2019,Gender gap in mobile usage,82.07884979,5.1039424895000005,True,Access
+Mali,2019,Gender gap in mobile usage,18.80341911,1.9401709555,True,Access
+Malta,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Myanmar,2019,Gender gap in mobile usage,53.73200226,3.686600113,True,Access
+Montenegro,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Mongolia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Mozambique,2019,Gender gap in mobile usage,43.62331772,3.181165886,True,Access
+Mauritania,2019,Gender gap in mobile usage,90.47618866,5.523809433,True,Access
+Mauritius,2019,Gender gap in mobile usage,52.89855194,3.6449275969999997,True,Access
+Malawi,2019,Gender gap in mobile usage,54.02299118,3.7011495589999996,True,Access
+Malaysia,2019,Gender gap in mobile usage,81.48148346,5.0740741730000005,True,Access
+Namibia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Niger,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Nigeria,2019,Gender gap in mobile usage,77.31102753,4.8655513765,True,Access
+Nicaragua,2019,Gender gap in mobile usage,44.84099197,3.2420495985,True,Access
+Netherlands,2019,Gender gap in mobile usage,89.58332825,5.4791664125,True,Access
+Norway,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Nepal,2019,Gender gap in mobile usage,83.93574524,5.196787262,True,Access
+New Zealand,2019,Gender gap in mobile usage,93.05555725,5.6527778625,True,Access
+Oman,2019,Gender gap in mobile usage,53.42669678,3.671334839,True,Access
+Pakistan,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Panama,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Peru,2019,Gender gap in mobile usage,56.34920502,3.817460251,True,Access
+Philippines,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Papua New Guinea,2019,Gender gap in mobile usage,85.90956879,5.295478439499999,True,Access
+Poland,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Portugal,2019,Gender gap in mobile usage,79.16667175,4.9583335875,True,Access
+Paraguay,2019,Gender gap in mobile usage,96.16858673,5.808429336500001,True,Access
+Qatar,2019,Gender gap in mobile usage,85.52359009,5.2761795045,True,Access
+Romania,2019,Gender gap in mobile usage,85.81560516,5.290780258000001,True,Access
+Russian Federation,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Rwanda,2019,Gender gap in mobile usage,7.103827,1.35519135,True,Access
+Saudi Arabia,2019,Gender gap in mobile usage,93.33333588,5.666666794,True,Access
+Sudan,2019,Gender gap in mobile usage,66.74476624,4.337238312,True,Access
+Senegal,2019,Gender gap in mobile usage,88.31958771,5.4159793855,True,Access
+Singapore,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Solomon Islands,2019,Gender gap in mobile usage,97.33358765,5.8666793825,True,Access
+Sierra Leone,2019,Gender gap in mobile usage,13.58024883,1.6790124414999998,True,Access
+El Salvador,2019,Gender gap in mobile usage,63.85542297,4.1927711485,True,Access
+Serbia,2019,Gender gap in mobile usage,78.49462891,4.924731445500001,True,Access
+South Sudan,2019,Gender gap in mobile usage,3.225809336,1.1612904668000001,True,Access
+Suriname,2019,Gender gap in mobile usage,70.50714111,4.525357055500001,True,Access
+Slovakia,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Slovenia,2019,Gender gap in mobile usage,93.26599121,5.6632995605,True,Access
+Sweden,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Eswatini,2019,Gender gap in mobile usage,96.21212006,5.810606003,True,Access
+Chad,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+Togo,2019,Gender gap in mobile usage,28.88888741,2.4444443705000003,True,Access
+Thailand,2019,Gender gap in mobile usage,96.86161804,5.843080902,True,Access
+Tajikistan,2019,Gender gap in mobile usage,32.58427048,2.629213524,True,Access
+Timor-Leste,2019,Gender gap in mobile usage,80.66213989,5.0331069945,True,Access
+Tonga,2019,Gender gap in mobile usage,77.98914337,4.8994571685,True,Access
+Trinidad and Tobago,2019,Gender gap in mobile usage,85.66307831,5.2831539155,True,Access
+Tunisia,2019,Gender gap in mobile usage,71.88755035,4.5943775175,True,Access
+Turkey,2019,Gender gap in mobile usage,85.66307831,5.2831539155,True,Access
+Tanzania,2019,Gender gap in mobile usage,64.40937805,4.2204689025,True,Access
+Uganda,2019,Gender gap in mobile usage,42.71641922,3.135820961,True,Access
+Ukraine,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Uruguay,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+United States of America,2019,Gender gap in mobile usage,89.6907196,5.4845359799999995,True,Access
+Uzbekistan,2019,Gender gap in mobile usage,46.96969604,3.348484802,True,Access
+Saint Vincent and the Grenadines,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Venezuela,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Vietnam,2019,Gender gap in mobile usage,98.32418823,5.916209411500001,True,Access
+Vanuatu,2019,Gender gap in mobile usage,99.95028687,5.9975143435,True,Access
+Samoa,2019,Gender gap in mobile usage,100.0,6.0,True,Access
+Yemen,2019,Gender gap in mobile usage,0.0,1.0,True,Access
+South Africa,2019,Gender gap in mobile usage,78.27258301,4.9136291505,True,Access
+Zambia,2019,Gender gap in mobile usage,53.70370102,3.6851850509999995,True,Access
+Zimbabwe,2019,Gender gap in mobile usage,100.0,6.0,True,Access

@@ -1,0 +1,138 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,HRAssociation
+Cabo Verde,2019.0,Individuals using the Internet (% of population),61.94339776,4.097169888,True,Access
+Central African Rep.,2019.0,Individuals using the Internet (% of population),,,True,Access
+Congo (Rep. of the),2019.0,Individuals using the Internet (% of population),,,True,Access
+Côte d'Ivoire,2019.0,Individuals using the Internet (% of population),36.28895457,2.8144477285000002,True,Access
+Equatorial Guinea,2019.0,Individuals using the Internet (% of population),,,True,Access
+Eritrea,2019.0,Individuals using the Internet (% of population),,,True,Access
+Eswatini,2019.0,Individuals using the Internet (% of population),,,True,Access
+Kenya,2019.0,Individuals using the Internet (% of population),22.56511937,2.1282559685000004,True,Access
+Lesotho,2019.0,Individuals using the Internet (% of population),42.30173357,3.1150866785000004,True,Access
+Madagascar,2019.0,Individuals using the Internet (% of population),,,True,Access
+Mauritius,2019.0,Individuals using the Internet (% of population),61.72995515,4.0864977575,True,Access
+Niger,2019.0,Individuals using the Internet (% of population),,,True,Access
+South Sudan,2019.0,Individuals using the Internet (% of population),,,True,Access
+Uganda,2019.0,Individuals using the Internet (% of population),,,True,Access
+Bahrain,2019.0,Individuals using the Internet (% of population),99.70149256,5.9850746280000005,True,Access
+Comoros,2019.0,Individuals using the Internet (% of population),,,True,Access
+Egypt,2019.0,Individuals using the Internet (% of population),57.2828664,3.86414332,True,Access
+Iraq,2019.0,Individuals using the Internet (% of population),,,True,Access
+Kuwait,2019.0,Individuals using the Internet (% of population),99.54267645,5.9771338225,True,Access
+Libya,2019.0,Individuals using the Internet (% of population),,,True,Access
+Morocco,2019.0,Individuals using the Internet (% of population),74.37631447,4.718815723500001,True,Access
+Palestine,2019.0,Individuals using the Internet (% of population),70.6225837,4.531129185,True,Access
+Qatar,2019.0,Individuals using the Internet (% of population),99.65280421,5.9826402105,True,Access
+Saudi Arabia,2019.0,Individuals using the Internet (% of population),95.7247356,5.78623678,True,Access
+Somalia,2019.0,Individuals using the Internet (% of population),,,True,Access
+Tunisia,2019.0,Individuals using the Internet (% of population),66.6999983,4.334999915,True,Access
+United Arab Emirates,2019.0,Individuals using the Internet (% of population),99.14999998,5.957499999,True,Access
+Yemen,2019.0,Individuals using the Internet (% of population),,,True,Access
+Brunei Darussalam,2019.0,Individuals using the Internet (% of population),95.0,5.75,True,Access
+Cambodia,2019.0,Individuals using the Internet (% of population),78.27288351,4.9136441755,True,Access
+China,2019.0,Individuals using the Internet (% of population),64.56912253,4.2284561265,True,Access
+Dem. People's Rep. of Korea,2019.0,Individuals using the Internet (% of population),,,True,Access
+Fiji,2019.0,Individuals using the Internet (% of population),,,True,Access
+"Hong Kong, China",2019.0,Individuals using the Internet (% of population),91.74340039,5.5871700195,True,Access
+India,2019.0,Individuals using the Internet (% of population),41.0,3.05,True,Access
+Indonesia,2019.0,Individuals using the Internet (% of population),47.69064898,3.384532449,True,Access
+Iran (Islamic Republic of),2019.0,Individuals using the Internet (% of population),77.77083846,4.888541923,True,Access
+Japan,2019.0,Individuals using the Internet (% of population),92.73039781,5.6365198905,True,Access
+Kiribati,2019.0,Individuals using the Internet (% of population),,,True,Access
+Korea (Rep. of),2019.0,Individuals using the Internet (% of population),96.15757918,5.807878959,True,Access
+"Macao, China",2019.0,Individuals using the Internet (% of population),86.46792571,5.3233962855,True,Access
+Malaysia,2019.0,Individuals using the Internet (% of population),84.18714501,5.2093572505,True,Access
+Marshall Islands,2019.0,Individuals using the Internet (% of population),,,True,Access
+Micronesia,2019.0,Individuals using the Internet (% of population),,,True,Access
+Mongolia,2019.0,Individuals using the Internet (% of population),51.07999408,3.553999704,True,Access
+Nauru,2019.0,Individuals using the Internet (% of population),,,True,Access
+Nepal (Republic of),2019.0,Individuals using the Internet (% of population),,,True,Access
+Pakistan,2019.0,Individuals using the Internet (% of population),17.07090203,1.8535451015,True,Access
+Papua New Guinea,2019.0,Individuals using the Internet (% of population),,,True,Access
+Philippines,2019.0,Individuals using the Internet (% of population),46.88,3.344,True,Access
+Samoa,2019.0,Individuals using the Internet (% of population),,,True,Access
+Singapore,2019.0,Individuals using the Internet (% of population),88.94925269,5.4474626345,True,Access
+Solomon Islands,2019.0,Individuals using the Internet (% of population),,,True,Access
+Sri Lanka,2019.0,Individuals using the Internet (% of population),29.0,2.45,True,Access
+Thailand,2019.0,Individuals using the Internet (% of population),66.65241946,4.332620973000001,True,Access
+Tonga,2019.0,Individuals using the Internet (% of population),,,True,Access
+Tuvalu,2019.0,Individuals using the Internet (% of population),,,True,Access
+Vanuatu,2019.0,Individuals using the Internet (% of population),,,True,Access
+Viet Nam,2019.0,Individuals using the Internet (% of population),68.66158021,4.4330790105,True,Access
+Armenia,2019.0,Individuals using the Internet (% of population),66.54394969,4.3271974845,True,Access
+Azerbaijan,2019.0,Individuals using the Internet (% of population),81.09999907,5.054999953499999,True,Access
+Belarus,2019.0,Individuals using the Internet (% of population),82.78915209,5.1394576045,True,Access
+Kazakhstan,2019.0,Individuals using the Internet (% of population),81.87762047,5.0938810235,True,Access
+Russian Federation,2019.0,Individuals using the Internet (% of population),82.64216156,5.132108078,True,Access
+Tajikistan,2019.0,Individuals using the Internet (% of population),,,True,Access
+Turkmenistan,2019.0,Individuals using the Internet (% of population),,,True,Access
+Uzbekistan,2019.0,Individuals using the Internet (% of population),70.4000024,4.520000120000001,True,Access
+Albania,2019.0,Individuals using the Internet (% of population),68.55039112,4.427519556,True,Access
+Andorra,2019.0,Individuals using the Internet (% of population),,,True,Access
+Austria,2019.0,Individuals using the Internet (% of population),87.75220479,5.3876102395,True,Access
+Belgium,2019.0,Individuals using the Internet (% of population),90.27542981,5.5137714905,True,Access
+Bosnia and Herzegovina,2019.0,Individuals using the Internet (% of population),69.94634763,4.4973173815,True,Access
+Bulgaria,2019.0,Individuals using the Internet (% of population),67.94698094,4.3973490470000005,True,Access
+Croatia,2019.0,Individuals using the Internet (% of population),79.07978368,4.953989184,True,Access
+Cyprus,2019.0,Individuals using the Internet (% of population),86.06362996,5.303181498,True,Access
+Czech Republic,2019.0,Individuals using the Internet (% of population),80.86694441,5.043347220499999,True,Access
+Denmark,2019.0,Individuals using the Internet (% of population),98.04643475,5.9023217375,True,Access
+Estonia,2019.0,Individuals using the Internet (% of population),90.2289282,5.51144641,True,Access
+Finland,2019.0,Individuals using the Internet (% of population),89.60738511,5.480369255499999,True,Access
+France,2019.0,Individuals using the Internet (% of population),83.33974409,5.1669872045,True,Access
+Georgia,2019.0,Individuals using the Internet (% of population),68.84670565,4.4423352825,True,Access
+Germany,2019.0,Individuals using the Internet (% of population),88.13451691,5.4067258455000005,True,Access
+Greece,2019.0,Individuals using the Internet (% of population),75.67120669,4.783560334500001,True,Access
+Hungary,2019.0,Individuals using the Internet (% of population),80.37169361,5.018584680499999,True,Access
+Ireland,2019.0,Individuals using the Internet (% of population),87.00005524,5.350002762,True,Access
+Israel,2019.0,Individuals using the Internet (% of population),86.78787762,5.339393881,True,Access
+Latvia,2019.0,Individuals using the Internet (% of population),86.13545644,5.306772822,True,Access
+Liechtenstein,2019.0,Individuals using the Internet (% of population),,,True,Access
+Lithuania,2019.0,Individuals using the Internet (% of population),81.58186838,5.079093419,True,Access
+Luxembourg,2019.0,Individuals using the Internet (% of population),97.12063569,5.8560317845,True,Access
+Malta,2019.0,Individuals using the Internet (% of population),85.77856081,5.2889280405,True,Access
+Moldova,2019.0,Individuals using the Internet (% of population),,,True,Access
+Monaco,2019.0,Individuals using the Internet (% of population),,,True,Access
+Montenegro,2019.0,Individuals using the Internet (% of population),73.47666575,4.6738332875,True,Access
+Netherlands,2019.0,Individuals using the Internet (% of population),93.2885906,5.6644295300000005,True,Access
+North Macedonia,2019.0,Individuals using the Internet (% of population),81.41288276,5.0706441380000005,True,Access
+Norway,2019.0,Individuals using the Internet (% of population),98.00000439,5.9000002195,True,Access
+Poland,2019.0,Individuals using the Internet (% of population),80.43590724,5.021795362000001,True,Access
+Portugal,2019.0,Individuals using the Internet (% of population),75.34637155,4.7673185775,True,Access
+Romania,2019.0,Individuals using the Internet (% of population),73.65747575,4.6828737875,True,Access
+San Marino,2019.0,Individuals using the Internet (% of population),,,True,Access
+Serbia,2019.0,Individuals using the Internet (% of population),77.41677362,4.870838681,True,Access
+Slovakia,2019.0,Individuals using the Internet (% of population),82.8536605,5.142683025,True,Access
+Slovenia,2019.0,Individuals using the Internet (% of population),83.1083578,5.15541789,True,Access
+Spain,2019.0,Individuals using the Internet (% of population),90.71866533,5.5359332665,True,Access
+Sweden,2019.0,Individuals using the Internet (% of population),94.49344341,5.7246721705,True,Access
+Switzerland,2019.0,Individuals using the Internet (% of population),93.14608695,5.657304347499999,True,Access
+Turkey,2019.0,Individuals using the Internet (% of population),73.97670281,4.6988351405,True,Access
+Ukraine,2019.0,Individuals using the Internet (% of population),70.1248443,4.506242215,True,Access
+United Kingdom,2019.0,Individuals using the Internet (% of population),92.51662855,5.6258314275,True,Access
+Vatican,2019.0,Individuals using the Internet (% of population),,,True,Access
+Antigua and Barbuda,2019.0,Individuals using the Internet (% of population),,,True,Access
+Argentina,2019.0,Individuals using the Internet (% of population),79.9,4.995,True,Access
+Barbados,2019.0,Individuals using the Internet (% of population),,,True,Access
+Bolivia (Plurinational State of),2019.0,Individuals using the Internet (% of population),47.47481911,3.3737409554999997,True,Access
+Brazil,2019.0,Individuals using the Internet (% of population),73.91244005,4.6956220025,True,Access
+Colombia,2019.0,Individuals using the Internet (% of population),65.00690072,4.250345036000001,True,Access
+Costa Rica,2019.0,Individuals using the Internet (% of population),81.20259644,5.0601298219999995,True,Access
+Cuba,2019.0,Individuals using the Internet (% of population),67.97080866,4.398540433,True,Access
+Dominica,2019.0,Individuals using the Internet (% of population),,,True,Access
+El Salvador,2019.0,Individuals using the Internet (% of population),50.49119319,3.5245596595,True,Access
+Grenada,2019.0,Individuals using the Internet (% of population),,,True,Access
+Guatemala,2019.0,Individuals using the Internet (% of population),44.40104984,3.2200524919999998,True,Access
+Guyana,2019.0,Individuals using the Internet (% of population),,,True,Access
+Honduras,2019.0,Individuals using the Internet (% of population),39.39,2.9695,True,Access
+Jamaica,2019.0,Individuals using the Internet (% of population),,,True,Access
+Mexico,2019.0,Individuals using the Internet (% of population),70.06991047,4.5034955235,True,Access
+Panama,2019.0,Individuals using the Internet (% of population),63.62841477,4.1814207385,True,Access
+Paraguay,2019.0,Individuals using the Internet (% of population),68.51762842,4.425881421,True,Access
+Peru,2019.0,Individuals using the Internet (% of population),59.95050106,3.997525053,True,Access
+Saint Kitts and Nevis,2019.0,Individuals using the Internet (% of population),,,True,Access
+Saint Lucia,2019.0,Individuals using the Internet (% of population),,,True,Access
+Saint Vincent and the Grenadines,2019.0,Individuals using the Internet (% of population),,,True,Access
+Trinidad and Tobago,2019.0,Individuals using the Internet (% of population),,,True,Access
+United States,2019.0,Individuals using the Internet (% of population),89.43028486,5.4715142430000006,True,Access
+Uruguay,2019.0,Individuals using the Internet (% of population),83.35153377,5.1675766885000005,True,Access
+Venezuela,2019.0,Individuals using the Internet (% of population),,,True,Access
