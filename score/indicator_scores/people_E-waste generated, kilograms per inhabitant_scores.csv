@@ -1,218 +1,182 @@
-Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Aruba,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Afghanistan,2021,"E-waste generated, kilograms per inhabitant",0.5771001134809663,1.0408832718036145,True,Digital Wellbeing
-Angola,2021,"E-waste generated, kilograms per inhabitant",3.665900944965662,1.26100618164569,True,Digital Wellbeing
-Albania,2021,"E-waste generated, kilograms per inhabitant",7.007239529519923,1.4991261551002908,True,Digital Wellbeing
-Andorra,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-United Arab Emirates,2021,"E-waste generated, kilograms per inhabitant",13.71471288811486,1.977133198588563,True,Digital Wellbeing
-Argentina,2021,"E-waste generated, kilograms per inhabitant",6.786638237701992,1.4834050384213167,True,Digital Wellbeing
-Armenia,2021,"E-waste generated, kilograms per inhabitant",4.817254027568457,1.3430571796300272,True,Digital Wellbeing
-American Samoa,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Antigua and Barbuda,2021,"E-waste generated, kilograms per inhabitant",11.366337042892424,1.809776559991463,True,Digital Wellbeing
-Australia,2021,"E-waste generated, kilograms per inhabitant",24.12845620168161,2.719266992766845,True,Digital Wellbeing
-Austria,2021,"E-waste generated, kilograms per inhabitant",18.71947119470879,2.333796519277394,True,Digital Wellbeing
-Azerbaijan,2021,"E-waste generated, kilograms per inhabitant",6.528943271877323,1.4650404468455902,True,Digital Wellbeing
-Burundi,2021,"E-waste generated, kilograms per inhabitant",0.7416671104308211,1.052611113192197,True,Digital Wellbeing
-Belgium,2021,"E-waste generated, kilograms per inhabitant",52.55765493982744,4.745269409928627,True,Digital Wellbeing
-Benin,2021,"E-waste generated, kilograms per inhabitant",1.4850329505268516,1.105586963927281,True,Digital Wellbeing
-Burkina Faso,2021,"E-waste generated, kilograms per inhabitant",0.6073782990580556,1.0430410419796745,True,Digital Wellbeing
-Bangladesh,2021,"E-waste generated, kilograms per inhabitant",0.9118518236163149,1.0647393002527472,True,Digital Wellbeing
-Bulgaria,2021,"E-waste generated, kilograms per inhabitant",7.656187433603552,1.5453733263412224,True,Digital Wellbeing
-Bahrain,2021,"E-waste generated, kilograms per inhabitant",14.033403710852943,1.999844650400544,True,Digital Wellbeing
-"Bahamas, The",2021,"E-waste generated, kilograms per inhabitant",12.666801089861906,1.9024539276112864,True,Digital Wellbeing
-Bosnia and Herzegovina,2021,"E-waste generated, kilograms per inhabitant",0.39847724564835413,1.0281537409672894,True,Digital Wellbeing
-Belarus,2021,"E-waste generated, kilograms per inhabitant",7.587240621749078,1.540459842540311,True,Digital Wellbeing
-Belize,2021,"E-waste generated, kilograms per inhabitant",6.401549731691568,1.4559617660595283,True,Digital Wellbeing
-Bermuda,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Bolivia,2021,"E-waste generated, kilograms per inhabitant",3.3000441503985423,1.2349334542024968,True,Digital Wellbeing
-Brazil,2021,"E-waste generated, kilograms per inhabitant",6.771868410630062,1.482352468997028,True,Digital Wellbeing
-Barbados,2021,"E-waste generated, kilograms per inhabitant",13.5423608611516,1.9648505582494329,True,Digital Wellbeing
-Brunei Darussalam,2021,"E-waste generated, kilograms per inhabitant",18.19487896861029,2.2964115360462705,True,Digital Wellbeing
-Bhutan,2021,"E-waste generated, kilograms per inhabitant",2.1216726495651845,1.1509569928539893,True,Digital Wellbeing
-Botswana,2021,"E-waste generated, kilograms per inhabitant",7.940974734796259,1.5656686489744005,True,Digital Wellbeing
-Central African Republic,2021,"E-waste generated, kilograms per inhabitant",0.5979547290689269,1.042369472733136,True,Digital Wellbeing
-Canada,2021,"E-waste generated, kilograms per inhabitant",20.368796758908058,2.451335448549812,True,Digital Wellbeing
-Switzerland,2021,"E-waste generated, kilograms per inhabitant",21.458146352021824,2.5289677775194406,True,Digital Wellbeing
-Channel Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Chile,2021,"E-waste generated, kilograms per inhabitant",10.457863071158272,1.7450343039885772,True,Digital Wellbeing
-China,2021,"E-waste generated, kilograms per inhabitant",5.150530161618908,1.3668080513794498,True,Digital Wellbeing
-Côte d’Ivoire,2021,"E-waste generated, kilograms per inhabitant",1.078360961921506,1.0766055480423198,True,Digital Wellbeing
-Cameroon,2021,"E-waste generated, kilograms per inhabitant",0.877366511455913,1.0622817098564408,True,Digital Wellbeing
-"Congo, Dem. Rep.",2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-"Congo, Rep.",2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Colombia,2021,"E-waste generated, kilograms per inhabitant",5.434566185431018,1.387049834347192,True,Digital Wellbeing
-Comoros,2021,"E-waste generated, kilograms per inhabitant",0.7717796209018503,1.0547570765576453,True,Digital Wellbeing
-Cabo Verde,2021,"E-waste generated, kilograms per inhabitant",4.669451475643947,1.3325240538033065,True,Digital Wellbeing
-Costa Rica,2021,"E-waste generated, kilograms per inhabitant",7.5248419625544525,1.5360130118181234,True,Digital Wellbeing
-Cuba,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Curacao,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Cayman Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Cyprus,2021,"E-waste generated, kilograms per inhabitant",15.1321360782596,2.0781456413177772,True,Digital Wellbeing
-Czech Republic,2021,"E-waste generated, kilograms per inhabitant",7.458591419878462,1.5312916772199825,True,Digital Wellbeing
-Germany,2021,"E-waste generated, kilograms per inhabitant",29.65237547634628,3.1129282389299537,True,Digital Wellbeing
-Djibouti,2021,"E-waste generated, kilograms per inhabitant",1.2060770200785023,1.0857072130213352,True,Digital Wellbeing
-Dominica,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Denmark,2021,"E-waste generated, kilograms per inhabitant",28.978682500614845,3.0649176140147536,True,Digital Wellbeing
-Dominican Republic,2021,"E-waste generated, kilograms per inhabitant",5.413931127577483,1.3855792801653943,True,Digital Wellbeing
-Algeria,2021,"E-waste generated, kilograms per inhabitant",6.205971464549176,1.442023911334023,True,Digital Wellbeing
-Ecuador,2021,"E-waste generated, kilograms per inhabitant",4.521700694632332,1.3219946174226247,True,Digital Wellbeing
-"Egypt, Arab Rep.",2021,"E-waste generated, kilograms per inhabitant",5.6597377507559905,1.4030966508553329,True,Digital Wellbeing
-Eritrea,2021,"E-waste generated, kilograms per inhabitant",0.8492208398794107,1.0602759129582637,True,Digital Wellbeing
-Spain,2021,"E-waste generated, kilograms per inhabitant",25.54543874920927,2.8202480331686304,True,Digital Wellbeing
-Estonia,2021,"E-waste generated, kilograms per inhabitant",25.864811283064096,2.843008067017096,True,Digital Wellbeing
-Ethiopia,2021,"E-waste generated, kilograms per inhabitant",0.49062293412700236,1.0347204890950965,True,Digital Wellbeing
-Finland,2021,"E-waste generated, kilograms per inhabitant",38.57642880459336,3.7488995084842234,True,Digital Wellbeing
-Fiji,2021,"E-waste generated, kilograms per inhabitant",5.305125443150968,1.3778252600229526,True,Digital Wellbeing
-France,2021,"E-waste generated, kilograms per inhabitant",33.08508358976084,3.3575596476181313,True,Digital Wellbeing
-Faeroe Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-"Micronesia, Fed. Sts.",2021,"E-waste generated, kilograms per inhabitant",1.9059054480307231,1.1355803768656356,True,Digital Wellbeing
-Gabon,2021,"E-waste generated, kilograms per inhabitant",12.88971833203362,1.9183400901312644,True,Digital Wellbeing
-United Kingdom,2021,"E-waste generated, kilograms per inhabitant",53.92879097947492,4.842983206091867,True,Digital Wellbeing
-Georgia,2021,"E-waste generated, kilograms per inhabitant",5.649565521508703,1.402371728523446,True,Digital Wellbeing
-Ghana,2021,"E-waste generated, kilograms per inhabitant",1.8104161877574272,1.1287753496150046,True,Digital Wellbeing
-Gibraltar,2021,"E-waste generated, kilograms per inhabitant",5.991137019302263,1.4267137680771242,True,Digital Wellbeing
-Guinea,2021,"E-waste generated, kilograms per inhabitant",0.9837010571835262,1.0698596246846517,True,Digital Wellbeing
-"Gambia, The",2021,"E-waste generated, kilograms per inhabitant",1.6776617056176502,1.119314622136134,True,Digital Wellbeing
-Guinea-Bissau,2021,"E-waste generated, kilograms per inhabitant",0.5648039057319689,1.040006984474842,True,Digital Wellbeing
-Equatorial Guinea,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Greece,2021,"E-waste generated, kilograms per inhabitant",17.586257673108367,2.253038234280698,True,Digital Wellbeing
-Grenada,2021,"E-waste generated, kilograms per inhabitant",7.584304282287805,1.5402505847662549,True,Digital Wellbeing
-Greenland,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Guatemala,2021,"E-waste generated, kilograms per inhabitant",3.384109538334239,1.2409243609714884,True,Digital Wellbeing
-Guam,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Guyana,2021,"E-waste generated, kilograms per inhabitant",6.697421224931553,1.477047001911398,True,Digital Wellbeing
-"Hong Kong SAR, China",2021,"E-waste generated, kilograms per inhabitant",9.58155960414471,1.68258467399058,True,Digital Wellbeing
-Honduras,2021,"E-waste generated, kilograms per inhabitant",0.1865494141415649,1.0130507370855621,True,Digital Wellbeing
-Croatia,2021,"E-waste generated, kilograms per inhabitant",14.278549477566072,2.0173149252574767,True,Digital Wellbeing
-Haiti,2021,"E-waste generated, kilograms per inhabitant",0.5531313039683299,1.039175138329422,True,Digital Wellbeing
-Hungary,2021,"E-waste generated, kilograms per inhabitant",5.124489390886278,1.364952259911846,True,Digital Wellbeing
-Indonesia,2021,"E-waste generated, kilograms per inhabitant",4.879067748482878,1.3474623248168434,True,Digital Wellbeing
-Isle of Man,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-India,2021,"E-waste generated, kilograms per inhabitant",1.2568225651851468,1.0893235863842716,True,Digital Wellbeing
-Ireland,2021,"E-waste generated, kilograms per inhabitant",43.73539749627926,4.116552608231743,True,Digital Wellbeing
-"Iran, Islamic Rep.",2021,"E-waste generated, kilograms per inhabitant",7.847785449617815,1.559027529090435,True,Digital Wellbeing
-Iraq,2021,"E-waste generated, kilograms per inhabitant",6.119231198620609,1.43584237980177,True,Digital Wellbeing
-Iceland,2021,"E-waste generated, kilograms per inhabitant",22.1316249271986,2.576963123212529,True,Digital Wellbeing
-Israel,2021,"E-waste generated, kilograms per inhabitant",14.319638190475054,2.020243105978939,True,Digital Wellbeing
-Italy,2021,"E-waste generated, kilograms per inhabitant",46.436930709246546,4.309076951598851,True,Digital Wellbeing
-Jamaica,2021,"E-waste generated, kilograms per inhabitant",5.900001908824147,1.4202190386330185,True,Digital Wellbeing
-Jordan,2021,"E-waste generated, kilograms per inhabitant",5.1108556475668045,1.3639806533191088,True,Digital Wellbeing
-Japan,2021,"E-waste generated, kilograms per inhabitant",4.101649214239279,1.2920597141407104,True,Digital Wellbeing
-Kazakhstan,2021,"E-waste generated, kilograms per inhabitant",8.754468947958197,1.6236421872859728,True,Digital Wellbeing
-Kenya,2021,"E-waste generated, kilograms per inhabitant",0.4195873330767926,1.0296581480577054,True,Digital Wellbeing
-Kyrgyz Republic,2021,"E-waste generated, kilograms per inhabitant",1.2086823683459518,1.085892882759551,True,Digital Wellbeing
-Cambodia,2021,"E-waste generated, kilograms per inhabitant",0.9167829562190299,1.0650907166491244,True,Digital Wellbeing
-Kiribati,2021,"E-waste generated, kilograms per inhabitant",0.8741640805979283,1.0620534891204705,True,Digital Wellbeing
-St. Kitts and Nevis,2021,"E-waste generated, kilograms per inhabitant",12.894193928676687,1.9186590428284758,True,Digital Wellbeing
-"Korea, Rep.",2021,"E-waste generated, kilograms per inhabitant",11.057396653980442,1.7877599713264178,True,Digital Wellbeing
-Kuwait,2021,"E-waste generated, kilograms per inhabitant",22.347613458333207,2.5923555122203408,True,Digital Wellbeing
-Lao PDR,2021,"E-waste generated, kilograms per inhabitant",1.1254557533073017,1.0799617510103383,True,Digital Wellbeing
-Lebanon,2021,"E-waste generated, kilograms per inhabitant",9.101813420320495,1.6483956369725292,True,Digital Wellbeing
-Liberia,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Libya,2021,"E-waste generated, kilograms per inhabitant",11.302169806705448,1.805203691905562,True,Digital Wellbeing
-St. Lucia,2021,"E-waste generated, kilograms per inhabitant",9.029039648770357,1.643209425485368,True,Digital Wellbeing
-Liechtenstein,2021,"E-waste generated, kilograms per inhabitant",8.017512655630044,1.5711231119735887,True,Digital Wellbeing
-Sri Lanka,2021,"E-waste generated, kilograms per inhabitant",0.003419327453662218,1.0,True,Digital Wellbeing
-Lesotho,2021,"E-waste generated, kilograms per inhabitant",0.9157220315598511,1.0650151100186414,True,Digital Wellbeing
-Lithuania,2021,"E-waste generated, kilograms per inhabitant",29.671915614939337,3.114320763861305,True,Digital Wellbeing
-Luxembourg,2021,"E-waste generated, kilograms per inhabitant",11.934259940377096,1.8502494967654988,True,Digital Wellbeing
-Latvia,2021,"E-waste generated, kilograms per inhabitant",13.107038988618191,1.9338274128516457,True,Digital Wellbeing
-"Macao SAR, China",2021,"E-waste generated, kilograms per inhabitant",17.968952916442735,2.280310951150886,True,Digital Wellbeing
-St. Martin (French part),2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Morocco,2021,"E-waste generated, kilograms per inhabitant",0.882916526798702,1.0626772308348316,True,Digital Wellbeing
-Monaco,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Moldova,2021,"E-waste generated, kilograms per inhabitant",1.7725966684186298,1.1260801474637923,True,Digital Wellbeing
-Madagascar,2021,"E-waste generated, kilograms per inhabitant",0.5623720402761214,1.0398336779621562,True,Digital Wellbeing
-Maldives,2021,"E-waste generated, kilograms per inhabitant",7.34169511906013,1.5229610805613636,True,Digital Wellbeing
-Mexico,2021,"E-waste generated, kilograms per inhabitant",7.608966210693204,1.542008113250312,True,Digital Wellbeing
-Marshall Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-"Macedonia, FYR",2021,"E-waste generated, kilograms per inhabitant",0.5857055207066105,1.0414965348083303,True,Digital Wellbeing
-Mali,2021,"E-waste generated, kilograms per inhabitant",0.749687474034262,1.0531826831543598,True,Digital Wellbeing
-Malta,2021,"E-waste generated, kilograms per inhabitant",15.205320569060564,2.0833611226483346,True,Digital Wellbeing
-Myanmar,2021,"E-waste generated, kilograms per inhabitant",1.1931759706334661,1.0847878217433637,True,Digital Wellbeing
-Montenegro,2021,"E-waste generated, kilograms per inhabitant",9.964209203393617,1.7098541380421315,True,Digital Wellbeing
-Mongolia,2021,"E-waste generated, kilograms per inhabitant",4.624433259188254,1.3293158376240315,True,Digital Wellbeing
-Northern Mariana Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Mozambique,2021,"E-waste generated, kilograms per inhabitant",0.6247156165895363,1.0442765832113994,True,Digital Wellbeing
-Mauritania,2021,"E-waste generated, kilograms per inhabitant",1.4545296906586112,1.1034131538669416,True,Digital Wellbeing
-Mauritius,2021,"E-waste generated, kilograms per inhabitant",8.706161508793619,1.6201995651630001,True,Digital Wellbeing
-Malawi,2021,"E-waste generated, kilograms per inhabitant",0.5730781056595565,1.040596644043083,True,Digital Wellbeing
-Malaysia,2021,"E-waste generated, kilograms per inhabitant",9.262930124160315,1.6598775937603798,True,Digital Wellbeing
-Namibia,2021,"E-waste generated, kilograms per inhabitant",8.974456772926372,1.639319585345513,True,Digital Wellbeing
-New Caledonia,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Niger,2021,"E-waste generated, kilograms per inhabitant",0.8934210846245059,1.0634258365110703,True,Digital Wellbeing
-Nigeria,2021,"E-waste generated, kilograms per inhabitant",1.7940161672332908,1.1276066047084232,True,Digital Wellbeing
-Nicaragua,2021,"E-waste generated, kilograms per inhabitant",1.8822797824154285,1.133896697487806,True,Digital Wellbeing
-Netherlands,2021,"E-waste generated, kilograms per inhabitant",30.83220589804908,3.197008670046838,True,Digital Wellbeing
-Norway,2021,"E-waste generated, kilograms per inhabitant",28.048413806102438,2.998622160489953,True,Digital Wellbeing
-Nepal,2021,"E-waste generated, kilograms per inhabitant",0.7935748864877383,1.0563103127626616,True,Digital Wellbeing
-Nauru,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-New Zealand,2021,"E-waste generated, kilograms per inhabitant",20.244209090715366,2.4424567277940183,True,Digital Wellbeing
-Oman,2021,"E-waste generated, kilograms per inhabitant",14.895510518376389,2.0612825576726377,True,Digital Wellbeing
-Pakistan,2021,"E-waste generated, kilograms per inhabitant",1.557943016676222,1.110782888427814,True,Digital Wellbeing
-Panama,2021,"E-waste generated, kilograms per inhabitant",0.8061978475021345,1.0572098861119656,True,Digital Wellbeing
-Peru,2021,"E-waste generated, kilograms per inhabitant",5.876018464128877,1.418509862184817,True,Digital Wellbeing
-Philippines,2021,"E-waste generated, kilograms per inhabitant",2.806807697203599,1.1997830352403043,True,Digital Wellbeing
-Palau,2021,"E-waste generated, kilograms per inhabitant",9.301027763567875,1.6625926160949458,True,Digital Wellbeing
-Papua New Guinea,2021,"E-waste generated, kilograms per inhabitant",0.9025520949845824,1.064076556541242,True,Digital Wellbeing
-Poland,2021,"E-waste generated, kilograms per inhabitant",5.911162640668352,1.4210144064484087,True,Digital Wellbeing
-Puerto Rico,2021,"E-waste generated, kilograms per inhabitant",0.27249947526489404,1.0191759547955295,True,Digital Wellbeing
-Portugal,2021,"E-waste generated, kilograms per inhabitant",16.561602279856782,2.1800163273811526,True,Digital Wellbeing
-Paraguay,2021,"E-waste generated, kilograms per inhabitant",5.151285885973726,1.3668619079578104,True,Digital Wellbeing
-West Bank and Gaza,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-French Polynesia,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Qatar,2021,"E-waste generated, kilograms per inhabitant",13.746890358594746,1.9794263210072023,True,Digital Wellbeing
-Romania,2021,"E-waste generated, kilograms per inhabitant",6.833244612261362,1.4867264344403233,True,Digital Wellbeing
-Russian Federation,2021,"E-waste generated, kilograms per inhabitant",9.720556351014876,1.6924902554925565,True,Digital Wellbeing
-Rwanda,2021,"E-waste generated, kilograms per inhabitant",0.4950699424745509,1.0350374044518837,True,Digital Wellbeing
-Saudi Arabia,2021,"E-waste generated, kilograms per inhabitant",16.097781218731328,2.146962191750174,True,Digital Wellbeing
-Sudan,2021,"E-waste generated, kilograms per inhabitant",1.3196092590409536,1.09379807033611,True,Digital Wellbeing
-Senegal,2021,"E-waste generated, kilograms per inhabitant",0.9732919602061146,1.0691178220108952,True,Digital Wellbeing
-Singapore,2021,"E-waste generated, kilograms per inhabitant",17.53278631040045,2.249227605951247,True,Digital Wellbeing
-Solomon Islands,2021,"E-waste generated, kilograms per inhabitant",0.7098327811425823,1.0503424446770988,True,Digital Wellbeing
-Sierra Leone,2021,"E-waste generated, kilograms per inhabitant",0.6250350433250393,1.04429934710792,True,Digital Wellbeing
-El Salvador,2021,"E-waste generated, kilograms per inhabitant",4.882696857846689,1.3477209527300302,True,Digital Wellbeing
-San Marino,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Somalia,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Serbia,2021,"E-waste generated, kilograms per inhabitant",2.0717137210717103,1.1473966776013902,True,Digital Wellbeing
-South Sudan,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-São Tomé and Príncipe,2021,"E-waste generated, kilograms per inhabitant",1.045664153587151,1.0742754150924245,True,Digital Wellbeing
-Suriname,2021,"E-waste generated, kilograms per inhabitant",9.503842403483729,1.6770461697983068,True,Digital Wellbeing
-Slovak Republic,2021,"E-waste generated, kilograms per inhabitant",5.6675075672804525,1.403650365618962,True,Digital Wellbeing
-Slovenia,2021,"E-waste generated, kilograms per inhabitant",12.62436863788623,1.8994299855346681,True,Digital Wellbeing
-Sweden,2021,"E-waste generated, kilograms per inhabitant",70.16424069994778,6.0,True,Digital Wellbeing
-Eswatini,2021,"E-waste generated, kilograms per inhabitant",4.243919654410922,1.3021985948855859,True,Digital Wellbeing
-Sint Maarten (Dutch part),2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Seychelles,2021,"E-waste generated, kilograms per inhabitant",12.457107912528453,1.887510176010934,True,Digital Wellbeing
-Syrian Arab Republic,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Turks and Caicos Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Chad,2021,"E-waste generated, kilograms per inhabitant",0.7402919543219675,1.0525131129064282,True,Digital Wellbeing
-Togo,2021,"E-waste generated, kilograms per inhabitant",0.8853334144888964,1.0628494699593825,True,Digital Wellbeing
-Thailand,2021,"E-waste generated, kilograms per inhabitant",5.596365151126751,1.3985804124198686,True,Digital Wellbeing
-Tajikistan,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Turkmenistan,2021,"E-waste generated, kilograms per inhabitant",4.099676554154771,1.2919191328272424,True,Digital Wellbeing
-Timor-Leste,2021,"E-waste generated, kilograms per inhabitant",2.8376151106157548,1.201978520755546,True,Digital Wellbeing
-Tonga,2021,"E-waste generated, kilograms per inhabitant",2.8584768129889184,1.2034652267237107,True,Digital Wellbeing
-Trinidad and Tobago,2021,"E-waste generated, kilograms per inhabitant",0.0535125367065733,1.0035698847499916,True,Digital Wellbeing
-Tunisia,2021,"E-waste generated, kilograms per inhabitant",8.076161432775647,1.5753027079360011,True,Digital Wellbeing
-Turkey,2021,"E-waste generated, kilograms per inhabitant",7.467372257832278,1.5319174422681991,True,Digital Wellbeing
-Tuvalu,2021,"E-waste generated, kilograms per inhabitant",0.901144453455889,1.0639762411870917,True,Digital Wellbeing
-,2021,"E-waste generated, kilograms per inhabitant",0.5989587778441581,1.0424410261126142,True,Digital Wellbeing
-Tanzania,2021,"E-waste generated, kilograms per inhabitant",0.7741988691969822,1.0549294839103391,True,Digital Wellbeing
-Uganda,2021,"E-waste generated, kilograms per inhabitant",0.7123796306385702,1.0505239455094841,True,Digital Wellbeing
-Ukraine,2021,"E-waste generated, kilograms per inhabitant",6.1549203677736015,1.4383857628790229,True,Digital Wellbeing
-Uruguay,2021,"E-waste generated, kilograms per inhabitant",10.782293259726211,1.768154770811898,True,Digital Wellbeing
-United States,2021,"E-waste generated, kilograms per inhabitant",7.468911695816155,1.5320271500761868,True,Digital Wellbeing
-Uzbekistan,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-St. Vincent and the Grenadines,2021,"E-waste generated, kilograms per inhabitant",8.222557215293957,1.5857355805602449,True,Digital Wellbeing
-"Venezuela, RB",2021,"E-waste generated, kilograms per inhabitant",7.784410304993664,1.5545111092863049,True,Digital Wellbeing
-British Virgin Islands,2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Virgin Islands (U.S.),2021,"E-waste generated, kilograms per inhabitant",,,True,Digital Wellbeing
-Vietnam,2021,"E-waste generated, kilograms per inhabitant",1.6219481377826768,1.1153442034077685,True,Digital Wellbeing
-Vanuatu,2021,"E-waste generated, kilograms per inhabitant",1.1094592495617637,1.0788217626640924,True,Digital Wellbeing
-Samoa,2021,"E-waste generated, kilograms per inhabitant",2.6643220632510056,1.1896288187441693,True,Digital Wellbeing
-Kosovo,2021,"E-waste generated, kilograms per inhabitant",0.012765012765012766,1.0006660188071155,True,Digital Wellbeing
-"Yemen, Rep.",2021,"E-waste generated, kilograms per inhabitant",1.5226101075499274,1.1082648941658377,True,Digital Wellbeing
-South Africa,2021,"E-waste generated, kilograms per inhabitant",6.205375424826574,1.441981434656089,True,Digital Wellbeing
-Zambia,2021,"E-waste generated, kilograms per inhabitant",1.0515426972602966,1.0746943485910743,True,Digital Wellbeing
-Zimbabwe,2021,"E-waste generated, kilograms per inhabitant",1.039956321834483,1.0738686473521806,True,Digital Wellbeing
+Country Name,Year,Indicator,data_col,higher_is_better,Sub-Pillar,new_rank_score
+Afghanistan,2020.0,"E-waste generated, kilograms per inhabitant",0.5137645089987266,False,Digital Wellbeing,5.963146426518616
+Angola,2020.0,"E-waste generated, kilograms per inhabitant",2.799222595032694,False,Digital Wellbeing,5.799204978565299
+Albania,2020.0,"E-waste generated, kilograms per inhabitant",7.0478545802068755,False,Digital Wellbeing,5.494440308529744
+United Arab Emirates (the),2020.0,"E-waste generated, kilograms per inhabitant",13.548491466472539,False,Digital Wellbeing,5.028133868579877
+Argentina,2020.0,"E-waste generated, kilograms per inhabitant",6.428400368708539,False,Digital Wellbeing,5.538875260539758
+Armenia,2020.0,"E-waste generated, kilograms per inhabitant",4.724567820158651,False,Digital Wellbeing,5.661095298958396
+Antigua and Barbuda,2020.0,"E-waste generated, kilograms per inhabitant",11.232742423004657,False,Digital Wellbeing,5.194248160328472
+Australia,2020.0,"E-waste generated, kilograms per inhabitant",22.3458980736629,False,Digital Wellbeing,4.397074569689092
+Austria,2020.0,"E-waste generated, kilograms per inhabitant",18.635211369481805,False,Digital Wellbeing,4.663251120859295
+Azerbaijan,2020.0,"E-waste generated, kilograms per inhabitant",6.231382508370824,False,Digital Wellbeing,5.553007829189258
+Burundi,2020.0,"E-waste generated, kilograms per inhabitant",0.42049382626759335,False,Digital Wellbeing,5.969836958658311
+Belgium,2020.0,"E-waste generated, kilograms per inhabitant",52.23045661919088,False,Digital Wellbeing,2.2533827516949625
+Benin,2020.0,"E-waste generated, kilograms per inhabitant",0.6763891837780757,False,Digital Wellbeing,5.95148096443065
+Burkina Faso,2020.0,"E-waste generated, kilograms per inhabitant",0.5262332539422764,False,Digital Wellbeing,5.962252013222351
+Bangladesh,2020.0,"E-waste generated, kilograms per inhabitant",0.8622292306480983,False,Digital Wellbeing,5.938150207433722
+Bulgaria,2020.0,"E-waste generated, kilograms per inhabitant",7.764221727175195,False,Digital Wellbeing,5.443053556763067
+Bahrain,2020.0,"E-waste generated, kilograms per inhabitant",11.753761056616105,False,Digital Wellbeing,5.156874230906233
+Bahamas (the),2020.0,"E-waste generated, kilograms per inhabitant",12.460330376759703,False,Digital Wellbeing,5.106190301005446
+Bosnia and Herzegovina,2020.0,"E-waste generated, kilograms per inhabitant",0.4294664587914893,False,Digital Wellbeing,5.969193329979706
+Belarus,2020.0,"E-waste generated, kilograms per inhabitant",7.660502692826291,False,Digital Wellbeing,5.450493574488785
+Belize,2020.0,"E-waste generated, kilograms per inhabitant",5.7844027352680065,False,Digital Wellbeing,5.5850707716934815
+Bolivia (Plurinational State of),2020.0,"E-waste generated, kilograms per inhabitant",3.0319465496059337,False,Digital Wellbeing,5.782511125232654
+Brazil,2020.0,"E-waste generated, kilograms per inhabitant",6.6423782727021035,False,Digital Wellbeing,5.523526106851451
+Barbados,2020.0,"E-waste generated, kilograms per inhabitant",13.223324552581854,False,Digital Wellbeing,5.051458879445535
+Brunei Darussalam,2020.0,"E-waste generated, kilograms per inhabitant",17.600683912289163,False,Digital Wellbeing,4.737460282828193
+Bhutan,2020.0,"E-waste generated, kilograms per inhabitant",1.8889027127623728,False,Digital Wellbeing,5.864504430133483
+Botswana,2020.0,"E-waste generated, kilograms per inhabitant",6.803805878913518,False,Digital Wellbeing,5.511946513393291
+Central African Republic (the),2020.0,"E-waste generated, kilograms per inhabitant",0.559033526275818,False,Digital Wellbeing,5.959899170187301
+Canada,2020.0,"E-waste generated, kilograms per inhabitant",19.050005686058327,False,Digital Wellbeing,4.63349691916209
+Switzerland,2020.0,"E-waste generated, kilograms per inhabitant",21.303949937570163,False,Digital Wellbeing,4.471816034941571
+Chile,2020.0,"E-waste generated, kilograms per inhabitant",9.20684639930438,False,Digital Wellbeing,5.339570592429883
+China,2020.0,"E-waste generated, kilograms per inhabitant",5.142955769581888,False,Digital Wellbeing,5.63108331726693
+Côte d'Ivoire,2020.0,"E-waste generated, kilograms per inhabitant",0.834019662013532,False,Digital Wellbeing,5.940173748165599
+Cameroon,2020.0,"E-waste generated, kilograms per inhabitant",0.7157423845763694,False,Digital Wellbeing,5.9486580639539826
+Colombia,2020.0,"E-waste generated, kilograms per inhabitant",4.9564800611537665,False,Digital Wellbeing,5.644459671808123
+Comoros (the),2020.0,"E-waste generated, kilograms per inhabitant",0.6899763683093854,False,Digital Wellbeing,5.950506322751906
+Cabo Verde,2020.0,"E-waste generated, kilograms per inhabitant",4.316639927480449,False,Digital Wellbeing,5.69035695542669
+Costa Rica,2020.0,"E-waste generated, kilograms per inhabitant",7.027718657258161,False,Digital Wellbeing,5.495884707087854
+Cyprus,2020.0,"E-waste generated, kilograms per inhabitant",15.0220190978506,False,Digital Wellbeing,4.922434160077872
+Czechia,2020.0,"E-waste generated, kilograms per inhabitant",7.438244095465551,False,Digital Wellbeing,5.466436722382879
+Germany,2020.0,"E-waste generated, kilograms per inhabitant",29.614001113039592,False,Digital Wellbeing,3.8757159224093054
+Djibouti,2020.0,"E-waste generated, kilograms per inhabitant",0.9109293301025706,False,Digital Wellbeing,5.934656831261643
+Denmark,2020.0,"E-waste generated, kilograms per inhabitant",28.914820513207452,False,Digital Wellbeing,3.9258698414935367
+Dominican Republic (the),2020.0,"E-waste generated, kilograms per inhabitant",5.254471278506889,False,Digital Wellbeing,5.623084039522948
+Algeria,2020.0,"E-waste generated, kilograms per inhabitant",5.746727620595022,False,Digital Wellbeing,5.5877732989850735
+Ecuador,2020.0,"E-waste generated, kilograms per inhabitant",4.137604247789215,False,Digital Wellbeing,5.703199618673612
+Egypt,2020.0,"E-waste generated, kilograms per inhabitant",4.856626759233647,False,Digital Wellbeing,5.65162239117705
+Spain,2020.0,"E-waste generated, kilograms per inhabitant",25.397195408548992,False,Digital Wellbeing,4.178197616191601
+Estonia,2020.0,"E-waste generated, kilograms per inhabitant",25.778009506730367,False,Digital Wellbeing,4.150880897920372
+Ethiopia,2020.0,"E-waste generated, kilograms per inhabitant",0.4262219280343759,False,Digital Wellbeing,5.9694260680349345
+Finland,2020.0,"E-waste generated, kilograms per inhabitant",38.50385456212836,False,Digital Wellbeing,3.2380251874785646
+Fiji,2020.0,"E-waste generated, kilograms per inhabitant",5.131385786507579,False,Digital Wellbeing,5.631913260195916
+France,2020.0,"E-waste generated, kilograms per inhabitant",32.92224242487734,False,Digital Wellbeing,3.6384077546700166
+Micronesia (Federated States of),2020.0,"E-waste generated, kilograms per inhabitant",1.7388129124246876,False,Digital Wellbeing,5.8752707352960005
+Gabon,2020.0,"E-waste generated, kilograms per inhabitant",6.2900767748799495,False,Digital Wellbeing,5.54879754719071
+United Kingdom of Great Britain and Northern Ireland (the),2020.0,"E-waste generated, kilograms per inhabitant",53.32307336665184,False,Digital Wellbeing,2.175006704139598
+Georgia,2020.0,"E-waste generated, kilograms per inhabitant",5.654281098546042,False,Digital Wellbeing,5.594404712081456
+Ghana,2020.0,"E-waste generated, kilograms per inhabitant",1.2551111585979378,False,Digital Wellbeing,5.909967834483465
+Gibraltar,2020.0,"E-waste generated, kilograms per inhabitant",5.979044848772669,False,Digital Wellbeing,5.571108621122599
+Guinea,2020.0,"E-waste generated, kilograms per inhabitant",0.6091621644506362,False,Digital Wellbeing,5.956303321470351
+Gambia (the),2020.0,"E-waste generated, kilograms per inhabitant",0.9103458321057458,False,Digital Wellbeing,5.9346986869872245
+Guinea-Bissau,2020.0,"E-waste generated, kilograms per inhabitant",0.5081305976936968,False,Digital Wellbeing,5.963550560631874
+Greece,2020.0,"E-waste generated, kilograms per inhabitant",17.587526313397476,False,Digital Wellbeing,4.738404109287788
+Grenada,2020.0,"E-waste generated, kilograms per inhabitant",7.10991032625601,False,Digital Wellbeing,5.489988899456312
+Guatemala,2020.0,"E-waste generated, kilograms per inhabitant",3.2624815276812957,False,Digital Wellbeing,5.765974292489793
+Guyana,2020.0,"E-waste generated, kilograms per inhabitant",6.356802223355146,False,Digital Wellbeing,5.544011169043937
+"China, Hong Kong Special Administrative Region",2020.0,"E-waste generated, kilograms per inhabitant",9.356037317223128,False,Digital Wellbeing,5.328868766281968
+Honduras,2020.0,"E-waste generated, kilograms per inhabitant",0.17163728236392597,False,Digital Wellbeing,5.987688041725436
+Croatia,2020.0,"E-waste generated, kilograms per inhabitant",14.350168017394742,False,Digital Wellbeing,4.970627666496565
+Haiti,2020.0,"E-waste generated, kilograms per inhabitant",0.526198871776999,False,Digital Wellbeing,5.962254479538401
+Hungary,2020.0,"E-waste generated, kilograms per inhabitant",5.13509918138523,False,Digital Wellbeing,5.6316468893808995
+Indonesia,2020.0,"E-waste generated, kilograms per inhabitant",4.657733015314243,False,Digital Wellbeing,5.665889521502589
+India,2020.0,"E-waste generated, kilograms per inhabitant",1.2318801436272249,False,Digital Wellbeing,5.911634251494129
+Ireland,2020.0,"E-waste generated, kilograms per inhabitant",42.61977238381941,False,Digital Wellbeing,2.9427804260592714
+Iran (Islamic Republic of),2020.0,"E-waste generated, kilograms per inhabitant",7.500629249218086,False,Digital Wellbeing,5.461961684096472
+Iraq,2020.0,"E-waste generated, kilograms per inhabitant",5.494436783310079,False,Digital Wellbeing,5.605870732240401
+Iceland,2020.0,"E-waste generated, kilograms per inhabitant",20.740942894180254,False,Digital Wellbeing,4.512201894767786
+Israel,2020.0,"E-waste generated, kilograms per inhabitant",13.019561891742343,False,Digital Wellbeing,5.066075268982925
+Italy,2020.0,"E-waste generated, kilograms per inhabitant",47.016571827565706,False,Digital Wellbeing,2.6273873450953724
+Jamaica,2020.0,"E-waste generated, kilograms per inhabitant",5.740991455716187,False,Digital Wellbeing,5.5881847679950205
+Jordan,2020.0,"E-waste generated, kilograms per inhabitant",4.214388903808043,False,Digital Wellbeing,5.697691669188452
+Japan,2020.0,"E-waste generated, kilograms per inhabitant",4.124240387416573,False,Digital Wellbeing,5.704158240769166
+Kazakhstan,2020.0,"E-waste generated, kilograms per inhabitant",7.838143927517963,False,Digital Wellbeing,5.437750938161507
+Kenya,2020.0,"E-waste generated, kilograms per inhabitant",0.3226628331470506,False,Digital Wellbeing,5.9768546129154165
+Kyrgyzstan,2020.0,"E-waste generated, kilograms per inhabitant",1.0922992900054616,False,Digital Wellbeing,5.921646724437363
+Cambodia,2020.0,"E-waste generated, kilograms per inhabitant",0.8373721086064447,False,Digital Wellbeing,5.9399332690459055
+Kiribati,2020.0,"E-waste generated, kilograms per inhabitant",0.8371983992766606,False,Digital Wellbeing,5.939945729637163
+Saint Kitts and Nevis,2020.0,"E-waste generated, kilograms per inhabitant",13.159873665212814,False,Digital Wellbeing,5.0560103653873565
+Republic of Korea (the),2020.0,"E-waste generated, kilograms per inhabitant",11.020251434422933,False,Digital Wellbeing,5.209490653970336
+Kuwait,2020.0,"E-waste generated, kilograms per inhabitant",15.688797940693066,False,Digital Wellbeing,4.874604497557161
+Lao People's Democratic Republic (the),2020.0,"E-waste generated, kilograms per inhabitant",1.0308490512615118,False,Digital Wellbeing,5.926054699004179
+Lebanon,2020.0,"E-waste generated, kilograms per inhabitant",7.472043568753496,False,Digital Wellbeing,5.464012204241529
+Libya,2020.0,"E-waste generated, kilograms per inhabitant",10.187320075554988,False,Digital Wellbeing,5.269238839182299
+Saint Lucia,2020.0,"E-waste generated, kilograms per inhabitant",8.713220678650975,False,Digital Wellbeing,5.374979561811314
+Liechtenstein,2020.0,"E-waste generated, kilograms per inhabitant",7.682827700133728,False,Digital Wellbeing,5.44889214760377
+Sri Lanka,2020.0,"E-waste generated, kilograms per inhabitant",0.0033076326474747934,False,Digital Wellbeing,5.999762735493231
+Lesotho,2020.0,"E-waste generated, kilograms per inhabitant",0.8402372830087217,False,Digital Wellbeing,5.939727743141484
+Lithuania,2020.0,"E-waste generated, kilograms per inhabitant",29.58850681647404,False,Digital Wellbeing,3.877544690094457
+Luxembourg,2020.0,"E-waste generated, kilograms per inhabitant",11.700604958285556,False,Digital Wellbeing,5.160687246678044
+Latvia,2020.0,"E-waste generated, kilograms per inhabitant",13.184521242692796,False,Digital Wellbeing,5.054242334914471
+"China, Macao Special Administrative Region",2020.0,"E-waste generated, kilograms per inhabitant",16.940225643805576,False,Digital Wellbeing,4.784836555230474
+Morocco,2020.0,"E-waste generated, kilograms per inhabitant",0.8209033306947026,False,Digital Wellbeing,5.941114614402169
+Republic of Moldova (the),2020.0,"E-waste generated, kilograms per inhabitant",2.406582576342147,False,Digital Wellbeing,5.827369998778051
+Madagascar,2020.0,"E-waste generated, kilograms per inhabitant",0.5055790832399487,False,Digital Wellbeing,5.963733586947945
+Maldives,2020.0,"E-waste generated, kilograms per inhabitant",5.5572924953102625,False,Digital Wellbeing,5.601361939670362
+Mexico,2020.0,"E-waste generated, kilograms per inhabitant",7.429454329575977,False,Digital Wellbeing,5.467067233594576
+North Macedonia,2020.0,"E-waste generated, kilograms per inhabitant",0.5855868828538241,False,Digital Wellbeing,5.957994433560529
+Mali,2020.0,"E-waste generated, kilograms per inhabitant",0.592568187562053,False,Digital Wellbeing,5.957493647652678
+Malta,2020.0,"E-waste generated, kilograms per inhabitant",14.550196559962687,False,Digital Wellbeing,4.956279134313467
+Myanmar,2020.0,"E-waste generated, kilograms per inhabitant",1.010847422065226,False,Digital Wellbeing,5.927489464345928
+Montenegro,2020.0,"E-waste generated, kilograms per inhabitant",9.972366893028672,False,Digital Wellbeing,5.284657951963619
+Mongolia,2020.0,"E-waste generated, kilograms per inhabitant",4.270516476262639,False,Digital Wellbeing,5.693665502375531
+Mozambique,2020.0,"E-waste generated, kilograms per inhabitant",0.5439054039721412,False,Digital Wellbeing,5.960984347067347
+Mauritania,2020.0,"E-waste generated, kilograms per inhabitant",1.0968543936545898,False,Digital Wellbeing,5.921319975812053
+Mauritius,2020.0,"E-waste generated, kilograms per inhabitant",8.690568363170952,False,Digital Wellbeing,5.376604467304871
+Malawi,2020.0,"E-waste generated, kilograms per inhabitant",0.4966033636775413,False,Digital Wellbeing,5.964377437067304
+Malaysia,2020.0,"E-waste generated, kilograms per inhabitant",8.651054109315584,False,Digital Wellbeing,5.379438920507679
+Namibia,2020.0,"E-waste generated, kilograms per inhabitant",5.5098240162209215,False,Digital Wellbeing,5.604766968728477
+Niger (the),2020.0,"E-waste generated, kilograms per inhabitant",0.3263567891052685,False,Digital Wellbeing,5.976589636501206
+Nigeria,2020.0,"E-waste generated, kilograms per inhabitant",1.3437496602726773,False,Digital Wellbeing,5.903609579918323
+Nicaragua,2020.0,"E-waste generated, kilograms per inhabitant",1.6302984321661504,False,Digital Wellbeing,5.883054741979911
+Netherlands (the),2020.0,"E-waste generated, kilograms per inhabitant",30.640774091646193,False,Digital Wellbeing,3.8020630079845144
+Norway,2020.0,"E-waste generated, kilograms per inhabitant",27.883761891262623,False,Digital Wellbeing,3.9998301755024253
+Nepal,2020.0,"E-waste generated, kilograms per inhabitant",0.7893795367014809,False,Digital Wellbeing,5.943375892551969
+New Zealand,2020.0,"E-waste generated, kilograms per inhabitant",18.6849713824912,False,Digital Wellbeing,4.659681714518926
+Oman,2020.0,"E-waste generated, kilograms per inhabitant",11.55362586069617,False,Digital Wellbeing,5.171230413592774
+Pakistan,2020.0,"E-waste generated, kilograms per inhabitant",1.3626548220906773,False,Digital Wellbeing,5.90225346683921
+Panama,2020.0,"E-waste generated, kilograms per inhabitant",0.7416389479109885,False,Digital Wellbeing,5.94680044069848
+Peru,2020.0,"E-waste generated, kilograms per inhabitant",5.519860792750276,False,Digital Wellbeing,5.604047006421112
+Philippines (the),2020.0,"E-waste generated, kilograms per inhabitant",2.646442130044615,False,Digital Wellbeing,5.810164291624761
+Palau,2020.0,"E-waste generated, kilograms per inhabitant",11.054609772275038,False,Digital Wellbeing,5.207026047119236
+Papua New Guinea,2020.0,"E-waste generated, kilograms per inhabitant",0.782382795983515,False,Digital Wellbeing,5.943877785722211
+Poland,2020.0,"E-waste generated, kilograms per inhabitant",5.9142887151633845,False,Digital Wellbeing,5.575753735540859
+Puerto Rico,2020.0,"E-waste generated, kilograms per inhabitant",0.2963149421703088,False,Digital Wellbeing,5.978744610996606
+Portugal,2020.0,"E-waste generated, kilograms per inhabitant",16.503512083375544,False,Digital Wellbeing,4.816163077416663
+Paraguay,2020.0,"E-waste generated, kilograms per inhabitant",4.794932513427914,False,Digital Wellbeing,5.656047868961825
+Qatar,2020.0,"E-waste generated, kilograms per inhabitant",10.065739693029649,False,Digital Wellbeing,5.277960094704649
+Romania,2020.0,"E-waste generated, kilograms per inhabitant",6.858195397799755,False,Digital Wellbeing,5.508045021375484
+Russian Federation (the),2020.0,"E-waste generated, kilograms per inhabitant",9.65968486110872,False,Digital Wellbeing,5.307087391984941
+Rwanda,2020.0,"E-waste generated, kilograms per inhabitant",0.4555207532552941,False,Digital Wellbeing,5.967324392288003
+Saudi Arabia,2020.0,"E-waste generated, kilograms per inhabitant",14.591886618053662,False,Digital Wellbeing,4.953288605399173
+Sudan (the),2020.0,"E-waste generated, kilograms per inhabitant",1.163075261300251,False,Digital Wellbeing,5.916569792471175
+Sudan (the),2020.0,"E-waste generated, kilograms per inhabitant",4.556122450346976,False,Digital Wellbeing,5.6731782936091015
+Senegal,2020.0,"E-waste generated, kilograms per inhabitant",0.895847032327536,False,Digital Wellbeing,5.935738721037181
+Singapore,2020.0,"E-waste generated, kilograms per inhabitant",17.587652904855897,False,Digital Wellbeing,4.7383950285756455
+Solomon Islands,2020.0,"E-waste generated, kilograms per inhabitant",0.5823450452627686,False,Digital Wellbeing,5.958226978428429
+Sierra Leone,2020.0,"E-waste generated, kilograms per inhabitant",0.42622619949767987,False,Digital Wellbeing,5.969425761632519
+El Salvador,2020.0,"E-waste generated, kilograms per inhabitant",4.640620911994556,False,Digital Wellbeing,5.6671170141496425
+Serbia,2020.0,"E-waste generated, kilograms per inhabitant",2.0827350126457973,False,Digital Wellbeing,5.850600369456459
+Sao Tome and Principe,2020.0,"E-waste generated, kilograms per inhabitant",0.9125711235119387,False,Digital Wellbeing,5.934539061441047
+Suriname,2020.0,"E-waste generated, kilograms per inhabitant",8.523201860103574,False,Digital Wellbeing,5.388610072229073
+Slovakia,2020.0,"E-waste generated, kilograms per inhabitant",5.6625718309079955,False,Digital Wellbeing,5.593809997754242
+Slovenia,2020.0,"E-waste generated, kilograms per inhabitant",12.551151692803193,False,Digital Wellbeing,5.099675467874976
+Sweden,2020.0,"E-waste generated, kilograms per inhabitant",69.70348604840787,False,Digital Wellbeing,1.0
+Eswatini,2020.0,"E-waste generated, kilograms per inhabitant",4.913098492971684,False,Digital Wellbeing,5.647571536841097
+Seychelles,2020.0,"E-waste generated, kilograms per inhabitant",11.171822632081412,False,Digital Wellbeing,5.198618084587421
+Chad,2020.0,"E-waste generated, kilograms per inhabitant",0.5357406270198716,False,Digital Wellbeing,5.9615700263077365
+Togo,2020.0,"E-waste generated, kilograms per inhabitant",0.7730647802919697,False,Digital Wellbeing,5.944546189572564
+Thailand,2020.0,"E-waste generated, kilograms per inhabitant",5.5047725086675525,False,Digital Wellbeing,5.60512932560901
+Turkmenistan,2020.0,"E-waste generated, kilograms per inhabitant",3.647706496250241,False,Digital Wellbeing,5.738341171794695
+Timor-Leste,2020.0,"E-waste generated, kilograms per inhabitant",2.7304955394321477,False,Digital Wellbeing,5.804134936842623
+Tonga,2020.0,"E-waste generated, kilograms per inhabitant",2.838301938560224,False,Digital Wellbeing,5.796401722534432
+Trinidad and Tobago,2020.0,"E-waste generated, kilograms per inhabitant",0.05078274887083947,False,Digital Wellbeing,5.996357230337406
+Tunisia,2020.0,"E-waste generated, kilograms per inhabitant",7.615103559485551,False,Digital Wellbeing,5.453750164360718
+Turkey,2020.0,"E-waste generated, kilograms per inhabitant",7.386849560477115,False,Digital Wellbeing,5.470123376946522
+Tuvalu,2020.0,"E-waste generated, kilograms per inhabitant",0.8480325644504749,False,Digital Wellbeing,5.939168568709639
+United Republic of Tanzania (the),2020.0,"E-waste generated, kilograms per inhabitant",0.6361513459631585,False,Digital Wellbeing,5.954367322064684
+Uganda,2020.0,"E-waste generated, kilograms per inhabitant",0.5465556065674122,False,Digital Wellbeing,5.960794241611687
+Ukraine,2020.0,"E-waste generated, kilograms per inhabitant",6.276241685877366,False,Digital Wellbeing,5.549789971658044
+Uruguay,2020.0,"E-waste generated, kilograms per inhabitant",10.65138394583109,False,Digital Wellbeing,5.235950412979784
+United States of America (the),2020.0,"E-waste generated, kilograms per inhabitant",7.405516168073446,False,Digital Wellbeing,5.468784375939932
+Saint Vincent and the Grenadines,2020.0,"E-waste generated, kilograms per inhabitant",8.111981396522664,False,Digital Wellbeing,5.4181079127886775
+Venezuela (Bolivarian Republic of),2020.0,"E-waste generated, kilograms per inhabitant",8.183305192305387,False,Digital Wellbeing,5.412991684044165
+Viet Nam,2020.0,"E-waste generated, kilograms per inhabitant",1.4485520094328885,False,Digital Wellbeing,5.8960918533954745
+Vanuatu,2020.0,"E-waste generated, kilograms per inhabitant",0.9767214715936838,False,Digital Wellbeing,5.929937401486967
+Samoa,2020.0,"E-waste generated, kilograms per inhabitant",2.5200342724661056,False,Digital Wellbeing,5.819231833633401
+Kosovo (UNSCR 1244),2020.0,"E-waste generated, kilograms per inhabitant",0.01295498761390532,False,Digital Wellbeing,5.999070707338446
+Yemen,2020.0,"E-waste generated, kilograms per inhabitant",1.408168881559854,False,Digital Wellbeing,5.898988633037528
+South Africa,2020.0,"E-waste generated, kilograms per inhabitant",5.412360313471769,False,Digital Wellbeing,5.611758276357012
+Zambia,2020.0,"E-waste generated, kilograms per inhabitant",0.8159288457827031,False,Digital Wellbeing,5.941471446261952
+Zimbabwe,2020.0,"E-waste generated, kilograms per inhabitant",0.8746594799261276,False,Digital Wellbeing,5.937258555524849
