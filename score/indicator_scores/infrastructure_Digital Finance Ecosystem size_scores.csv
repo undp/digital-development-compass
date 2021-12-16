@@ -1,66 +1,66 @@
-Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-United States ,2021,Digital Finance Ecosystem size,31.789,2.5894500000000003,True,Innovation Ecosystem
-United Kingdom ,2021,Digital Finance Ecosystem size,23.262,2.1631,True,Innovation Ecosystem
-Singapore ,2021,Digital Finance Ecosystem size,19.176,1.9588,True,Innovation Ecosystem
-Lithuania ,2021,Digital Finance Ecosystem size,17.343,1.86715,True,Innovation Ecosystem
-Switzerland ,2021,Digital Finance Ecosystem size,16.018,1.8009,True,Innovation Ecosystem
-The Netherlands ,2021,Digital Finance Ecosystem size,14.464,1.7232,True,Innovation Ecosystem
-Sweden ,2021,Digital Finance Ecosystem size,14.272,1.7136,True,Innovation Ecosystem
-Australia ,2021,Digital Finance Ecosystem size,13.555,1.67775,True,Innovation Ecosystem
-Canada ,2021,Digital Finance Ecosystem size,13.322,1.6661000000000001,True,Innovation Ecosystem
-Estonia ,2021,Digital Finance Ecosystem size,13.303,1.6651500000000001,True,Innovation Ecosystem
-Germany ,2021,Digital Finance Ecosystem size,12.787,1.6393499999999999,True,Innovation Ecosystem
-Israel ,2021,Digital Finance Ecosystem size,12.771,1.63855,True,Innovation Ecosystem
-Spain ,2021,Digital Finance Ecosystem size,12.372,1.6186,True,Innovation Ecosystem
-Finland ,2021,Digital Finance Ecosystem size,12.11,1.6055,True,Innovation Ecosystem
-India ,2021,Digital Finance Ecosystem size,12.024,1.6012,True,Innovation Ecosystem
-France ,2021,Digital Finance Ecosystem size,11.803,1.59015,True,Innovation Ecosystem
-Ireland ,2021,Digital Finance Ecosystem size,11.754,1.5877,True,Innovation Ecosystem
-South Korea ,2021,Digital Finance Ecosystem size,11.543,1.57715,True,Innovation Ecosystem
-Brazil ,2021,Digital Finance Ecosystem size,11.456,1.5728,True,Innovation Ecosystem
-Denmark ,2021,Digital Finance Ecosystem size,11.368,1.5684,True,Innovation Ecosystem
-China ,2021,Digital Finance Ecosystem size,11.143,1.55715,True,Innovation Ecosystem
-Japan ,2021,Digital Finance Ecosystem size,11.114,1.5557,True,Innovation Ecosystem
-Luxembourg ,2021,Digital Finance Ecosystem size,11.088,1.5544,True,Innovation Ecosystem
-Italy ,2021,Digital Finance Ecosystem size,10.772,1.5386,True,Innovation Ecosystem
-Austria ,2021,Digital Finance Ecosystem size,10.66,1.533,True,Innovation Ecosystem
-Belgium ,2021,Digital Finance Ecosystem size,10.586,1.5293,True,Innovation Ecosystem
-Norway ,2021,Digital Finance Ecosystem size,10.497,1.52485,True,Innovation Ecosystem
-Portugal ,2021,Digital Finance Ecosystem size,10.394,1.5196999999999998,True,Innovation Ecosystem
-Poland ,2021,Digital Finance Ecosystem size,10.364,1.5182000000000002,True,Innovation Ecosystem
-Mexico ,2021,Digital Finance Ecosystem size,10.294,1.5147,True,Innovation Ecosystem
-Czechia ,2021,Digital Finance Ecosystem size,10.188,1.5094,True,Innovation Ecosystem
-Russia ,2021,Digital Finance Ecosystem size,10.052,1.5026,True,Innovation Ecosystem
-Malta ,2021,Digital Finance Ecosystem size,9.983,1.49915,True,Innovation Ecosystem
-United Arab Emirates ,2021,Digital Finance Ecosystem size,9.928,1.4964,True,Innovation Ecosystem
-Chile ,2021,Digital Finance Ecosystem size,9.746,1.4873,True,Innovation Ecosystem
-Malaysia ,2021,Digital Finance Ecosystem size,9.692,1.4846,True,Innovation Ecosystem
-South Africa ,2021,Digital Finance Ecosystem size,9.614,1.4807000000000001,True,Innovation Ecosystem
-Argentina ,2021,Digital Finance Ecosystem size,9.425,1.47125,True,Innovation Ecosystem
-Thailand ,2021,Digital Finance Ecosystem size,9.415,1.47075,True,Innovation Ecosystem
-Colombia ,2021,Digital Finance Ecosystem size,9.289,1.46445,True,Innovation Ecosystem
-Greece ,2021,Digital Finance Ecosystem size,9.21,1.4605000000000001,True,Innovation Ecosystem
-Kenya ,2021,Digital Finance Ecosystem size,9.039,1.45195,True,Innovation Ecosystem
-Ukraine ,2021,Digital Finance Ecosystem size,8.969,1.44845,True,Innovation Ecosystem
-Turkey ,2021,Digital Finance Ecosystem size,8.937,1.44685,True,Innovation Ecosystem
-New Zealand ,2021,Digital Finance Ecosystem size,8.893,1.44465,True,Innovation Ecosystem
-Philippines ,2021,Digital Finance Ecosystem size,8.831,1.4415499999999999,True,Innovation Ecosystem
-Indonesia ,2021,Digital Finance Ecosystem size,8.658,1.4329,True,Innovation Ecosystem
-Cyprus ,2021,Digital Finance Ecosystem size,8.38,1.419,True,Innovation Ecosystem
-Latvia ,2021,Digital Finance Ecosystem size,8.329,1.41645,True,Innovation Ecosystem
-Taiwan ,2021,Digital Finance Ecosystem size,8.321,1.41605,True,Innovation Ecosystem
-Vietnam ,2021,Digital Finance Ecosystem size,8.118,1.4059,True,Innovation Ecosystem
-Nigeria ,2021,Digital Finance Ecosystem size,7.918,1.3959000000000001,True,Innovation Ecosystem
-Hungary ,2021,Digital Finance Ecosystem size,7.742,1.3871,True,Innovation Ecosystem
-Slovenia ,2021,Digital Finance Ecosystem size,7.607,1.38035,True,Innovation Ecosystem
-Peru ,2021,Digital Finance Ecosystem size,7.575,1.37875,True,Innovation Ecosystem
-Bulgaria ,2021,Digital Finance Ecosystem size,7.542,1.3771,True,Innovation Ecosystem
-Romania ,2021,Digital Finance Ecosystem size,7.447,1.37235,True,Innovation Ecosystem
-Ghana ,2021,Digital Finance Ecosystem size,6.632,1.3316,True,Innovation Ecosystem
-Belarus ,2021,Digital Finance Ecosystem size,5.986,1.2993000000000001,True,Innovation Ecosystem
-Egypt ,2021,Digital Finance Ecosystem size,5.676,1.2838,True,Innovation Ecosystem
-Bangladesh ,2021,Digital Finance Ecosystem size,5.073,1.25365,True,Innovation Ecosystem
-Pakistan ,2021,Digital Finance Ecosystem size,4.675,1.2337500000000001,True,Innovation Ecosystem
-Uruguay ,2021,Digital Finance Ecosystem size,4.562,1.2281,True,Innovation Ecosystem
-Uganda ,2021,Digital Finance Ecosystem size,4.037,1.2018499999999999,True,Innovation Ecosystem
-Lebanon ,2021,Digital Finance Ecosystem size,3.941,1.19705,True,Innovation Ecosystem
+,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+0,United States ,2021,Digital Finance Ecosystem size,31.789,2.5894500000000003,True,Innovation Ecosystem
+1,United Kingdom ,2021,Digital Finance Ecosystem size,23.262,2.1631,True,Innovation Ecosystem
+2,Singapore ,2021,Digital Finance Ecosystem size,19.176,1.9588,True,Innovation Ecosystem
+3,Lithuania ,2021,Digital Finance Ecosystem size,17.343,1.86715,True,Innovation Ecosystem
+4,Switzerland ,2021,Digital Finance Ecosystem size,16.018,1.8009,True,Innovation Ecosystem
+5,The Netherlands ,2021,Digital Finance Ecosystem size,14.464,1.7232,True,Innovation Ecosystem
+6,Sweden ,2021,Digital Finance Ecosystem size,14.272,1.7136,True,Innovation Ecosystem
+7,Australia ,2021,Digital Finance Ecosystem size,13.555,1.67775,True,Innovation Ecosystem
+8,Canada ,2021,Digital Finance Ecosystem size,13.322,1.6661000000000001,True,Innovation Ecosystem
+9,Estonia ,2021,Digital Finance Ecosystem size,13.303,1.6651500000000001,True,Innovation Ecosystem
+10,Germany ,2021,Digital Finance Ecosystem size,12.787,1.6393499999999999,True,Innovation Ecosystem
+11,Israel ,2021,Digital Finance Ecosystem size,12.771,1.63855,True,Innovation Ecosystem
+12,Spain ,2021,Digital Finance Ecosystem size,12.372,1.6186,True,Innovation Ecosystem
+13,Finland ,2021,Digital Finance Ecosystem size,12.11,1.6055,True,Innovation Ecosystem
+14,India ,2021,Digital Finance Ecosystem size,12.024,1.6012,True,Innovation Ecosystem
+15,France ,2021,Digital Finance Ecosystem size,11.803,1.59015,True,Innovation Ecosystem
+16,Ireland ,2021,Digital Finance Ecosystem size,11.754,1.5877,True,Innovation Ecosystem
+17,South Korea ,2021,Digital Finance Ecosystem size,11.543,1.57715,True,Innovation Ecosystem
+18,Brazil ,2021,Digital Finance Ecosystem size,11.456,1.5728,True,Innovation Ecosystem
+19,Denmark ,2021,Digital Finance Ecosystem size,11.368,1.5684,True,Innovation Ecosystem
+20,China ,2021,Digital Finance Ecosystem size,11.143,1.55715,True,Innovation Ecosystem
+21,Japan ,2021,Digital Finance Ecosystem size,11.114,1.5557,True,Innovation Ecosystem
+22,Luxembourg ,2021,Digital Finance Ecosystem size,11.088,1.5544,True,Innovation Ecosystem
+23,Italy ,2021,Digital Finance Ecosystem size,10.772,1.5386,True,Innovation Ecosystem
+24,Austria ,2021,Digital Finance Ecosystem size,10.66,1.533,True,Innovation Ecosystem
+25,Belgium ,2021,Digital Finance Ecosystem size,10.586,1.5293,True,Innovation Ecosystem
+26,Norway ,2021,Digital Finance Ecosystem size,10.497,1.52485,True,Innovation Ecosystem
+27,Portugal ,2021,Digital Finance Ecosystem size,10.394,1.5196999999999998,True,Innovation Ecosystem
+28,Poland ,2021,Digital Finance Ecosystem size,10.364,1.5182000000000002,True,Innovation Ecosystem
+29,Mexico ,2021,Digital Finance Ecosystem size,10.294,1.5147,True,Innovation Ecosystem
+30,Czechia ,2021,Digital Finance Ecosystem size,10.188,1.5094,True,Innovation Ecosystem
+31,Russia ,2021,Digital Finance Ecosystem size,10.052,1.5026,True,Innovation Ecosystem
+32,Malta ,2021,Digital Finance Ecosystem size,9.983,1.49915,True,Innovation Ecosystem
+33,United Arab Emirates ,2021,Digital Finance Ecosystem size,9.928,1.4964,True,Innovation Ecosystem
+34,Chile ,2021,Digital Finance Ecosystem size,9.746,1.4873,True,Innovation Ecosystem
+35,Malaysia ,2021,Digital Finance Ecosystem size,9.692,1.4846,True,Innovation Ecosystem
+36,South Africa ,2021,Digital Finance Ecosystem size,9.614,1.4807000000000001,True,Innovation Ecosystem
+37,Argentina ,2021,Digital Finance Ecosystem size,9.425,1.47125,True,Innovation Ecosystem
+38,Thailand ,2021,Digital Finance Ecosystem size,9.415,1.47075,True,Innovation Ecosystem
+39,Colombia ,2021,Digital Finance Ecosystem size,9.289,1.46445,True,Innovation Ecosystem
+40,Greece ,2021,Digital Finance Ecosystem size,9.21,1.4605000000000001,True,Innovation Ecosystem
+41,Kenya ,2021,Digital Finance Ecosystem size,9.039,1.45195,True,Innovation Ecosystem
+42,Ukraine ,2021,Digital Finance Ecosystem size,8.969,1.44845,True,Innovation Ecosystem
+43,Turkey ,2021,Digital Finance Ecosystem size,8.937,1.44685,True,Innovation Ecosystem
+44,New Zealand ,2021,Digital Finance Ecosystem size,8.893,1.44465,True,Innovation Ecosystem
+45,Philippines ,2021,Digital Finance Ecosystem size,8.831,1.4415499999999999,True,Innovation Ecosystem
+46,Indonesia ,2021,Digital Finance Ecosystem size,8.658,1.4329,True,Innovation Ecosystem
+47,Cyprus ,2021,Digital Finance Ecosystem size,8.38,1.419,True,Innovation Ecosystem
+48,Latvia ,2021,Digital Finance Ecosystem size,8.329,1.41645,True,Innovation Ecosystem
+49,Taiwan ,2021,Digital Finance Ecosystem size,8.321,1.41605,True,Innovation Ecosystem
+50,Vietnam ,2021,Digital Finance Ecosystem size,8.118,1.4059,True,Innovation Ecosystem
+51,Nigeria ,2021,Digital Finance Ecosystem size,7.918,1.3959000000000001,True,Innovation Ecosystem
+52,Hungary ,2021,Digital Finance Ecosystem size,7.742,1.3871,True,Innovation Ecosystem
+53,Slovenia ,2021,Digital Finance Ecosystem size,7.607,1.38035,True,Innovation Ecosystem
+54,Peru ,2021,Digital Finance Ecosystem size,7.575,1.37875,True,Innovation Ecosystem
+55,Bulgaria ,2021,Digital Finance Ecosystem size,7.542,1.3771,True,Innovation Ecosystem
+56,Romania ,2021,Digital Finance Ecosystem size,7.447,1.37235,True,Innovation Ecosystem
+57,Ghana ,2021,Digital Finance Ecosystem size,6.632,1.3316,True,Innovation Ecosystem
+58,Belarus ,2021,Digital Finance Ecosystem size,5.986,1.2993000000000001,True,Innovation Ecosystem
+59,Egypt ,2021,Digital Finance Ecosystem size,5.676,1.2838,True,Innovation Ecosystem
+60,Bangladesh ,2021,Digital Finance Ecosystem size,5.073,1.25365,True,Innovation Ecosystem
+61,Pakistan ,2021,Digital Finance Ecosystem size,4.675,1.2337500000000001,True,Innovation Ecosystem
+62,Uruguay ,2021,Digital Finance Ecosystem size,4.562,1.2281,True,Innovation Ecosystem
+63,Uganda ,2021,Digital Finance Ecosystem size,4.037,1.2018499999999999,True,Innovation Ecosystem
+64,Lebanon ,2021,Digital Finance Ecosystem size,3.941,1.19705,True,Innovation Ecosystem
