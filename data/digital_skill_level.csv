@@ -1,109 +1,109 @@
 ﻿Global Rank,Region,Country and Region,Year,Technology,Data Science
-1,Europe,Switzerland,2020,84%,96%
-2,Europe,Luxembourg,2020,62%,85%
-3,Europe,Austria,2020,88%,95%
-4,Asia Pacific,Japan,2020,100%,88%
-5,Europe,Germany,2020,89%,94%
-6,Europe,Belgium,2020,86%,98%
-7,Europe,Sweden,2020,82%,96%
-8,Europe,Denmark,2020,87%,99%
-9,Europe,Russian Federation,2020,92%,97%
-10,Asia Pacific,Singapore,2020,96%,86%
-11,Europe,Norway,2020,63%,88%
-12,Europe,Belarus,2020,99%,91%
-13,Europe,Czech Republic,2020,97%,90%
-14,Europe,Finland,2020,90%,100%
-15,Europe,Bulgaria,2020,95%,75%
-16,Europe,Italy,2020,91%,72%
-17,Europe,Netherlands,2020,79%,93%
-18,Europe,Hungary,2020,96%,84%
-19,Sub-Saharan Africa,Cameroon,2020,75%,64%
-20,Asia Pacific,Vietnam,2020,88%,61%
-21,Europe,Croatia,2020,83%,78%
-22,Europe,Greece,2020,73%,71%
-23,Asia Pacific,Hong Kong,2020,51%,92%
-24,Europe,Latvia,2020,72%,77%
-25,Asia Pacific,Taiwan,2020,71%,83%
-26,Latin America and the Caribbean,Barbados,2020,94%,29%
-27,Europe,Ukraine,2020,93%,82%
-28,Europe,France,2020,70%,79%
-29,North America,United States,2020,69%,73%
-30,Europe,Poland,2020,64%,76%
-31,Europe,Portugal,2020,80%,55%
-32,Europe,Spain,2020,59%,87%
-33,Europe,Serbia,2020,76%,68%
-34,Europe,Ireland,2020,79%,65%
-35,MENA,United Arab Emirates,2020,33%,34%
-36,Europe,Estonia,2020,63%,59%
-37,Sub-Saharan Africa,Uganda,2020,55%,31%
-38,MENA,Israel,2020,74%,80%
-39,Asia Pacific,China,2020,21%,81%
-40,Asia Pacific,Sri Lanka,2020,85%,49%
-41,Asia Pacific,New Zealand,2020,68%,79%
-42,Sub-Saharan Africa,South Africa,2020,58%,51%
-43,MENA,Tunisia,2020,77%,48%
-44,Asia Pacific,Australia,2020,61%,74%
-45,Asia Pacific,Indonesia,2020,78%,46%
-46,Asia Pacific,Malaysia,2020,56%,52%
-47,Europe,Slovakia,2020,54%,66%
-48,Europe,Lithuania,2020,52%,63%
-49,Europe,Romania,2020,65%,62%
-50,Latin America and the Caribbean,Trinidad and Tobago,2020,71%,41%
-51,Europe,United Kingdom,2020,57%,69%
-52,MENA,Saudi Arabia,2020,54%,18%
-53,MENA,Egypt,2020,44%,54%
-54,MENA,Kuwait,2020,43%,32%
-55,North America,Canada,2020,67%,70%
-56,MENA,Qatar,2020,45%,27%
-57,Europe,Armenia,2020,23%,60%
-58,Sub-Saharan Africa,Ethiopia,2020,81%,35%
-59,MENA,Lebanon,2020,32%,33%
-60,Europe,Turkey,2020,47%,37%
-61,Latin America and the Caribbean,Venezuela,2020,40%,63%
-62,Asia Pacific,Nepal,2020,53%,50%
-63,Asia Pacific,Republic of Korea,2020,37%,58%
-64,Asia Pacific,Bangladesh,2020,38%,38%
-65,Asia Pacific,Pakistan,2020,50%,29%
-66,Sub-Saharan Africa,Rwanda,2020,20%,40%
-67,Asia Pacific,India,2020,38%,38%
-68,Latin America and the Caribbean,Costa Rica,2020,49%,53%
-69,Asia Pacific,Philippines,2020,29%,44%
-70,Europe,Georgia,2020,21%,39%
-71,MENA,Jordan,2020,28%,25%
-72,Europe,Azerbaijan,2020,13%,24%
-73,Sub-Saharan Africa,Ghana,2020,29%,13%
-74,Latin America and the Caribbean,Peru,2020,46%,47%
-75,MENA,Morocco,2020,35%,36%
-76,Asia Pacific,Thailand,2020,39%,46%
-77,Sub-Saharan Africa,Kenya,2020,22%,19%
-78,Latin America and the Caribbean,Uruguay,2020,27%,56%
-79,Asia Pacific,Myanmar,2020,42%,15%
-80,Sub-Saharan Africa,Nigeria,2020,15%,8%
-81,Asia Pacific,Kazakhstan,2020,36%,20%
-82,Latin America and the Caribbean,Argentina,2020,25%,54%
-83,Latin America and the Caribbean,Brazil,2020,48%,22%
-84,Latin America and the Caribbean,El Salvador,2020,34%,28%
-85,Latin America and the Caribbean,Saint Lucia,2020,66%,4%
-86,Asia Pacific,Kyrgyzstan,2020,30%,21%
-87,MENA,Sudan,2020,26%,17%
-88,MENA,Oman,2020,24%,10%
-89,Latin America and the Caribbean,Chile,2020,19%,42%
-90,Sub-Saharan Africa,Botswana,2020,5%,5%
-91,Latin America and the Caribbean,Colombia,2020,11%,45%
-92,Latin America and the Caribbean,Dominican Republic,2020,18%,14%
-93,Latin America and the Caribbean,Ecuador,2020,12%,43%
-94,Latin America and the Caribbean,Puerto Rico,2020,16%,30%
-95,MENA,Algeria,2020,31%,21%
-96,Latin America and the Caribbean,Nicaragua,2020,17%,12%
-97,Latin America and the Caribbean,Bolivia,2020,4%,23%
-98,Latin America and the Caribbean,Honduras,2020,9%,16%
-99,Latin America and the Caribbean,Guatemala,2020,4%,13%
-100,Asia Pacific,Bhutan,2020,14%,3%
-101,Latin America and the Caribbean,Panama,2020,13%,7%
-102,Latin America and the Caribbean,Mexico,2020,10%,26%
-103,MENA,Iraq,2020,3%,6%
-104,Asia Pacific,Uzbekistan,2020,6%,9%
-105,Sub-Saharan Africa,Sierra Leone,2020,2%,4%
-106,Latin America and the Caribbean,Paraguay,2020,7%,11%
-107,Latin America and the Caribbean,Guyana,2020,8%,2%
-108,Sub-Saharan Africa,Somalia,2020,1%,1%
+1,Europe,Switzerland,2020,0.84,0.96
+2,Europe,Luxembourg,2020,0.62,0.85
+3,Europe,Austria,2020,0.88,0.95
+4,Asia Pacific,Japan,2020,1.00,0.88
+5,Europe,Germany,2020,0.89,0.94
+6,Europe,Belgium,2020,0.86,0.98
+7,Europe,Sweden,2020,0.82,0.96
+8,Europe,Denmark,2020,0.87,0.99
+9,Europe,Russian Federation,2020,0.92,0.97
+10,Asia Pacific,Singapore,2020,0.96,0.86
+11,Europe,Norway,2020,0.63,0.88
+12,Europe,Belarus,2020,0.99,0.91
+13,Europe,Czech Republic,2020,0.97,0.90
+14,Europe,Finland,2020,0.90,1.00
+15,Europe,Bulgaria,2020,0.95,0.75
+16,Europe,Italy,2020,0.91,0.72
+17,Europe,Netherlands,2020,0.79,0.93
+18,Europe,Hungary,2020,0.96,0.84
+19,Sub-Saharan Africa,Cameroon,2020,0.75,0.64
+20,Asia Pacific,Vietnam,2020,0.88,0.61
+21,Europe,Croatia,2020,0.83,0.78
+22,Europe,Greece,2020,0.73,0.71
+23,Asia Pacific,Hong Kong,2020,0.51,0.92
+24,Europe,Latvia,2020,0.72,0.77
+25,Asia Pacific,Taiwan,2020,0.71,0.83
+26,Latin America and the Caribbean,Barbados,2020,0.94,0.29
+27,Europe,Ukraine,2020,0.93,0.82
+28,Europe,France,2020,0.70,0.79
+29,North America,United States,2020,0.69,0.73
+30,Europe,Poland,2020,0.64,0.76
+31,Europe,Portugal,2020,0.80,0.55
+32,Europe,Spain,2020,0.59,0.87
+33,Europe,Serbia,2020,0.76,0.68
+34,Europe,Ireland,2020,0.79,0.65
+35,MENA,United Arab Emirates,2020,0.33,0.34
+36,Europe,Estonia,2020,0.63,0.59
+37,Sub-Saharan Africa,Uganda,2020,0.55,0.31
+38,MENA,Israel,2020,0.74,0.80
+39,Asia Pacific,China,2020,0.21,0.81
+40,Asia Pacific,Sri Lanka,2020,0.85,0.49
+41,Asia Pacific,New Zealand,2020,0.68,0.79
+42,Sub-Saharan Africa,South Africa,2020,0.58,0.51
+43,MENA,Tunisia,2020,0.77,0.48
+44,Asia Pacific,Australia,2020,0.61,0.74
+45,Asia Pacific,Indonesia,2020,0.78,0.46
+46,Asia Pacific,Malaysia,2020,0.56,0.52
+47,Europe,Slovakia,2020,0.54,0.66
+48,Europe,Lithuania,2020,0.52,0.63
+49,Europe,Romania,2020,0.65,0.62
+50,Latin America and the Caribbean,Trinidad and Tobago,2020,0.71,0.41
+51,Europe,United Kingdom,2020,0.57,0.69
+52,MENA,Saudi Arabia,2020,0.54,0.18
+53,MENA,Egypt,2020,0.44,0.54
+54,MENA,Kuwait,2020,0.43,0.32
+55,North America,Canada,2020,0.67,0.70
+56,MENA,Qatar,2020,0.45,0.27
+57,Europe,Armenia,2020,0.23,0.60
+58,Sub-Saharan Africa,Ethiopia,2020,0.81,0.35
+59,MENA,Lebanon,2020,0.32,0.33
+60,Europe,Turkey,2020,0.47,0.37
+61,Latin America and the Caribbean,Venezuela,2020,0.40,0.63
+62,Asia Pacific,Nepal,2020,0.53,0.50
+63,Asia Pacific,Republic of Korea,2020,0.37,0.58
+64,Asia Pacific,Bangladesh,2020,0.38,0.38
+65,Asia Pacific,Pakistan,2020,0.50,0.29
+66,Sub-Saharan Africa,Rwanda,2020,0.20,0.40
+67,Asia Pacific,India,2020,0.38,0.38
+68,Latin America and the Caribbean,Costa Rica,2020,0.49,0.53
+69,Asia Pacific,Philippines,2020,0.29,0.44
+70,Europe,Georgia,2020,0.21,0.39
+71,MENA,Jordan,2020,0.28,0.25
+72,Europe,Azerbaijan,2020,0.13,0.24
+73,Sub-Saharan Africa,Ghana,2020,0.29,0.13
+74,Latin America and the Caribbean,Peru,2020,0.46,0.47
+75,MENA,Morocco,2020,0.35,0.36
+76,Asia Pacific,Thailand,2020,0.39,0.46
+77,Sub-Saharan Africa,Kenya,2020,0.22,0.19
+78,Latin America and the Caribbean,Uruguay,2020,0.27,0.56
+79,Asia Pacific,Myanmar,2020,0.42,0.15
+80,Sub-Saharan Africa,Nigeria,2020,0.15,0.08
+81,Asia Pacific,Kazakhstan,2020,0.36,0.20
+82,Latin America and the Caribbean,Argentina,2020,0.25,0.54
+83,Latin America and the Caribbean,Brazil,2020,0.48,0.22
+84,Latin America and the Caribbean,El Salvador,2020,0.34,0.28
+85,Latin America and the Caribbean,Saint Lucia,2020,0.66,0.04
+86,Asia Pacific,Kyrgyzstan,2020,0.30,0.21
+87,MENA,Sudan,2020,0.26,0.17
+88,MENA,Oman,2020,0.24,0.10
+89,Latin America and the Caribbean,Chile,2020,0.19,0.42
+90,Sub-Saharan Africa,Botswana,2020,0.05,0.05
+91,Latin America and the Caribbean,Colombia,2020,0.11,0.45
+92,Latin America and the Caribbean,Dominican Republic,2020,0.18,0.14
+93,Latin America and the Caribbean,Ecuador,2020,0.12,0.43
+94,Latin America and the Caribbean,Puerto Rico,2020,0.16,0.30
+95,MENA,Algeria,2020,0.31,0.21
+96,Latin America and the Caribbean,Nicaragua,2020,0.17,0.12
+97,Latin America and the Caribbean,Bolivia,2020,0.04,0.23
+98,Latin America and the Caribbean,Honduras,2020,0.09,0.16
+99,Latin America and the Caribbean,Guatemala,2020,0.04,0.13
+100,Asia Pacific,Bhutan,2020,0.14,0.03
+101,Latin America and the Caribbean,Panama,2020,0.13,0.07
+102,Latin America and the Caribbean,Mexico,2020,0.10,0.26
+103,MENA,Iraq,2020,0.03,0.06
+104,Asia Pacific,Uzbekistan,2020,0.06,0.09
+105,Sub-Saharan Africa,Sierra Leone,2020,0.02,0.04
+106,Latin America and the Caribbean,Paraguay,2020,0.07,0.11
+107,Latin America and the Caribbean,Guyana,2020,0.08,0.02
+108,Sub-Saharan Africa,Somalia,2020,0.01,0.01
