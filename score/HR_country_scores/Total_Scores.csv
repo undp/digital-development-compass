@@ -1,78 +1,78 @@
 Country Name,HRAssociation,Score
-Afghanistan,,2.4009999961666666
+Afghanistan,,3.269666659
 Africa Eastern and Southern,,3.1820330555000003
 Africa Western and Central,,3.5670710735
-Albania,,5.253169698820482
-Algeria,,5.197211631099338
-Andorra,,1.2
-Angola,,3.592298648321428
-Antigua and Barbuda,,1.2
-Argentina,,5.177446865281045
-Armenia,,4.514613478863095
+Albania,,5.343012466131593
+Algeria,,5.600582585480291
+Andorra,,1.5
+Angola,,4.482712368773809
+Antigua and Barbuda,,1.5
+Argentina,,5.3938719572741975
+Armenia,,4.766788950642857
 Aruba,,6.0
-Australia,,5.537734627534181
-Austria,,5.767652685433683
-Azerbaijan,,4.596246595645253
-Bahamas (the),,5.647916653916667
-Bahrain,,4.009705416805556
-Bangladesh,,3.903679926158743
-Barbados,,3.0308464937727275
-Belarus,,4.690090373398206
-Belgium,,5.769015044402744
-Belize,,4.400587746785715
-Benin,,2.7274604557857143
+Australia,,5.5627030562677975
+Austria,,5.7851302121225725
+Azerbaijan,,4.716038395942346
+Bahamas (the),,5.818333307833334
+Bahrain,,4.064894122039682
+Bangladesh,,4.444528214796577
+Barbados,,2.8504685719166667
+Belarus,,4.762704784642053
+Belgium,,5.785663241736076
+Belize,,5.482538075833332
+Benin,,3.2842011768333337
 Bermuda,,6.0
-Bhutan,,5.3979328330269105
-Bolivia (Plurinational State of),,4.881235918880653
-Bosnia and Herzegovina,,5.27371086666361
-Botswana,,4.3360164305
-Brazil,,4.9965249485261385
-Brunei Darussalam,,5.3927336853690475
-Bulgaria,,5.394768424063624
-Burkina Faso,,1.9738519358142856
-Burundi,,1.9247681231380955
-Cabo Verde,,4.241657790964285
-Cambodia,,4.470582872766666
-Cameroon,,3.6797355123333335
-Canada,,5.632005973181482
+Bhutan,,5.748330358395959
+Bolivia (Plurinational State of),,4.95757494000707
+Bosnia and Herzegovina,,5.324006000446943
+Botswana,,5.099186325000001
+Brazil,,5.118520408259719
+Brunei Darussalam,,5.731122681111112
+Bulgaria,,5.434606660646957
+Burkina Faso,,2.5982792855
+Burundi,,1.883314975
+Cabo Verde,,4.262149940333333
+Cambodia,,4.813613419587302
+Cameroon,,4.394366010166666
+Canada,,5.670000373757849
 Caribbean small states,,5.9140252455
 Cayman Islands,,6.0
-Central African Republic (the),,2.172977705583333
+Central African Republic (the),,2.3466738510000003
 Central Europe and the Baltics,,6.0
-Chad,,1.6776562531571426
+Chad,,1.6433333459999997
 Channel Islands,,6.0
-Chile,,5.773860471175866
-China,,4.269406257240254
-"China, Hong Kong Special Administrative Region",,5.838469350170406
-"China, Macao Special Administrative Region",,5.702084173094125
-Colombia,,4.922096108653649
-Comoros (the),,2.124213058850001
-Congo (the),,3.78831180575
-Costa Rica,,5.455793804436861
-Croatia,,5.52995380268621
-Cuba,,3.23597354325
+Chile,,5.905155310378247
+China,,4.001749952664254
+"China, Hong Kong Special Administrative Region",,5.8241355708537395
+"China, Macao Special Administrative Region",,5.707854891866447
+Colombia,,5.085465420011744
+Comoros (the),,2.292214647916667
+Congo (the),,4.323861630833333
+Costa Rica,,5.665799322836977
+Croatia,,5.58387536823621
+Cuba,,3.4809663467142857
 Curaçao,,5.999996999645958
-Cyprus,,5.636584177281305
-Czechia,,5.622844952953451
-Côte d'Ivoire,,2.9785591124065935
+Cyprus,,5.690924717097971
+Czechia,,5.626216955875674
+Côte d'Ivoire,,3.307220627166666
 Democratic People's Republic of Korea (the),,3.468637848
-Democratic Republic of the Congo (the),,2.2609485855476192
-Denmark,,5.893342493303286
+Democratic Republic of the Congo (the),,2.02066672
+Denmark,,5.938038308119952
 Djibouti,,4.0637968065
-Dominica,,1.2
-Dominican Republic (the),,5.432005961860245
+Dominica,,1.5
+Dominican Republic (the),,5.779713173479292
 Early-demographic dividend,,5.6271276295
 East Asia & Pacific,,5.906410476
 East Asia & Pacific (IDA & IBRD countries),,5.926556844
 East Asia & Pacific (excluding high income),,5.8964236505
-Ecuador,,5.0480026212480755
-Egypt,,4.217761985158068
-El Salvador,,4.125354356642857
-Equatorial Guinea,,0.8659217833999999
-Eritrea,,0.7038573074000001
-Estonia,,5.634275489023299
-Eswatini,,2.4727144075380956
-Ethiopia,,3.5135330948944077
+Ecuador,,5.378246099709735
+Egypt,,4.28519877225679
+El Salvador,,4.014458506944444
+Equatorial Guinea,,1.08240222925
+Eritrea,,0.87982163425
+Estonia,,5.722622535007257
+Eswatini,,2.487848027583333
+Ethiopia,,3.904468927859211
 Euro area,,6.0
 Europe & Central Asia,,5.999666314500001
 Europe & Central Asia (IDA & IBRD countries),,5.9993331895
@@ -80,575 +80,629 @@ Europe & Central Asia (excluding high income),,5.999266262
 European Union,,6.0
 Europol,,5.999825979465577
 Faroe Islands,,6.0
-Fiji,,2.8675958282500003
-Finland,,5.78765158548895
+Fiji,,2.7943092981666666
+Finland,,5.822760598588951
 Fragile and conflict affected situations,,3.703344842
-France,,5.406474815138457
+France,,5.528898091883022
 French Polynesia,,6.0
-Gabon,,3.755774150285714
-Gambia (the),,3.2640118699761906
-Georgia,,4.729237006122222
-Germany,,5.4469525250526445
-Ghana,,4.183366761095239
+Gabon,,4.936307017
+Gambia (the),,3.9947090649285713
+Georgia,,5.136998527174604
+Germany,,5.529325299500351
+Ghana,,5.061729730904762
 Gibraltar,,6.0
-Greece,,5.479575812708479
+Greece,,5.5185892979862565
 Greenland,,6.0
-Grenada,,1.1542874146000002
+Grenada,,1.44285926825
 Guadeloupe,,5.995343450527162
 Guam,,6.0
-Guatemala,,4.029210684833333
-Guinea,,2.658328220809524
-Guinea-Bissau,,2.6912476056666663
-Guyana,,2.785387844454546
-Haiti,,3.261747767642857
+Guatemala,,3.8170528876666654
+Guinea,,2.757148901666667
+Guinea-Bissau,,3.481973266666666
+Guyana,,2.4897943815000003
+Haiti,,3.9015594481666667
 Heavily indebted poor countries (HIPC),,3.231248257
 High income,,5.9999854205
-Honduras,,4.111250937454544
-Hungary,,5.214169005593839
+Honduras,,4.029114166249999
+Hungary,,5.229834933397076
 IBRD only,,5.925103221
 IDA & IBRD total,,5.4253632735
 IDA blend,,4.3419534285
 IDA only,,3.8038523145
 IDA total,,3.984724898
-Iceland,,5.719056224904762
-India,,4.093581192171318
-Indonesia,,4.003054532985869
-Iran (Islamic Republic of),,3.27849842825
-Iraq,,3.3882330844993733
-Ireland,,5.768915648278461
+Iceland,,5.839071446404762
+India,,4.540491463566808
+Indonesia,,3.954376154827191
+Iran (Islamic Republic of),,3.269928793587302
+Iraq,,3.8226800527128155
+Ireland,,5.746585532089572
 Isle of Man,,5.999528944415442
-Israel,,5.70749358026084
-Italy,,5.423427398311187
-Jamaica,,4.65318817371414
-Japan,,5.504911838083369
-Jordan,,4.945871784205327
-Kazakhstan,,4.507397141343684
-Kenya,,4.131536965709126
-Kiribati,,1.2
+Israel,,5.7398616972191725
+Italy,,5.708746127803805
+Jamaica,,4.353966510020959
+Japan,,5.586517640317509
+Jordan,,5.001303916988054
+Kazakhstan,,4.386490516634438
+Kenya,,4.615306250464019
+Kiribati,,1.5
 Kosovo (UNSCR 1244),,6.0
-Kuwait,,5.745821658579747
-Kyrgyzstan,,4.036563599630952
-Lao People's Democratic Republic (the),,4.328911148428572
+Kuwait,,5.988893742379745
+Kyrgyzstan,,4.957871727690476
+Lao People's Democratic Republic (the),,5.0958635965
 Late-demographic dividend,,5.9685068135
 Latin America & Caribbean,,5.921214735
 Latin America & Caribbean (excluding high income),,5.9136359815
 Latin America & the Caribbean (IDA & IBRD countries),,5.919422330500001
-Latvia,,5.635624137776748
+Latvia,,5.729203397737859
 Least developed countries: UN classification,,3.638914032
-Lebanon,,4.635731959898956
-Lesotho,,3.542243344964286
-Liberia,,3.033597892928571
-Libya,,3.526908453181818
-Liechtenstein,,1.2
-Lithuania,,5.590788138211535
+Lebanon,,5.232883483484322
+Lesotho,,3.664402210222223
+Liberia,,2.8901906015
+Libya,,4.3113989360873015
+Liechtenstein,,1.5
+Lithuania,,5.662537403694868
 Low & middle income,,5.410521527
 Low income,,3.0461670905
 Lower middle income,,5.451776276
-Luxembourg,,5.870161735689358
-Madagascar,,1.731084210212121
-Malawi,,3.727773978797619
-Malaysia,,5.066452351963671
-Maldives,,5.080970766666666
-Mali,,2.456429487228572
-Malta,,5.636134055597472
-Marshall Islands,,1.1744360351999998
-Mauritania,,2.9638497829047616
-Mauritius,,5.2019560082313046
-Mexico,,4.915879942713261
+Luxembourg,,5.920285631489358
+Madagascar,,1.4221932410833336
+Malawi,,4.64291500697619
+Malaysia,,5.090963120818226
+Maldives,,5.858648173
+Mali,,3.0498111404999997
+Malta,,5.733080306319694
+Marshall Islands,,1.468045044
+Mauritania,,3.7119376183333337
+Mauritius,,5.196767548542415
+Mexico,,5.148094927745723
 Micronesia (Federated States of),,5.105847168
 Middle East & North Africa,,5.86162699
 Middle East & North Africa (IDA & IBRD countries),,5.835756485000001
 Middle East & North Africa (excluding high income),,5.8377323925
 Middle income,,5.675258436
-Monaco,,3.5999939992919168
-Mongolia,,3.828859456744444
-Montenegro,,4.803904509400001
-Morocco,,4.765021080404542
-Mozambique,,2.790916386261905
-Myanmar,,2.63161492975
-Namibia,,4.029237053309524
-Nauru,,1.2
-Nepal,,4.789601078860432
-Netherlands (the),,5.808462508158857
+Monaco,,3.7499939992919167
+Mongolia,,4.279027318444445
+Montenegro,,5.014772532722223
+Morocco,,5.02584373383251
+Mozambique,,2.8119246165000003
+Myanmar,,3.1363304774166667
+Namibia,,4.513251940333333
+Nauru,,1.5
+Nepal,,5.340409191800909
+Netherlands (the),,5.8251738459421905
 New Caledonia,,6.0
-New Zealand,,5.896446415000151
-Nicaragua,,4.6313593790952385
-Niger (the),,0.9482702446000001
-Nigeria,,4.221632800573271
+New Zealand,,5.929474286809674
+Nicaragua,,4.693996541420635
+Niger (the),,0.8371227105833334
+Nigeria,,4.918113225415156
 North America,,6.0
-North Macedonia,,5.4016982732142855
+North Macedonia,,5.610254906138889
 Northern Mariana Islands,,6.0
-Norway,,5.884383065502286
+Norway,,5.930561351396731
 OECD members,,5.9995153485
-Oman,,5.477675131545455
+Oman,,5.712451985041666
 Other small states,,4.91216657
 Pacific island small states,,5.337289029
-Pakistan,,3.1777228966448456
+Pakistan,,3.648723060029107
 Palau,,6.0
-Panama,,4.749350338761905
-Papua New Guinea,,4.233256498725
-Paraguay,,4.571330416066666
-Peru,,5.142565581016894
-Philippines (the),,4.733970494048609
-Poland,,5.618135481663279
-Portugal,,5.5390876275202405
+Panama,,4.674314566166667
+Papua New Guinea,,4.06697533925
+Paraguay,,4.82201214888889
+Peru,,5.117580877844672
+Philippines (the),,5.0581895895969184
+Poland,,5.643021130085501
+Portugal,,5.4929511387924626
 Post-demographic dividend,,5.999898145
 Pre-demographic dividend,,3.361552986
-Puerto Rico,,4.5
-Qatar,,5.713295247273181
-Republic of Korea (the),,5.280463578287681
-Republic of Moldova (the),,3.361803582902778
-Romania,,5.486568379173797
-Russian Federation (the),,3.474314856661111
-Rwanda,,2.939257913107143
+Puerto Rico,,6.0
+Qatar,,5.947554533090402
+Republic of Korea (the),,5.248098110137014
+Republic of Moldova (the),,2.9093250275
+Romania,,5.510252408901575
+Russian Federation (the),,2.9146897567275136
+Rwanda,,2.874033130380952
 Réunion,,5.999969996459583
 Saint Kitts and Nevis,,6.0
-Saint Lucia,,3.450759233546296
+Saint Lucia,,3.4090495808999997
 Saint Martin (Dutch Part),,6.0
 Saint Martin (French Part),,6.0
-Saint Vincent and the Grenadines,,4.746103485780218
-Samoa,,3.1104999656999994
-San Marino,,3.6
+Saint Vincent and the Grenadines,,4.724290339679292
+Samoa,,2.8574999745833334
+San Marino,,3.75
 Sao Tome and Principe,,4.7590953825
-Saudi Arabia,,4.7510994747347866
-Senegal,,4.827407528839723
-Serbia,,5.0869457026376175
-Seychelles,,5.1578014691666665
-Sierra Leone,,2.904928332404762
-Singapore,,5.2425664066287165
-Slovakia,,5.630278115110096
-Slovenia,,5.624256159510097
+Saudi Arabia,,4.646169634561725
+Senegal,,5.466188204363533
+Serbia,,5.205301669926347
+Seychelles,,6.0
+Sierra Leone,,2.442937440833333
+Singapore,,4.9993462114398755
+Slovakia,,5.676533624798986
+Slovenia,,5.667495994021207
 Small states,,5.1175864330000005
-Solomon Islands,,2.4180099411
-Somalia,,3.3663763131671662
-South Africa,,4.997347409470988
+Solomon Islands,,2.1974339803333334
+Somalia,,3.350195470458833
+South Africa,,5.443981636397825
 South Asia,,5.7199364595
 South Asia (IDA & IBRD),,5.7199364595
-Spain,,5.3507736254891896
-Sri Lanka,,4.12062761541644
-State of Palestine (the),,4.7038867423125
+Spain,,5.379256820194746
+Sri Lanka,,4.696707656848904
+State of Palestine (the),,4.728566393357142
 Sub-Saharan Africa,,3.3374842795
 Sub-Saharan Africa (IDA & IBRD countries),,3.3374842795
 Sub-Saharan Africa (excluding high income),,3.337249446
-Sudan (the),,2.4625497523633335
-Suriname,,3.889151030428572
-Sweden,,5.83781606448924
-Switzerland,,5.837457391464713
-Syrian Arab Republic (the),,2.73312206275
-Taiwan,,5.499156900514261
-Tajikistan,,2.19800954139394
-Thailand,,4.589498949084362
-Timor-Leste,,3.321479566285714
-Togo,,2.686897868833333
-Tonga,,2.794495741650001
-Trinidad and Tobago,,3.387624330727273
-Tunisia,,4.803975001241446
-Turkey,,4.492061497691962
-Turkmenistan,,1.199
+Sudan (the),,2.686524441645238
+Suriname,,5.114441553666667
+Sweden,,5.8769540346499545
+Switzerland,,5.856765528526221
+Syrian Arab Republic (the),,5.4662441255
+Taiwan,,5.713442614799975
+Tajikistan,,2.243497181
+Thailand,,4.5345165771786204
+Timor-Leste,,5.0330720265
+Togo,,3.0346997261666666
+Tonga,,2.6182428868333334
+Trinidad and Tobago,,2.7638589859166665
+Tunisia,,5.207718918769018
+Turkey,,4.420203974139019
+Turkmenistan,,1.49875
 Turks and Caicos Islands,,6.0
-Tuvalu,,1.2
-Uganda,,2.8071671909015152
-Ukraine,,4.914424373845699
-United Arab Emirates (the),,4.848424919982032
-United Kingdom of Great Britain and Northern Ireland (the),,5.586104386105774
-United Republic of Tanzania (the),,3.246383376761905
+Tuvalu,,1.5
+Uganda,,2.7455112761428566
+Ukraine,,4.95154435619638
+United Arab Emirates (the),,4.752685244562286
+United Kingdom of Great Britain and Northern Ireland (the),,5.66580993532357
+United Republic of Tanzania (the),,3.4888229243333337
 United States Virgin Islands,,6.0
-United States of America (the),,5.297189399143934
+United States of America (the),,5.321245242762981
 Upper middle income,,5.9688701305
-Uruguay,,5.673728202142857
-Uzbekistan,,4.247120655715836
-Vanuatu,,4.4042963966499995
-Venezuela (Bolivarian Republic of),,3.7122179416353687
-Viet Nam,,4.334426104863084
+Uruguay,,5.676826611083333
+Uzbekistan,,4.3909917879332845
+Vanuatu,,4.252585506458333
+Venezuela (Bolivarian Republic of),,4.0611443452894855
+Viet Nam,,4.172908335283584
 World,,5.489907821
-Yemen,,1.8424439869841274
-Zambia,,3.509235013166667
-Zimbabwe,,3.4509508921547614
-Afghanistan,Access,2.4009999961666666
+Yemen,,2.1291950225
+Zambia,,3.990149902202381
+Zimbabwe,,4.238004448261904
+Afghanistan,Access,3.269666659
 Africa Eastern and Southern,Access,3.1820330555000003
 Africa Western and Central,Access,3.5670710735
-Albania,Access,4.507323513766666
-Albania,"Expression, Association",5.999015883874297
-Algeria,Access,4.394477268571428
-Algeria,"Expression, Association",5.999945993627248
-Andorra,Access,1.2
-Angola,Access,3.084597296642857
-Angola,"Expression, Association",4.1
-Antigua and Barbuda,Access,1.2
-Argentina,Access,5.0970677570972205
-Argentina,"Expression, Association",5.257825973464868
-Armenia,Access,4.47922695772619
-Armenia,"Expression, Association",4.55
+Albania,Access,4.687009048388888
+Albania,Expression,5.999015883874297
+Algeria,Access,5.201219177333333
+Algeria,Expression,5.999945993627248
+Andorra,Access,1.5
+Angola,Access,3.6797104518333335
+Angola,Association,5.285714285714286
+Antigua and Barbuda,Access,1.5
+Argentina,Access,5.35882106775
+Argentina,Association,4.857142857142858
+Argentina,Expression,5.9656519469297375
+Armenia,Access,4.819292186999999
+Armenia,Association,4.714285714285714
 Aruba,Access,6.0
-Australia,Access,5.720415608738095
-Australia,"Expression, Association",5.355053646330267
-Austria,Access,5.538191711455555
-Austria,"Expression, Association",5.997113659411811
-Azerbaijan,Access,4.817751221738097
-Azerbaijan,"Expression, Association",4.374741969552408
-Bahamas (the),Access,5.647916653916667
-Bahrain,Access,5.5194108336111105
-Bahrain,"Expression, Association",2.5
-Bangladesh,Access,3.3088810318166666
-Bangladesh,"Expression, Association",4.498478820500819
-Barbados,Access,3.0308464937727275
-Belarus,Access,5.10529476025
-Belarus,"Expression, Association",4.274885986546412
-Belgium,Access,5.543700757944445
-Belgium,"Expression, Association",5.994329330861042
-Belize,Access,4.400587746785715
-Benin,Access,2.7274604557857143
+Australia,Access,5.870859019
+Australia,Association,4.857142857142858
+Australia,Expression,5.960107292660534
+Austria,Access,5.573146764833334
+Austria,Expression,5.997113659411811
+Azerbaijan,Access,5.148631248722222
+Azerbaijan,Association,3.0
+Azerbaijan,Expression,5.999483939104815
+Bahamas (the),Access,5.818333307833334
+Bahrain,Access,5.986931101222222
+Bahrain,Association,2.142857142857143
+Bangladesh,Access,3.908055574816666
+Bangladesh,Association,3.4285714285714284
+Bangladesh,Expression,5.996957641001638
+Barbados,Access,2.8504685719166667
+Belarus,Access,5.288342380833334
+Belarus,Association,3.0
+Belarus,Expression,5.999771973092825
+Belgium,Access,5.576997152611111
+Belgium,Expression,5.994329330861042
+Belize,Access,5.482538075833332
+Benin,Access,3.2842011768333337
 Bermuda,Access,6.0
-Bhutan,Access,4.795871666761905
-Bhutan,"Expression, Association",5.999993999291917
-Bolivia (Plurinational State of),Access,3.762477838469388
-Bolivia (Plurinational State of),"Expression, Association",5.999993999291917
-Bosnia and Herzegovina,Access,4.547541747488889
-Bosnia and Herzegovina,"Expression, Association",5.999879985838329
-Botswana,Access,4.3360164305
-Brazil,Access,4.951934845476191
-Brazil,"Expression, Association",5.041115051576086
-Brunei Darussalam,Access,5.3927336853690475
-Bulgaria,Access,4.789590854500001
-Bulgaria,"Expression, Association",5.999945993627248
-Burkina Faso,Access,1.9738519358142856
-Burundi,Access,1.9247681231380955
-Cabo Verde,Access,4.241657790964285
-Cambodia,Access,4.366165745533333
-Cambodia,"Expression, Association",4.575
-Cameroon,Access,3.6797355123333335
-Canada,Access,5.5961587896904765
-Canada,"Expression, Association",5.667853156672488
+Bhutan,Access,5.496666717500001
+Bhutan,Expression,5.999993999291917
+Bolivia (Plurinational State of),Access,3.915155880722222
+Bolivia (Plurinational State of),Expression,5.999993999291917
+Bosnia and Herzegovina,Access,4.648132015055555
+Bosnia and Herzegovina,Expression,5.999879985838329
+Botswana,Access,5.099186325000001
+Brazil,Access,5.044759693055556
+Brazil,Association,4.428571428571429
+Brazil,Expression,5.882230103152172
+Brunei Darussalam,Access,5.731122681111112
+Bulgaria,Access,4.869267327666666
+Bulgaria,Expression,5.999945993627248
+Burkina Faso,Access,2.5982792855
+Burundi,Access,1.883314975
+Cabo Verde,Access,4.262149940333333
+Cambodia,Access,4.869411687333333
+Cambodia,Association,3.571428571428572
+Cambodia,Expression,6.0
+Cameroon,Access,4.394366010166666
+Canada,Access,5.4528662365
+Canada,Association,5.571428571428571
+Canada,Expression,5.985706313344974
 Caribbean small states,Access,5.9140252455
 Cayman Islands,Access,6.0
-Central African Republic (the),Access,2.172977705583333
+Central African Republic (the),Access,2.3466738510000003
 Central Europe and the Baltics,Access,6.0
-Chad,Access,1.6776562531571426
+Chad,Access,1.6433333459999997
 Channel Islands,Access,6.0
-Chile,Access,5.547876960761904
-Chile,"Expression, Association",5.999843981589828
-China,Access,4.803502247869048
-China,"Expression, Association",3.73531026661146
-"China, Hong Kong Special Administrative Region",Access,5.678252855411112
-"China, Hong Kong Special Administrative Region","Expression, Association",5.998685844929701
-"China, Macao Special Administrative Region",Access,5.4041863483125
-"China, Macao Special Administrative Region","Expression, Association",5.999981997875749
-Colombia,Access,4.719639270059525
-Colombia,"Expression, Association",5.124552947247775
-Comoros (the),Access,2.124213058850001
-Congo (the),Access,3.78831180575
-Costa Rica,Access,5.236623613122223
-Costa Rica,"Expression, Association",5.674963995751499
-Croatia,Access,5.060579684677777
-Croatia,"Expression, Association",5.9993279206946415
-Cuba,Access,4.4219470865
-Cuba,"Expression, Association",2.05
+Chile,Access,5.810466639166666
+Chile,Expression,5.999843981589828
+China,Access,4.748915039055556
+China,Association,1.2857142857142856
+China,Expression,5.97062053322292
+"China, Hong Kong Special Administrative Region",Access,5.649585296777778
+"China, Hong Kong Special Administrative Region",Expression,5.998685844929701
+"China, Macao Special Administrative Region",Access,5.415727785857143
+"China, Macao Special Administrative Region",Expression,5.999981997875749
+Colombia,Access,4.685861794111111
+Colombia,Association,4.571428571428571
+Colombia,Expression,5.999105894495551
+Comoros (the),Access,2.292214647916667
+Congo (the),Access,4.323861630833333
+Costa Rica,Access,5.283184262722221
+Costa Rica,Association,5.714285714285714
+Costa Rica,Expression,5.9999279915029975
+Croatia,Access,5.168422815777778
+Croatia,Expression,5.9993279206946415
+Cuba,Access,4.676218407714286
+Cuba,Association,2.2857142857142856
 Curaçao,Access,6.0
-Curaçao,"Expression, Association",5.999993999291917
-Cyprus,Access,5.273204358811111
-Cyprus,"Expression, Association",5.999963995751498
-Czechia,Access,5.246055949099999
-Czechia,"Expression, Association",5.999633956806903
-Côte d'Ivoire,Access,2.9785591124065935
+Curaçao,Expression,5.999993999291917
+Cyprus,Access,5.381885438444445
+Cyprus,Expression,5.999963995751498
+Czechia,Access,5.252799954944445
+Czechia,Expression,5.999633956806903
+Côte d'Ivoire,Access,3.307220627166666
 Democratic People's Republic of Korea (the),Access,3.468637848
-Democratic Republic of the Congo (the),Access,2.2609485855476192
-Denmark,Access,5.787777115477779
-Denmark,"Expression, Association",5.998907871128793
+Democratic Republic of the Congo (the),Access,2.02066672
+Denmark,Access,5.877168745111112
+Denmark,Expression,5.998907871128793
 Djibouti,Access,4.0637968065
-Dominica,Access,1.2
-Dominican Republic (the),Access,4.864017924428572
-Dominican Republic (the),"Expression, Association",5.999993999291917
+Dominica,Access,1.5
+Dominican Republic (the),Access,5.559432347666667
+Dominican Republic (the),Expression,5.999993999291917
 Early-demographic dividend,Access,5.6271276295
 East Asia & Pacific,Access,5.906410476
 East Asia & Pacific (IDA & IBRD countries),Access,5.926556844
 East Asia & Pacific (excluding high income),Access,5.8964236505
-Ecuador,Access,5.046413290645834
-Ecuador,"Expression, Association",5.049591951850318
-Egypt,Access,4.285577976688889
-Egypt,"Expression, Association",4.149945993627248
-El Salvador,Access,4.125354356642857
-Equatorial Guinea,Access,0.8659217833999999
-Eritrea,Access,0.7038573074000001
-Estonia,Access,5.4226734645
-Estonia,"Expression, Association",5.845877513546599
-Eswatini,Access,2.4727144075380956
-Ethiopia,Access,2.852069190142857
-Ethiopia,"Expression, Association",4.174996999645958
+Ecuador,Access,5.564125824
+Ecuador,Association,4.571428571428571
+Ecuador,Expression,5.9991839037006365
+Egypt,Access,4.427132900944445
+Egypt,Association,2.428571428571429
+Egypt,Expression,5.999891987254496
+El Salvador,Access,4.014458506944444
+Equatorial Guinea,Access,1.08240222925
+Eritrea,Access,0.87982163425
+Estonia,Access,5.6046840065
+Estonia,Association,5.571428571428571
+Estonia,Expression,5.9917550270931965
+Eswatini,Access,2.487848027583333
+Ethiopia,Access,2.99912707
+Ethiopia,Association,2.7142857142857144
+Ethiopia,Expression,5.999993999291917
 Euro area,Access,6.0
 Europe & Central Asia,Access,5.999666314500001
 Europe & Central Asia (IDA & IBRD countries),Access,5.9993331895
 Europe & Central Asia (excluding high income),Access,5.999266262
 European Union,Access,6.0
-Europol,"Expression, Association",5.999825979465577
+Europol,Expression,5.999825979465577
 Faroe Islands,Access,6.0
-Fiji,Access,2.8675958282500003
-Finland,Access,5.577241399688888
-Finland,"Expression, Association",5.998061771289012
+Fiji,Access,2.7943092981666666
+Finland,Access,5.647459425888889
+Finland,Expression,5.998061771289012
 Fragile and conflict affected situations,Access,3.703344842
-France,Access,5.402206262559524
-France,"Expression, Association",5.410743367717391
+France,Access,5.379493254500001
+France,Association,5.285714285714286
+France,Expression,5.921486735434781
 French Polynesia,Access,6.0
-Gabon,Access,3.755774150285714
-Gambia (the),Access,2.8780237399523814
-Gambia (the),"Expression, Association",3.65
-Georgia,Access,4.608474012244444
-Georgia,"Expression, Association",4.85
-Germany,Access,5.437150203033334
-Germany,"Expression, Association",5.456754847071954
-Ghana,Access,4.166733522190477
-Ghana,"Expression, Association",4.2
+Gabon,Access,4.936307017
+Gambia (the),Access,3.846560987
+Gambia (the),Association,4.142857142857142
+Georgia,Access,4.845425625777779
+Georgia,Association,5.428571428571429
+Germany,Access,5.4816090615
+Germany,Association,5.142857142857143
+Germany,Expression,5.963509694143909
+Ghana,Access,5.266316604666667
+Ghana,Association,4.857142857142858
 Gibraltar,Access,6.0
-Greece,Access,4.961827941222222
-Greece,"Expression, Association",5.997323684194735
+Greece,Access,5.039854911777779
+Greece,Expression,5.997323684194735
 Greenland,Access,6.0
-Grenada,Access,1.1542874146000002
-Guadeloupe,"Expression, Association",5.995343450527162
+Grenada,Access,1.44285926825
+Guadeloupe,Expression,5.995343450527162
 Guam,Access,6.0
-Guatemala,Access,4.029210684833333
-Guinea,Access,2.658328220809524
-Guinea-Bissau,Access,2.6912476056666663
-Guyana,Access,2.785387844454546
-Haiti,Access,3.261747767642857
+Guatemala,Access,3.8170528876666654
+Guinea,Access,2.757148901666667
+Guinea-Bissau,Access,3.481973266666666
+Guyana,Access,2.4897943815000003
+Haiti,Access,3.9015594481666667
 Heavily indebted poor countries (HIPC),Access,3.231248257
 High income,Access,5.9999854205
-Honduras,Access,4.111250937454544
-Hungary,Access,5.178776062877778
-Hungary,"Expression, Association",5.249561948309901
+Honduras,Access,4.029114166249999
+Hungary,Access,5.261809475
+Hungary,Association,4.428571428571429
+Hungary,Expression,5.9991238966198015
 IBRD only,Access,5.925103221
 IDA & IBRD total,Access,5.4253632735
 IDA blend,Access,4.3419534285
 IDA only,Access,3.8038523145
 IDA total,Access,3.984724898
-Iceland,Access,5.638112449809524
-Iceland,"Expression, Association",5.8
-India,Access,3.573178484242425
-India,"Expression, Association",4.613983900100212
-Indonesia,Access,4.070962318655555
-Indonesia,"Expression, Association",3.935146747316184
-Iran (Islamic Republic of),Access,4.7569968565
-Iran (Islamic Republic of),"Expression, Association",1.8
-Iraq,Access,2.25155617962
-Iraq,"Expression, Association",4.524909989378747
-Ireland,Access,5.541467725655556
-Ireland,"Expression, Association",5.996363570901366
+Iceland,Access,5.821000035666667
+Iceland,Association,5.857142857142857
+India,Access,3.843506590500001
+India,Association,4.0
+India,Expression,5.777967800200424
+Indonesia,Access,3.9642635412777785
+Indonesia,Association,3.4285714285714284
+Indonesia,Expression,4.470293494632367
+Iran (Islamic Republic of),Access,4.825571872888889
+Iran (Islamic Republic of),Association,1.7142857142857144
+Iraq,Access,2.182505893666667
+Iraq,Association,3.2857142857142856
+Iraq,Expression,5.999819978757493
+Ireland,Access,5.496807493277778
+Ireland,Expression,5.996363570901366
 Isle of Man,Access,6.0
-Isle of Man,"Expression, Association",5.999057888830882
-Israel,Access,5.43052299375
-Israel,"Expression, Association",5.984464166771679
-Italy,Access,5.463236729690476
-Italy,"Expression, Association",5.3836180669318985
-Jamaica,Access,3.306382348136363
-Jamaica,"Expression, Association",5.999993999291917
-Japan,Access,5.61597440195238
-Japan,"Expression, Association",5.393849274214357
-Jordan,Access,5.216956593547619
-Jordan,"Expression, Association",4.674786974863034
-Kazakhstan,Access,4.991125839811111
-Kazakhstan,"Expression, Association",4.023668442876259
-Kenya,Access,3.1133979696547622
-Kenya,"Expression, Association",5.149675961763489
-Kiribati,Access,1.2
+Isle of Man,Expression,5.999057888830882
+Israel,Access,5.495259227666667
+Israel,Expression,5.984464166771679
+Italy,Access,5.8732879638333335
+Italy,Association,5.285714285714286
+Italy,Expression,5.967236133863796
+Jamaica,Access,2.7079390207500005
+Jamaica,Expression,5.999993999291917
+Japan,Access,5.628997229666667
+Japan,Association,5.142857142857143
+Japan,Expression,5.987698548428715
+Jordan,Access,5.575766372666667
+Jordan,Association,3.4285714285714284
+Jordan,Expression,5.999573949726067
+Kazakhstan,Access,5.1907060927222215
+Kazakhstan,Association,2.571428571428571
+Kazakhstan,Expression,5.397336885752519
+Kenya,Access,2.989423970722223
+Kenya,Association,4.857142857142858
+Kenya,Expression,5.9993519235269765
+Kiribati,Access,1.5
 Kosovo (UNSCR 1244),Access,6.0
-Kuwait,Access,5.491871344066667
-Kuwait,"Expression, Association",5.999771973092825
-Kyrgyzstan,Access,4.423127199261905
-Kyrgyzstan,"Expression, Association",3.65
-Lao People's Democratic Republic (the),Access,4.328911148428572
+Kuwait,Access,5.978015511666666
+Kuwait,Expression,5.999771973092825
+Kyrgyzstan,Access,5.630029169666667
+Kyrgyzstan,Association,4.285714285714286
+Lao People's Democratic Republic (the),Access,5.0958635965
 Late-demographic dividend,Access,5.9685068135
 Latin America & Caribbean,Access,5.921214735
 Latin America & Caribbean (excluding high income),Access,5.9136359815
 Latin America & the Caribbean (IDA & IBRD countries),Access,5.919422330500001
-Latvia,Access,5.271332285466667
-Latvia,"Expression, Association",5.99991599008683
+Latvia,Access,5.458490805388888
+Latvia,Expression,5.99991599008683
 Least developed countries: UN classification,Access,3.638914032
-Lebanon,Access,4.4966139375
-Lebanon,"Expression, Association",4.774849982297911
-Lesotho,Access,3.542243344964286
-Liberia,Access,3.033597892928571
-Libya,Access,2.3538169063636363
-Libya,"Expression, Association",4.7
-Liechtenstein,Access,1.2
-Lithuania,Access,5.181930318200001
-Lithuania,"Expression, Association",5.99964595822307
+Lebanon,Access,5.556093343000001
+Lebanon,Association,4.142857142857142
+Lebanon,Expression,5.999699964595822
+Lesotho,Access,3.664402210222223
+Liberia,Access,2.8901906015
+Libya,Access,2.3627682368333334
+Libya,Association,4.571428571428571
+Libya,Expression,6.0
+Liechtenstein,Access,1.5
+Lithuania,Access,5.325428849166666
+Lithuania,Expression,5.99964595822307
 Low & middle income,Access,5.410521527
 Low income,Access,3.0461670905
 Lower middle income,Access,5.451776276
-Luxembourg,Access,5.740479489788888
-Luxembourg,"Expression, Association",5.999843981589828
-Madagascar,Access,1.731084210212121
-Malawi,Access,2.4805479575952383
-Malawi,"Expression, Association",4.975
-Malaysia,Access,5.183861816866667
-Malaysia,"Expression, Association",4.949042887060673
-Maldives,Access,5.080970766666666
-Mali,Access,2.456429487228572
-Malta,Access,5.272280112611111
-Malta,"Expression, Association",5.999987998583833
-Marshall Islands,Access,1.1744360351999998
-Mauritania,Access,2.9638497829047616
-Mauritius,Access,4.403948020711111
-Mauritius,"Expression, Association",5.999963995751498
-Mexico,Access,4.832296948799999
-Mexico,"Expression, Association",4.9994629366265215
+Luxembourg,Access,5.840727281388889
+Luxembourg,Expression,5.999843981589828
+Madagascar,Access,1.4221932410833336
+Malawi,Access,3.3573164494999994
+Malawi,Association,4.571428571428571
+Malawi,Expression,6.0
+Malaysia,Access,5.274803588333333
+Malaysia,Association,4.0
+Malaysia,Expression,5.998085774121346
+Maldives,Access,5.858648173
+Mali,Access,3.0498111404999997
+Malta,Access,5.466172614055555
+Malta,Expression,5.999987998583833
+Marshall Islands,Access,1.468045044
+Mauritania,Access,3.7119376183333337
+Mauritius,Access,4.3935711013333325
+Mauritius,Expression,5.999963995751498
+Mexico,Access,4.873930338555556
+Mexico,Association,4.571428571428571
+Mexico,Expression,5.998925873253044
 Micronesia (Federated States of),Access,5.105847168
 Middle East & North Africa,Access,5.86162699
 Middle East & North Africa (IDA & IBRD countries),Access,5.835756485000001
 Middle East & North Africa (excluding high income),Access,5.8377323925
 Middle income,Access,5.675258436
-Monaco,Access,1.2
-Monaco,"Expression, Association",5.999987998583833
-Mongolia,Access,3.828859456744444
-Montenegro,Access,4.803904509400001
-Morocco,Access,4.705060162933334
-Morocco,"Expression, Association",4.824981997875749
-Mozambique,Access,2.790916386261905
-Myanmar,Access,3.4132298595
-Myanmar,"Expression, Association",1.85
-Namibia,Access,4.029237053309524
-Nauru,Access,1.2
-Nepal,Access,3.579646210119048
-Nepal,"Expression, Association",5.9995559476018165
-Netherlands (the),Access,5.620153397266666
-Netherlands (the),"Expression, Association",5.996771619051048
+Monaco,Access,1.5
+Monaco,Expression,5.999987998583833
+Mongolia,Access,4.279027318444445
+Montenegro,Access,5.014772532722223
+Morocco,Access,4.934710062888889
+Morocco,Association,4.142857142857142
+Morocco,Expression,5.999963995751498
+Mozambique,Access,2.8119246165000003
+Myanmar,Access,4.272660954833333
+Myanmar,Association,2.0
+Namibia,Access,4.513251940333333
+Nauru,Access,1.5
+Nepal,Access,4.681262436
+Nepal,Expression,5.9995559476018165
+Netherlands (the),Access,5.653576072833334
+Netherlands (the),Expression,5.996771619051048
 New Caledonia,Access,6.0
-New Zealand,Access,5.794759050214286
-New Zealand,"Expression, Association",5.998133779786015
-Nicaragua,Access,4.562718758190476
-Nicaragua,"Expression, Association",4.7
-Niger (the),Access,0.9482702446000001
-Nigeria,Access,3.468568636904762
-Nigeria,"Expression, Association",4.974696964241781
+New Zealand,Access,5.860814793833334
+New Zealand,Expression,5.998133779786015
+Nicaragua,Access,4.510561052833333
+Nicaragua,Association,3.571428571428572
+Nicaragua,Expression,6.0
+Niger (the),Access,0.8371227105833334
+Nigeria,Access,4.183517176333333
+Nigeria,Association,4.571428571428571
+Nigeria,Expression,5.999393928483562
 North America,Access,6.0
-North Macedonia,Access,4.803396546428571
-North Macedonia,"Expression, Association",6.0
+North Macedonia,Access,5.220509812277777
+North Macedonia,Expression,6.0
 Northern Mariana Islands,Access,6.0
-Norway,Access,5.769810254211111
-Norway,"Expression, Association",5.998955876793461
+Norway,Access,5.862166826
+Norway,Expression,5.998955876793461
 OECD members,Access,5.9995153485
-Oman,Access,4.95535026309091
-Oman,"Expression, Association",6.0
+Oman,Access,5.424903970083332
+Oman,Expression,6.0
 Other small states,Access,4.91216657
 Pacific island small states,Access,5.337289029
-Pakistan,Access,2.350732987178571
-Pakistan,"Expression, Association",4.004712806111121
+Pakistan,Access,2.329600710722222
+Pakistan,Association,2.857142857142857
+Pakistan,Expression,5.759425612222242
 Palau,Access,6.0
-Panama,Access,4.749350338761905
-Papua New Guinea,Access,2.46651299745
-Papua New Guinea,"Expression, Association",6.0
-Paraguay,Access,4.571330416066666
-Peru,Access,4.286343305066667
-Peru,"Expression, Association",5.998787856967122
-Philippines (the),Access,4.34350205430303
-Philippines (the),"Expression, Association",5.124438933794188
-Poland,Access,5.240045408711112
-Poland,"Expression, Association",5.996225554615444
-Portugal,Access,5.080215495788889
-Portugal,"Expression, Association",5.997959759251591
+Panama,Access,4.674314566166667
+Papua New Guinea,Access,2.1339506785
+Papua New Guinea,Expression,6.0
+Paraguay,Access,4.82201214888889
+Peru,Access,4.236373898722222
+Peru,Expression,5.998787856967122
+Philippines (the),Access,4.461405186916667
+Philippines (the),Association,4.714285714285714
+Philippines (the),Expression,5.998877867588376
+Poland,Access,5.289816705555556
+Poland,Expression,5.996225554615444
+Portugal,Access,4.987942518333334
+Portugal,Expression,5.997959759251591
 Post-demographic dividend,Access,5.999898145
 Pre-demographic dividend,Access,3.361552986
-Puerto Rico,Access,3.0
-Puerto Rico,"Expression, Association",6.0
-Qatar,Access,5.426596495254445
-Qatar,"Expression, Association",5.999993999291917
-Republic of Korea (the),Access,5.641758344655555
-Republic of Korea (the),"Expression, Association",4.919168811919807
-Republic of Moldova (the),Access,3.361803582902778
-Romania,Access,4.975080987766666
-Romania,"Expression, Association",5.998055770580929
-Russian Federation (the),Access,5.198629713322222
-Russian Federation (the),"Expression, Association",1.75
-Rwanda,Access,2.9785158262142857
-Rwanda,"Expression, Association",2.9
-Réunion,"Expression, Association",5.999969996459583
+Puerto Rico,Access,6.0
+Puerto Rico,Expression,6.0
+Qatar,Access,5.895115066888889
+Qatar,Expression,5.999993999291917
+Republic of Korea (the),Access,5.8273852779999995
+Republic of Korea (the),Association,4.428571428571429
+Republic of Korea (the),Expression,5.488337623839613
+Republic of Moldova (the),Access,2.9093250275
+Romania,Access,5.022449047222222
+Romania,Expression,5.998055770580929
+Russian Federation (the),Access,5.315497841611112
+Russian Federation (the),Association,2.428571428571429
+Russian Federation (the),Expression,1.0
+Rwanda,Access,3.176637689333333
+Rwanda,Association,2.571428571428571
+Réunion,Expression,5.999969996459583
 Saint Kitts and Nevis,Access,6.0
-Saint Lucia,Access,3.450759233546296
+Saint Lucia,Access,3.4090495808999997
 Saint Martin (Dutch Part),Access,6.0
 Saint Martin (French Part),Access,6.0
-Saint Vincent and the Grenadines,Access,3.4922129722685185
-Saint Vincent and the Grenadines,"Expression, Association",5.999993999291917
-Samoa,Access,3.1104999656999994
-San Marino,Access,1.2
-San Marino,"Expression, Association",6.0
+Saint Vincent and the Grenadines,Access,3.4485866800666667
+Saint Vincent and the Grenadines,Expression,5.999993999291917
+Samoa,Access,2.8574999745833334
+San Marino,Access,1.5
+San Marino,Expression,6.0
 Sao Tome and Principe,Access,4.7590953825
-Saudi Arabia,Access,5.402468981333333
-Saudi Arabia,"Expression, Association",4.09972996813624
-Senegal,Access,3.655265110785714
-Senegal,"Expression, Association",5.999549946893733
-Serbia,Access,4.898930409877777
-Serbia,"Expression, Association",5.274960995397457
-Seychelles,Access,5.1578014691666665
-Sierra Leone,Access,2.904928332404762
-Singapore,Access,5.635444850077777
-Singapore,"Expression, Association",4.849687963179656
-Slovakia,Access,5.260574232344444
-Slovakia,"Expression, Association",5.999981997875749
-Slovenia,Access,5.248530321144444
-Slovenia,"Expression, Association",5.999981997875749
+Saudi Arabia,Access,5.796191824555555
+Saudi Arabia,Association,2.142857142857143
+Saudi Arabia,Expression,5.99945993627248
+Senegal,Access,4.932826461833334
+Senegal,Expression,5.999549946893733
+Serbia,Access,5.044554447555557
+Serbia,Association,4.571428571428571
+Serbia,Expression,5.999921990794913
+Seychelles,Access,6.0
+Sierra Leone,Access,2.442937440833333
+Singapore,Access,5.570091279388888
+Singapore,Association,3.4285714285714284
+Singapore,Expression,5.999375926359311
+Slovakia,Access,5.353085251722223
+Slovakia,Expression,5.999981997875749
+Slovenia,Access,5.335009990166666
+Slovenia,Expression,5.999981997875749
 Small states,Access,5.1175864330000005
-Solomon Islands,Access,2.4180099411
-Somalia,Access,0.7327766291666666
-Somalia,"Expression, Association",5.999975997167666
-South Africa,Access,4.669730823190477
-South Africa,"Expression, Association",5.324963995751499
+Solomon Islands,Access,2.1974339803333334
+Somalia,Access,0.70041494375
+Somalia,Expression,5.999975997167666
+South Africa,Access,5.189159774833334
+South Africa,Association,5.142857142857143
+South Africa,Expression,5.9999279915029975
 South Asia,Access,5.7199364595
 South Asia (IDA & IBRD),Access,5.7199364595
-Spain,Access,5.614140937033333
-Spain,"Expression, Association",5.087406313945046
-Sri Lanka,Access,3.467245347666667
-Sri Lanka,"Expression, Association",4.774009883166213
-State of Palestine (the),Access,4.7038867423125
+Spain,Access,5.671107326444445
+Spain,Expression,5.087406313945046
+Sri Lanka,Access,3.8063889185
+Sri Lanka,Association,4.285714285714286
+Sri Lanka,Expression,5.998019766332427
+State of Palestine (the),Access,4.728566393357142
 Sub-Saharan Africa,Access,3.3374842795
 Sub-Saharan Africa (IDA & IBRD countries),Access,3.3374842795
 Sub-Saharan Africa (excluding high income),Access,3.337249446
-Sudan (the),Access,2.2750995047266667
-Sudan (the),"Expression, Association",2.65
-Suriname,Access,3.889151030428572
-Sweden,Access,5.675830152345237
-Sweden,"Expression, Association",5.999801976633242
-Switzerland,Access,5.679511325321428
-Switzerland,"Expression, Association",5.995403457607997
-Syrian Arab Republic (the),Access,2.73312206275
-Taiwan,"Expression, Association",5.499156900514261
-Tajikistan,Access,2.19800954139394
-Thailand,Access,4.8054070144444445
-Thailand,"Expression, Association",4.37359088372428
-Timor-Leste,Access,3.321479566285714
-Togo,Access,2.686897868833333
-Tonga,Access,2.794495741650001
-Trinidad and Tobago,Access,3.387624330727273
-Tunisia,Access,4.532968004607143
-Tunisia,"Expression, Association",5.074981997875749
-Turkey,Access,4.691327745544443
-Turkey,"Expression, Association",4.292795249839481
-Turkmenistan,Access,1.199
+Sudan (the),Access,2.2301917404333333
+Sudan (the),Association,3.142857142857143
+Suriname,Access,5.114441553666667
+Sweden,Access,5.7541060926666665
+Sweden,Expression,5.999801976633242
+Switzerland,Access,5.718127599444445
+Switzerland,Expression,5.995403457607997
+Syrian Arab Republic (the),Access,5.4662441255
+Taiwan,Association,5.428571428571429
+Taiwan,Expression,5.998313801028521
+Tajikistan,Access,2.243497181
+Thailand,Access,4.799225106944444
+Thailand,Association,2.857142857142857
+Thailand,Expression,5.947181767448559
+Timor-Leste,Access,5.0330720265
+Togo,Access,3.0346997261666666
+Tonga,Access,2.6182428868333334
+Trinidad and Tobago,Access,2.7638589859166665
+Tunisia,Access,4.623192760555556
+Tunisia,Association,5.0
+Tunisia,Expression,5.999963995751498
+Turkey,Access,4.946449994166667
+Turkey,Association,2.428571428571429
+Turkey,Expression,5.885590499678962
+Turkmenistan,Access,1.49875
 Turks and Caicos Islands,Access,6.0
-Tuvalu,Access,1.2
-Uganda,Access,2.1643343818030303
-Uganda,"Expression, Association",3.45
-Ukraine,Access,4.784090366202382
-Ukraine,"Expression, Association",5.044758381489015
-United Arab Emirates (the),Access,5.522020860144446
-United Arab Emirates (the),"Expression, Association",4.174828979819619
-United Kingdom of Great Britain and Northern Ireland (the),Access,5.7322959625
-United Kingdom of Great Britain and Northern Ireland (the),"Expression, Association",5.439912809711546
-United Republic of Tanzania (the),Access,3.246383376761905
+Tuvalu,Access,1.5
+Uganda,Access,1.776736838
+Uganda,Association,3.7142857142857135
+Ukraine,Access,4.865116305611111
+Ukraine,Association,4.0
+Ukraine,Expression,5.989516762978031
+United Arab Emirates (the),Access,5.972683488333334
+United Arab Emirates (the),Association,2.2857142857142856
+United Arab Emirates (the),Expression,5.999657959639237
+United Kingdom of Great Britain and Northern Ireland (the),Access,5.731889900833333
+United Kingdom of Great Britain and Northern Ireland (the),Association,5.285714285714286
+United Kingdom of Great Britain and Northern Ireland (the),Expression,5.979825619423092
+United Republic of Tanzania (the),Access,3.4888229243333337
 United States Virgin Islands,Access,6.0
-United States of America (the),Access,5.618959948863637
-United States of America (the),"Expression, Association",4.975418849424232
+United States of America (the),Access,5.620040886583335
+United States of America (the),Association,5.142857142857143
+United States of America (the),Expression,5.200837698848464
 Upper middle income,Access,5.9688701305
-Uruguay,Access,5.347456404285714
-Uruguay,"Expression, Association",6.0
-Uzbekistan,Access,4.294244311785714
-Uzbekistan,"Expression, Association",4.199996999645959
-Vanuatu,Access,2.8085927932999994
-Vanuatu,"Expression, Association",6.0
-Venezuela (Bolivarian Republic of),Access,3.2245288942460317
-Venezuela (Bolivarian Republic of),"Expression, Association",4.199906989024705
-Viet Nam,Access,4.711773174399999
-Viet Nam,"Expression, Association",3.957079035326169
+Uruguay,Access,5.353653222166667
+Uruguay,Expression,6.0
+Uzbekistan,Access,4.4586956502222215
+Uzbekistan,Association,2.7142857142857144
+Uzbekistan,Expression,5.999993999291917
+Vanuatu,Access,2.5051710129166667
+Vanuatu,Expression,6.0
+Venezuela (Bolivarian Republic of),Access,3.4693333435333336
+Venezuela (Bolivarian Republic of),Association,2.7142857142857144
+Venezuela (Bolivarian Republic of),Expression,5.99981397804941
+Viet Nam,Access,4.847424078055557
+Viet Nam,Association,1.8571428571428568
+Viet Nam,Expression,5.814158070652337
 World,Access,5.489907821
-Yemen,Access,1.8424439869841274
-Zambia,Access,3.0684700263333338
-Zambia,"Expression, Association",3.95
-Zimbabwe,Access,3.6019017843095233
-Zimbabwe,"Expression, Association",3.3
+Yemen,Access,2.1291950225
+Zambia,Access,3.551728375833333
+Zambia,Association,4.428571428571429
+Zimbabwe,Access,4.333151753666667
+Zimbabwe,Association,4.142857142857142
