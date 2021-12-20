@@ -1,51 +1,51 @@
 Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-Infrastructure,Connectivity Technology,Afghanistan,2.348977725079818,22,2.06710039807024
+Infrastructure,Connectivity Technology,Afghanistan,2.3489777250798185,22,2.0671003980702403
 Infrastructure,Connectivity Technology,Africa,1.0585266370550304,1,0.042341065482201214
 Infrastructure,Connectivity Technology,Africa Eastern and Southern,3.1820330555000003,1,0.12728132222000002
 Infrastructure,Connectivity Technology,Africa Western and Central,3.5670710735,1,0.14268284294
 Infrastructure,Connectivity Technology,Albania,3.763543156012832,25,3.763543156012832
-Infrastructure,Connectivity Technology,Algeria,3.2484460251242364,23,2.9885703431142976
+Infrastructure,Connectivity Technology,Algeria,3.2484460251242355,23,2.9885703431142967
 Infrastructure,Connectivity Technology,American Samoa,0.6303777186147259,1,0.025215108744589036
 Infrastructure,Connectivity Technology,Andorra,1.768759351818795,4,0.2830014962910072
-Infrastructure,Connectivity Technology,Angola,2.281462575036111,21,1.9164285630303333
+Infrastructure,Connectivity Technology,Angola,2.2814625750361115,21,1.9164285630303335
 Infrastructure,Connectivity Technology,Antigua and Barbuda,1.234143701789138,6,0.2961944884293931
 Infrastructure,Connectivity Technology,Arab World,5.475614116,1,0.21902456464
-Infrastructure,Connectivity Technology,Argentina,3.569075596697668,24,3.426312572829761
-Infrastructure,Connectivity Technology,Armenia,3.659327342364427,25,3.659327342364427
+Infrastructure,Connectivity Technology,Argentina,3.5690755966976666,24,3.42631257282976
+Infrastructure,Connectivity Technology,Armenia,3.6593273423644272,25,3.6593273423644272
 Infrastructure,Connectivity Technology,Aruba,3.9114454109984913,2,0.31291563287987934
 Infrastructure,Connectivity Technology,Asia Pacific,0.0,0,0.0
 Infrastructure,Connectivity Technology,Australia,4.316580656790073,22,3.7985909779752642
 Infrastructure,Connectivity Technology,Austria,4.616491510541379,25,4.616491510541379
-Infrastructure,Connectivity Technology,Azerbaijan,3.5592801670682817,23,3.2745377537028193
-Infrastructure,Connectivity Technology,Bahamas,2.9286917373374894,12,1.4057720339219948
+Infrastructure,Connectivity Technology,Azerbaijan,3.559280167068282,23,3.2745377537028197
+Infrastructure,Connectivity Technology,Bahamas,2.92869173733749,12,1.405772033921995
 Infrastructure,Connectivity Technology,"Bahamas, The",2.970833333333333,2,0.23766666666666666
 Infrastructure,Connectivity Technology,Bahrain,4.344199734808773,24,4.170431745416422
 Infrastructure,Connectivity Technology,Bahrain (Kingdom of),4.75,1,0.19
-Infrastructure,Connectivity Technology,Bangladesh,3.2055843290335337,21,2.6926908363881683
+Infrastructure,Connectivity Technology,Bangladesh,3.205584329033533,21,2.6926908363881674
 Infrastructure,Connectivity Technology,Barbados,2.91686617339589,17,1.9834689979092053
-Infrastructure,Connectivity Technology,Belarus,3.8384657146999692,24,3.6849270861119705
+Infrastructure,Connectivity Technology,Belarus,3.838465714699968,24,3.684927086111969
 Infrastructure,Connectivity Technology,Belgium,4.422621663875431,25,4.422621663875431
 Infrastructure,Connectivity Technology,Belize,2.8884001032359357,17,1.9641120702004364
-Infrastructure,Connectivity Technology,Benin,2.935090995044152,22,2.582880075638854
+Infrastructure,Connectivity Technology,Benin,2.9350909950441517,22,2.5828800756388537
 Infrastructure,Connectivity Technology,Bermuda,4.508616116307455,3,0.5410339339568946
 Infrastructure,Connectivity Technology,Bhutan,3.2864093498105422,22,2.8920402278332773
-Infrastructure,Connectivity Technology,Bolivia,3.2854575619319824,17,2.2341111421137483
+Infrastructure,Connectivity Technology,Bolivia,3.285457561931983,17,2.2341111421137483
 Infrastructure,Connectivity Technology,Bolivia (Plurinational State of),2.3459831028209437,7,0.6568752687898642
 Infrastructure,Connectivity Technology,Bosnia and Herzegovina,3.5137877819576624,25,3.5137877819576624
 Infrastructure,Connectivity Technology,Botswana,3.0837947233374905,22,2.713739356536992
 Infrastructure,Connectivity Technology,Brazil,3.6490651481130745,24,3.5031025421885515
 Infrastructure,Connectivity Technology,British Virgin Islands,3.6020009806805233,2,0.28816007845444186
 Infrastructure,Connectivity Technology,Brunei,1.9864093723624274,3,0.23836912468349128
-Infrastructure,Connectivity Technology,Brunei Darussalam,4.268613297541788,21,3.585635169935102
-Infrastructure,Connectivity Technology,Bulgaria,3.9281902105778,24,3.7710626021546876
+Infrastructure,Connectivity Technology,Brunei Darussalam,4.268613297541789,21,3.5856351699351023
+Infrastructure,Connectivity Technology,Bulgaria,3.9281902105777995,24,3.7710626021546876
 Infrastructure,Connectivity Technology,Bulgaria (Rep.),5.35,1,0.214
-Infrastructure,Connectivity Technology,Burkina Faso,2.3002324733062154,19,1.7481766797127236
-Infrastructure,Connectivity Technology,Burundi,1.9511042630001414,22,1.7169717514401244
+Infrastructure,Connectivity Technology,Burkina Faso,2.300232473306216,19,1.748176679712724
+Infrastructure,Connectivity Technology,Burundi,1.9511042630001407,22,1.716971751440124
 Infrastructure,Connectivity Technology,CIS,0.0,0,0.0
-Infrastructure,Connectivity Technology,Cabo Verde,3.307239258607401,18,2.3812122661973287
-Infrastructure,Connectivity Technology,Cambodia,2.9121977685224203,22,2.5627340362997297
+Infrastructure,Connectivity Technology,Cabo Verde,3.3072392586074004,18,2.3812122661973283
+Infrastructure,Connectivity Technology,Cambodia,2.9121977685224216,22,2.562734036299731
 Infrastructure,Connectivity Technology,Cameroon,2.7252206470323883,23,2.507202995269797
-Infrastructure,Connectivity Technology,Canada,4.343733086236248,23,3.996234439337348
+Infrastructure,Connectivity Technology,Canada,4.343733086236249,23,3.996234439337349
 Infrastructure,Connectivity Technology,Cape Verde,0.6923916061723988,1,0.027695664246895953
 Infrastructure,Connectivity Technology,Caribbean small states,5.9140252455,1,0.23656100982000003
 Infrastructure,Connectivity Technology,Cayman Islands,2.9803285834058406,3,0.35763943000870085
@@ -53,30 +53,30 @@ Infrastructure,Connectivity Technology,Central African Rep.,0.19366666666666665,
 Infrastructure,Connectivity Technology,Central African Republic,1.900807687910496,13,0.988419997713458
 Infrastructure,Connectivity Technology,Central America,0.0,0,0.0
 Infrastructure,Connectivity Technology,Central Europe and the Baltics,6.0,1,0.24
-Infrastructure,Connectivity Technology,Chad,2.0449159941741355,21,1.7177294351062737
+Infrastructure,Connectivity Technology,Chad,2.0449159941741364,21,1.7177294351062744
 Infrastructure,Connectivity Technology,Channel Islands,6.0,1,0.24
 Infrastructure,Connectivity Technology,Chile,4.081661173751116,23,3.755128279851027
-Infrastructure,Connectivity Technology,China,4.203747603427115,24,4.03559769929003
+Infrastructure,Connectivity Technology,China,4.203747603427116,24,4.035597699290031
 Infrastructure,Connectivity Technology,China (People's Rep.),5.9995,1,0.23998000000000003
-Infrastructure,Connectivity Technology,Colombia,3.6351439670936156,25,3.6351439670936156
+Infrastructure,Connectivity Technology,Colombia,3.6351439670936143,25,3.6351439670936143
 Infrastructure,Connectivity Technology,Comoros,2.3978568810308145,17,1.630542679100954
 Infrastructure,Connectivity Technology,Congo,3.1281446356673213,11,1.3763836396936213
 Infrastructure,Connectivity Technology,Congo (Democratic Republic of the),1.13,1,0.0452
 Infrastructure,Connectivity Technology,Congo (Rep. of the),0.2893333333333334,1,0.011573333333333337
 Infrastructure,Connectivity Technology,Congo (Rep.),0.0,0,0.0
 Infrastructure,Connectivity Technology,"Congo, Dem. Rep.",2.5229773370833333,4,0.40367637393333333
-Infrastructure,Connectivity Technology,"Congo, Democratic Republic",2.8919701108750004,8,0.9254304354800001
+Infrastructure,Connectivity Technology,"Congo, Democratic Republic",2.8919701108749996,8,0.9254304354799999
 Infrastructure,Connectivity Technology,"Congo, Rep.",3.3079953893333336,3,0.39695944672
 Infrastructure,Connectivity Technology,Cook Islands,1.2137497286763357,1,0.04854998914705343
 Infrastructure,Connectivity Technology,Costa Rica,3.6401583505098953,24,3.494552016489499
-Infrastructure,Connectivity Technology,Cote d'Ivoire,3.5633714967272723,10,1.425348598690909
-Infrastructure,Connectivity Technology,Croatia,4.128958233828277,25,4.128958233828277
-Infrastructure,Connectivity Technology,Cuba,2.8332339793636376,16,1.8132697467927281
+Infrastructure,Connectivity Technology,Cote d'Ivoire,3.5633714967272736,10,1.4253485986909096
+Infrastructure,Connectivity Technology,Croatia,4.1289582338282775,25,4.1289582338282775
+Infrastructure,Connectivity Technology,Cuba,2.833233979363637,16,1.813269746792728
 Infrastructure,Connectivity Technology,Curacao,6.0,1,0.24
 Infrastructure,Connectivity Technology,Curaçao,1.8870010967727155,1,0.07548004387090862
 Infrastructure,Connectivity Technology,Cyprus,4.049581410362836,24,3.8875981539483226
 Infrastructure,Connectivity Technology,Czech Rep.,6.0,1,0.24
-Infrastructure,Connectivity Technology,Czech Republic,4.618724471782979,12,2.21698774645583
+Infrastructure,Connectivity Technology,Czech Republic,4.618724471782978,12,2.2169877464558296
 Infrastructure,Connectivity Technology,Czechia,3.911339484552848,12,1.8774429525853669
 Infrastructure,Connectivity Technology,Côte d'Ivoire,2.6482148738260696,12,1.2711431394365134
 Infrastructure,Connectivity Technology,Côte d'Ivoire (Rep.),0.0,0,0.0
@@ -88,11 +88,11 @@ Infrastructure,Connectivity Technology,Democratic Republic of Congo,1.0111620377
 Infrastructure,Connectivity Technology,Democratic Republic of the Congo,2.036,2,0.16288
 Infrastructure,Connectivity Technology,Democratic Republic of the Congo (the),1.0005296194666409,1,0.04002118477866563
 Infrastructure,Connectivity Technology,Denmark,4.647741889686847,25,4.647741889686847
-Infrastructure,Connectivity Technology,Djibouti,1.9144769541635613,12,0.9189489379985094
+Infrastructure,Connectivity Technology,Djibouti,1.9144769541635611,12,0.9189489379985093
 Infrastructure,Connectivity Technology,Dominica,1.3208250595288837,7,0.3698310166680875
 Infrastructure,Connectivity Technology,Dominica (Commonwealth of),0.0,0,0.0
 Infrastructure,Connectivity Technology,Dominican Rep.,2.7673656549916394,4,0.4427785047986623
-Infrastructure,Connectivity Technology,Dominican Republic,3.4851048337528354,17,2.3698712869519283
+Infrastructure,Connectivity Technology,Dominican Republic,3.485104833752836,17,2.3698712869519287
 Infrastructure,Connectivity Technology,Dominican Republic (the),1.0161418781331664,1,0.04064567512532666
 Infrastructure,Connectivity Technology,Early-demographic dividend,5.6271276295,1,0.22508510518000002
 Infrastructure,Connectivity Technology,East Asia & Pacific,5.906410476,1,0.23625641904
@@ -101,14 +101,14 @@ Infrastructure,Connectivity Technology,East Asia & Pacific (excluding high incom
 Infrastructure,Connectivity Technology,East and South Asia,4.285,1,0.1714
 Infrastructure,Connectivity Technology,Eastern Africa,0.0,0,0.0
 Infrastructure,Connectivity Technology,Eastern Europe and Central Asia,4.57,1,0.18280000000000002
-Infrastructure,Connectivity Technology,Ecuador,3.3894916050932364,23,3.1183322766857775
+Infrastructure,Connectivity Technology,Ecuador,3.389491605093235,23,3.1183322766857766
 Infrastructure,Connectivity Technology,Egypt,3.0854162619466594,20,2.4683330095573277
 Infrastructure,Connectivity Technology,"Egypt, Arab Rep.",4.513878841458333,4,0.7222206146333333
 Infrastructure,Connectivity Technology,El Salvador,2.9891272594354232,22,2.6304319883031724
 Infrastructure,Connectivity Technology,Equatorial Guinea,0.9821734606374871,5,0.19643469212749742
 Infrastructure,Connectivity Technology,Eritrea,0.7484411129789601,5,0.14968822259579204
-Infrastructure,Connectivity Technology,Estonia,4.415518992609736,25,4.415518992609736
-Infrastructure,Connectivity Technology,Eswatini,2.3943123387640397,14,1.3408149097078623
+Infrastructure,Connectivity Technology,Estonia,4.415518992609737,25,4.415518992609737
+Infrastructure,Connectivity Technology,Eswatini,2.39431233876404,14,1.3408149097078625
 Infrastructure,Connectivity Technology,Ethiopia,2.3630104504246967,17,1.606847106288794
 Infrastructure,Connectivity Technology,Euro area,6.0,1,0.24
 Infrastructure,Connectivity Technology,Europe,1.4702391264429426,1,0.05880956505771771
@@ -120,55 +120,55 @@ Infrastructure,Connectivity Technology,European Union,6.0,1,0.24
 Infrastructure,Connectivity Technology,Faroe Islands,6.0,1,0.24
 Infrastructure,Connectivity Technology,Faröe Islands,6.0,1,0.24
 Infrastructure,Connectivity Technology,Fiji,2.707034852973688,16,1.7325023059031603
-Infrastructure,Connectivity Technology,Finland,4.809124668143933,25,4.809124668143933
+Infrastructure,Connectivity Technology,Finland,4.809124668143932,25,4.809124668143932
 Infrastructure,Connectivity Technology,Fragile and conflict affected situations,3.703344842,1,0.14813379368
 Infrastructure,Connectivity Technology,France,4.48787814704984,25,4.48787814704984
 Infrastructure,Connectivity Technology,French Guiana,1.3512150768940283,1,0.054048603075761134
 Infrastructure,Connectivity Technology,French Polynesia,2.39666078252487,2,0.1917328626019896
-Infrastructure,Connectivity Technology,Gabon,2.8239743539743563,19,2.1462205090205106
+Infrastructure,Connectivity Technology,Gabon,2.8239743539743567,19,2.146220509020511
 Infrastructure,Connectivity Technology,Gambia,2.854617817346532,13,1.4844012650201968
 Infrastructure,Connectivity Technology,Gambia (the),1.0387577303481583,1,0.041550309213926336
 Infrastructure,Connectivity Technology,"Gambia, The",3.4448416527916668,4,0.5511746644466667
-Infrastructure,Connectivity Technology,Georgia,3.755605625012731,24,3.6053814000122215
+Infrastructure,Connectivity Technology,Georgia,3.755605625012732,24,3.6053814000122224
 Infrastructure,Connectivity Technology,Georgia (Country),4.4615,1,0.17846
-Infrastructure,Connectivity Technology,Germany,4.59400384843719,25,4.59400384843719
-Infrastructure,Connectivity Technology,Ghana,3.1697257899629254,23,2.9161477267658915
+Infrastructure,Connectivity Technology,Germany,4.594003848437191,25,4.594003848437191
+Infrastructure,Connectivity Technology,Ghana,3.1697257899629263,23,2.9161477267658924
 Infrastructure,Connectivity Technology,Gibraltar,3.7578477097995115,2,0.30062781678396094
-Infrastructure,Connectivity Technology,Greece,4.204028385997676,25,4.204028385997676
+Infrastructure,Connectivity Technology,Greece,4.204028385997675,25,4.204028385997675
 Infrastructure,Connectivity Technology,Greenland,4.09744261114064,3,0.4916931133368768
 Infrastructure,Connectivity Technology,Grenada,1.2841584742114782,7,0.35956437277921394
 Infrastructure,Connectivity Technology,Guadeloupe,1.3680144879578044,1,0.054720579518312176
 Infrastructure,Connectivity Technology,Guam,3.2144593472453367,3,0.3857351216694404
-Infrastructure,Connectivity Technology,Guatemala,3.0833664691589204,23,2.8366971516262067
+Infrastructure,Connectivity Technology,Guatemala,3.08336646915892,23,2.8366971516262067
 Infrastructure,Connectivity Technology,Guinea,1.9979893968790812,16,1.278713214002612
 Infrastructure,Connectivity Technology,Guinea-Bissau,2.698704604866279,16,1.7271709471144185
 Infrastructure,Connectivity Technology,Guyana,2.395030192721302,17,1.6286205310504853
-Infrastructure,Connectivity Technology,Haiti,2.0476435918646265,19,1.5562091298171161
+Infrastructure,Connectivity Technology,Haiti,2.047643591864627,19,1.5562091298171166
 Infrastructure,Connectivity Technology,Heavily indebted poor countries (HIPC),3.231248257,1,0.12924993028
 Infrastructure,Connectivity Technology,High income,5.9999854205,1,0.23999941682
 Infrastructure,Connectivity Technology,High-income Countries,4.904999999999999,1,0.19619999999999999
-Infrastructure,Connectivity Technology,Honduras,2.9164192324308824,24,2.799762463133647
+Infrastructure,Connectivity Technology,Honduras,2.9164192324308815,24,2.799762463133646
 Infrastructure,Connectivity Technology,Honduras (Rep.),0.0,0,0.0
 Infrastructure,Connectivity Technology,Hong Kong,4.362114692678322,9,1.5703612893641958
 Infrastructure,Connectivity Technology,Hong Kong (SAR),4.39259768587716,2,0.3514078148701728
 Infrastructure,Connectivity Technology,"Hong Kong SAR, China",5.5077294455555545,3,0.6609275334666666
 Infrastructure,Connectivity Technology,"Hong Kong, China",5.217832964,5,1.0435665928000002
 Infrastructure,Connectivity Technology,"Hongkong, China",6.0,1,0.24
-Infrastructure,Connectivity Technology,Hungary,4.262014278786199,25,4.262014278786199
+Infrastructure,Connectivity Technology,Hungary,4.262014278786198,25,4.262014278786198
 Infrastructure,Connectivity Technology,IBRD only,5.925103221,1,0.23700412884
 Infrastructure,Connectivity Technology,IDA & IBRD total,5.4253632735,1,0.21701453094
 Infrastructure,Connectivity Technology,IDA blend,4.3419534285,1,0.17367813714
 Infrastructure,Connectivity Technology,IDA only,3.8038523145,1,0.15215409257999998
 Infrastructure,Connectivity Technology,IDA total,3.984724898,1,0.15938899592
 Infrastructure,Connectivity Technology,Iceland,4.598012815153335,21,3.862330764728801
-Infrastructure,Connectivity Technology,India,3.521820168291804,25,3.521820168291804
+Infrastructure,Connectivity Technology,India,3.5218201682918044,25,3.5218201682918044
 Infrastructure,Connectivity Technology,Indonesia,3.3799336358067813,24,3.24473629037451
-Infrastructure,Connectivity Technology,Iran,3.471799308719828,11,1.5275916958367242
+Infrastructure,Connectivity Technology,Iran,3.4717993087198264,11,1.5275916958367237
 Infrastructure,Connectivity Technology,Iran (Islamic Rep.),5.9,1,0.23600000000000002
 Infrastructure,Connectivity Technology,Iran (Islamic Republic of),3.3811203675902264,9,1.2172033323324813
 Infrastructure,Connectivity Technology,"Iran, Islamic Rep.",4.5315104525,4,0.7250416724000001
 Infrastructure,Connectivity Technology,Iraq,2.518560215254882,19,1.9141057635937102
-Infrastructure,Connectivity Technology,Ireland,4.460537755708492,25,4.460537755708492
+Infrastructure,Connectivity Technology,Ireland,4.460537755708493,25,4.460537755708493
 Infrastructure,Connectivity Technology,Isle of Man,6.0,1,0.24
 Infrastructure,Connectivity Technology,Israel,4.218567362868592,25,4.218567362868592
 Infrastructure,Connectivity Technology,Italy,4.440825371610328,23,4.085559341881502
@@ -177,8 +177,8 @@ Infrastructure,Connectivity Technology,Japan,4.541601382810215,25,4.541601382810
 Infrastructure,Connectivity Technology,Jersey,6.0,1,0.24
 Infrastructure,Connectivity Technology,Jordan,3.4223182228948037,23,3.1485327650632193
 Infrastructure,Connectivity Technology,Kazakhstan,3.8252642801403796,25,3.8252642801403796
-Infrastructure,Connectivity Technology,Kenya,3.047479455762748,25,3.047479455762748
-Infrastructure,Connectivity Technology,Kiribati,1.3476047671388651,8,0.43123352548443683
+Infrastructure,Connectivity Technology,Kenya,3.0474794557627467,25,3.0474794557627467
+Infrastructure,Connectivity Technology,Kiribati,1.3476047671388656,8,0.431233525484437
 Infrastructure,Connectivity Technology,Korea (Rep. of),4.572539050279797,6,1.0974093720671512
 Infrastructure,Connectivity Technology,Korea (Rep.),6.0,1,0.24
 Infrastructure,Connectivity Technology,Korea (Republic of),4.117000000000001,1,0.16468000000000005
@@ -196,7 +196,7 @@ Infrastructure,Connectivity Technology,Lao PDR,3.8693487294999995,5,0.7738697458
 Infrastructure,Connectivity Technology,Lao People's Dem. Rep.,4.5,1,0.18
 Infrastructure,Connectivity Technology,Lao People's Democratic Republic,2.1915,1,0.08766
 Infrastructure,Connectivity Technology,Lao People's Democratic Republic (the),1.0015412967247828,1,0.04006165186899131
-Infrastructure,Connectivity Technology,Laos,3.080684584475708,11,1.3555012171693115
+Infrastructure,Connectivity Technology,Laos,3.0806845844757076,11,1.3555012171693113
 Infrastructure,Connectivity Technology,Late-demographic dividend,5.9685068135,1,0.23874027254000002
 Infrastructure,Connectivity Technology,Latin America & Caribbean,5.921214735,1,0.23684858940000003
 Infrastructure,Connectivity Technology,Latin America & Caribbean (excluding high income),5.9136359815,1,0.23654543926
@@ -206,7 +206,7 @@ Infrastructure,Connectivity Technology,Latvia,4.22330152476847,25,4.223301524768
 Infrastructure,Connectivity Technology,Least developed countries: UN classification,3.638914032,1,0.14555656128000002
 Infrastructure,Connectivity Technology,Lebanon,3.384154126968282,22,2.9780556317320883
 Infrastructure,Connectivity Technology,Lesotho,2.9449944627078968,23,2.709394905691265
-Infrastructure,Connectivity Technology,Liberia,2.099024302903839,19,1.5952584702069177
+Infrastructure,Connectivity Technology,Liberia,2.0990243029038393,19,1.595258470206918
 Infrastructure,Connectivity Technology,Libya,1.894357678433251,16,1.2123889141972806
 Infrastructure,Connectivity Technology,Liechtenstein,3.4142152760219804,9,1.2291174993679128
 Infrastructure,Connectivity Technology,Lithuania,4.111766146440956,24,3.9472955005833175
@@ -221,17 +221,17 @@ Infrastructure,Connectivity Technology,"Macao, China",2.7744654284999997,3,0.332
 Infrastructure,Connectivity Technology,Macau,0.0,0,0.0
 Infrastructure,Connectivity Technology,Macau (SAR),3.4461816906494134,2,0.2756945352519531
 Infrastructure,Connectivity Technology,"Macedonia, FYR",1.5625,1,0.0625
-Infrastructure,Connectivity Technology,Madagascar,1.949614627468204,18,1.403722531777107
+Infrastructure,Connectivity Technology,Madagascar,1.9496146274682034,18,1.4037225317771063
 Infrastructure,Connectivity Technology,Malawi,2.559227126356678,22,2.2521198711938766
-Infrastructure,Connectivity Technology,Malaysia,4.064534681046302,25,4.064534681046302
-Infrastructure,Connectivity Technology,Maldives,3.8009107774885798,20,3.040728621990864
-Infrastructure,Connectivity Technology,Mali,2.6030348005453847,21,2.1865492324581233
+Infrastructure,Connectivity Technology,Malaysia,4.064534681046303,25,4.064534681046303
+Infrastructure,Connectivity Technology,Maldives,3.8009107774885793,20,3.040728621990864
+Infrastructure,Connectivity Technology,Mali,2.6030348005453843,21,2.186549232458123
 Infrastructure,Connectivity Technology,Malta,4.289787370560511,25,4.289787370560511
 Infrastructure,Connectivity Technology,Marshall Islands,1.0232567993842836,4,0.16372108790148537
 Infrastructure,Connectivity Technology,Martinique,0.6846435073203938,1,0.027385740292815753
-Infrastructure,Connectivity Technology,Mauritania,2.247376301158639,22,1.9776911450196022
-Infrastructure,Connectivity Technology,Mauritius,3.830459764723254,25,3.830459764723254
-Infrastructure,Connectivity Technology,Mexico,3.754293589303088,25,3.754293589303088
+Infrastructure,Connectivity Technology,Mauritania,2.2473763011586385,22,1.977691145019602
+Infrastructure,Connectivity Technology,Mauritius,3.830459764723253,25,3.830459764723253
+Infrastructure,Connectivity Technology,Mexico,3.7542935893030873,25,3.7542935893030873
 Infrastructure,Connectivity Technology,Micronesia,0.31484220488147663,2,0.02518737639051813
 Infrastructure,Connectivity Technology,Micronesia (Federated States of),1.5305,1,0.061220000000000004
 Infrastructure,Connectivity Technology,"Micronesia, Fed. Sts.",2.552923584,1,0.10211694336
@@ -245,11 +245,11 @@ Infrastructure,Connectivity Technology,Middle income,5.675258436,1,0.22701033744
 Infrastructure,Connectivity Technology,Moldova,3.615110762328766,20,2.8920886098630127
 Infrastructure,Connectivity Technology,Moldova (Republic of),3.5325,1,0.1413
 Infrastructure,Connectivity Technology,Monaco,3.3371358232777095,8,1.067883463448867
-Infrastructure,Connectivity Technology,Mongolia,3.3616015417260083,25,3.3616015417260083
-Infrastructure,Connectivity Technology,Montenegro,3.9080630738267366,25,3.9080630738267366
+Infrastructure,Connectivity Technology,Mongolia,3.3616015417260074,25,3.3616015417260074
+Infrastructure,Connectivity Technology,Montenegro,3.908063073826737,25,3.908063073826737
 Infrastructure,Connectivity Technology,Montserrat,1.1202461168491489,2,0.08961968934793191
 Infrastructure,Connectivity Technology,Morocco,3.7557917374901835,25,3.7557917374901835
-Infrastructure,Connectivity Technology,Mozambique,1.9379271182398343,18,1.3953075251326807
+Infrastructure,Connectivity Technology,Mozambique,1.937927118239834,18,1.3953075251326805
 Infrastructure,Connectivity Technology,Myanmar,2.680233831970915,16,1.7153496524613858
 Infrastructure,Connectivity Technology,Namibia,2.7739216627592107,22,2.4410510632281053
 Infrastructure,Connectivity Technology,Nauru,1.2749280558303375,4,0.203988488932854
@@ -259,8 +259,8 @@ Infrastructure,Connectivity Technology,Netherlands,4.732338099620723,24,4.543044
 Infrastructure,Connectivity Technology,Netherlands (the),1.1753180956917515,1,0.047012723827670064
 Infrastructure,Connectivity Technology,Netherlands Antilles,0.0,0,0.0
 Infrastructure,Connectivity Technology,New Caledonia,4.629590066860075,3,0.555550808023209
-Infrastructure,Connectivity Technology,New Zealand,4.195164599721806,20,3.3561316797774445
-Infrastructure,Connectivity Technology,Nicaragua,3.191573483847934,22,2.808584665786182
+Infrastructure,Connectivity Technology,New Zealand,4.1951645997218066,20,3.3561316797774454
+Infrastructure,Connectivity Technology,Nicaragua,3.1915734838479337,22,2.8085846657861815
 Infrastructure,Connectivity Technology,Niger,1.3941542857598692,15,0.8364925714559215
 Infrastructure,Connectivity Technology,Niger (the),1.000145582987822,1,0.040005823319512884
 Infrastructure,Connectivity Technology,Nigeria,2.7489553327119403,22,2.4190806927865074
@@ -272,7 +272,7 @@ Infrastructure,Connectivity Technology,Northern Mariana Islands,6.0,1,0.24
 Infrastructure,Connectivity Technology,Norway,4.673331757930205,25,4.673331757930205
 Infrastructure,Connectivity Technology,OECD members,5.42975767425,2,0.43438061394000005
 Infrastructure,Connectivity Technology,Oceania,3.505,1,0.1402
-Infrastructure,Connectivity Technology,Oman,3.8961510076479198,21,3.2727668464242523
+Infrastructure,Connectivity Technology,Oman,3.8961510076479184,21,3.2727668464242514
 Infrastructure,Connectivity Technology,Other Asia & Pacific,0.0,0,0.0
 Infrastructure,Connectivity Technology,Other CIS,0.0,0,0.0
 Infrastructure,Connectivity Technology,Other Caribbean,0.0,0,0.0
@@ -282,14 +282,14 @@ Infrastructure,Connectivity Technology,Other South America,0.0,0,0.0
 Infrastructure,Connectivity Technology,Other Southern Africa,0.0,0,0.0
 Infrastructure,Connectivity Technology,Other small states,4.91216657,1,0.19648666280000002
 Infrastructure,Connectivity Technology,Pacific island small states,5.337289029,1,0.21349156116
-Infrastructure,Connectivity Technology,Pakistan,2.9358156945145275,25,2.9358156945145275
+Infrastructure,Connectivity Technology,Pakistan,2.9358156945145266,25,2.9358156945145266
 Infrastructure,Connectivity Technology,Palau,2.9575,2,0.2366
-Infrastructure,Connectivity Technology,Palestine,2.334129721566009,8,0.7469215109011229
+Infrastructure,Connectivity Technology,Palestine,2.3341297215660086,8,0.7469215109011228
 Infrastructure,Connectivity Technology,Panama,3.6254556575672976,24,3.4804374312646056
 Infrastructure,Connectivity Technology,Panama (Rep.),1.85,1,0.07400000000000001
 Infrastructure,Connectivity Technology,Papua New Guinea,2.0439626684455443,18,1.471653121280792
 Infrastructure,Connectivity Technology,Paraguay,3.329558994054648,22,2.93001191476809
-Infrastructure,Connectivity Technology,Peru,3.166477795960732,22,2.786500460445444
+Infrastructure,Connectivity Technology,Peru,3.166477795960731,22,2.7865004604454433
 Infrastructure,Connectivity Technology,Philippines,3.4935703323827547,21,2.9345990792015137
 Infrastructure,Connectivity Technology,Philippines (the),1.0077610052975363,1,0.04031044021190145
 Infrastructure,Connectivity Technology,Poland,4.264546566996385,25,4.264546566996385
@@ -305,42 +305,42 @@ Infrastructure,Connectivity Technology,Republic of Moldova,3.8415,1,0.15366
 Infrastructure,Connectivity Technology,Republic of Moldova (the),1.011812670528689,1,0.04047250682114756
 Infrastructure,Connectivity Technology,Republic of the Union of Myanmar,1.3969532361649497,2,0.11175625889319597
 Infrastructure,Connectivity Technology,Reunion,1.3148127015460809,1,0.052592508061843235
-Infrastructure,Connectivity Technology,Romania,4.363239032060246,25,4.363239032060246
+Infrastructure,Connectivity Technology,Romania,4.363239032060244,25,4.363239032060244
 Infrastructure,Connectivity Technology,Russia,1.9646433808031054,3,0.23575720569637265
 Infrastructure,Connectivity Technology,Russian Federation,4.222871198549571,20,3.378296958839657
 Infrastructure,Connectivity Technology,Russian Federation (the),1.0008448139251445,1,0.04003379255700578
 Infrastructure,Connectivity Technology,Rwanda,3.2111744127495965,22,2.825833483219645
 Infrastructure,Connectivity Technology,Saint Christopher (St. Kitts) and Nevis,0.0,0,0.0
 Infrastructure,Connectivity Technology,Saint Helena,1.1222013629400425,1,0.0448880545176017
-Infrastructure,Connectivity Technology,Saint Kitts and Nevis,1.1826846057785272,6,0.2838443053868465
+Infrastructure,Connectivity Technology,Saint Kitts and Nevis,1.1826846057785274,6,0.2838443053868466
 Infrastructure,Connectivity Technology,Saint Lucia,2.158854114708009,15,1.2953124688248054
 Infrastructure,Connectivity Technology,Saint Martin,0.0,0,0.0
 Infrastructure,Connectivity Technology,Saint Pierre and Miquelon,1.7136558927012682,1,0.06854623570805073
-Infrastructure,Connectivity Technology,Saint Vincent and the Grenadines,2.6148864409560084,17,1.7781227798500858
+Infrastructure,Connectivity Technology,Saint Vincent and the Grenadines,2.614886440956008,17,1.7781227798500856
 Infrastructure,Connectivity Technology,Samoa,2.401913849172275,15,1.441148309503365
 Infrastructure,Connectivity Technology,San Marino,1.9735758585497962,5,0.3947151717099593
 Infrastructure,Connectivity Technology,Sao Tome and Principe,2.200903147624825,8,0.704289007239944
-Infrastructure,Connectivity Technology,Saudi Arabia,4.55958424906574,25,4.55958424906574
+Infrastructure,Connectivity Technology,Saudi Arabia,4.559584249065741,25,4.559584249065741
 Infrastructure,Connectivity Technology,Senegal,2.88743068283961,22,2.540939000898857
-Infrastructure,Connectivity Technology,Serbia,4.048698512786226,25,4.048698512786226
+Infrastructure,Connectivity Technology,Serbia,4.048698512786227,25,4.048698512786227
 Infrastructure,Connectivity Technology,Seychelles,2.9133415956092468,12,1.3984039658924383
 Infrastructure,Connectivity Technology,Sierra Leone,2.627543693856043,20,2.1020349550848345
 Infrastructure,Connectivity Technology,Singapore,4.58321798251757,24,4.399889263216867
 Infrastructure,Connectivity Technology,Sint Maarten (Dutch part),6.0,1,0.24
 Infrastructure,Connectivity Technology,Slovak Republic,4.9198613954166674,4,0.7871778232666669
-Infrastructure,Connectivity Technology,Slovakia,4.102305404100781,21,3.4459365394446557
+Infrastructure,Connectivity Technology,Slovakia,4.102305404100782,21,3.4459365394446566
 Infrastructure,Connectivity Technology,Slovenia,4.214185064315167,25,4.214185064315167
 Infrastructure,Connectivity Technology,Small Island Developing States,4.125,1,0.165
 Infrastructure,Connectivity Technology,Small states,5.1175864330000005,1,0.20470345732000003
-Infrastructure,Connectivity Technology,Solomon Islands,1.7366612876594552,14,0.9725303210892949
+Infrastructure,Connectivity Technology,Solomon Islands,1.7366612876594547,14,0.9725303210892947
 Infrastructure,Connectivity Technology,Somalia,1.169016783038718,9,0.4208460418939384
 Infrastructure,Connectivity Technology,South & Central America,0.0,0,0.0
-Infrastructure,Connectivity Technology,South Africa,3.421530298382877,22,3.0109466625769317
+Infrastructure,Connectivity Technology,South Africa,3.4215302983828764,22,3.010946662576931
 Infrastructure,Connectivity Technology,South Asia,5.7199364595,1,0.22879745838
 Infrastructure,Connectivity Technology,South Asia (IDA & IBRD),5.7199364595,1,0.22879745838
-Infrastructure,Connectivity Technology,South Korea,4.348603001173441,3,0.5218323601408129
+Infrastructure,Connectivity Technology,South Korea,4.348603001173442,3,0.521832360140813
 Infrastructure,Connectivity Technology,South Sudan,1.3245156306880208,14,0.7417287531852917
-Infrastructure,Connectivity Technology,Spain,4.585212960649794,25,4.585212960649794
+Infrastructure,Connectivity Technology,Spain,4.585212960649793,25,4.585212960649793
 Infrastructure,Connectivity Technology,Sri Lanka,3.4310509435462513,25,3.4310509435462513
 Infrastructure,Connectivity Technology,St. Kitts and Nevis,3.0,1,0.12
 Infrastructure,Connectivity Technology,St. Lucia,2.98869438175,1,0.11954777526999999
@@ -352,47 +352,47 @@ Infrastructure,Connectivity Technology,Sub-Saharan Africa,3.4662421397500003,2,0
 Infrastructure,Connectivity Technology,Sub-Saharan Africa (IDA & IBRD countries),3.3374842795,1,0.13349937118
 Infrastructure,Connectivity Technology,Sub-Saharan Africa (excluding high income),3.337249446,1,0.13348997784
 Infrastructure,Connectivity Technology,Sudan,2.464736198479552,21,2.0703784067228237
-Infrastructure,Connectivity Technology,Sudan (the),1.000252786775215,2,0.08002022294201719
+Infrastructure,Connectivity Technology,Sudan (the),1.0000476241582672,1,0.04000190496633069
 Infrastructure,Connectivity Technology,Suriname,3.371087385369739,20,2.6968699082957914
 Infrastructure,Connectivity Technology,Swaziland,2.1964090247545522,2,0.1757127219803642
 Infrastructure,Connectivity Technology,Sweden,4.550597633560859,25,4.550597633560859
-Infrastructure,Connectivity Technology,Switzerland,4.895267617864514,25,4.895267617864514
+Infrastructure,Connectivity Technology,Switzerland,4.895267617864515,25,4.895267617864515
 Infrastructure,Connectivity Technology,Syria,1.209706098990573,3,0.14516473187886875
 Infrastructure,Connectivity Technology,Syrian Arab Rep.,4.5,1,0.18
-Infrastructure,Connectivity Technology,Syrian Arab Republic,2.548561485145909,9,0.9174821346525273
+Infrastructure,Connectivity Technology,Syrian Arab Republic,2.5485614851459095,9,0.9174821346525274
 Infrastructure,Connectivity Technology,Syrian Arab Republic (the),1.0019797007494744,1,0.04007918802997898
 Infrastructure,Connectivity Technology,São Tomé and Principe,3.0625,1,0.1225
 Infrastructure,Connectivity Technology,Taiwan,2.156961756189002,3,0.25883541074268024
 Infrastructure,Connectivity Technology,"Taiwan, China",4.25,1,0.17
 Infrastructure,Connectivity Technology,Tajikistan,2.3979947477926133,19,1.822476008322386
-Infrastructure,Connectivity Technology,Tanzania,2.8612381065770216,18,2.0600914367354557
+Infrastructure,Connectivity Technology,Tanzania,2.861238106577021,18,2.0600914367354553
 Infrastructure,Connectivity Technology,Tanzania (United Rep.),1.015,1,0.0406
 Infrastructure,Connectivity Technology,"Tanzania, United Republic of",1.6495000000000002,1,0.06598000000000001
 Infrastructure,Connectivity Technology,Thailand,4.1150685236344176,25,4.1150685236344176
 Infrastructure,Connectivity Technology,The Bahamas,1.881419463332363,2,0.15051355706658906
 Infrastructure,Connectivity Technology,The Gambia,1.1227736125986751,1,0.044910944503947
-Infrastructure,Connectivity Technology,Timor-Leste,2.811061234736111,15,1.6866367408416665
+Infrastructure,Connectivity Technology,Timor-Leste,2.8110612347361106,15,1.6866367408416663
 Infrastructure,Connectivity Technology,Timor-Leste (Dem. Rep.),0.0,0,0.0
 Infrastructure,Connectivity Technology,Togo,2.488080961944962,19,1.8909415310781712
 Infrastructure,Connectivity Technology,Tonga,2.395969948512369,14,1.3417431711669268
-Infrastructure,Connectivity Technology,Trinidad and Tobago,3.433924111215062,23,3.159210182317857
-Infrastructure,Connectivity Technology,Tunisia,3.7384441588855406,25,3.7384441588855406
+Infrastructure,Connectivity Technology,Trinidad and Tobago,3.4339241112150614,23,3.1592101823178567
+Infrastructure,Connectivity Technology,Tunisia,3.73844415888554,25,3.73844415888554
 Infrastructure,Connectivity Technology,Turkey,3.9319239907545693,25,3.9319239907545693
 Infrastructure,Connectivity Technology,Turkmenistan,1.6017425295088576,8,0.5125576094428345
 Infrastructure,Connectivity Technology,Turks and Caicos Islands,3.7218919461809987,2,0.2977513556944799
 Infrastructure,Connectivity Technology,Tuvalu,1.1656818181818183,5,0.23313636363636367
 Infrastructure,Connectivity Technology,Uganda,2.5432397110099414,22,2.2380509456887485
-Infrastructure,Connectivity Technology,Ukraine,3.7954564989005024,25,3.7954564989005024
-Infrastructure,Connectivity Technology,United Arab Emirates,4.891788620525623,24,4.696117075704598
+Infrastructure,Connectivity Technology,Ukraine,3.795456498900502,25,3.795456498900502
+Infrastructure,Connectivity Technology,United Arab Emirates,4.891788620525624,24,4.696117075704598
 Infrastructure,Connectivity Technology,United Arab Emirates (the),1.0275663758629778,1,0.04110265503451911
-Infrastructure,Connectivity Technology,United Kingdom,4.736306276477,23,4.3574017743588405
+Infrastructure,Connectivity Technology,United Kingdom,4.736306276476999,23,4.35740177435884
 Infrastructure,Connectivity Technology,United Kingdom of Great Britain and Northern Ireland,5.5975,1,0.22390000000000002
 Infrastructure,Connectivity Technology,United Kingdom of Great Britain and Northern Ireland (the),1.050307725722776,1,0.04201230902891104
 Infrastructure,Connectivity Technology,United Republic of Tanzania,2.215,1,0.0886
 Infrastructure,Connectivity Technology,United Republic of Tanzania (the),1.0020580406597406,1,0.040082321626389625
 Infrastructure,Connectivity Technology,United States,3.8233621003770923,11,1.6822793241659206
 Infrastructure,Connectivity Technology,United States Virgin Islands,2.411139662425913,3,0.28933675949110954
-Infrastructure,Connectivity Technology,United States of America,5.436283916090908,11,2.3919649230799997
+Infrastructure,Connectivity Technology,United States of America,5.436283916090909,11,2.39196492308
 Infrastructure,Connectivity Technology,United States of America (the),1.0091789683798558,1,0.04036715873519423
 Infrastructure,Connectivity Technology,Upper middle income,5.9688701305,1,0.23875480522
 Infrastructure,Connectivity Technology,Upper-middle-income Countries,4.54,1,0.1816
@@ -412,11 +412,11 @@ Infrastructure,Connectivity Technology,Western Sahara,1.222043714546392,2,0.0977
 Infrastructure,Connectivity Technology,World,3.3998160087811864,2,0.2719852807024949
 Infrastructure,Connectivity Technology,Yemen,1.614151206907887,13,0.8393586275921012
 Infrastructure,Connectivity Technology,"Yemen, Rep.",3.0069614368749997,4,0.48111382989999996
-Infrastructure,Connectivity Technology,Zambia,2.6142912679447674,22,2.300576315791395
-Infrastructure,Connectivity Technology,Zimbabwe,2.6703448819253093,23,2.4567172913712847
+Infrastructure,Connectivity Technology,Zambia,2.6142912679447683,22,2.300576315791396
+Infrastructure,Connectivity Technology,Zimbabwe,2.670344881925309,23,2.4567172913712843
 Infrastructure,Innovation Ecosystem,Afghanistan,1.1715,1,0.04686
-Infrastructure,Innovation Ecosystem,Albania,1.396344886097932,8,0.4468303635513382
-Infrastructure,Innovation Ecosystem,Algeria,1.6349965013096817,7,0.4577990203667109
+Infrastructure,Innovation Ecosystem,Albania,1.3963448860979322,8,0.4468303635513383
+Infrastructure,Innovation Ecosystem,Algeria,1.634996501309682,7,0.45779902036671105
 Infrastructure,Innovation Ecosystem,Andorra,1.4618806079292554,1,0.05847522431717022
 Infrastructure,Innovation Ecosystem,Angola,0.92857584738,3,0.1114291016856
 Infrastructure,Innovation Ecosystem,Ant.& Barb.,4.0265,1,0.16106
@@ -429,10 +429,10 @@ Infrastructure,Innovation Ecosystem,Austria,2.6700020461505862,11,1.174800900306
 Infrastructure,Innovation Ecosystem,Azerbaijan,1.530700867224114,7,0.428596242822752
 Infrastructure,Innovation Ecosystem,Bahamas,4.535499999999999,1,0.18141999999999997
 Infrastructure,Innovation Ecosystem,Bahamas (the),1.0152475490686486,3,0.12182970588823783
-Infrastructure,Innovation Ecosystem,Bahrain,1.321141459502418,6,0.31707395028058033
-Infrastructure,Innovation Ecosystem,Bangladesh,1.4690200094584323,9,0.5288472034050355
+Infrastructure,Innovation Ecosystem,Bahrain,1.3211414595024178,6,0.3170739502805803
+Infrastructure,Innovation Ecosystem,Bangladesh,1.4690200094584325,9,0.5288472034050357
 Infrastructure,Innovation Ecosystem,Barbados,3.1506216934665403,2,0.25204973547732323
-Infrastructure,Innovation Ecosystem,Belarus,2.488647830278262,6,0.5972754792667828
+Infrastructure,Innovation Ecosystem,Belarus,2.4886478302782624,6,0.5972754792667829
 Infrastructure,Innovation Ecosystem,Belgium,2.1110193366842993,11,0.9288485081410917
 Infrastructure,Innovation Ecosystem,Belgium Estonia,4.125,1,0.165
 Infrastructure,Innovation Ecosystem,Belize,1.6853333333333331,2,0.13482666666666665
@@ -448,22 +448,22 @@ Infrastructure,Innovation Ecosystem,Brazil,2.1825308703323025,9,0.78571111331962
 Infrastructure,Innovation Ecosystem,Brunei,3.1710000000000003,1,0.12684
 Infrastructure,Innovation Ecosystem,Brunei Darussalam,1.0186197054230235,4,0.16297915286768377
 Infrastructure,Innovation Ecosystem,Bulgaria,1.7179472719393643,11,0.7558967996533202
-Infrastructure,Innovation Ecosystem,Burkina Faso,1.094545534660223,4,0.1751272855456357
+Infrastructure,Innovation Ecosystem,Burkina Faso,1.0945455346602229,4,0.17512728554563567
 Infrastructure,Innovation Ecosystem,Burma,3.0735,1,0.12294000000000001
-Infrastructure,Innovation Ecosystem,Burundi,1.5637125354040406,3,0.18764550424848486
+Infrastructure,Innovation Ecosystem,Burundi,1.5637125354040402,3,0.1876455042484848
 Infrastructure,Innovation Ecosystem,C.A. Republic,1.713,1,0.06852000000000001
 Infrastructure,Innovation Ecosystem,Cabo Verde,1.124315630704419,3,0.1349178756845303
-Infrastructure,Innovation Ecosystem,Cambodia,1.8413049891067341,6,0.4419131973856162
+Infrastructure,Innovation Ecosystem,Cambodia,1.8413049891067343,6,0.44191319738561624
 Infrastructure,Innovation Ecosystem,Cameroon,1.2006576943277305,8,0.38421046218487376
 Infrastructure,Innovation Ecosystem,Canada,2.258349697628626,11,0.9936738669565954
 Infrastructure,Innovation Ecosystem,Chad,1.4337967808080807,2,0.11470374246464646
 Infrastructure,Innovation Ecosystem,Chile,2.1404326819396724,8,0.6849384582206952
-Infrastructure,Innovation Ecosystem,China,2.318981547225418,10,0.9275926188901672
-Infrastructure,Innovation Ecosystem,Colombia,1.7224510273933726,8,0.5511843287658793
+Infrastructure,Innovation Ecosystem,China,2.3189815472254183,10,0.9275926188901673
+Infrastructure,Innovation Ecosystem,Colombia,1.7224510273933729,8,0.5511843287658793
 Infrastructure,Innovation Ecosystem,Comoros,2.402,1,0.09608000000000001
 Infrastructure,Innovation Ecosystem,Congo (the),1.0016556181994898,1,0.04006622472797959
 Infrastructure,Innovation Ecosystem,"Congo, Dem. Rep.",1.139625867222222,1,0.04558503468888888
-Infrastructure,Innovation Ecosystem,Costa Rica,1.883782172291075,7,0.527459008241501
+Infrastructure,Innovation Ecosystem,Costa Rica,1.8837821722910753,7,0.5274590082415012
 Infrastructure,Innovation Ecosystem,Cote d'Ivoire,0.0,0,0.0
 Infrastructure,Innovation Ecosystem,Cote dIvoire,0.7517452832,2,0.060139622656
 Infrastructure,Innovation Ecosystem,Croatia,2.173314183323751,9,0.7823931059965502
@@ -479,27 +479,27 @@ Infrastructure,Innovation Ecosystem,Denmark,3.26771007228846,12,1.56850083469846
 Infrastructure,Innovation Ecosystem,Djibouti,2.6045000000000003,1,0.10418000000000001
 Infrastructure,Innovation Ecosystem,Domin. Rep.,2.557,1,0.10228
 Infrastructure,Innovation Ecosystem,Dominica,3.853,1,0.15412
-Infrastructure,Innovation Ecosystem,Dominican Republic,1.2408595261428284,5,0.2481719052285657
-Infrastructure,Innovation Ecosystem,Dominican Republic (the),1.0062648838576729,3,0.12075178606292074
+Infrastructure,Innovation Ecosystem,Dominican Republic,1.2408595261428281,5,0.24817190522856564
+Infrastructure,Innovation Ecosystem,Dominican Republic (the),1.0062648838576727,3,0.12075178606292071
 Infrastructure,Innovation Ecosystem,Ecuador,1.5284929947960362,7,0.4279780385428902
-Infrastructure,Innovation Ecosystem,Egypt,1.8047762260759548,9,0.6497194413873437
+Infrastructure,Innovation Ecosystem,Egypt,1.8047762260759552,9,0.6497194413873438
 Infrastructure,Innovation Ecosystem,"Egypt, Arab Rep.",1.15763697,1,0.0463054788
-Infrastructure,Innovation Ecosystem,El Salvador,1.5105364962583157,7,0.4229502189523284
+Infrastructure,Innovation Ecosystem,El Salvador,1.5105364962583152,7,0.4229502189523283
 Infrastructure,Innovation Ecosystem,Eq. Guinea,1.8545,1,0.07418000000000001
 Infrastructure,Innovation Ecosystem,Estonia,2.6137367130964098,10,1.045494685238564
 Infrastructure,Innovation Ecosystem,Ethiopia,1.2369333264262472,6,0.2968639983422993
 Infrastructure,Innovation Ecosystem,Fiji,2.930754781334352,2,0.23446038250674817
-Infrastructure,Innovation Ecosystem,Finland,3.44685094804074,12,1.654488455059555
-Infrastructure,Innovation Ecosystem,France,2.3432130018360495,11,1.0310137208078618
+Infrastructure,Innovation Ecosystem,Finland,3.4468509480407405,12,1.6544884550595553
+Infrastructure,Innovation Ecosystem,France,2.34321300183605,11,1.031013720807862
 Infrastructure,Innovation Ecosystem,G.-Bissau,1.8245,1,0.07298
 Infrastructure,Innovation Ecosystem,Gabon,0.979,1,0.03916
 Infrastructure,Innovation Ecosystem,Gambia,2.3365,1,0.09346
 Infrastructure,Innovation Ecosystem,"Gambia, The",1.1139576266666666,1,0.044558305066666665
 Infrastructure,Innovation Ecosystem,Georgia,1.6987940145374885,9,0.6115658452334958
-Infrastructure,Innovation Ecosystem,Germany,2.611250094972829,11,1.1489500417880447
+Infrastructure,Innovation Ecosystem,Germany,2.6112500949728283,11,1.1489500417880445
 Infrastructure,Innovation Ecosystem,Germany France,4.220000000000001,1,0.16880000000000003
 Infrastructure,Innovation Ecosystem,Ghana,1.2736938445512627,5,0.25473876891025254
-Infrastructure,Innovation Ecosystem,Greece,2.043581723771716,11,0.899175958459555
+Infrastructure,Innovation Ecosystem,Greece,2.0435817237717164,11,0.8991759584595552
 Infrastructure,Innovation Ecosystem,Grenada,3.747,1,0.14987999999999999
 Infrastructure,Innovation Ecosystem,Guatemala,1.437387192660202,7,0.4024684139448566
 Infrastructure,Innovation Ecosystem,Guinea,0.8187194850978534,3,0.0982463382117424
@@ -507,19 +507,19 @@ Infrastructure,Innovation Ecosystem,Guyana,1.4263333333333332,2,0.11410666666666
 Infrastructure,Innovation Ecosystem,Haiti,1.5258711091666668,2,0.12206968873333335
 Infrastructure,Innovation Ecosystem,Holy See,0.0,0,0.0
 Infrastructure,Innovation Ecosystem,Honduras,1.6803146959764312,6,0.4032755270343435
-Infrastructure,Innovation Ecosystem,Hong Kong,3.28976576867,4,0.5263625229872
+Infrastructure,Innovation Ecosystem,Hong Kong,3.2897657686700006,4,0.5263625229872001
 Infrastructure,Innovation Ecosystem,"Hong Kong SAR, China",1.190274835858586,1,0.04761099343434344
-Infrastructure,Innovation Ecosystem,Hungary,1.6630746822041187,10,0.6652298728816475
+Infrastructure,Innovation Ecosystem,Hungary,1.663074682204119,10,0.6652298728816476
 Infrastructure,Innovation Ecosystem,Iceland,2.8754445088102916,9,1.0351600231717049
 Infrastructure,Innovation Ecosystem,India,1.8025354290218194,11,0.7931155887696005
-Infrastructure,Innovation Ecosystem,Indonesia,1.4933637334069882,9,0.5376109440265158
+Infrastructure,Innovation Ecosystem,Indonesia,1.4933637334069885,9,0.5376109440265159
 Infrastructure,Innovation Ecosystem,Iran,1.975,1,0.079
 Infrastructure,Innovation Ecosystem,Iran (Islamic Republic of),2.294143676248195,6,0.5505944822995668
 Infrastructure,Innovation Ecosystem,"Iran, Islamic Rep.",1.175702427373737,1,0.047028097094949484
 Infrastructure,Innovation Ecosystem,Iraq,1.5509766117568025,2,0.1240781289405442
-Infrastructure,Innovation Ecosystem,Ireland,2.259399624949552,11,0.9941358349778028
-Infrastructure,Innovation Ecosystem,Israel,2.8844565236400164,10,1.1537826094560066
-Infrastructure,Innovation Ecosystem,Italy,2.2047186823601344,12,1.0582649675328644
+Infrastructure,Innovation Ecosystem,Ireland,2.2593996249495523,11,0.994135834977803
+Infrastructure,Innovation Ecosystem,Israel,2.884456523640016,10,1.1537826094560064
+Infrastructure,Innovation Ecosystem,Italy,2.204718682360134,12,1.0582649675328641
 Infrastructure,Innovation Ecosystem,Ivory Coast,2.6305,1,0.10522000000000001
 Infrastructure,Innovation Ecosystem,Jamaica,1.1243138568833715,5,0.22486277137667432
 Infrastructure,Innovation Ecosystem,Japan,2.7403502876099615,12,1.3153681380527815
@@ -527,70 +527,70 @@ Infrastructure,Innovation Ecosystem,Jordan,2.3366088172642736,7,0.65425046883399
 Infrastructure,Innovation Ecosystem,Kazakhstan,1.4255049495810437,9,0.5131817818491757
 Infrastructure,Innovation Ecosystem,Kenya,1.6191971089227484,8,0.5181430748552794
 Infrastructure,Innovation Ecosystem,"Korea, Rep.",1.1771969746969695,1,0.04708787898787878
-Infrastructure,Innovation Ecosystem,Kuwait,1.977775277120457,7,0.5537770775937281
+Infrastructure,Innovation Ecosystem,Kuwait,1.9777752771204569,7,0.553777077593728
 Infrastructure,Innovation Ecosystem,Kyrgyz Republic,1.116587780959596,1,0.04466351123838384
-Infrastructure,Innovation Ecosystem,Kyrgyzstan,1.547558323971053,6,0.3714139977530527
+Infrastructure,Innovation Ecosystem,Kyrgyzstan,1.5475583239710533,6,0.3714139977530528
 Infrastructure,Innovation Ecosystem,Lao PDR,1.1109174164646465,1,0.04443669665858586
 Infrastructure,Innovation Ecosystem,Lao People's Democratic Republic,0.7674414126166665,2,0.061395313009333326
 Infrastructure,Innovation Ecosystem,Lao People's Democratic Republic (the),1.0,1,0.04
 Infrastructure,Innovation Ecosystem,Latvia,1.81290715303003,10,0.725162861212012
-Infrastructure,Innovation Ecosystem,Lebanon,1.9909479394637892,10,0.7963791757855158
+Infrastructure,Innovation Ecosystem,Lebanon,1.9909479394637888,10,0.7963791757855155
 Infrastructure,Innovation Ecosystem,Lesotho,1.5241011072222221,2,0.12192808857777777
 Infrastructure,Innovation Ecosystem,Liberia,1.0865185862626263,1,0.04346074345050505
 Infrastructure,Innovation Ecosystem,Libya,1.4186666666666667,2,0.11349333333333333
 Infrastructure,Innovation Ecosystem,Lithuania,2.2065519711828654,11,0.9708828673204608
-Infrastructure,Innovation Ecosystem,Luxembourg,3.901178405497952,11,1.7165184984190989
+Infrastructure,Innovation Ecosystem,Luxembourg,3.9011784054979515,11,1.7165184984190986
 Infrastructure,Innovation Ecosystem,Macao,6.0,1,0.24
 Infrastructure,Innovation Ecosystem,Macedonia,2.265,1,0.0906
 Infrastructure,Innovation Ecosystem,"Macedonia, FYR",0.0,0,0.0
 Infrastructure,Innovation Ecosystem,Madagascar,1.1237552075678212,6,0.2697012498162771
 Infrastructure,Innovation Ecosystem,Malawi,1.4713629876237375,4,0.235418078019798
-Infrastructure,Innovation Ecosystem,Malaysia,1.9611098961697309,10,0.7844439584678924
+Infrastructure,Innovation Ecosystem,Malaysia,1.9611098961697313,10,0.7844439584678926
 Infrastructure,Innovation Ecosystem,Maldives,1.7978428360425085,3,0.215741140325101
-Infrastructure,Innovation Ecosystem,Mali,1.2806483495962122,5,0.25612966991924246
+Infrastructure,Innovation Ecosystem,Mali,1.2806483495962124,5,0.2561296699192425
 Infrastructure,Innovation Ecosystem,Malta,2.21664710958053,10,0.886658843832212
 Infrastructure,Innovation Ecosystem,Mauritania,1.1095815213131315,2,0.08876652170505052
 Infrastructure,Innovation Ecosystem,Mauritius,2.0774960006613528,7,0.5816988801851788
 Infrastructure,Innovation Ecosystem,Mexico,1.5675821753693908,9,0.5643295831329807
-Infrastructure,Innovation Ecosystem,Moldova,1.850427172138047,3,0.22205126065656564
+Infrastructure,Innovation Ecosystem,Moldova,1.8504271721380474,3,0.2220512606565657
 Infrastructure,Innovation Ecosystem,Monaco,3.5298820606069525,3,0.42358584727283427
-Infrastructure,Innovation Ecosystem,Mongolia,1.809656357215945,7,0.5067037800204647
+Infrastructure,Innovation Ecosystem,Mongolia,1.8096563572159448,7,0.5067037800204646
 Infrastructure,Innovation Ecosystem,Montenegro,1.9059062606216752,6,0.45741750254920205
-Infrastructure,Innovation Ecosystem,Morocco,1.7911287991087752,9,0.644806367679159
-Infrastructure,Innovation Ecosystem,Mozambique,1.3945797723579234,5,0.2789159544715847
+Infrastructure,Innovation Ecosystem,Morocco,1.791128799108775,9,0.644806367679159
+Infrastructure,Innovation Ecosystem,Mozambique,1.394579772357923,5,0.2789159544715846
 Infrastructure,Innovation Ecosystem,Myanmar,0.5285730758625,2,0.042285846069
 Infrastructure,Innovation Ecosystem,Namibia,1.83273881456372,7,0.5131668680778416
-Infrastructure,Innovation Ecosystem,Nepal,2.135367363060775,6,0.5124881671345859
+Infrastructure,Innovation Ecosystem,Nepal,2.1353673630607743,6,0.5124881671345858
 Infrastructure,Innovation Ecosystem,Netherlands,3.4055965865100366,7,0.9535670442228104
 Infrastructure,Innovation Ecosystem,Netherlands (the),2.908193998203282,5,0.5816387996406565
 Infrastructure,Innovation Ecosystem,New Zealand,2.4310057202863122,10,0.9724022881145249
 Infrastructure,Innovation Ecosystem,Nicaragua,1.6821584007407406,3,0.20185900808888887
-Infrastructure,Innovation Ecosystem,Niger,1.35949584955,4,0.21751933592800002
+Infrastructure,Innovation Ecosystem,Niger,1.3594958495499998,4,0.21751933592799996
 Infrastructure,Innovation Ecosystem,Niger (the),1.0,1,0.04
 Infrastructure,Innovation Ecosystem,Nigeria,1.3256141047262628,8,0.4241965135124041
-Infrastructure,Innovation Ecosystem,North Macedonia,1.7192129309000932,7,0.48137962065202616
+Infrastructure,Innovation Ecosystem,North Macedonia,1.7192129309000936,7,0.4813796206520263
 Infrastructure,Innovation Ecosystem,Norway,2.5317550530498187,12,1.215242425463913
 Infrastructure,Innovation Ecosystem,Oman,1.8943944432190323,9,0.6819819995588516
-Infrastructure,Innovation Ecosystem,Pakistan,1.7769096605205645,8,0.5686110913665806
+Infrastructure,Innovation Ecosystem,Pakistan,1.7769096605205648,8,0.5686110913665807
 Infrastructure,Innovation Ecosystem,Palestine,3.656,1,0.14624
-Infrastructure,Innovation Ecosystem,Panama,1.912540149133114,7,0.5355112417572719
+Infrastructure,Innovation Ecosystem,Panama,1.9125401491331135,7,0.5355112417572718
 Infrastructure,Innovation Ecosystem,Papua N.G.,2.718,1,0.10872
 Infrastructure,Innovation Ecosystem,Paraguay,1.5281949205752525,6,0.3667667809380606
-Infrastructure,Innovation Ecosystem,Peru,1.5369414950680589,8,0.49182127842177886
+Infrastructure,Innovation Ecosystem,Peru,1.5369414950680587,8,0.4918212784217788
 Infrastructure,Innovation Ecosystem,Philippines,1.7388265704141415,7,0.48687143971595964
 Infrastructure,Innovation Ecosystem,Philippines (the),1.0017302544583884,1,0.040069210178335535
-Infrastructure,Innovation Ecosystem,Poland,1.9077684222690114,12,0.9157288426891255
+Infrastructure,Innovation Ecosystem,Poland,1.9077684222690119,12,0.9157288426891257
 Infrastructure,Innovation Ecosystem,Portugal,2.3077679737097507,11,1.0154179084322903
 Infrastructure,Innovation Ecosystem,Puerto Rico,0.0,0,0.0
-Infrastructure,Innovation Ecosystem,Qatar,2.1886940652723097,7,0.6128343382762468
+Infrastructure,Innovation Ecosystem,Qatar,2.18869406527231,7,0.6128343382762469
 Infrastructure,Innovation Ecosystem,R. of Congo,2.386,1,0.09544000000000001
 Infrastructure,Innovation Ecosystem,Republic of Korea,3.9711252863333333,3,0.47653503436
-Infrastructure,Innovation Ecosystem,Republic of Korea (the),2.895834829688964,3,0.34750017956267565
+Infrastructure,Innovation Ecosystem,Republic of Korea (the),2.895834829688965,3,0.34750017956267576
 Infrastructure,Innovation Ecosystem,Republic of Moldova,1.9330615438333332,3,0.23196738525999996
 Infrastructure,Innovation Ecosystem,Republic of Moldova (the),1.1123291115207412,3,0.13347949338248893
 Infrastructure,Innovation Ecosystem,Romania,1.6157056967834573,10,0.646282278713383
 Infrastructure,Innovation Ecosystem,Russia,2.3531445702298215,4,0.3765031312367714
-Infrastructure,Innovation Ecosystem,Russian Federation,2.047801918044192,4,0.32764830688707075
+Infrastructure,Innovation Ecosystem,Russian Federation,2.0478019180441915,4,0.32764830688707064
 Infrastructure,Innovation Ecosystem,Russian Federation (the),1.0490854986415479,4,0.16785367978264767
 Infrastructure,Innovation Ecosystem,Rwanda,1.3029985342593793,6,0.312719648222251
 Infrastructure,Innovation Ecosystem,S.T.&Principe,2.3085000000000004,1,0.09234000000000002
@@ -598,27 +598,27 @@ Infrastructure,Innovation Ecosystem,Saint Kitts and Nevis,1.8430234645140997,1,0
 Infrastructure,Innovation Ecosystem,Saint Lucia,4.971500000000001,1,0.19886000000000004
 Infrastructure,Innovation Ecosystem,Samoa,2.2180986218303733,2,0.17744788974642986
 Infrastructure,Innovation Ecosystem,San Marino,4.1576349770277865,2,0.33261079816222294
-Infrastructure,Innovation Ecosystem,Saudi Arabia,1.7412161066252383,9,0.6268377983850858
+Infrastructure,Innovation Ecosystem,Saudi Arabia,1.7412161066252378,9,0.6268377983850856
 Infrastructure,Innovation Ecosystem,Senegal,1.352153886951994,6,0.32451693286847855
-Infrastructure,Innovation Ecosystem,Serbia,1.7010281493449098,9,0.6123701337641675
-Infrastructure,Innovation Ecosystem,Seychelles,1.5242515676434085,5,0.30485031352868175
+Infrastructure,Innovation Ecosystem,Serbia,1.70102814934491,9,0.6123701337641676
+Infrastructure,Innovation Ecosystem,Seychelles,1.5242515676434083,5,0.3048503135286817
 Infrastructure,Innovation Ecosystem,Sierra Leone,1.4252563044191917,2,0.11402050435353533
-Infrastructure,Innovation Ecosystem,Singapore,2.9079152750910695,10,1.163166110036428
+Infrastructure,Innovation Ecosystem,Singapore,2.907915275091069,10,1.1631661100364277
 Infrastructure,Innovation Ecosystem,Slovak Republic,1.1243515568686868,1,0.04497406227474748
 Infrastructure,Innovation Ecosystem,Slovakia,2.0881170294167166,8,0.6681974494133494
 Infrastructure,Innovation Ecosystem,Slovenia,2.536100357695342,10,1.014440143078137
 Infrastructure,Innovation Ecosystem,Solomon Isl.,2.131,1,0.08524
-Infrastructure,Innovation Ecosystem,South Africa,1.7824658642457376,10,0.7129863456982951
-Infrastructure,Innovation Ecosystem,South Korea,3.1071425727356288,4,0.49714281163770063
+Infrastructure,Innovation Ecosystem,South Africa,1.7824658642457378,10,0.7129863456982952
+Infrastructure,Innovation Ecosystem,South Korea,3.1071425727356283,4,0.4971428116377005
 Infrastructure,Innovation Ecosystem,Spain,2.1875437738411647,12,1.050021011443759
-Infrastructure,Innovation Ecosystem,Sri Lanka,1.742840902120466,7,0.48799545259373056
+Infrastructure,Innovation Ecosystem,Sri Lanka,1.7428409021204658,7,0.4879954525937305
 Infrastructure,Innovation Ecosystem,St. Vincent & ...,3.8615,1,0.15446000000000001
 Infrastructure,Innovation Ecosystem,Sudan,1.593,1,0.06372
-Infrastructure,Innovation Ecosystem,Sudan (the),1.0015200165875342,2,0.08012160132700273
+Infrastructure,Innovation Ecosystem,Sudan (the),1.0006242037021047,1,0.04002496814808419
 Infrastructure,Innovation Ecosystem,Suriname,1.4939999999999998,1,0.059759999999999994
 Infrastructure,Innovation Ecosystem,Swaziland,1.6505092963636363,2,0.1320407437090909
 Infrastructure,Innovation Ecosystem,Sweden,3.337438305613906,12,1.6019703866946748
-Infrastructure,Innovation Ecosystem,Switzerland,3.8156901527344504,11,1.6789036672031583
+Infrastructure,Innovation Ecosystem,Switzerland,3.81569015273445,11,1.678903667203158
 Infrastructure,Innovation Ecosystem,Syrian Arab Republic,0.0,0,0.0
 Infrastructure,Innovation Ecosystem,Syrian Arab Republic (the),1.0022017863643224,3,0.12026421436371869
 Infrastructure,Innovation Ecosystem,Taiwan,1.930592670943578,3,0.23167112051322933
@@ -632,7 +632,7 @@ Infrastructure,Innovation Ecosystem,Tonga,3.234,1,0.12936
 Infrastructure,Innovation Ecosystem,Tr.&Tobago,3.9255,1,0.15702
 Infrastructure,Innovation Ecosystem,Trinidad and Tobago,0.9356996117188704,4,0.14971193787501927
 Infrastructure,Innovation Ecosystem,Tunisia,2.0584839665253436,9,0.7410542279491237
-Infrastructure,Innovation Ecosystem,Turkey,1.8624194996498857,12,0.8939613598319451
+Infrastructure,Innovation Ecosystem,Turkey,1.862419499649886,12,0.8939613598319452
 Infrastructure,Innovation Ecosystem,Turkmenistan,1.000499714990755,3,0.12005996579889061
 Infrastructure,Innovation Ecosystem,UA Emirates,6.0,1,0.24
 Infrastructure,Innovation Ecosystem,USA,4.1225000000000005,1,0.16490000000000002
@@ -649,7 +649,7 @@ Infrastructure,Innovation Ecosystem,United States of America,3.599897308333334,3
 Infrastructure,Innovation Ecosystem,United States of America (the),2.1194764573637914,4,0.33911623317820666
 Infrastructure,Innovation Ecosystem,Unknown,0.0,0,0.0
 Infrastructure,Innovation Ecosystem,Uruguay,1.683730894591571,8,0.5387938862693027
-Infrastructure,Innovation Ecosystem,Uzbekistan,1.1757070458456689,4,0.18811312733530702
+Infrastructure,Innovation Ecosystem,Uzbekistan,1.1757070458456687,4,0.188113127335307
 Infrastructure,Innovation Ecosystem,Vanuatu,4.350999999999999,1,0.17403999999999997
 Infrastructure,Innovation Ecosystem,Venezuela (Bolivarian Republic of),1.0003123900183588,1,0.04001249560073435
 Infrastructure,Innovation Ecosystem,"Venezuela, RB",1.097034109949495,1,0.043881364397979794
@@ -658,4 +658,4 @@ Infrastructure,Innovation Ecosystem,Vietnam,2.3178121972743506,5,0.4635624394548
 Infrastructure,Innovation Ecosystem,Yemen,1.2851084884875,4,0.205617358158
 Infrastructure,Innovation Ecosystem,"Yemen, Rep.",1.1088509294949496,1,0.04435403717979798
 Infrastructure,Innovation Ecosystem,Zambia,1.1921594192445166,6,0.286118260618684
-Infrastructure,Innovation Ecosystem,Zimbabwe,1.3005824337139973,6,0.31213978409135934
+Infrastructure,Innovation Ecosystem,Zimbabwe,1.3005824337139977,6,0.31213978409135945

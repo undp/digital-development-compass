@@ -49,7 +49,7 @@ Central African Republic (the),2.2498088112829504,
 Central Europe and the Baltics,3.1728200880611106,
 Chad,2.2691143249710533,
 Channel Islands,6.0,Infrastructure
-Chile,3.888217886249889,
+Chile,3.88821788624989,
 China,3.713956464759835,
 China Beijing,4.679500000000001,Business
 China Shanghai,4.684,Business
@@ -82,7 +82,7 @@ East and South Asia,4.285,Strategy
 Eastern Europe and Central Asia,4.57,Infrastructure
 Eastern Europe and Central Asia,4.57,Strategy
 Ecuador,3.668912230313434,
-Egypt,3.177085847092289,
+Egypt,3.1770858470922887,
 El Salvador,3.1587438571333846,
 Equatorial Guinea,1.903782099246352,
 Eritrea,1.5042594447112803,
@@ -213,7 +213,7 @@ Nauru,1.4990606111660674,
 Nepal,3.0149639481791954,
 Netherlands (the),3.926492508891527,
 New Caledonia,3.4657950334300374,
-New Zealand,4.204711280629231,
+New Zealand,4.204711280629233,
 Nicaragua,3.133198757572875,
 Niger (the),2.2775981605426394,
 Nigeria,2.909918665888239,
@@ -238,7 +238,7 @@ Pakistan Lahore,3.8995,Business
 Palau,3.6092081170010144,
 Panama,3.3379377307415234,
 Papua New Guinea,3.034357849704277,
-Paraguay,3.1778022662746293,
+Paraguay,3.1778022662746297,
 Peru,3.3650737463440015,
 Philippines (the),3.1694859059498763,
 Poland,3.8948479141079573,
@@ -282,13 +282,15 @@ Somalia,1.42117709787984,
 South Africa,3.5299811337930596,
 South Asia,2.841825015709523,
 South Asia (IDA & IBRD),2.9661369309444443,
+South Sudan,1.7039599082909098,
 Spain,4.162298093386652,
 Sri Lanka,3.4939087836706197,
 State of Palestine (the),3.273943238479753,
 Sub-Saharan Africa,2.717372435872619,
 Sub-Saharan Africa (IDA & IBRD countries),2.704766445270833,
 Sub-Saharan Africa (excluding high income),2.46920344556994,
-Sudan (the),2.2589089395868367,
+Sudan (the),2.5901273774219065,
+Sudan (the) (the),2.6390805401105157,
 Suriname,3.384346607220384,
 Sweden,4.384281087389928,
 Switzerland,4.188416720865002,
@@ -307,8 +309,8 @@ Turkmenistan,2.463305568753982,
 Turks and Caicos Islands,3.9634459730905,
 Tuvalu,2.3112458978152426,
 Uganda,2.9145546631927037,
-Ukraine,3.693519740728278,
-United Arab Emirates (the),3.841051438475905,
+Ukraine,3.693519740728277,
+United Arab Emirates (the),3.841051438475906,
 United Kingdom of Great Britain and Northern Ireland (the),4.017575373596953,
 United Republic of Tanzania (the),2.6522417301016334,
 United States Los Angeles,5.044,Business
@@ -360,7 +362,7 @@ Africa Western and Central,3.5670710735,Infrastructure
 Albania,3.2465409845092585,Business
 Albania,3.338095238095238,Foundations
 Albania,5.215999999999999,Government
-Albania,2.579944021055382,Infrastructure
+Albania,2.5799440210553826,Infrastructure
 Albania,4.013552224632289,People
 Albania,3.5,Regulation
 Albania,4.549999999999999,Strategy
@@ -408,14 +410,14 @@ Antigua and Barbuda,,Strategy
 Argentina,2.658510776990742,Business
 Argentina,3.7047619047619063,Foundations
 Argentina,2.9844488888888865,Government
-Argentina,2.541346970457189,Infrastructure
+Argentina,2.5413469704571887,Infrastructure
 Argentina,4.201853879274987,People
 Argentina,4.225000000000001,Regulation
 Argentina,4.640000000000001,Strategy
 Armenia,3.439696126074074,Business
 Armenia,3.489285714285714,Foundations
 Armenia,2.903146000000001,Government
-Armenia,2.725696518476326,Infrastructure
+Armenia,2.7256965184763264,Infrastructure
 Armenia,3.6966699967777816,People
 Armenia,4.549999999999999,Regulation
 Armenia,4.590000000000002,Strategy
@@ -490,7 +492,7 @@ Barbados,4.420000000000001,Strategy
 Belarus,3.1770296645166667,Business
 Belarus,3.710714285714287,Foundations
 Belarus,3.8066571666666675,Government
-Belarus,3.1635567724891156,Infrastructure
+Belarus,3.163556772489116,Infrastructure
 Belarus,4.671293539551148,People
 Belarus,3.0499999999999985,Regulation
 Belarus,4.9399999999999995,Strategy
@@ -592,7 +594,7 @@ Bulgaria,4.6899999999999995,Strategy
 Burkina Faso,2.012735047555555,Business
 Burkina Faso,3.0857142857142845,Foundations
 Burkina Faso,3.4415,Government
-Burkina Faso,1.6973890039832191,Infrastructure
+Burkina Faso,1.6973890039832196,Infrastructure
 Burkina Faso,2.671874266669363,People
 Burkina Faso,3.5499999999999994,Regulation
 Burkina Faso,3.6749999999999994,Strategy
@@ -627,7 +629,7 @@ Cameroon,3.765,Strategy
 Canada,3.939349315936133,Business
 Canada,4.251104166666666,Foundations
 Canada,3.5780300451754385,Government
-Canada,3.3010413919324364,Infrastructure
+Canada,3.3010413919324395,Infrastructure
 Canada,4.271571024136775,People
 Canada,5.199999999999999,Regulation
 Canada,4.959999999999998,Strategy
@@ -662,7 +664,7 @@ Central Europe and the Baltics,6.0,Infrastructure
 Chad,2.014305179166667,Business
 Chad,2.59375,Foundations
 Chad,2.15475,Government
-Chad,1.7393563874911078,Infrastructure
+Chad,1.7393563874911082,Infrastructure
 Chad,2.3974019780353677,People
 Chad,,Regulation
 Chad,3.045000000000001,Strategy
@@ -676,14 +678,14 @@ Chile,3.6942228760833333,Business
 Chile,3.9011904761904748,Foundations
 Chile,3.8400000000000016,Government
 Chile,3.111046927845394,Infrastructure
-Chile,4.079538066871493,People
+Chile,4.079538066871494,People
 Chile,4.3500000000000005,Regulation
 Chile,4.855000000000002,Strategy
 China,3.4433436656296315,Business
 China,4.266071428571428,Foundations
 China,3.159268438596493,Government
 China,4.174076383550843,Infrastructure
-China,4.121002011300813,People
+China,4.1210020113008135,People
 China,2.4500000000000006,Regulation
 China,4.605000000000002,Strategy
 China Beijing,,Foundations
@@ -715,8 +717,8 @@ China Shanghai,,Strategy
 Colombia,3.3140195166111095,Business
 Colombia,3.70238095238095,Foundations
 Colombia,2.831993666666667,Government
-Colombia,2.678797497243495,Infrastructure
-Colombia,3.8497599568668153,People
+Colombia,2.678797497243494,Infrastructure
+Colombia,3.8497599568668144,People
 Colombia,3.875,Regulation
 Colombia,4.53,Strategy
 Comoros (the),2.122166666666667,Business
@@ -743,21 +745,21 @@ Cook Islands,3.389,People
 Costa Rica,3.3109193419259237,Business
 Costa Rica,3.297023809523808,Foundations
 Costa Rica,2.970714666666667,Government
-Costa Rica,2.761970261400485,Infrastructure
+Costa Rica,2.7619702614004855,Infrastructure
 Costa Rica,4.625561279440588,People
 Costa Rica,4.875,Regulation
 Costa Rica,4.680000000000001,Strategy
 Croatia,3.0898176910462958,Business
 Croatia,3.953571428571426,Foundations
 Croatia,3.729365333333334,Government
-Croatia,3.151136208576014,Infrastructure
+Croatia,3.1511362085760144,Infrastructure
 Croatia,4.383289886684809,People
 Croatia,4.049999999999999,Regulation
 Croatia,5.019999999999998,Strategy
 Cuba,,Business
 Cuba,4.4375,Foundations
 Cuba,1.7833015000000003,Government
-Cuba,1.9201539666212777,Infrastructure
+Cuba,1.9201539666212775,Infrastructure
 Cuba,4.002108229517858,People
 Cuba,2.0500000000000003,Regulation
 Cuba,4.685000000000001,Strategy
@@ -785,7 +787,7 @@ Czechia,5.069999999999997,Strategy
 Côte d'Ivoire,2.892019230652776,Business
 Côte d'Ivoire,3.4000000000000004,Foundations
 Côte d'Ivoire,3.14425,Government
-Côte d'Ivoire,2.1188356095533045,Infrastructure
+Côte d'Ivoire,2.118835609553305,Infrastructure
 Côte d'Ivoire,3.3216622116676455,People
 Côte d'Ivoire,3.2999999999999985,Regulation
 Côte d'Ivoire,3.879999999999999,Strategy
@@ -834,7 +836,7 @@ Dominica,,Strategy
 Dominican Republic (the),2.7638126783981476,Business
 Dominican Republic (the),3.38095238095238,Foundations
 Dominican Republic (the),3.323124999999999,Government
-Dominican Republic (the),2.012122796146357,Infrastructure
+Dominican Republic (the),2.0121227961463575,Infrastructure
 Dominican Republic (the),4.261822384229591,People
 Dominican Republic (the),3.3999999999999995,Regulation
 Dominican Republic (the),4.540000000000002,Strategy
@@ -879,7 +881,7 @@ Eastern Europe and Central Asia,,Regulation
 Ecuador,2.6346578010925925,Business
 Ecuador,4.1678571428571445,Foundations
 Ecuador,3.6992499999999997,Government
-Ecuador,2.458992299944637,Infrastructure
+Ecuador,2.4589922999446365,Infrastructure
 Ecuador,4.4928558490334085,People
 Ecuador,3.775,Regulation
 Ecuador,4.625,Strategy
@@ -887,7 +889,7 @@ Egypt,3.0617883960833328,Business
 Egypt,3.93174603174603,Foundations
 Egypt,2.730814666666666,Government
 Egypt,2.640427074870235,Infrastructure
-Egypt,3.5138689313955784,People
+Egypt,3.5138689313955775,People
 Egypt,2.549999999999998,Regulation
 Egypt,4.4300000000000015,Strategy
 El Salvador,2.8457799070277763,Business
@@ -914,8 +916,8 @@ Eritrea,,Strategy
 Estonia,3.865333431539444,Business
 Estonia,4.933812500000001,Foundations
 Estonia,3.5606846111111143,Government
-Estonia,3.514627852853073,Infrastructure
-Estonia,4.7616721081965006,People
+Estonia,3.5146278528530743,Infrastructure
+Estonia,4.761672108196499,People
 Estonia,5.375,Regulation
 Estonia,5.079999999999999,Strategy
 Eswatini,2.3597529285185184,Business
@@ -996,7 +998,7 @@ Fiji,4.560000000000001,Strategy
 Finland,4.218806090729828,Business
 Finland,4.8748958333333325,Foundations
 Finland,4.338129566666669,Government
-Finland,4.127987808092335,Infrastructure
+Finland,4.127987808092339,Infrastructure
 Finland,4.5446572766008515,People
 Finland,5.349999999999999,Regulation
 Finland,5.295000000000001,Strategy
@@ -1052,7 +1054,7 @@ Georgia,4.609999999999999,Strategy
 Germany,4.15060020496381,Business
 Germany,4.392083333333335,Foundations
 Germany,3.6027733403508764,Government
-Germany,3.602626971705009,Infrastructure
+Germany,3.602626971705012,Infrastructure
 Germany,4.553804087639535,People
 Germany,5.074999999999998,Regulation
 Germany,5.125,Strategy
@@ -1142,7 +1144,7 @@ Guyana,3.895000000000001,Strategy
 Haiti,1.971936499166667,Business
 Haiti,2.95,Foundations
 Haiti,2.0360000000000005,Government
-Haiti,1.7867573505156464,Infrastructure
+Haiti,1.7867573505156467,Infrastructure
 Haiti,3.168587891421466,People
 Haiti,,Regulation
 Haiti,3.57,Strategy
@@ -1175,8 +1177,8 @@ High-income Countries,,Regulation
 Honduras,2.739170779185186,Business
 Honduras,3.799999999999999,Foundations
 Honduras,2.5035,Government
-Honduras,2.298366964203658,Infrastructure
-Honduras,3.8342188114392424,People
+Honduras,2.2983669642036575,Infrastructure
+Honduras,3.8342188114392415,People
 Honduras,3.0,Regulation
 Honduras,4.140000000000001,Strategy
 Hungary,3.4785662521905247,Business
@@ -1283,7 +1285,7 @@ Iraq,4.1899999999999995,Strategy
 Ireland,3.852710329538999,Business
 Ireland,4.00892857142857,Foundations
 Ireland,3.669410625,Government
-Ireland,3.359968690329021,Infrastructure
+Ireland,3.3599686903290213,Infrastructure
 Ireland,4.668632489498254,People
 Ireland,,Regulation
 Ireland,5.049999999999999,Strategy
@@ -1304,8 +1306,8 @@ Israel,4.75,Strategy
 Italy,3.004992857066199,Business
 Italy,4.255357142857142,Foundations
 Italy,3.837482216666665,Government
-Italy,3.322772026985233,Infrastructure
-Italy,3.9305760861152397,People
+Italy,3.3227720269852323,Infrastructure
+Italy,3.930576086115237,People
 Italy,4.550000000000001,Regulation
 Italy,4.9399999999999995,Strategy
 Jamaica,3.265896198962963,Business
@@ -1357,14 +1359,14 @@ Kazakhstan,4.579999999999999,Strategy
 Kenya,3.302964298379631,Business
 Kenya,3.523809523809522,Foundations
 Kenya,3.2064166666666676,Government
-Kenya,2.3333382823427486,Infrastructure
-Kenya,3.328974749718113,People
+Kenya,2.3333382823427473,Infrastructure
+Kenya,3.3289747497181126,People
 Kenya,3.774999999999999,Regulation
 Kenya,4.03,Strategy
 Kiribati,2.3733888888888894,Business
 Kiribati,1.4000000000000001,Foundations
 Kiribati,3.634,Government
-Kiribati,1.3476047671388651,Infrastructure
+Kiribati,1.3476047671388653,Infrastructure
 Kiribati,3.211080182409292,People
 Kiribati,,Regulation
 Kiribati,,Strategy
@@ -1385,8 +1387,8 @@ Kuwait,4.125,Strategy
 Kyrgyzstan,3.2408871196666658,Business
 Kyrgyzstan,3.8348214285714293,Foundations
 Kyrgyzstan,2.5611845000000013,Government
-Kyrgyzstan,2.359557728275707,Infrastructure
-Kyrgyzstan,3.4765779342416545,People
+Kyrgyzstan,2.3595577282757083,Infrastructure
+Kyrgyzstan,3.476577934241657,People
 Kyrgyzstan,3.525000000000002,Regulation
 Kyrgyzstan,4.700000000000001,Strategy
 Lao People's Democratic Republic (the),2.9505837797833347,Business
@@ -1460,7 +1462,7 @@ Lesotho,3.729999999999999,Strategy
 Liberia,2.0902708333333324,Business
 Liberia,2.705357142857144,Foundations
 Liberia,2.2130000000000005,Government
-Liberia,1.5927714445832335,Infrastructure
+Liberia,1.5927714445832337,Infrastructure
 Liberia,2.978598852875,People
 Liberia,3.25,Regulation
 Liberia,3.43,Strategy
@@ -1482,7 +1484,7 @@ Lithuania,3.5234992882348757,Business
 Lithuania,4.453571428571428,Foundations
 Lithuania,3.2998635,Government
 Lithuania,3.1591590588119103,Infrastructure
-Lithuania,4.479677773525237,People
+Lithuania,4.479677773525236,People
 Lithuania,,Regulation
 Lithuania,4.834999999999999,Strategy
 Low & middle income,2.192042606458333,Business
@@ -1724,7 +1726,7 @@ Nauru,1.3189374999999999,People
 Nepal,2.7706057121203704,Business
 Nepal,2.9547619047619036,Foundations
 Nepal,3.2487500000000007,Government
-Nepal,1.8818690061690722,Infrastructure
+Nepal,1.881869006169072,Infrastructure
 Nepal,3.4900443124730813,People
 Nepal,3.649999999999999,Regulation
 Nepal,4.325000000000001,Strategy
@@ -1844,7 +1846,7 @@ Oceania,,Regulation
 Oman,3.346658415083334,Business
 Oman,2.8312500000000016,Foundations
 Oman,2.6921611666666663,Government
-Oman,2.8952727254334762,Infrastructure
+Oman,2.8952727254334745,Infrastructure
 Oman,4.360774043770233,People
 Oman,,Regulation
 Oman,4.505000000000001,Strategy
@@ -1865,7 +1867,7 @@ Pacific island small states,5.337289029,Infrastructure
 Pakistan,2.9683655147685175,Business
 Pakistan,2.781547619047621,Foundations
 Pakistan,3.5625350877192976,Government
-Pakistan,2.356362677517545,Infrastructure
+Pakistan,2.3563626775175455,Infrastructure
 Pakistan,2.9671530459866022,People
 Pakistan,2.6000000000000005,Regulation
 Pakistan,3.8849999999999985,Strategy
@@ -1899,7 +1901,7 @@ Papua New Guinea,3.252,Business
 Papua New Guinea,2.9875000000000003,Foundations
 Papua New Guinea,2.0945,Government
 Papua New Guinea,2.380981334222773,Infrastructure
-Papua New Guinea,3.420653957149301,People
+Papua New Guinea,3.4206539571493004,People
 Papua New Guinea,,Regulation
 Papua New Guinea,3.565,Strategy
 Paraguay,2.6802655588148148,Business
@@ -1913,7 +1915,7 @@ Peru,3.120200427592594,Business
 Peru,3.047619047619047,Foundations
 Peru,3.0394525,Government
 Peru,2.351709645514395,Infrastructure
-Peru,4.206504617796056,People
+Peru,4.206504617796054,People
 Peru,3.5,Regulation
 Peru,4.555,Strategy
 Philippines (the),3.1793358063148136,Business
@@ -1961,7 +1963,7 @@ Puerto Rico,,Strategy
 Qatar,3.6977387444907417,Business
 Qatar,4.2749999999999995,Foundations
 Qatar,2.7421501666666663,Government
-Qatar,3.4069790176588515,Infrastructure
+Qatar,3.406979017658852,Infrastructure
 Qatar,4.744154736477848,People
 Qatar,,Regulation
 Qatar,4.335,Strategy
@@ -1982,7 +1984,7 @@ Republic of Moldova (the),4.685000000000001,Strategy
 Romania,3.1651275252565374,Business
 Romania,3.633333333333333,Foundations
 Romania,3.3441794999999996,Government
-Romania,2.9894723644218506,Infrastructure
+Romania,2.98947236442185,Infrastructure
 Romania,4.415638660542671,People
 Romania,4.1499999999999995,Regulation
 Romania,4.75,Strategy
@@ -2094,7 +2096,7 @@ Sao Tome and Principe,3.9399999999999995,Strategy
 Saudi Arabia,3.613313086935184,Business
 Saudi Arabia,2.9928571428571424,Foundations
 Saudi Arabia,3.5330756578947353,Government
-Saudi Arabia,3.15040017784549,Infrastructure
+Saudi Arabia,3.150400177845488,Infrastructure
 Saudi Arabia,4.644140161128022,People
 Saudi Arabia,2.1999999999999997,Regulation
 Saudi Arabia,4.3149999999999995,Strategy
@@ -2108,7 +2110,7 @@ Senegal,3.9200000000000013,Strategy
 Serbia,3.437570580314812,Business
 Serbia,3.639880952380953,Foundations
 Serbia,3.5615783333333315,Government
-Serbia,2.8748633310655674,Infrastructure
+Serbia,2.874863331065568,Infrastructure
 Serbia,4.218072670538145,People
 Serbia,4.025,Regulation
 Serbia,4.78,Strategy
@@ -2162,7 +2164,7 @@ Small states,5.1175864330000005,Infrastructure
 Solomon Islands,3.9306111111111113,Business
 Solomon Islands,1.6374999999999997,Foundations
 Solomon Islands,2.61225,Government
-Solomon Islands,1.933830643829728,Infrastructure
+Solomon Islands,1.9338306438297275,Infrastructure
 Solomon Islands,3.3560640325862745,People
 Solomon Islands,,Regulation
 Solomon Islands,,Strategy
@@ -2194,10 +2196,17 @@ South Asia (IDA & IBRD),,Regulation
 South Asia (IDA & IBRD),,Strategy
 South Asia (IDA & IBRD),1.032641,Government
 South Asia (IDA & IBRD),5.7199364595,Infrastructure
+South Sudan,1.8667777777777776,Business
+South Sudan,1.8508928571428567,Foundations
+South Sudan,1.0595,Government
+South Sudan,1.3245156306880208,Infrastructure
+South Sudan,1.479353350622222,People
+South Sudan,,Regulation
+South Sudan,2.9450000000000003,Strategy
 Spain,3.5205242843007025,Business
 Spain,4.7142857142857135,Foundations
 Spain,3.7862220416666665,Government
-Spain,3.386378367245481,Infrastructure
+Spain,3.3863783672454804,Infrastructure
 Spain,4.712550588305498,People
 Spain,4.65,Regulation
 Spain,4.975,Strategy
@@ -2236,13 +2245,20 @@ Sub-Saharan Africa (excluding high income),,Regulation
 Sub-Saharan Africa (excluding high income),,Strategy
 Sub-Saharan Africa (excluding high income),3.337249446,Infrastructure
 Sub-Saharan Africa (excluding high income),2.275,People
-Sudan (the),2.060814814814815,Business
-Sudan (the),2.1589285714285738,Foundations
-Sudan (the),1.811666666666667,Government
-Sudan (the),1.4768049265060639,Infrastructure
-Sudan (the),2.8093656798319238,People
-Sudan (the),2.649999999999999,Regulation
-Sudan (the),3.209999999999997,Strategy
+Sudan (the),2.157833333333333,Business
+Sudan (the),2.774999999999999,Foundations
+Sudan (the),2.1877500000000003,Government
+Sudan (the),2.028868099239775,Infrastructure
+Sudan (the),3.1442085546388885,People
+Sudan (the),2.6499999999999995,Regulation
+Sudan (the),3.475000000000001,Strategy
+Sudan (the) (the),,Business
+Sudan (the) (the),,Foundations
+Sudan (the) (the),,Government
+Sudan (the) (the),,Regulation
+Sudan (the) (the),,Strategy
+Sudan (the) (the),1.0003359139301857,Infrastructure
+Sudan (the) (the),5.916569792471175,People
 Suriname,2.0786111111111114,Business
 Suriname,3.8,Foundations
 Suriname,2.3455000000000004,Government
@@ -2260,7 +2276,7 @@ Sweden,5.28,Strategy
 Switzerland,3.836063223281242,Business
 Switzerland,4.0636904761904775,Foundations
 Switzerland,3.840444647222222,Government
-Switzerland,4.3554788852994815,Infrastructure
+Switzerland,4.355478885299482,Infrastructure
 Switzerland,4.519528680789811,People
 Switzerland,,Regulation
 Switzerland,5.005,Strategy
@@ -2295,7 +2311,7 @@ Thailand,4.709999999999999,Strategy
 Timor-Leste,1.6933333333333334,Business
 Timor-Leste,2.9750000000000005,Foundations
 Timor-Leste,3.3232500000000007,Government
-Timor-Leste,2.8110612347361115,Infrastructure
+Timor-Leste,2.811061234736111,Infrastructure
 Timor-Leste,3.6418982291689903,People
 Timor-Leste,,Regulation
 Timor-Leste,,Strategy
@@ -2438,14 +2454,14 @@ Uruguay,3.2060111824351867,Business
 Uruguay,3.8547619047619057,Foundations
 Uruguay,3.113894166666665,Government
 Uruguay,2.742047254142665,Infrastructure
-Uruguay,4.881084679487902,People
+Uruguay,4.881084679487899,People
 Uruguay,4.549999999999999,Regulation
 Uruguay,4.725,Strategy
 Uzbekistan,3.257991316133332,Business
 Uzbekistan,3.317857142857143,Foundations
 Uzbekistan,2.4537504999999995,Government
 Uzbekistan,2.262412478544761,Infrastructure
-Uzbekistan,3.837224257239584,People
+Uzbekistan,3.8372242572395843,People
 Uzbekistan,2.875,Regulation
 Uzbekistan,4.490000000000001,Strategy
 Vanuatu,3.5756111111111126,Business
@@ -2506,7 +2522,7 @@ Yemen,3.6450000000000014,Strategy
 Zambia,2.840075023138889,Business
 Zambia,2.711904761904762,Foundations
 Zambia,2.420749999999999,Government
-Zambia,1.9032253435946416,Infrastructure
+Zambia,1.903225343594642,Infrastructure
 Zambia,3.23615619138433,People
 Zambia,3.600000000000001,Regulation
 Zambia,3.6700000000000013,Strategy
