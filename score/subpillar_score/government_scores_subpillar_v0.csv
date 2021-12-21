@@ -115,7 +115,7 @@ Government,Digital Public Services,Angola,3.3515,2,1.67575
 Government,Digital Public Services,Antigua and Barbuda,3.338,2,1.669
 Government,Digital Public Services,Argentina,4.953666666666666,3,3.7152499999999993
 Government,Digital Public Services,Armenia,4.625,2,2.3125
-Government,Digital Public Services,Australia,4.649447368421052,4,4.649447368421052
+Government,Digital Public Services,Australia,4.729526943780718,4,4.729526943780718
 Government,Digital Public Services,Austria,5.2755,3,3.956625
 Government,Digital Public Services,Azerbaijan,4.491,2,2.2455
 Government,Digital Public Services,Bahamas,4.23875,2,2.119375
@@ -138,11 +138,12 @@ Government,Digital Public Services,Burundi,2.7155,2,1.35775
 Government,Digital Public Services,Cabo Verde,3.29175,2,1.645875
 Government,Digital Public Services,Cambodia,3.174,2,1.587
 Government,Digital Public Services,Cameroon,3.2182500000000003,2,1.6091250000000001
-Government,Digital Public Services,Canada,4.844559210526316,4,4.844559210526316
+Government,Digital Public Services,Canada,5.029836072023809,4,5.029836072023809
 Government,Digital Public Services,Central African Republic,1.6807499999999997,2,0.8403749999999999
 Government,Digital Public Services,Chad,2.15475,2,1.077375
 Government,Digital Public Services,Chile,5.155,3,3.86625
-Government,Digital Public Services,China,4.820776315789473,4,4.820776315789473
+Government,Digital Public Services,China,5.596897408962336,4,5.596897408962336
+Government,Digital Public Services,"China, Hong Kong Special Administrative Region",2.920226416103077,1,0.7300566040257692
 Government,Digital Public Services,Colombia,5.08425,2,2.542125
 Government,Digital Public Services,Comoros,1.60625,2,0.803125
 Government,Digital Public Services,Congo,2.4785000000000004,2,1.2392500000000002
@@ -153,6 +154,7 @@ Government,Digital Public Services,Cyprus,5.5575,2,2.77875
 Government,Digital Public Services,Czech Republic,4.62425,2,2.312125
 Government,Digital Public Services,Côte d'Ivoire,3.14425,2,1.572125
 Government,Digital Public Services,Democratic People's Republic of Korea,1.13325,2,0.566625
+Government,Digital Public Services,Democratic People's Republic of Korea (the),5.776538894437157,1,1.4441347236092892
 Government,Digital Public Services,Democratic Republic of the Congo,1.8295,2,0.91475
 Government,Digital Public Services,Denmark,5.336500000000001,3,4.002375000000001
 Government,Digital Public Services,Djibouti,2.0945,2,1.04725
@@ -168,11 +170,11 @@ Government,Digital Public Services,Eswatini,3.3515,2,1.67575
 Government,Digital Public Services,Ethiopia,2.745,2,1.3725
 Government,Digital Public Services,Fiji,3.4255,2,1.71275
 Government,Digital Public Services,Finland,5.8075,2,2.90375
-Government,Digital Public Services,France,5.012223684210526,4,5.012223684210526
+Government,Digital Public Services,France,5.301792075314392,4,5.301792075314392
 Government,Digital Public Services,Gabon,2.49325,2,1.246625
 Government,Digital Public Services,Gambia,1.16275,2,0.581375
 Government,Digital Public Services,Georgia (Country),4.07775,2,2.038875
-Government,Digital Public Services,Germany,3.8377434210526316,4,3.8377434210526316
+Government,Digital Public Services,Germany,4.596258755238209,4,4.596258755238209
 Government,Digital Public Services,Ghana,4.16575,2,2.082875
 Government,Digital Public Services,Greece,4.728999999999999,2,2.3644999999999996
 Government,Digital Public Services,Grenada,2.6862500000000002,2,1.3431250000000001
@@ -182,19 +184,18 @@ Government,Digital Public Services,Guinea-Bissau,1.37,2,0.685
 Government,Digital Public Services,Guyana,3.29275,2,1.646375
 Government,Digital Public Services,Haiti,2.036,2,1.018
 Government,Digital Public Services,Honduras,3.382,2,1.691
-Government,Digital Public Services,Hong Kong,5.020263157894737,2,2.5101315789473686
+Government,Digital Public Services,Hong Kong,4.83,1,1.2075
 Government,Digital Public Services,Hungary,4.5642499999999995,2,2.2821249999999997
 Government,Digital Public Services,Iceland,4.9197500000000005,2,2.4598750000000003
-Government,Digital Public Services,India,4.3453289473684205,4,4.3453289473684205
+Government,Digital Public Services,India,5.444965616753276,4,5.444965616753276
 Government,Digital Public Services,Indonesia,4.617333333333334,3,3.463
-Government,Digital Public Services,Iran,2.8421052631578947,1,0.7105263157894737
-Government,Digital Public Services,Iran (Islamic Republic of),3.6312499999999996,2,1.8156249999999998
+Government,Digital Public Services,Iran (Islamic Republic of),4.123636525644002,3,3.092727394233002
 Government,Digital Public Services,Iraq,2.612,2,1.306
 Government,Digital Public Services,Ireland,5.06925,2,2.534625
-Government,Digital Public Services,Israel,4.488298245614035,3,3.366223684210526
+Government,Digital Public Services,Israel,3.4356666666666666,3,2.57675
 Government,Digital Public Services,Italy,5.127000000000001,2,2.5635000000000003
 Government,Digital Public Services,Jamaica,2.893,2,1.4465
-Government,Digital Public Services,Japan,4.596644736842105,4,4.596644736842105
+Government,Digital Public Services,Japan,5.074304182851984,4,5.074304182851984
 Government,Digital Public Services,Jordan,2.73025,2,1.365125
 Government,Digital Public Services,Kazakhstan,5.094166666666666,3,3.8206249999999997
 Government,Digital Public Services,Kenya,4.387833333333333,3,3.2908749999999998
@@ -235,11 +236,10 @@ Government,Digital Public Services,New Zealand,5.394166666666667,3,4.045625
 Government,Digital Public Services,Nicaragua,3.67725,2,1.838625
 Government,Digital Public Services,Niger,2.47925,2,1.239625
 Government,Digital Public Services,Nigeria,3.7895000000000003,3,2.8421250000000002
-Government,Digital Public Services,North Korea,6.0,1,1.5
 Government,Digital Public Services,North Macedonia,4.93625,2,2.468125
 Government,Digital Public Services,Norway,5.108833333333333,3,3.831625
 Government,Digital Public Services,Oman,5.2155000000000005,2,2.6077500000000002
-Government,Digital Public Services,Pakistan,4.1500701754385965,3,3.1125526315789473
+Government,Digital Public Services,Pakistan,4.536509468868795,3,3.4023821016515963
 Government,Digital Public Services,Palau,2.4947500000000002,2,1.2473750000000001
 Government,Digital Public Services,Panama,4.0169999999999995,2,2.0084999999999997
 Government,Digital Public Services,Papua New Guinea,2.0945,2,1.04725
@@ -250,10 +250,12 @@ Government,Digital Public Services,Poland,5.291833333333334,3,3.9688750000000006
 Government,Digital Public Services,Portugal,5.14175,2,2.570875
 Government,Digital Public Services,Qatar,4.401,3,3.30075
 Government,Digital Public Services,Republic of Korea,6.0,2,3.0
+Government,Digital Public Services,Republic of Korea (the),4.220008316245363,1,1.0550020790613408
 Government,Digital Public Services,Republic of Moldova,4.787,2,2.3935
 Government,Digital Public Services,Romania,4.8325,2,2.41625
-Government,Digital Public Services,Russia,4.558684210526316,2,2.279342105263158
+Government,Digital Public Services,Russia,4.17,1,1.0425
 Government,Digital Public Services,Russian Federation,5.2165,2,2.60825
+Government,Digital Public Services,Russian Federation (the),5.800124934006032,1,1.450031233501508
 Government,Digital Public Services,Rwanda,4.1215,2,2.06075
 Government,Digital Public Services,Saint Kitts and Nevis,2.8185000000000002,2,1.4092500000000001
 Government,Digital Public Services,Saint Lucia,2.93825,2,1.469125
@@ -261,7 +263,7 @@ Government,Digital Public Services,Saint Vincent and the Grenadines,3.33725,2,1.
 Government,Digital Public Services,Samoa,2.28675,2,1.143375
 Government,Digital Public Services,San Marino,2.47975,2,1.239875
 Government,Digital Public Services,Sao Tome and Principe,2.1237500000000002,2,1.0618750000000001
-Government,Digital Public Services,Saudi Arabia,4.2661513157894735,4,4.2661513157894735
+Government,Digital Public Services,Saudi Arabia,4.517855721884472,4,4.517855721884472
 Government,Digital Public Services,Senegal,3.3365,2,1.66825
 Government,Digital Public Services,Serbia,5.03875,2,2.519375
 Government,Digital Public Services,Seychelles,3.9725,2,1.98625
@@ -272,14 +274,14 @@ Government,Digital Public Services,Slovenia,5.275,2,2.6375
 Government,Digital Public Services,Solomon Islands,2.6122500000000004,2,1.3061250000000002
 Government,Digital Public Services,Somalia,2.628,2,1.314
 Government,Digital Public Services,South Africa,4.6535,3,3.490125
-Government,Digital Public Services,South Korea,3.018815789473684,2,1.509407894736842
+Government,Digital Public Services,South Korea,3.985,1,0.99625
 Government,Digital Public Services,South Sudan,1.0594999999999999,2,0.5297499999999999
 Government,Digital Public Services,Spain,5.3335,2,2.66675
 Government,Digital Public Services,Sri Lanka,4.579750000000001,2,2.2898750000000003
 Government,Digital Public Services,Sudan,2.3005,2,1.15025
 Government,Digital Public Services,Suriname,2.3455,2,1.17275
-Government,Digital Public Services,Sweden,4.995666666666666,3,3.7467499999999996
-Government,Digital Public Services,Switzerland,5.058666666666666,3,3.7939999999999996
+Government,Digital Public Services,Sweden,4.995666666666667,3,3.74675
+Government,Digital Public Services,Switzerland,5.058666666666667,3,3.7940000000000005
 Government,Digital Public Services,Syrian Arab Republic,3.6327499999999997,2,1.8163749999999999
 Government,Digital Public Services,Tajikistan,2.657,2,1.3285
 Government,Digital Public Services,Thailand,4.9197500000000005,2,2.4598750000000003
@@ -288,23 +290,23 @@ Government,Digital Public Services,Togo,3.52975,2,1.764875
 Government,Digital Public Services,Tonga,2.8637500000000005,2,1.4318750000000002
 Government,Digital Public Services,Trinidad and Tobago,4.077,2,2.0385
 Government,Digital Public Services,Tunisia,4.285,2,2.1425
-Government,Digital Public Services,Turkey,5.4107280701754386,3,4.058046052631579
+Government,Digital Public Services,Turkey,5.5178642452040245,3,4.138398183903019
 Government,Digital Public Services,Turkmenistan,1.94725,2,0.973625
 Government,Digital Public Services,Tuvalu,2.64275,2,1.321375
 Government,Digital Public Services,Uganda,3.8845,2,1.94225
-Government,Digital Public Services,Ukraine,4.062572368421052,4,4.062572368421052
+Government,Digital Public Services,Ukraine,4.494166301941309,4,4.494166301941309
 Government,Digital Public Services,United Arab Emirates,5.60125,2,2.800625
-Government,Digital Public Services,United Kingdom,2.931578947368421,2,1.4657894736842105
+Government,Digital Public Services,United Kingdom,4.6,1,1.15
 Government,Digital Public Services,United Kingdom of Great Britain and Northern Ireland,5.8375,2,2.91875
+Government,Digital Public Services,United Kingdom of Great Britain and Northern Ireland (the),4.371640104284006,1,1.0929100260710014
 Government,Digital Public Services,United Republic of Tanzania,3.7809999999999997,2,1.8904999999999998
-Government,Digital Public Services,United States,1.0,1,0.25
 Government,Digital Public Services,United States of America,5.4235,3,4.067625
+Government,Digital Public Services,United States of America (the),5.650328371057807,1,1.4125820927644517
 Government,Digital Public Services,Uruguay,5.24575,2,2.622875
 Government,Digital Public Services,Uzbekistan,4.97975,2,2.489875
 Government,Digital Public Services,Vanuatu,2.8205,2,1.41025
 Government,Digital Public Services,Venezuela,2.38925,2,1.194625
-Government,Digital Public Services,Viet Nam,4.38825,2,2.194125
-Government,Digital Public Services,Vietnam,5.473684210526316,1,1.368421052631579
+Government,Digital Public Services,Viet Nam,4.866319330603981,3,3.649739497952986
 Government,Digital Public Services,Yemen,2.5825,2,1.29125
 Government,Digital Public Services,Zambia,2.42075,2,1.210375
 Government,Digital Public Services,Zimbabwe,3.43975,2,1.719875
