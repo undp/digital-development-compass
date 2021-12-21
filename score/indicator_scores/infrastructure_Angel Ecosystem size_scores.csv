@@ -1,27 +1,27 @@
-Country Name,Year,Indicator,data_col,higher_is_better,Sub-Pillar,new_rank_score
-United Kingdom of Great Britain and Northern Ireland (the),2019.0,Angel Ecosystem size,2.290371222823181,True,Innovation Ecosystem,2.1709747672377606
-Germany,2019.0,Angel Ecosystem size,0.9840785312238598,True,Innovation Ecosystem,1.5031198076367456
-Spain,2019.0,Angel Ecosystem size,1.6688759577286831,True,Innovation Ecosystem,1.8532292130972632
-Finland,2019.0,Angel Ecosystem size,9.779763351459701,True,Innovation Ecosystem,6.0
-Sweden,2019.0,Angel Ecosystem size,4.288402041972054,True,Innovation Ecosystem,3.1924876338301065
-France,2019.0,Angel Ecosystem size,0.6394154160915522,True,Innovation Ecosystem,1.3269074072207048
-Denmark,2019.0,Angel Ecosystem size,5.734017929899138,True,Innovation Ecosystem,3.9315729449850614
-Switzerland,2019.0,Angel Ecosystem size,3.8016251364386937,True,Innovation Ecosystem,2.943618163250992
-Italy,2019.0,Angel Ecosystem size,0.4721318246969177,True,Innovation Ecosystem,1.241382029262727
-Russian Federation (the),2019.0,Angel Ecosystem size,0.18060158762783837,True,Innovation Ecosystem,1.0923343342458702
-Turkey,2019.0,Angel Ecosystem size,0.2548256040568428,True,Innovation Ecosystem,1.1302820911401747
-Austria,2019.0,Angel Ecosystem size,2.2646600419823604,True,Innovation Ecosystem,2.1578296736824125
-Netherlands (the),2019.0,Angel Ecosystem size,1.1173329941745325,True,Innovation Ecosystem,1.571247459688154
-Belgium,2019.0,Angel Ecosystem size,1.4875123814298572,True,Innovation Ecosystem,1.760505304664573
-Ireland,2019.0,Angel Ecosystem size,3.404710660392271,True,Innovation Ecosystem,2.7406917417301786
-Poland,2019.0,Angel Ecosystem size,0.43355179936508104,True,Innovation Ecosystem,1.221657612656021
-Portugal,2019.0,Angel Ecosystem size,1.312429985505912,True,Innovation Ecosystem,1.6709927113471628
-Estonia,2019.0,Angel Ecosystem size,6.993755360246229,True,Innovation Ecosystem,4.575626070339606
-Norway,2019.0,Angel Ecosystem size,1.1462451775427196,True,Innovation Ecosystem,1.5860290972028654
-Greece,2019.0,Angel Ecosystem size,0.41225259481296694,True,Innovation Ecosystem,1.2107681852810044
-Bulgaria,2019.0,Angel Ecosystem size,0.6106860599151834,True,Innovation Ecosystem,1.3122192419022256
-Luxembourg,2019.0,Angel Ecosystem size,5.419346097828875,True,Innovation Ecosystem,3.77069388239338
-Lithuania,2019.0,Angel Ecosystem size,1.1273606125970201,True,Innovation Ecosystem,1.5763741780258687
-Hungary,2019.0,Angel Ecosystem size,0.2179888715145959,True,Innovation Ecosystem,1.1114489500822429
-Cyprus,2019.0,Angel Ecosystem size,0.6340868398613686,True,Innovation Ecosystem,1.3241831203240344
-Serbia,2019.0,Angel Ecosystem size,0.04463491876084826,True,Innovation Ecosystem,1.0228200402999457
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+United Kingdom of Great Britain and Northern Ireland (the),2019.0,Angel Ecosystem size,4,4.75,True,Innovation Ecosystem
+Germany,2019.0,Angel Ecosystem size,2,2.25,True,Innovation Ecosystem
+Spain,2019.0,Angel Ecosystem size,4,4.75,True,Innovation Ecosystem
+Finland,2019.0,Angel Ecosystem size,5,6.0,True,Innovation Ecosystem
+Sweden,2019.0,Angel Ecosystem size,5,6.0,True,Innovation Ecosystem
+France,2019.0,Angel Ecosystem size,2,2.25,True,Innovation Ecosystem
+Denmark,2019.0,Angel Ecosystem size,5,6.0,True,Innovation Ecosystem
+Switzerland,2019.0,Angel Ecosystem size,4,4.75,True,Innovation Ecosystem
+Italy,2019.0,Angel Ecosystem size,2,2.25,True,Innovation Ecosystem
+Russian Federation (the),2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem
+Turkey,2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem
+Austria,2019.0,Angel Ecosystem size,4,4.75,True,Innovation Ecosystem
+Netherlands (the),2019.0,Angel Ecosystem size,3,3.5,True,Innovation Ecosystem
+Belgium,2019.0,Angel Ecosystem size,3,3.5,True,Innovation Ecosystem
+Ireland,2019.0,Angel Ecosystem size,4,4.75,True,Innovation Ecosystem
+Poland,2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem
+Portugal,2019.0,Angel Ecosystem size,3,3.5,True,Innovation Ecosystem
+Estonia,2019.0,Angel Ecosystem size,5,6.0,True,Innovation Ecosystem
+Norway,2019.0,Angel Ecosystem size,3,3.5,True,Innovation Ecosystem
+Greece,2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem
+Bulgaria,2019.0,Angel Ecosystem size,2,2.25,True,Innovation Ecosystem
+Luxembourg,2019.0,Angel Ecosystem size,5,6.0,True,Innovation Ecosystem
+Lithuania,2019.0,Angel Ecosystem size,3,3.5,True,Innovation Ecosystem
+Hungary,2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem
+Cyprus,2019.0,Angel Ecosystem size,2,2.25,True,Innovation Ecosystem
+Serbia,2019.0,Angel Ecosystem size,1,1.0,True,Innovation Ecosystem

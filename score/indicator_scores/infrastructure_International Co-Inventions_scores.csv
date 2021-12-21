@@ -1,6 +1,6 @@
-Country Name,Year,Indicator,data_col,higher_is_better,Sub-Pillar,new_rank_score
-Australia,2017.0,International Co-Inventions,0.00019693632920437723,True,Innovation Ecosystem,2.2746616853383825
-Canada,2017.0,International Co-Inventions,0.0004895568636126758,True,Innovation Ecosystem,4.168635159203709
-Japan,2017.0,International Co-Inventions,0.0001646714418650537,True,Innovation Ecosystem,2.0658286282820866
-Netherlands (the),2017.0,International Co-Inventions,0.0007725043102401593,True,Innovation Ecosystem,6.0
-United States of America (the),2017.0,International Co-Inventions,0.0004262828889948703,True,Innovation Ecosystem,3.7590971554731243
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Australia,2017.0,International Co-Inventions,2,2.25,True,Innovation Ecosystem
+Canada,2017.0,International Co-Inventions,4,4.75,True,Innovation Ecosystem
+Japan,2017.0,International Co-Inventions,1,1.0,True,Innovation Ecosystem
+Netherlands (the),2017.0,International Co-Inventions,5,6.0,True,Innovation Ecosystem
+United States of America (the),2017.0,International Co-Inventions,3,3.5,True,Innovation Ecosystem

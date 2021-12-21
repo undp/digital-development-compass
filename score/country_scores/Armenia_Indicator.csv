@@ -35,6 +35,9 @@ Armenia,2018.0,Infrastructure,Innovation Ecosystem,Availability of scientists an
 Armenia,2017.0,Infrastructure,Innovation Ecosystem,Banking Ecosystem size,53.87,3.6935,True
 Armenia,2020.0,Infrastructure,Connectivity Technology,Broadband Density,14.52486347,1.7262431735,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,Cellphone Signal Density,87.59999847,5.3799999235,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Country)",2.0,2.25,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Industry)",3.0,3.5,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,"Country, Industry, Skill Migration Data (Skill)",2.0,2.25,True
 Armenia,2020.0,Infrastructure,Innovation Ecosystem,Digital Work Ecosystem size,25.0,2.25,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,Electricity Density,2453.168,1.2158419233796929,True
 Armenia,2021.0,Infrastructure,Connectivity Technology,Electricity Environmental Sustainability,71.8,4.59,True
@@ -42,12 +45,12 @@ Armenia,2018.0,Infrastructure,Connectivity Technology,Electricity supply quality
 Armenia,2020.0,Infrastructure,Connectivity Technology,Global Cybersecurity Index (GCI),50.47,3.5235,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,GSMA Mobile Connectivity Index ,56.24,3.812,True
 Armenia,2019.0,Infrastructure,Connectivity Technology,Individuals using the Internet (% of population),66.54394969,4.3271974845,True
-Armenia,2019.0,Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),1.3523894015947376e-06,1.096481845155635,True
-Armenia,2019.0,Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),2.3666814527907906e-06,1.034762780093104,True
-Armenia,2019.0,Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),1.0142920511960532e-06,1.0090353747993337,True
-Armenia,2019.0,Infrastructure,Connectivity Technology,Internet Exchange Points (IXPs) map,3.512469265893924e-05,1.0136702997622342,True
-Armenia,2021.0,Infrastructure,Connectivity Technology,ISP internet download speed average ,36.25,1.62755365147368,True
-Armenia,2021.0,Infrastructure,Connectivity Technology,ISP Speeds - Mobile,33.13,1.7205978616626665,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,International industrial applications by origin (Hague System),3.0,3.5,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,International industrial designs by origin (Hague System),3.0,3.5,True
+Armenia,2019.0,Infrastructure,Innovation Ecosystem,International patent applications by origin (PCT System),2.0,2.25,True
+Armenia,2019.0,Infrastructure,Connectivity Technology,Internet Exchange Points (IXPs) map,3.0,3.5,True
+Armenia,2021.0,Infrastructure,Connectivity Technology,ISP internet download speed average ,3.0,3.5,True
+Armenia,2021.0,Infrastructure,Connectivity Technology,ISP Speeds - Mobile,3.0,3.5,True
 Armenia,2018.0,Infrastructure,Connectivity Technology,Logistics Performance Index (LPI) - Infrastructure Rating,2.61,3.0125,True
 Armenia,2020.0,Infrastructure,Innovation Ecosystem,Mobile app creation/bn PPP$ GDP,4.441896673,1.22209483365,True
 Armenia,2020.0,Infrastructure,Connectivity Technology,Mobile cellular subscriptions (per 100 people),117.7357712,3.018417929332861,True
@@ -65,7 +68,7 @@ Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (al
 Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (female),67.22694118,4.361347059,True
 Armenia,2019.0,People,Digital Literacy Skills,% of population using internet (male),65.78686376,4.289343188,True
 Armenia,2017.0,People,Usage and ownership,E-commerce activity (% of individuals buying online and frequency),10.88,1.544,True
-Armenia,2020.0,People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",4.724567820158651,5.661095298958396,False
+Armenia,2020.0,People,Digital Wellbeing,"E-waste generated, kilograms per inhabitant",3.0,3.5,False
 Armenia,2017.0,People,Usage and ownership,Financial Inclusiveness,48.0,3.4,True
 Armenia,2019.0,People,Usage and ownership,Gender gap for social media use,88.38256073,5.4191280365,True
 Armenia,2019.0,People,Usage and ownership,Gender gap in internet usage,67.22694118,4.361347059,True

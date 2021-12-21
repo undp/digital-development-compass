@@ -1,74 +1,73 @@
-Country Name,Year,Indicator,data_col,higher_is_better,Sub-Pillar,new_rank_score
-Germany,2019.0,International industrial designs by origin (Hague System),5.399975993153307e-05,True,Innovation Ecosystem,1.7931704443649181
-Republic of Korea (the),2019.0,International industrial designs by origin (Hague System),5.291138514928263e-05,True,Innovation Ecosystem,1.777183952744072
-Switzerland,2019.0,International industrial designs by origin (Hague System),0.00025398587567986117,True,Innovation Ecosystem,4.730647879376396
-Italy,2019.0,International industrial designs by origin (Hague System),3.3384072994526735e-05,True,Innovation Ecosystem,1.4903588468791897
-Netherlands (the),2019.0,International industrial designs by origin (Hague System),7.933179566481717e-05,True,Innovation Ecosystem,2.1652576918769926
-United States of America (the),2019.0,International industrial designs by origin (Hague System),4.114763175445038e-06,True,Innovation Ecosystem,1.0604393156647778
-France,2019.0,International industrial designs by origin (Hague System),1.9301423490391504e-05,True,Innovation Ecosystem,1.283507161257016
-Japan,2019.0,International industrial designs by origin (Hague System),9.12367346084401e-06,True,Innovation Ecosystem,1.1340122278757065
-China,2019.0,International industrial designs by origin (Hague System),4.7434562840063963e-07,True,Innovation Ecosystem,1.0069673815835132
-United Kingdom of Great Britain and Northern Ireland (the),2019.0,International industrial designs by origin (Hague System),8.199133982931169e-06,True,Innovation Ecosystem,1.1204322158634528
-Sweden,2019.0,International industrial designs by origin (Hague System),4.2222470195459875e-05,True,Innovation Ecosystem,1.620180820981043
-Denmark,2019.0,International industrial designs by origin (Hague System),7.446999890960787e-05,True,Innovation Ecosystem,2.0938456430525045
-Cyprus,2019.0,International industrial designs by origin (Hague System),0.00034040451403083996,True,Innovation Ecosystem,6.0
-Turkey,2019.0,International industrial designs by origin (Hague System),4.818433341056012e-06,True,Innovation Ecosystem,1.0707751093544469
-Spain,2019.0,International industrial designs by origin (Hague System),5.261648074201798e-06,True,Innovation Ecosystem,1.0772852276824552
-Luxembourg,2019.0,International industrial designs by origin (Hague System),0.0002741931061401514,True,Innovation Ecosystem,5.027459901946395
-Austria,2019.0,International industrial designs by origin (Hague System),1.8581248479716034e-05,True,Innovation Ecosystem,1.272928937687833
-Czechia,2019.0,International industrial designs by origin (Hague System),1.2275261973768422e-05,True,Innovation Ecosystem,1.180304042217494
-Ukraine,2019.0,International industrial designs by origin (Hague System),2.8837789977214317e-06,True,Innovation Ecosystem,1.0423581192207716
-Norway,2019.0,International industrial designs by origin (Hague System),2.2251741619507932e-05,True,Innovation Ecosystem,1.326842634312011
-Russian Federation (the),2019.0,International industrial designs by origin (Hague System),7.548149176163491e-07,True,Innovation Ecosystem,1.0110870286160183
-Belgium,2019.0,International industrial designs by origin (Hague System),9.313272370567275e-06,True,Innovation Ecosystem,1.1367971338024547
-Poland,2019.0,International industrial designs by origin (Hague System),2.792010372581931e-06,True,Innovation Ecosystem,1.041010184317488
-Tunisia,2019.0,International industrial designs by origin (Hague System),7.524762668557891e-06,True,Innovation Ecosystem,1.110526775621374
-Canada,2019.0,International industrial designs by origin (Hague System),2.314236994466899e-06,True,Innovation Ecosystem,1.0339924545515462
-Bosnia and Herzegovina,2019.0,International industrial designs by origin (Hague System),2.332627890110809e-05,True,Innovation Ecosystem,1.3426258750933422
-Hungary,2019.0,International industrial designs by origin (Hague System),7.266295717153197e-06,True,Innovation Ecosystem,1.1067303078785684
-Portugal,2019.0,International industrial designs by origin (Hague System),5.346936977987049e-06,True,Innovation Ecosystem,1.0785379858021304
-Morocco,2019.0,International industrial designs by origin (Hague System),1.4531788781491963e-06,True,Innovation Ecosystem,1.021344882606603
-Croatia,2019.0,International industrial designs by origin (Hague System),1.2545344656285844e-05,True,Innovation Ecosystem,1.1842711265448915
-Slovenia,2019.0,International industrial designs by origin (Hague System),2.442078448178856e-05,True,Innovation Ecosystem,1.358702418375922
-Finland,2019.0,International industrial designs by origin (Hague System),8.33090952161382e-06,True,Innovation Ecosystem,1.1223677885901808
-Bulgaria,2019.0,International industrial designs by origin (Hague System),6.450909083611093e-06,True,Innovation Ecosystem,1.094753577254658
-Slovakia,2019.0,International industrial designs by origin (Hague System),7.883909252904259e-06,True,Innovation Ecosystem,1.1158020667756186
-Serbia,2019.0,International industrial designs by origin (Hague System),5.615360747332524e-06,True,Innovation Ecosystem,1.0824807033379085
-Singapore,2019.0,International industrial designs by origin (Hague System),5.785850929479419e-06,True,Innovation Ecosystem,1.0849849324993857
-Ireland,2019.0,International industrial designs by origin (Hague System),4.255888325490339e-06,True,Innovation Ecosystem,1.062512219287209
-Republic of Moldova (the),2019.0,International industrial designs by origin (Hague System),6.758656994778187e-06,True,Innovation Ecosystem,1.09927390378504
-Lithuania,2019.0,International industrial designs by origin (Hague System),5.726276127476928e-06,True,Innovation Ecosystem,1.0841098735688055
-United Arab Emirates (the),2019.0,International industrial designs by origin (Hague System),1.535229526025518e-06,True,Innovation Ecosystem,1.022550075905962
-South Africa,2019.0,International industrial designs by origin (Hague System),2.2200110532642642e-07,True,Innovation Ecosystem,1.0032608425590137
-Viet Nam,2019.0,International industrial designs by origin (Hague System),1.0366764947745078e-07,True,Innovation Ecosystem,1.0015227126140291
-Greece,2019.0,International industrial designs by origin (Hague System),8.39428360478892e-07,True,Innovation Ecosystem,1.012329865290841
-Monaco,2019.0,International industrial designs by origin (Hague System),0.00020530192213924603,True,Innovation Ecosystem,4.0155581620848615
-Romania,2019.0,International industrial designs by origin (Hague System),4.1297467308924877e-07,True,Innovation Ecosystem,1.006065940022344
-Armenia,2019.0,International industrial designs by origin (Hague System),2.3666814527907906e-06,True,Innovation Ecosystem,1.0347627800931039
-North Macedonia,2019.0,International industrial designs by origin (Hague System),3.359798949630854e-06,True,Innovation Ecosystem,1.0493500939492015
-Australia,2019.0,International industrial designs by origin (Hague System),2.365394747916925e-07,True,Innovation Ecosystem,1.0034743880448405
-Estonia,2019.0,International industrial designs by origin (Hague System),4.521824586366096e-06,True,Innovation Ecosystem,1.0664183992865093
-Iceland,2019.0,International industrial designs by origin (Hague System),1.1093761700451794e-05,True,Innovation Ecosystem,1.162949685494575
-Israel,2019.0,International industrial designs by origin (Hague System),4.417936823503424e-07,True,Innovation Ecosystem,1.0064892453557521
-India,2019.0,International industrial designs by origin (Hague System),2.195521821073291e-09,True,Innovation Ecosystem,1.000032248717784
-Latvia,2019.0,International industrial designs by origin (Hague System),1.5675438990668933e-06,True,Innovation Ecosystem,1.0230247225647084
-Cameroon,2019.0,International industrial designs by origin (Hague System),7.729054291853032e-08,True,Innovation Ecosystem,1.0011352749410298
-Iran (Islamic Republic of),2019.0,International industrial designs by origin (Hague System),2.412140990654003e-08,True,Innovation Ecosystem,1.0003543050828103
-New Zealand,2019.0,International industrial designs by origin (Hague System),4.016628843411725e-07,True,Innovation Ecosystem,1.005899787866867
-Dominican Republic (the),2019.0,International industrial designs by origin (Hague System),9.311891275847365e-08,True,Innovation Ecosystem,1.0013677684772129
-Georgia,2019.0,International industrial designs by origin (Hague System),2.688055705115988e-07,True,Innovation Ecosystem,1.0039483255866466
-Kazakhstan,2019.0,International industrial designs by origin (Hague System),5.401413323007271e-08,True,Innovation Ecosystem,1.000793381565222
-Lebanon,2019.0,International industrial designs by origin (Hague System),1.458638340688031e-07,True,Innovation Ecosystem,1.0021425073413626
-Maldives,2019.0,International industrial designs by origin (Hague System),1.8833916870857715e-06,True,Innovation Ecosystem,1.0276640233818277
-Oman,2019.0,International industrial designs by origin (Hague System),2.010053483503089e-07,True,Innovation Ecosystem,1.002952448338157
-Saudi Arabia,2019.0,International industrial designs by origin (Hague System),2.9181293425229895e-08,True,Innovation Ecosystem,1.0004286267106108
-Syrian Arab Republic (the),2019.0,International industrial designs by origin (Hague System),5.8581855137382654e-08,True,Innovation Ecosystem,1.0008604741230323
-Albania,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Bahamas (the),2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Curaçao,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Egypt,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Malaysia,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Malta,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Seychelles,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Turkmenistan,2019.0,International industrial designs by origin (Hague System),0.0,True,Innovation Ecosystem,1.0
-Unknown,2019.0,International industrial designs by origin (Hague System),,True,Innovation Ecosystem,
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Germany,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Republic of Korea (the),2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Switzerland,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Italy,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Netherlands (the),2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+United States of America (the),2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+France,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Japan,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+China,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+United Kingdom of Great Britain and Northern Ireland (the),2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Sweden,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Denmark,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Cyprus,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Turkey,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Spain,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Luxembourg,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Austria,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Czechia,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Ukraine,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Norway,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Russian Federation (the),2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Belgium,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Poland,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Tunisia,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Canada,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Bosnia and Herzegovina,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Hungary,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Portugal,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Morocco,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Croatia,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Slovenia,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Finland,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Bulgaria,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Slovakia,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Serbia,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Singapore,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Ireland,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Republic of Moldova (the),2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Lithuania,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+United Arab Emirates (the),2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+South Africa,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Viet Nam,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Greece,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Monaco,2019.0,International industrial designs by origin (Hague System),5,6.0,True,Innovation Ecosystem
+Romania,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Armenia,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+North Macedonia,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Australia,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Estonia,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Iceland,2019.0,International industrial designs by origin (Hague System),4,4.75,True,Innovation Ecosystem
+Israel,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+India,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Latvia,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Cameroon,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Iran (Islamic Republic of),2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+New Zealand,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Dominican Republic (the),2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Georgia,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Kazakhstan,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Lebanon,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Maldives,2019.0,International industrial designs by origin (Hague System),3,3.5,True,Innovation Ecosystem
+Oman,2019.0,International industrial designs by origin (Hague System),2,2.25,True,Innovation Ecosystem
+Saudi Arabia,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Syrian Arab Republic (the),2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Albania,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Bahamas (the),2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Curaçao,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Egypt,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Malaysia,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Malta,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Seychelles,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
+Turkmenistan,2019.0,International industrial designs by origin (Hague System),1,1.0,True,Innovation Ecosystem
