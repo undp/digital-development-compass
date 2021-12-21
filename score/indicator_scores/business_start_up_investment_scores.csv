@@ -1,35 +1,35 @@
-Country Name,Year,Indicator,data_col,higher_is_better,Sub-Pillar,new_rank_score
-Australia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",19.211373531605634,True,Startup Environment,1.2325001935334003
-Austria,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",10.182172951183817,True,Startup Environment,1.1232268571451245
-Belgium,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",34.452855265758316,True,Startup Environment,1.4169558987486701
-Canada,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",87.432217686411,True,Startup Environment,2.058123590158833
-Czechia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2.5491954586522514,True,Startup Environment,1.0308509142522293
-Denmark,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",60.61435962781615,True,Startup Environment,1.733568077325939
-Finland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",58.2378656320029,True,Startup Environment,1.7048072334930637
-France,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",32.19299651661485,True,Startup Environment,1.3896065998726885
-Germany,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",28.63868047815361,True,Startup Environment,1.346591499184464
-Greece,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2.5236799033592336,True,Startup Environment,1.0305421194888575
-Hungary,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",15.849573445747124,True,Startup Environment,1.1918149625010213
-Ireland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",37.478934457938855,True,Startup Environment,1.4535781629856284
-Italy,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4.371661462200297,True,Startup Environment,1.0529067916123709
-Japan,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",19.819678767337226,True,Startup Environment,1.2398620349343965
-Republic of Korea (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",52.37838911374667,True,Startup Environment,1.6338945825960445
-Luxembourg,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",27.915468281706804,True,Startup Environment,1.3378390289166318
-Netherlands (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",40.469568617772666,True,Startup Environment,1.489771463782422
-New Zealand,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",14.845285554831444,True,Startup Environment,1.1796608534459343
-Norway,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",29.60242706361792,True,Startup Environment,1.3582549686011078
-Poland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2.9759332010871455,True,Startup Environment,1.036015386617565
-Portugal,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5.005934682376554,True,Startup Environment,1.0605829031720897
-Slovakia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4.509806168951516,True,Startup Environment,1.054578648702778
-Spain,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",13.900565297150068,True,Startup Environment,1.16822764475919
-Sweden,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",39.1649705731172,True,Startup Environment,1.4739829363579418
-Switzerland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",64.5527471204103,True,Startup Environment,1.7812312937394472
-United Kingdom of Great Britain and Northern Ireland (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",50.12211085476585,True,Startup Environment,1.6065886155856575
-United States of America (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",413.1474739793235,True,Startup Environment,6.0
-Estonia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",30.18953724116601,True,Startup Environment,1.3653603028282932
-Latvia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3.3815495921774494,True,Startup Environment,1.0409242438251805
-Lithuania,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1.7478656640476862,True,Startup Environment,1.0211530479324094
-Romania,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1.2153590272685937,True,Startup Environment,1.0147085375539464
-Russian Federation (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",0.9071628826398324,True,Startup Environment,1.010978681218867
-South Africa,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",8.225749805629869,True,Startup Environment,1.0995498015079421
-Bulgaria,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",0.566175820412851,True,Startup Environment,1.006851982113791
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Australia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Austria,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Belgium,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Canada,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+Czechia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+Denmark,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+Finland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+France,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Germany,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Greece,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+Hungary,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Ireland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Italy,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Japan,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Republic of Korea (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+Luxembourg,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Netherlands (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+New Zealand,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",3,3.5,True,Startup Environment
+Norway,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Poland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+Portugal,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Slovakia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Spain,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Sweden,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Switzerland,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+United Kingdom of Great Britain and Northern Ireland (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+United States of America (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",5,6.0,True,Startup Environment
+Estonia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",4,4.75,True,Startup Environment
+Latvia,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Lithuania,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+Romania,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+Russian Federation (the),2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
+South Africa,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",2,2.25,True,Startup Environment
+Bulgaria,2019.0,"Amount invested into startups yearly from private, public, blended sources (respectively)",1,1.0,True,Startup Environment
