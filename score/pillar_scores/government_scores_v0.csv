@@ -2,11 +2,11 @@ Country Name,agg_score,count_source,agg_score_wt
 United Kingdom of Great Britain and Northern Ireland,5.8375,2,1.667857142857143
 United States of America,5.4235,3,2.3243571428571426
 Republic of Korea,5.125,3,2.196428571428571
+Russian Federation (the),5.0,1,0.7142857142857142
+Democratic People's Republic of Korea (the),5.0,1,0.7142857142857142
 Viet Nam,4.9255,3,2.1109285714285715
 Taiwan,4.85,1,0.6928571428571427
 Republic of Moldova,4.787,2,1.3677142857142857
-Russian Federation (the),4.75,1,0.6785714285714285
-Democratic People's Republic of Korea (the),4.75,1,0.6785714285714285
 Hong Kong,4.702500000000001,2,1.3435714285714286
 Denmark,4.5622292,5,3.2587351428571427
 China,4.516338166666666,6,3.8711469999999997
@@ -18,11 +18,11 @@ Estonia,4.3611441,5,3.1151029285714285
 Sweden,4.3205278,5,3.0860912857142857
 Russian Federation,4.301784375,4,2.4581625000000003
 India,4.297940166666667,6,3.683948714285714
+France,4.287607833333333,6,3.6750924285714284
 Poland,4.2871953000000005,5,3.0622823571428577
+Japan,4.269792666666667,6,3.6598222857142853
 Norway,4.241026400000001,5,3.0293045714285722
 Bahamas,4.23875,2,1.2110714285714284
-France,4.2042744999999995,6,3.6036638571428563
-Japan,4.186459333333333,6,3.5883937142857136
 Russia,4.17,1,0.5957142857142856
 Bulgaria,4.151320625,4,2.372183214285714
 Georgia (Country),4.07775,2,1.1650714285714285
@@ -43,35 +43,34 @@ Indonesia,3.7926633,5,2.709045214285714
 United Republic of Tanzania,3.7809999999999997,2,1.080285714285714
 Greece,3.7792164999999995,4,2.1595522857142853
 Argentina,3.7721360000000006,5,2.6943828571428576
+Turkey,3.7717,4,2.1552571428571428
 Luxembourg,3.76776575,4,2.153009
 Switzerland,3.7668890916666666,5,2.6906350654761906
-Ukraine,3.763842416666666,6,3.2261506428571423
 Malta,3.751374333333333,3,1.607731857142857
 Kazakhstan,3.7376683,5,2.6697630714285716
 United Arab Emirates,3.7353544999999997,4,2.1344882857142853
-Turkey,3.7217,4,2.126685714285714
+Ukraine,3.7221757499999995,6,3.1904363571428567
 Lithuania,3.719272625,4,2.1252986428571425
 Romania,3.716259625,4,2.1235769285714285
 Kyrgyzstan,3.6940000000000004,3,1.5831428571428572
-United States of America (the),3.6784459,2,1.0509845428571427
+Canada,3.691080264285714,7,3.691080264285714
 Brazil,3.6712547499999997,4,2.097859857142857
 Kuwait,3.6520297499999996,4,2.0868741428571425
 Iceland,3.647189166666667,3,1.5630810714285714
 Uruguay,3.6468581249999996,4,2.0839189285714284
-Germany,3.632521885714286,7,3.632521885714286
 North Macedonia,3.630253833333333,3,1.5558230714285712
 Egypt,3.6208333333333336,3,1.5517857142857143
 Spain,3.6134664499999998,5,2.581047464285714
 Australia,3.6095,5,2.578214285714286
 Chile,3.598,4,2.0559999999999996
 Italy,3.58997866,5,2.5642704714285713
-Iran (Islamic Republic of),3.5875,3,1.5374999999999999
-Canada,3.5839374071428574,7,3.5839374071428574
+Germany,3.561093314285714,7,3.561093314285714
 South Africa,3.5370999999999997,4,2.0212
 Ireland,3.4832927499999995,5,2.4880662499999997
 Albania,3.4773333333333336,2,0.9935238095238096
 Peru,3.476339375,4,1.9864796428571427
 Tunisia,3.4312665,4,1.9607237142857141
+Iran (Islamic Republic of),3.420833333333333,3,1.4660714285714282
 Qatar,3.4056901,5,2.432635785714286
 Latvia,3.3963853749999995,4,1.9407916428571426
 Colombia,3.3950577500000003,4,1.9400330000000001
@@ -81,6 +80,7 @@ Saint Vincent and the Grenadines,3.33725,2,0.9535
 Armenia,3.3336095,4,1.9049197142857142
 Oman,3.322995875,4,1.8988547857142857
 Costa Rica,3.3137860000000003,4,1.8935920000000002
+United States of America (the),3.3034459,2,0.9438416857142856
 Mexico,3.285036375,4,1.8771636428571425
 Israel,3.2808079,5,2.3434342142857143
 United Kingdom,3.2783789999999997,3,1.4050195714285711
@@ -137,7 +137,6 @@ Burkina Faso,2.2943333333333333,2,0.6555238095238095
 Zimbabwe,2.2931666666666666,2,0.6551904761904761
 Fiji,2.2836666666666665,2,0.6524761904761904
 Nicaragua,2.269875,3,0.9728035714285713
-United Kingdom of Great Britain and Northern Ireland (the),2.25,1,0.3214285714285714
 Eswatini,2.2343333333333333,2,0.6383809523809524
 Angola,2.2343333333333333,2,0.6383809523809524
 Antigua and Barbuda,2.2253333333333334,2,0.6358095238095238
@@ -156,18 +155,19 @@ Monaco,2.0660000000000003,2,0.5902857142857143
 Cuba,2.035451,3,0.8723361428571429
 Lao People's Democratic Republic,2.021,2,0.5774285714285714
 Dominica,2.007,2,0.5734285714285714
+United Kingdom of Great Britain and Northern Ireland (the),2.0,1,0.2857142857142857
 Guyana,1.9588750000000001,3,0.8395178571428572
 Marshall Islands,1.9496666666666667,2,0.557047619047619
 Jordan,1.9463750000000002,3,0.8341607142857144
 Jamaica,1.9286666666666665,2,0.551047619047619
 Tonga,1.909166666666667,2,0.5454761904761906
-Republic of Korea (the),1.89290065,2,0.5408287571428572
 Vanuatu,1.8803333333333334,2,0.5372380952380952
 Iraq,1.8627927499999999,4,1.0644529999999999
 Lesotho,1.8301666666666667,2,0.5229047619047619
 Democratic Republic of the Congo,1.8295,2,0.5227142857142857
 Grenada,1.7908333333333335,2,0.5116666666666667
 Mali,1.7808333333333335,2,0.5088095238095238
+Republic of Korea (the),1.76790065,2,0.5051144714285715
 Tuvalu,1.7618333333333334,2,0.5033809523809524
 Myanmar,1.7571249999999998,3,0.7530535714285713
 Georgia,1.7570130000000002,2,0.5020037142857143
@@ -242,60 +242,60 @@ Equatorial Guinea,0.8935,2,0.2552857142857143
 Libya,0.7948333333333334,2,0.2270952380952381
 South Sudan,0.7063333333333333,2,0.20180952380952377
 Eritrea,0.6863333333333334,2,0.1960952380952381
-"Bahamas, The",0.0,0,0.0
-"Venezuela, RB",0.0,0,0.0
-American Samoa,0.0,0,0.0
-Virgin Islands (U.S.),0.0,0,0.0
-British Virgin Islands,0.0,0,0.0
-Turks and Caicos Islands,0.0,0,0.0
-Tanzania,0.0,0,0.0
-Cote d'Ivoire,0.0,0,0.0
-"Congo, Rep.",0.0,0,0.0
-"Congo, Dem. Rep.",0.0,0,0.0
-"Yemen, Rep.",0.0,0,0.0
-Cayman Islands,0.0,0,0.0
-Africa Western and Central,0.0,0,0.0
-West Bank and Gaza,0.0,0,0.0
-Aruba,0.0,0,0.0
-Channel Islands,0.0,0,0.0
-Caribbean small states,0.0,0,0.0
-Arab World,0.0,0,0.0
-Faroe Islands,0.0,0,0.0
-Curacao,0.0,0,0.0
 Middle East & North Africa (IDA & IBRD countries),0.0,0,0.0
-New Caledonia,0.0,0,0.0
-IDA blend,0.0,0,0.0
-IDA only,0.0,0,0.0
-IDA total,0.0,0,0.0
-"Iran, Islamic Rep.",0.0,0,0.0
-Isle of Man,0.0,0,0.0
-Middle East & North Africa (excluding high income),0.0,0,0.0
 Middle East & North Africa,0.0,0,0.0
-Sub-Saharan Africa (excluding high income),0.0,0,0.0
 "Micronesia, Fed. Sts.",0.0,0,0.0
+Turks and Caicos Islands,0.0,0,0.0
+Cayman Islands,0.0,0,0.0
+Middle East & North Africa (excluding high income),0.0,0,0.0
+Caribbean small states,0.0,0,0.0
 "Korea, Dem. People's Rep.",0.0,0,0.0
 Kosovo,0.0,0,0.0
-Lao PDR,0.0,0,0.0
+British Virgin Islands,0.0,0,0.0
+Faroe Islands,0.0,0,0.0
+Aruba,0.0,0,0.0
 Lower middle income,0.0,0,0.0
+"Bahamas, The",0.0,0,0.0
 Low income,0.0,0,0.0
+Arab World,0.0,0,0.0
+"Venezuela, RB",0.0,0,0.0
+American Samoa,0.0,0,0.0
+Lao PDR,0.0,0,0.0
+Virgin Islands (U.S.),0.0,0,0.0
+West Bank and Gaza,0.0,0,0.0
+Africa Western and Central,0.0,0,0.0
+"Yemen, Rep.",0.0,0,0.0
 Africa Eastern and Southern,0.0,0,0.0
-Northern Mariana Islands,0.0,0,0.0
-Not classified,0.0,0,0.0
-Heavily indebted poor countries (HIPC),0.0,0,0.0
-Pacific island small states,0.0,0,0.0
-Sub-Saharan Africa (IDA & IBRD countries),0.0,0,0.0
-Sub-Saharan Africa,0.0,0,0.0
-St. Vincent and the Grenadines,0.0,0,0.0
-St. Martin (French part),0.0,0,0.0
+Channel Islands,0.0,0,0.0
+"Congo, Rep.",0.0,0,0.0
+Isle of Man,0.0,0,0.0
 St. Lucia,0.0,0,0.0
-St. Kitts and Nevis,0.0,0,0.0
-Early-demographic dividend,0.0,0,0.0
-Small states,0.0,0,0.0
-Sint Maarten (Dutch part),0.0,0,0.0
 Fragile and conflict affected situations,0.0,0,0.0
 French Polynesia,0.0,0,0.0
-Gibraltar,0.0,0,0.0
+Sint Maarten (Dutch part),0.0,0,0.0
 Pre-demographic dividend,0.0,0,0.0
+Gibraltar,0.0,0,0.0
 Greenland,0.0,0,0.0
+Small states,0.0,0,0.0
 Guam,0.0,0,0.0
+Early-demographic dividend,0.0,0,0.0
+Pacific island small states,0.0,0,0.0
+Not classified,0.0,0,0.0
+Heavily indebted poor countries (HIPC),0.0,0,0.0
+St. Kitts and Nevis,0.0,0,0.0
+St. Martin (French part),0.0,0,0.0
+"Iran, Islamic Rep.",0.0,0,0.0
+St. Vincent and the Grenadines,0.0,0,0.0
+Sub-Saharan Africa,0.0,0,0.0
+Sub-Saharan Africa (IDA & IBRD countries),0.0,0,0.0
+Sub-Saharan Africa (excluding high income),0.0,0,0.0
+Northern Mariana Islands,0.0,0,0.0
+New Caledonia,0.0,0,0.0
+IDA blend,0.0,0,0.0
+Curacao,0.0,0,0.0
+IDA only,0.0,0,0.0
+Cote d'Ivoire,0.0,0,0.0
+IDA total,0.0,0,0.0
+Tanzania,0.0,0,0.0
+"Congo, Dem. Rep.",0.0,0,0.0
 Least developed countries: UN classification,0.0,0,0.0
