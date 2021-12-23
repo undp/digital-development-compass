@@ -1,0 +1,140 @@
+Pillar,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Infrastructure,China,2019.0,International patent applications by origin (PCT System),4.22045982192364e-05,5,True,Innovation Ecosystem
+Infrastructure,United States of America (the),2019.0,International patent applications by origin (PCT System),0.00017616425023518948,6,True,Innovation Ecosystem
+Infrastructure,Japan,2019.0,International patent applications by origin (PCT System),0.00041705958719448396,6,True,Innovation Ecosystem
+Infrastructure,Germany,2019.0,International patent applications by origin (PCT System),0.0002329078123367416,6,True,Innovation Ecosystem
+Infrastructure,Republic of Korea (the),2019.0,International patent applications by origin (PCT System),0.0003690839859554309,6,True,Innovation Ecosystem
+Infrastructure,France,2019.0,International patent applications by origin (PCT System),0.00011797957933186918,6,True,Innovation Ecosystem
+Infrastructure,United Kingdom of Great Britain and Northern Ireland (the),2019.0,International patent applications by origin (PCT System),8.65696883672258e-05,5,True,Innovation Ecosystem
+Infrastructure,Switzerland,2019.0,International patent applications by origin (PCT System),0.0005375917754289073,6,True,Innovation Ecosystem
+Infrastructure,Sweden,2019.0,International patent applications by origin (PCT System),0.0004071452483133631,6,True,Innovation Ecosystem
+Infrastructure,Netherlands (the),2019.0,International patent applications by origin (PCT System),0.0002312498782060913,6,True,Innovation Ecosystem
+Infrastructure,Italy,2019.0,International patent applications by origin (PCT System),5.672278801677863e-05,5,True,Innovation Ecosystem
+Infrastructure,Canada,2019.0,International patent applications by origin (PCT System),7.211375278160646e-05,5,True,Innovation Ecosystem
+Infrastructure,Turkey,2019.0,International patent applications by origin (PCT System),2.4667502029585254e-05,5,True,Innovation Ecosystem
+Infrastructure,India,2019.0,International patent applications by origin (PCT System),1.5024687662211556e-06,3,True,Innovation Ecosystem
+Infrastructure,Israel,2019.0,International patent applications by origin (PCT System),0.0002215595316986967,6,True,Innovation Ecosystem
+Infrastructure,Australia,2019.0,International patent applications by origin (PCT System),6.970029857195206e-05,5,True,Innovation Ecosystem
+Infrastructure,Finland,2019.0,International patent applications by origin (PCT System),0.0002997316360493668,6,True,Innovation Ecosystem
+Infrastructure,Spain,2019.0,International patent applications by origin (PCT System),3.2100296517206934e-05,5,True,Innovation Ecosystem
+Infrastructure,Denmark,2019.0,International patent applications by origin (PCT System),0.0002497238762511562,6,True,Innovation Ecosystem
+Infrastructure,Austria,2019.0,International patent applications by origin (PCT System),0.00016261407760430273,6,True,Innovation Ecosystem
+Infrastructure,Belgium,2019.0,International patent applications by origin (PCT System),0.00011793910338428651,6,True,Innovation Ecosystem
+Infrastructure,Russian Federation (the),2019.0,International patent applications by origin (PCT System),8.43453733630012e-06,4,True,Innovation Ecosystem
+Infrastructure,Singapore,2019.0,International patent applications by origin (PCT System),0.00018041335171013097,6,True,Innovation Ecosystem
+Infrastructure,Norway,2019.0,International patent applications by origin (PCT System),0.00014603874121710668,6,True,Innovation Ecosystem
+Infrastructure,Brazil,2019.0,International patent applications by origin (PCT System),3.0514165729986807e-06,4,True,Innovation Ecosystem
+Infrastructure,Ireland,2019.0,International patent applications by origin (PCT System),0.00013010858595070466,6,True,Innovation Ecosystem
+Infrastructure,Saudi Arabia,2019.0,International patent applications by origin (PCT System),1.6108073970726902e-05,5,True,Innovation Ecosystem
+Infrastructure,Poland,2019.0,International patent applications by origin (PCT System),9.587658260564368e-06,4,True,Innovation Ecosystem
+Infrastructure,Luxembourg,2019.0,International patent applications by origin (PCT System),0.0005612894172751335,6,True,Innovation Ecosystem
+Infrastructure,South Africa,2019.0,International patent applications by origin (PCT System),4.798639276671217e-06,4,True,Innovation Ecosystem
+Infrastructure,New Zealand,2019.0,International patent applications by origin (PCT System),5.0207860542646557e-05,5,True,Innovation Ecosystem
+Infrastructure,Iran (Islamic Republic of),2019.0,International patent applications by origin (PCT System),2.7619014342988333e-06,4,True,Innovation Ecosystem
+Infrastructure,Chile,2019.0,International patent applications by origin (PCT System),1.1819311224361922e-05,5,True,Innovation Ecosystem
+Infrastructure,Mexico,2019.0,International patent applications by origin (PCT System),1.724468647901903e-06,3,True,Innovation Ecosystem
+Infrastructure,Malaysia,2019.0,International patent applications by origin (PCT System),6.322420470445048e-06,4,True,Innovation Ecosystem
+Infrastructure,Portugal,2019.0,International patent applications by origin (PCT System),1.9054539048826576e-05,5,True,Innovation Ecosystem
+Infrastructure,Czechia,2019.0,International patent applications by origin (PCT System),1.7428997916953637e-05,5,True,Innovation Ecosystem
+Infrastructure,Ukraine,2019.0,International patent applications by origin (PCT System),4.145432309224558e-06,4,True,Innovation Ecosystem
+Infrastructure,Thailand,2019.0,International patent applications by origin (PCT System),2.0969304371047187e-06,3,True,Innovation Ecosystem
+Infrastructure,Colombia,2019.0,International patent applications by origin (PCT System),2.522872571315499e-06,4,True,Innovation Ecosystem
+Infrastructure,Greece,2019.0,International patent applications by origin (PCT System),1.1472187593211525e-05,5,True,Innovation Ecosystem
+Infrastructure,United Arab Emirates (the),2019.0,International patent applications by origin (PCT System),1.105365258738373e-05,5,True,Innovation Ecosystem
+Infrastructure,Slovenia,2019.0,International patent applications by origin (PCT System),4.2616663115278074e-05,5,True,Innovation Ecosystem
+Infrastructure,Barbados,2019.0,International patent applications by origin (PCT System),0.0002752411844429502,6,True,Innovation Ecosystem
+Infrastructure,Bulgaria,2019.0,International patent applications by origin (PCT System),7.024323224376523e-06,4,True,Innovation Ecosystem
+Infrastructure,Antigua and Barbuda,2019.0,International patent applications by origin (PCT System),0.00048396231272203056,6,True,Innovation Ecosystem
+Infrastructure,Cyprus,2019.0,International patent applications by origin (PCT System),3.6710290728816075e-05,5,True,Innovation Ecosystem
+Infrastructure,Egypt,2019.0,International patent applications by origin (PCT System),4.3829906651463266e-07,2,True,Innovation Ecosystem
+Infrastructure,Romania,2019.0,International patent applications by origin (PCT System),2.168117033718556e-06,4,True,Innovation Ecosystem
+Infrastructure,Croatia,2019.0,International patent applications by origin (PCT System),1.0085473155053326e-05,4,True,Innovation Ecosystem
+Infrastructure,Iceland,2019.0,International patent applications by origin (PCT System),0.00011371105742963088,6,True,Innovation Ecosystem
+Infrastructure,Slovakia,2019.0,International patent applications by origin (PCT System),7.517215799280804e-06,4,True,Innovation Ecosystem
+Infrastructure,Estonia,2019.0,International patent applications by origin (PCT System),2.8638222380318606e-05,5,True,Innovation Ecosystem
+Infrastructure,Malta,2019.0,International patent applications by origin (PCT System),7.538755153135924e-05,5,True,Innovation Ecosystem
+Infrastructure,Serbia,2019.0,International patent applications by origin (PCT System),5.471377138426561e-06,4,True,Innovation Ecosystem
+Infrastructure,Argentina,2019.0,International patent applications by origin (PCT System),8.010910504066071e-07,3,True,Innovation Ecosystem
+Infrastructure,Latvia,2019.0,International patent applications by origin (PCT System),1.8810526788802722e-05,5,True,Innovation Ecosystem
+Infrastructure,Morocco,2019.0,International patent applications by origin (PCT System),9.32227959567409e-07,3,True,Innovation Ecosystem
+Infrastructure,Viet Nam,2019.0,International patent applications by origin (PCT System),3.5247000822333263e-07,2,True,Innovation Ecosystem
+Infrastructure,Lithuania,2019.0,International patent applications by origin (PCT System),1.1452552254953856e-05,5,True,Innovation Ecosystem
+Infrastructure,Kazakhstan,2019.0,International patent applications by origin (PCT System),1.4583815972119634e-06,3,True,Innovation Ecosystem
+Infrastructure,Peru,2019.0,International patent applications by origin (PCT System),7.997425567191263e-07,3,True,Innovation Ecosystem
+Infrastructure,Qatar,2019.0,International patent applications by origin (PCT System),8.827462305853208e-06,4,True,Innovation Ecosystem
+Infrastructure,Philippines (the),2019.0,International patent applications by origin (PCT System),1.9423470333729072e-07,2,True,Innovation Ecosystem
+Infrastructure,Jordan,2019.0,International patent applications by origin (PCT System),1.8808720950549199e-06,3,True,Innovation Ecosystem
+Infrastructure,Ecuador,2019.0,International patent applications by origin (PCT System),1.0360513045699014e-06,3,True,Innovation Ecosystem
+Infrastructure,Panama,2019.0,International patent applications by origin (PCT System),4.003353397198594e-06,4,True,Innovation Ecosystem
+Infrastructure,Sri Lanka,2019.0,International patent applications by origin (PCT System),7.797092143283034e-07,2,True,Innovation Ecosystem
+Infrastructure,Belarus,2019.0,International patent applications by origin (PCT System),1.69890173435569e-06,3,True,Innovation Ecosystem
+Infrastructure,Bermuda,2019.0,International patent applications by origin (PCT System),0.00023469403720682803,6,True,Innovation Ecosystem
+Infrastructure,Dominican Republic (the),2019.0,International patent applications by origin (PCT System),1.2105458658601576e-06,3,True,Innovation Ecosystem
+Infrastructure,Azerbaijan,2019.0,International patent applications by origin (PCT System),1.1970930988281156e-06,3,True,Innovation Ecosystem
+Infrastructure,Costa Rica,2019.0,International patent applications by origin (PCT System),2.3773858305030884e-06,4,True,Innovation Ecosystem
+Infrastructure,Monaco,2019.0,International patent applications by origin (PCT System),0.00030795288320886906,6,True,Innovation Ecosystem
+Infrastructure,Tunisia,2019.0,International patent applications by origin (PCT System),9.405953335697363e-07,3,True,Innovation Ecosystem
+Infrastructure,Mauritius,2019.0,International patent applications by origin (PCT System),7.900697710614824e-06,4,True,Innovation Ecosystem
+Infrastructure,Oman,2019.0,International patent applications by origin (PCT System),2.0100534835030892e-06,3,True,Innovation Ecosystem
+Infrastructure,Uruguay,2019.0,International patent applications by origin (PCT System),2.8887282114063746e-06,4,True,Innovation Ecosystem
+Infrastructure,Algeria,2019.0,International patent applications by origin (PCT System),2.0904440367923724e-07,2,True,Innovation Ecosystem
+Infrastructure,Cuba,2019.0,International patent applications by origin (PCT System),7.941070901057433e-07,2,True,Innovation Ecosystem
+Infrastructure,Kenya,2019.0,International patent applications by origin (PCT System),1.5216656563123722e-07,2,True,Innovation Ecosystem
+Infrastructure,Indonesia,2019.0,International patent applications by origin (PCT System),2.5865996615168293e-08,1,True,Innovation Ecosystem
+Infrastructure,Republic of Moldova (the),2019.0,International patent applications by origin (PCT System),2.628366609080406e-06,4,True,Innovation Ecosystem
+Infrastructure,Georgia,2019.0,International patent applications by origin (PCT System),1.612833423069593e-06,3,True,Innovation Ecosystem
+Infrastructure,Kuwait,2019.0,International patent applications by origin (PCT System),1.1884736124392303e-06,3,True,Innovation Ecosystem
+Infrastructure,North Macedonia,2019.0,International patent applications by origin (PCT System),2.399856392593467e-06,4,True,Innovation Ecosystem
+Infrastructure,Saint Kitts and Nevis,2019.0,International patent applications by origin (PCT System),9.46360298292766e-05,6,True,Innovation Ecosystem
+Infrastructure,San Marino,2019.0,International patent applications by origin (PCT System),0.00014764942121426884,6,True,Innovation Ecosystem
+Infrastructure,Andorra,2019.0,International patent applications by origin (PCT System),5.184973945505924e-05,5,True,Innovation Ecosystem
+Infrastructure,Senegal,2019.0,International patent applications by origin (PCT System),2.454535558304363e-07,2,True,Innovation Ecosystem
+Infrastructure,Albania,2019.0,International patent applications by origin (PCT System),1.0510859294279885e-06,3,True,Innovation Ecosystem
+Infrastructure,Armenia,2019.0,International patent applications by origin (PCT System),1.0142920511960532e-06,3,True,Innovation Ecosystem
+Infrastructure,Lebanon,2019.0,International patent applications by origin (PCT System),4.3759150220640926e-07,2,True,Innovation Ecosystem
+Infrastructure,Namibia,2019.0,International patent applications by origin (PCT System),1.2026342500613344e-06,3,True,Innovation Ecosystem
+Infrastructure,Sudan (the),2019.0,International patent applications by origin (PCT System),7.007178644305732e-08,2,True,Innovation Ecosystem
+Infrastructure,Syrian Arab Republic (the),2019.0,International patent applications by origin (PCT System),1.7574556541214794e-07,2,True,Innovation Ecosystem
+Infrastructure,Trinidad and Tobago,2019.0,International patent applications by origin (PCT System),2.1505854251958287e-06,3,True,Innovation Ecosystem
+Infrastructure,Bahamas (the),2019.0,International patent applications by origin (PCT System),5.1349727589695135e-06,4,True,Innovation Ecosystem
+Infrastructure,Bahrain,2019.0,International patent applications by origin (PCT System),1.218647252803498e-06,3,True,Innovation Ecosystem
+Infrastructure,Bangladesh,2019.0,International patent applications by origin (PCT System),1.2266463929821892e-08,1,True,Innovation Ecosystem
+Infrastructure,Bosnia and Herzegovina,2019.0,International patent applications by origin (PCT System),6.058773740547556e-07,2,True,Innovation Ecosystem
+Infrastructure,Brunei Darussalam,2019.0,International patent applications by origin (PCT System),4.615782282781286e-06,4,True,Innovation Ecosystem
+Infrastructure,El Salvador,2019.0,International patent applications by origin (PCT System),3.0990695043813097e-07,2,True,Innovation Ecosystem
+Infrastructure,Iraq,2019.0,International patent applications by origin (PCT System),5.087791236935919e-08,2,True,Innovation Ecosystem
+Infrastructure,Kyrgyzstan,2019.0,International patent applications by origin (PCT System),3.097797466001673e-07,2,True,Innovation Ecosystem
+Infrastructure,Uganda,2019.0,International patent applications by origin (PCT System),4.517774245330095e-08,2,True,Innovation Ecosystem
+Infrastructure,Zimbabwe,2019.0,International patent applications by origin (PCT System),1.3656097006904454e-07,2,True,Innovation Ecosystem
+Infrastructure,Burkina Faso,2019.0,International patent applications by origin (PCT System),4.9209249193325083e-08,2,True,Innovation Ecosystem
+Infrastructure,Cameroon,2019.0,International patent applications by origin (PCT System),3.864527145926516e-08,1,True,Innovation Ecosystem
+Infrastructure,Congo (the),2019.0,International patent applications by origin (PCT System),1.8585619488434542e-07,2,True,Innovation Ecosystem
+Infrastructure,Côte d'Ivoire,2019.0,International patent applications by origin (PCT System),3.888545875936566e-08,2,True,Innovation Ecosystem
+Infrastructure,Democratic People's Republic of Korea (the),2019.0,International patent applications by origin (PCT System),3.896181111329557e-08,2,True,Innovation Ecosystem
+Infrastructure,Ethiopia,2019.0,International patent applications by origin (PCT System),8.922299768804476e-09,1,True,Innovation Ecosystem
+Infrastructure,Fiji,2019.0,International patent applications by origin (PCT System),1.1236523194993006e-06,3,True,Innovation Ecosystem
+Infrastructure,Jamaica,2019.0,International patent applications by origin (PCT System),3.391811556376826e-07,2,True,Innovation Ecosystem
+Infrastructure,Montenegro,2019.0,International patent applications by origin (PCT System),1.6076446719440282e-06,3,True,Innovation Ecosystem
+Infrastructure,Mozambique,2019.0,International patent applications by origin (PCT System),3.293152156835186e-08,1,True,Innovation Ecosystem
+Infrastructure,Nigeria,2019.0,International patent applications by origin (PCT System),4.976025434814681e-09,1,True,Innovation Ecosystem
+Infrastructure,Pakistan,2019.0,International patent applications by origin (PCT System),4.617544553544555e-09,1,True,Innovation Ecosystem
+Infrastructure,Samoa,2019.0,International patent applications by origin (PCT System),5.073746911356568e-06,4,True,Innovation Ecosystem
+Infrastructure,Seychelles,2019.0,International patent applications by origin (PCT System),1.0243277848911652e-05,5,True,Innovation Ecosystem
+Infrastructure,Turkmenistan,2019.0,International patent applications by origin (PCT System),1.682908415787431e-07,2,True,Innovation Ecosystem
+Infrastructure,Uzbekistan,2019.0,International patent applications by origin (PCT System),2.977932034657173e-08,1,True,Innovation Ecosystem
+Infrastructure,Venezuela (Bolivarian Republic of),2019.0,International patent applications by origin (PCT System),3.5068242273440484e-08,1,True,Innovation Ecosystem
+Infrastructure,Belize,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Democratic Republic of the Congo (the),2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Guatemala,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Guyana,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Lao People's Democratic Republic (the),2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Libya,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Madagascar,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Mongolia,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Nicaragua,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Niger (the),2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Rwanda,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Tajikistan,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,United Republic of Tanzania (the),2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Yemen,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
+Infrastructure,Zambia,2019.0,International patent applications by origin (PCT System),0.0,1,True,Innovation Ecosystem
