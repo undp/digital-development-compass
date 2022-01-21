@@ -91,9 +91,9 @@ Infrastructure,Connectivity Technology,Dominica (Commonwealth of),0.0,0,0.0
 Infrastructure,Connectivity Technology,Dominican Rep.,2.7673656549916394,4,0.5031573918166617
 Infrastructure,Connectivity Technology,Dominican Republic,3.719373924653589,15,2.535936766809265
 Infrastructure,Connectivity Technology,Early-demographic dividend,5.6271276295,1,0.25577852861363637
-Infrastructure,Connectivity Technology,East Asia & Pacific,5.906410476,1,0.26847320345454545
-Infrastructure,Connectivity Technology,East Asia & Pacific (IDA & IBRD countries),5.926556844,1,0.26938894745454545
-Infrastructure,Connectivity Technology,East Asia & Pacific (excluding high income),5.8964236505,1,0.2680192568409091
+Infrastructure,Connectivity Technology,East Asia & Pacific,5.906813862,1,0.2684915391818182
+Infrastructure,Connectivity Technology,East Asia & Pacific (IDA & IBRD countries),5.9269113345,1,0.2694050606590909
+Infrastructure,Connectivity Technology,East Asia & Pacific (excluding high income),5.8969174925,1,0.2680417042045455
 Infrastructure,Connectivity Technology,East and South Asia,4.285,1,0.1947727272727273
 Infrastructure,Connectivity Technology,Eastern Africa,0.0,0,0.0
 Infrastructure,Connectivity Technology,Eastern Europe and Central Asia,4.57,1,0.20772727272727273
@@ -108,9 +108,9 @@ Infrastructure,Connectivity Technology,Eswatini,2.4692387373333338,13,1.45909561
 Infrastructure,Connectivity Technology,Ethiopia,2.4730637704975833,15,1.6861798435210793
 Infrastructure,Connectivity Technology,Euro area,6.0,1,0.2727272727272727
 Infrastructure,Connectivity Technology,Europe,1.4702391264429426,1,0.06682905120195194
-Infrastructure,Connectivity Technology,Europe & Central Asia,5.999666314500001,1,0.2727121052045455
-Infrastructure,Connectivity Technology,Europe & Central Asia (IDA & IBRD countries),5.9993331895,1,0.2726969631590909
-Infrastructure,Connectivity Technology,Europe & Central Asia (excluding high income),5.999266262,1,0.272693921
+Infrastructure,Connectivity Technology,Europe & Central Asia,5.9996663135,1,0.2727121051590909
+Infrastructure,Connectivity Technology,Europe & Central Asia (IDA & IBRD countries),5.9993331845,1,0.2726969629318182
+Infrastructure,Connectivity Technology,Europe & Central Asia (excluding high income),5.9992662565,1,0.27269392075000004
 Infrastructure,Connectivity Technology,Europe (other),0.0,0,0.0
 Infrastructure,Connectivity Technology,European Union,6.0,1,0.2727272727272727
 Infrastructure,Connectivity Technology,Faroe Islands,6.0,1,0.2727272727272727
@@ -149,8 +149,8 @@ Infrastructure,Connectivity Technology,"Hong Kong SAR, China",5.507729445555555,
 Infrastructure,Connectivity Technology,"Hong Kong, China",5.217832964,5,1.1858711281818182
 Infrastructure,Connectivity Technology,"Hongkong, China",6.0,1,0.2727272727272727
 Infrastructure,Connectivity Technology,Hungary,4.4684602566725165,22,4.4684602566725165
-Infrastructure,Connectivity Technology,IBRD only,5.925103221,1,0.2693228736818182
-Infrastructure,Connectivity Technology,IDA & IBRD total,5.4253632735,1,0.2466074215227273
+Infrastructure,Connectivity Technology,IBRD only,5.925258824,1,0.26932994654545456
+Infrastructure,Connectivity Technology,IDA & IBRD total,5.426250121000001,1,0.2466477327727273
 Infrastructure,Connectivity Technology,IDA blend,4.3419534285,1,0.19736151947727273
 Infrastructure,Connectivity Technology,IDA only,3.8038523145,1,0.17290237793181817
 Infrastructure,Connectivity Technology,IDA total,3.984724898,1,0.181123859
@@ -189,7 +189,7 @@ Infrastructure,Connectivity Technology,Lao PDR,3.8693487294999995,5,0.8793974385
 Infrastructure,Connectivity Technology,Lao People's Dem. Rep.,4.5,1,0.20454545454545456
 Infrastructure,Connectivity Technology,Lao People's Democratic Republic,2.1915,1,0.09961363636363636
 Infrastructure,Connectivity Technology,Laos,3.374204808071591,9,1.3803565123929238
-Infrastructure,Connectivity Technology,Late-demographic dividend,5.9685068135,1,0.27129576425
+Infrastructure,Connectivity Technology,Late-demographic dividend,5.9686435755,1,0.2713019807045455
 Infrastructure,Connectivity Technology,Latin America & Caribbean,5.921214735,1,0.26914612431818186
 Infrastructure,Connectivity Technology,Latin America & Caribbean (excluding high income),5.9136359815,1,0.2688016355227273
 Infrastructure,Connectivity Technology,Latin America & the Caribbean (IDA & IBRD countries),5.919422330500001,1,0.26906465138636365
@@ -202,7 +202,7 @@ Infrastructure,Connectivity Technology,Liberia,2.195005269879713,17,1.6961404358
 Infrastructure,Connectivity Technology,Libya,1.9518493135143935,14,1.2420859267818867
 Infrastructure,Connectivity Technology,Liechtenstein,3.002400674022959,7,0.9553093053709415
 Infrastructure,Connectivity Technology,Lithuania,4.349755472057833,21,4.152039314237022
-Infrastructure,Connectivity Technology,Low & middle income,5.410521527,1,0.2459327966818182
+Infrastructure,Connectivity Technology,Low & middle income,5.411438755,1,0.24597448886363638
 Infrastructure,Connectivity Technology,Low income,3.0461670905,1,0.13846214047727273
 Infrastructure,Connectivity Technology,Low-income Countries,3.55,1,0.16136363636363635
 Infrastructure,Connectivity Technology,Lower middle income,5.451776276,1,0.24780801254545456
@@ -232,7 +232,7 @@ Infrastructure,Connectivity Technology,Middle East & North Africa,5.86162699,1,0
 Infrastructure,Connectivity Technology,Middle East & North Africa (IDA & IBRD countries),5.835756485000001,1,0.26526165840909094
 Infrastructure,Connectivity Technology,Middle East & North Africa (excluding high income),5.8377323925,1,0.26535147238636364
 Infrastructure,Connectivity Technology,Middle East and North Africa,4.355,1,0.19795454545454547
-Infrastructure,Connectivity Technology,Middle income,5.675258436,1,0.25796629254545456
+Infrastructure,Connectivity Technology,Middle income,5.675820214000001,1,0.2579918279090909
 Infrastructure,Connectivity Technology,Moldova,3.641918266014001,18,2.97975130855691
 Infrastructure,Connectivity Technology,Moldova (Republic of),3.5325,1,0.16056818181818183
 Infrastructure,Connectivity Technology,Monaco,3.0708494056054803,7,0.9770884472381073
@@ -367,7 +367,7 @@ Infrastructure,Connectivity Technology,United Republic of Tanzania,2.215,1,0.100
 Infrastructure,Connectivity Technology,United States,3.7833917875793275,9,1.5477511858279067
 Infrastructure,Connectivity Technology,United States Virgin Islands,1.482302922236152,1,0.06737740555618872
 Infrastructure,Connectivity Technology,United States of America,5.436283916090909,11,2.7181419580454547
-Infrastructure,Connectivity Technology,Upper middle income,5.9688701305,1,0.2713122786590909
+Infrastructure,Connectivity Technology,Upper middle income,5.9689944515,1,0.2713179296136364
 Infrastructure,Connectivity Technology,Upper-middle-income Countries,4.54,1,0.20636363636363636
 Infrastructure,Connectivity Technology,Uruguay,3.970528528057301,19,3.4290928196858506
 Infrastructure,Connectivity Technology,Uzbekistan,3.634855298355736,21,3.46963460297593
@@ -382,7 +382,7 @@ Infrastructure,Connectivity Technology,Virgin Islands (U.S.),6.0,1,0.27272727272
 Infrastructure,Connectivity Technology,West Bank and Gaza,6.0,1,0.2727272727272727
 Infrastructure,Connectivity Technology,Western Africa,0.0,0,0.0
 Infrastructure,Connectivity Technology,Western Sahara,1.0,1,0.045454545454545456
-Infrastructure,Connectivity Technology,World,3.3998160087811864,2,0.3090741826164715
+Infrastructure,Connectivity Technology,World,3.4001405182811864,2,0.30910368348010786
 Infrastructure,Connectivity Technology,Yemen,1.6492510376754717,12,0.8995914750957117
 Infrastructure,Connectivity Technology,"Yemen, Rep.",3.006961436875,4,0.5467202612500001
 Infrastructure,Connectivity Technology,Zambia,2.835283461869384,19,2.4486538988871955
