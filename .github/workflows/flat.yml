@@ -904,3 +904,11 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv
            downloaded_filename: data/GDP.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv
+           downloaded_filename: data/inherent_cyber_risk.csv
+           postprocess: ./process_raw_data.js
