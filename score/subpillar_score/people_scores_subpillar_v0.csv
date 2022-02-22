@@ -1,886 +1,886 @@
 Pillar,Sub-Pillar,Country Name,agg_score,count_source,agg_score_wt
-People,Culture,Afghanistan,2.3525,2,0.31366666666666665
-People,Culture,Albania,4.6696611405,2,0.6226214854
-People,Culture,Algeria,4.83133594525,2,0.6441781260333334
-People,Culture,Andorra,5.34,1,0.356
-People,Culture,Angola,3.9019625092499997,2,0.5202616679
-People,Culture,Antigua and Barbuda,4.890000000000001,1,0.326
-People,Culture,Argentina,5.017071482333333,3,1.0034142964666666
-People,Culture,Armenia,3.25353690625,2,0.43380492083333333
-People,Culture,Australia,5.4816666666666665,3,1.0963333333333334
-People,Culture,Austria,4.941660237875,4,1.3177760634333333
-People,Culture,Azerbaijan,3.525020733,2,0.4700027644
-People,Culture,Bahamas,5.535,2,0.738
-People,Culture,Bahrain,5.09133594525,2,0.6788447927
-People,Culture,Bangladesh,3.9933105468333334,3,0.7986621093666667
-People,Culture,Barbados,5.535,2,0.738
-People,Culture,Belarus,4.5973361205,2,0.6129781494
-People,Culture,Belgium,4.932176050833333,3,0.9864352101666667
-People,Culture,Belize,4.54,2,0.6053333333333333
-People,Culture,Benin,3.09947366725,2,0.4132631556333333
-People,Culture,Bhutan,3.6765828705,2,0.4902110494
-People,Culture,Bolivia,5.486214447,1,0.3657476298
-People,Culture,Bolivia (Plurinational State of),4.59,1,0.306
-People,Culture,Bosnia and Herzegovina,4.52677965175,2,0.6035706202333333
-People,Culture,Botswana,3.6125,2,0.48166666666666663
-People,Culture,Brazil,4.225342540833334,3,0.8450685081666669
-People,Culture,Brunei Darussalam,4.804901619000001,2,0.6406535492000001
-People,Culture,Bulgaria,4.5505986595,2,0.6067464879333334
-People,Culture,Burkina Faso,2.59324057575,2,0.3457654101
-People,Culture,Burundi,2.2509511304,2,0.30012681738666663
-People,Culture,Cabo Verde,4.73316059125,2,0.6310880788333333
-People,Culture,Cambodia,3.01,2,0.4013333333333333
-People,Culture,Cameroon,3.6077142904999997,2,0.4810285720666666
-People,Culture,Canada,5.406666666666666,3,1.0813333333333333
-People,Culture,Central African Republic,2.6031353282500005,2,0.3470847104333334
-People,Culture,Chad,2.26873309125,2,0.3024977455
-People,Culture,Chile,5.218738149,3,1.0437476298000001
-People,Culture,China,5.019692967666667,3,1.0039385935333334
-People,Culture,Colombia,3.87831450455,3,0.77566290091
-People,Culture,Comoros,2.9114097690000005,2,0.38818796920000004
-People,Culture,Congo,3.6562706565000003,2,0.48750275420000005
-People,Culture,Congo (Democratic Republic of the),3.4,1,0.22666666666666666
-People,Culture,"Congo, Democratic Republic",2.9793006895000005,1,0.1986200459666667
-People,Culture,Costa Rica,5.2681072235,2,0.7024142964666668
-People,Culture,Cote d'Ivoire,3.400428581,1,0.22669523873333333
-People,Culture,Croatia,4.704279651749999,2,0.6272372868999999
-People,Culture,Cuba,4.915,1,0.32766666666666666
-People,Culture,Cyprus,5.20356147775,2,0.6938081970333333
-People,Culture,Czech Republic,3.68883,1,0.24592199999999997
-People,Culture,Czechia,5.14357185375,2,0.6858095805
-People,Culture,Côte d'Ivoire,3.69,1,0.246
-People,Culture,Denmark,5.22963625,4,1.3945696666666667
-People,Culture,Djibouti,3.62,1,0.24133333333333334
-People,Culture,Dominica,4.71,1,0.314
-People,Culture,Dominican Republic,5.1331072235,2,0.6844142964666666
-People,Culture,Ecuador,5.1406072235,2,0.6854142964666666
-People,Culture,Egypt,4.72883594525,2,0.6305114593666666
-People,Culture,El Salvador,4.9256072235,2,0.6567476298
-People,Culture,Equatorial Guinea,3.96,1,0.264
-People,Culture,Eritrea,3.295,1,0.21966666666666665
-People,Culture,Estonia,4.76740448225,4,1.2713078619333333
-People,Culture,Eswatini,1.25,1,0.08333333333333333
-People,Culture,Eswatini (Kingdom of),4.055,1,0.2703333333333333
-People,Culture,Ethiopia,3.406833744,2,0.4542444992
-People,Culture,Fiji,3.57522403725,2,0.4766965383
-People,Culture,Finland,5.261924905,3,1.052384981
-People,Culture,France,5.101872038125,4,1.3604992101666666
-People,Culture,Gabon,4.041939849749999,2,0.5389253132999999
-People,Culture,Gambia,2.315,2,0.30866666666666664
-People,Culture,Georgia,3.40827126975,2,0.4544361693
-People,Culture,Germany,4.821187737875,4,1.2856500634333334
-People,Culture,Ghana,4.2025,2,0.5603333333333332
-People,Culture,Greece,4.595030132000001,3,0.9190060264000002
-People,Culture,Grenada,4.895,1,0.3263333333333333
-People,Culture,Guatemala,4.9006072235,2,0.6534142964666666
-People,Culture,Guinea,2.6978533555,2,0.3597137807333333
-People,Culture,Guinea-Bissau,2.515845871,2,0.3354461161333333
-People,Culture,Guyana,5.205,2,0.694
-People,Culture,Haiti,3.15936841975,2,0.4212491226333333
-People,Culture,Honduras,4.8281072235,2,0.6437476298
-People,Culture,Hong Kong,5.415,2,0.722
-People,Culture,"Hong Kong, China (SAR)",5.745,1,0.383
-People,Culture,Hungary,4.531176794666666,3,0.9062353589333333
-People,Culture,Iceland,5.452148333333334,3,1.0904296666666669
-People,Culture,India,4.573294792166666,3,0.9146589584333333
-People,Culture,Indonesia,4.713817494666667,3,0.9427634989333336
-People,Culture,Iran,3.5998460770000005,1,0.23998973846666669
-People,Culture,Iran (Islamic Republic of),4.915,1,0.32766666666666666
-People,Culture,Iraq,4.64633594525,2,0.6195114593666666
-People,Culture,Ireland,5.27663,3,1.055326
-People,Culture,Israel,4.761666666666667,3,0.9523333333333334
-People,Culture,Italy,4.250535441499999,3,0.8501070882999999
-People,Culture,Jamaica,5.335,2,0.7113333333333334
-People,Culture,Japan,4.7719336446666665,3,0.9543867289333333
-People,Culture,Jordan,4.78383594525,2,0.6378447926999999
-People,Culture,Kazakhstan,4.272305921,3,0.8544611842000001
-People,Culture,Kenya,4.159889017666666,3,0.8319778035333333
-People,Culture,Kiribati,4.15,1,0.27666666666666667
-People,Culture,Korea (Republic of),5.58,1,0.372
-People,Culture,"Korea, South",5.029592514,1,0.3353061676
-People,Culture,Kuwait,4.97633594525,2,0.6635114593666667
-People,Culture,Kyrgyzstan,3.2198507595,2,0.4293134346
-People,Culture,Lao People's Democratic Republic,4.065,1,0.271
-People,Culture,Laos,3.084914589,1,0.2056609726
-People,Culture,Latvia,4.568431816833333,3,0.9136863633666666
-People,Culture,Lebanon,4.82133594525,2,0.6428447927000001
-People,Culture,Lesotho,2.8925,2,0.38566666666666666
-People,Culture,Liberia,3.65,2,0.48666666666666664
-People,Culture,Libya,4.77133594525,2,0.6361781260333332
-People,Culture,Liechtenstein,5.595000000000001,1,0.37300000000000005
-People,Culture,Lithuania,4.362568664166667,3,0.8725137328333334
-People,Culture,Luxembourg,5.015655317166666,3,1.0031310634333332
-People,Culture,Madagascar,2.74112779625,2,0.36548370616666664
-People,Culture,Malawi,2.3075,2,0.3076666666666667
-People,Culture,Malaysia,4.666601079333334,3,0.9333202158666668
-People,Culture,Maldives,3.8915828705,2,0.5188777160666667
-People,Culture,Mali,2.44295862675,2,0.32572781689999997
-People,Culture,Malta,5.2875,2,0.705
-People,Culture,Marshall Islands,4.52,1,0.3013333333333333
-People,Culture,Mauritania,3.3064412497499998,2,0.4408588333
-People,Culture,Mauritius,4.54711643225,2,0.6062821909666667
-People,Culture,Mexico,4.297628011,3,0.8595256022
-People,Culture,Micronesia (Federated States of),4.1,1,0.2733333333333333
-People,Culture,Moldova,4.68828125,1,0.31255208333333334
-People,Culture,Moldova (Republic of),4.75,1,0.31666666666666665
-People,Culture,Mongolia,3.3365993785000003,2,0.44487991713333336
-People,Culture,Montenegro,4.64927965175,2,0.6199039535666666
-People,Culture,Morocco,4.4892239635,3,0.8978447927
-People,Culture,Mozambique,3.03038410175,2,0.4040512135666667
-People,Culture,Myanmar,4.04787561425,2,0.5397167485666666
-People,Culture,Namibia,2.9400000000000004,2,0.39200000000000007
-People,Culture,Nepal,3.155,2,0.42066666666666663
-People,Culture,Netherlands,4.978902833375,4,1.3277074222333334
-People,Culture,New Zealand,5.416666666666667,3,1.0833333333333335
-People,Culture,Nicaragua,4.8931072235,2,0.6524142964666667
-People,Culture,Niger,2.25873309125,2,0.3011644121666667
-People,Culture,Nigeria,3.8949999365,3,0.7789999873000001
-People,Culture,North Macedonia,3.34919920925,2,0.44655989456666667
-People,Culture,Norway,5.097720000000001,4,1.3593920000000002
-People,Culture,Oman,4.99383594525,2,0.6658447927
-People,Culture,Pakistan,3.61117342,2,0.48148978933333336
-People,Culture,Palau,5.13,1,0.34199999999999997
-People,Culture,"Palestine, State of",4.54,1,0.30266666666666664
-People,Culture,Panama,5.2806072235,2,0.7040809631333332
-People,Culture,Papua New Guinea,4.2875,2,0.5716666666666667
-People,Culture,Paraguay,5.063107223499999,2,0.6750809631333332
-People,Culture,Peru,5.1856072235,2,0.6914142964666666
-People,Culture,Philippines,4.22,2,0.5626666666666666
-People,Culture,Poland,4.5150389615,4,1.2040103897333334
-People,Culture,Portugal,4.503462060833333,3,0.9006924121666666
-People,Culture,Qatar,4.932557296833333,3,0.9865114593666666
-People,Culture,Romania,4.914140625,2,0.65521875
-People,Culture,Russia,4.17,1,0.27799999999999997
-People,Culture,Russian Federation,5.113114891,2,0.6817486521333334
-People,Culture,Rwanda,3.0575,2,0.4076666666666667
-People,Culture,Saint Kitts and Nevis,4.895,1,0.3263333333333333
-People,Culture,Saint Lucia,5.3975,2,0.7196666666666667
-People,Culture,Saint Vincent and the Grenadines,5.345000000000001,2,0.7126666666666668
-People,Culture,Samoa,4.262499904749999,2,0.5683333206333332
-People,Culture,Sao Tome and Principe,4.125,1,0.275
-People,Culture,Saudi Arabia,5.134223963499999,3,1.0268447927
-People,Culture,Senegal,2.89063532825,2,0.38541804376666666
-People,Culture,Serbia,4.5917796517500005,2,0.6122372869
-People,Culture,Seychelles,4.98,1,0.332
-People,Culture,Sierra Leone,3.88,2,0.5173333333333333
-People,Culture,Singapore,5.578333333333333,3,1.1156666666666666
-People,Culture,Slovak Republic,3.94761,1,0.263174
-People,Culture,Slovakia,4.84989013675,2,0.6466520182333333
-People,Culture,Slovenia,4.404341956166667,3,0.8808683912333335
-People,Culture,Solomon Islands,3.5675,2,0.4756666666666666
-People,Culture,South Africa,4.2945245488333335,3,0.8589049097666668
-People,Culture,South Korea,3.985,1,0.26566666666666666
-People,Culture,South Sudan,2.1574999999999998,2,0.2876666666666666
-People,Culture,Spain,4.962756482333334,3,0.9925512964666668
-People,Culture,Sri Lanka,4.142575245,2,0.552343366
-People,Culture,Sudan,4.23633594525,2,0.5648447927
-People,Culture,Suriname,3.8450878335,2,0.5126783778
-People,Culture,Sweden,5.126005,4,1.3669346666666666
-People,Culture,Switzerland,5.1201880253750005,4,1.3653834734333334
-People,Culture,Syrian Arab Republic,3.835,1,0.25566666666666665
-People,Culture,Tajikistan,3.3234049035,2,0.44312065380000004
-People,Culture,Tanzania,3.669667053,1,0.2446444702
-People,Culture,Tanzania (United Republic of),3.645,1,0.243
-People,Culture,Thailand,4.70724571225,2,0.6276327616333333
-People,Culture,Timor-Leste,2.59,2,0.3453333333333333
-People,Culture,Togo,3.1086992265,2,0.4144932302
-People,Culture,Tonga,3.56250004775,2,0.47500000636666667
-People,Culture,Trinidad and Tobago,5.49,2,0.732
-People,Culture,Tunisia,4.811335945250001,2,0.6415114593666668
-People,Culture,Turkey,4.5441493185,3,0.9088298637
-People,Culture,Turkmenistan,4.574999999999999,1,0.30499999999999994
-People,Culture,Uganda,3.6948335265,2,0.4926444702
-People,Culture,Ukraine,4.6015055085,3,0.9203011017
-People,Culture,United Arab Emirates,5.265890630166667,3,1.0531781260333335
-People,Culture,United Kingdom,5.1023875,4,1.3606366666666667
-People,Culture,United States,5.388333333333333,3,1.0776666666666666
-People,Culture,Uruguay,5.2856072235,2,0.7047476297999999
-People,Culture,Uzbekistan,3.06690492625,2,0.4089206568333333
-People,Culture,Vanuatu,4.1225000000000005,2,0.5496666666666667
-People,Culture,Venezuela,5.486214447,1,0.3657476298
-People,Culture,Venezuela (Bolivarian Republic of),4.555,1,0.30366666666666664
-People,Culture,Viet Nam,4.5425559615,2,0.6056741282
-People,Culture,Yemen,4.13633594525,2,0.5515114593666667
-People,Culture,Zambia,2.86,2,0.3813333333333333
-People,Culture,Zimbabwe,3.6025,2,0.48033333333333333
-People,Digital Literacy Skills,Afghanistan,2.864,1,0.19093333333333332
-People,Digital Literacy Skills,Albania,4.57101682575,4,1.2189378202
-People,Digital Literacy Skills,Algeria,4.4830000000000005,1,0.2988666666666667
-People,Digital Literacy Skills,Andorra,2.362,1,0.15746666666666667
-People,Digital Literacy Skills,Angola,3.6475,1,0.24316666666666667
-People,Digital Literacy Skills,Antigua and Barbuda,2.3795,1,0.15863333333333335
-People,Digital Literacy Skills,Argentina,4.088333333333334,3,0.8176666666666668
-People,Digital Literacy Skills,Armenia,4.478471932875,4,1.1942591821000001
-People,Digital Literacy Skills,Australia,3.695,2,0.49266666666666664
-People,Digital Literacy Skills,Austria,4.608155022300001,5,1.5360516741000003
-People,Digital Literacy Skills,Azerbaijan,5.0060859845,4,1.3349562625333333
-People,Digital Literacy Skills,Bahamas,4.773,1,0.3182
-People,Digital Literacy Skills,Bahrain,5.791477625125,4,1.5443940333666668
-People,Digital Literacy Skills,Bangladesh,3.8655,1,0.2577
-People,Digital Literacy Skills,Barbados,2.63725,1,0.17581666666666665
-People,Digital Literacy Skills,Belarus,5.217632480375,4,1.3913686614333334
-People,Digital Literacy Skills,Belgium,4.7234228804,5,1.5744742934666667
-People,Digital Literacy Skills,Belize,4.4595,1,0.2973
-People,Digital Literacy Skills,Benin,3.202,1,0.21346666666666667
-People,Digital Literacy Skills,Bhutan,3.5695,1,0.23796666666666666
-People,Digital Literacy Skills,Bolivia,4.6895,1,0.3126333333333333
-People,Digital Literacy Skills,Bolivia (Plurinational State of),3.3761731556666668,3,0.6752346311333334
-People,Digital Literacy Skills,Bosnia and Herzegovina,4.561234419250001,4,1.2163291784666668
-People,Digital Literacy Skills,Botswana,4.455500000000001,1,0.29703333333333337
-People,Digital Literacy Skills,Brazil,4.123059273200001,5,1.3743530910666668
-People,Digital Literacy Skills,Brunei Darussalam,5.5329176085,4,1.4754446956
-People,Digital Literacy Skills,Bulgaria,4.599435960625,4,1.2265162561666665
-People,Digital Literacy Skills,Burkina Faso,2.4555,1,0.16369999999999998
-People,Digital Literacy Skills,Burundi,3.4455,1,0.2297
-People,Digital Literacy Skills,Cabo Verde,4.11499475725,4,1.0973319352666666
-People,Digital Literacy Skills,Cambodia,4.6035629965,4,1.2276167990666667
-People,Digital Literacy Skills,Cameroon,3.9855,1,0.2657
-People,Digital Literacy Skills,Canada,3.38725,2,0.45163333333333333
+People,Culture,Afghanistan,2.349795,2,0.313306
+People,Culture,Albania,4.6623218182190005,2,0.6216429090958667
+People,Culture,Algeria,4.8236732733595,2,0.6431564364479333
+People,Culture,Andorra,5.33132,1,0.3554213333333333
+People,Culture,Angola,3.8961585842315003,2,0.5194878112308667
+People,Culture,Antigua and Barbuda,4.88222,1,0.32548133333333334
+People,Culture,Argentina,5.009037339368667,3,1.0018074678737334
+People,Culture,Armenia,3.2490298324375,2,0.43320397765833335
+People,Culture,Australia,5.472703333333333,3,1.0945406666666666
+People,Culture,Austria,4.93377691739925,4,1.3156738446398
+People,Culture,Azerbaijan,3.5199706915339997,2,0.4693294255378666
+People,Culture,Bahamas,5.525930000000001,2,0.7367906666666667
+People,Culture,Bahrain,5.0831532733595,2,0.6777537697812667
+People,Culture,Bangladesh,3.987323925739666,3,0.7974647851479333
+People,Culture,Barbados,5.525930000000001,2,0.7367906666666667
+People,Culture,Belarus,4.590141448259001,2,0.6120188597678667
+People,Culture,Belgium,4.924311698731667,3,0.9848623397463334
+People,Culture,Belize,4.53292,2,0.6043893333333333
+People,Culture,Benin,3.0952747199155,2,0.41270329598873334
+People,Culture,Bhutan,3.671229704759,2,0.4894972939678666
+People,Culture,Bolivia,5.477242018106,1,0.3651494678737333
+People,Culture,Bolivia (Plurinational State of),4.58282,1,0.3055213333333333
+People,Culture,Bosnia and Herzegovina,4.519726092446501,2,0.6026301456595334
+People,Culture,Botswana,3.607275,2,0.48097
+People,Culture,Brazil,4.218891855751667,3,0.8437783711503335
+People,Culture,Brunei Darussalam,4.797291815762,2,0.6396389087682666
+People,Culture,Bulgaria,4.543497462181,2,0.6057996616241332
+People,Culture,Burkina Faso,2.5900540945985,2,0.3453405459464667
+People,Culture,Burundi,2.2484492281392,2,0.29979323041856
+People,Culture,Cabo Verde,4.7256942700675,2,0.6300925693423333
+People,Culture,Cambodia,3.00598,2,0.40079733333333334
+People,Culture,Cameroon,3.602498861919,2,0.48033318158919996
+People,Culture,Canada,5.397853333333334,3,1.079570666666667
+People,Culture,Central African Republic,2.5999290575935,2,0.34665720767913333
+People,Culture,Chad,2.2661956250674997,2,0.30215941667566665
+People,Culture,Chile,5.210300672702,3,1.0420601345404001
+People,Culture,China,5.011653581731333,3,1.0023307163462667
+People,Culture,Colombia,3.8725578755409003,3,0.7745115751081801
+People,Culture,Comoros,2.907586949462,2,0.38767825992826666
+People,Culture,Congo,3.6509581151869996,2,0.4867944153582666
+People,Culture,Congo (Democratic Republic of the),3.3952,1,0.22634666666666667
+People,Culture,"Congo, Democratic Republic",2.975342088121,1,0.1983561392080667
+People,Culture,Costa Rica,5.2595710090529995,2,0.7012761345403999
+People,Culture,Cote d'Ivoire,3.395627723838,1,0.2263751815892
+People,Culture,Croatia,4.6968710924465,2,0.6262494789928666
+People,Culture,Cuba,4.907170000000001,1,0.3271446666666667
+People,Culture,Cyprus,5.1951543547945,2,0.6926872473059333
+People,Culture,Czech Republic,3.68345234,1,0.24556348933333333
+People,Culture,Czechia,5.1352847100425,2,0.6847046280056667
+People,Culture,Côte d'Ivoire,3.68462,1,0.24564133333333332
+People,Culture,Denmark,5.221176977500001,4,1.392313860666667
+People,Culture,Djibouti,3.61476,1,0.240984
+People,Culture,Dominica,4.70258,1,0.31350533333333336
+People,Culture,Dominican Republic,5.124841009053,2,0.6833121345404
+People,Culture,Ecuador,5.132326009053,2,0.6843101345404
+People,Culture,Egypt,4.7213782733595,2,0.6295171031146
+People,Culture,El Salvador,4.917756009053001,2,0.6557008012070668
+People,Culture,Equatorial Guinea,3.95408,1,0.2636053333333333
+People,Culture,Eritrea,3.29041,1,0.21936066666666668
+People,Culture,Estonia,4.7598696732855,4,1.2692985795428
+People,Culture,Eswatini,1.2495,1,0.0833
+People,Culture,Eswatini (Kingdom of),4.04889,1,0.269926
+People,Culture,Ethiopia,3.402020076512,2,0.45360267686826666
+People,Culture,Fiji,3.5700735891755,2,0.4760098118900667
+People,Culture,Finland,5.25340105519,3,1.050680211038
+People,Culture,France,5.09366829404875,4,1.3583115450796666
+People,Culture,Gabon,4.0358559700505,2,0.5381141293400666
+People,Culture,Gambia,2.31237,2,0.308316
+People,Culture,Georgia,3.4034547272105002,2,0.4537939636280667
+People,Culture,Germany,4.81354536239925,4,1.2836120966398
+People,Culture,Ghana,4.196095000000001,2,0.5594793333333334
+People,Culture,Greece,4.587840071736,3,0.9175680143472
+People,Culture,Grenada,4.8872100000000005,1,0.32581400000000005
+People,Culture,Guatemala,4.892806009053,2,0.6523741345404
+People,Culture,Guinea,2.694457648789,2,0.35926101983853337
+People,Culture,Guinea-Bissau,2.512814179258,2,0.33504189056773337
+People,Culture,Guyana,5.1965900000000005,2,0.6928786666666668
+People,Culture,Haiti,3.1550496829105,2,0.42067329105473333
+People,Culture,Honduras,4.820451009053,2,0.6427268012070667
+People,Culture,Hong Kong,5.4061699999999995,2,0.7208226666666666
+People,Culture,"Hong Kong, China (SAR)",5.73551,1,0.3823673333333333
+People,Culture,Hungary,4.524114441077334,3,0.9048228882154667
+People,Culture,Iceland,5.443244036666667,3,1.0886488073333334
+People,Culture,India,4.566148202582333,3,0.9132296405164667
+People,Culture,Indonesia,4.7063898596773335,3,0.9412779719354667
+People,Culture,Iran,3.594646384846,1,0.23964309232306666
+People,Culture,Iran (Islamic Republic of),4.907170000000001,1,0.3271446666666667
+People,Culture,Iraq,4.6390432733595,2,0.6185391031146
+People,Culture,Ireland,5.26807674,3,1.053615348
+People,Culture,Israel,4.754143333333333,3,0.9508286666666668
+People,Culture,Italy,4.244034370617,3,0.8488068741234001
+People,Culture,Jamaica,5.3263300000000005,2,0.7101773333333334
+People,Culture,Japan,4.764389777377334,3,0.9528779554754667
+People,Culture,Jordan,4.7762682733595,2,0.6368357697812667
+People,Culture,Kazakhstan,4.265761309158,3,0.8531522618316001
+People,Culture,Kenya,4.1535692396313335,3,0.8307138479262668
+People,Culture,Kiribati,4.1437,1,0.27624666666666664
+People,Culture,Korea (Republic of),5.5708400000000005,1,0.37138933333333335
+People,Culture,"Korea, South",5.0215333289720006,1,0.33476888859813336
+People,Culture,Kuwait,4.968383273359501,2,0.6624511031146001
+People,Culture,Kyrgyzstan,3.215411057981,2,0.42872147439746666
+People,Culture,Lao People's Democratic Republic,4.058870000000001,1,0.27059133333333335
+People,Culture,Laos,3.080744759822,1,0.20538298398813334
+People,Culture,Latvia,4.561294953199667,3,0.9122589906399334
+People,Culture,Lebanon,4.8136932733595,2,0.6418257697812667
+People,Culture,Lesotho,2.8887150000000004,2,0.38516200000000006
+People,Culture,Liberia,3.6447000000000003,2,0.48596
+People,Culture,Libya,4.7637932733595,2,0.6351724364479333
+People,Culture,Liechtenstein,5.58581,1,0.37238733333333335
+People,Culture,Lithuania,4.355843526838334,3,0.8711687053676669
+People,Culture,Luxembourg,5.007624006532334,3,1.0015248013064668
+People,Culture,Madagascar,2.7376455406575,2,0.36501940542100003
+People,Culture,Malawi,2.304885,2,0.307318
+People,Culture,Malaysia,4.659267877174667,3,0.9318535754349334
+People,Culture,Maldives,3.885799704759,2,0.5181066273012
+People,Culture,Mali,2.4400727094965,2,0.3253430279328667
+People,Culture,Malta,5.278925,2,0.7038566666666667
+People,Culture,Marshall Islands,4.51296,1,0.30086399999999996
+People,Culture,Mauritania,3.3018283672505,2,0.44024378230006667
+People,Culture,Mauritius,4.540022199385501,2,0.6053362932514
+People,Culture,Mexico,4.2910327549780005,3,0.8582065509956002
+People,Culture,Micronesia (Federated States of),4.0938,1,0.27292
+People,Culture,Moldova,4.6809046875,1,0.3120603125
+People,Culture,Moldova (Republic of),4.7425,1,0.31616666666666665
+People,Culture,Mongolia,3.331926179743,2,0.44425682396573335
+People,Culture,Montenegro,4.6419810924465,2,0.6189308123262
+People,Culture,Morocco,4.482245515573,3,0.8964491031146
+People,Culture,Mozambique,3.0263233335465003,2,0.4035097778062
+People,Culture,Myanmar,4.0417798630215005,2,0.5389039817362
+People,Culture,Namibia,2.93612,2,0.39148266666666665
+People,Culture,Nepal,3.15069,2,0.42009199999999997
+People,Culture,Netherlands,4.97094502770825,4,1.3255853407222
+People,Culture,New Zealand,5.4078333333333335,3,1.0815666666666668
+People,Culture,Nicaragua,4.8853210090529995,2,0.6513761345403999
+People,Culture,Niger,2.2562156250675,2,0.300828750009
+People,Culture,Nigeria,3.889209936627001,3,0.7778419873254002
+People,Culture,North Macedonia,3.3445008108315006,2,0.44593344144420005
+People,Culture,Norway,5.089524560000001,4,1.3572065493333336
+People,Culture,Oman,4.9858482733595,2,0.6647797697812667
+People,Culture,Pakistan,3.605951073160001,2,0.48079347642133347
+People,Culture,Palau,5.12174,1,0.3414493333333333
+People,Culture,"Palestine, State of",4.53292,1,0.30219466666666667
+People,Culture,Panama,5.272046009053,2,0.7029394678737333
+People,Culture,Papua New Guinea,4.280925,2,0.57079
+People,Culture,Paraguay,5.054981009053,2,0.6739974678737333
+People,Culture,Peru,5.177236009053001,2,0.6902981345404001
+People,Culture,Philippines,4.21356,2,0.561808
+People,Culture,Poland,4.508008883577,4,1.2021357022872001
+People,Culture,Portugal,4.496455136711667,3,0.8992910273423335
+People,Culture,Qatar,4.924692182239666,3,0.9849384364479333
+People,Culture,Romania,4.90631234375,2,0.6541749791666667
+People,Culture,Russia,4.16366,1,0.27757733333333334
+People,Culture,Russian Federation,5.104888661218,2,0.6806518214957333
+People,Culture,Rwanda,3.053385,2,0.407118
+People,Culture,Saint Kitts and Nevis,4.8872100000000005,1,0.32581400000000005
+People,Culture,Saint Lucia,5.388705,2,0.718494
+People,Culture,Saint Vincent and the Grenadines,5.33631,2,0.711508
+People,Culture,Samoa,4.2559749049405,2,0.5674633206587333
+People,Culture,Sao Tome and Principe,4.11875,1,0.27458333333333335
+People,Culture,Saudi Arabia,5.1259555155730006,3,1.0251911031146002
+People,Culture,Senegal,2.8868540575935002,2,0.38491387434580004
+People,Culture,Serbia,4.584596092446501,2,0.6112794789928667
+People,Culture,Seychelles,4.97204,1,0.33146933333333334
+People,Culture,Sierra Leone,3.8742400000000004,2,0.5165653333333333
+People,Culture,Singapore,5.569176666666667,3,1.1138353333333335
+People,Culture,Slovak Republic,3.94171478,1,0.26278098533333333
+People,Culture,Slovakia,4.8421903564765,2,0.6456253808635334
+People,Culture,Slovenia,4.397533272254334,3,0.8795066544508668
+People,Culture,Solomon Islands,3.5623650000000002,2,0.474982
+People,Culture,South Africa,4.287935499735666,3,0.8575870999471333
+People,Culture,South Korea,3.97903,1,0.26526866666666665
+People,Culture,South Sudan,2.155185,2,0.287358
+People,Culture,Spain,4.954830969368667,3,0.9909661938737335
+People,Culture,Sri Lanka,4.1362900945100005,2,0.5515053459346667
+People,Culture,Sudan,4.2298632733595,2,0.5639817697812667
+People,Culture,Suriname,3.839397657833,2,0.5119196877110667
+People,Culture,Sweden,5.1177529900000005,4,1.3647341306666667
+People,Culture,Switzerland,5.11194764932425,4,1.3631860398198001
+People,Culture,Syrian Arab Republic,3.82933,1,0.25528866666666666
+People,Culture,Tajikistan,3.3187580936930003,2,0.4425010791590667
+People,Culture,Tanzania,3.664327718894,1,0.24428851459293333
+People,Culture,Tanzania (United Republic of),3.63971,1,0.24264733333333333
+People,Culture,Thailand,4.6998312208255,2,0.6266441627767333
+People,Culture,Timor-Leste,2.58682,2,0.3449093333333333
+People,Culture,Togo,3.104481828047,2,0.41393091040626667
+People,Culture,Tonga,3.5573750476545003,2,0.47431667302060004
+People,Culture,Trinidad and Tobago,5.48102,2,0.7308026666666667
+People,Culture,Tunisia,4.8037132733595005,2,0.6404951031146
+People,Culture,Turkey,4.537061019863,3,0.9074122039726
+People,Culture,Turkmenistan,4.56785,1,0.3045233333333333
+People,Culture,Uganda,3.6894438594470005,2,0.4919258479262667
+People,Culture,Ukraine,4.594302497483,3,0.9188604994966
+People,Culture,United Arab Emirates,5.257358848906334,3,1.0514717697812668
+People,Culture,United Kingdom,5.094182725,4,1.3584487266666665
+People,Culture,United States,5.379556666666666,3,1.0759113333333332
+People,Culture,Uruguay,5.277036009053,2,0.7036048012070667
+People,Culture,Uzbekistan,3.0627711163975,2,0.40836948218633334
+People,Culture,Vanuatu,4.116255,2,0.5488339999999999
+People,Culture,Venezuela,5.477242018106,1,0.3651494678737333
+People,Culture,Venezuela (Bolivarian Republic of),4.54789,1,0.30319266666666667
+People,Culture,Viet Nam,4.535470849577,2,0.6047294466102666
+People,Culture,Yemen,4.1300632733595,2,0.5506751031146
+People,Culture,Zambia,2.85628,2,0.3808373333333333
+People,Culture,Zimbabwe,3.597295,2,0.4796393333333333
+People,Digital Literacy Skills,Afghanistan,2.860272,1,0.19068480000000002
+People,Digital Literacy Skills,Albania,4.563874792098501,4,1.2170332778929336
+People,Digital Literacy Skills,Algeria,4.476034,1,0.2984022666666667
+People,Digital Literacy Skills,Andorra,2.358276,1,0.1572184
+People,Digital Literacy Skills,Angola,3.642205,1,0.24281366666666668
+People,Digital Literacy Skills,Antigua and Barbuda,2.375741,1,0.15838273333333333
+People,Digital Literacy Skills,Argentina,4.082156666666667,3,0.8164313333333335
+People,Digital Literacy Skills,Armenia,4.4715149890092505,4,1.1924039970691334
+People,Digital Literacy Skills,Australia,3.68961,2,0.491948
+People,Digital Literacy Skills,Austria,4.600938712255401,5,1.5336462374184667
+People,Digital Literacy Skills,Azerbaijan,4.9980738125310005,4,1.3328196833416002
+People,Digital Literacy Skills,Bahamas,4.765454,1,0.3176969333333333
+People,Digital Literacy Skills,Bahrain,5.78189466987475,4,1.5418385786332667
+People,Digital Literacy Skills,Bangladesh,3.859769,1,0.2573179333333333
+People,Digital Literacy Skills,Barbados,2.6329755,1,0.1755317
+People,Digital Literacy Skills,Belarus,5.2091972154142505,4,1.3891192574438
+People,Digital Literacy Skills,Belgium,4.7159760346392,5,1.5719920115464001
+People,Digital Literacy Skills,Belize,4.452581,1,0.2968387333333333
+People,Digital Literacy Skills,Benin,3.1975960000000003,1,0.2131730666666667
+People,Digital Literacy Skills,Bhutan,3.5643610000000003,1,0.2376240666666667
+People,Digital Literacy Skills,Bolivia,4.682121,1,0.3121414
+People,Digital Literacy Skills,Bolivia (Plurinational State of),3.3714208093553335,3,0.6742841618710668
+People,Digital Literacy Skills,Bosnia and Herzegovina,4.5541119504114995,4,1.2144298534430664
+People,Digital Literacy Skills,Botswana,4.448589,1,0.2965726
+People,Digital Literacy Skills,Brazil,4.116813154653601,5,1.3722710515512002
+People,Digital Literacy Skills,Brunei Darussalam,5.523851773283,4,1.4730271395421333
+People,Digital Literacy Skills,Bulgaria,4.592237088703751,4,1.224596556987667
+People,Digital Literacy Skills,Burkina Faso,2.452589,1,0.16350593333333335
+People,Digital Literacy Skills,Burundi,3.440609,1,0.2293739333333333
+People,Digital Literacy Skills,Cabo Verde,4.1087647677355,4,1.0956706047294666
+People,Digital Literacy Skills,Cambodia,4.596355870507001,4,1.2256948988018668
+People,Digital Literacy Skills,Cameroon,3.979529,1,0.2653019333333333
+People,Digital Literacy Skills,Canada,3.3824755,2,0.45099673333333334
 People,Digital Literacy Skills,Central African Rep.,0.0,0,0.0
-People,Digital Literacy Skills,Central African Republic,2.2695,1,0.1513
-People,Digital Literacy Skills,Chad,1.891,1,0.12606666666666666
-People,Digital Literacy Skills,Chile,3.45325,2,0.46043333333333336
-People,Digital Literacy Skills,China,3.7452281908000002,5,1.2484093969333334
-People,Digital Literacy Skills,Colombia,3.8752191777999996,5,1.2917397259333332
-People,Digital Literacy Skills,Comoros,1.663,1,0.11086666666666667
-People,Digital Literacy Skills,Congo,3.911000000000001,1,0.2607333333333334
+People,Digital Literacy Skills,Central African Republic,2.266961,1,0.15113073333333332
+People,Digital Literacy Skills,Chad,1.889218,1,0.12594786666666666
+People,Digital Literacy Skills,Chile,3.4483435,2,0.4597791333333333
+People,Digital Literacy Skills,China,3.7397377344184,5,1.2465792448061332
+People,Digital Literacy Skills,Colombia,3.8694687394444003,5,1.2898229131481334
+People,Digital Literacy Skills,Comoros,1.660674,1,0.1107116
+People,Digital Literacy Skills,Congo,3.905178,1,0.2603452
 People,Digital Literacy Skills,Congo (Rep. of the),0.0,0,0.0
-People,Digital Literacy Skills,Costa Rica,5.097920907375,4,1.3594455753
-People,Digital Literacy Skills,Croatia,5.019214121875,4,1.3384570991666667
-People,Digital Literacy Skills,Cuba,4.574577574625,4,1.2198873532333332
-People,Digital Literacy Skills,Cyprus,5.281147869500001,4,1.4083060985333336
-People,Digital Literacy Skills,Czech Republic,5.163633131125,4,1.3769688349666667
-People,Digital Literacy Skills,Czechia,1.46,1,0.09733333333333333
-People,Digital Literacy Skills,Côte d'Ivoire,2.838778374125,4,0.7570075664333333
+People,Digital Literacy Skills,Costa Rica,5.08972506556025,4,1.3572600174827334
+People,Digital Literacy Skills,Croatia,5.01117569363125,4,1.3363135183016666
+People,Digital Literacy Skills,Cuba,4.56742841947575,4,1.2179809118601999
+People,Digital Literacy Skills,Cyprus,5.272585573761,4,1.4060228196695999
+People,Digital Literacy Skills,Czech Republic,5.15530586486275,4,1.3747482306300665
+People,Digital Literacy Skills,Czechia,1.45908,1,0.097272
+People,Digital Literacy Skills,Côte d'Ivoire,2.83510081737675,4,0.7560268846338
 People,Digital Literacy Skills,Dem. People's Rep. of Korea,0.0,0,0.0
-People,Digital Literacy Skills,Democratic People's Republic of Korea,4.2010000000000005,1,0.2800666666666667
-People,Digital Literacy Skills,Democratic Republic of the Congo,3.6515,1,0.24343333333333333
-People,Digital Literacy Skills,Denmark,4.944194067700001,5,1.6480646892333335
-People,Digital Literacy Skills,Djibouti,2.709,1,0.1806
-People,Digital Literacy Skills,Dominica,2.1745,1,0.14496666666666666
-People,Digital Literacy Skills,Dominican Republic,3.11225,2,0.41496666666666665
-People,Digital Literacy Skills,Ecuador,4.8965,1,0.3264333333333333
-People,Digital Literacy Skills,Egypt,3.4203120284999997,5,1.1401040095
-People,Digital Literacy Skills,El Salvador,3.677022046,4,0.9805392122666666
-People,Digital Literacy Skills,Equatorial Guinea,1.88675,1,0.12578333333333333
-People,Digital Literacy Skills,Eritrea,1.43975,1,0.09598333333333334
-People,Digital Literacy Skills,Estonia,5.524449806375,4,1.4731866150333335
-People,Digital Literacy Skills,Eswatini,2.098,1,0.13986666666666667
-People,Digital Literacy Skills,Ethiopia,2.689,1,0.17926666666666666
-People,Digital Literacy Skills,Fiji,2.55675,1,0.17045
-People,Digital Literacy Skills,Finland,4.6943249251,5,1.5647749750333333
-People,Digital Literacy Skills,France,4.418435343600001,5,1.4728117812000001
-People,Digital Literacy Skills,Gabon,4.359500000000001,1,0.29063333333333335
-People,Digital Literacy Skills,Gambia,2.815,1,0.18766666666666665
-People,Digital Literacy Skills,Georgia,4.445139202333333,3,0.8890278404666667
-People,Digital Literacy Skills,Georgia (Country),5.3585,1,0.35723333333333335
-People,Digital Literacy Skills,Germany,4.6330189429,5,1.544339647633333
-People,Digital Literacy Skills,Ghana,3.965,1,0.2643333333333333
-People,Digital Literacy Skills,Greece,4.2728802385,5,1.4242934128333333
-People,Digital Literacy Skills,Grenada,2.644,1,0.17626666666666668
-People,Digital Literacy Skills,Guatemala,3.35916534725,4,0.8957774259333333
-People,Digital Literacy Skills,Guinea,2.2955,1,0.15303333333333333
-People,Digital Literacy Skills,Guinea-Bissau,3.1325,1,0.20883333333333332
-People,Digital Literacy Skills,Guyana,2.1155,1,0.14103333333333332
-People,Digital Literacy Skills,Haiti,2.9195,1,0.19463333333333335
-People,Digital Literacy Skills,Honduras,3.37675,2,0.4502333333333333
-People,Digital Literacy Skills,"Hong Kong, China",5.589439769333334,3,1.1178879538666668
-People,Digital Literacy Skills,Hungary,4.326475348800001,5,1.4421584496000002
-People,Digital Literacy Skills,Iceland,5.7625,1,0.38416666666666666
-People,Digital Literacy Skills,India,2.8046666666666664,3,0.5609333333333333
-People,Digital Literacy Skills,Indonesia,3.2947178401,5,1.0982392800333334
-People,Digital Literacy Skills,Iran (Islamic Republic of),4.87542654025,4,1.3001137440666668
-People,Digital Literacy Skills,Iraq,1.5895000000000001,1,0.10596666666666667
-People,Digital Literacy Skills,Ireland,4.6552232237,5,1.5517410745666667
-People,Digital Literacy Skills,Israel,4.545417935400001,5,1.5151393118
-People,Digital Literacy Skills,Italy,3.2340000000000004,2,0.4312
-People,Digital Literacy Skills,Jamaica,2.2855,1,0.15236666666666665
-People,Digital Literacy Skills,Japan,4.688673361499999,5,1.5628911204999998
-People,Digital Literacy Skills,Jordan,4.4,1,0.29333333333333333
-People,Digital Literacy Skills,Kazakhstan,5.17957523975,4,1.3812200639333334
-People,Digital Literacy Skills,Kenya,2.3638190999,5,0.7879396999666667
-People,Digital Literacy Skills,Kiribati,2.1944999999999997,1,0.14629999999999999
-People,Digital Literacy Skills,Korea (Rep. of),5.807411801833333,3,1.1614823603666666
-People,Digital Literacy Skills,Kuwait,5.666801779625,4,1.5111471412333333
-People,Digital Literacy Skills,Kyrgyzstan,4.9365000000000006,1,0.32910000000000006
-People,Digital Literacy Skills,Lao People's Democratic Republic,3.7695,1,0.25129999999999997
-People,Digital Literacy Skills,Latvia,5.3783370815,4,1.4342232217333333
-People,Digital Literacy Skills,Lebanon,4.2835,1,0.2855666666666667
-People,Digital Literacy Skills,Lesotho,3.288806079125,4,0.8770149544333333
-People,Digital Literacy Skills,Liberia,2.9665,1,0.19776666666666665
-People,Digital Literacy Skills,Libya,2.33925,1,0.15594999999999998
-People,Digital Literacy Skills,Liechtenstein,2.62225,1,0.17481666666666668
-People,Digital Literacy Skills,Lithuania,4.4554899578,5,1.4851633192666667
-People,Digital Literacy Skills,Luxembourg,5.6540392207500005,4,1.5077437922
-People,Digital Literacy Skills,"Macao, China",5.325167582500001,3,1.0650335165000002
-People,Digital Literacy Skills,Madagascar,1.82675,1,0.12178333333333334
-People,Digital Literacy Skills,Malawi,3.406,1,0.22706666666666667
-People,Digital Literacy Skills,Malaysia,4.3983990243,5,1.4661330081
-People,Digital Literacy Skills,Maldives,4.443,1,0.29619999999999996
-People,Digital Literacy Skills,Mali,2.137,1,0.14246666666666666
-People,Digital Literacy Skills,Malta,5.2529826029999995,4,1.4007953608
-People,Digital Literacy Skills,Marshall Islands,2.3765,1,0.15843333333333334
-People,Digital Literacy Skills,Mauritania,2.7875,1,0.18583333333333335
-People,Digital Literacy Skills,Mauritius,4.30454616075,4,1.1478789762000001
-People,Digital Literacy Skills,Mexico,3.9735488752999997,5,1.3245162917666664
+People,Digital Literacy Skills,Democratic People's Republic of Korea,4.194598,1,0.2796398666666667
+People,Digital Literacy Skills,Democratic Republic of the Congo,3.646197,1,0.24307979999999998
+People,Digital Literacy Skills,Denmark,4.9363056795646,5,1.6454352265215333
+People,Digital Literacy Skills,Djibouti,2.705582,1,0.18037213333333335
+People,Digital Literacy Skills,Dominica,2.171151,1,0.1447434
+People,Digital Literacy Skills,Dominican Republic,3.1080255,2,0.41440340000000003
+People,Digital Literacy Skills,Ecuador,4.888707,1,0.32591380000000003
+People,Digital Literacy Skills,Egypt,3.4154714044429992,5,1.1384904681476664
+People,Digital Literacy Skills,El Salvador,3.671668001908,4,0.9791114671754666
+People,Digital Literacy Skills,Equatorial Guinea,1.8839765,1,0.12559843333333331
+People,Digital Literacy Skills,Eritrea,1.4378705,1,0.09585803333333334
+People,Digital Literacy Skills,Estonia,5.51540090676225,4,1.4707735751366
+People,Digital Literacy Skills,Eswatini,2.094804,1,0.1396536
+People,Digital Literacy Skills,Ethiopia,2.685622,1,0.17904146666666665
+People,Digital Literacy Skills,Fiji,2.5526365,1,0.17017576666666667
+People,Digital Literacy Skills,Finland,4.686936275249801,5,1.5623120917499336
+People,Digital Literacy Skills,France,4.4115984729128,5,1.4705328243042666
+People,Digital Literacy Skills,Gabon,4.352781,1,0.29018540000000004
+People,Digital Literacy Skills,Gambia,2.81137,1,0.18742466666666668
+People,Digital Literacy Skills,Georgia,4.438248923928667,3,0.8876497847857334
+People,Digital Literacy Skills,Georgia (Country),5.349783,1,0.35665220000000003
+People,Digital Literacy Skills,Germany,4.625752905014201,5,1.5419176350047334
+People,Digital Literacy Skills,Ghana,3.95907,1,0.263938
+People,Digital Literacy Skills,Greece,4.266334478023,5,1.4221114926743335
+People,Digital Literacy Skills,Grenada,2.6397120000000003,1,0.17598080000000002
+People,Digital Literacy Skills,Guatemala,3.3544470165555,4,0.8945192044148
+People,Digital Literacy Skills,Guinea,2.292909,1,0.15286059999999999
+People,Digital Literacy Skills,Guinea-Bissau,3.128235,1,0.208549
+People,Digital Literacy Skills,Guyana,2.112269,1,0.14081793333333334
+People,Digital Literacy Skills,Haiti,2.915661,1,0.1943774
+People,Digital Literacy Skills,Honduras,3.3719965,2,0.4495995333333333
+People,Digital Literacy Skills,"Hong Kong, China",5.580260889794666,3,1.1160521779589334
+People,Digital Literacy Skills,Hungary,4.3198223981024,5,1.4399407993674667
+People,Digital Literacy Skills,Iceland,5.752975,1,0.38353166666666666
+People,Digital Literacy Skills,India,2.801057333333334,3,0.5602114666666668
+People,Digital Literacy Skills,Indonesia,3.290128404419799,5,1.096709468139933
+People,Digital Literacy Skills,Iran (Islamic Republic of),4.8676756871695,4,1.2980468499118667
+People,Digital Literacy Skills,Iraq,1.5873210000000002,1,0.10582140000000001
+People,Digital Literacy Skills,Ireland,4.6479127772526,5,1.5493042590841999
+People,Digital Literacy Skills,Israel,4.5383270995292,5,1.5127756998430666
+People,Digital Literacy Skills,Italy,3.229532,2,0.4306042666666666
+People,Digital Literacy Skills,Jamaica,2.281929,1,0.1521286
+People,Digital Literacy Skills,Japan,4.681296014777001,5,1.5604320049256668
+People,Digital Literacy Skills,Jordan,4.3932,1,0.29288000000000003
+People,Digital Literacy Skills,Kazakhstan,5.1712160892705,4,1.3789909571388
+People,Digital Literacy Skills,Kenya,2.3610914617002003,5,0.7870304872334001
+People,Digital Literacy Skills,Kiribati,2.1911110000000003,1,0.14607406666666667
+People,Digital Literacy Skills,Korea (Rep. of),5.797796978229667,3,1.1595593956459334
+People,Digital Literacy Skills,Kuwait,5.65746817606575,4,1.5086581802842
+People,Digital Literacy Skills,Kyrgyzstan,4.9286270000000005,1,0.3285751333333334
+People,Digital Literacy Skills,Lao People's Democratic Republic,3.763961,1,0.2509307333333333
+People,Digital Literacy Skills,Latvia,5.369580407337,4,1.4318881086231998
+People,Digital Literacy Skills,Lebanon,4.276933,1,0.28512886666666665
+People,Digital Literacy Skills,Lesotho,3.28422846696675,4,0.8757942578578
+People,Digital Literacy Skills,Liberia,2.962567,1,0.19750446666666666
+People,Digital Literacy Skills,Libya,2.3355715000000004,1,0.1557047666666667
+People,Digital Literacy Skills,Liechtenstein,2.6180055,1,0.1745337
+People,Digital Literacy Skills,Lithuania,4.4485789778844005,5,1.4828596592948
+People,Digital Literacy Skills,Luxembourg,5.6447311423085,4,1.5052616379489334
+People,Digital Literacy Skills,"Macao, China",5.316517247335,3,1.063303449467
+People,Digital Literacy Skills,Madagascar,1.8240965,1,0.12160643333333333
+People,Digital Literacy Skills,Malawi,3.4011880000000003,1,0.22674586666666668
+People,Digital Literacy Skills,Malaysia,4.3916022262514,5,1.4638674087504664
+People,Digital Literacy Skills,Maldives,4.436114,1,0.29574093333333334
+People,Digital Literacy Skills,Mali,2.134726,1,0.14231506666666668
+People,Digital Literacy Skills,Malta,5.244476637794,4,1.3985271034117335
+People,Digital Literacy Skills,Marshall Islands,2.3727470000000004,1,0.15818313333333336
+People,Digital Literacy Skills,Mauritania,2.783925,1,0.185595
+People,Digital Literacy Skills,Mauritius,4.2979370684285,4,1.1461165515809335
+People,Digital Literacy Skills,Mexico,3.9676017775494,5,1.3225339258498
 People,Digital Literacy Skills,Micronesia,0.0,0,0.0
-People,Digital Literacy Skills,Micronesia (Federated States of),4.3735,1,0.29156666666666664
+People,Digital Literacy Skills,Micronesia (Federated States of),4.366753,1,0.2911168666666667
 People,Digital Literacy Skills,Moldova,0.0,0,0.0
-People,Digital Literacy Skills,Monaco,2.54675,1,0.16978333333333331
-People,Digital Literacy Skills,Mongolia,3.9202289215000006,4,1.0453943790666669
-People,Digital Literacy Skills,Montenegro,4.77821037775,4,1.2741894340666666
-People,Digital Literacy Skills,Morocco,3.9400027743000003,5,1.3133342581
-People,Digital Literacy Skills,Mozambique,3.111,1,0.2074
-People,Digital Literacy Skills,Myanmar,3.5625,1,0.2375
-People,Digital Literacy Skills,Namibia,4.279,1,0.28526666666666667
-People,Digital Literacy Skills,Nauru,2.0015,1,0.13343333333333335
-People,Digital Literacy Skills,Nepal,3.7025,1,0.24683333333333335
+People,Digital Literacy Skills,Monaco,2.5426565,1,0.16951043333333335
+People,Digital Literacy Skills,Mongolia,3.9143884636570005,4,1.0438369236418668
+People,Digital Literacy Skills,Montenegro,4.7706539569945,4,1.2721743885318666
+People,Digital Literacy Skills,Morocco,3.9341227687513998,5,1.3113742562504664
+People,Digital Literacy Skills,Mozambique,3.1067780000000003,1,0.20711853333333335
+People,Digital Literacy Skills,Myanmar,3.557375,1,0.23715833333333333
+People,Digital Literacy Skills,Namibia,4.272442,1,0.28482946666666664
+People,Digital Literacy Skills,Nauru,1.998497,1,0.13323313333333334
+People,Digital Literacy Skills,Nepal,3.697095,1,0.246473
 People,Digital Literacy Skills,Nepal (Republic of),0.0,0,0.0
-People,Digital Literacy Skills,Netherlands,4.8337318519000005,5,1.6112439506333334
-People,Digital Literacy Skills,New Zealand,3.5065,2,0.4675333333333333
-People,Digital Literacy Skills,Nicaragua,4.0665,1,0.27109999999999995
-People,Digital Literacy Skills,Niger,0.826,1,0.05506666666666666
-People,Digital Literacy Skills,Nigeria,2.92425,2,0.38989999999999997
-People,Digital Literacy Skills,North Macedonia,4.977271219125,4,1.3272723251
-People,Digital Literacy Skills,Norway,4.950200161800001,5,1.6500667206000001
-People,Digital Literacy Skills,Oman,5.484471914000001,3,1.0968943828000002
-People,Digital Literacy Skills,Pakistan,1.9512152264999998,5,0.6504050754999999
-People,Digital Literacy Skills,Palau,5.408,1,0.3605333333333334
-People,Digital Literacy Skills,Palestine,4.530327288166667,3,0.9060654576333335
-People,Digital Literacy Skills,Panama,4.313546795375,4,1.1502791454333334
-People,Digital Literacy Skills,Papua New Guinea,1.75325,1,0.11688333333333333
-People,Digital Literacy Skills,Paraguay,4.44026395875,4,1.184070389
-People,Digital Literacy Skills,Peru,3.7535834839000004,5,1.2511944946333333
-People,Digital Literacy Skills,Philippines,3.3686666666666665,3,0.6737333333333333
-People,Digital Literacy Skills,Poland,4.385354572700001,5,1.4617848575666668
-People,Digital Literacy Skills,Portugal,4.1889279797,5,1.3963093265666666
-People,Digital Literacy Skills,Qatar,5.574400187875,4,1.4865067167666666
-People,Digital Literacy Skills,Republic of Korea,5.4985,1,0.36656666666666665
-People,Digital Literacy Skills,Republic of Moldova,4.715999999999999,1,0.31439999999999996
-People,Digital Literacy Skills,Romania,4.0734440944,5,1.3578146981333332
-People,Digital Literacy Skills,Russia,1.365,1,0.091
-People,Digital Literacy Skills,Russian Federation,5.2043452205,4,1.3878253921333332
-People,Digital Literacy Skills,Rwanda,3.6305,1,0.24203333333333332
-People,Digital Literacy Skills,Saint Kitts and Nevis,2.50875,1,0.16725
-People,Digital Literacy Skills,Saint Lucia,2.30125,1,0.15341666666666667
-People,Digital Literacy Skills,Saint Vincent and the Grenadines,2.3035,1,0.15356666666666668
-People,Digital Literacy Skills,Samoa,2.3535,1,0.15689999999999998
-People,Digital Literacy Skills,San Marino,2.38725,1,0.15914999999999999
-People,Digital Literacy Skills,Sao Tome and Principe,4.368,1,0.2912
-People,Digital Literacy Skills,Saudi Arabia,4.847028326099999,5,1.6156761086999998
-People,Digital Literacy Skills,Senegal,2.666,1,0.17773333333333333
-People,Digital Literacy Skills,Serbia,4.2267785,5,1.4089261666666666
-People,Digital Literacy Skills,Seychelles,4.83,1,0.322
-People,Digital Literacy Skills,Sierra Leone,2.572,1,0.17146666666666666
-People,Digital Literacy Skills,Singapore,4.6555209587999995,5,1.5518403195999997
-People,Digital Literacy Skills,Slovakia,5.142895933,4,1.3714389154666666
-People,Digital Literacy Skills,Slovenia,5.272954039250001,4,1.4061210771333337
-People,Digital Literacy Skills,Solomon Islands,1.74625,1,0.11641666666666667
+People,Digital Literacy Skills,Netherlands,4.826064388196199,5,1.608688129398733
+People,Digital Literacy Skills,New Zealand,3.501487,2,0.46686493333333334
+People,Digital Literacy Skills,Nicaragua,4.060366999999999,1,0.2706911333333333
+People,Digital Literacy Skills,Niger,0.825348,1,0.055023199999999994
+People,Digital Literacy Skills,Nigeria,2.9204015,2,0.38938686666666666
+People,Digital Literacy Skills,North Macedonia,4.96931667668675,4,1.3251511137831333
+People,Digital Literacy Skills,Norway,4.9422997614764,5,1.6474332538254668
+People,Digital Literacy Skills,Oman,5.475502970171999,3,1.0951005940343999
+People,Digital Literacy Skills,Pakistan,1.9493127960469998,5,0.6497709320156666
+People,Digital Literacy Skills,Palau,5.399184000000001,1,0.35994560000000003
+People,Digital Literacy Skills,Palestine,4.523266633590334,3,0.904653326718067
+People,Digital Literacy Skills,Panama,4.30691970178425,4,1.1485119204758
+People,Digital Literacy Skills,Papua New Guinea,1.7507435,1,0.11671623333333334
+People,Digital Literacy Skills,Paraguay,4.4333834308325,4,1.1822355815553334
+People,Digital Literacy Skills,Peru,3.7480763169322002,5,1.2493587723107333
+People,Digital Literacy Skills,Philippines,3.3639293333333335,3,0.6727858666666667
+People,Digital Literacy Skills,Poland,4.378583863554601,5,1.4595279545182003
+People,Digital Literacy Skills,Portugal,4.1825501237406,5,1.3941833745802
+People,Digital Literacy Skills,Qatar,5.5652513874992495,4,1.4840670366664666
+People,Digital Literacy Skills,Republic of Korea,5.489503000000001,1,0.3659668666666667
+People,Digital Literacy Skills,Republic of Moldova,4.708568,1,0.3139045333333333
+People,Digital Literacy Skills,Romania,4.0672972062112,5,1.3557657354037334
+People,Digital Literacy Skills,Russia,1.36427,1,0.09095133333333334
+People,Digital Literacy Skills,Russian Federation,5.195936530059001,4,1.3855830746824003
+People,Digital Literacy Skills,Rwanda,3.625239,1,0.2416826
+People,Digital Literacy Skills,Saint Kitts and Nevis,2.5047325000000003,1,0.16698216666666668
+People,Digital Literacy Skills,Saint Lucia,2.2976475,1,0.1531765
+People,Digital Literacy Skills,Saint Vincent and the Grenadines,2.299893,1,0.1533262
+People,Digital Literacy Skills,Samoa,2.349793,1,0.15665286666666667
+People,Digital Literacy Skills,San Marino,2.3834755000000003,1,0.15889836666666668
+People,Digital Literacy Skills,Sao Tome and Principe,4.361264,1,0.29075093333333335
+People,Digital Literacy Skills,Saudi Arabia,4.8393342694478,5,1.6131114231492667
+People,Digital Literacy Skills,Senegal,2.662668,1,0.1775112
+People,Digital Literacy Skills,Serbia,4.220324943,5,1.4067749809999999
+People,Digital Literacy Skills,Seychelles,4.8223400000000005,1,0.32148933333333335
+People,Digital Literacy Skills,Sierra Leone,2.5688560000000003,1,0.17125706666666668
+People,Digital Literacy Skills,Singapore,4.6482099168824,5,1.5494033056274665
+People,Digital Literacy Skills,Slovakia,5.134610141134,4,1.3692293709690666
+People,Digital Literacy Skills,Slovenia,5.2644081311715,4,1.4038421683124
+People,Digital Literacy Skills,Solomon Islands,1.7437575,1,0.1162505
 People,Digital Literacy Skills,Somalia,0.5,1,0.03333333333333333
-People,Digital Literacy Skills,South Africa,3.2877499999999995,2,0.43836666666666657
-People,Digital Literacy Skills,South Korea,1.38,1,0.092
-People,Digital Literacy Skills,South Sudan,0.99325,1,0.06621666666666666
-People,Digital Literacy Skills,Spain,4.7144558757,5,1.5714852918999997
-People,Digital Literacy Skills,Sri Lanka,3.64,2,0.48533333333333334
-People,Digital Literacy Skills,Sudan,2.7795,1,0.1853
-People,Digital Literacy Skills,Suriname,4.549,1,0.3032666666666667
-People,Digital Literacy Skills,Sweden,4.824850574600001,5,1.608283524866667
-People,Digital Literacy Skills,Switzerland,4.800385627399999,5,1.6001285424666662
-People,Digital Literacy Skills,Syrian Arab Republic,3.5365,1,0.23576666666666668
-People,Digital Literacy Skills,"Taiwan, province of China",1.26,1,0.084
-People,Digital Literacy Skills,Tajikistan,2.3185000000000002,1,0.15456666666666669
-People,Digital Literacy Skills,Thailand,3.9513109204,5,1.3171036401333334
-People,Digital Literacy Skills,Timor-Leste,3.7995,1,0.2533
-People,Digital Literacy Skills,Togo,3.6865,1,0.24576666666666666
-People,Digital Literacy Skills,Tonga,2.5707500000000003,1,0.17138333333333336
-People,Digital Literacy Skills,Trinidad and Tobago,2.3585,1,0.1572333333333333
-People,Digital Literacy Skills,Tunisia,4.375182382125001,4,1.1667153019
-People,Digital Literacy Skills,Turkey,4.209471198699999,5,1.403157066233333
-People,Digital Literacy Skills,Turkmenistan,2.1957500000000003,1,0.14638333333333337
-People,Digital Literacy Skills,Tuvalu,2.2052500000000004,1,0.14701666666666668
-People,Digital Literacy Skills,Uganda,1.84875,1,0.12324999999999998
-People,Digital Literacy Skills,Ukraine,4.70745182425,4,1.2553204864666665
-People,Digital Literacy Skills,United Arab Emirates,4.8088152182999995,5,1.6029384060999998
-People,Digital Literacy Skills,United Kingdom,4.52863076275,4,1.2076348700666666
-People,Digital Literacy Skills,United Kingdom of Great Britain and Northern Ireland,5.646,1,0.3764
-People,Digital Literacy Skills,United Republic of Tanzania,3.3295,1,0.22196666666666665
-People,Digital Literacy Skills,United States,4.1336714143333335,3,0.8267342828666667
-People,Digital Literacy Skills,Uruguay,5.1894851202500005,4,1.3838626987333336
-People,Digital Literacy Skills,Uzbekistan,4.569472014625,4,1.2185258705666666
-People,Digital Literacy Skills,Vanuatu,2.003,1,0.13353333333333334
+People,Digital Literacy Skills,South Africa,3.2831745000000003,2,0.43775660000000005
+People,Digital Literacy Skills,South Korea,1.37924,1,0.09194933333333333
+People,Digital Literacy Skills,South Sudan,0.9922635,1,0.0661509
+People,Digital Literacy Skills,Spain,4.7070269639486,5,1.5690089879828666
+People,Digital Literacy Skills,Sri Lanka,3.63472,2,0.48462933333333336
+People,Digital Literacy Skills,Sudan,2.775941,1,0.18506273333333334
+People,Digital Literacy Skills,Suriname,4.541902,1,0.3027934666666667
+People,Digital Literacy Skills,Sweden,4.817200873450799,5,1.6057336244835998
+People,Digital Literacy Skills,Switzerland,4.7927848561452,5,1.5975949520484
+People,Digital Literacy Skills,Syrian Arab Republic,3.531427,1,0.23542846666666664
+People,Digital Literacy Skills,"Taiwan, province of China",1.25948,1,0.08396533333333332
+People,Digital Literacy Skills,Tajikistan,2.314863,1,0.1543242
+People,Digital Literacy Skills,Thailand,3.9454082985592,5,1.3151360995197332
+People,Digital Literacy Skills,Timor-Leste,3.793901,1,0.2529267333333333
+People,Digital Literacy Skills,Togo,3.681127,1,0.24540846666666666
+People,Digital Literacy Skills,Tonga,2.5666085,1,0.17110723333333333
+People,Digital Literacy Skills,Trinidad and Tobago,2.354783,1,0.15698553333333332
+People,Digital Literacy Skills,Tunisia,4.36843201736075,4,1.1649152046295332
+People,Digital Literacy Skills,Turkey,4.2030522563026,5,1.4010174187675333
+People,Digital Literacy Skills,Turkmenistan,2.1923585,1,0.14615723333333333
+People,Digital Literacy Skills,Tuvalu,2.2018395,1,0.1467893
+People,Digital Literacy Skills,Uganda,1.8460525,1,0.12307016666666667
+People,Digital Literacy Skills,Ukraine,4.7000369206015,4,1.2533431788270666
+People,Digital Literacy Skills,United Arab Emirates,4.801197587863401,5,1.6003991959544668
+People,Digital Literacy Skills,United Kingdom,4.5215735012245,4,1.2057529336598667
+People,Digital Literacy Skills,United Kingdom of Great Britain and Northern Ireland,5.6367080000000005,1,0.3757805333333334
+People,Digital Literacy Skills,United Republic of Tanzania,3.324841,1,0.22165606666666668
+People,Digital Literacy Skills,United States,4.1274040715046665,3,0.8254808143009333
+People,Digital Literacy Skills,Uruguay,5.181106150009501,4,1.3816283066692001
+People,Digital Literacy Skills,Uzbekistan,4.56233307059575,4,1.2166221521588667
+People,Digital Literacy Skills,Vanuatu,1.999994,1,0.13333293333333335
 People,Digital Literacy Skills,Vatican,0.0,0,0.0
-People,Digital Literacy Skills,Venezuela,2.4517499999999997,1,0.16344999999999998
-People,Digital Literacy Skills,Viet Nam,3.9490423182,5,1.3163474393999999
-People,Digital Literacy Skills,Yemen,1.5355,1,0.10236666666666668
-People,Digital Literacy Skills,Zambia,4.3725000000000005,1,0.29150000000000004
-People,Digital Literacy Skills,Zimbabwe,4.067500000000001,1,0.2711666666666667
-People,Digital Wellbeing,Afghanistan,2.2615,1,0.15076666666666666
-People,Digital Wellbeing,Albania,3.4105,2,0.4547333333333333
-People,Digital Wellbeing,Algeria,3.22975,2,0.43063333333333337
-People,Digital Wellbeing,Angola,2.0825,1,0.13883333333333334
-People,Digital Wellbeing,Argentina,4.29275,4,1.1447333333333334
-People,Digital Wellbeing,Armenia,3.4850000000000003,2,0.46466666666666673
-People,Digital Wellbeing,Australia,4.716875,4,1.2578333333333334
-People,Digital Wellbeing,Austria,4.662536299999999,5,1.5541787666666664
-People,Digital Wellbeing,Azerbaijan,3.5115,2,0.46819999999999995
-People,Digital Wellbeing,Bahrain,4.165666666666667,3,0.8331333333333334
-People,Digital Wellbeing,Bangladesh,3.446,2,0.4594666666666667
-People,Digital Wellbeing,Barbados,3.55,1,0.23666666666666666
-People,Digital Wellbeing,Belarus,3.92075,2,0.5227666666666666
-People,Digital Wellbeing,Belgium,4.962261100000001,5,1.6540870333333335
-People,Digital Wellbeing,Benin,3.3832500000000003,2,0.45110000000000006
-People,Digital Wellbeing,Bermuda,3.7,1,0.24666666666666667
-People,Digital Wellbeing,Bolivia,3.894,2,0.5192
-People,Digital Wellbeing,Bosnia and Herzegovina,4.086,2,0.5448000000000001
-People,Digital Wellbeing,Botswana,2.249,2,0.29986666666666667
-People,Digital Wellbeing,Brazil,4.2265,4,1.1270666666666667
-People,Digital Wellbeing,Bulgaria,3.50325,2,0.4671
-People,Digital Wellbeing,Burkina Faso,3.21475,2,0.4286333333333333
-People,Digital Wellbeing,Burundi,2.4755000000000003,2,0.3300666666666667
+People,Digital Literacy Skills,Venezuela,2.4478465,1,0.16318976666666665
+People,Digital Literacy Skills,Viet Nam,3.9431442335635998,5,1.3143814111878664
+People,Digital Literacy Skills,Yemen,1.5334290000000002,1,0.1022286
+People,Digital Literacy Skills,Zambia,4.365755,1,0.29105033333333336
+People,Digital Literacy Skills,Zimbabwe,4.061365,1,0.2707576666666667
+People,Digital Wellbeing,Afghanistan,2.258977,1,0.15059846666666665
+People,Digital Wellbeing,Albania,3.405679,2,0.4540905333333333
+People,Digital Wellbeing,Algeria,3.2252905,2,0.4300387333333333
+People,Digital Wellbeing,Angola,2.080335,1,0.13868899999999998
+People,Digital Wellbeing,Argentina,4.2861645,4,1.1429772
+People,Digital Wellbeing,Armenia,3.48003,2,0.464004
+People,Digital Wellbeing,Australia,4.70944125,4,1.255851
+People,Digital Wellbeing,Austria,4.655211227400001,5,1.5517370758000002
+People,Digital Wellbeing,Azerbaijan,3.5064770000000003,2,0.4675302666666667
+People,Digital Wellbeing,Bahrain,4.159335333333333,3,0.8318670666666667
+People,Digital Wellbeing,Bangladesh,3.4411080000000003,2,0.4588144
+People,Digital Wellbeing,Barbados,3.5449,1,0.23632666666666668
+People,Digital Wellbeing,Belarus,3.9149085,2,0.5219878
+People,Digital Wellbeing,Belgium,4.9543365778,5,1.6514455259333334
+People,Digital Wellbeing,Benin,3.3784835,2,0.4504644666666667
+People,Digital Wellbeing,Bermuda,3.6946,1,0.24630666666666665
+People,Digital Wellbeing,Bolivia,3.8882120000000002,2,0.5184282666666666
+People,Digital Wellbeing,Bosnia and Herzegovina,4.079828,2,0.5439770666666667
+People,Digital Wellbeing,Botswana,2.246502,2,0.2995336
+People,Digital Wellbeing,Brazil,4.220047,4,1.1253458666666667
+People,Digital Wellbeing,Bulgaria,3.4982435,2,0.46643246666666666
+People,Digital Wellbeing,Burkina Faso,3.2103205,2,0.4280427333333333
+People,Digital Wellbeing,Burundi,2.472549,2,0.3296732
 People,Digital Wellbeing,Cabo Verde,0.0,0,0.0
-People,Digital Wellbeing,Cambodia,3.34025,2,0.4453666666666667
-People,Digital Wellbeing,Cameroon,3.388,2,0.4517333333333333
-People,Digital Wellbeing,Canada,4.6385000000000005,4,1.2369333333333334
-People,Digital Wellbeing,Chad,2.854,2,0.38053333333333333
-People,Digital Wellbeing,Chile,4.363875,4,1.1637
-People,Digital Wellbeing,China,3.9175,4,1.0446666666666666
-People,Digital Wellbeing,Colombia,3.9811666666666667,3,0.7962333333333333
-People,Digital Wellbeing,Comoros,3.1445,1,0.2096333333333333
-People,Digital Wellbeing,Congo (Brazzaville),3.671,1,0.24473333333333333
-People,Digital Wellbeing,"Congo, Dem. Rep.",2.59,1,0.17266666666666666
-People,Digital Wellbeing,Costa Rica,4.388333333333334,3,0.8776666666666668
-People,Digital Wellbeing,Croatia,3.9115,2,0.5215333333333334
-People,Digital Wellbeing,Cyprus,4.248,2,0.5664
-People,Digital Wellbeing,Czech Republic,4.9030794900000005,5,1.6343598300000002
-People,Digital Wellbeing,Côte d'Ivoire,3.6525,1,0.2435
-People,Digital Wellbeing,Denmark,5.280452875,4,1.4081207666666666
-People,Digital Wellbeing,Dominican Republic,4.013249999999999,2,0.5350999999999999
-People,Digital Wellbeing,Ecuador,3.97225,2,0.5296333333333333
-People,Digital Wellbeing,Egypt,3.1053333333333337,3,0.6210666666666668
-People,Digital Wellbeing,El Salvador,4.36375,2,0.5818333333333333
-People,Digital Wellbeing,Estonia,4.9905425999999995,4,1.3308113599999998
-People,Digital Wellbeing,Eswatini,2.6735,1,0.17823333333333335
-People,Digital Wellbeing,Ethiopia,3.0083333333333333,3,0.6016666666666667
-People,Digital Wellbeing,European Union (28 countries),4.96087225,2,0.6614496333333334
-People,Digital Wellbeing,Finland,4.3379010000000005,4,1.1567736000000002
-People,Digital Wellbeing,France,4.6538345,6,1.8615338000000001
-People,Digital Wellbeing,Gabon,3.426,1,0.22840000000000002
-People,Digital Wellbeing,Gambia,3.47675,2,0.4635666666666667
-People,Digital Wellbeing,Georgia,3.3032500000000002,2,0.44043333333333334
-People,Digital Wellbeing,Germany,4.777734083333334,6,1.9110936333333335
-People,Digital Wellbeing,Ghana,3.4130000000000003,3,0.6826000000000001
-People,Digital Wellbeing,Great Britain,5.1,1,0.33999999999999997
-People,Digital Wellbeing,Greece,4.4046686600000005,5,1.4682228866666667
-People,Digital Wellbeing,Guatemala,4.3625,2,0.5816666666666667
-People,Digital Wellbeing,Guinea,3.2655000000000003,2,0.4354
-People,Digital Wellbeing,Haiti,2.8075,1,0.18716666666666668
-People,Digital Wellbeing,Honduras,4.0705,2,0.5427333333333333
-People,Digital Wellbeing,Hong Kong (China),3.915,1,0.261
-People,Digital Wellbeing,Hong Kong S.A.R. of China,3.7385,1,0.24923333333333333
-People,Digital Wellbeing,Hungary,4.3503697,5,1.4501232333333332
-People,Digital Wellbeing,Iceland,4.9774614999999995,4,1.3273230666666664
-People,Digital Wellbeing,India,3.0043749999999996,4,0.8011666666666666
-People,Digital Wellbeing,Indonesia,3.563,3,0.7126000000000001
-People,Digital Wellbeing,Iran,3.3605,1,0.22403333333333333
-People,Digital Wellbeing,"Iran, Islamic Rep.",3.273,1,0.2182
-People,Digital Wellbeing,Iraq,3.427,1,0.22846666666666668
-People,Digital Wellbeing,Ireland,5.255691912500001,4,1.4015178433333335
-People,Digital Wellbeing,Israel,4.87,2,0.6493333333333333
-People,Digital Wellbeing,Italy,4.8218349583333335,6,1.9287339833333335
-People,Digital Wellbeing,Ivory Coast,3.7119999999999997,2,0.4949333333333333
-People,Digital Wellbeing,Jamaica,4.148,2,0.5530666666666666
-People,Digital Wellbeing,Japan,4.2735,4,1.1396000000000002
-People,Digital Wellbeing,Jordan,2.96325,2,0.3951
-People,Digital Wellbeing,Kazakhstan,4.29675,2,0.5729000000000001
-People,Digital Wellbeing,Kenya,3.1968333333333336,3,0.6393666666666667
-People,Digital Wellbeing,"Korea, Rep.",4.1545000000000005,1,0.2769666666666667
-People,Digital Wellbeing,Kosovo,4.186,1,0.2790666666666667
-People,Digital Wellbeing,Kuwait,4.1191666666666675,3,0.8238333333333335
-People,Digital Wellbeing,Kyrgyzstan,3.90625,2,0.5208333333333334
-People,Digital Wellbeing,Lao PDR,3.4605,1,0.23070000000000002
-People,Digital Wellbeing,Laos,3.515,1,0.23433333333333334
-People,Digital Wellbeing,Latvia,4.8169595125,4,1.2845225366666668
-People,Digital Wellbeing,Lebanon,2.8,2,0.3733333333333333
-People,Digital Wellbeing,Lesotho,2.2802499999999997,2,0.30403333333333327
-People,Digital Wellbeing,Liberia,3.3125,1,0.22083333333333333
-People,Digital Wellbeing,Libya,3.705,1,0.247
-People,Digital Wellbeing,Lithuania,4.651310875000001,4,1.2403495666666668
-People,Digital Wellbeing,Luxembourg,5.3374817875,4,1.4233284766666665
-People,Digital Wellbeing,Madagascar,2.8607500000000003,2,0.3814333333333334
-People,Digital Wellbeing,Malawi,2.47775,2,0.33036666666666664
-People,Digital Wellbeing,Malaysia,3.9120000000000004,4,1.0432000000000001
-People,Digital Wellbeing,Maldives,3.599,1,0.23993333333333333
-People,Digital Wellbeing,Mali,3.3085,2,0.4411333333333333
-People,Digital Wellbeing,Malta,4.63575,2,0.6181
-People,Digital Wellbeing,Mauritania,3.1135,1,0.20756666666666668
-People,Digital Wellbeing,Mauritius,4.25575,2,0.5674333333333333
-People,Digital Wellbeing,Mexico,4.33675,4,1.1564666666666668
-People,Digital Wellbeing,Moldova,3.97,2,0.5293333333333333
-People,Digital Wellbeing,Mongolia,3.8295,2,0.5105999999999999
-People,Digital Wellbeing,Montenegro,3.7185,2,0.4958
-People,Digital Wellbeing,Morocco,3.391,2,0.45213333333333333
-People,Digital Wellbeing,Morroco,3.4775,1,0.23183333333333334
-People,Digital Wellbeing,Mozambique,3.359,3,0.6718000000000001
-People,Digital Wellbeing,Myanmar,3.213,1,0.2142
-People,Digital Wellbeing,Namibia,2.9997499999999997,2,0.39996666666666664
-People,Digital Wellbeing,Nepal,3.67125,2,0.4895
-People,Digital Wellbeing,Netherlands,4.6967967,5,1.5655989
-People,Digital Wellbeing,New Zealand,5.0365,2,0.6715333333333333
-People,Digital Wellbeing,Nicaragua,3.986,1,0.2657333333333333
-People,Digital Wellbeing,Niger,3.537,1,0.23579999999999998
-People,Digital Wellbeing,Nigeria,3.2428333333333335,3,0.6485666666666667
-People,Digital Wellbeing,North Cyprus,3.768,1,0.2512
-People,Digital Wellbeing,North Macedonia,3.4165,2,0.45553333333333335
-People,Digital Wellbeing,Norway,4.7167701,5,1.5722566999999998
-People,Digital Wellbeing,Oman,4.36925,2,0.5825666666666667
-People,Digital Wellbeing,Pakistan,3.59875,2,0.47983333333333333
-People,Digital Wellbeing,Palestinian Territories,3.2585,1,0.21723333333333333
-People,Digital Wellbeing,Panama,4.21225,2,0.5616333333333333
-People,Digital Wellbeing,Paraguay,3.8674999999999997,2,0.5156666666666666
-People,Digital Wellbeing,Peru,4.203875,4,1.1210333333333333
-People,Digital Wellbeing,Philippines,4.0195,3,0.8039000000000001
-People,Digital Wellbeing,Poland,4.814427366666667,6,1.9257709466666668
-People,Digital Wellbeing,Portugal,3.6777236249999996,4,0.9807262999999998
-People,Digital Wellbeing,Qatar,4.009,2,0.5345333333333334
-People,Digital Wellbeing,Romania,4.632666666666666,3,0.9265333333333333
-People,Digital Wellbeing,Russia,4.391500000000001,3,0.8783000000000002
-People,Digital Wellbeing,Russian Federation,3.772,1,0.25146666666666667
-People,Digital Wellbeing,Rwanda,2.13625,2,0.2848333333333333
-People,Digital Wellbeing,Saudi Arabia,4.44325,4,1.1848666666666667
-People,Digital Wellbeing,Senegal,3.537833333333333,3,0.7075666666666667
-People,Digital Wellbeing,Serbia,4.575499999999999,3,0.9150999999999998
-People,Digital Wellbeing,Sierra Leone,2.9245,1,0.19496666666666668
-People,Digital Wellbeing,Singapore,4.203500000000001,3,0.8407000000000002
-People,Digital Wellbeing,Slovak Republic,5.1685490000000005,2,0.6891398666666667
-People,Digital Wellbeing,Slovakia,4.327500000000001,2,0.5770000000000001
-People,Digital Wellbeing,Slovenia,4.97171755,4,1.3257913466666666
-People,Digital Wellbeing,South Africa,3.8592500000000003,4,1.0291333333333335
-People,Digital Wellbeing,South Korea,4.222833333333333,3,0.8445666666666667
-People,Digital Wellbeing,Spain,4.270153416666667,6,1.7080613666666669
-People,Digital Wellbeing,Sri Lanka,2.82825,2,0.3771
-People,Digital Wellbeing,Swaziland,3.154,1,0.21026666666666666
-People,Digital Wellbeing,Sweden,4.609572333333333,6,1.8438289333333335
-People,Digital Wellbeing,Switzerland,4.2303197,5,1.4101065666666666
-People,Digital Wellbeing,Taiwan,3.347,1,0.22313333333333332
-People,Digital Wellbeing,Taiwan Province of China,4.292,1,0.2861333333333333
-People,Digital Wellbeing,Tajikistan,3.7279999999999998,2,0.4970666666666666
-People,Digital Wellbeing,Tanzania,2.7390000000000003,3,0.5478000000000001
-People,Digital Wellbeing,Thailand,3.8433333333333337,3,0.7686666666666668
-People,Digital Wellbeing,Togo,3.0535,1,0.20356666666666667
-People,Digital Wellbeing,Trinidad and Tobago,4.4385,1,0.2959
-People,Digital Wellbeing,Tunisia,2.94625,2,0.3928333333333333
-People,Digital Wellbeing,Turkey,3.9262091666666667,6,1.5704836666666668
-People,Digital Wellbeing,Turkmenistan,3.533,1,0.23553333333333332
-People,Digital Wellbeing,UAE,3.65,1,0.24333333333333332
-People,Digital Wellbeing,Uganda,3.2670000000000003,2,0.43560000000000004
-People,Digital Wellbeing,Ukraine,3.20575,2,0.42743333333333333
-People,Digital Wellbeing,United Arab Emirates,4.6145,2,0.6152666666666666
-People,Digital Wellbeing,United Kingdom,4.5776997999999995,5,1.5258999333333332
-People,Digital Wellbeing,United States,4.51575,4,1.2042
-People,Digital Wellbeing,Uruguay,4.52775,2,0.6037
-People,Digital Wellbeing,Uzbekistan,4.0895,1,0.27263333333333334
-People,Digital Wellbeing,Venezuela,3.39625,2,0.45283333333333337
-People,Digital Wellbeing,Viet Nam,3.716,2,0.49546666666666667
-People,Digital Wellbeing,Yemen,2.65325,2,0.3537666666666667
-People,Digital Wellbeing,Zambia,2.31975,2,0.3093
-People,Digital Wellbeing,Zimbabwe,1.78625,2,0.23816666666666664
-People,Usage and ownership,Afghanistan,1.1083333333333334,7,0.5172222222222222
-People,Usage and ownership,Albania,2.7083841627692307,11,1.986148386030769
-People,Usage and ownership,Algeria,2.13249614565,8,1.13733127768
-People,Usage and ownership,American Samoa,3.0,1,0.2
-People,Usage and ownership,Andorra,0.931875,1,0.062125
-People,Usage and ownership,Angola,1.5627800302500001,5,0.52092667675
-People,Usage and ownership,Anguilla,4.0,1,0.26666666666666666
-People,Usage and ownership,Antigua and Barbuda,1.0328750000000002,1,0.06885833333333334
-People,Usage and ownership,Arab world,2.15,2,0.2866666666666666
-People,Usage and ownership,Argentina,3.595848184423076,11,2.636955335243589
-People,Usage and ownership,Armenia,2.844306048333334,10,1.8962040322222224
-People,Usage and ownership,Aruba,5.2525,1,0.3501666666666667
-People,Usage and ownership,Australia,3.662325195318182,9,2.197395117190909
-People,Usage and ownership,Austria,3.8843727298571435,12,3.107498183885715
-People,Usage and ownership,Azerbaijan,3.5486917972916667,12,2.8389534378333336
-People,Usage and ownership,Bahamas,2.9009285714285715,5,0.9669761904761904
-People,Usage and ownership,Bahrain,4.350428028307692,13,3.7703709578666667
-People,Usage and ownership,Bangladesh,2.26404807355,10,1.5093653823666666
-People,Usage and ownership,Barbados,2.5344389495625,5,0.8448129831875
-People,Usage and ownership,Belarus,4.4395410325,13,3.847602228166667
-People,Usage and ownership,Belgium,4.055131903535715,12,3.2441055228285722
-People,Usage and ownership,Belize,2.7185877358571426,5,0.9061959119523808
-People,Usage and ownership,Benin,1.59421658135,8,0.8502488433866666
-People,Usage and ownership,Bermuda,2.5725,2,0.34299999999999997
-People,Usage and ownership,Bhutan,3.0736248092500005,4,0.8196332824666668
-People,Usage and ownership,Bolivia,3.337571208428572,7,1.5575332306000003
-People,Usage and ownership,Bolivia (Plurinational State of),2.070834575,3,0.414166915
-People,Usage and ownership,"Bolivia, Plurinational State of",1.25,1,0.08333333333333333
-People,Usage and ownership,Bosnia and Herzegovina,2.9457098686923078,11,2.1601872370410256
-People,Usage and ownership,Botswana,2.4219657348500006,8,1.291715058586667
-People,Usage and ownership,Brazil,4.301078614071428,14,4.0143400397999995
-People,Usage and ownership,British Virgin Islands,3.0,1,0.2
-People,Usage and ownership,Brunei,5.527,1,0.36846666666666666
-People,Usage and ownership,Brunei Darussalam,4.4962647053125,8,2.398007842833333
-People,Usage and ownership,Bulgaria,3.3317556482307698,11,2.443287475369231
-People,Usage and ownership,Burkina Faso,1.5081724865200001,8,0.8043586594773334
-People,Usage and ownership,Burundi,1.2133451162142859,4,0.3235586976571429
-People,Usage and ownership,Cabo Verde,3.5627555632777774,8,1.9001363004148146
-People,Usage and ownership,Cambodia,3.4238059321923084,13,2.9672984745666673
-People,Usage and ownership,Cameroon,2.0913081772,8,1.1153643611733335
-People,Usage and ownership,Canada,3.693236274045454,9,2.2159417644272725
-People,Usage and ownership,Cape Verde,3.135,1,0.209
-People,Usage and ownership,Cayman Islands,2.81825,2,0.37576666666666664
+People,Digital Wellbeing,Cambodia,3.3355695,2,0.4447426
+People,Digital Wellbeing,Cameroon,3.3832240000000002,2,0.4510965333333334
+People,Digital Wellbeing,Canada,4.631223,4,1.2349928000000001
+People,Digital Wellbeing,Chad,2.8502920000000005,2,0.3800389333333334
+People,Digital Wellbeing,Chile,4.357147250000001,4,1.1619059333333335
+People,Digital Wellbeing,China,3.911665,4,1.0431106666666667
+People,Digital Wellbeing,Colombia,3.9752043333333336,3,0.7950408666666667
+People,Digital Wellbeing,Comoros,3.140211,1,0.2093474
+People,Digital Wellbeing,Congo (Brazzaville),3.665658,1,0.2443772
+People,Digital Wellbeing,"Congo, Dem. Rep.",2.5868200000000003,1,0.1724546666666667
+People,Digital Wellbeing,Costa Rica,4.381556666666667,3,0.8763113333333336
+People,Digital Wellbeing,Croatia,3.905677,2,0.5207569333333333
+People,Digital Wellbeing,Cyprus,4.241504,2,0.5655338666666666
+People,Digital Wellbeing,Czech Republic,4.89527333102,5,1.6317577770066667
+People,Digital Wellbeing,Côte d'Ivoire,3.647195,1,0.24314633333333333
+People,Digital Wellbeing,Denmark,5.27189196925,4,1.4058378584666666
+People,Digital Wellbeing,Dominican Republic,4.0072235,2,0.5342964666666667
+People,Digital Wellbeing,Ecuador,3.9663055,2,0.5288407333333333
+People,Digital Wellbeing,Egypt,3.101122666666667,3,0.6202245333333334
+People,Digital Wellbeing,El Salvador,4.3570225,2,0.5809363333333334
+People,Digital Wellbeing,Estonia,4.9825615148,4,1.3286830706133335
+People,Digital Wellbeing,Eswatini,2.670153,1,0.1780102
+People,Digital Wellbeing,Ethiopia,3.0043166666666665,3,0.6008633333333333
+People,Digital Wellbeing,European Union (28 countries),4.9529505055000005,2,0.6603934007333334
+People,Digital Wellbeing,Finland,4.331225198,4,1.1549933861333335
+People,Digital Wellbeing,France,4.646526831,6,1.8586107324
+People,Digital Wellbeing,Gabon,3.421148,1,0.22807653333333333
+People,Digital Wellbeing,Gambia,3.4717965,2,0.4629062
+People,Digital Wellbeing,Georgia,3.2986435,2,0.4398191333333333
+People,Digital Wellbeing,Germany,4.7701786151666665,6,1.9080714460666668
+People,Digital Wellbeing,Ghana,3.4081740000000003,3,0.6816348000000001
+People,Digital Wellbeing,Great Britain,5.0918,1,0.33945333333333333
+People,Digital Wellbeing,Greece,4.3978593226800005,5,1.46595310756
+People,Digital Wellbeing,Guatemala,4.3557749999999995,2,0.5807699999999999
+People,Digital Wellbeing,Guinea,3.2609690000000002,2,0.4347958666666667
+People,Digital Wellbeing,Haiti,2.803885,1,0.18692566666666668
+People,Digital Wellbeing,Honduras,4.064359,2,0.5419145333333333
+People,Digital Wellbeing,Hong Kong (China),3.90917,1,0.2606113333333333
+People,Digital Wellbeing,Hong Kong S.A.R. of China,3.733023,1,0.2488682
+People,Digital Wellbeing,Hungary,4.3436689606000005,5,1.4478896535333334
+People,Digital Wellbeing,Iceland,4.969506577000001,4,1.3252017538666667
+People,Digital Wellbeing,India,3.00036625,4,0.8000976666666666
+People,Digital Wellbeing,Indonesia,3.5578740000000004,3,0.7115748000000002
+People,Digital Wellbeing,Iran,3.355779,1,0.2237186
+People,Digital Wellbeing,"Iran, Islamic Rep.",3.268454,1,0.21789693333333335
+People,Digital Wellbeing,Iraq,3.422146,1,0.22814306666666667
+People,Digital Wellbeing,Ireland,5.247180528675001,4,1.3992481409800002
+People,Digital Wellbeing,Israel,4.862260000000001,2,0.6483013333333334
+People,Digital Wellbeing,Italy,4.814191288416667,6,1.9256765153666668
+People,Digital Wellbeing,Ivory Coast,3.706576,2,0.49421013333333336
+People,Digital Wellbeing,Jamaica,4.141704000000001,2,0.5522272000000001
+People,Digital Wellbeing,Japan,4.266953,4,1.1378541333333334
+People,Digital Wellbeing,Jordan,2.9593235,2,0.3945764666666667
+People,Digital Wellbeing,Kazakhstan,4.2901565,2,0.5720208666666666
+People,Digital Wellbeing,Kenya,3.192439666666667,3,0.6384879333333334
+People,Digital Wellbeing,"Korea, Rep.",4.148191000000001,1,0.2765460666666667
+People,Digital Wellbeing,Kosovo,4.179628,1,0.2786418666666667
+People,Digital Wellbeing,Kuwait,4.1129283333333335,3,0.8225856666666668
+People,Digital Wellbeing,Kyrgyzstan,3.9004375,2,0.5200583333333333
+People,Digital Wellbeing,Lao PDR,3.455579,1,0.23037193333333333
+People,Digital Wellbeing,Laos,3.50997,1,0.233998
+People,Digital Wellbeing,Latvia,4.809325593475,4,1.2824868249266668
+People,Digital Wellbeing,Lebanon,2.7964,2,0.37285333333333337
+People,Digital Wellbeing,Lesotho,2.2776895,2,0.30369193333333333
+People,Digital Wellbeing,Liberia,3.307875,1,0.220525
+People,Digital Wellbeing,Libya,3.69959,1,0.24663933333333335
+People,Digital Wellbeing,Lithuania,4.64400825325,4,1.2384022008666666
+People,Digital Wellbeing,Luxembourg,5.328806823925001,4,1.421015153046667
+People,Digital Wellbeing,Madagascar,2.8570285,2,0.38093713333333334
+People,Digital Wellbeing,Malawi,2.4747945,2,0.32997259999999995
+People,Digital Wellbeing,Malaysia,3.9061760000000003,4,1.0416469333333334
+People,Digital Wellbeing,Maldives,3.593802,1,0.23958680000000002
+People,Digital Wellbeing,Mali,3.303883,2,0.44051773333333333
+People,Digital Wellbeing,Malta,4.6284785,2,0.6171304666666666
+People,Digital Wellbeing,Mauritania,3.1092730000000004,1,0.20728486666666668
+People,Digital Wellbeing,Mauritius,4.249238500000001,2,0.5665651333333334
+People,Digital Wellbeing,Mexico,4.3300765000000006,4,1.1546870666666669
+People,Digital Wellbeing,Moldova,3.96406,2,0.5285413333333333
+People,Digital Wellbeing,Mongolia,3.823841,2,0.5098454666666666
+People,Digital Wellbeing,Montenegro,3.713063,2,0.4950750666666667
+People,Digital Wellbeing,Morocco,3.386218,2,0.4514957333333333
+People,Digital Wellbeing,Morroco,3.472545,1,0.23150300000000001
+People,Digital Wellbeing,Mozambique,3.354282,3,0.6708564
+People,Digital Wellbeing,Myanmar,3.208574,1,0.21390493333333332
+People,Digital Wellbeing,Namibia,2.9957504999999998,2,0.39943339999999994
+People,Digital Wellbeing,Nepal,3.6659075,2,0.4887876666666666
+People,Digital Wellbeing,Netherlands,4.6894031065999995,5,1.5631343688666663
+People,Digital Wellbeing,New Zealand,5.028427000000001,2,0.6704569333333334
+People,Digital Wellbeing,Nicaragua,3.980028,1,0.2653352
+People,Digital Wellbeing,Niger,3.531926,1,0.2354617333333333
+People,Digital Wellbeing,Nigeria,3.2383476666666664,3,0.6476695333333333
+People,Digital Wellbeing,North Cyprus,3.762464,1,0.25083093333333334
+People,Digital Wellbeing,North Macedonia,3.411667,2,0.4548889333333333
+People,Digital Wellbeing,Norway,4.7093365598000005,5,1.5697788532666668
+People,Digital Wellbeing,Oman,4.3625115,2,0.5816682
+People,Digital Wellbeing,Pakistan,3.5935525000000004,2,0.4791403333333334
+People,Digital Wellbeing,Palestinian Territories,3.2539830000000003,1,0.21693220000000002
+People,Digital Wellbeing,Panama,4.2058254999999996,2,0.5607767333333332
+People,Digital Wellbeing,Paraguay,3.861765,2,0.514902
+People,Digital Wellbeing,Peru,4.19746725,4,1.1193246
+People,Digital Wellbeing,Philippines,4.013461,3,0.8026922000000001
+People,Digital Wellbeing,Poland,4.8067985119333345,6,1.9227194047733338
+People,Digital Wellbeing,Portugal,3.67236817775,4,0.9792981807333333
+People,Digital Wellbeing,Qatar,4.002982,2,0.5337309333333333
+People,Digital Wellbeing,Romania,4.6254013333333335,3,0.9250802666666668
+People,Digital Wellbeing,Russia,4.384716999999999,3,0.8769433999999999
+People,Digital Wellbeing,Russian Federation,3.766456,1,0.25109706666666665
+People,Digital Wellbeing,Rwanda,2.1339775000000003,2,0.2845303333333334
+People,Digital Wellbeing,Saudi Arabia,4.4363635,4,1.1830302666666666
+People,Digital Wellbeing,Senegal,3.5327576666666665,3,0.7065515333333333
+People,Digital Wellbeing,Serbia,4.568349,3,0.9136698000000001
+People,Digital Wellbeing,Sierra Leone,2.9206510000000003,1,0.19471006666666668
+People,Digital Wellbeing,Singapore,4.197093,3,0.8394186
+People,Digital Wellbeing,Slovak Republic,5.160211902,2,0.6880282536000001
+People,Digital Wellbeing,Slovakia,4.320845,2,0.5761126666666667
+People,Digital Wellbeing,Slovenia,4.9637741149000005,4,1.3236730973066668
+People,Digital Wellbeing,South Africa,3.8535315,4,1.0276083999999999
+People,Digital Wellbeing,South Korea,4.216387666666667,3,0.8432775333333334
+People,Digital Wellbeing,Spain,4.263613109833334,6,1.7054452439333336
+People,Digital Wellbeing,Sri Lanka,2.8245935,2,0.3766124666666667
+People,Digital Wellbeing,Swaziland,3.149692,1,0.20997946666666667
+People,Digital Wellbeing,Sweden,4.602353188666666,6,1.8409412754666665
+People,Digital Wellbeing,Switzerland,4.223859060600001,5,1.4079530202000001
+People,Digital Wellbeing,Taiwan,3.342306,1,0.2228204
+People,Digital Wellbeing,Taiwan Province of China,4.285416,1,0.28569439999999996
+People,Digital Wellbeing,Tajikistan,3.722544,2,0.4963392
+People,Digital Wellbeing,Tanzania,2.735522,3,0.5471044
+People,Digital Wellbeing,Thailand,3.8376466666666667,3,0.7675293333333334
+People,Digital Wellbeing,Togo,3.049393,1,0.20329286666666666
+People,Digital Wellbeing,Trinidad and Tobago,4.431623,1,0.29544153333333334
+People,Digital Wellbeing,Tunisia,2.9423575,2,0.3923143333333333
+People,Digital Wellbeing,Turkey,3.9203567483333335,6,1.5681426993333334
+People,Digital Wellbeing,Turkmenistan,3.527934,1,0.2351956
+People,Digital Wellbeing,UAE,3.6447,1,0.24297999999999997
+People,Digital Wellbeing,Uganda,3.2624660000000003,2,0.4349954666666667
+People,Digital Wellbeing,Ukraine,3.2013385000000003,2,0.42684513333333335
+People,Digital Wellbeing,United Arab Emirates,4.607271,2,0.6143027999999999
+People,Digital Wellbeing,United Kingdom,4.5705444004,5,1.5235148001333334
+People,Digital Wellbeing,United States,4.5087185000000005,4,1.2023249333333335
+People,Digital Wellbeing,Uruguay,4.5206945,2,0.6027592666666667
+People,Digital Wellbeing,Uzbekistan,4.083321,1,0.2722214
+People,Digital Wellbeing,Venezuela,3.3914575000000005,2,0.45219433333333336
+People,Digital Wellbeing,Viet Nam,3.7105680000000003,2,0.4947424
+People,Digital Wellbeing,Yemen,2.6499435,2,0.3533258
+People,Digital Wellbeing,Zambia,2.3171105,2,0.3089480666666667
+People,Digital Wellbeing,Zimbabwe,1.7846775,2,0.23795699999999997
+People,Usage and ownership,Afghanistan,1.1076722222222222,7,0.5169137037037037
+People,Usage and ownership,Albania,2.7046597021360004,11,1.9834171148997335
+People,Usage and ownership,Algeria,2.1298311533587,8,1.1359099484579733
+People,Usage and ownership,American Samoa,2.9960000000000004,1,0.19973333333333337
+People,Usage and ownership,Andorra,0.93051125,1,0.06203408333333333
+People,Usage and ownership,Angola,1.5609044701894998,5,0.5203014900631666
+People,Usage and ownership,Anguilla,3.994,1,0.26626666666666665
+People,Usage and ownership,Antigua and Barbuda,1.03130925,1,0.06875395000000001
+People,Usage and ownership,Arab world,2.1477000000000004,2,0.28636000000000006
+People,Usage and ownership,Argentina,3.590348795746538,11,2.632922450214128
+People,Usage and ownership,Armenia,2.840284102903334,10,1.8935227352688893
+People,Usage and ownership,Aruba,5.243995,1,0.34959966666666664
+People,Usage and ownership,Australia,3.6566369085639083,9,2.193982145138345
+People,Usage and ownership,Austria,3.878318270111714,12,3.1026546160893713
+People,Usage and ownership,Azerbaijan,3.543594413697084,12,2.8348755309576674
+People,Usage and ownership,Bahamas,2.896555285714286,5,0.9655184285714287
+People,Usage and ownership,Bahrain,4.343727172251078,13,3.7645635492842673
+People,Usage and ownership,Bangladesh,2.261338159221082,10,1.5075587728140545
+People,Usage and ownership,Barbados,2.530620071663375,5,0.8435400238877917
+People,Usage and ownership,Belarus,4.4326619504349996,13,3.8416403570436666
+People,Usage and ownership,Belgium,4.048735925442929,12,3.2389887403543436
+People,Usage and ownership,Belize,2.714579131814,5,0.9048597106046665
+People,Usage and ownership,Benin,1.5926281481872997,8,0.8494016790332265
+People,Usage and ownership,Bermuda,2.569355,2,0.34258066666666664
+People,Usage and ownership,Bhutan,3.0688108929648337,4,0.8183495714572889
+People,Usage and ownership,Bolivia,3.332896066011714,7,1.5553514974721334
+People,Usage and ownership,Bolivia (Plurinational State of),2.06789290585,3,0.41357858117
+People,Usage and ownership,"Bolivia, Plurinational State of",1.2495,1,0.0833
+People,Usage and ownership,Bosnia and Herzegovina,2.941510756647231,11,2.1571078882079693
+People,Usage and ownership,Botswana,2.4187218033802997,8,1.2899849618028265
+People,Usage and ownership,Brazil,4.294476456843286,14,4.008178026387068
+People,Usage and ownership,British Virgin Islands,2.9960000000000004,1,0.19973333333333337
+People,Usage and ownership,Brunei,5.517946,1,0.3678630666666667
+People,Usage and ownership,Brunei Darussalam,4.489272175901875,8,2.3942784938143333
+People,Usage and ownership,Bulgaria,3.3267844446266164,11,2.4396419260595184
+People,Usage and ownership,Burkina Faso,1.50675614154696,8,0.803603275491712
+People,Usage and ownership,Burundi,1.2120612831247144,4,0.3232163421665905
+People,Usage and ownership,Cabo Verde,3.5574078299289997,8,1.897284175962133
+People,Usage and ownership,Cambodia,3.4189583203279232,13,2.963097210950867
+People,Usage and ownership,Cameroon,2.0887255608456,8,1.11398696578432
+People,Usage and ownership,Canada,3.6874861651337283,9,2.212491699080237
+People,Usage and ownership,Cape Verde,3.13073,1,0.2087153333333333
+People,Usage and ownership,Cayman Islands,2.8146135,2,0.3752818
 People,Usage and ownership,Central African Rep.,0.0,0,0.0
-People,Usage and ownership,Central African Republic,2.2778992633333335,6,0.9111597053333335
-People,Usage and ownership,Chad,1.5400181454555557,7,0.718675134545926
-People,Usage and ownership,Chile,3.0871500000000003,8,1.6464800000000002
-People,Usage and ownership,China,3.2970098732142863,12,2.6376078985714293
-People,Usage and ownership,Colombia,3.8502596941153846,13,3.3368917349
-People,Usage and ownership,Comoros,2.139806976357143,4,0.570615193695238
-People,Usage and ownership,Congo,4.0387811991666664,3,0.8077562398333333
+People,Usage and ownership,Central African Republic,2.275343464806667,6,0.9101373859226668
+People,Usage and ownership,Chad,1.5384936647201999,7,0.71796371020276
+People,Usage and ownership,Chile,3.0825757000000005,8,1.6440403733333335
+People,Usage and ownership,China,3.2921301391821425,12,2.6337041113457142
+People,Usage and ownership,Colombia,3.844559174727153,13,3.331951284763533
+People,Usage and ownership,Comoros,2.136670219547286,4,0.5697787252126096
+People,Usage and ownership,Congo,4.032703636768333,3,0.8065407273536667
 People,Usage and ownership,Congo (Rep. of the),0.0,0,0.0
-People,Usage and ownership,"Congo, Dem. Rep.",1.5218333333333334,3,0.3043666666666667
-People,Usage and ownership,"Congo, Democratic Republic",2.737976633666667,3,0.5475953267333334
-People,Usage and ownership,"Congo, Rep.",1.75,2,0.23333333333333334
-People,Usage and ownership,"Congo, The Democratic Republic of the",1.4,1,0.09333333333333332
-People,Usage and ownership,Cook Islands,3.389,1,0.22593333333333332
-People,Usage and ownership,Costa Rica,3.4709958101153853,11,2.545396927417949
-People,Usage and ownership,Cote d'Ivoire,3.5039240753,5,1.1679746917666667
-People,Usage and ownership,Croatia,3.5451232176153846,11,2.599757026251282
-People,Usage and ownership,Cuba,2.5167471139285715,6,1.0066988455714287
-People,Usage and ownership,Curacao,4.6365,1,0.3091
-People,Usage and ownership,Cyprus,3.616002029307692,11,2.6517348214923073
-People,Usage and ownership,Czech Republic,4.855780476944445,9,2.9134682861666668
-People,Usage and ownership,Czechia,4.13009758,4,1.1013593546666667
-People,Usage and ownership,Côte d'Ivoire,2.752329788833333,6,1.1009319155333332
-People,Usage and ownership,DR Congo,1.1685,1,0.07790000000000001
+People,Usage and ownership,"Congo, Dem. Rep.",1.5207896666666667,3,0.30415793333333335
+People,Usage and ownership,"Congo, Democratic Republic",2.7345006803993335,3,0.5469001360798668
+People,Usage and ownership,"Congo, Rep.",1.7485,2,0.23313333333333333
+People,Usage and ownership,"Congo, The Democratic Republic of the",1.3992,1,0.09328
+People,Usage and ownership,Cook Islands,3.384222,1,0.22561479999999998
+People,Usage and ownership,Costa Rica,3.4657461261874616,11,2.5415471592041383
+People,Usage and ownership,Cote d'Ivoire,3.4989162271493996,5,1.1663054090497997
+People,Usage and ownership,Croatia,3.539725278872462,11,2.595798537839805
+People,Usage and ownership,Cuba,2.5134279054150004,6,1.0053711621660002
+People,Usage and ownership,Curacao,4.629227,1,0.30861513333333335
+People,Usage and ownership,Cyprus,3.6104623329413856,11,2.6476723774903492
+People,Usage and ownership,Czech Republic,4.848068915990556,9,2.9088413495943333
+People,Usage and ownership,Czechia,4.12383738484,4,1.0996899692906665
+People,Usage and ownership,Côte d'Ivoire,2.748825129255667,6,1.0995300517022668
+People,Usage and ownership,DR Congo,1.168163,1,0.07787753333333333
 People,Usage and ownership,Dem. People's Rep. of Korea,0.0,0,0.0
 People,Usage and ownership,Dem. Rep. of the Congo,0.0,0,0.0
-People,Usage and ownership,Denmark,4.387115669357143,12,3.5096925354857142
-People,Usage and ownership,Developing,3.1,2,0.41333333333333333
-People,Usage and ownership,Djibouti,0.6855000000000001,1,0.045700000000000005
-People,Usage and ownership,Dominica,0.927125,1,0.06180833333333333
+People,Usage and ownership,Denmark,4.380055723732715,12,3.5040445789861723
+People,Usage and ownership,Developing,3.0958,2,0.4127733333333333
+People,Usage and ownership,Djibouti,0.6847956666666667,1,0.04565304444444444
+People,Usage and ownership,Dominica,0.92577075,1,0.061718049999999997
 People,Usage and ownership,Dominican Rep.,0.0,0,0.0
-People,Usage and ownership,Dominican Republic,3.427420658125,8,1.8279576843333334
-People,Usage and ownership,East Asia & Pacific,3.875,2,0.5166666666666666
-People,Usage and ownership,East Asia & Pacific (excluding high income),3.75,2,0.5
-People,Usage and ownership,Ecuador,3.385082966409091,11,2.4823941753666667
-People,Usage and ownership,Egypt,3.8195406677499992,12,3.0556325341999995
-People,Usage and ownership,"Egypt, Arab Rep.",1.9,2,0.2533333333333333
-People,Usage and ownership,El Salvador,2.40196501075,10,1.6013100071666666
-People,Usage and ownership,Equatorial Guinea,0.33675,1,0.022449999999999998
-People,Usage and ownership,Eritrea,0.257625,1,0.017175
-People,Usage and ownership,Estonia,3.932223884576923,11,2.883630848689743
-People,Usage and ownership,Eswatini,1.8766412945,4,0.5004376785333333
-People,Usage and ownership,Ethiopia,1.3000409298,8,0.69335516256
-People,Usage and ownership,Euro area,5.1,2,0.6799999999999999
-People,Usage and ownership,Europe & Central Asia,4.35,2,0.58
-People,Usage and ownership,Europe & Central Asia (excluding high income),3.4,2,0.4533333333333333
-People,Usage and ownership,Falkland Islands,4.875,1,0.325
-People,Usage and ownership,Faroe Islands,4.3675,1,0.29116666666666663
-People,Usage and ownership,Fiji,2.1071262378749998,5,0.7023754126249999
-People,Usage and ownership,Finland,4.104453438807692,11,3.009932521792307
-People,Usage and ownership,France,3.9286625393571435,12,3.142930031485715
-People,Usage and ownership,French Guiana,2.7975000000000003,1,0.18650000000000003
-People,Usage and ownership,French Polynesia,2.35,2,0.31333333333333335
-People,Usage and ownership,Gabon,2.7812196214444445,7,1.2979024900074074
-People,Usage and ownership,Gambia,1.4980856334285715,4,0.39948950224761903
-People,Usage and ownership,Georgia,4.048152927807692,13,3.5083992041
-People,Usage and ownership,Germany,4.043284236633334,13,3.5041796717488896
-People,Usage and ownership,Ghana,2.3304665680000003,9,1.3982799408000002
-People,Usage and ownership,Gibraltar,4.3825,1,0.2921666666666667
-People,Usage and ownership,Greece,3.447416776307693,11,2.5281056359589744
-People,Usage and ownership,Greenland,4.333500000000001,1,0.28890000000000005
-People,Usage and ownership,Grenada,0.935875,1,0.062391666666666665
-People,Usage and ownership,Guadeloupe,3.75,1,0.25
-People,Usage and ownership,Guam,4.2355,1,0.28236666666666665
-People,Usage and ownership,Guatemala,2.9571327004166665,12,2.365706160333333
-People,Usage and ownership,Guinea,1.8238760354444448,7,0.8511421498740742
-People,Usage and ownership,Guinea-Bissau,1.7849622052499996,4,0.4759899213999999
-People,Usage and ownership,Guyana,2.4326977100625,5,0.8108992366875
-People,Usage and ownership,Haiti,2.2106059061666663,7,1.0316160895444444
-People,Usage and ownership,High income,5.050000000000001,2,0.6733333333333335
-People,Usage and ownership,High income: OECD,5.125,2,0.6833333333333333
-People,Usage and ownership,Honduras,2.422455341681818,9,1.4534732050090908
-People,Usage and ownership,Hong Kong,4.029833333333333,6,1.6119333333333334
-People,Usage and ownership,Hong Kong (China),3.7275,1,0.2485
-People,Usage and ownership,"Hong Kong SAR, China",4.7,2,0.6266666666666667
-People,Usage and ownership,"Hong Kong, China",5.6970380327,5,1.8990126775666667
-People,Usage and ownership,Hungary,3.5208076387692304,11,2.581925601764102
-People,Usage and ownership,Iceland,2.56975,5,0.8565833333333333
-People,Usage and ownership,India,2.1975094163076925,11,1.6115069052923077
-People,Usage and ownership,Indonesia,3.346490396666666,15,3.346490396666666
-People,Usage and ownership,Iran,3.8107658172,5,1.2702552724
-People,Usage and ownership,Iran (Islamic Republic of),4.7027024481,5,1.5675674827
-People,Usage and ownership,"Iran, Islamic Rep.",3.8825000000000003,3,0.7765000000000001
-People,Usage and ownership,"Iran, Islamic Republic of",1.25,1,0.08333333333333333
-People,Usage and ownership,Iraq,2.1125487382125003,7,0.9858560778325002
-People,Usage and ownership,Ireland,4.019153005821428,12,3.2153224046571425
-People,Usage and ownership,Isle of Man,3.941,1,0.2627333333333333
-People,Usage and ownership,Israel,3.8130424467307695,11,2.796231127602564
-People,Usage and ownership,Italy,3.7380960489583335,10,2.492064032638889
-People,Usage and ownership,Ivory Coast,1.8795,1,0.1253
-People,Usage and ownership,Jamaica,2.160082846722222,5,0.720027615574074
-People,Usage and ownership,Japan,4.387042670178572,14,4.0945731588333345
-People,Usage and ownership,Jordan,2.5163483261,8,1.3420524405866667
-People,Usage and ownership,Kazakhstan,4.047298248423077,13,3.507658481966667
-People,Usage and ownership,Kenya,2.900352228076923,13,2.5136385976666666
-People,Usage and ownership,Kiribati,0.559875,1,0.037325
-People,Usage and ownership,Korea (Rep. of),5.8267339558,5,1.9422446519333332
-People,Usage and ownership,"Korea, Rep.",5.399000000000001,3,1.0798000000000003
-People,Usage and ownership,"Korea, Republic of",1.35,1,0.09000000000000001
-People,Usage and ownership,"Korea, South",4.4432439829999995,3,0.8886487966
-People,Usage and ownership,Kosovo,2.675,2,0.35666666666666663
-People,Usage and ownership,Kuwait,4.324994964999999,13,3.748328969666666
-People,Usage and ownership,Kyrgyz Republic,2.125,2,0.2833333333333333
-People,Usage and ownership,Kyrgyzstan,2.5234900035625003,6,1.009396001425
+People,Usage and ownership,Dominican Republic,3.4225658168087505,8,1.8253684356313336
+People,Usage and ownership,East Asia & Pacific,3.86925,2,0.5159
+People,Usage and ownership,East Asia & Pacific (excluding high income),3.7445000000000004,2,0.4992666666666667
+People,Usage and ownership,Ecuador,3.380312800476273,11,2.4788960536826
+People,Usage and ownership,Egypt,3.8139015864145005,12,3.0511212691316008
+People,Usage and ownership,"Egypt, Arab Rep.",1.8982,2,0.25309333333333334
+People,Usage and ownership,El Salvador,2.3988277473951665,10,1.5992184982634443
+People,Usage and ownership,Equatorial Guinea,0.3365765,1,0.022438433333333334
+People,Usage and ownership,Eritrea,0.25760975,1,0.017173983333333333
+People,Usage and ownership,Estonia,3.926051744500077,11,2.8791046126333897
+People,Usage and ownership,Eswatini,1.8738880119110002,4,0.4997034698429334
+People,Usage and ownership,Ethiopia,1.2990408479404,8,0.6928217855682134
+People,Usage and ownership,Euro area,5.091799999999999,2,0.6789066666666665
+People,Usage and ownership,Europe & Central Asia,4.3433,2,0.5791066666666667
+People,Usage and ownership,Europe & Central Asia (excluding high income),3.3952,2,0.45269333333333334
+People,Usage and ownership,Falkland Islands,4.86725,1,0.32448333333333335
+People,Usage and ownership,Faroe Islands,4.360765000000001,1,0.2907176666666667
+People,Usage and ownership,Fiji,2.1041619853992497,5,0.7013873284664165
+People,Usage and ownership,Finland,4.097936839622386,11,3.005153682389749
+People,Usage and ownership,France,3.922519499992714,12,3.1380155999941715
+People,Usage and ownership,French Guiana,2.7939050000000005,1,0.18626033333333336
+People,Usage and ownership,French Polynesia,2.3472999999999997,2,0.31297333333333327
+People,Usage and ownership,Gabon,2.777212737757111,7,1.2960326109533185
+People,Usage and ownership,Gambia,1.4962323193045715,4,0.39899528514788574
+People,Usage and ownership,Georgia,4.042056621952077,13,3.5031157390251337
+People,Usage and ownership,Germany,4.036931001493401,13,3.4986735346276143
+People,Usage and ownership,Ghana,2.3274419985003636,9,1.3964651991002182
+People,Usage and ownership,Gibraltar,4.375735000000001,1,0.2917156666666667
+People,Usage and ownership,Greece,3.4422142504473854,11,2.5242904503280825
+People,Usage and ownership,Greenland,4.326833000000001,1,0.28845553333333335
+People,Usage and ownership,Grenada,0.9345032500000002,1,0.06230021666666668
+People,Usage and ownership,Guadeloupe,3.7445,1,0.24963333333333332
+People,Usage and ownership,Guam,4.229029,1,0.28193526666666663
+People,Usage and ownership,Guatemala,2.9532184350158333,12,2.362574748012667
+People,Usage and ownership,Guinea,1.821783838929111,7,0.8501657915002518
+People,Usage and ownership,Guinea-Bissau,1.7827256141728336,4,0.47539349711275564
+People,Usage and ownership,Guyana,2.429082314642375,5,0.8096941048807916
+People,Usage and ownership,Haiti,2.207740249909889,7,1.0302787832912816
+People,Usage and ownership,High income,5.0419,2,0.6722533333333334
+People,Usage and ownership,High income: OECD,5.11675,2,0.6822333333333332
+People,Usage and ownership,Honduras,2.4192467946348186,9,1.451548076780891
+People,Usage and ownership,Hong Kong,4.023773666666667,6,1.609509466666667
+People,Usage and ownership,Hong Kong (China),3.722045,1,0.24813633333333332
+People,Usage and ownership,"Hong Kong SAR, China",4.6926,2,0.6256799999999999
+People,Usage and ownership,"Hong Kong, China",5.6876439566346,5,1.8958813188782
+People,Usage and ownership,Hungary,3.515458331184,11,2.5780027762016
+People,Usage and ownership,Iceland,2.5658605000000003,5,0.8552868333333334
+People,Usage and ownership,India,2.1948067051673847,11,1.6095249171227486
+People,Usage and ownership,Indonesia,3.3417974158733332,15,3.3417974158733332
+People,Usage and ownership,Iran,3.8051442855656,5,1.2683814285218666
+People,Usage and ownership,Iran (Islamic Republic of),4.6952970432038,5,1.5650990144012664
+People,Usage and ownership,"Iran, Islamic Rep.",3.876735,3,0.775347
+People,Usage and ownership,"Iran, Islamic Republic of",1.2495,1,0.0833
+People,Usage and ownership,Iraq,2.110073640736075,7,0.9847010323435018
+People,Usage and ownership,Ireland,4.012828985524071,12,3.210263188419257
+People,Usage and ownership,Isle of Man,3.935118,1,0.2623412
+People,Usage and ownership,Israel,3.807108669529616,11,2.791879690988385
+People,Usage and ownership,Italy,3.7322865235270837,10,2.4881910156847225
+People,Usage and ownership,Ivory Coast,1.877741,1,0.12518273333333335
+People,Usage and ownership,Jamaica,2.156873792139889,5,0.7189579307132963
+People,Usage and ownership,Japan,4.380268584838214,14,4.088250679182334
+People,Usage and ownership,Jordan,2.5129156294478,8,1.3402216690388267
+People,Usage and ownership,Kazakhstan,4.0412036519262315,13,3.5023764983360675
+People,Usage and ownership,Kenya,2.8965515236207695,13,2.510344653804667
+People,Usage and ownership,Kiribati,0.55925525,1,0.03728368333333333
+People,Usage and ownership,Korea (Rep. of),5.817080487888401,5,1.9390268292961335
+People,Usage and ownership,"Korea, Rep.",5.3902019999999995,3,1.0780404
+People,Usage and ownership,"Korea, Republic of",1.3493,1,0.08995333333333333
+People,Usage and ownership,"Korea, South",4.436357495034001,3,0.8872714990068001
+People,Usage and ownership,Kosovo,2.67165,2,0.35622
+People,Usage and ownership,Kuwait,4.31834497507,13,3.7425656450606666
+People,Usage and ownership,Kyrgyz Republic,2.1227500000000004,2,0.28303333333333336
+People,Usage and ownership,Kyrgyzstan,2.519943023555375,6,1.00797720942215
 People,Usage and ownership,Lao P.D.R.,0.0,0,0.0
-People,Usage and ownership,Lao PDR,1.7185,3,0.3437
-People,Usage and ownership,Laos,3.5201439300000006,5,1.1733813100000001
-People,Usage and ownership,Latin America & Caribbean,2.775,2,0.37
-People,Usage and ownership,Latin America & Caribbean (excluding high income),2.725,2,0.36333333333333334
-People,Usage and ownership,Latvia,3.751013164346153,11,2.750742987187179
-People,Usage and ownership,Lebanon,2.4093507003499997,8,1.2849870401866665
-People,Usage and ownership,Lesotho,3.5030025378181806,11,2.5688685277333323
-People,Usage and ownership,Liberia,1.9853954114999999,6,0.7941581646
-People,Usage and ownership,Libya,2.46377046585,7,1.14975955073
-People,Usage and ownership,Liechtenstein,0.7105,1,0.04736666666666667
-People,Usage and ownership,Lithuania,4.604094834115385,13,3.9902155229000003
-People,Usage and ownership,Low income,2.0,2,0.26666666666666666
-People,Usage and ownership,Lower middle income,2.625,2,0.35
-People,Usage and ownership,Luxembourg,3.9751135460384615,11,2.9150832670948716
+People,Usage and ownership,Lao PDR,1.7170629999999998,3,0.34341259999999996
+People,Usage and ownership,Laos,3.51510364214,5,1.1717012140466667
+People,Usage and ownership,Latin America & Caribbean,2.7714499999999997,2,0.3695266666666666
+People,Usage and ownership,Latin America & Caribbean (excluding high income),2.7215499999999997,2,0.36287333333333327
+People,Usage and ownership,Latvia,3.7452034457097696,11,2.7464825268538307
+People,Usage and ownership,Lebanon,2.4061319989493,8,1.2832703994396266
+People,Usage and ownership,Lesotho,3.4979965327425457,11,2.5651974573445333
+People,Usage and ownership,Liberia,1.9829246206770001,6,0.7931698482708001
+People,Usage and ownership,Libya,2.4602429249183,7,1.1481133649618736
+People,Usage and ownership,Liechtenstein,0.7095790000000001,1,0.04730526666666667
+People,Usage and ownership,Lithuania,4.596886644447154,13,3.9839684251875336
+People,Usage and ownership,Low income,1.9980000000000002,2,0.2664
+People,Usage and ownership,Lower middle income,2.62175,2,0.3495666666666667
+People,Usage and ownership,Luxembourg,3.968855626638692,11,2.910494126201707
 People,Usage and ownership,Macao,1.0,1,0.06666666666666667
-People,Usage and ownership,"Macao, China",5.413930302,4,1.4437147472
-People,Usage and ownership,Macau,4.0920000000000005,1,0.27280000000000004
-People,Usage and ownership,"Macedonia, FYR",3.425,2,0.4566666666666666
-People,Usage and ownership,Madagascar,1.6256887227727275,8,0.867033985478788
-People,Usage and ownership,Malawi,1.7039507057,8,0.9087737097066667
-People,Usage and ownership,Malaysia,4.484213919,14,4.185266324400001
-People,Usage and ownership,Maldives,2.883641743214286,5,0.961213914404762
-People,Usage and ownership,Mali,1.3993070373600003,8,0.7462970865920001
-People,Usage and ownership,Malta,3.833842962461538,11,2.811484839138461
-People,Usage and ownership,Marshall Islands,0.666625,1,0.04444166666666667
-People,Usage and ownership,Martinique,3.2665,1,0.21776666666666666
-People,Usage and ownership,Mauritania,2.2474868125625,6,0.898994725025
-People,Usage and ownership,Mauritius,3.7266225160384616,13,3.2297395139000002
-People,Usage and ownership,Mayotte,2.632,1,0.17546666666666666
-People,Usage and ownership,Mexico,3.165542110466667,13,2.7434698290711115
-People,Usage and ownership,Micronesia,0.47625,1,0.03175
-People,Usage and ownership,Middle East & North Africa,2.6,2,0.3466666666666667
-People,Usage and ownership,Middle East & North Africa (excluding high income),2.375,2,0.31666666666666665
-People,Usage and ownership,Middle income,3.175,2,0.4233333333333333
-People,Usage and ownership,Moldova,2.686794688318182,8,1.4329571671030303
-People,Usage and ownership,"Moldova, Republic of",1.3,1,0.08666666666666667
-People,Usage and ownership,Monaco,0.735,2,0.098
-People,Usage and ownership,Mongolia,3.679611647653846,12,2.943689318123077
-People,Usage and ownership,Montenegro,3.1594555621923073,11,2.316934078941025
-People,Usage and ownership,Montserrat,3.6,1,0.24
-People,Usage and ownership,Morocco,3.598061717571429,14,3.3581909364
-People,Usage and ownership,Mozambique,1.83503141785,8,0.9786834228533333
-People,Usage and ownership,Myanmar,1.8457194485,7,0.8613357426333333
-People,Usage and ownership,Namibia,2.6065905548000003,8,1.3901816292266669
-People,Usage and ownership,Nauru,0.636375,1,0.042425000000000004
-People,Usage and ownership,Nepal,2.674051952375,8,1.4261610412666668
+People,Usage and ownership,"Macao, China",5.405102441396,4,1.4413606510389334
+People,Usage and ownership,Macau,4.085816,1,0.2723877333333333
+People,Usage and ownership,"Macedonia, FYR",3.42015,2,0.45602
+People,Usage and ownership,Madagascar,1.6238918907817272,8,0.8660756750835878
+People,Usage and ownership,Malawi,1.7021428042886,8,0.9078094956205867
+People,Usage and ownership,Malaysia,4.477245491162,14,4.178762458417866
+People,Usage and ownership,Maldives,2.8793030311564287,5,0.9597676770521428
+People,Usage and ownership,Mali,1.39810842328528,8,0.7456578257521493
+People,Usage and ownership,Malta,3.827867584228924,11,2.8071028951012105
+People,Usage and ownership,Marshall Islands,0.66579175,1,0.04438611666666667
+People,Usage and ownership,Martinique,3.261967,1,0.21746446666666666
+People,Usage and ownership,Mauritania,2.244491838937375,6,0.8977967355749501
+People,Usage and ownership,Mauritius,3.721169271006384,13,3.225013368205533
+People,Usage and ownership,Mayotte,2.628736,1,0.17524906666666668
+People,Usage and ownership,Mexico,3.1609443595790667,13,2.739485111635191
+People,Usage and ownership,Micronesia,0.4757975,1,0.03171983333333333
+People,Usage and ownership,Middle East & North Africa,2.5968,2,0.34624
+People,Usage and ownership,Middle East & North Africa (excluding high income),2.37225,2,0.3163
+People,Usage and ownership,Middle income,3.17065,2,0.42275333333333337
+People,Usage and ownership,Moldova,2.6828756443960913,8,1.430867010344582
+People,Usage and ownership,"Moldova, Republic of",1.2994,1,0.08662666666666667
+People,Usage and ownership,Monaco,0.73433,2,0.09791066666666667
+People,Usage and ownership,Mongolia,3.674098578204693,12,2.9392788625637545
+People,Usage and ownership,Montenegro,3.154828958760231,11,2.313541236424169
+People,Usage and ownership,Montserrat,3.5948,1,0.23965333333333336
+People,Usage and ownership,Morocco,3.592865594136286,14,3.353341221193867
+People,Usage and ownership,Mozambique,1.8329613550143002,8,0.9775793893409601
+People,Usage and ownership,Myanmar,1.843583565158556,7,0.8603389970739928
+People,Usage and ownership,Namibia,2.6029773736904005,8,1.388254599301547
+People,Usage and ownership,Nauru,0.63560225,1,0.04237348333333334
+People,Usage and ownership,Nepal,2.67070384847025,8,1.4243753858508001
 People,Usage and ownership,Nepal (Republic of),0.0,0,0.0
-People,Usage and ownership,Netherlands,4.265363995892857,12,3.4122911967142855
-People,Usage and ownership,New Caledonia,2.302,2,0.30693333333333334
-People,Usage and ownership,New Zealand,3.754343442045455,9,2.252606065227273
-People,Usage and ownership,Nicaragua,2.1984422649444446,7,1.0259397236407408
-People,Usage and ownership,Niger,1.1495000000000002,6,0.4598000000000001
-People,Usage and ownership,Nigeria,1.958044196409091,9,1.1748265178454547
-People,Usage and ownership,Niue,3.05,1,0.2033333333333333
-People,Usage and ownership,North America,5.300000000000001,2,0.7066666666666668
-People,Usage and ownership,North Korea,1.0025,1,0.06683333333333333
-People,Usage and ownership,North Macedonia,3.0303379978500002,8,1.6161802655200002
-People,Usage and ownership,Northern Mariana Islands,4.1035,1,0.2735666666666667
-People,Usage and ownership,Norway,4.326202039076923,11,3.1725481619897438
-People,Usage and ownership,Oman,2.3282115113,7,1.0864987052733335
-People,Usage and ownership,Pakistan,1.9396390485,13,1.6810205087
-People,Usage and ownership,Palau,2.611,1,0.17406666666666668
-People,Usage and ownership,Palestine,4.3616854152,5,1.4538951384
-People,Usage and ownership,Panama,2.7990829519166667,10,1.8660553012777776
-People,Usage and ownership,Papua New Guinea,1.697988042875,5,0.5659960142916667
-People,Usage and ownership,Paraguay,2.765740292653846,11,2.0282095479461537
-People,Usage and ownership,Peru,3.4029183625,13,2.949195914166667
-People,Usage and ownership,Philippines,3.2710808649230767,12,2.6168646919384617
-People,Usage and ownership,Poland,3.836105440035714,12,3.0688843520285713
-People,Usage and ownership,Portugal,3.6015902258928576,12,2.8812721807142863
-People,Usage and ownership,Puerto Rico,2.8815,2,0.3842
-People,Usage and ownership,Qatar,4.037674762968181,10,2.6917831753121204
-People,Usage and ownership,Republic of the Congo,1.6475,1,0.10983333333333332
-People,Usage and ownership,Reunion,4.0155,1,0.2677
-People,Usage and ownership,Romania,4.070781520714285,14,3.799396086
-People,Usage and ownership,Russia,3.4296666666666664,3,0.6859333333333333
-People,Usage and ownership,Russian Federation,4.531627783166667,12,3.625302226533334
-People,Usage and ownership,Rwanda,1.4271829068000002,8,0.76116421696
-People,Usage and ownership,Saint Kitts and Nevis,1.060125,1,0.070675
-People,Usage and ownership,Saint Lucia,2.6529285714285713,4,0.707447619047619
-People,Usage and ownership,Saint Martin,2.923,1,0.19486666666666666
-People,Usage and ownership,Saint Vincent and the Grenadines,2.7516428571428575,4,0.7337714285714286
-People,Usage and ownership,Samoa,2.6035714285714286,4,0.6942857142857143
-People,Usage and ownership,San Marino,0.5405,1,0.036033333333333334
-People,Usage and ownership,Sao Tome and Principe,0.7698333333333333,1,0.051322222222222214
-People,Usage and ownership,Saudi Arabia,4.2302032017142865,14,3.948189654933334
-People,Usage and ownership,Senegal,2.0334813099,8,1.08452336528
-People,Usage and ownership,Serbia,3.1594574380384612,11,2.316935454561538
-People,Usage and ownership,Seychelles,1.409,2,0.18786666666666668
-People,Usage and ownership,Sierra Leone,1.5768343846875,6,0.630733753875
-People,Usage and ownership,Singapore,4.723867846607143,14,4.4089433235
-People,Usage and ownership,Sint Maarten,4.6045,1,0.30696666666666667
-People,Usage and ownership,Slovak Republic,4.525,2,0.6033333333333334
-People,Usage and ownership,Slovakia,3.623039808545455,9,2.173823885127273
-People,Usage and ownership,Slovenia,4.654914266153846,13,4.034259030666667
-People,Usage and ownership,Solomon Islands,2.1522791519166664,3,0.4304558303833333
-People,Usage and ownership,Somalia,0.6209,2,0.08278666666666666
-People,Usage and ownership,South Africa,3.5195025760000003,11,2.5809685557333335
-People,Usage and ownership,South Asia,2.875,2,0.3833333333333333
-People,Usage and ownership,South Korea,4.481,3,0.8962
-People,Usage and ownership,South Sudan,1.2873100518666667,6,0.5149240207466667
-People,Usage and ownership,Spain,4.882331609428571,14,4.556842835466667
-People,Usage and ownership,Sri Lanka,2.223380594875,10,1.4822537299166667
-People,Usage and ownership,Sub-Saharan Africa,2.275,2,0.30333333333333334
-People,Usage and ownership,Sub-Saharan Africa (excluding high income),2.275,2,0.30333333333333334
-People,Usage and ownership,Sudan,2.4167897186666667,4,0.6444772583111111
-People,Usage and ownership,Suriname,2.505916277214286,5,0.8353054257380952
-People,Usage and ownership,Sweden,4.211848457153847,11,3.0886888685794878
-People,Usage and ownership,Switzerland,3.770089276961538,11,2.764732136438461
-People,Usage and ownership,Syria,3.082,1,0.20546666666666666
-People,Usage and ownership,Syrian Arab Republic,0.3666666666666667,1,0.024444444444444446
-People,Usage and ownership,Taiwan,5.2135,2,0.6951333333333333
-People,Usage and ownership,"Taiwan, China",4.5,2,0.6
-People,Usage and ownership,Tajikistan,1.6096953620909091,8,0.8585041931151515
-People,Usage and ownership,Tanzania,2.1258175742999996,8,1.1337693729599998
-People,Usage and ownership,Thailand,3.415025125566667,13,2.959688442157778
-People,Usage and ownership,Timor-Leste,2.3739579798333335,4,0.6330554612888889
-People,Usage and ownership,Togo,1.6974259946666665,7,0.7921321308444444
-People,Usage and ownership,Tokelau,3.05,1,0.2033333333333333
-People,Usage and ownership,Tonga,2.4937795955000004,4,0.6650078921333334
-People,Usage and ownership,Trinidad and Tobago,2.5147412650454544,8,1.3411953413575757
-People,Usage and ownership,Tunisia,3.486609420875,12,2.7892875367
-People,Usage and ownership,Turkey,3.446227741199999,13,2.9867307090399993
-People,Usage and ownership,Turkmenistan,0.8864285714285715,4,0.23638095238095239
-People,Usage and ownership,Turks and Caicos Islands,4.205,1,0.2803333333333333
-People,Usage and ownership,Tuvalu,0.427125,1,0.028474999999999997
-People,Usage and ownership,UAE,5.95,1,0.39666666666666667
-People,Usage and ownership,UK,4.895,1,0.3263333333333333
-People,Usage and ownership,Uganda,1.8133375549090909,8,0.9671133626181818
-People,Usage and ownership,Ukraine,3.1891664340000005,10,2.126110956
-People,Usage and ownership,United Arab Emirates,4.580777105307693,13,3.9700068246000004
-People,Usage and ownership,United Kingdom,4.280471742142857,12,3.424377393714286
-People,Usage and ownership,United States,3.9625423248461544,11,2.9058643715538466
-People,Usage and ownership,United States Virgin Islands,2.0575,1,0.13716666666666666
-People,Usage and ownership,Upper middle income,3.7750000000000004,2,0.5033333333333334
-People,Usage and ownership,Uruguay,4.285429569874999,12,3.4283436558999996
-People,Usage and ownership,Uzbekistan,3.623020088083333,12,2.8984160704666664
-People,Usage and ownership,Vanuatu,2.2231308855714285,4,0.5928349028190476
+People,Usage and ownership,Netherlands,4.258547553615358,12,3.4068380428922866
+People,Usage and ownership,New Caledonia,2.299396,2,0.30658613333333334
+People,Usage and ownership,New Zealand,3.748471118797728,9,2.2490826712786367
+People,Usage and ownership,Nicaragua,2.195600935970111,7,1.0246137701193851
+People,Usage and ownership,Niger,1.1485343333333335,6,0.45941373333333346
+People,Usage and ownership,Nigeria,1.9557644716526368,9,1.173458682991582
+People,Usage and ownership,Niue,3.0459,1,0.20306
+People,Usage and ownership,North America,5.2914,2,0.70552
+People,Usage and ownership,North Korea,1.002495,1,0.06683299999999999
+People,Usage and ownership,North Macedonia,3.0258773218543,8,1.6138012383222933
+People,Usage and ownership,Northern Mariana Islands,4.0972930000000005,1,0.2731528666666667
+People,Usage and ownership,Norway,4.319241942691077,11,3.16744409130679
+People,Usage and ownership,Oman,2.3249550882773997,7,1.08497904119612
+People,Usage and ownership,Pakistan,1.9377597704030003,13,1.6793918010159337
+People,Usage and ownership,Palau,2.607778,1,0.1738518666666667
+People,Usage and ownership,Palestine,4.3549620443696,5,1.4516540147898667
+People,Usage and ownership,Panama,2.7951514526795003,10,1.8634343017863335
+People,Usage and ownership,Papua New Guinea,1.69584206678925,5,0.5652806889297499
+People,Usage and ownership,Paraguay,2.761901119760846,11,2.025394154491287
+People,Usage and ownership,Peru,3.3981125257750007,13,2.9450308556716673
+People,Usage and ownership,Philippines,3.2663848570393847,12,2.613107885631508
+People,Usage and ownership,Poland,3.830147514869928,12,3.0641180118959426
+People,Usage and ownership,Portugal,3.5961013311553574,12,2.876881064924286
+People,Usage and ownership,Puerto Rico,2.877737,2,0.3836982666666667
+People,Usage and ownership,Qatar,4.031417595260428,10,2.6876117301736184
+People,Usage and ownership,Republic of the Congo,1.646205,1,0.109747
+People,Usage and ownership,Reunion,4.009469,1,0.26729793333333335
+People,Usage and ownership,Romania,4.064639957672857,14,3.793663960494667
+People,Usage and ownership,Russia,3.4248073333333333,3,0.6849614666666667
+People,Usage and ownership,Russian Federation,4.524564527600334,12,3.6196516220802675
+People,Usage and ownership,Rwanda,1.4259285409864,8,0.7604952218594133
+People,Usage and ownership,Saint Kitts and Nevis,1.05850475,1,0.07056698333333333
+People,Usage and ownership,Saint Lucia,2.6487655714285716,4,0.7063374857142858
+People,Usage and ownership,Saint Martin,2.919154,1,0.19461026666666664
+People,Usage and ownership,Saint Vincent and the Grenadines,2.747282428571429,4,0.7326086476190476
+People,Usage and ownership,Samoa,2.599507142857143,4,0.6932019047619048
+People,Usage and ownership,San Marino,0.539919,1,0.0359946
+People,Usage and ownership,Sao Tome and Principe,0.7689603333333334,1,0.051264022222222226
+People,Usage and ownership,Saudi Arabia,4.223742795310858,14,3.942159942290134
+People,Usage and ownership,Senegal,2.0310143472802,8,1.0832076518827733
+People,Usage and ownership,Serbia,3.154830830854692,11,2.3135426092934406
+People,Usage and ownership,Seychelles,1.407182,2,0.18762426666666665
+People,Usage and ownership,Sierra Leone,1.5751807159181253,6,0.6300722863672501
+People,Usage and ownership,Singapore,4.716420110913929,14,4.401992103519667
+People,Usage and ownership,Sint Maarten,4.597291,1,0.30648606666666667
+People,Usage and ownership,Slovak Republic,4.51795,2,0.6023933333333333
+People,Usage and ownership,Slovakia,3.617430092564727,9,2.170458055538836
+People,Usage and ownership,Slovenia,4.6476044376215375,13,4.027923845938666
+People,Usage and ownership,Solomon Islands,2.148974593612833,3,0.42979491872256664
+People,Usage and ownership,Somalia,0.6204582000000001,2,0.08272776000000001
+People,Usage and ownership,South Africa,3.5144635708479997,11,2.5772732852885327
+People,Usage and ownership,South Asia,2.8712500000000003,2,0.38283333333333336
+People,Usage and ownership,South Korea,4.474038,3,0.8948076
+People,Usage and ownership,South Sudan,1.2860687650962666,6,0.5144275060385066
+People,Usage and ownership,Spain,4.874566946209714,14,4.5495958164624
+People,Usage and ownership,Sri Lanka,2.220600500351917,10,1.4804003335679445
+People,Usage and ownership,Sub-Saharan Africa,2.27245,2,0.30299333333333334
+People,Usage and ownership,Sub-Saharan Africa (excluding high income),2.27245,2,0.30299333333333334
+People,Usage and ownership,Sudan,2.4132894725626666,4,0.6435438593500444
+People,Usage and ownership,Suriname,2.5023330160884285,5,0.8341110053628095
+People,Usage and ownership,Sweden,4.205117067931846,11,3.083752516483354
+People,Usage and ownership,Switzerland,3.7642414060999223,11,2.7604436978066094
+People,Usage and ownership,Syria,3.077836,1,0.20518906666666667
+People,Usage and ownership,Syrian Arab Republic,0.36660000000000004,1,0.024440000000000003
+People,Usage and ownership,Taiwan,5.2050730000000005,2,0.6940097333333334
+People,Usage and ownership,"Taiwan, China",4.493,2,0.5990666666666667
+People,Usage and ownership,Tajikistan,1.6079305168212727,8,0.8575629423046788
+People,Usage and ownership,Tanzania,2.1231659391514,8,1.1323551675474133
+People,Usage and ownership,Thailand,3.4099284086488666,13,2.9552712874956844
+People,Usage and ownership,Timor-Leste,2.370543397207,4,0.6321449059218666
+People,Usage and ownership,Togo,1.695586698232889,7,0.7912737925086816
+People,Usage and ownership,Tokelau,3.0459,1,0.20306
+People,Usage and ownership,Tonga,2.489934893451857,4,0.6639826382538285
+People,Usage and ownership,Trinidad and Tobago,2.5111663279699097,8,1.3392887082506184
+People,Usage and ownership,Tunisia,3.4816362020332505,12,2.7853089616266007
+People,Usage and ownership,Turkey,3.441068619050933,13,2.9822594698441423
+People,Usage and ownership,Turkmenistan,0.8857985714285714,4,0.23621295238095238
+People,Usage and ownership,Turks and Caicos Islands,4.198589999999999,1,0.27990599999999993
+People,Usage and ownership,Tuvalu,0.42677075,1,0.02845138333333333
+People,Usage and ownership,UAE,5.9401,1,0.3960066666666667
+People,Usage and ownership,UK,4.8872100000000005,1,0.32581400000000005
+People,Usage and ownership,Uganda,1.8111654252538185,8,0.9659548934687032
+People,Usage and ownership,Ukraine,3.1844547677986665,10,2.122969845199111
+People,Usage and ownership,United Arab Emirates,4.573615551097077,13,3.963800144284133
+People,Usage and ownership,United Kingdom,4.273625084372857,12,3.418900067498286
+People,Usage and ownership,United States,3.9563095478887695,11,2.901293668451764
+People,Usage and ownership,United States Virgin Islands,2.055385,1,0.13702566666666666
+People,Usage and ownership,Upper middle income,3.7694500000000004,2,0.5025933333333333
+People,Usage and ownership,Uruguay,4.278858710735251,12,3.423086968588201
+People,Usage and ownership,Uzbekistan,3.617774047907167,12,2.894219238325734
+People,Usage and ownership,Vanuatu,2.2198274809431426,4,0.5919539949181714
 People,Usage and ownership,Vatican,0.0,0,0.0
-People,Usage and ownership,Vatican City,1.1,1,0.07333333333333333
-People,Usage and ownership,Venezuela,2.5423333333333336,6,1.0169333333333335
-People,Usage and ownership,"Venezuela, RB",3.5500000000000003,2,0.4733333333333334
-People,Usage and ownership,Viet Nam,4.152134108866665,15,4.152134108866665
+People,Usage and ownership,Vatican City,1.0998,1,0.07332000000000001
+People,Usage and ownership,Venezuela,2.538582,6,1.0154328
+People,Usage and ownership,"Venezuela, RB",3.5449,2,0.47265333333333337
+People,Usage and ownership,Viet Nam,4.145829840648934,15,4.145829840648934
 People,Usage and ownership,"Virgin Islands, U.S.",1.0,1,0.06666666666666667
-People,Usage and ownership,Wallis and Futuna,2.5455,1,0.16970000000000002
-People,Usage and ownership,West Bank and Gaza,1.8,2,0.24
-People,Usage and ownership,Western Sahara,1.2205,1,0.08136666666666666
-People,Usage and ownership,World,3.45,2,0.46
-People,Usage and ownership,Worldwide,3.68,1,0.24533333333333335
-People,Usage and ownership,Yemen,0.7085625,4,0.18895
-People,Usage and ownership,Zambia,2.18513428345,8,1.1654049511733333
-People,Usage and ownership,Zimbabwe,2.3114811035,8,1.2327899218666665
+People,Usage and ownership,Wallis and Futuna,2.542409,1,0.16949393333333335
+People,Usage and ownership,West Bank and Gaza,1.7984,2,0.23978666666666668
+People,Usage and ownership,Western Sahara,1.220059,1,0.08133726666666667
+People,Usage and ownership,World,3.4450999999999996,2,0.4593466666666666
+People,Usage and ownership,Worldwide,3.67464,1,0.244976
+People,Usage and ownership,Yemen,0.7081453750000001,4,0.18883876666666669
+People,Usage and ownership,Zambia,2.1823640148831,8,1.16392747460432
+People,Usage and ownership,Zimbabwe,2.3084581412930003,8,1.2311776753562669

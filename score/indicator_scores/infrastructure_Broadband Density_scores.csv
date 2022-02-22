@@ -1,197 +1,197 @@
 Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-Angola,2020,Broadband Density,0.70166157,1.0350830785,True,Connectivity Technology
-Benin,2020,Broadband Density,0.247302692,1.0123651346,True,Connectivity Technology
-Botswana,2020,Broadband Density,3.057372619,1.15286863095,True,Connectivity Technology
-Burkina Faso,2020,Broadband Density,0.066874695,1.00334373475,True,Connectivity Technology
-Burundi,2020,Broadband Density,0.035573769,1.00177868845,True,Connectivity Technology
-Cabo Verde,2020,Broadband Density,4.4675505,1.223377525,True,Connectivity Technology
-Cameroon,2020,Broadband Density,2.689100746,1.1344550373,True,Connectivity Technology
+Angola,2020,Broadband Density,0.70166157,1.035012912343,True,Connectivity Technology
+Benin,2020,Broadband Density,0.247302692,1.0123404043308,True,Connectivity Technology
+Botswana,2020,Broadband Density,3.057372619,1.1525628936881,True,Connectivity Technology
+Burkina Faso,2020,Broadband Density,0.066874695,1.0033370472805,True,Connectivity Technology
+Burundi,2020,Broadband Density,0.035573769,1.0017751310731,True,Connectivity Technology
+Cabo Verde,2020,Broadband Density,4.4675505,1.22293076995,True,Connectivity Technology
+Cameroon,2020,Broadband Density,2.689100746,1.1341861272254,True,Connectivity Technology
 Central African Rep.,2020,Broadband Density,,,True,Connectivity Technology
 Chad,2020,Broadband Density,0.0,1.0,True,Connectivity Technology
 Congo (Rep. of the),2020,Broadband Density,,,True,Connectivity Technology
-Côte d'Ivoire,2020,Broadband Density,0.986027365,1.04930136825,True,Connectivity Technology
+Côte d'Ivoire,2020,Broadband Density,0.986027365,1.0492027655135,True,Connectivity Technology
 Dem. Rep. of the Congo,2020,Broadband Density,,,True,Connectivity Technology
 Equatorial Guinea,2020,Broadband Density,,,True,Connectivity Technology
 Eritrea,2020,Broadband Density,,,True,Connectivity Technology
 Eswatini,2020,Broadband Density,,,True,Connectivity Technology
 Ethiopia,2020,Broadband Density,,,True,Connectivity Technology
-Gabon,2020,Broadband Density,2.004147845,1.10020739225,True,Connectivity Technology
+Gabon,2020,Broadband Density,2.004147845,1.1000069774655,True,Connectivity Technology
 Gambia,2020,Broadband Density,,,True,Connectivity Technology
-Ghana,2020,Broadband Density,0.252216237,1.01261081185,True,Connectivity Technology
+Ghana,2020,Broadband Density,0.252216237,1.0125855902263,True,Connectivity Technology
 Guinea,2020,Broadband Density,,,True,Connectivity Technology
-Guinea-Bissau,2020,Broadband Density,0.121087337,1.00605436685,True,Connectivity Technology
-Kenya,2020,Broadband Density,1.253812071,1.0626906035500001,True,Connectivity Technology
-Lesotho,2020,Broadband Density,0.236200367,1.01181001835,True,Connectivity Technology
+Guinea-Bissau,2020,Broadband Density,0.121087337,1.0060422581163,True,Connectivity Technology
+Kenya,2020,Broadband Density,1.253812071,1.0625652223429,True,Connectivity Technology
+Lesotho,2020,Broadband Density,0.236200367,1.0117863983133,True,Connectivity Technology
 Liberia,2020,Broadband Density,,,True,Connectivity Technology
 Madagascar,2020,Broadband Density,,,True,Connectivity Technology
-Malawi,2020,Broadband Density,0.064061844,1.0032030922,True,Connectivity Technology
-Mali,2020,Broadband Density,1.203930722,1.0601965361,True,Connectivity Technology
-Mauritius,2020,Broadband Density,25.32694642,2.266347321,True,Connectivity Technology
+Malawi,2020,Broadband Density,0.064061844,1.0031966860156,True,Connectivity Technology
+Mali,2020,Broadband Density,1.203930722,1.0600761430278,True,Connectivity Technology
+Mauritius,2020,Broadband Density,25.32694642,2.263814626358,True,Connectivity Technology
 Mozambique,2020,Broadband Density,,,True,Connectivity Technology
-Namibia,2020,Broadband Density,2.796759422,1.1398379711,True,Connectivity Technology
+Namibia,2020,Broadband Density,2.796759422,1.1395582951578,True,Connectivity Technology
 Niger,2020,Broadband Density,,,True,Connectivity Technology
-Nigeria,2020,Broadband Density,0.03168387,1.0015841935,True,Connectivity Technology
-Rwanda,2020,Broadband Density,0.136540321,1.00682701605,True,Connectivity Technology
-Sao Tome and Principe,2020,Broadband Density,1.146199791,1.05730998955,True,Connectivity Technology
-Senegal,2020,Broadband Density,1.059267638,1.0529633819,True,Connectivity Technology
-Seychelles,2020,Broadband Density,35.55370271,2.7776851355000005,True,Connectivity Technology
+Nigeria,2020,Broadband Density,0.03168387,1.001581025113,True,Connectivity Technology
+Rwanda,2020,Broadband Density,0.136540321,1.0068133620179,True,Connectivity Technology
+Sao Tome and Principe,2020,Broadband Density,1.146199791,1.0571953695709,True,Connectivity Technology
+Senegal,2020,Broadband Density,1.059267638,1.0528574551362,True,Connectivity Technology
+Seychelles,2020,Broadband Density,35.55370271,2.774129765229,True,Connectivity Technology
 Sierra Leone,2020,Broadband Density,,,True,Connectivity Technology
-South Africa,2020,Broadband Density,2.19707601,1.1098538005,True,Connectivity Technology
+South Africa,2020,Broadband Density,2.19707601,1.109634092899,True,Connectivity Technology
 South Sudan,2020,Broadband Density,,,True,Connectivity Technology
-Tanzania,2020,Broadband Density,1.815873776,1.0907936888,True,Connectivity Technology
-Togo,2020,Broadband Density,0.636644005,1.03183220025,True,Connectivity Technology
-Uganda,2020,Broadband Density,0.075634539,1.00378172695,True,Connectivity Technology
-Zambia,2020,Broadband Density,0.447765456,1.0223882728,True,Connectivity Technology
-Zimbabwe,2020,Broadband Density,1.368916372,1.0684458186,True,Connectivity Technology
-Algeria,2020,Broadband Density,8.643942434,1.4321971217,True,Connectivity Technology
-Bahrain,2020,Broadband Density,8.732791678,1.4366395839,True,Connectivity Technology
-Comoros,2020,Broadband Density,0.104875684,1.0052437842,True,Connectivity Technology
-Djibouti,2020,Broadband Density,2.535728745,1.12678643725,True,Connectivity Technology
-Egypt,2020,Broadband Density,9.136193337,1.45680966685,True,Connectivity Technology
-Iraq,2020,Broadband Density,13.5590775,1.677953875,True,Connectivity Technology
-Jordan,2020,Broadband Density,6.132008067,1.30660040335,True,Connectivity Technology
-Kuwait,2020,Broadband Density,1.731571727,1.08657858635,True,Connectivity Technology
-Lebanon,2020,Broadband Density,6.330283227,1.31651416135,True,Connectivity Technology
+Tanzania,2020,Broadband Density,1.815873776,1.0906121014224,True,Connectivity Technology
+Togo,2020,Broadband Density,0.636644005,1.0317685358495,True,Connectivity Technology
+Uganda,2020,Broadband Density,0.075634539,1.0037741634961,True,Connectivity Technology
+Zambia,2020,Broadband Density,0.447765456,1.0223434962544,True,Connectivity Technology
+Zimbabwe,2020,Broadband Density,1.368916372,1.0683089269627999,True,Connectivity Technology
+Algeria,2020,Broadband Density,8.643942434,1.4313327274566001,True,Connectivity Technology
+Bahrain,2020,Broadband Density,8.732791678,1.4357663047322,True,Connectivity Technology
+Comoros,2020,Broadband Density,0.104875684,1.0052332966316,True,Connectivity Technology
+Djibouti,2020,Broadband Density,2.535728745,1.1265328643755,True,Connectivity Technology
+Egypt,2020,Broadband Density,9.136193337,1.4558960475162999,True,Connectivity Technology
+Iraq,2020,Broadband Density,13.5590775,1.6765979672500002,True,Connectivity Technology
+Jordan,2020,Broadband Density,6.132008067,1.3059872025433,True,Connectivity Technology
+Kuwait,2020,Broadband Density,1.731571727,1.0864054291773,True,Connectivity Technology
+Lebanon,2020,Broadband Density,6.330283227,1.3158811330273,True,Connectivity Technology
 Libya,2020,Broadband Density,,,True,Connectivity Technology
-Mauritania,2020,Broadband Density,0.413922916,1.0206961458,True,Connectivity Technology
-Morocco,2020,Broadband Density,5.696023035,1.28480115175,True,Connectivity Technology
-Oman,2020,Broadband Density,10.85332532,1.542666266,True,Connectivity Technology
-Palestine,2020,Broadband Density,7.312678406,1.3656339203,True,Connectivity Technology
-Qatar,2020,Broadband Density,10.27839474,1.513919737,True,Connectivity Technology
-Saudi Arabia,2020,Broadband Density,22.66413005,2.1332065025,True,Connectivity Technology
+Mauritania,2020,Broadband Density,0.413922916,1.0206547535084,True,Connectivity Technology
+Morocco,2020,Broadband Density,5.696023035,1.2842315494465,True,Connectivity Technology
+Oman,2020,Broadband Density,10.85332532,1.541580933468,True,Connectivity Technology
+Palestine,2020,Broadband Density,7.312678406,1.3649026524594001,True,Connectivity Technology
+Qatar,2020,Broadband Density,10.27839474,1.512891897526,True,Connectivity Technology
+Saudi Arabia,2020,Broadband Density,22.66413005,2.130940089495,True,Connectivity Technology
 Somalia,2020,Broadband Density,,,True,Connectivity Technology
-Sudan,2020,Broadband Density,0.065638508,1.0032819254,True,Connectivity Technology
-Syrian Arab Republic,2020,Broadband Density,8.845953106,1.4422976553,True,Connectivity Technology
-Tunisia,2020,Broadband Density,11.2919369,1.564596845,True,Connectivity Technology
-United Arab Emirates,2020,Broadband Density,32.81083014,2.640541507,True,Connectivity Technology
+Sudan,2020,Broadband Density,0.065638508,1.0032753615492,True,Connectivity Technology
+Syrian Arab Republic,2020,Broadband Density,8.845953106,1.4414130599894,True,Connectivity Technology
+Tunisia,2020,Broadband Density,11.2919369,1.5634676513099999,True,Connectivity Technology
+United Arab Emirates,2020,Broadband Density,32.81083014,2.6372604239860005,True,Connectivity Technology
 Yemen,2020,Broadband Density,,,True,Connectivity Technology
-Afghanistan,2020,Broadband Density,0.068253606,1.0034126803,True,Connectivity Technology
-Australia,2020,Broadband Density,35.04937513,2.7524687565,True,Connectivity Technology
-Bangladesh,2020,Broadband Density,5.781775259,1.28908876295,True,Connectivity Technology
-Bhutan,2020,Broadband Density,0.406812786,1.0203406393,True,Connectivity Technology
-Brunei Darussalam,2020,Broadband Density,16.24717986,1.8123589930000001,True,Connectivity Technology
+Afghanistan,2020,Broadband Density,0.068253606,1.0034058549394,True,Connectivity Technology
+Australia,2020,Broadband Density,35.04937513,2.748963818987,True,Connectivity Technology
+Bangladesh,2020,Broadband Density,5.781775259,1.2885105854241,True,Connectivity Technology
+Bhutan,2020,Broadband Density,0.406812786,1.0202999580214,True,Connectivity Technology
+Brunei Darussalam,2020,Broadband Density,16.24717986,1.810734275014,True,Connectivity Technology
 Cambodia,2020,Broadband Density,,,True,Connectivity Technology
-China,2020,Broadband Density,33.59563762,2.679781881,True,Connectivity Technology
+China,2020,Broadband Density,33.59563762,2.676422317238,True,Connectivity Technology
 Dem. People's Rep. of Korea,2020,Broadband Density,,,True,Connectivity Technology
 Fiji,2020,Broadband Density,,,True,Connectivity Technology
-"Hong Kong, China",2020,Broadband Density,38.29649562,2.914824781,True,Connectivity Technology
-India,2020,Broadband Density,1.615212259,1.08076061295,True,Connectivity Technology
-Indonesia,2020,Broadband Density,3.916702768,1.1958351384,True,Connectivity Technology
-Iran (Islamic Republic of),2020,Broadband Density,11.38690225,1.5693451125,True,Connectivity Technology
-Japan,2020,Broadband Density,34.49910256,2.7249551279999995,True,Connectivity Technology
-Kiribati,2020,Broadband Density,0.154877814,1.0077438907,True,Connectivity Technology
-Korea (Rep. of),2020,Broadband Density,43.55478247,3.1777391235,True,Connectivity Technology
+"Hong Kong, China",2020,Broadband Density,38.29649562,2.910995131438,True,Connectivity Technology
+India,2020,Broadband Density,1.615212259,1.0805990917241,True,Connectivity Technology
+Indonesia,2020,Broadband Density,3.916702768,1.1954434681232,True,Connectivity Technology
+Iran (Islamic Republic of),2020,Broadband Density,11.38690225,1.568206422275,True,Connectivity Technology
+Japan,2020,Broadband Density,34.49910256,2.7215052177440002,True,Connectivity Technology
+Kiribati,2020,Broadband Density,0.154877814,1.0077284029186,True,Connectivity Technology
+Korea (Rep. of),2020,Broadband Density,43.55478247,3.1733836452529998,True,Connectivity Technology
 Lao P.D.R.,2020,Broadband Density,,,True,Connectivity Technology
 "Macao, China",2020,Broadband Density,,,True,Connectivity Technology
-Malaysia,2020,Broadband Density,10.37755702,1.518877851,True,Connectivity Technology
-Maldives,2020,Broadband Density,11.7816496,1.58908248,True,Connectivity Technology
+Malaysia,2020,Broadband Density,10.37755702,1.517840095298,True,Connectivity Technology
+Maldives,2020,Broadband Density,11.7816496,1.58790431504,True,Connectivity Technology
 Marshall Islands,2020,Broadband Density,,,True,Connectivity Technology
 Micronesia,2020,Broadband Density,,,True,Connectivity Technology
-Mongolia,2020,Broadband Density,9.369701887,1.46848509435,True,Connectivity Technology
+Mongolia,2020,Broadband Density,9.369701887,1.4675481241613,True,Connectivity Technology
 Myanmar,2020,Broadband Density,,,True,Connectivity Technology
 Nauru,2020,Broadband Density,,,True,Connectivity Technology
 Nepal (Republic of),2020,Broadband Density,,,True,Connectivity Technology
 New Zealand,2020,Broadband Density,,,True,Connectivity Technology
-Pakistan,2020,Broadband Density,1.096940256,1.0548470128,True,Connectivity Technology
+Pakistan,2020,Broadband Density,1.096940256,1.0547373187744,True,Connectivity Technology
 Papua New Guinea,2020,Broadband Density,,,True,Connectivity Technology
 Philippines,2020,Broadband Density,,,True,Connectivity Technology
 Samoa,2020,Broadband Density,,,True,Connectivity Technology
-Singapore,2020,Broadband Density,25.94036383,2.2970181915000003,True,Connectivity Technology
+Singapore,2020,Broadband Density,25.94036383,2.2944241551170004,True,Connectivity Technology
 Solomon Islands,2020,Broadband Density,,,True,Connectivity Technology
-Sri Lanka,2020,Broadband Density,9.304655263,1.46523276315,True,Connectivity Technology
-Thailand,2020,Broadband Density,16.6182187,1.830910935,True,Connectivity Technology
-Timor-Leste,2020,Broadband Density,0.005688519,1.00028442595,True,Connectivity Technology
+Sri Lanka,2020,Broadband Density,9.304655263,1.4643022976237001,True,Connectivity Technology
+Thailand,2020,Broadband Density,16.6182187,1.82924911313,True,Connectivity Technology
+Timor-Leste,2020,Broadband Density,0.005688519,1.0002838570981,True,Connectivity Technology
 Tonga,2020,Broadband Density,,,True,Connectivity Technology
 Tuvalu,2020,Broadband Density,,,True,Connectivity Technology
-Vanuatu,2020,Broadband Density,0.90673786,1.045336893,True,Connectivity Technology
-Viet Nam,2020,Broadband Density,17.15583808,1.857791904,True,Connectivity Technology
-Armenia,2020,Broadband Density,14.52486347,1.7262431735,True,Connectivity Technology
-Azerbaijan,2020,Broadband Density,19.68082814,1.9840414069999999,True,Connectivity Technology
-Belarus,2020,Broadband Density,34.45275392,2.7226376959999996,True,Connectivity Technology
-Kazakhstan,2020,Broadband Density,13.93481828,1.6967409139999998,True,Connectivity Technology
+Vanuatu,2020,Broadband Density,0.90673786,1.045246219214,True,Connectivity Technology
+Viet Nam,2020,Broadband Density,17.15583808,1.8560763201919999,True,Connectivity Technology
+Armenia,2020,Broadband Density,14.52486347,1.7247906871529999,True,Connectivity Technology
+Azerbaijan,2020,Broadband Density,19.68082814,1.982073324186,True,Connectivity Technology
+Belarus,2020,Broadband Density,34.45275392,2.719192420608,True,Connectivity Technology
+Kazakhstan,2020,Broadband Density,13.93481828,1.695347432172,True,Connectivity Technology
 Kyrgyzstan,2020,Broadband Density,,,True,Connectivity Technology
-Russian Federation,2020,Broadband Density,23.21093835,2.1605469174999996,True,Connectivity Technology
+Russian Federation,2020,Broadband Density,23.21093835,2.158225823665,True,Connectivity Technology
 Tajikistan,2020,Broadband Density,,,True,Connectivity Technology
 Turkmenistan,2020,Broadband Density,,,True,Connectivity Technology
-Uzbekistan,2020,Broadband Density,14.4013259,1.720066295,True,Connectivity Technology
-Albania,2020,Broadband Density,17.68495137,1.8842475685,True,Connectivity Technology
+Uzbekistan,2020,Broadband Density,14.4013259,1.71862616241,True,Connectivity Technology
+Albania,2020,Broadband Density,17.68495137,1.8824790733630001,True,Connectivity Technology
 Andorra,2020,Broadband Density,,,True,Connectivity Technology
-Austria,2020,Broadband Density,28.934986,2.4467492999999996,True,Connectivity Technology
-Belgium,2020,Broadband Density,40.84869715,3.0424348575,True,Connectivity Technology
-Bosnia and Herzegovina,2020,Broadband Density,23.48876912,2.174438456,True,Connectivity Technology
-Bulgaria,2020,Broadband Density,30.67745373,2.5338726865,True,Connectivity Technology
-Croatia,2020,Broadband Density,25.11342137,2.2556710685,True,Connectivity Technology
-Cyprus,2020,Broadband Density,37.3963964,2.86981982,True,Connectivity Technology
-Czech Republic,2020,Broadband Density,35.50892471,2.7754462355,True,Connectivity Technology
-Denmark,2020,Broadband Density,44.39997086,3.219998543,True,Connectivity Technology
-Estonia,2020,Broadband Density,31.33049637,2.5665248184999996,True,Connectivity Technology
-Finland,2020,Broadband Density,33.31696964,2.6658484820000004,True,Connectivity Technology
-France,2020,Broadband Density,46.92102436,3.346051218,True,Connectivity Technology
-Georgia,2020,Broadband Density,25.01236474,2.250618237,True,Connectivity Technology
-Germany,2020,Broadband Density,43.01628467,3.1508142335,True,Connectivity Technology
-Greece,2020,Broadband Density,40.84240569,3.0421202844999997,True,Connectivity Technology
-Hungary,2020,Broadband Density,33.80113207,2.6900566035,True,Connectivity Technology
-Iceland,2020,Broadband Density,41.55865468,3.0779327339999996,True,Connectivity Technology
-Ireland,2020,Broadband Density,30.70712258,2.535356129,True,Connectivity Technology
-Israel,2020,Broadband Density,30.06260156,2.503130078,True,Connectivity Technology
-Italy,2020,Broadband Density,29.53205548,2.476602774,True,Connectivity Technology
-Latvia,2020,Broadband Density,26.71002726,2.3355013629999997,True,Connectivity Technology
-Liechtenstein,2020,Broadband Density,47.37463282,3.368731641,True,Connectivity Technology
-Lithuania,2020,Broadband Density,29.27000036,2.463500018,True,Connectivity Technology
-Luxembourg,2020,Broadband Density,37.5660167,2.878300835,True,Connectivity Technology
-Malta,2020,Broadband Density,48.33481677,3.4167408385,True,Connectivity Technology
-Moldova,2020,Broadband Density,17.82368852,1.8911844260000001,True,Connectivity Technology
-Monaco,2020,Broadband Density,53.20065236,3.6600326180000002,True,Connectivity Technology
-Montenegro,2020,Broadband Density,29.32430668,2.466215334,True,Connectivity Technology
-Netherlands,2020,Broadband Density,43.91638292,3.195819146,True,Connectivity Technology
-North Macedonia,2020,Broadband Density,22.19841469,2.1099207345,True,Connectivity Technology
-Norway,2020,Broadband Density,44.04270166,3.202135083,True,Connectivity Technology
-Poland,2020,Broadband Density,21.69969988,2.084984994,True,Connectivity Technology
-Portugal,2020,Broadband Density,40.80625425,3.0403127125,True,Connectivity Technology
-Romania,2020,Broadband Density,29.55136352,2.477568176,True,Connectivity Technology
+Austria,2020,Broadband Density,28.934986,2.4438558014,True,Connectivity Technology
+Belgium,2020,Broadband Density,40.84869715,3.0383499877849998,True,Connectivity Technology
+Bosnia and Herzegovina,2020,Broadband Density,23.48876912,2.172089579088,True,Connectivity Technology
+Bulgaria,2020,Broadband Density,30.67745373,2.530804941127,True,Connectivity Technology
+Croatia,2020,Broadband Density,25.11342137,2.253159726363,True,Connectivity Technology
+Cyprus,2020,Broadband Density,37.3963964,2.86608018036,True,Connectivity Technology
+Czech Republic,2020,Broadband Density,35.50892471,2.7718953430290005,True,Connectivity Technology
+Denmark,2020,Broadband Density,44.39997086,3.2155585459140004,True,Connectivity Technology
+Estonia,2020,Broadband Density,31.33049637,2.563391768863,True,Connectivity Technology
+Finland,2020,Broadband Density,33.31696964,2.6625167850360003,True,Connectivity Technology
+France,2020,Broadband Density,46.92102436,3.341359115564,True,Connectivity Technology
+Georgia,2020,Broadband Density,25.01236474,2.2481170005260003,True,Connectivity Technology
+Germany,2020,Broadband Density,43.01628467,3.146512605033,True,Connectivity Technology
+Greece,2020,Broadband Density,40.84240569,3.038036043931,True,Connectivity Technology
+Hungary,2020,Broadband Density,33.80113207,2.6866764902930003,True,Connectivity Technology
+Iceland,2020,Broadband Density,41.55865468,3.073776868532,True,Connectivity Technology
+Ireland,2020,Broadband Density,30.70712258,2.532285416742,True,Connectivity Technology
+Israel,2020,Broadband Density,30.06260156,2.500123817844,True,Connectivity Technology
+Italy,2020,Broadband Density,29.53205548,2.473649568452,True,Connectivity Technology
+Latvia,2020,Broadband Density,26.71002726,2.3328303602740004,True,Connectivity Technology
+Liechtenstein,2020,Broadband Density,47.37463282,3.3639941777180002,True,Connectivity Technology
+Lithuania,2020,Broadband Density,29.27000036,2.460573017964,True,Connectivity Technology
+Luxembourg,2020,Broadband Density,37.5660167,2.87454423333,True,Connectivity Technology
+Malta,2020,Broadband Density,48.33481677,3.4119073568230003,True,Connectivity Technology
+Moldova,2020,Broadband Density,17.82368852,1.8894020571480001,True,Connectivity Technology
+Monaco,2020,Broadband Density,53.20065236,3.6547125527640003,True,Connectivity Technology
+Montenegro,2020,Broadband Density,29.32430668,2.463282903332,True,Connectivity Technology
+Netherlands,2020,Broadband Density,43.91638292,3.191427507708,True,Connectivity Technology
+North Macedonia,2020,Broadband Density,22.19841469,2.107700893031,True,Connectivity Technology
+Norway,2020,Broadband Density,44.04270166,3.197730812834,True,Connectivity Technology
+Poland,2020,Broadband Density,21.69969988,2.0828150240120005,True,Connectivity Technology
+Portugal,2020,Broadband Density,40.80625425,3.036232087075,True,Connectivity Technology
+Romania,2020,Broadband Density,29.55136352,2.474613039648,True,Connectivity Technology
 San Marino,2020,Broadband Density,,,True,Connectivity Technology
-Serbia,2020,Broadband Density,25.09466937,2.2547334684999996,True,Connectivity Technology
-Slovakia,2020,Broadband Density,31.16616437,2.5583082185,True,Connectivity Technology
-Slovenia,2020,Broadband Density,31.34311846,2.567155923,True,Connectivity Technology
-Spain,2020,Broadband Density,33.9010443,2.695052215,True,Connectivity Technology
-Sweden,2020,Broadband Density,40.60768779,3.0303843895,True,Connectivity Technology
-Switzerland,2020,Broadband Density,46.48383257,3.3241916285,True,Connectivity Technology
-Turkey,2020,Broadband Density,19.84235016,1.9921175079999998,True,Connectivity Technology
-Ukraine,2020,Broadband Density,18.61701348,1.930850674,True,Connectivity Technology
-United Kingdom,2020,Broadband Density,40.49473168,3.0247365840000002,True,Connectivity Technology
+Serbia,2020,Broadband Density,25.09466937,2.252224001563,True,Connectivity Technology
+Slovakia,2020,Broadband Density,31.16616437,2.555191602063,True,Connectivity Technology
+Slovenia,2020,Broadband Density,31.34311846,2.5640216111539997,True,Connectivity Technology
+Spain,2020,Broadband Density,33.9010443,2.6916621105700003,True,Connectivity Technology
+Sweden,2020,Broadband Density,40.60768779,3.026323620721,True,Connectivity Technology
+Switzerland,2020,Broadband Density,46.48383257,3.319543245243,True,Connectivity Technology
+Turkey,2020,Broadband Density,19.84235016,1.990133272984,True,Connectivity Technology
+Ukraine,2020,Broadband Density,18.61701348,1.9289889726520002,True,Connectivity Technology
+United Kingdom,2020,Broadband Density,40.49473168,3.020687110832,True,Connectivity Technology
 Vatican,2020,Broadband Density,,,True,Connectivity Technology
 Antigua and Barbuda,2020,Broadband Density,,,True,Connectivity Technology
-Argentina,2020,Broadband Density,21.17800217,2.0589001085,True,Connectivity Technology
+Argentina,2020,Broadband Density,21.17800217,2.056782308283,True,Connectivity Technology
 Bahamas,2020,Broadband Density,,,True,Connectivity Technology
 Barbados,2020,Broadband Density,,,True,Connectivity Technology
 Belize,2020,Broadband Density,,,True,Connectivity Technology
-Bolivia (Plurinational State of),2020,Broadband Density,7.98352029,1.3991760145,True,Connectivity Technology
-Brazil,2020,Broadband Density,17.09859319,1.8549296595,True,Connectivity Technology
-Canada,2020,Broadband Density,41.80101115,3.0900505575,True,Connectivity Technology
-Chile,2020,Broadband Density,19.62328707,1.9811643535,True,Connectivity Technology
-Colombia,2020,Broadband Density,15.26008418,1.763004209,True,Connectivity Technology
-Costa Rica,2020,Broadband Density,19.48767186,1.974383593,True,Connectivity Technology
-Cuba,2020,Broadband Density,2.045218095,1.10226090475,True,Connectivity Technology
+Bolivia (Plurinational State of),2020,Broadband Density,7.98352029,1.398377662471,True,Connectivity Technology
+Brazil,2020,Broadband Density,17.09859319,1.8532198001809999,True,Connectivity Technology
+Canada,2020,Broadband Density,41.80101115,3.085870456385,True,Connectivity Technology
+Chile,2020,Broadband Density,19.62328707,1.979202024793,True,Connectivity Technology
+Colombia,2020,Broadband Density,15.26008418,1.761478200582,True,Connectivity Technology
+Costa Rica,2020,Broadband Density,19.48767186,1.972434825814,True,Connectivity Technology
+Cuba,2020,Broadband Density,2.045218095,1.1020563829405,True,Connectivity Technology
 Dominica,2020,Broadband Density,,,True,Connectivity Technology
-Dominican Rep.,2020,Broadband Density,9.512044256,1.4756022128,True,Connectivity Technology
-Ecuador,2020,Broadband Density,13.30224915,1.6651124575,True,Connectivity Technology
+Dominican Rep.,2020,Broadband Density,9.512044256,1.4746510083744,True,Connectivity Technology
+Ecuador,2020,Broadband Density,13.30224915,1.663782232585,True,Connectivity Technology
 El Salvador,2020,Broadband Density,,,True,Connectivity Technology
 Grenada,2020,Broadband Density,,,True,Connectivity Technology
 Guatemala,2020,Broadband Density,,,True,Connectivity Technology
 Guyana,2020,Broadband Density,,,True,Connectivity Technology
 Haiti,2020,Broadband Density,,,True,Connectivity Technology
-Honduras,2020,Broadband Density,4.002723177,1.20013615885,True,Connectivity Technology
-Jamaica,2020,Broadband Density,13.02199437,1.6510997184999998,True,Connectivity Technology
-Mexico,2020,Broadband Density,16.44804017,1.8224020085,True,Connectivity Technology
-Nicaragua,2020,Broadband Density,4.382951667,1.21914758335,True,Connectivity Technology
-Panama,2020,Broadband Density,13.03460882,1.651730441,True,Connectivity Technology
+Honduras,2020,Broadband Density,4.002723177,1.1997358865323,True,Connectivity Technology
+Jamaica,2020,Broadband Density,13.02199437,1.649797519063,True,Connectivity Technology
+Mexico,2020,Broadband Density,16.44804017,1.820757204483,True,Connectivity Technology
+Nicaragua,2020,Broadband Density,4.382951667,1.2187092881833,True,Connectivity Technology
+Panama,2020,Broadband Density,13.03460882,1.650426980118,True,Connectivity Technology
 Paraguay,2020,Broadband Density,,,True,Connectivity Technology
 Peru,2020,Broadband Density,,,True,Connectivity Technology
 Saint Kitts and Nevis,2020,Broadband Density,,,True,Connectivity Technology
 Saint Lucia,2020,Broadband Density,,,True,Connectivity Technology
-Saint Vincent and the Grenadines,2020,Broadband Density,22.07860105,2.1039300525,True,Connectivity Technology
-Suriname,2020,Broadband Density,15.72877034,1.7864385170000001,True,Connectivity Technology
-Trinidad and Tobago,2020,Broadband Density,26.86625394,2.343312697,True,Connectivity Technology
-United States,2020,Broadband Density,36.41390775,2.8206953875,True,Connectivity Technology
+Saint Vincent and the Grenadines,2020,Broadband Density,22.07860105,2.101722192395,True,Connectivity Technology
+Suriname,2020,Broadband Density,15.72877034,1.7848656399660001,True,Connectivity Technology
+Trinidad and Tobago,2020,Broadband Density,26.86625394,2.340626071606,True,Connectivity Technology
+United States,2020,Broadband Density,36.41390775,2.817053996725,True,Connectivity Technology
 Uruguay,2020,Broadband Density,,,True,Connectivity Technology
-Venezuela,2020,Broadband Density,8.465297789,1.42326488945,True,Connectivity Technology
+Venezuela,2020,Broadband Density,8.465297789,1.4224183596711,True,Connectivity Technology
