@@ -1,0 +1,181 @@
+Pillar,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Infrastructure,Monaco,2021,ISP internet download speed average ,256.7,5.99,True,Connectivity Technology
+Infrastructure,Singapore,2021,ISP internet download speed average ,256.03,5.976737673053274,True,Connectivity Technology
+Infrastructure,Hong Kong (SAR),2021,ISP internet download speed average ,248.59,5.829466460391131,True,Connectivity Technology
+Infrastructure,Thailand,2021,ISP internet download speed average ,216.16,5.18753024713396,True,Connectivity Technology
+Infrastructure,Romania,2021,ISP internet download speed average ,215.3,5.170506961799358,True,Connectivity Technology
+Infrastructure,Switzerland,2021,ISP internet download speed average ,214.82,5.1610055932405094,True,Connectivity Technology
+Infrastructure,South Korea,2021,ISP internet download speed average ,212.83,5.121614502756953,True,Connectivity Technology
+Infrastructure,Chile,2021,ISP internet download speed average ,209.45,5.054709032488397,True,Connectivity Technology
+Infrastructure,Denmark,2021,ISP internet download speed average ,208.5,5.03590424054901,True,Connectivity Technology
+Infrastructure,Liechtenstein,2021,ISP internet download speed average ,207.44,5.014922051648221,True,Connectivity Technology
+Infrastructure,France,2021,ISP internet download speed average ,199.68,4.861316593280178,True,Connectivity Technology
+Infrastructure,Hungary,2021,ISP internet download speed average ,199.47,4.857159744535682,True,Connectivity Technology
+Infrastructure,Moldova,2021,ISP internet download speed average ,196.46,4.797578245864573,True,Connectivity Technology
+Infrastructure,United States,2021,ISP internet download speed average ,195.55,4.779565234638423,True,Connectivity Technology
+Infrastructure,United Arab Emirates,2021,ISP internet download speed average ,190.96,4.688708397794439,True,Connectivity Technology
+Infrastructure,Spain,2021,ISP internet download speed average ,187.88,4.627741282875164,True,Connectivity Technology
+Infrastructure,China,2021,ISP internet download speed average ,184.78,4.56637827759927,True,Connectivity Technology
+Infrastructure,Japan,2021,ISP internet download speed average ,179.43,4.460477607203777,True,Connectivity Technology
+Infrastructure,Canada,2021,ISP internet download speed average ,174.53,4.363484469832203,True,Connectivity Technology
+Infrastructure,Luxembourg,2021,ISP internet download speed average ,168.89,4.251843389265739,True,Connectivity Technology
+Infrastructure,Macau (SAR),2021,ISP internet download speed average ,168.82,4.2504577730175725,True,Connectivity Technology
+Infrastructure,Israel,2021,ISP internet download speed average ,168.23,4.238779007497323,True,Connectivity Technology
+Infrastructure,Andorra,2021,ISP internet download speed average ,165.07,4.176228331151573,True,Connectivity Technology
+Infrastructure,New Zealand,2021,ISP internet download speed average ,164.06,4.15623586814233,True,Connectivity Technology
+Infrastructure,Sweden,2021,ISP internet download speed average ,163.31,4.14138997976913,True,Connectivity Technology
+Infrastructure,Norway,2021,ISP internet download speed average ,161.67,4.108926970526399,True,Connectivity Technology
+Infrastructure,Netherlands,2021,ISP internet download speed average ,161.67,4.108926970526399,True,Connectivity Technology
+Infrastructure,Portugal,2021,ISP internet download speed average ,153.99,3.956905073584831,True,Connectivity Technology
+Infrastructure,Taiwan,2021,ISP internet download speed average ,147.13,3.8211146812646275,True,Connectivity Technology
+Infrastructure,Poland,2021,ISP internet download speed average ,144.1,3.7611372922368993,True,Connectivity Technology
+Infrastructure,Kuwait,2021,ISP internet download speed average ,143.16,3.742530445475822,True,Connectivity Technology
+Infrastructure,Malta,2021,ISP internet download speed average ,138.5,3.6502879923836726,True,Connectivity Technology
+Infrastructure,Latvia,2021,ISP internet download speed average ,133.08,3.543001705740014,True,Connectivity Technology
+Infrastructure,Lithuania,2021,ISP internet download speed average ,132.18,3.525186639692174,True,Connectivity Technology
+Infrastructure,Finland,2021,ISP internet download speed average ,128.04,3.4432373358721096,True,Connectivity Technology
+Infrastructure,Panama,2021,ISP internet download speed average ,127.15,3.4256202150025787,True,Connectivity Technology
+Infrastructure,Germany,2021,ISP internet download speed average ,126.44,3.411566107342616,True,Connectivity Technology
+Infrastructure,Belgium,2021,ISP internet download speed average ,122.15,3.326647625847912,True,Connectivity Technology
+Infrastructure,Ireland,2021,ISP internet download speed average ,116.19,3.208672299575549,True,Connectivity Technology
+Infrastructure,Barbados,2021,ISP internet download speed average ,114.27,3.1706668253401564,True,Connectivity Technology
+Infrastructure,Slovenia,2021,ISP internet download speed average ,110.66,3.0992086159704866,True,Connectivity Technology
+Infrastructure,San Marino,2021,ISP internet download speed average ,107.53,3.0372517751596657,True,Connectivity Technology
+Infrastructure,Qatar,2021,ISP internet download speed average ,106.9,3.0247812289261775,True,Connectivity Technology
+Infrastructure,Austria,2021,ISP internet download speed average ,106.76,3.022009996429847,True,Connectivity Technology
+Infrastructure,Brazil,2021,ISP internet download speed average ,104.5,2.9772743861319375,True,Connectivity Technology
+Infrastructure,Malaysia,2021,ISP internet download speed average ,100.94,2.906805902653814,True,Connectivity Technology
+Infrastructure,Slovakia,2021,ISP internet download speed average ,100.74,2.9028469990876276,True,Connectivity Technology
+Infrastructure,Italy,2021,ISP internet download speed average ,97.34,2.835545638462454,True,Connectivity Technology
+Infrastructure,United Kingdom,2021,ISP internet download speed average ,93.73,2.764087429092785,True,Connectivity Technology
+Infrastructure,Saudi Arabia,2021,ISP internet download speed average ,91.99,2.7296449680669603,True,Connectivity Technology
+Infrastructure,Russia,2021,ISP internet download speed average ,90.33,2.6967860684676106,True,Connectivity Technology
+Infrastructure,Trinidad and Tobago,2021,ISP internet download speed average ,89.61,2.682534015629339,True,Connectivity Technology
+Infrastructure,Australia,2021,ISP internet download speed average ,85.32,2.5976155341346345,True,Connectivity Technology
+Infrastructure,Czechia,2021,ISP internet download speed average ,84.13,2.574060057915824,True,Connectivity Technology
+Infrastructure,Jordan,2021,ISP internet download speed average ,81.66,2.5251675988734186,True,Connectivity Technology
+Infrastructure,Estonia,2021,ISP internet download speed average ,81.4,2.520021024237376,True,Connectivity Technology
+Infrastructure,Bulgaria,2021,ISP internet download speed average ,80.5,2.5022059581895357,True,Connectivity Technology
+Infrastructure,Serbia,2021,ISP internet download speed average ,79.02,2.4729100717997543,True,Connectivity Technology
+Infrastructure,Vietnam,2021,ISP internet download speed average ,78.43,2.4612313062795037,True,Connectivity Technology
+Infrastructure,Bahrain,2021,ISP internet download speed average ,76.3,2.4190689832996153,True,Connectivity Technology
+Infrastructure,Ukraine,2021,ISP internet download speed average ,73.08,2.35533063588401,True,Connectivity Technology
+Infrastructure,Paraguay,2021,ISP internet download speed average ,71.86,2.331181324130271,True,Connectivity Technology
+Infrastructure,Philippines,2021,ISP internet download speed average ,71.17,2.3175231068269273,True,Connectivity Technology
+Infrastructure,Belarus,2021,ISP internet download speed average ,65.61,2.2074655876869373,True,Connectivity Technology
+Infrastructure,Colombia,2021,ISP internet download speed average ,65.16,2.1985580546630175,True,Connectivity Technology
+Infrastructure,Guyana,2021,ISP internet download speed average ,62.22,2.1403621722400734,True,Connectivity Technology
+Infrastructure,Uruguay,2021,ISP internet download speed average ,60.7,2.1102745051370544,True,Connectivity Technology
+Infrastructure,India,2021,ISP internet download speed average ,60.06,2.0976060137252572,True,Connectivity Technology
+Infrastructure,Kazakhstan,2021,ISP internet download speed average ,59.94,2.095230671585545,True,Connectivity Technology
+Infrastructure,Oman,2021,ISP internet download speed average ,58.75,2.0716751953667343,True,Connectivity Technology
+Infrastructure,Peru,2021,ISP internet download speed average ,57.27,2.042379308976953,True,Connectivity Technology
+Infrastructure,Kosovo,2021,ISP internet download speed average ,57.22,2.0413895830854063,True,Connectivity Technology
+Infrastructure,Saint Vincent and the Grenadines,2021,ISP internet download speed average ,56.12,2.0196156134713794,True,Connectivity Technology
+Infrastructure,Argentina,2021,ISP internet download speed average ,55.94,2.016052600261811,True,Connectivity Technology
+Infrastructure,The Bahamas,2021,ISP internet download speed average ,55.04,1.9982375342139713,True,Connectivity Technology
+Infrastructure,Croatia,2021,ISP internet download speed average ,54.62,1.9899238367249792,True,Connectivity Technology
+Infrastructure,Grenada,2021,ISP internet download speed average ,53.14,1.9606279503351978,True,Connectivity Technology
+Infrastructure,Ghana,2021,ISP internet download speed average ,52.52,1.9483553492800192,True,Connectivity Technology
+Infrastructure,Costa Rica,2021,ISP internet download speed average ,51.21,1.9224245309214965,True,Connectivity Technology
+Infrastructure,Mexico,2021,ISP internet download speed average ,51.1,1.9202471339600937,True,Connectivity Technology
+Infrastructure,Cyprus,2021,ISP internet download speed average ,50.77,1.913714943075886,True,Connectivity Technology
+Infrastructure,South Africa,2021,ISP internet download speed average ,50.45,1.9073806973699872,True,Connectivity Technology
+Infrastructure,Mongolia,2021,ISP internet download speed average ,49.08,1.8802622079416083,True,Connectivity Technology
+Infrastructure,Montenegro,2021,ISP internet download speed average ,48.86,1.875907414018803,True,Connectivity Technology
+Infrastructure,Kyrgyzstan,2021,ISP internet download speed average ,47.73,1.8535396088698481,True,Connectivity Technology
+Infrastructure,Laos,2021,ISP internet download speed average ,47.58,1.8505704311952083,True,Connectivity Technology
+Infrastructure,Saint Lucia,2021,ISP internet download speed average ,46.89,1.836912213891864,True,Connectivity Technology
+Infrastructure,Madagascar,2021,ISP internet download speed average ,44.65,1.7925724939505732,True,Connectivity Technology
+Infrastructure,Bosnia and Herzegovina,2021,ISP internet download speed average ,44.08,1.7812896187869414,True,Connectivity Technology
+Infrastructure,Albania,2021,ISP internet download speed average ,43.56,1.7709964695148561,True,Connectivity Technology
+Infrastructure,Belize,2021,ISP internet download speed average ,41.76,1.7353663374191757,True,Connectivity Technology
+Infrastructure,Egypt,2021,ISP internet download speed average ,41.45,1.7292300368915865,True,Connectivity Technology
+Infrastructure,Uzbekistan,2021,ISP internet download speed average ,40.9,1.718343052084573,True,Connectivity Technology
+Infrastructure,Jamaica,2021,ISP internet download speed average ,40.19,1.7042889444246103,True,Connectivity Technology
+Infrastructure,Brunei,2021,ISP internet download speed average ,39.78,1.6961731921139278,True,Connectivity Technology
+Infrastructure,North Macedonia,2021,ISP internet download speed average ,39.74,1.6953814114006904,True,Connectivity Technology
+Infrastructure,Dominica,2021,ISP internet download speed average ,39.65,1.6935999047959065,True,Connectivity Technology
+Infrastructure,Turkey,2021,ISP internet download speed average ,38.58,1.6724197707168076,True,Connectivity Technology
+Infrastructure,Bangladesh,2021,ISP internet download speed average ,38.27,1.6662834701892182,True,Connectivity Technology
+Infrastructure,Greece,2021,ISP internet download speed average ,36.42,1.6296636122019916,True,Connectivity Technology
+Infrastructure,Armenia,2021,ISP internet download speed average ,36.25,1.6262985441707327,True,Connectivity Technology
+Infrastructure,Ecuador,2021,ISP internet download speed average ,34.81,1.5977944384941887,True,Connectivity Technology
+Infrastructure,Senegal,2021,ISP internet download speed average ,34.65,1.5946273156412394,True,Connectivity Technology
+Infrastructure,Côte d'Ivoire,2021,ISP internet download speed average ,32.47,1.5514752667698044,True,Connectivity Technology
+Infrastructure,Tajikistan,2021,ISP internet download speed average ,32.37,1.5494958149867113,True,Connectivity Technology
+Infrastructure,Iraq,2021,ISP internet download speed average ,32.17,1.5455369114205246,True,Connectivity Technology
+Infrastructure,Dominican Republic,2021,ISP internet download speed average ,31.26,1.527523900194375,True,Connectivity Technology
+Infrastructure,Nicaragua,2021,ISP internet download speed average ,29.66,1.4958526716648817,True,Connectivity Technology
+Infrastructure,Seychelles,2021,ISP internet download speed average ,29.52,1.493081439168551,True,Connectivity Technology
+Infrastructure,Marshall Islands,2021,ISP internet download speed average ,29.41,1.4909040422071484,True,Connectivity Technology
+Infrastructure,Saint Kitts and Nevis,2021,ISP internet download speed average ,29.21,1.4869451386409618,True,Connectivity Technology
+Infrastructure,Nepal,2021,ISP internet download speed average ,29.08,1.4843718513229403,True,Connectivity Technology
+Infrastructure,Morocco,2021,ISP internet download speed average ,27.52,1.4534924035066843,True,Connectivity Technology
+Infrastructure,Georgia,2021,ISP internet download speed average ,27.46,1.4523047324368283,True,Connectivity Technology
+Infrastructure,Western Sahara,2021,ISP internet download speed average ,27.0,1.4431992542345988,True,Connectivity Technology
+Infrastructure,Bolivia,2021,ISP internet download speed average ,26.96,1.4424074735213614,True,Connectivity Technology
+Infrastructure,El Salvador,2021,ISP internet download speed average ,26.11,1.4255821333650682,True,Connectivity Technology
+Infrastructure,Sri Lanka,2021,ISP internet download speed average ,25.96,1.4226129556904281,True,Connectivity Technology
+Infrastructure,Indonesia,2021,ISP internet download speed average ,25.58,1.4150910389146734,True,Connectivity Technology
+Infrastructure,Cambodia,2021,ISP internet download speed average ,25.5,1.4135074774881988,True,Connectivity Technology
+Infrastructure,Burkina Faso,2021,ISP internet download speed average ,25.45,1.412517751596652,True,Connectivity Technology
+Infrastructure,Honduras,2021,ISP internet download speed average ,25.26,1.4087567932087748,True,Connectivity Technology
+Infrastructure,Azerbaijan,2021,ISP internet download speed average ,24.08,1.3853992621682734,True,Connectivity Technology
+Infrastructure,Cape Verde,2021,ISP internet download speed average ,24.01,1.384013645920108,True,Connectivity Technology
+Infrastructure,Lesotho,2021,ISP internet download speed average ,23.87,1.3812424134237773,True,Connectivity Technology
+Infrastructure,Maldives,2021,ISP internet download speed average ,23.85,1.3808465230671587,True,Connectivity Technology
+Infrastructure,Mauritius,2021,ISP internet download speed average ,23.25,1.3689698123685985,True,Connectivity Technology
+Infrastructure,Guatemala,2021,ISP internet download speed average ,22.91,1.3622396763060811,True,Connectivity Technology
+Infrastructure,Republic of the Union of Myanmar,2021,ISP internet download speed average ,22.69,1.3578848823832759,True,Connectivity Technology
+Infrastructure,Palestine,2021,ISP internet download speed average ,22.09,1.3460081716847159,True,Connectivity Technology
+Infrastructure,Congo,2021,ISP internet download speed average ,22.03,1.34482050061486,True,Connectivity Technology
+Infrastructure,Togo,2021,ISP internet download speed average ,21.61,1.3365068031258678,True,Connectivity Technology
+Infrastructure,Venezuela,2021,ISP internet download speed average ,21.34,1.3311622833115158,True,Connectivity Technology
+Infrastructure,Iran,2021,ISP internet download speed average ,21.04,1.3252239279622358,True,Connectivity Technology
+Infrastructure,Gabon,2021,ISP internet download speed average ,20.22,1.3089924233408703,True,Connectivity Technology
+Infrastructure,Mali,2021,ISP internet download speed average ,20.18,1.3082006426276331,True,Connectivity Technology
+Infrastructure,Rwanda,2021,ISP internet download speed average ,19.91,1.3028561228132811,True,Connectivity Technology
+Infrastructure,Fiji,2021,ISP internet download speed average ,19.58,1.296323931929073,True,Connectivity Technology
+Infrastructure,Antigua and Barbuda,2021,ISP internet download speed average ,18.75,1.2798944821293983,True,Connectivity Technology
+Infrastructure,Liberia,2021,ISP internet download speed average ,18.45,1.2739561267801183,True,Connectivity Technology
+Infrastructure,Benin,2021,ISP internet download speed average ,18.26,1.270195168392241,True,Connectivity Technology
+Infrastructure,Kenya,2021,ISP internet download speed average ,17.96,1.264256813042961,True,Connectivity Technology
+Infrastructure,Somalia,2021,ISP internet download speed average ,17.53,1.2557451703756595,True,Connectivity Technology
+Infrastructure,Bhutan,2021,ISP internet download speed average ,17.5,1.2551513348407315,True,Connectivity Technology
+Infrastructure,Namibia,2021,ISP internet download speed average ,17.49,1.254953389662422,True,Connectivity Technology
+Infrastructure,Tanzania,2021,ISP internet download speed average ,16.86,1.2424828434289341,True,Connectivity Technology
+Infrastructure,Nigeria,2021,ISP internet download speed average ,16.85,1.242284898250625,True,Connectivity Technology
+Infrastructure,Lebanon,2021,ISP internet download speed average ,16.55,1.236346542901345,True,Connectivity Technology
+Infrastructure,Libya,2021,ISP internet download speed average ,16.31,1.2315958586219207,True,Connectivity Technology
+Infrastructure,Vanuatu,2021,ISP internet download speed average ,16.24,1.2302102423737553,True,Connectivity Technology
+Infrastructure,Ethiopia,2021,ISP internet download speed average ,15.71,1.2197191479233607,True,Connectivity Technology
+Infrastructure,Papua New Guinea,2021,ISP internet download speed average ,15.33,1.2121972311476061,True,Connectivity Technology
+Infrastructure,Haiti,2021,ISP internet download speed average ,15.2,1.2096239438295848,True,Connectivity Technology
+Infrastructure,Suriname,2021,ISP internet download speed average ,15.1,1.2076444920464913,True,Connectivity Technology
+Infrastructure,Micronesia,2021,ISP internet download speed average ,14.89,1.2034876433019954,True,Connectivity Technology
+Infrastructure,Uganda,2021,ISP internet download speed average ,14.72,1.2001225752707367,True,Connectivity Technology
+Infrastructure,Angola,2021,ISP internet download speed average ,14.56,1.1969554524177872,True,Connectivity Technology
+Infrastructure,Zambia,2021,ISP internet download speed average ,13.86,1.183099289936134,True,Connectivity Technology
+Infrastructure,Zimbabwe,2021,ISP internet download speed average ,13.63,1.1785465508350192,True,Connectivity Technology
+Infrastructure,Cameroon,2021,ISP internet download speed average ,13.36,1.1732020310206672,True,Connectivity Technology
+Infrastructure,Pakistan,2021,ISP internet download speed average ,13.19,1.1698369629894085,True,Connectivity Technology
+Infrastructure,Djibouti,2021,ISP internet download speed average ,12.77,1.1615232655004166,True,Connectivity Technology
+Infrastructure,Sierra Leone,2021,ISP internet download speed average ,12.28,1.1518239517632591,True,Connectivity Technology
+Infrastructure,Botswana,2021,ISP internet download speed average ,12.08,1.1478650481970725,True,Connectivity Technology
+Infrastructure,DR Congo,2021,ISP internet download speed average ,11.39,1.1342068308937285,True,Connectivity Technology
+Infrastructure,Burundi,2021,ISP internet download speed average ,11.36,1.1336129953588003,True,Connectivity Technology
+Infrastructure,Malawi,2021,ISP internet download speed average ,11.08,1.1280705303661391,True,Connectivity Technology
+Infrastructure,The Gambia,2021,ISP internet download speed average ,10.8,1.1225280653734777,True,Connectivity Technology
+Infrastructure,Mauritania,2021,ISP internet download speed average ,10.7,1.1205486135903844,True,Connectivity Technology
+Infrastructure,Syria,2021,ISP internet download speed average ,10.28,1.1122349161013925,True,Connectivity Technology
+Infrastructure,Afghanistan,2021,ISP internet download speed average ,10.28,1.1122349161013925,True,Connectivity Technology
+Infrastructure,Swaziland,2021,ISP internet download speed average ,10.13,1.1092657384267524,True,Connectivity Technology
+Infrastructure,Tunisia,2021,ISP internet download speed average ,9.45,1.0958054663017176,True,Connectivity Technology
+Infrastructure,Algeria,2021,ISP internet download speed average ,9.38,1.0944198500535522,True,Connectivity Technology
+Infrastructure,Mozambique,2021,ISP internet download speed average ,9.36,1.0940239596969337,True,Connectivity Technology
+Infrastructure,Niger,2021,ISP internet download speed average ,8.33,1.0736356063310724,True,Connectivity Technology
+Infrastructure,Sudan,2021,ISP internet download speed average ,7.48,1.056810266174779,True,Connectivity Technology
+Infrastructure,Yemen,2021,ISP internet download speed average ,5.49,1.0174191756912214,True,Connectivity Technology
+Infrastructure,Cuba,2021,ISP internet download speed average ,4.61,1.0,True,Connectivity Technology
+Infrastructure,Turkmenistan,2021,ISP internet download speed average ,4.61,1.0,True,Connectivity Technology
