@@ -1,44 +1,44 @@
-Pillar,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-People,Philippines,2020,Device Addiction (time of use on internet / on devices),10.56,1.0,False,Digital Wellbeing
-People,Brazil,2020,Device Addiction (time of use on internet / on devices),10.08,1.2098939929328623,False,Digital Wellbeing
-People,Colombia,2020,Device Addiction (time of use on internet / on devices),10.07,1.2142667844522972,False,Digital Wellbeing
-People,South Africa,2020,Device Addiction (time of use on internet / on devices),10.06,1.2186395759717312,False,Digital Wellbeing
-People,Argentina,2020,Device Addiction (time of use on internet / on devices),9.39,1.5116166077738518,False,Digital Wellbeing
-People,Malaysia,2020,Device Addiction (time of use on internet / on devices),9.17,1.607818021201414,False,Digital Wellbeing
-People,Mexico,2020,Device Addiction (time of use on internet / on devices),9.01,1.6777826855123674,False,Digital Wellbeing
-People,Indonesia,2020,Device Addiction (time of use on internet / on devices),8.52,1.8920494699646646,False,Digital Wellbeing
-People,Thailand,2020,Device Addiction (time of use on internet / on devices),8.44,1.9270318021201414,False,Digital Wellbeing
-People,Taiwan,2020,Device Addiction (time of use on internet / on devices),8.08,2.2032699619771856,False,Digital Wellbeing
-People,Singapore,2020,Device Addiction (time of use on internet / on devices),8.07,2.2126806083650186,False,Digital Wellbeing
-People,Turkey,2020,Device Addiction (time of use on internet / on devices),7.57,2.683212927756654,False,Digital Wellbeing
-People,Russia,2020,Device Addiction (time of use on internet / on devices),7.52,2.7302661596958178,False,Digital Wellbeing
-People,Saudi Arabia,2020,Device Addiction (time of use on internet / on devices),7.45,2.796140684410646,False,Digital Wellbeing
-People,Egypt,2020,Device Addiction (time of use on internet / on devices),7.36,2.8808365019011406,False,Digital Wellbeing
-People,Israel,2020,Device Addiction (time of use on internet / on devices),7.27,2.9655323193916354,False,Digital Wellbeing
-People,Romania,2020,Device Addiction (time of use on internet / on devices),7.26,2.9749429657794675,False,Digital Wellbeing
-People,U.A.E,2020,Device Addiction (time of use on internet / on devices),7.24,3.004419642857142,False,Digital Wellbeing
-People,Portugal,2020,Device Addiction (time of use on internet / on devices),7.2,3.048616071428571,False,Digital Wellbeing
-People,Hong Kong,2020,Device Addiction (time of use on internet / on devices),7.15,3.1038616071428566,False,Digital Wellbeing
-People,United States,2020,Device Addiction (time of use on internet / on devices),7.11,3.148058035714285,False,Digital Wellbeing
-People,Worldwide,2020,Device Addiction (time of use on internet / on devices),6.45,3.877299107142857,False,Digital Wellbeing
-People,Vietnam,2020,Device Addiction (time of use on internet / on devices),6.47,3.8552008928571433,False,Digital Wellbeing
-People,Poland,2020,Device Addiction (time of use on internet / on devices),6.44,3.8883482142857138,False,Digital Wellbeing
-People,New Zeland,2020,Device Addiction (time of use on internet / on devices),6.39,3.9435937500000002,False,Digital Wellbeing
-People,India,2020,Device Addiction (time of use on internet / on devices),6.36,3.976741071428571,False,Digital Wellbeing
-People,Ireland,2020,Device Addiction (time of use on internet / on devices),6.3,4.051428571428572,False,Digital Wellbeing
-People,Canada,2020,Device Addiction (time of use on internet / on devices),6.26,4.094285714285714,False,Digital Wellbeing
-People,United Kingdom,2020,Device Addiction (time of use on internet / on devices),6.26,4.094285714285714,False,Digital Wellbeing
-People,Italy,2020,Device Addiction (time of use on internet / on devices),6.22,4.137142857142857,False,Digital Wellbeing
-People,Sweden,2020,Device Addiction (time of use on internet / on devices),6.15,4.212142857142856,False,Digital Wellbeing
-People,Australia,2020,Device Addiction (time of use on internet / on devices),6.13,4.2335714285714285,False,Digital Wellbeing
-People,Spain,2020,Device Addiction (time of use on internet / on devices),6.11,4.255,False,Digital Wellbeing
-People,Austria,2020,Device Addiction (time of use on internet / on devices),5.46,4.951428571428572,False,Digital Wellbeing
-People,Switzerland,2020,Device Addiction (time of use on internet / on devices),5.4,5.020238500851789,False,Digital Wellbeing
-People,France,2020,Device Addiction (time of use on internet / on devices),5.37,5.045536626916525,False,Digital Wellbeing
-People,South Korea,2020,Device Addiction (time of use on internet / on devices),5.37,5.045536626916525,False,Digital Wellbeing
-People,Belgium,2020,Device Addiction (time of use on internet / on devices),5.28,5.121431005110733,False,Digital Wellbeing
-People,Netherlands,2020,Device Addiction (time of use on internet / on devices),5.28,5.121431005110733,False,Digital Wellbeing
-People,Germany,2020,Device Addiction (time of use on internet / on devices),5.26,5.138296422487224,False,Digital Wellbeing
-People,China,2020,Device Addiction (time of use on internet / on devices),5.22,5.172027257240205,False,Digital Wellbeing
-People,Denmark,2020,Device Addiction (time of use on internet / on devices),5.16,5.222623509369677,False,Digital Wellbeing
-People,Japan,2020,Device Addiction (time of use on internet / on devices),4.25,5.99,False,Digital Wellbeing
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
+Philippines,2020,Device Addiction (time of use on internet / on devices),10.56,1.0,False,Digital Wellbeing
+Brazil,2020,Device Addiction (time of use on internet / on devices),10.08,1.2098939929328623,False,Digital Wellbeing
+Colombia,2020,Device Addiction (time of use on internet / on devices),10.07,1.2142667844522972,False,Digital Wellbeing
+South Africa,2020,Device Addiction (time of use on internet / on devices),10.06,1.2186395759717312,False,Digital Wellbeing
+Argentina,2020,Device Addiction (time of use on internet / on devices),9.39,1.5116166077738518,False,Digital Wellbeing
+Malaysia,2020,Device Addiction (time of use on internet / on devices),9.17,1.607818021201414,False,Digital Wellbeing
+Mexico,2020,Device Addiction (time of use on internet / on devices),9.01,1.6777826855123674,False,Digital Wellbeing
+Indonesia,2020,Device Addiction (time of use on internet / on devices),8.52,1.8920494699646646,False,Digital Wellbeing
+Thailand,2020,Device Addiction (time of use on internet / on devices),8.44,1.9270318021201414,False,Digital Wellbeing
+Taiwan,2020,Device Addiction (time of use on internet / on devices),8.08,2.2032699619771856,False,Digital Wellbeing
+Singapore,2020,Device Addiction (time of use on internet / on devices),8.07,2.2126806083650186,False,Digital Wellbeing
+Turkey,2020,Device Addiction (time of use on internet / on devices),7.57,2.683212927756654,False,Digital Wellbeing
+Russia,2020,Device Addiction (time of use on internet / on devices),7.52,2.7302661596958178,False,Digital Wellbeing
+Saudi Arabia,2020,Device Addiction (time of use on internet / on devices),7.45,2.796140684410646,False,Digital Wellbeing
+Egypt,2020,Device Addiction (time of use on internet / on devices),7.36,2.8808365019011406,False,Digital Wellbeing
+Israel,2020,Device Addiction (time of use on internet / on devices),7.27,2.9655323193916354,False,Digital Wellbeing
+Romania,2020,Device Addiction (time of use on internet / on devices),7.26,2.9749429657794675,False,Digital Wellbeing
+U.A.E,2020,Device Addiction (time of use on internet / on devices),7.24,3.004419642857142,False,Digital Wellbeing
+Portugal,2020,Device Addiction (time of use on internet / on devices),7.2,3.048616071428571,False,Digital Wellbeing
+Hong Kong,2020,Device Addiction (time of use on internet / on devices),7.15,3.1038616071428566,False,Digital Wellbeing
+United States,2020,Device Addiction (time of use on internet / on devices),7.11,3.148058035714285,False,Digital Wellbeing
+Worldwide,2020,Device Addiction (time of use on internet / on devices),6.45,3.877299107142857,False,Digital Wellbeing
+Vietnam,2020,Device Addiction (time of use on internet / on devices),6.47,3.8552008928571433,False,Digital Wellbeing
+Poland,2020,Device Addiction (time of use on internet / on devices),6.44,3.8883482142857138,False,Digital Wellbeing
+New Zeland,2020,Device Addiction (time of use on internet / on devices),6.39,3.9435937500000002,False,Digital Wellbeing
+India,2020,Device Addiction (time of use on internet / on devices),6.36,3.976741071428571,False,Digital Wellbeing
+Ireland,2020,Device Addiction (time of use on internet / on devices),6.3,4.051428571428572,False,Digital Wellbeing
+Canada,2020,Device Addiction (time of use on internet / on devices),6.26,4.094285714285714,False,Digital Wellbeing
+United Kingdom,2020,Device Addiction (time of use on internet / on devices),6.26,4.094285714285714,False,Digital Wellbeing
+Italy,2020,Device Addiction (time of use on internet / on devices),6.22,4.137142857142857,False,Digital Wellbeing
+Sweden,2020,Device Addiction (time of use on internet / on devices),6.15,4.212142857142856,False,Digital Wellbeing
+Australia,2020,Device Addiction (time of use on internet / on devices),6.13,4.2335714285714285,False,Digital Wellbeing
+Spain,2020,Device Addiction (time of use on internet / on devices),6.11,4.255,False,Digital Wellbeing
+Austria,2020,Device Addiction (time of use on internet / on devices),5.46,4.951428571428572,False,Digital Wellbeing
+Switzerland,2020,Device Addiction (time of use on internet / on devices),5.4,5.020238500851789,False,Digital Wellbeing
+France,2020,Device Addiction (time of use on internet / on devices),5.37,5.045536626916525,False,Digital Wellbeing
+South Korea,2020,Device Addiction (time of use on internet / on devices),5.37,5.045536626916525,False,Digital Wellbeing
+Belgium,2020,Device Addiction (time of use on internet / on devices),5.28,5.121431005110733,False,Digital Wellbeing
+Netherlands,2020,Device Addiction (time of use on internet / on devices),5.28,5.121431005110733,False,Digital Wellbeing
+Germany,2020,Device Addiction (time of use on internet / on devices),5.26,5.138296422487224,False,Digital Wellbeing
+China,2020,Device Addiction (time of use on internet / on devices),5.22,5.172027257240205,False,Digital Wellbeing
+Denmark,2020,Device Addiction (time of use on internet / on devices),5.16,5.222623509369677,False,Digital Wellbeing
+Japan,2020,Device Addiction (time of use on internet / on devices),4.25,5.99,False,Digital Wellbeing
