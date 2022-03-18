@@ -62,9 +62,7 @@
     about one year). In this case go back to the source to find if there
     are new datasets.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image5.png){width="6.510574146981627in"
-height="2.7014129483814524in"}
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/109564/159046492-ea514431-af82-4fd5-85f1-4721f70d32f7.png">
 
 -   Data sources can be found in the Data Link column. Always download
     csv or xlsx files. If data cannot be found in these two formats than
