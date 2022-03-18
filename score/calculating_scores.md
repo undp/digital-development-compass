@@ -1,17 +1,11 @@
-**GITHUB PROCESS DOCUMENTATION**
-
 **1/ Important Folders and Files**
 
-![Graphical user interface, text, application Description automatically
-generated](media/image1.png){width="4.192631233595801in"
-height="2.3335728346456692in"}
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/109564/159045994-0dcfdaf3-dfd3-492d-b462-c874b553bb2f.png">
 
 -   All the folders in the score folder are important as they contain
     all the calculations and Python codes.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image2.png){width="5.0050656167979in"
-height="2.9373370516185475in"}
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/109564/159046033-ff390465-fb4f-4648-914b-b8c101193e25.png">
 
 -   Inside the **notebooks** folder are all the jupyter files that
     contain all the Python scripts. The **Data_Cleaning\_\[Pillar
@@ -36,16 +30,13 @@ height="2.9373370516185475in"}
     dashboard to (though inactive at the moment pending final decision
     whether to incorporate non-index indicators into the dashboard).
 
-![Graphical user interface, text, application Description automatically
-generated](media/image1.png){width="4.192631233595801in"
-height="2.3335728346456692in"}
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/109564/159046060-d05afea7-6212-49c8-84a6-8266bf08d6d1.png">
 
 -   The indicator_scores, pillar_scores, subpillar_scores contain csv
     sheets of calculated scores for the pillar/sub-pillar/indicator
     levels.
 
-![](media/image3.png){width="5.989615048118985in"
-height="1.703089457567804in"}
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/109564/159046073-0d529910-9e89-4a21-bb3b-ef01321eda1a.png">
 
 -   In the country_scores folder, the most important file is **scores**
     (contain all the calculations with normalized countries' names).
@@ -63,10 +54,7 @@ height="1.703089457567804in"}
 
 **2/ Updating Data Best Practices**
 
-![Graphical user interface, application Description automatically
-generated with medium
-confidence](media/image4.png){width="4.763888888888889in"
-height="3.0833333333333335in"}
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/109564/159046206-89db0c09-5263-4de8-9d03-a3fb815a5949.png">
 
 -   In the Filename Matching V7 file, in column AE, there is a record of
     how long the dataset has been. The red highlight indicates that the
@@ -87,17 +75,13 @@ height="2.7014129483814524in"}
 
 **3/ Quintile Calculation**
 
-![Graphical user interface, text, application Description automatically
-generated](media/image6.png){width="4.132438757655293in"
-height="3.0943153980752407in"}
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/109564/159046227-20b71557-34c9-4a4c-ba6d-89d93b6d4b17.png">
 
 -   Created formulas to convert old value to new value. Create five of
     them, each for one quintile. For example: quintile I of a data range
     will be converted to a new range of 1 to 1.99
 
-![Graphical user interface, application Description automatically
-generated](media/image7.png){width="6.752983377077865in"
-height="1.7950109361329833in"}
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/109564/159046265-45f6ea22-f084-4cc7-a564-d48cded4cbd2.png">
 
 -   Segmented a data range into quintiles using "quintile" command.
     Assign each quintile a separate name (in this case, first to fifth).
@@ -135,24 +119,20 @@ df
 
 -   **Example:** Using the example of E-waste generated per kilogram
 
-![](media/image8.png){width="4.502958223972003in"
-height="3.6041666666666665in"}
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/109564/159046301-b2c56d63-beb1-4b5f-b94c-683b9207d0a8.png">
 
 -   Using purely min-max creates an uneven spread of scores as the
     values from 5 to 5.99 are too dominant.
 
-![](media/image9.png){width="4.973826552930884in"
-height="3.3854604111986in"}
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/109564/159046329-74a1865c-e2da-44be-a2a6-7be01830fef3.png">
 
 -   Using purely quintile creates an arbitrary bucket that makes
     countries in the same quintile have the same score regardless of any
     nuances and discrepancies in raw score.
 
-![](media/image10.png){width="4.683987314085739in"
-height="4.1875328083989505in"}
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/109564/159046345-078c9738-a10f-46ec-8367-95f7e71500dd.png">
 
-![](media/image11.png){width="3.4072769028871392in"
-height="3.7500284339457566in"}
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/109564/159046363-8dbe4045-4d1a-4c05-b480-822d2bf071d1.png">
 
 -   Using the above method which combines both min-max and quintile
     resolves the issues of both. The result is a dataset much more
