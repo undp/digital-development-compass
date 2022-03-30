@@ -1,0 +1,171 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,HRAssociation
+Afghanistan,2019,Cellphone Signal Density,38.47999954,2.9239999770000002,True,Access
+Angola,2019,Cellphone Signal Density,57.40000153,3.8700000764999998,True,Access
+Albania,2019,Cellphone Signal Density,87.18600464,5.359300231999999,True,Access
+United Arab Emirates,2019,Cellphone Signal Density,99.59999847,5.9799999235,True,Access
+Argentina,2019,Cellphone Signal Density,83.70800018,5.185400009,True,Access
+Armenia,2019,Cellphone Signal Density,87.59999847,5.3799999235,True,Access
+Australia,2019,Cellphone Signal Density,99.41999817,5.9709999085,True,Access
+Austria,2019,Cellphone Signal Density,99.09999847,5.9549999235,True,Access
+Azerbaijan,2019,Cellphone Signal Density,84.0,5.2,True,Access
+Burundi,2019,Cellphone Signal Density,31.36499977,2.5682499885,True,Access
+Belgium,2019,Cellphone Signal Density,90.0,5.5,True,Access
+Benin,2019,Cellphone Signal Density,63.39999771,4.1699998855,True,Access
+Burkina Faso,2019,Cellphone Signal Density,39.24599838,2.9622999190000003,True,Access
+Bangladesh,2019,Cellphone Signal Density,79.95999908,4.997999954,True,Access
+Bulgaria,2019,Cellphone Signal Density,90.0,5.5,True,Access
+Bahrain,2019,Cellphone Signal Density,100.0,6.0,True,Access
+Bahamas,2019,Cellphone Signal Density,89.09999847,5.4549999235,True,Access
+Bosnia and Herzegovina,2019,Cellphone Signal Density,57.2159996,3.8607999800000004,True,Access
+Belarus,2019,Cellphone Signal Density,82.40999603,5.1204998015,True,Access
+Belize,2019,Cellphone Signal Density,86.90000153,5.3450000765,True,Access
+Bolivia,2019,Cellphone Signal Density,75.14800262,4.757400131,True,Access
+Brazil,2019,Cellphone Signal Density,85.18299866,5.259149933,True,Access
+Barbados,2019,Cellphone Signal Density,85.7559967,5.2877998349999995,True,Access
+Brunei Darussalam,2019,Cellphone Signal Density,82.28199768,5.114099884000001,True,Access
+Bhutan,2019,Cellphone Signal Density,69.80000305,4.4900001525,True,Access
+Botswana,2019,Cellphone Signal Density,75.76799774,4.788399887,True,Access
+Central African Republic,2019,Cellphone Signal Density,20.76399994,2.0381999970000004,True,Access
+Canada,2019,Cellphone Signal Density,89.1499939,5.457499695,True,Access
+Switzerland,2019,Cellphone Signal Density,99.55999756,5.977999878,True,Access
+Chile,2019,Cellphone Signal Density,88.62799835,5.431399917499999,True,Access
+China,2019,Cellphone Signal Density,91.29000092,5.564500046,True,Access
+Cote d'Ivoire,2019,Cellphone Signal Density,61.75600052,4.087800026,True,Access
+Cameroon,2019,Cellphone Signal Density,64.90100098,4.245050049,True,Access
+"Congo, Democratic Republic",2019,Cellphone Signal Density,42.1400032,3.10700016,True,Access
+Congo,2019,Cellphone Signal Density,69.11999512,4.455999756,True,Access
+Colombia,2019,Cellphone Signal Density,76.15599823,4.8077999115,True,Access
+Comoros,2019,Cellphone Signal Density,76.28500366,4.814250183,True,Access
+Cabo Verde,2019,Cellphone Signal Density,40.56200027,3.0281000135,True,Access
+Costa Rica,2019,Cellphone Signal Density,83.33100128,5.166550064,True,Access
+Cyprus,2019,Cellphone Signal Density,89.397995,5.46989975,True,Access
+Czechia,2019,Cellphone Signal Density,89.74000549,5.4870002745,True,Access
+Germany,2019,Cellphone Signal Density,91.76667023,5.5883335115,True,Access
+Denmark,2019,Cellphone Signal Density,89.59999847,5.4799999235,True,Access
+Dominican Republic,2019,Cellphone Signal Density,88.35599518,5.417799758999999,True,Access
+Algeria,2019,Cellphone Signal Density,72.68399811,4.6341999055,True,Access
+Ecuador,2019,Cellphone Signal Density,82.07800293,5.1039001465,True,Access
+Egypt,2019,Cellphone Signal Density,77.51999664,4.875999832,True,Access
+Spain,2019,Cellphone Signal Density,96.46266937,5.8231334685,True,Access
+Estonia,2019,Cellphone Signal Density,89.59999847,5.4799999235,True,Access
+Ethiopia,2019,Cellphone Signal Density,71.6760025,4.583800125,True,Access
+Finland,2019,Cellphone Signal Density,99.59899902,5.979949951,True,Access
+Fiji,2019,Cellphone Signal Density,86.6000061,5.3300003049999995,True,Access
+France,2019,Cellphone Signal Density,89.33999634,5.466999817,True,Access
+Gabon,2019,Cellphone Signal Density,53.15599823,3.6577999115,True,Access
+United Kingdom,2019,Cellphone Signal Density,97.71533203,5.8857666015,True,Access
+Georgia,2019,Cellphone Signal Density,79.9980011,4.9999000549999995,True,Access
+Ghana,2019,Cellphone Signal Density,72.47899628,4.6239498139999995,True,Access
+Guinea,2019,Cellphone Signal Density,42.55599976,3.127799988,True,Access
+Gambia,2019,Cellphone Signal Density,57.38400269,3.8692001344999998,True,Access
+Guinea-Bissau,2019,Cellphone Signal Density,70.68000031,4.5340000155,True,Access
+Greece,2019,Cellphone Signal Density,89.18999481,5.4594997405,True,Access
+Guatemala,2019,Cellphone Signal Density,82.54000092,5.127000046,True,Access
+Guyana,2019,Cellphone Signal Density,47.2120018,3.36060009,True,Access
+Hong Kong,2019,Cellphone Signal Density,87.59999847,5.3799999235,True,Access
+Honduras,2019,Cellphone Signal Density,74.47399902,4.723699951,True,Access
+Croatia,2019,Cellphone Signal Density,89.36000061,5.4680000305,True,Access
+Haiti,2019,Cellphone Signal Density,46.5,3.325,True,Access
+Hungary,2019,Cellphone Signal Density,89.15733337,5.4578666685,True,Access
+Indonesia,2019,Cellphone Signal Density,85.8710022,5.293550110000001,True,Access
+India,2019,Cellphone Signal Density,86.5,5.325,True,Access
+Ireland,2019,Cellphone Signal Density,97.44999695,5.8724998475,True,Access
+Iran,2019,Cellphone Signal Density,78.44999695,4.9224998475,True,Access
+Iraq,2019,Cellphone Signal Density,48.0,3.4,True,Access
+Iceland,2019,Cellphone Signal Density,89.26000214,5.463000107,True,Access
+Israel,2019,Cellphone Signal Density,89.09999847,5.4549999235,True,Access
+Italy,2019,Cellphone Signal Density,99.19999695,5.9599998475,True,Access
+Jamaica,2019,Cellphone Signal Density,79.60399628,4.980199814000001,True,Access
+Jordan,2019,Cellphone Signal Density,89.19799805,5.4598999025,True,Access
+Japan,2019,Cellphone Signal Density,89.58999634,5.479499817,True,Access
+Kazakhstan,2019,Cellphone Signal Density,78.05999756,4.902999878,True,Access
+Kenya,2019,Cellphone Signal Density,73.63200378,4.681600189,True,Access
+Kyrgyzstan,2019,Cellphone Signal Density,77.91999817,4.8959999085,True,Access
+Cambodia,2019,Cellphone Signal Density,83.09999847,5.1549999235,True,Access
+"Korea, South",2019,Cellphone Signal Density,99.58999634,5.979499817,True,Access
+Kuwait,2019,Cellphone Signal Density,98.7333374,5.93666687,True,Access
+Laos,2019,Cellphone Signal Density,57.80000305,3.8900001525,True,Access
+Lebanon,2019,Cellphone Signal Density,87.54999542,5.377499771,True,Access
+Liberia,2019,Cellphone Signal Density,51.33599854,3.566799927,True,Access
+Libya,2019,Cellphone Signal Density,55.0,3.75,True,Access
+Saint Lucia,2019,Cellphone Signal Density,72.48799896,4.624399948000001,True,Access
+Sri Lanka,2019,Cellphone Signal Density,83.09999847,5.1549999235,True,Access
+Lesotho,2019,Cellphone Signal Density,79.85099792,4.992549896,True,Access
+Lithuania,2019,Cellphone Signal Density,88.3999939,5.4199996950000005,True,Access
+Luxembourg,2019,Cellphone Signal Density,88.85599518,5.442799759,True,Access
+Latvia,2019,Cellphone Signal Density,86.69999695,5.3349998475,True,Access
+Morocco,2019,Cellphone Signal Density,88.76999664,5.438499832,True,Access
+Moldova,2019,Cellphone Signal Density,89.1190033,5.455950165000001,True,Access
+Madagascar,2019,Cellphone Signal Density,58.75600052,3.9378000259999997,True,Access
+Maldives,2019,Cellphone Signal Density,98.46333313,5.9231666565,True,Access
+Mexico,2019,Cellphone Signal Density,83.76399994,5.188199997000001,True,Access
+North Macedonia,2019,Cellphone Signal Density,89.78800201,5.4894001005,True,Access
+Mali,2019,Cellphone Signal Density,56.16400146,3.808200073,True,Access
+Malta,2019,Cellphone Signal Density,89.19999695,5.4599998475,True,Access
+Myanmar,2019,Cellphone Signal Density,74.27100372,4.713550186,True,Access
+Montenegro,2019,Cellphone Signal Density,84.75799561,5.237899780499999,True,Access
+Mongolia,2019,Cellphone Signal Density,80.90399933,5.0451999665,True,Access
+Mozambique,2019,Cellphone Signal Density,35.47599792,2.773799896,True,Access
+Mauritania,2019,Cellphone Signal Density,26.4279995,2.321399975,True,Access
+Mauritius,2019,Cellphone Signal Density,89.09999847,5.4549999235,True,Access
+Malawi,2019,Cellphone Signal Density,76.21599579,4.810799789499999,True,Access
+Malaysia,2019,Cellphone Signal Density,84.83000183,5.2415000915,True,Access
+Namibia,2019,Cellphone Signal Density,55.59999847,3.7799999235,True,Access
+Niger,2019,Cellphone Signal Density,21.68000031,2.0840000155,True,Access
+Nigeria,2019,Cellphone Signal Density,58.30000305,3.9150001524999998,True,Access
+Nicaragua,2019,Cellphone Signal Density,77.58000183,4.8790000915,True,Access
+Netherlands,2019,Cellphone Signal Density,89.59999847,5.4799999235,True,Access
+Norway,2019,Cellphone Signal Density,89.18999481,5.4594997405,True,Access
+Nepal,2019,Cellphone Signal Density,47.04000092,3.352000046,True,Access
+New Zealand,2019,Cellphone Signal Density,98.59333038,5.9296665189999995,True,Access
+Oman,2019,Cellphone Signal Density,88.84999847,5.4424999235,True,Access
+Pakistan,2019,Cellphone Signal Density,67.0019989,4.350099945,True,Access
+Panama,2019,Cellphone Signal Density,83.59999847,5.1799999235000005,True,Access
+Peru,2019,Cellphone Signal Density,71.09999847,4.5549999235000005,True,Access
+Philippines,2019,Cellphone Signal Density,79.09999847,4.9549999235,True,Access
+Papua New Guinea,2019,Cellphone Signal Density,46.70000076,3.335000038,True,Access
+Poland,2019,Cellphone Signal Density,90.0,5.5,True,Access
+Portugal,2019,Cellphone Signal Density,87.7480011,5.387400055,True,Access
+Paraguay,2019,Cellphone Signal Density,80.19999695,5.0099998475000005,True,Access
+Qatar,2019,Cellphone Signal Density,98.0,5.9,True,Access
+Romania,2019,Cellphone Signal Density,97.87466431,5.8937332155,True,Access
+Russian Federation,2019,Cellphone Signal Density,81.5,5.075,True,Access
+Rwanda,2019,Cellphone Signal Density,85.71199799,5.2855998995,True,Access
+Saudi Arabia,2019,Cellphone Signal Density,97.14199829,5.8570999145,True,Access
+Sudan,2019,Cellphone Signal Density,40.18399811,3.0091999055,True,Access
+Senegal,2019,Cellphone Signal Density,77.25,4.8625,True,Access
+Singapore,2019,Cellphone Signal Density,90.0,5.5,True,Access
+Solomon Islands,2019,Cellphone Signal Density,36.09999847,2.8049999235,True,Access
+Sierra Leone,2019,Cellphone Signal Density,50.29599762,3.514799881,True,Access
+El Salvador,2019,Cellphone Signal Density,77.15200043,4.8576000215,True,Access
+Serbia,2019,Cellphone Signal Density,88.77700043,5.4388500214999995,True,Access
+South Sudan,2019,Cellphone Signal Density,23.78800011,2.1894000055,True,Access
+Suriname,2019,Cellphone Signal Density,78.47200012,4.923600006000001,True,Access
+Slovakia,2019,Cellphone Signal Density,86.95999908,5.347999954,True,Access
+Slovenia,2019,Cellphone Signal Density,89.58000183,5.479000091500001,True,Access
+Sweden,2019,Cellphone Signal Density,89.19999695,5.4599998475,True,Access
+Eswatini,2019,Cellphone Signal Density,65.16000366,4.258000183,True,Access
+Chad,2019,Cellphone Signal Density,30.20000076,2.5100000380000003,True,Access
+Togo,2019,Cellphone Signal Density,40.7519989,3.0375999449999997,True,Access
+Thailand,2019,Cellphone Signal Density,88.20000458,5.4100002289999995,True,Access
+Tajikistan,2019,Cellphone Signal Density,77.0,4.85,True,Access
+Timor-Leste,2019,Cellphone Signal Density,66.60600281,4.3303001405,True,Access
+Tonga,2019,Cellphone Signal Density,77.80000305,4.8900001525,True,Access
+Trinidad and Tobago,2019,Cellphone Signal Density,86.0,5.3,True,Access
+Tunisia,2019,Cellphone Signal Density,85.5,5.275,True,Access
+Turkey,2019,Cellphone Signal Density,87.16899872,5.358449936,True,Access
+Tanzania,2019,Cellphone Signal Density,47.21999741,3.3609998704999997,True,Access
+Uganda,2019,Cellphone Signal Density,69.19200134,4.459600067,True,Access
+Ukraine,2019,Cellphone Signal Density,76.61000061,4.8305000305,True,Access
+Uruguay,2019,Cellphone Signal Density,83.19999695,5.1599998475,True,Access
+United States of America,2019,Cellphone Signal Density,96.42333221,5.8211666105,True,Access
+Uzbekistan,2019,Cellphone Signal Density,57.65999985,3.8829999925,True,Access
+Saint Vincent and the Grenadines,2019,Cellphone Signal Density,77.28800201,4.8644001005,True,Access
+Venezuela,2019,Cellphone Signal Density,80.40000153,5.0200000765,True,Access
+Vietnam,2019,Cellphone Signal Density,85.97000122,5.2985000609999995,True,Access
+Vanuatu,2019,Cellphone Signal Density,76.0039978,4.80019989,True,Access
+Samoa,2019,Cellphone Signal Density,83.69999695,5.1849998475,True,Access
+Yemen,2019,Cellphone Signal Density,47.5,3.375,True,Access
+South Africa,2019,Cellphone Signal Density,88.07700348,5.4038501740000005,True,Access
+Zambia,2019,Cellphone Signal Density,56.40000153,3.8200000765,True,Access
+Zimbabwe,2019,Cellphone Signal Density,58.89999771,3.9449998855,True,Access

@@ -1,0 +1,108 @@
+Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,HRAssociation
+Albania,2019.0,Government Removal Requests,0.05780972611853937,2,False,Expression
+Algeria,2019.0,Government Removal Requests,0.00023227155964359694,6,False,Expression
+Argentina,2019.0,Government Removal Requests,0.1273957295438285,1,False,Expression
+Australia,2019.0,Government Removal Requests,0.2621251613149939,1,False,Expression
+Austria,2019.0,Government Removal Requests,0.05427976828620078,2,False,Expression
+Azerbaijan,2019.0,Government Removal Requests,0.008678924966503838,3,False,Expression
+Bangladesh,2019.0,Government Removal Requests,0.0031156818381747604,4,False,Expression
+Belarus,2019.0,Government Removal Requests,0.0041402337512280035,4,False,Expression
+Belgium,2019.0,Government Removal Requests,0.08233977254725833,2,False,Expression
+Bhutan,2019.0,Government Removal Requests,0.0026209090885264464,5,False,Expression
+Bolivia (Plurinational State of),2019.0,Government Removal Requests,0.00017371512907642092,6,False,Expression
+Bosnia and Herzegovina,2019.0,Government Removal Requests,0.006361712427574933,4,False,Expression
+Brazil,2019.0,Government Removal Requests,0.09299713210907626,1,False,Expression
+Bulgaria,2019.0,Government Removal Requests,0.001433535351913576,5,False,Expression
+Cambodia,2019.0,Government Removal Requests,6.065553346481027e-05,6,False,Expression
+Canada,2019.0,Government Removal Requests,0.06338881330821403,2,False,Expression
+Chile,2019.0,Government Removal Requests,0.0014246491207936245,5,False,Expression
+China,2019.0,Government Removal Requests,0.0034786129590231186,4,False,Expression
+Colombia,2019.0,Government Removal Requests,0.002979770753522243,4,False,Expression
+Costa Rica,2019.0,Government Removal Requests,0.002575501316378346,5,False,Expression
+Croatia,2019.0,Government Removal Requests,0.02779654796392746,3,False,Expression
+Curaçao,2019.0,Government Removal Requests,0.01270317134672671,3,False,Expression
+Cyprus,2019.0,Government Removal Requests,0.005840273525038921,4,False,Expression
+Czechia,2019.0,Government Removal Requests,0.0058096659723178784,4,False,Expression
+Denmark,2019.0,Government Removal Requests,0.03147346374239778,2,False,Expression
+Dominican Republic (the),2019.0,Government Removal Requests,0.00018623782551694732,6,False,Expression
+Ecuador,2019.0,Government Removal Requests,0.007885501595893138,3,False,Expression
+Egypt,2019.0,Government Removal Requests,0.000189265505994955,6,False,Expression
+Estonia,2019.0,Government Removal Requests,1.036251467708897,1,False,Expression
+Ethiopia,2019.0,Government Removal Requests,1.784459953760895e-05,6,False,Expression
+Finland,2019.0,Government Removal Requests,0.05867858010875821,2,False,Expression
+France,2019.0,Government Removal Requests,0.19457559812925487,1,False,Expression
+Germany,2019.0,Government Removal Requests,0.07319512812649524,2,False,Expression
+Greece,2019.0,Government Removal Requests,0.041691608570451635,2,False,Expression
+"China, Hong Kong Special Administrative Region",2019.0,Government Removal Requests,0.029304419639289234,3,False,Expression
+Hungary,2019.0,Government Removal Requests,0.015044302400303097,3,False,Expression
+India,2019.0,Government Removal Requests,0.027079566141117974,3,False,Expression
+Indonesia,2019.0,Government Removal Requests,0.9419730841617046,1,False,Expression
+Iraq,2019.0,Government Removal Requests,0.0007886076417250675,5,False,Expression
+Ireland,2019.0,Government Removal Requests,0.12301543874155409,1,False,Expression
+Isle of Man,2019.0,Government Removal Requests,1.8678551584721417,1,False,Expression
+Israel,2019.0,Government Removal Requests,0.2860614093218467,1,False,Expression
+Italy,2019.0,Government Removal Requests,0.09142949981098822,2,False,Expression
+Jamaica,2019.0,Government Removal Requests,0.0006783623112753652,5,False,Expression
+Japan,2019.0,Government Removal Requests,0.01624362349669363,3,False,Expression
+Jordan,2019.0,Government Removal Requests,0.007127515307576539,4,False,Expression
+Kazakhstan,2019.0,Government Removal Requests,5.424801442695893,1,False,Expression
+Kenya,2019.0,Government Removal Requests,0.002073269456725607,5,False,Expression
+Kuwait,2019.0,Government Removal Requests,0.009270094177025998,3,False,Expression
+Latvia,2019.0,Government Removal Requests,0.007837719495334466,4,False,Expression
+Lebanon,2019.0,Government Removal Requests,0.0074390555375089575,4,False,Expression
+Libya,2019.0,Government Removal Requests,0.0001475480538190379,6,False,Expression
+Lithuania,2019.0,Government Removal Requests,0.02147353547803848,3,False,Expression
+Luxembourg,2019.0,Government Removal Requests,0.043548316857553455,2,False,Expression
+"China, Macao Special Administrative Region",2019.0,Government Removal Requests,0.006245647564353591,4,False,Expression
+Malawi,2019.0,Government Removal Requests,5.368046990165577e-05,6,False,Expression
+Malaysia,2019.0,Government Removal Requests,0.010015715596744629,3,False,Expression
+Malta,2019.0,Government Removal Requests,0.005951648805107308,4,False,Expression
+Mauritius,2019.0,Government Removal Requests,0.005530488397430377,4,False,Expression
+Mexico,2019.0,Government Removal Requests,0.0014109288937379206,5,False,Expression
+Monaco,2019.0,Government Removal Requests,0.07698822080221726,2,False,Expression
+Morocco,2019.0,Government Removal Requests,0.00019192928579329007,6,False,Expression
+Nepal,2019.0,Government Removal Requests,0.0026215787741602514,5,False,Expression
+Netherlands (the),2019.0,Government Removal Requests,0.03107546356347126,2,False,Expression
+New Zealand,2019.0,Government Removal Requests,0.0626594099572229,2,False,Expression
+Nicaragua,2019.0,Government Removal Requests,0.00015277664680621184,6,False,Expression
+Nigeria,2019.0,Government Removal Requests,0.0005075545943510975,5,False,Expression
+North Macedonia,2019.0,Government Removal Requests,0.00048153459296362394,6,False,Expression
+Norway,2019.0,Government Removal Requests,0.03272314944045284,2,False,Expression
+Oman,2019.0,Government Removal Requests,0.00020100534835030892,6,False,Expression
+Pakistan,2019.0,Government Removal Requests,0.1851265962407083,1,False,Expression
+Papua New Guinea,2019.0,Government Removal Requests,0.00011394558346348767,6,False,Expression
+Peru,2019.0,Government Removal Requests,0.0062441438082301015,4,False,Expression
+Philippines (the),2019.0,Government Removal Requests,0.0017388630584481265,5,False,Expression
+Poland,2019.0,Government Removal Requests,0.016594023912515254,3,False,Expression
+Portugal,2019.0,Government Removal Requests,0.03315100926351971,2,False,Expression
+Puerto Rico,2019.0,Government Removal Requests,0.000313117036259579,6,False,Expression
+Qatar,2019.0,Government Removal Requests,0.0007061969844682567,5,False,Expression
+Romania,2019.0,Government Removal Requests,0.01677709609425073,3,False,Expression
+Russian Federation (the),2019.0,Government Removal Requests,5.770082226559415,1,False,Expression
+San Marino,2019.0,Government Removal Requests,0.029529884242853768,3,False,Expression
+Saudi Arabia,2019.0,Government Removal Requests,0.0026554977016959203,5,False,Expression
+Senegal,2019.0,Government Removal Requests,0.004663617560778289,4,False,Expression
+Serbia,2019.0,Government Removal Requests,0.00201577052468347,5,False,Expression
+Singapore,2019.0,Government Removal Requests,0.018409525684707242,3,False,Expression
+Slovakia,2019.0,Government Removal Requests,0.0007333869072469077,5,False,Expression
+Slovenia,2019.0,Government Removal Requests,0.0019153556456304752,5,False,Expression
+Somalia,2019.0,Government Removal Requests,0.0003237732587377013,6,False,Expression
+South Africa,2019.0,Government Removal Requests,0.00022200110532642642,6,False,Expression
+Republic of Korea (the),2019.0,Government Removal Requests,1.648994147993067,1,False,Expression
+Spain,2019.0,Government Removal Requests,3.226620816212733,1,False,Expression
+Sri Lanka,2019.0,Government Removal Requests,0.015181397055451084,3,False,Expression
+Saint Vincent and the Grenadines,2019.0,Government Removal Requests,0.01808432721781668,3,False,Expression
+Sweden,2019.0,Government Removal Requests,0.0033077511213033084,4,False,Expression
+Switzerland,2019.0,Government Removal Requests,0.08944314354749933,2,False,Expression
+Thailand,2019.0,Government Removal Requests,0.12643341532762217,1,False,Expression
+Tunisia,2019.0,Government Removal Requests,0.0005985606668171049,5,False,Expression
+Turkey,2019.0,Government Removal Requests,0.22853997142764917,1,False,Expression
+Ukraine,2019.0,Government Removal Requests,0.0393816069376333,2,False,Expression
+United Arab Emirates (the),2019.0,Government Removal Requests,0.005936220833965336,4,False,Expression
+United Kingdom of Great Britain and Northern Ireland (the),2019.0,Government Removal Requests,0.05031694814707577,2,False,Expression
+United States of America (the),2019.0,Government Removal Requests,0.4056254958864505,1,False,Expression
+Uruguay,2019.0,Government Removal Requests,0.00028887282114063744,6,False,Expression
+Uzbekistan,2019.0,Government Removal Requests,5.955864069314346e-05,6,False,Expression
+Vanuatu,2019.0,Government Removal Requests,0.0033346449603510716,4,False,Expression
+Venezuela (Bolivarian Republic of),2019.0,Government Removal Requests,0.0011221837527500955,5,False,Expression
+Viet Nam,2019.0,Government Removal Requests,0.32106907719661276,1,False,Expression
