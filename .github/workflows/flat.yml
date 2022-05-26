@@ -920,3 +920,51 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv
            downloaded_filename: data/global_resilience_index.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv
+           downloaded_filename: data/open_data_inventory.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv
+           downloaded_filename: data/open_data_barometer.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
+           downloaded_filename: data/open_government_wjp.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx
+           downloaded_filename: data/mobile_money_prevalence.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx
+           downloaded_filename: data/mobile_money_regulatory.xlsx
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv
+           downloaded_filename: data/inclusive_internet_index.csv
+           postprocess: ./process_raw_data.js

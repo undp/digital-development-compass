@@ -2,11 +2,11 @@ import {
   xlsx,
   readXLSX,
   writeCSV,
-  readCSV
-} from "https://deno.land/x/flat@0.0.11/mod.ts";
+  readCSV,
+} from "https://deno.land/x/flat@0.0.15/mod.ts";
 import { parse as parseYaml } from "https://deno.land/std@0.63.0/encoding/yaml.ts";
 import { parse } from "https://deno.land/std@0.92.0/encoding/csv.ts";
-import { unZipFromFile } from 'https://deno.land/x/zip@v1.1.0/mod.ts'
+import { unZipFromFile } from "https://deno.land/x/zip@v1.1.0/mod.ts";
 import { walk, emptyDir } from "https://deno.land/std@0.100.0/fs/mod.ts";
 import { gunzipFile } from "https://deno.land/x/compress@v0.3.8/mod.ts";
 
@@ -19,21 +19,23 @@ const config = manifest.find((d) => d.name === inputFilenameRoot);
 if (!config) Deno.exit();
 console.log("config", config);
 
-let fileType = config.format
+let fileType = config.format;
 
-let fileContents
+let fileContents;
 
 try {
   if (fileType === "zip") {
-    await emptyDir("./tmp")
-    await unZipFromFile(inputFilename, "./tmp")
+    await emptyDir("./tmp");
+    await unZipFromFile(inputFilename, "./tmp");
 
     for await (const file of walk("./tmp")) {
       const extension = file.path.split(".").pop();
-      if (["xlsx", "csv", "csv.gz", "tsv", "yaml", "json"].includes(extension)) {
-        fileType = extension
-        inputFilename = file.path
-        break
+      if (
+        ["xlsx", "csv", "csv.gz", "tsv", "yaml", "json"].includes(extension)
+      ) {
+        fileType = extension;
+        inputFilename = file.path;
+        break;
       }
     }
   }
@@ -46,7 +48,7 @@ try {
     });
   } else if (fileType === "csv.gz") {
     await gunzipFile(inputFilename, outputFilename);
-    Deno.exit()
+    Deno.exit();
   } else if (fileType === "json") {
     fileContents = await readJSON(inputFilename);
   } else if (fileType === "yaml") {
@@ -76,9 +78,9 @@ try {
     }));
   }
 } catch (e) {
-  console.log(e)
+  console.log(e);
 }
 
-await emptyDir("./tmp")
+await emptyDir("./tmp");
 
 if (fileContents) await writeCSV(outputFilename, fileContents);
