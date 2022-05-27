@@ -1,4 +1,4 @@
-import { readCSV } from "https://deno.land/x/flat@0.0.11/mod.ts";
+import { readCSV } from "https://deno.land/x/flat@0.0.15/mod.ts";
 
 const inputFilename = "data_manifest.csv";
 const outputFilename = ".github/workflows/flat.yml";
