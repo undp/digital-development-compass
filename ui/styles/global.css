@@ -1,0 +1,42 @@
+@import "tailwindcss/base";
+@import "./typography.css";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body,
+html {
+  height: 100%;
+}
+
+#__next {
+  @apply flex flex-col h-full;
+}
+
+.main {
+  min-height: calc(100vh - 100px);
+}
+
+.data-table [role="columnheader"] {
+  @apply text-sm font-medium text-gray-600 bg-gray-50 border-b-2 border-r-0 flex items-center;
+}
+
+.data-table [role="columnheader"] > span {
+  @apply flex-1;
+}
+
+.data-table [role="columnheader"] span {
+  @apply items-center;
+}
+
+.data-table [role="gridcell"] {
+  @apply border-r-0 border-gray-200;
+}
+
+.rdg-header-sort-name + span {
+  margin-left: 6px;
+}
+
+.drawer {
+  box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
+    0 4px 8px rgba(89, 97, 104, 0.15), 0 6px 24px 10px rgba(89, 97, 104, 0.2);
+}

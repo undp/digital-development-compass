@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-medium-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-medium-webfont.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-black-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-black-webfont.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-lightitalic-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-lightitalic-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-sbold-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-sbold-webfont.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-semibolditalic-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-semibolditalic-webfont.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-regularitalic-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-regularitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-bold-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-bold-webfont.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-reg-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-reg-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-light-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-light-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima-nova";
+  src: url("/fonts/proximanova-sbolditalic-webfont.woff2") format("woff2"),
+    url("/fonts/proximanova-sbolditalic-webfont.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+}
