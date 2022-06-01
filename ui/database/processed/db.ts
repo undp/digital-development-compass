@@ -269,8 +269,8 @@ export interface Source {
     "Sub-Pillar":   SubPillar;
     Indicator:      string;
     "Data Source":  string;
-    "Data Link"?:   string;
-    Available?:     string;
+    "Data Link":    string;
+    Available:      string;
 }
 
 // Converts JSON strings to/from your types
@@ -579,8 +579,8 @@ const typeMap: any = {
         { json: "Sub-Pillar", js: "Sub-Pillar", typ: r("SubPillar") },
         { json: "Indicator", js: "Indicator", typ: "" },
         { json: "Data Source", js: "Data Source", typ: "" },
-        { json: "Data Link", js: "Data Link", typ: u(undefined, "") },
-        { json: "Available", js: "Available", typ: u(undefined, "") },
+        { json: "Data Link", js: "Data Link", typ: "" },
+        { json: "Available", js: "Available", typ: "" },
     ], false),
     "RegionName": [
         "Africa",

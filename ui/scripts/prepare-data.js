@@ -4,16 +4,19 @@ const csvtojson = require("csvtojson");
 const _ = require("lodash");
 const { getStage, roundNumber, stageNames } = require("./utils");
 
+const ROOT_DATA_DIR = path.join(__dirname, "..", "..", "data");
+const ROOT_DASHBOARD_DIR = path.join(__dirname, "..", "..", "dashboard");
 const RAW_DATABASE_DIR = path.join(__dirname, "..", "database", "raw");
 
-const DEFINITIONS_FILE = path.join(RAW_DATABASE_DIR, "definitions.csv");
+const DEFINITIONS_FILE = path.join(ROOT_DASHBOARD_DIR, "Definitions.csv");
 const BOUNDING_BOXES_FILE = path.join(RAW_DATABASE_DIR, "bounding-boxes.json");
 const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
-const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
-const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
-const CONFIDENCES_FILE = path.join(RAW_DATABASE_DIR, "confidences.csv");
+const COUNTRIES_FILE = path.join(ROOT_DATA_DIR, "Countries.csv");
+const SCORES_FILE = path.join(ROOT_DASHBOARD_DIR, "Scores.csv");
+const CONFIDENCES_FILE = path.join(ROOT_DASHBOARD_DIR, "confidences.csv");
+// NEEDS UPDATE – where does this live?
 const INDICES_FILE = path.join(RAW_DATABASE_DIR, "indices.csv");
-const SOURCES_FILE = path.join(RAW_DATABASE_DIR, "sources.csv");
+const SOURCES_FILE = path.join(ROOT_DASHBOARD_DIR, "Sources.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
 
 // Used to trim down what we pass down to the client
