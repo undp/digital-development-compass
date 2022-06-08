@@ -1,0 +1,1224 @@
+Indicator,"flag(green found, yellow scraped, orange requires permission, red not found, purple need attention, black on hold, blue need more research, salmon pink gender-related)",Pillar,Sub-Pillar,Data Source,Filename,Methodology/inputs,Ideal Format,Data Link,Data Raw,Data Processed,Data Scraped (TRUE/FALSE),Pull Time,Country availability (193),Data Type,Raw/Index,Data Range,Included (Y/N),Included (Rationale),"Slicing (country, region, sub-region, income-group, global average, gender, age, territory, disability, other priority groups)",Visualization,Weight,Transformation Stage Grade (1-5),Title,License,Update Frequency (Months),Principles for Inclusivity,Contact Info,Data Update Date,Next Data Update Date,Next Data Update Days Remaining,Benchmark definition,Benchmark proposal,Link to other indicators,HRRelevance,HRAssociation,HRNotes,CDO Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Countries,,,,UN Statistics Division: List of Countries,Countries,,,https://unstats.un.org,,,FALSE,9/15/2021,193,,Raw,,,,,,,,"List of countries, areas, and geographical groupings",,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Database of Global Administrative Areas (GADM, version 2.8) and the European Nomenclature of Territorial Units for Statistics (NUTS 2016) ",Data too large to be downloaded in its entirety,,,,,,,https://gadm.org,,,FALSE,9/15/2021,,,Raw,,,,,,,,GADM maps and data,CC BY-NC-ND,0,,,1-Sep-2021,1-Sep-2021,280,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+High Resolution Population Density Maps + Demographic Estimates,"This type of data is only for separate countries in separate files, not a single csv file",,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+population density vs openstreetmap object density,,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Population Density,,Infrastructure,Connectivity Technology,World Bank: World Development Indicators,population_density,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,193,,Raw,,,,,,,,Population Density,CC BY,12,,,15-Sep-2021,15-Sep-2022,-99,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Broadband Density,,Infrastructure,Connectivity Technology,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by internet connectivity,,Infrastructure,Connectivity Technology,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,many values are null,See country availability column for coverage vs null,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by mobile 2G+ data connectivity,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,countries_mobile_connectivity,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,2G Coverage,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,1,Access,,Rows 9-12 are all 1 source so should be designated Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by mobile 3G+ data connectivity,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,countries_mobile_connectivity,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,3G Coverage,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,1,Access,,Rows 9-12 are all 1 source so should be designated Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by mobile 4G+ data connectivity,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,countries_mobile_connectivity,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,4G Coverage,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,1,Access,,Rows 9-12 are all 1 source so should be designated Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by mobile 5G+ data connectivity,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,countries_mobile_connectivity,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,5G Coverage,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,1,Access,,Rows 9-12 are all 1 source so should be designated Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile Coverage Maps,,Infrastructure,Connectivity Technology,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/en/Pages/default.aspx,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Electricity Density,,Infrastructure,Connectivity Technology,University of Oxford: Our World in Data,electricity_density,"Electricity consumption per capita, measured in kilowatt-hours",,https://ourworldindata.org,https://github.com/owid/energy-data,,TRUE,10/21/2021,193,,Index,0-100,,,,,,,Energy Data,CC BY,12,,,31-Mar-2021,31-Mar-2022,69,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population covered by electricity,,Infrastructure,Connectivity Technology,World Bank: World Development Indicators,population_electricity_coverage,,,https://datacatalog.worldbank.org,,,FALSE,9/14/2021,193,,Index,0-100,,,,,,,Access to electricity (% of population),CC BY,12,,,1-Aug-2021,1-Aug-2022,-54,,,,1,Access,some data missing,See country availability column for coverage vs null,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Electricity supply quality,,Infrastructure,Connectivity Technology,World Economic Forum: Global Competitiveness Index,TCdata360,,,http://reports.weforum.org,"https://tcdata360.worldbank.org/indicators/hd0e189de?country=BRA&indicator=607&viz=line_chart&years=2007,2017",,TRUE ,11/4/2021,,,Index,1-7,,,,,,,Availability of scientists and engineers,CC BY,12,,,1-Jan-2019,1-Jan-2020,889,,,,0,,Possibly add later to DRI. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Electricity Environmental Sustainability,,Infrastructure,Connectivity Technology,Sustainable Development Report,sustainability_index,,,https://www.sdgindex.org,,,FALSE,9/14/2021,193,,Index,0-100,,,,,,,Sustainable Development Report 2021,CC BY-NC-ND,12,,,5-Aug-2020,5-Aug-2021,307,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Electrical Distribution Grid Maps,Only 6 countries in Africa,Infrastructure,Connectivity Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cellphone Signal Density,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,mobile_density,,,https://www.mobileconnectivityindex.com,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,,TRUE,9/14/2021,170,,Index,0-100,,,,,,,Cellular Coverage,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,1,Access,very complete + line 19 and 21 from the same map,Need to determine how to measure since not an index,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telecommunication Infrastructure Index (TII),,Infrastructure,Connectivity Technology,UN: E-Government Survey ,e_government_index,Arithmetic average composite of five indicators: (i) estimated internet users per 100 inhabitants; (ii) number of main fixed telephone lines per 100 inhabitants; (iii) number of mobile subscribers per 100 inhabitants; (iv) number of wireless broadband subscriptions per 100 inhabitants; and (v) number of fixed broadband subscriptions per 100 inhabitants.,,https://publicadministration.un.org/egovkb,https://publicadministration.un.org/egovkb/en-us/Data-Center,,TRUE,9/14/2021,193,0-1,Index,0-1,N,,,,5,4,E-Gov Development Index,Creative Commons Attribution 3.0 IGO,24,,,22-Jan-2019,21-Jan-2021,503,,,,0,,,May be more important than GSMA Mobile Connectivity Index since it is a UN source. #Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GSMA Mobile Connectivity Index ,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,countries_mobile_connectivity,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,Mobile Connectivity Index,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,"Maybe add later to DRI, but duplicate",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spectrum Allocated to Mobile Providers,,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,spectrum_allocated_mobile_providers,,,https://www.mobileconnectivityindex.com,,,FALSE,9/14/2021,170,,Index,0-100,,,,,,,Spectrum,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+News deserts,,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Cell Tower Map,,Infrastructure,Connectivity Technology,,,,,,,,FALSE,,,,,,N,,,,,,,"Products or services using data derived from OpenCelliD need to visibly credit ""OpenCelliD"" and reference ""OpenCelliD"" with a link to https://opencellid.org/ in the following format:
+
+Creative Commons License OpenCelliD Project is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+Exceptions to OpenCelliD attribution requirement can be in a written form granted by Unwired Labs (hello@opencellid.org). The project contributors grant Unwired Labs the license to give such exceptions on a commercial basis.",daily by 02:00 AM GMT,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Internet Exchange Points (IXPs) map,,Infrastructure,Connectivity Technology,Packet Clearing House: Internet Exchange Directory,countries_ixp,"In the fulfillment of these responsibilities, we operate public looking-glasses and routing data-collection facilities at approximately a third of the world’s public Internet Exchange Points (IXPs). We also operate the world’s largest anycast DNS network, hosting two of the DNS root letters, and more than 400 top-level domains. While the traffic normally generated by each of these services is small, each provides a unique and necessary service to the Internet infrastructure community and their criticality requires that we provision each with sufficient interconnection bandwidth to protect them against distributed denial of services (DDoS) attacks. We make our routing tables available to researchers, the operations community, and the public, in real time at our looking glass site, and as a historical archive, either by request or at our archives.",,https://www.pch.net,https://www.pch.net/ixp/dir,,TRUE,9/13/2021,,,Raw,,,,,,,,Internet Exchange Directory,CC BY-NC-SA,12,,,1-Jul-2018,1-Jul-2019,1073,,Number of exchange points per square kilometer > Divide to sextiles > Acquiring 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISP Speeds - Fixed,,Infrastructure,Connectivity Technology,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISP Speeds - Mobile,,Infrastructure,Connectivity Technology,Ookla: Speedtest Intelligence,mobile_speed,"Each test taken with Speedtest uses the Speedtest Server Network™, a global network of high-performance servers, ready to test the maximum sustained throughput of the user’s connection (download and upload speeds) and to report back on key network health metrics. There are Speedtest servers in virtually every country and major population center worldwide. Read more about the Speedtest Server Network and how Speedtest is uniquely able to measure high-speed connections including 5G.
+",,https://www.speedtest.net,https://www.speedtest.net/global-index,,TRUE,9/14/2021,139,,Raw,,,,,,,,Speedtest Global Index,Copyright,1,,,15-Sep-2021,15-Oct-2021,236,,Calculate the max and min of this indicator and then divide into sextiles > Acquiring 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Individuals using the Internet (% of population),,Infrastructure,Connectivity Technology,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,"Possible gender comparison - ​Individuals using the Internet, total and by sex, age and urban/rural area​ ","If CDO runs a citizen survey to a statistically significant number of indivduals in the country, can we get at this data in a way that is useful beyond just internal use. Can it be an index?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile cellular subscriptions (per 100 people),,Infrastructure,Connectivity Technology,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average fixed broadband download speeds ,,Infrastructure,Connectivity Technology,Ookla: Speedtest Intelligence,fixed_bdbd_spd_dl_ul,,,https://www.speedtest.net,https://www.speedtest.net/global-index,,TRUE,9/14/2021,172,,Raw,,,,,,,,Speedtest Global Index,Copyright,1,,,15-Sep-2021,15-Oct-2021,236,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average fixed broadband upload speeds ,,Infrastructure,Connectivity Technology,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average fixed broadband latency,,Infrastructure,Connectivity Technology,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISP internet dowload speed at the slowest hour of the day,,Infrastructure,Connectivity Technology,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISP internet download speed average ,,Infrastructure,Connectivity Technology,Ookla: Speedtest Intelligence,internet_speed,,,https://www.speedtest.net,https://www.speedtest.net/global-index,,TRUE,9/14/2021,180,,Raw,,,,,,,,Speedtest Global Index,Copyright,1,,,15-Sep-2021,15-Oct-2021,236,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile dowload speed at the slowest hour of the day,Only found mobile latencies rate,Infrastructure,Connectivity Technology,GSMA: Mobile Connectivity Index,mobile_latency,,,https://www.mobileconnectivityindex.com,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,,TRUE,9/14/2021,170,,Index,0-100,,,,,,,Latencies,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile download speed average ,,Infrastructure,Connectivity Technology,Ookla: Speedtest Intelligence,mobile_speed,,,https://www.speedtest.net,https://www.speedtest.net/global-index,,TRUE,9/14/2021,139,,Raw,,,,,,,,Speedtest Global Index,Copyright,1,,,15-Sep-2021,15-Oct-2021,236,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average mobile broadband download speeds ,,Infrastructure,Connectivity Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average mobile broadband upload speeds ,,Infrastructure,Connectivity Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Average mobile broadband latency,,Infrastructure,Connectivity Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Postal Coverage,,Infrastructure,Connectivity Technology,"Universal Postal Union: Postal Statistics
+",postal_coverage,,,https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications,https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics#query-the-database,,TRUE,9/14/2021,,,Index,0-100,,,,,,,,,,,,1-Aug-2020,1-Aug-2020,676,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Logistics Performance Index (LPI) - Infrastructure Rating,,Infrastructure,Connectivity Technology,World Bank: Logistics Performance Index ,logistics_performance_index,,,https://datacatalog.worldbank.org,,,FALSE,9/14/2021,160,,Index,1-5,,,,,,,International LPI from 2007 to 2018,CC BY,24,,login: shiyi.shen@undp.org password: Ssy93467865324@,30-May-2018,29-May-2020,740,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Schools with Internet proportion,,Infrastructure,Connectivity Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+National cyber security index,,Infrastructure,Connectivity Technology,e-Governance Academy Foundation: National Cyber Security Index,national_cybersecurity_index,,,https://ncsi.ega.ee,https://ncsi.ega.ee/ncsi-index,,TRUE,9/14/2021,160,,Index,0-100,,,,,,,National Cyber Security Index,CC BY,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Cybersecurity Index (GCI),,Infrastructure,Connectivity Technology,ITU: Global Cybersecurity Index,dice_export_global_cybersecurity_index,,,https://www.itu.int/itu-d/sites/statistics,https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2021-PDF-E.pdf,,TRUE,9/14/2021,194,,Index,0-100,,,,,,,GLOBAL CYBERSECURITY INDEX 2020,CC BY-NC-ND,12,,itumail@itu.int,1-Jan-2021,1-Jan-2022,158,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Software Developer Ecosystem size,Taken from a personal blog,Infrastructure,Innovation Ecosystem,Ben Frederickson Blog: Where Do The World's Software Developers Live?,software_developer_ecosystem_size,,,https://www.benfrederickson.com,https://www.benfrederickson.com/github-developer-locations,,TRUE,9/19/2021,30,,Raw,,,,,,,,Where Do The World's Software Developers Live?,CC BY,0,,,26-Apr-2018,26-Apr-2018,1504,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Digital Work Ecosystem size,,Infrastructure,Innovation Ecosystem,The Global Entrepreneurship and Development Institute: Digital Platform Economy Index,digital_platform_economy_index,"The Digital Platform Economy Index (DPE Index) integrates two separate but related literatures on ecosystems, namely, digital ecosystem and entrepreneurial ecosystem. This new framework situates digital entrepreneurship in the broader context of users, platforms, and institutions, such that two biotic entities (users and agents) actuate individual agency, and two abiotic components (digital infrastructure and digital platforms) form the external environment.",,https://thegedi.org/downloads,https://thegedi.org/wp-content/uploads/2020/12/DPE-2020-Report-Final.pdf,,TRUE,9/14/2021,116,,Index,0-100,,,,,,,Digital Platform Index,CC BY,12,,,1-Jan-2019,1-Jan-2020,889,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Country, Industry, Skill Migration Data (Skill)",,Infrastructure,Innovation Ecosystem,World Bank/LinkedIn: Digital Data For Development ,migration_skill,"This dataset is part of the LinkedIn - World Bank Group partnership, which helps governments and researchers understand rapidly evolving labor markets with detailed and dynamic insights. It allows leaders to benchmark and compare labor markets across the world; analyze skills, occupations, migration, and industries; and leverage real-time data to make policy changes.",,https://linkedindata.worldbank.org,https://datacatalog.worldbank.org/dataset/talent-migration-linkedin-data,,TRUE,9/14/2021,,http://linkedin.com/workforce,Raw,,,,,,,,Talent Migration,Creative Commons Attribution 4.0 IGO,12,,,18-Aug-2020,18-Aug-2021,294,,"aggragate by net per 10,000 people (already available) on the country level > Divide into sextiles > Acquire 1-6 score",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Country, Industry, Skill Migration Data (Industry)",,Infrastructure,Innovation Ecosystem,World Bank/LinkedIn: Digital Data For Development ,migration_industry,"This dataset is part of the LinkedIn - World Bank Group partnership, which helps governments and researchers understand rapidly evolving labor markets with detailed and dynamic insights. It allows leaders to benchmark and compare labor markets across the world; analyze skills, occupations, migration, and industries; and leverage real-time data to make policy changes.",,https://linkedindata.worldbank.org/,https://datacatalog.worldbank.org/dataset/talent-migration-linkedin-data,,TRUE,9/14/2021,,http://linkedin.com/workforce,Raw,,,,,,,,Talent Migration,Creative Commons Attribution 4.0 IGO,12,,,18-Aug-2020,18-Aug-2021,294,,"aggragate by net per 10,000 people (already available) on the country level > Divide into sextiles > Acquire 1-6 score",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Country, Industry, Skill Migration Data (Country)",,Infrastructure,Innovation Ecosystem,World Bank/LinkedIn: Digital Data For Development ,migration_country,"This dataset is part of the LinkedIn - World Bank Group partnership, which helps governments and researchers understand rapidly evolving labor markets with detailed and dynamic insights. It allows leaders to benchmark and compare labor markets across the world; analyze skills, occupations, migration, and industries; and leverage real-time data to make policy changes.",,https://linkedindata.worldbank.org,https://datacatalog.worldbank.org/dataset/talent-migration-linkedin-data,,TRUE,9/14/2021,,http://linkedin.com/workforce,Raw,,,,,,,,Talent Migration,Creative Commons Attribution 4.0 IGO,12,,,18-Aug-2020,18-Aug-2021,294,,"aggragate by net per 10,000 people (already available) on the country level > Divide into sextiles > Acquire 1-6 score",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Universities with Digital Education size,,Infrastructure,Innovation Ecosystem,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Digital Finance Ecosystem size,,Infrastructure,Innovation Ecosystem,Findexable: Global Fintech Rankings,global_fintech_ranking,,,https://findexable.com,https://findexable.com/2021-fintech-rankings,,TRUE,9/14/2021,65,,Index,0-100,,,,,,,Fintech Country Rankings,Copyright,12,,,26-Aug-2021,26-Aug-2022,-79,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tech hubs & spaces size,,Infrastructure,Innovation Ecosystem,Nature: Global Innovation Hubs Index ,tech_hubs,,,https://www.nature.com,https://media.nature.com/original/magazine-assets/d42473-020-00535-9/d42473-020-00535-9.pdf,,TRUE,9/19/2021,,,,,,,,,,,Global Innovation Hubs Index 2020,CC BY,0,,,21-Sep-2020,21-Sep-2020,625,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Banking Ecosystem size,,Infrastructure,Innovation Ecosystem,IMF/The Global Economy: Bank assets to GDP - Country rankings,banking_sector_size,,,https://www.theglobaleconomy.com,https://www.theglobaleconomy.com/rankings/bank_assets_GDP,,TRUE,9/14/2021,162,,Index,0-100,,,,,,,Bank assets to GDP - Country rankings,"Copyright
+Select indicators, countries, and years to see the data availability. Then, register and make a one-time payment to get full access to our data. The cost is $29.95 for three months. You can download data as many times as you want during that period. These are one-time payments, not subscriptions, and are not renewed automatically.",12,,,7-May-2017,7-May-2018,1493,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Angel Ecosystem size,Some European Countries,Infrastructure,Innovation Ecosystem,Statista,angel_investment,,,https://www.statista.com,https://www.statista.com/statistics/439669/business-angel-investments-by-country-in-europe,,TRUE,9/14/2021,26,,Raw,,,,,,,,Value of business angel investments via angel networks (visible market) in selected European countries as of 2019,CC BY-ND,0,,,1-Dec-2020,1-Dec-2020,554,,Million Euros per capita >  Divide into sextiles > Acquire 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Startup Ecosystem size,,Infrastructure,Innovation Ecosystem,Startup Genome: Global Startup Ecosystem Report ,startup_eco_size,,,https://startupgenome.com/reports,https://startupgenome.com/reports/gser2020,,TRUE,9/14/2021,,,,,,,,,,,Global Startup Ecosystem Rankings,Copyright,12,,,25-Jun-2020,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Venture Ecosystem size,,Infrastructure,Innovation Ecosystem,Startup Genome: Global Startup Ecosystem Report ,startup_eco_size,,,https://startupgenome.com/reports,https://startupgenome.com/reports/gser2020,,TRUE,9/14/2021,,,,,,,,,,,Global Startup Ecosystem Rankings,Copyright,12,,,25-Jun-2020,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+International Co-Inventions,,Infrastructure,Innovation Ecosystem,"OECD: Science, Technology and Innovation Scoreboard",international_co_inventions,"2 sets of indicators are provided in OECD.Stat:
+
+Patent counts by technology (including total patents, estimated total patents for latest years):
+
+EPO, USPTO, PCT and Triadic Patent Families are presented according to classes of the International Patent Classification (IPC class up to 4 characters) and for selected technology domains such as ICT, Artificial Intelligence, nanotechnology, biotechnology as well as environment-related technologies.
+Indicators of international co-operation (EPO, USPTO & PCT):
+
+Cross-border ownership of patents reflects international flows of knowledge from the inventor country to the applicant countries and international flows of funds for research (multinational companies).
+Co-inventions represent the international collaboration in the inventive process.
+Additional patent related indicators available on OECD.Stat :
+
+Patents at the regional level;
+Patents in environment-related technologies.",,https://stats.oecd.org,https://stats.oecd.org/Index.aspx?DataSetCode=PATS_COOP,,TRUE ,9/22/2021,,,Raw,,,,,,,,International co-operation in patents ,CC BY-NC-ND,12,,,14-May-2020,14-May-2021,390,,"Filter by year ""2017"" then ""Total co-operation with abroad"" and then divided by population >  Number of patent applications per capita > Divide into sextiles > Acquire 1-6 score",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Availability of scientists and engineers,,Infrastructure,Innovation Ecosystem,World Economic Forum: Global Competitiveness Index,TCdata360,,,http://reports.weforum.org,"https://tcdata360.worldbank.org/indicators/hd0e189de?country=BRA&indicator=607&viz=line_chart&years=2007,2017",,TRUE ,11/4/2021,,,Index,0-100,,,,,,,Availability of scientists and engineers,CC BY,12,,,1-Jan-2019,1-Jan-2020,889,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scientific and technical articles/bn PPP$ GDP,,Infrastructure,Innovation Ecosystem,"Global Innovation Index/Clarivate, Web of Science: Scientific and technical articles/bn PPP$ GDP",global_innovation_dataset,Number of scientific and technical journal articles published per billion PPP$ GDP.,,https://www.globalinnovationindex.org/analysis-indicator,https://www.globalinnovationindex.org/analysis-indicator,,TRUE,11/5/2021,131,,Index,0-100,,,,,,,Ease of Getting Credit,CC BY-NC-ND,12,,,5-Oct-2021,5-Oct-2022,-119,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile app creation/bn PPP$ GDP,,Infrastructure,Innovation Ecosystem,Global Innovation Index/App Annie Intelligence: Mobile app creation/bn PPP$ GDP,global_innovation_dataset,"Global downloads of mobile apps, by origin of the headquarters of the developer/firm, scaled by PPP$ GDP (billions).
+",,https://www.globalinnovationindex.org/analysis-indicator,https://www.globalinnovationindex.org/analysis-indicator,,TRUE,11/5/2021,104,,Index,0-100,,,,,,,Ease of Getting Credit,CC BY-NC-ND,12,,,5-Oct-2021,5-Oct-2022,-119,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Patents by origin/bn PPP$ GDP,,Infrastructure,Innovation Ecosystem,Global Innovation Index/WIPO: Patents by origin/bn PPP$ GDP,global_innovation_dataset,"Number of resident patent applications filed at a given national or regional patent office per billion PPP$ GDP.
+",,https://www.globalinnovationindex.org/analysis-indicator,https://www.globalinnovationindex.org/analysis-indicator,,TRUE,11/5/2021,128,,Index,0-100,,,,,,,Ease of Getting Credit,CC BY-NC-ND,12,,,5-Oct-2021,5-Oct-2022,-119,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+International patent applications by origin (PCT System),,Infrastructure,Innovation Ecosystem,WIPO: Intellectual Property Statistics,patent_application_PCT,,,https://www.wipo.int/ipstats/en,https://www.wipo.int/export/sites/www/pressroom/en/documents/pr_2020_848_annexes.pdf,,TRUE ,11/5/2021,143,,Raw,,,,,,,,International patent applications by origin (PCT System),CC BY 3.0 IGO.,12,,,1-Jan-2020,31-Dec-2020,524,,Number of patent applications per capita > Divide into sextiles > Acquire 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+International industrial applications by origin (Hague System),,Infrastructure,Innovation Ecosystem,WIPO: Intellectual Property Statistics,Hague_system,,,https://www.wipo.int/ipstats/en,https://www.wipo.int/export/sites/www/pressroom/en/documents/pr_2020_848_annexes.pdf,,TRUE ,11/5/2021,73,,Raw,,,,,,,,"International industrial designs by origin (Hague System) (designs
+contained in applications)",CC BY 3.0 IGO.,12,,,1-Jan-2020,31-Dec-2020,524,,Number of patent applications per capita > Divide into sextiles > Acquire 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+International industrial designs by origin (Hague System),,Infrastructure,Innovation Ecosystem,WIPO: Intellectual Property Statistics,Hague_system,,,https://www.wipo.int/ipstats/en,https://www.wipo.int/export/sites/www/pressroom/en/documents/pr_2020_848_annexes.pdf,,TRUE ,11/5/2021,73,,Raw,,,,,,,,"International industrial designs by origin (Hague System) (designs
+contained in applications)",CC BY 3.0 IGO.,12,,,1-Jan-2020,31-Dec-2020,524,,Number of patent applications per capita > Divide into sextiles > Acquire 1-6 score,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Online-Service-Index (OSI),,Government,Digital Public Services,UN: E-Government Survey,e_government_index,"To arrive at a set of Online Service Index (OSI) values for 2016, a total of 111 researchers, including UN experts and online United Nations Volunteers (UNVs) from over 60 countries with coverage of 66 languages assessed each country’s national website in the native language, including the national portal, e-services portal and e-participation portal, as well as the websites of the related ministries of education, labour, social services, health, finance and environment as applicable.",,https://publicadministration.un.org/egovkb,https://publicadministration.un.org/egovkb/en-us/Data-Center,,TRUE,9/14/2021,193,0-1,Index,0-1,N,,"country, region, sub-region, income-group, global average",,,3,2020 E-Government Development Index,CC BY 3.0 IGO.,24,,dpidg@un.org,22-Jan-2019,21-Jan-2021,503,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E-Participation index,,Government,Digital Public Services,UN: E-Government Survey,e_government_index,"The e-participation index (EPI) is derived as a supplementary index to the UN E-Government Survey. It extends the dimension of the Survey by focusing on the use of online services to facilitate provision of information by governments to citizens (“e-information sharing”), interaction with stakeholders (“e-consultation”) and engagement in decision-making processes",,https://publicadministration.un.org/egovkb,https://publicadministration.un.org/egovkb/en-us/Data-Center,,TRUE,9/14/2021,193,0-1,Index,0-1,N,,,,,,2020 E-Government Development Index,CC BY 3.0 IGO.,24,,dpidg@un.org,22-Jan-2019,21-Jan-2021,503,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Use of public services online (% of services online, penetration, frequency of use)",36 countries only,Government,Digital Public Services,Boston Consulting Group/Salesforce: The Global Trust Imperative,digital_public_service_use,"Q. Which of the following best describes how well current online government services meet your need? 
+1. Needs Never Met, 2. Needs often not met,
+3. Needs sometimes met, 4. Most needs met, 5. All Needs Met. 
+Net Perception = total needs most or always met (4 and 5) – needs often not met or never
+met (1 and 2). In calculating net perception 3 was neutral.
+Source : BCG 2020 Digital Government Citizen Survey",,https://www.salesforce.com,https://www.bcg.com/industries/public-sector/digital-government,,TRUE ,9/14/2021,36,,Index,0-100,,,,,,,Net perception that needs are being met by digital services,CC BY-NC-ND,0,,,1-Jan-2021,1-Jan-2021,523,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Security incidents (# of relevant issues),,Government,Digital Public Services,SPECOPS,cyber_attacks,"Specops Software analysed the latest data from Center for Strategic and International Studies (CSIS) to discover which countries across the world have experienced the most “significant” cyber-attacks between May 2006 and June 2020.
+
+“Significant” cyber-attacks are defined as cyber-attacks on a country’s government agencies, defense and high-tech companies, or economic crimes with losses equating to more than a million dollars.",,https://specopssoft.com,https://specopssoft.com/blog/countries-experiencing-significant-cyber-attacks,,TRUE ,9/20/2021,20,,Raw,,,,,,,,The countries experiencing the most ‘significant’ cyber-attacks,Copyright,0,,,13-Jul-2020,13-Jul-2020,695,,"Number of incidents per 1,000,000 > Divide into sextiles > Acquire 1-6 score",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Inherent Cyber Risk,,Government,Digital Public Services,FM Global: FM Global Resilience Index,inherent_cyber_risk,Vulnerability to cyberattack combined equally with a country's ability to recover,,https://www.fmglobal.com/,https://www.fmglobal.com/research-and-resources/tools-and-resources/resilienceindex/explore-the-data/?&vd=1,,TRUE ,1/25/2022,126,,Index,0-100,,,,,,,Risk Quality - Inherent Cyber Risk,,12,,,11-Nov-2021,11-Nov-2022,-156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+What is the % change of government digitizing public services?,,Government,Digital Public Services,World Bank: GovTech Dataset,Egov_strategy,"In the document, there are four columns, namely,Core Gov Systems Index that rate how a government performs in terms of the degree of penetration of digitalizing in government services. According to WB, this metric is measured according to the following criteria: government cloud, interoperability platform, automated paymebt, etc, ",,https://datacatalog.worldbank.org,,,FALSE,9/14/2021,198,,Index,0-1,,,,,,,GovTech Dataset,CC BY,12,,,22-Sep-2021,22-Sep-2022,-106,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+R&D spending (% of GDP),,Government,Funding and procurement,World Bank: World Development Indicators,RD_Percentage_GDP,,,https://datacatalog.worldbank.org,,,FALSE,9/14/2021,193,,Index,0-100,,,,,,,Research and Development Expenditure,CC BY,12,,,15-Sep-2021,15-Sep-2022,-99,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT investment as a percentage of GDP,OECD countries,Government,Funding and procurement,OECD: Going Digital Toolkit,ICT_Investment,,,https://data.oecd.org,,,TRUE ,9/14/2021,18,,Index,0-100,,,,,,,"ICT investmentTotal, Percentage, 2000 – 2010",CC BY-NC-ND,12,,,13-Oct-2014,13-Oct-2015,2430,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Donor Funding Levels,,Government,Funding and procurement,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Evidence of digital strategies in/across Ministries,,Government,Funding and procurement,World Bank: GovTech Dataset,Egov_strategy,"In the DG Strategy section, there is a list of digital strategies in/across Ministries as well as links to such strategies.",,https://datacatalog.worldbank.org,,,FALSE,9/14/2021,198,,,1-3,,,,,,,GovTech Dataset,CC BY,12,,,22-Sep-2021,22-Sep-2022,-106,,,,0,,"Maybe add later to DRI. 
+The datasets include data on (Figure 5.2) number of broadband subscriptions per 100 persons (wireless and fixed), (Figure 5.3) wireless coverage usage gaps (as a share of population, by region and globally), and (Figure 5.4) global coverage of internet service (2G, 3G, 4G). https://datacatalog.worldbank.org/search/dataset/0037989 ",The data may be a bit strange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Evidence of focus on vulnerable groups,,Government,Leadership and coordination,World Bank: GovTech Dataset,Egov_strategy,"In the ""Whole of Government"" Column the document lists all the  current approaches of national governments in ensuring the digital inclusiveness for their respective countries. ",,https://datacatalog.worldbank.org,,,FALSE,9/15/2021,198,,,-0.03-0.03,,,,,,,GovTech Dataset,CC BY,12,,,22-Sep-2021,22-Sep-2022,-106,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Evidence of agile approach (testing & learning),platform no csv/xlsx found pdf report of processed data,Government,Monitoring,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Policies for context-disaggregation (gender, age, race, etc) of data",This indicator is planned to be included in future IAEG-SDG Reports ,Government,Monitoring,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of digital skills certifications / training courses completed,,Government,Capabilities,Coursera: Global Skills Reports,digital_skill_level,Coursera Skills Reports details the skill trends of more than 100 countries in the world.,,https://www.coursera.org/skills-reports/global,https://www.coursera.org/global-skills-report/skills?utm_cta_location_source=homepage-hero&utm_cta_text=get-report,,TRUE,9/15/2021,108,,Index,0-1,,,,,,,Global Skills Reports,Copyright,12,,,1-Jan-2021,1-Jan-2022,158,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of government encrypted web traffic,,Government,Capabilities,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of country encrypted web traffic,,Government,Capabilities,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,1,Privacy,good quantity with all the regions represented but we don't know the quality of the text of laws and bills,How can we measure this into a score?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+data protection laws,,Regulation,Data standards and protection,UNCTAD: Data Protection and Privacy Legislation Worldwide,data_protect_privacy_legislation,,,https://unctad.org/page/data-protection-and-privacy-legislation-worldwide,,,FALSE,9/15/2021,128,,Raw,,,,,,,,Data Protection and Privacy Legislation Worldwide,CC BY 3.0 IGO.,12,,wjp@worldjusticeproject.org,20-Oct-2020,20-Oct-2021,231,,,,0,,good quantity with all the regions represented but we don't know the quality of the text of laws and bills,How can we measure this into a score?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Tables of Data Privacy Laws and Bills,,Regulation,Data standards and protection,UNCTAD: Data Protection and Privacy Legislation Worldwide,data_protect_privacy_legislation,,,https://unctad.org/page/data-protection-and-privacy-legislation-worldwide,,,FALSE,9/15/2021,128,,Raw,,,,,,,,Data Protection and Privacy Legislation Worldwide,CC BY 3.0 IGO.,12,,support@ssrn.com [support@ssrn.com],20-Oct-2020,20-Oct-2021,231,,,,0,,good quantity with all the regions represented but we don't know the quality of the text of laws and bills,How can we measure this into a score?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data Protection and Privacy Legislation Worldwide,,Regulation,Data standards and protection,UNCTAD: Data Protection and Privacy Legislation Worldwide,data_protect_privacy_legislation,,,https://unctad.org/page/data-protection-and-privacy-legislation-worldwide,,,FALSE,9/15/2021,128,,Raw,,,,,,,,Data Protection and Privacy Legislation Worldwide,CC BY 3.0 IGO.,12,,,20-Oct-2020,20-Oct-2021,231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Repo of laws on,,Regulation,Ethical Standards,,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2021,1-Aug-2021,311,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"
+
+Legality of cryptocurrency",,Regulation,Cybersecurity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Repo of laws on encryption,,Regulation,Cybersecurity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# key internet controls employed,,Regulation,Cybersecurity,Freedom House: Freedom on the Net,number_key_internet_controls_employed,,,https://freedomhouse.org/report/freedom-net,,,FALSE,11/12/2021,70,,Index,0-100,,,,,,,2021 Key Internet Controls Data,CC BY,12,,info@freedomhouse.org,15-Sep-2021,15-Sep-2022,-99,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Limits on content,,Regulation,Cybersecurity,Freedom House: Freedom on the Net,freedom_on_the_net,,,https://freedomhouse.org/report/freedom-net,,,FALSE,11/12/2021,70,,Raw,0-100,,,,,,,,2021 Key Internet Controls Data,CC BY,12,info@freedomhouse.org,15-Sep-2021,15-Sep-2022,-99,,,,1,Association,65 countries representing all regional groups; good quality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rule of Law Index,,Regulation,Ethical Standards,World Justice Project: Rule of Law Index,rli,"The World Justice Project Rule of Law Index® is the world’s leading source for original, independent data on the rule of law. Covering 128 countries and jurisdictions, the Index relies on national surveys of more than 130,000 households and 4,000 legal practitioners and experts to measure how the rule of law is experienced and perceived worldwide. ",,https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-index-2020,,,FALSE,9/15/2021,128,,Index,0-1,,,,,,, Rule of Law Index 2020,Copyright,12,,facebook.com/ thewjp,11-Mar-2021,11-Mar-2022,89,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNCTAD Business-to-Consumer (B2C) E-commerce Index,,Business,Technology Adoption,UNCTAD:  Business-to-Consumer (B2C) E-commerce Index,b2c_ecommerse_idx,,,https://unctad.org,https://unctad.org/system/files/official-document/tn_unctad_ict4d17_en.pdf,,TRUE,11/5/2021,152,,Index,0-100,,,,,,,Country rank and value in the UNCTAD B2C E-commerce Index,CC BY,12,,,1-Dec-2020,1-Dec-2021,189,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Networking Services (Spend, IT Forecast Data)",,Business,Technology Adoption,Portulans Institute: Network Readiness Index,network_readiness_index,"The Network Readiness Index combines network quality metrics (cost, speed, coverage) with government policies as well as the impact of these factors on society as a whole. ",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/15/2021,134,,Index,0-100,,,,,,,The Network Readiness Index,CC BY-NC-ND,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT goods exports ,,Business,Technology Adoption,UNCTAD: International trade in ICT goods,,,,https://unctadstat.unctad.org,https://unctadstat.unctad.org/7zip/US_IctGoodsShare.csv.7z,,TRUE,9/13/2021,,,Raw,,,,,,,,US ICT Goods Share,Creative Commons Attribution 3.0 IGO,12,,,21-Dec-2020,21-Dec-2021,169,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT goods imports ,,Business,Technology Adoption,UNCTAD: International trade in ICT goods,,,,https://unctadstat.unctad.org,https://unctadstat.unctad.org/7zip/US_IctGoodsShare.csv.7z,,TRUE,9/13/2021,,,Raw,,,,,,,,US ICT Goods Share,Creative Commons Attribution 3.0 IGO,12,,,21-Dec-2020,21-Dec-2021,169,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT service exports ,,Business,Technology Adoption,UNCTAD: International trade in ICT services,,,,https://unctadstat.unctad.org,https://unctadstat.unctad.org/7zip/US_TradeServICT.csv.7z,,TRUE,9/13/2021,,,Raw,,,,,,,,US Trade Service ICT,Creative Commons Attribution 3.0 IGO,12,,,1-Sep-2021,1-Sep-2022,-85,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT service imports,,Business,Technology Adoption,UNCTAD: International trade in ICT services,,,,https://unctadstat.unctad.org,https://unctadstat.unctad.org/7zip/US_TradeServICT.csv.7z,,TRUE,9/13/2021,,,Raw,,,,,,,,US Trade Service ICT,Creative Commons Attribution 3.0 IGO,12,,,1-Sep-2021,1-Sep-2022,-85,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Cloud Services (Spend, IT Forecast Data)",24 countries,Business,Technology Adoption,Statista,cloud_services,"According to the source, data privacy, security, cybercrime, intellectual property rights, standards and international harmonization and promoting free trade each has a score of 12.5; IT readiness, broadband deployment has a score of 25. The total score adds up to 100.",,https://www.statista.com,https://www.statista.com/statistics/830084/worldwide-cloud-computing-policy-environment-country-ranking-by-category,,TRUE,9/13/2021,24,,Index,0-100,,,,,,,"Country ranking by cloud computing policy environment in 2018, by category*",CC BY-ND,0,,,1-Mar-2018,1-Mar-2018,1560,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ICT task-intensive jobs as a percentage of total employment,OECD countries,Business,Technology Adoption,OECD: Going Digital Toolkit,ICT_proportion,"This indicator provides a measure of the share of the workforce that performs ICT-related tasks, including and beyond those carried out by ICT specialists. “ICT task-intensive” occupations are here defined as those having a high propensity to include ICT tasks ranging from simple use of the Internet, through the use of word processing or spreadsheet software, to programming. This indicator is calculated based on OECD exploratory factor analysis of responses to 11 items on the OECD Survey of Adult Skills which relate to the performance of ICT tasks at work.",,http://goingdigital.oecd.org,http://goingdigital.oecd.org/indicator/40,,TRUE,9/13/2021,29,,Index,0-100,,,,,,,"ICT task-intensive jobs as a percentage of total employment
+
+",CC BY-NC-ND,12,,,11-May-2020,11-May-2021,393,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of small businesses making e-commerce sales in the last 12 months,,Business,Technology Adoption,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of retail businesses allowing eletronic payments,,Business,Technology Adoption,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of business with internet,OECD countries,Business,Technology Adoption,OECD: ICT Access and Usage by Businesses,business_internet,"The ICT Access and Usage by Businesses database provides a selection of 51 indicators, based on the 2nd revision of the OECD Model Survey on ICT Access and Usage by Businesses.",,https://stats.oecd.org,https://stats.oecd.org/Index.aspx?DataSetCode=ICT_BUS,,TRUE,9/10/2021,36,,Index,0-100,,,,,,,ICT Access and Usage by Businesses ,CC BY-NC-ND,12,,,14-May-2020,14-May-2021,390,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of businesses with broadband,OECD countries,Business,Technology Adoption,OECD: Innovation Indicators,business_broadband,"This indicator provides information on how many businesses use a broadband connection. Data typically come from surveys/questionnaires given to a sample subset of businesses. The results are then extrapolated for the country as a whole. The drawbacks of the survey data are that it is collected infrequently and that the questions asked about broadband usage are not necessarily uniform across OECD countries. This indicator is measured in percentage of all businesses and is available by business size or by business sector.
+",,https://www.oecd.org/innovation/inno/inno-stats.htm,"https://tcdata360.worldbank.org/indicators/biz.bbnd?indicator=3&viz=line_chart&years=2004,2010",,TRUE,9/10/2021,20,,Index,0-100,,,,,,,Business use of broadband (%),CC BY,12,,,10-Apr-2018,10-Apr-2019,1155,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of businesses with online presence,,Business,Technology Adoption,Portulans Institute: Network Readiness Index,share_of_businesses_online_presence,"Source: OECD, ICT Access and Use by Businesses, OECD Telecommunications and Internet Statistics (database) (https://doi.org/10.1787/9d2cb97b-en); World Bank, Enterprise Surveys (www.
+enterprisesurveys.org)
+For some countries, the latest year for which data are available may differ from the year that appears at the top of the page. The cut-off year is 2009.",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/9/2021,134,,Index,0-100,,,,,,,Firms with website (% of total) | 2018,CC BY-NC-ND,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Size of gig economy (% of GDP),,Business,Technology Adoption,Portulans Institute: Network Readiness Index,prevalance_gig_economy,"Average answer to the question: In your country, to what extent is the online gig economy prevalent?
+[1 = Not at all; 7 = To a great extent] | 2018–19",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/9/2021,134,,Index,0-100,,,,,,,Prevalence of gig economy,CC BY-NC-ND,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Size of digital economy (% of transactions),,Business,Technology Adoption,Portulans Institute: Network Readiness Index,size_digital_economy,"Source: United Nations Industrial Development Organization (UNIDO), UNIDO CIP 2018 Database (https://stat.unido.org), sourced from United Nations, Open SDG Data Hub (http://www.sdg.org). United Nations (2019),
+Metadata for Indicator 9.b.1 Proportion of medium and high-tech industry value added in total value added (https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf). Galindo-Rueda, F. and F. Verger (2016). OECD
+Taxonomy of Economic Activities Based on R&D Intensity, OECD Science, Technology and Industry Working Papers, 2016/04, OECD Publishing, Paris (http://dx.doi.org/10.1787/5jlv73sqqp8r-en)
+For some countries, the latest year for which data are available may differ from the year that appears at the top of the page. The cut-off year is 2009.",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/9/2021,134,,Index,0-100,,,,,,,Proportion of medium and high-tech industry value added in total value added (%) | 2016,CC BY-NC-ND,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Venture Capital Availability,,Business,Financing Incentives,World Economic Forum: Global Competitiveness Index,TCdata360,,,http://reports.weforum.org,"https://tcdata360.worldbank.org/indicators/h8a7ea3d1?country=BRA&indicator=529&viz=line_chart&years=2007,2017",,TRUE ,11/4/2021,193,,Index,1-7,,,,,,,TCdata360,CC BY,12,,,1-Jan-2019,1-Jan-2020,889,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Doing Business Index,,Business,Startup Environment,World Bank: Doing Business,doing_bus_idx,,,https://datacatalog.worldbank.org,,,FALSE,9/10/2021,191,,Index,0-100,,,,,,,,CC BY,12,,,24-Mar-2020,24-Mar-2021,441,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of local tech companies publishing transparency reports,,Business,Impact commitments,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Strength of Legal Rights,,Business,Startup Environment,World Bank: World Development Indicators,legal_rights_strength,,,https://datacatalog.worldbank.org,https://data.worldbank.org/indicator/IC.LGL.CRED.XQ,,TRUE,9/10/2021,217,,Index,0-12,,,,,,,Strength of legal rights index,CC BY,12,,,15-Sep-2021,15-Sep-2022,-99,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Time to Start a Business,,Business,Startup Environment,World Bank: World Development Indicators,time_start_bus,,,https://datacatalog.worldbank.org,https://data.worldbank.org/indicator/IC.REG.DURS,,TRUE,9/10/2021,217,,Raw,,,,,,,,Time required to start a business (days),CC BY,12,,,15-Sep-2021,15-Sep-2022,-99,"If the days are <=2 then get a score of 4, 2<x<6: 3, 6<x<11: 2, >= 11: 1. Then convert scale 1-4 to scale 1-6",,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ease of Doing Business,,Business,Startup Environment,World Bank: Doing Business rankings,ease_doing_bus,,,https://datacatalog.worldbank.org,https://www.doingbusiness.org/en/rankings,,TRUE,9/10/2021,217,,,,,,,,,,Ease of Doing Business rankings,CC BY,12,,,1-May-2019,30-Apr-2020,769,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Time to Getting Internet in Office,,Business,Startup Environment,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Digital business owner demographics,,Business,Startup Environment,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ease of finding skilled employees,,Business,Startup Environment,World Bank: GovData,ease_of_finding_skilled_employees,Ease Of Finding Skilled Employees from 1 to 7 with 7 is the easiest to find skilled employees,,https://datacatalog.worldbank.org,"https://govdata360.worldbank.org/indicators/h1c60da16?country=BRA&indicator=41401&viz=line_chart&years=2017,2019#table-link",,TRUE,9/9/2021,139,,Index,1-6,,,,,,,GCI 4.0: Ease of finding skilled employees,CC BY,12,,,10-Apr-2018,10-Apr-2019,1155,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Amount invested into startups yearly from private, public, blended sources (respectively)",only all the OECD countries plus some non-OECD countries,Business,Startup Environment,OECD: Venture capital investments ,start_up_investment,,,https://stats.oecd.org,https://stats.oecd.org/Index.aspx?DataSetCode=VC_INVEST,,TRUE,9/9/2021,37,,Raw,,,,,,,,Venture capital investments ,CC BY-NC-ND,12,,,20-Aug-2020,20-Aug-2021,292,Million of USD per capita > Divide into sextiles > Acquire 1-6 score,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Regulatory Quality,,Business,Startup Environment,Global Innovation Index/World Bank: Regulatory Quality,global_innovation_dataset,This indicator is an index that reflects the perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private-sector development.,,https://www.globalinnovationindex.org/analysis-indicator,https://www.globalinnovationindex.org/analysis-indicator,,TRUE,11/5/2021,132,,Index,0-100,,,,,,,Regulatory Quality,CC BY-NC-ND,12,,,5-Oct-2021,5-Oct-2022,-119,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ease of Getting Credit,,Business,Startup Environment,Global Innovation Index/World Bank: Ease of Getting Credit,global_innovation_dataset,"This indicator ranks economies on their ease of getting credit based on the legal rights of borrowers and lenders (collateral and bankruptcy laws) as well as the coverage, scope, and accessibility of credit information available through credit reporting service providers.
+",,https://www.globalinnovationindex.org/analysis-indicator,https://www.globalinnovationindex.org/analysis-indicator,,TRUE,11/5/2021,132,,Index,0-100,,,,,,,Ease of Getting Credit,CC BY-NC-ND,12,,,5-Oct-2021,5-Oct-2022,-119,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Resilience Index,,Business,Startup Environment,FM Global: FM Global Resilience Index,global_resilience_index,The Global Resilience Index is a composite measure of a country's relative enterprise resilience to disruptive events. ,,https://www.fmglobal.com/,https://www.fmglobal.com/research-and-resources/tools-and-resources/resilienceindex/explore-the-data/?&vd=1,,TRUE ,1/25/2022,126,,Index,0-100,,,,,,,Risk Quality - Inherent Cyber Risk,,12,,,11-Nov-2021,11-Nov-2022,-156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Human Capital Index (HCI),,People,Digital Literacy Skills,UN: E-Government Survey ,e_government_index,"Consists of four components, namely: (i) adult literacy rate; (ii) the combined primary, secondary and tertiary gross enrolment ratio; (iii) expected years of schooling; and (iv) average years of schooling.",,https://publicadministration.un.org/egovkb,https://publicadministration.un.org/egovkb/en-us/Data-Center,,TRUE,9/9/2021,193,0-1,Index,0-1,N,,"country, region, sub-region, income-group, global average",,,3,2020 E-Government Development Index,CC BY 3.0 IGO.,24,,dpidg@un.org,22-Jan-2019,21-Jan-2021,503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population using internet (all),,People,Digital Literacy Skills,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population using internet (female),,People,Digital Literacy Skills,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,Gender comparison (39687 - 41227),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population using internet (male),,People,Digital Literacy Skills,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of internet users who own cryptocurrency,only 55 countries available,People,Digital Literacy Skills,Statista,cryptocurrency_adoption,,,https://www.statista.com,https://www.statista.com/statistics/1202468/global-cryptocurrency-ownership,,TRUE,9/10/2021,55,,Index,0-100,,,,,,,Share of respondents who indicated they either owned or used cryptocurrencies in 55 countries worldwide in 2020,CC BY-ND,0,,,1-Feb-2021,1-Feb-2021,492,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Crypto Adoption Index,,People,Usage and ownership,Chainanalysis: Global Crypto Adoption Index,Chainalysis_2021_Geography_Cryptocurrency_Report,,,https://go.chainalysis.com,https://go.chainalysis.com/rs/503-FAP-074/images/2020-Geography-of-Crypto.pdf,,TRUE ,10/11/2021,154,,Index,0-1,,,,,,,The 2020 Global Crypto Adoption Index:,Copyright,12,,,1-Sep-2020,1-Sep-2021,280,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SDG 4.4 Digital literacy data,,People,Digital Literacy Skills,UNESCO: Sustainable Development Goals,SDG_digital_literacy_data,,,http://data.uis.unesco.org,http://data.uis.unesco.org/index.aspx?queryid=3731,,TRUE,9/16/2021,193,,Raw,,,,"country, region, sub-region, income-group, global average, gender",,,,"Sustainable Development Goals 1 and 4  : 4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",CC BY,12,,,26-Sep-2020,26-Sep-2021,255,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNDP Human Development Index (HDI) ,,People,Culture,UNDP: Human Development Data Center,undp_human_developmnt,"The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. The HDI is the geometric mean of normalized indices for each of the three dimensions.",,http://hdr.undp.org/en,,,FALSE,9/10/2021,189,,Index,0-1,,,,,,,Human Development Index and its components ,Creative Commons Attribution 3.0 IGO,12,,,5-Dec-2020,5-Dec-2021,185,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Facebook Social Connectedness Index,,People,Culture,Facebook: Social Connectedness Index,fb_social_connectedness,"We use an anonymized snapshot of all active Facebook users and their friendship networks to measure the intensity of connectedness between locations. The Social Connectedness Index (SCI) is a measure of the social connectedness between different geographies. Specifically, it measures the relative probability that two individuals across two locations are friends with each other on Facebook.
+
+Details on the underlying data and the construction of the index are provided in the “Facebook Social Connectedness Index - Data Notes.pdf” file. Please also see https://dataforgood.fb.com/ as well as the associated research paper “Social Connectedness: Measurement, Determinants and Effects,” published in the Journal of Economic Perspectives (https://www.aeaweb.org/articles?id=10.1257/jep.32.3.259).",,https://data.humdata.org,https://data.humdata.org/dataset/social-connectedness-index?,,TRUE,9/10/2021,,,,,,,,,,,,Public Domain,As needed,,"no email 1.866.878.3231
+
+
+",25-Mar-2021,#VALUE!,#VALUE!,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Share of individuals using the Internet to interact with public authorities,OECD countries,People,Culture,OECD: Going Digital Toolkit,population_interacting_public_officials,"Individuals using the Internet to interact with public authorities, as a percentage of all individuals aged 16-74 years. Measured interactions range from simply obtaining information from government websites to interactive procedures where completed forms are sent via the Internet. Excludes manually typed e-mails. It should be noted, however, that the need to submit forms, as well as the availability of online submission channels, varies between countries. Public authorities refers to public services and administration activities at the local, regional or national level.",,http://goingdigital.oecd.org,http://goingdigital.oecd.org/indicator/23,,TRUE,9/10/2021,37,,Index,0-100,,,,,,,"Share of individuals using the Internet to interact with public authorities
+
+",CC BY-NC-ND,12,,,1-Aug-2021,1-Aug-2022,-54,,,,0,0,Last updated 2019,Was this checked against whether there are newer datasets available?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Level of satisfaction for online public services (% of users, by type of interaction and service)",Only 36 countries,People,Culture,Boston Consulting Group/Salesforce: The Global Trust Imperative,digital_public_service_use,"Q. Which of the following best describes how well current online government services meet your need? 
+1. Needs Never Met, 2. Needs often not met,
+3. Needs sometimes met, 4. Most needs met, 5. All Needs Met. 
+Net Perception = total needs most or always met (4 and 5) – needs often not met or never
+met (1 and 2). In calculating net perception 3 was neutral.
+Source : BCG 2020 Digital Government Citizen Survey",,https://www.salesforce.com,https://www.salesforce.com/wbin/sfdc-www/autodownloadpdf?path=%2F%2Fwww.salesforce.com%2Fcontent%2Fdam%2Fweb%2Fen_sg%2Fwww%2Fdocuments%2Fpdf%2Fthe-global-trust-imperative.pdf,,TRUE,9/10/2021,32,,Index,0-100,,,,,,,Q. Which of the following best describes how well current online government services meet your need? ,CC BY-NC-ND,0,,,1-Jan-2021,1-Jan-2021,523,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of mobile apps available in national language(s),,People,Culture,GSMA: Mobile Connectivity Index,apps_in_national_language,,,https://www.mobileconnectivityindex.com,https://www.mobileconnectivityindex.com/#year=2019&dataSet=indicator,,TRUE,9/10/2021,170,,Index,0-100,,,,,,,Number of apps in national language,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Device Addiction (time of use on internet / on devices),,People,Digital Wellbeing,"Statista
+",time_spent_online,Average amount of time in which internet users spend using the internet on any device,,https://www.statista.com,https://www.statista.com/statistics/1115663/apac-daily-time-spent-using-internet-by-country-or-region,,TRUE,9/10/2021,14,,Raw,,,,,,,,"Average daily time spent using the internet in the Asia Pacific region in 2021, by country or region",CC BY-ND,0,,,1-Jan-2021,1-Jan-2021,523,"If the time are <=2 then get a score of 4, 2<x<6: 3, 6<x<11: 2, >= 11: 1. Then convert scale 1-4 to scale 1-6",Divide into sextiles > Acquire 1-6 score > Invert as higher is not better,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gross National Wellbeing,,People,Digital Wellbeing,Portulans Institute: Network Readiness Index ,happiness_score,"Happiness score (life ladder) | 2019
+Source: The Gallup World Poll (2005–2019) (https://www.gallup.com/analytics/232838/world-poll.aspx), sourced from Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De
+Neve, eds. 2020. World Happiness Report 2020. New York: Sustainable Development Solutions Network (https://worldhappiness.report/)
+For some countries, the latest year for which data are available may differ from the year that appears at the top of the page. The cut-off year is 2009.",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/10/2021,134,,Index,0-100,,,,,,,Happiness score (life ladder) | 2019,CC BY-ND-NC,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+individuals experiencing stress associated with frequent computer use,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Workers experiencing job stress associated with frequent computer use at work,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Percentage of individuals not buying online due to concerns about returning products,OECD countries,People,Digital Wellbeing,OECD: Going Digital Toolkit,not_buying_online_concern_about_returning,"Internet users not buying online due to concerns about returning products, as a percentage of Internet users who did not order goods or services over the Internet in the last 12 months.
+",,https://goingdigital.oecd.org,https://goingdigital.oecd.org/api/zip?destinations=https%3A%2F%2Fstats.oecd.org%2FSDMX-JSON%2Fdata%2FGD_BREAKDOWNS_2%2F8-4-1..I_NBTRCM..IND_TOTAL%2BY16_24%2BY55_74%2Fall%3FcontentType%3Dcsv%26detail%3Dlabel,,TRUE,9/13/2021,27,,Index,0-100,,,,,,,Percentage of individuals not buying online due to concerns about returning products,CC BY-NC-ND,12,,,26-Apr-2021,26-Apr-2022,43,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Percentage of individuals not buying online due to payment security concerns,OECD countries,People,Digital Wellbeing,OECD: Going Digital Toolkit,not_buying_online_concern_about_security,"Internet users who did not buy online due to payment security and privacy concerns, as a percentage of Internet users who did not order goods or services over the Internet in the last 12 months.
+",,https://goingdigital.oecd.org,https://goingdigital.oecd.org/api/zip?destinations=https%3A%2F%2Fstats.oecd.org%2FSDMX-JSON%2Fdata%2FGD_BREAKDOWNS_2%2F8-4-1..I_NBPSC..IND_TOTAL%2BY16_24%2BY55_74%2Fall%3FcontentType%3Dcsv%26detail%3Dlabel,,TRUE,9/13/2021,27,,Index,0-100,,,,,,,Percentage of individuals not buying online due to payment security concerns,CC BY-NC-ND,12,,,26-Apr-2021,26-Apr-2022,43,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"E-waste generated, kilograms per inhabitant",,People,Digital Wellbeing,ITU: The Global E-Waste Statitics Partnership,ewaste_per_inhabitant,,,https://globalewaste.org,,,FALSE,9/13/2021,217,,Raw,,,,,,,,,CC BY-NC-SA,12,,scycle@vie.unu.edu,10-Oct-2018,10-Oct-2019,972,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Automation-led unemployment,54 countries,People,Digital Wellbeing,McKinsey Global Institute: International Automation ,automation_led_unemployment,"McKinsey analyzed the impact of automation across 54 countries covering 78% of the global labor market to assess the percentage of time spent on activities with the technical potential for automation by adapting currently demonstrated technology.     
+                                                      ",,https://www.mckinsey.com/mgi ,https://public.tableau.com/app/profile/mckinsey.analytics/viz/InternationalAutomation/WhereMachinesCanReplaceHumans,,TRUE,9/13/2021,54,,Index,0-100,,,,,,,Where machines can replace humans and where they can't (yet),CC BY-NC-ND,12,,,31-Aug-2018,31-Aug-2019,1012,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telework-life balance,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lack of language support,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lack of accessibiltiy,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cyberbullying,,People,Digital Wellbeing,IPSOS: Global Advisor study ,cyberbullying_rate,,,https://www.ipsos.com,https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/cyberbullying_june2018.pdf,,TRUE,9/13/2021,28,,Raw,,,,,,,,Nearly 1 in 5 parents worldwide say their children has experienced cyberbullying,CC BY,0,,,1-Jun-2018,1-Jun-2018,1468,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Disinformation,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Algorithm-driven polarization,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data Privacy Violations,,People,Digital Wellbeing,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Global Wellbeing Initiative (World Happiness Index),,People,Digital Wellbeing,UN Sustainable Development Solutions Network: World Happiness Report,global_wellbeing_initiative,,,https://worldhappiness.report,,,FALSE,9/13/2021,149,,Index,0-10,,,,,,,World Happiness Report 2021,CC BY-ND,12,,,19-Mar-2021,19-Mar-2022,81,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Financial Inclusiveness,,People,Usage and ownership,World Bank: Global Findex database,financial_inclusiveness,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,181,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E-commerce activity (% of individuals buying online and frequency),,People,Usage and ownership,Portulans Institute: Network Readiness Index ,individuals_buying_online_frequency,"People who used the Internet to buy something online in the past year (%) | 2017
+
+Source: World Bank, Global Findex database    (https://globalfindex.worldbank.org/)
+For some countries, the latest year for which data are available may differ from the year that appears at the top of the page. The cut-off year is 2009.",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE,9/13/2021,134,,Index,0-100,,,,,,,People who used the Internet to buy something online in the past year (%) | 2017,CC BY-ND-NC,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E-commerce activity (Types of goods and services purchased online) ,,People,Usage and ownership,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Top Visited websites,,People,Usage and ownership,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Top Google searches,,People,Usage and ownership,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Top YouTube Searches,,People,Usage and ownership,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile Connection Penetration,,People,Usage and ownership,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile Device Penetration,,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,0,"Maybe add later to DRI, for now it is removed as a duplicate",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile Device Penetration (female),,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,0,Maybe add later to DRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Internet Usage,,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,/,,limited to 46 countries but all regions represented ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Households with a computer and with Internet access,,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Social media penetration,,People,Usage and ownership,Statista,social_media_penetration,,,https://www.statista.com,https://www.statista.com/statistics/282846/regular-social-networking-usage-penetration-worldwide-by-country,,TRUE ,10/22/2021,46,,Index,0-100,,,,,,,Active social media users penetration,CC BY-ND,12,,,1-Jan-2021,1-Jan-2022,158,,,,0,,Maybe add later to DRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population using Facebook,,People,Usage and ownership,World Population Review: Facebook Users By Country,FB_users,,,https://worldpopulationreview.com,https://worldpopulationreview.com/country-rankings/facebook-users-by-country,,TRUE,9/13/2021,228,,Index,0-100,,,,,,,Facebook Users By Country 2021,CC BY,12,,,20-Jul-2021,20-Jul-2022,-42,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gender gap for social media use,,People,Usage and ownership,GSMA: Mobile Connectivity Index,gender_gaps,,,https://www.mobileconnectivityindex.com,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,,TRUE ,9/13/2021,170,,Index,0-100,,,,,,,Gender gap in social media use,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,Maybe add later to DRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population using digital financial services,,People,Usage and ownership,World Bank: Global Findex database,population_digital_financial_services,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mobile Broadband Pricing (pre-paid),,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tax as % of total cost of mobile ownership,,People,Usage and ownership,GSMA: Mobile Connectivity Index,tax_percent_mobile_ownership,,,https://www.mobileconnectivityindex.com,,,FALSE,9/13/2021,170,,Index,0-100,,,,,,,Tax as a % of TCMO,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with a SIM card,local gov,People,Usage and ownership,ITU: Digital Development Dashboard,,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,1,Access,https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf (pag 9-10 Internet use moving closer to gender parity),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with a smartphone,,People,Usage and ownership,Statista,population_with_smartphones,,,https://www.statista.com,https://www.statista.com/statistics/748053/worldwide-top-countries-smartphone-users,,TRUE ,9/19/2021,20,,Index,0-1,,,,,,,Number of smartphone users by leading countries as of May 2021 (in millions),CC BY-ND,0,,,1-May-2021,1-May-2021,403,,,,1,Access,gender lenses; the Index also reports gender equality but unclear what it means (Dimensions score),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gender gap in internet usage,,People,Usage and ownership,ITU: Digital Development Dashboard,ITU_database,,,https://www.itu.int/itu-d/sites/statistics,,,FALSE,10/11/2021,193,,Index,0-100,,,,,,,Digital Development Dashboard,CC BY,4,,,14-Sep-2021,13-Jan-2022,145,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gender gap in mobile usage,,People,Usage and ownership,GSMA: Mobile Connectivity Index,gender_gaps,,,https://www.mobileconnectivityindex.com,,,FALSE,9/13/2021,170,,Index,0-100,,,,,,,Gender gap in mobile ownership,CC BY,12,,,30-Sep-2020,30-Sep-2021,251,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SDG Index,,Strategy,Ambition,Sustainable Development Report,sdg_data,,,https://www.sdgindex.org,,,FALSE,9/13/2021,193,,Index,0-100,,,,,,,Sustainable Development Report 2021,CC BY-NC-ND,12,,,14-Jun-2021,14-Jun-2022,-6,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Digital payments penetration,,Foundations,Digital Payments,Portulans Institute: Network Readiness Index ,digital_payments_penetration,"People who used a mobile phone or the internet to access a financial institution account in the past year (% with a financial institution account, age 15+) |    2017",,https://networkreadinessindex.org,https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf,,TRUE ,9/13/2021,134,,Index,0-100,,,,,,,"People who used a mobile phone or the internet to access a financial institution account in the past year (% with a financial institution account, age 15+) |    2017",CC BY-NC-ND,12,,,28-Nov-2020,28-Nov-2021,192,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with digital finance account,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Made or received digital payments in the past year (% age 15+) - all,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,Made or received digital payments in the past year (% age 15+),,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Made or received digital payments in the past year (% age 15+) - female,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,"Made or received digital payments in the past year, female  (% age 15+)",,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Made payment using a mobile phone or the internet (% age 15+) - all,,Foundations,Digital Payments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Made payment using a mobile phone or the internet (% age 15+) - female,,Foundations,Digital Payments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,Used a mobile phone or the internet to access an account (% age 15+)   ,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Used a mobile phone or the internet to check account balance in the past year (% age 15+) - female,,Foundations,Digital Payments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% Making online transactions - Men,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,"Used the internet to pay bills or to buy something online in the past year, male (% age 15+)",,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% Making online transactions - Women,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,"Used the internet to pay bills or to buy something online in the past year, female (% age 15+)",,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with digital finance account - registered,,Foundations,Digital Payments,World Bank: Global Findex database,population_digital_financial_services,Financial institution account (% age 15+),,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,159,,Index,0-100,,,,,,,Global Financial Inclusion (Global Findex) ,CC BY,36,,,26-Jun-2018,25-Jun-2021,348,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with digital finance account - active (90 days),,Foundations,Digital Payments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Volume of interoperable bank-to-mobile transactions (in % of GDP),,Foundations,Digital Payments,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Volume of interoperable P2P transactions (in % of GDP),,Foundations,Digital Payments,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Identification For Development (ID4D) Global Dataset,,Foundations,Digital Legal Identity,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with ID (all),,Foundations,Digital Legal Identity,World Bank: Identification For Development (ID4D),id4d_nid,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,198,,Index,0-100,,,,,,,Identification For Development (ID4D) Global Dataset,CC BY,12,,,19-Mar-2021,19-Mar-2022,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of population with ID (female),,Foundations,Digital Legal Identity,World Bank: Identification For Development (ID4D),id4d_nid,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,198,,Index,0-100,,,,,,,Identification For Development (ID4D) Global Dataset,CC BY,12,,,19-Mar-2021,19-Mar-2022,81,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+% of services that can be accessed,,Foundations,Digital Legal Identity,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+can ID be used for transactions,,Foundations,Digital Legal Identity,World Bank: Identification For Development (ID4D),id4d_services,,,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,198,,Index,0-1,,,,,,,Identification For Development (ID4D) Global Dataset,CC BY,12,,,19-Mar-2021,19-Mar-2022,81,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Is personal data siloed,,Foundations,Digital Legal Identity,World Bank: GovTech Dataset,Egov_strategy,"In the document, there are four columns, namely,Core Gov Systems Index that rate how a government performs in terms of the degree of penetration of digitalizing in government services. According to WB, this metric is measured according to the following criteria: government cloud, interoperability platform, automated paymebt, etc, ",,https://datacatalog.worldbank.org,,,FALSE,9/13/2021,198,,,-0.04 - 0.02,,,,,,,GovTech Dataset,CC BY,12,,,22-Sep-2021,22-Sep-2022,-106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Open data index,,Foundations,Data Exchange,Open Knowledge Foundation: Global Open Data Index,open_data_idx,,,https://index.okfn.org,,,FALSE,9/13/2021,94,,Index,0-100,,,,,,,Global Open Data Index,CC BY,12,,,23-May-2018,23-May-2019,1112,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# of official data sets available,,Foundations,Data Exchange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Government Removal Requests,,,,Google: Government Removal Requests,gov_removal_requests,,,https://transparencyreport.google.com/government-removals/overview?hl=en_GB,,,FALSE,12/16/2021,70,,Raw,,,,,,,,Google Transparency Report,CC BY,,,,,,,,,,1,Expression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Internet Restrictions,,,,Comparitech: Internet Censorship,internet_censor,,,https://www.comparitech.com/blog/vpn-privacy/internet-censorship-map/,,,TRUE,1/17/2022,175,,Index,12-Jan,,,,,,,Internet Censorship 2022: A Global Map of Internet Restrictions,,12,,,3-Aug-2021,3-Aug-2022,-56,,,,1,Expression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
