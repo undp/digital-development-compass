@@ -5,7 +5,23 @@ from sklearn.preprocessing import MinMaxScaler
 total_indicator_map = {}
 
 
+def get_range_info_df():
+    sources_df = pd.read_csv("Sources.csv")
+    sources_df = sources_df[["Pillar", "Sub-Pillar", "Indicator", "Raw/Index", "Data Range"]] \
+        .dropna(subset=["Pillar", "Sub-Pillar", "Indicator"])
+
+    sources_df["Pillar"] = sources_df["Pillar"].astype(str)
+    sources_df["Sub-Pillar"] = sources_df["Sub-Pillar"].astype(str)
+    sources_df["Indicator"] = sources_df["Indicator"].astype(str)
+
+    return sources_df
+
+
 def process_df(better_df, min_val, max_val):
+    sources_df = get_range_info_df()
+    # print(sources_df.columns)
+
+    print(sources_df.loc[(sources_df["Pillar"] == "Infrastructure") & (sources_df["Sub-Pillar"] == "Connectivity Technology") & (sources_df["Indicator"] == "Broadband Density")].head(1))
     pillar_sub_group = better_df.groupby(["Pillar", "Sub-Pillar", "Indicator"])
     # print(pillar_sub_group.groups.keys())
     # print(pillar_sub_group["data_col"].count())
@@ -16,12 +32,33 @@ def process_df(better_df, min_val, max_val):
     for name, group in pillar_sub_group:
         # print(name, len(group["data_col"]))
         scaler = MinMaxScaler((min_val, max_val))
-
         raw_data = group[["data_col"]]
         idx = raw_data.index
 
-        scaler.fit(raw_data)
-        scaled_data = scaler.transform(raw_data).flatten()
+        source_info = sources_df.loc[(sources_df["Pillar"] == name[0]) & (sources_df["Sub-Pillar"] == name[1]) & (sources_df["Indicator"] == name[2])]
+
+        if len(source_info.index) > 0:
+            source_info = source_info.head(1)
+            # print(source_info["Raw/Index"].values[0])
+            ind_type = source_info["Raw/Index"].values[0]
+
+            if ind_type == "Index":
+                range_info = source_info["Data Range"].values[0].split("|")
+
+                if len(range_info) > 1:
+                    range_min = range_info[0]
+                    range_max = range_info[1]
+                    # print(range_min, range_max)
+                    scaler.fit([[int(range_min)], [int(range_max)]])
+                else:
+                    print("Index type has invalid range data. Range info:", range_info)
+                    scaler.fit(raw_data.values)
+            else:
+                scaler.fit(raw_data.values)
+        else:
+            scaler.fit(raw_data.values)
+
+        scaled_data = scaler.transform(raw_data.values).flatten()
         score_map[name] = (idx, list(scaled_data))
 
     for key, val_tup in score_map.items():
@@ -97,7 +134,8 @@ def add_country_sub_pillar_rank(df):
     pillar_df["country_sub_pillar_rank"] = pillar_df["country_sub_pillar_rank"].astype(int)
 
     c = df.columns.difference(["country_sub_pillar_rank"])
-    df = df[c].merge(pillar_df[["Country Name", "Pillar", "Sub-Pillar", "country_sub_pillar_rank"]], on=["Country Name", "Pillar", "Sub-Pillar"],
+    df = df[c].merge(pillar_df[["Country Name", "Pillar", "Sub-Pillar", "country_sub_pillar_rank"]],
+                     on=["Country Name", "Pillar", "Sub-Pillar"],
                      how="left").reindex(columns=df.columns)
 
     return df
@@ -126,7 +164,7 @@ def add_country_pillar_score(df):
 
 
 def add_country_pillar_rank(df):
-    pillar_df = df[["Country Name", "Pillar", "country_pillar_score", "country_pillar_rank"]]\
+    pillar_df = df[["Country Name", "Pillar", "country_pillar_score", "country_pillar_rank"]] \
         .drop_duplicates(["Country Name", "Pillar"], keep="first")
 
     # print(pillar_df[["Country Name"]].drop_duplicates(["Country Name"], keep="first").values.flatten().tolist())
@@ -137,7 +175,8 @@ def add_country_pillar_rank(df):
     pillar_df["country_pillar_rank"] = pillar_df["country_pillar_rank"].astype(int)
 
     c = df.columns.difference(["country_pillar_rank"])
-    df = df[c].merge(pillar_df[["Country Name", "Pillar", "country_pillar_rank"]], on=["Country Name", "Pillar"], how="left").reindex(columns=df.columns)
+    df = df[c].merge(pillar_df[["Country Name", "Pillar", "country_pillar_rank"]], on=["Country Name", "Pillar"],
+                     how="left").reindex(columns=df.columns)
 
     return df
 
@@ -150,14 +189,15 @@ def prep_total_indicator_map(df):
 
         total_indicator_map[name] = total_sub_inds
 
-    print(total_indicator_map)
+    # print(total_indicator_map)
+
 
 def add_sources(df, source_file_name):
     df["Data Source"] = np.nan
     df["Data Link"] = np.nan
 
     sources_df = pd.read_csv(source_file_name)
-    source_data_df = sources_df[["Pillar", "Sub-Pillar", "Indicator", "Data Source", "Data Link"]]\
+    source_data_df = sources_df[["Pillar", "Sub-Pillar", "Indicator", "Data Source", "Data Link"]] \
         .dropna(subset=["Pillar", "Sub-Pillar", "Indicator"])
 
     # print(source_data_df.to_string())
@@ -211,8 +251,15 @@ def process_aggregated(headers, aggr_file):
 
     full_df = add_sources(full_df, "Sources.csv")
 
+    year_df = full_df["Year"]
+
+    full_df = full_df.drop("Year", axis=1)
+
+    full_df["Year"] = year_df
+
     full_df.to_csv("Processed/Full Data/full_data.csv", index=False)
     # print(full_df.head(170).to_string())
+
 
 if __name__ == "__main__":
     process_aggregated(
