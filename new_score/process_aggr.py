@@ -3,6 +3,20 @@ import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
 total_indicator_map = {}
+weights = pd.DataFrame()
+
+
+def load_weights():
+    global weights
+    weights = pd.read_csv("Weights.csv")
+    weights["Indicator"] = weights["Indicator"].astype(str)
+
+def get_weight(pillar, sub_pillar, indicator):
+    global weights
+    # print(pillar, sub_pillar, indicator)
+    val = weights.loc[(weights["Pillar"] == pillar) & (weights["Sub-Pillar"] == sub_pillar) & (weights[
+        "Indicator"] == indicator), "Weight"].values[0]
+    return val
 
 
 def get_range_info_df():
@@ -21,7 +35,9 @@ def process_df(better_df, min_val, max_val):
     sources_df = get_range_info_df()
     # print(sources_df.columns)
 
-    print(sources_df.loc[(sources_df["Pillar"] == "Infrastructure") & (sources_df["Sub-Pillar"] == "Connectivity Technology") & (sources_df["Indicator"] == "Broadband Density")].head(1))
+    print(sources_df.loc[
+              (sources_df["Pillar"] == "Infrastructure") & (sources_df["Sub-Pillar"] == "Connectivity Technology") & (
+                      sources_df["Indicator"] == "Broadband Density")].head(1))
     pillar_sub_group = better_df.groupby(["Pillar", "Sub-Pillar", "Indicator"])
     # print(pillar_sub_group.groups.keys())
     # print(pillar_sub_group["data_col"].count())
@@ -31,11 +47,13 @@ def process_df(better_df, min_val, max_val):
     score_map = {}
     for name, group in pillar_sub_group:
         # print(name, len(group["data_col"]))
+        is_percentile = False
         scaler = MinMaxScaler((min_val, max_val))
         raw_data = group[["data_col"]]
         idx = raw_data.index
 
-        source_info = sources_df.loc[(sources_df["Pillar"] == name[0]) & (sources_df["Sub-Pillar"] == name[1]) & (sources_df["Indicator"] == name[2])]
+        source_info = sources_df.loc[(sources_df["Pillar"] == name[0]) & (sources_df["Sub-Pillar"] == name[1]) & (
+                sources_df["Indicator"] == name[2])]
 
         if len(source_info.index) > 0:
             source_info = source_info.head(1)
@@ -49,17 +67,66 @@ def process_df(better_df, min_val, max_val):
                     range_min = range_info[0]
                     range_max = range_info[1]
                     # print(range_min, range_max)
-                    scaler.fit([[int(range_min)], [int(range_max)]])
+                    vals = raw_data.values
+                    vals = np.append(vals, [[int(range_min)], [int(range_max)]], axis=0)
+                    scaler.fit(vals)
                 else:
                     print("Index type has invalid range data. Range info:", range_info)
-                    scaler.fit(raw_data.values)
+                    # scaler.fit(raw_data.values)
+                    is_percentile = True
             else:
-                scaler.fit(raw_data.values)
+                # scaler.fit(raw_data.values)
+                is_percentile = True
         else:
-            scaler.fit(raw_data.values)
+            # scaler.fit(raw_data.values)
+            is_percentile = True
 
-        scaled_data = scaler.transform(raw_data.values).flatten()
-        score_map[name] = (idx, list(scaled_data))
+        # perform percentile calculations and scale data
+        if is_percentile:
+            # prepare 5 scalers
+            scaler1 = MinMaxScaler((1, 1.99))
+            scaler2 = MinMaxScaler((2, 2.99))
+            scaler3 = MinMaxScaler((3, 3.99))
+            scaler4 = MinMaxScaler((4, 4.99))
+            scaler5 = MinMaxScaler((5, 5.99))
+
+            # calculate percentile max values
+            val1 = group["data_col"].quantile(0.2)
+            val2 = group["data_col"].quantile(0.4)
+            val3 = group["data_col"].quantile(0.6)
+            val4 = group["data_col"].quantile(0.8)
+            val5 = group["data_col"].quantile(1.0)
+
+            # data of each quantile
+            raw_data1 = group.loc[group["data_col"] < val1, "data_col"]
+            raw_data2 = group.loc[(group["data_col"] >= val1) & (group["data_col"] < val2), "data_col"]
+            raw_data3 = group.loc[(group["data_col"] >= val2) & (group["data_col"] < val3), "data_col"]
+            raw_data4 = group.loc[(group["data_col"] >= val3) & (group["data_col"] < val4), "data_col"]
+            raw_data5 = group.loc[(group["data_col"] >= val4), "data_col"]
+
+            # fit scalers
+            scaler1.fit(raw_data1.values.reshape(-1, 1))
+            scaler2.fit(raw_data2.values.reshape(-1, 1))
+            scaler3.fit(raw_data3.values.reshape(-1, 1))
+            scaler4.fit(raw_data4.values.reshape(-1, 1))
+            scaler5.fit(raw_data5.values.reshape(-1, 1))
+
+            # set scaled values
+            scaled_data1 = scaler1.transform(raw_data1.values.reshape(-1, 1)).flatten()
+            scaled_data2 = scaler2.transform(raw_data2.values.reshape(-1, 1)).flatten()
+            scaled_data3 = scaler3.transform(raw_data3.values.reshape(-1, 1)).flatten()
+            scaled_data4 = scaler4.transform(raw_data4.values.reshape(-1, 1)).flatten()
+            scaled_data5 = scaler5.transform(raw_data5.values.reshape(-1, 1)).flatten()
+
+            # add data to score_map
+            indexes = list(raw_data1.index) + list(raw_data2.index) + list(raw_data3.index) + list(raw_data4.index) + list(raw_data5.index)
+            values = list(scaled_data1) + list(scaled_data2) + list(scaled_data3) + list(scaled_data4) + list(scaled_data5)
+
+            score_map[name] = (indexes, values)
+
+        else:
+            scaled_data = scaler.transform(raw_data.values).flatten()
+            score_map[name] = (idx, list(scaled_data))
 
     for key, val_tup in score_map.items():
         better_df.loc[val_tup[0], "indicator_score"] = val_tup[1]
@@ -98,13 +165,28 @@ def handle_higher_not_better(df):
 
 
 def add_country_sub_pillar_score(df):
+    global weights
     pillar_sub_group = df.groupby(["Country Name", "Pillar", "Sub-Pillar"])
     score_map = {}
     for name, group in pillar_sub_group:
+        # print(name, group["Indicator"])
         indicator_scores = group["indicator_score"]
         idx = indicator_scores.index
 
-        score = indicator_scores.sum() / len(idx)
+        pillar = name[1]
+        sub_pillar = name[2]
+
+        weighted_sum = 0
+        total_weight = 0
+
+        # print(name[0])
+        for indicator, in_score in zip(group["Indicator"], group["indicator_score"]):
+            # print(pillar, sub_pillar, indicator, in_score)
+            weight = get_weight(pillar, sub_pillar, indicator)
+            weighted_sum += (in_score * weight)
+            total_weight += weight
+
+        score = weighted_sum / total_weight
 
         # add data availability
         key = (name[1], name[2])
@@ -153,7 +235,22 @@ def add_country_pillar_score(df):
         # print(country_pillars.to_string())
 
         country_sub_scores_uni = country_pillars["country_sub_pillar_score"]
-        score = country_sub_scores_uni.sum() / len(country_sub_scores_uni.index)
+
+        pillar = name[1]
+
+        weighted_sum = 0
+        total_weight = 0
+
+        # print(name[0])
+        for sub_pillar, in_score in zip(group["Sub-Pillar"], group["country_sub_pillar_score"]):
+            # print(pillar, sub_pillar, indicator, in_score)
+            weight = get_weight(pillar, sub_pillar, "nan")
+            weighted_sum += (in_score * weight)
+            total_weight += weight
+
+        score = weighted_sum / total_weight
+
+        # score = country_sub_scores_uni.sum() / len(country_sub_scores_uni.index)
 
         score_map[name] = (idx, [score for _ in range(0, len(idx))])
 
@@ -209,6 +306,40 @@ def add_sources(df, source_file_name):
     return df
 
 
+def save_roll_csv(df):
+    columns = ["Country Name", "Pillar", "Sub-Pillar", "Indicator", "data_col", "higher_is_better", "data_availability",
+               "Data Source", "Data Link", "Year"]
+    columns_order = ["Country Name", "Pillar", "Sub-Pillar", "Indicator", "data_col", "higher_is_better",
+                     "new_rank_score", "rank", "data_availability", "Data Source", "Data Link", "Year"]
+    indicator_df = df[columns + ["indicator_score"]]
+    indicator_df["rank"] = ""
+    indicator_df = indicator_df.rename(columns={"indicator_score": "new_rank_score"})
+
+    sub_pillar_df = df[columns + ["country_sub_pillar_score"]]
+    sub_pillar_df["rank"] = df[["country_sub_pillar_rank"]]
+    sub_pillar_df = sub_pillar_df.drop_duplicates(["Country Name", "Pillar", "Sub-Pillar"], keep="first")
+    sub_pillar_df["Indicator"] = ""
+    sub_pillar_df["data_col"] = ""
+    sub_pillar_df["higher_is_better"] = ""
+    sub_pillar_df = sub_pillar_df.rename(columns={"country_sub_pillar_score": "new_rank_score"})
+
+    pillar_df = df[columns + ["country_pillar_score"]]
+    pillar_df["rank"] = df[["country_pillar_rank"]]
+    pillar_df = pillar_df.drop_duplicates(["Country Name", "Pillar"], keep="first")
+    pillar_df["Indicator"] = ""
+    pillar_df["Sub-Pillar"] = ""
+    pillar_df["data_col"] = ""
+    pillar_df["higher_is_better"] = ""
+    pillar_df = pillar_df.rename(columns={"country_pillar_score": "new_rank_score"})
+
+    roll_df = pd.concat([pillar_df, sub_pillar_df, indicator_df], axis=0)
+    roll_df = roll_df.reset_index(drop=True)
+
+    roll_df = roll_df[columns_order]
+
+    roll_df.to_csv("Processed/Full Data/full_output_rolling.csv", index=False)
+
+
 def process_aggregated(headers, aggr_file):
     full_df = pd.read_csv(aggr_file)
     full_df["indicator_score"] = pd.Series(np.float64)
@@ -230,6 +361,7 @@ def process_aggregated(headers, aggr_file):
     # print(len(higher_is_not_better_df.index))
     # print(len(full_df.index))
 
+    load_weights()
     prep_total_indicator_map(full_df)
 
     full_df = process_df(full_df, 1, 5.99)
@@ -259,6 +391,8 @@ def process_aggregated(headers, aggr_file):
 
     full_df.to_csv("Processed/Full Data/full_data.csv", index=False)
     # print(full_df.head(170).to_string())
+
+    save_roll_csv(full_df)
 
 
 if __name__ == "__main__":

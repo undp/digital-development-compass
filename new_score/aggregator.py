@@ -206,10 +206,16 @@ def aggregate_files(files_dir, headers, output_file, skip_file_names):
 
 if __name__ == "__main__":
 
-    skip_files = ["people_Cyberbullying_scores.csv", "business_Doing Business Index_scores.csv"]
+    skip_files = [
+        "people_Cyberbullying_scores.csv",
+        "business_Doing Business Index_scores.csv",
+        "infrastructure_Mobile Coverage Maps_scores.csv",
+        "infrastructure_Internet Exchange Points (IXPs) map_scores.csv",
+        "infrastructure_Software Developer Ecosystem size_scores.csv"
+    ]
 
     aggregate_files(
-        "Data", #change this directory to indicator data folder
+        "Data",
         ["Country Name", "Year", "Indicator", "data_col", "new_rank_score", "higher_is_better", "Pillar", "Sub-Pillar"],
         "Processed/Full Data/output.csv",
         skip_files
