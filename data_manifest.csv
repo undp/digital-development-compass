@@ -116,7 +116,7 @@ open_data_inventory,csv,https://raw.githubusercontent.com/mbelinsky/public_devel
 open_data_barometer,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv,,,,
 open_government_wjp,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,
 mobile_money_prevalence,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx,1,2,C,
-mobile_money_regulatory,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx,3,3,A,D
+mobile_money_regulatory,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
 inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,,,,
 birth_registration,xlsx,https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,,,,
