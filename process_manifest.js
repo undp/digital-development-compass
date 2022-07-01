@@ -7,13 +7,23 @@ const manifest = await readCSV(inputFilename);
 
 const steps = manifest.map(
   ({ name, format, endpoint }) => `
-      - name: Fetch data
+      - name: Fetch data (${name})
         uses: githubocto/flat@v2
         if: always()
         with:
            http_url: ${endpoint}
            downloaded_filename: data/${name}.${format}
            postprocess: ./process_raw_data.js
+      - name: Create issue (${name})
+        if: failure()
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          URL: "${endpoint}"
+          NAME: "${name}"
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}\
+        with:
+          filename: .github/flat-error-template.md
+          update_existing: true
 `
 );
 
