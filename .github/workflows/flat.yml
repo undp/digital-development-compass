@@ -6,7 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./process_raw_data.js
+      - ./process_xlsx.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
