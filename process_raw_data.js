@@ -17,6 +17,7 @@ const outputFilename = `processed/${inputFilenameRoot}.csv`;
 const manifest = await readCSV("data_manifest.csv");
 const config = manifest.find((d) => d.name === inputFilenameRoot);
 if (!config) Deno.exit();
+console.log("config", config);
 
 let fileType = config.format;
 
@@ -56,12 +57,6 @@ try {
     fileContents = await parseYaml(decoder.decode(yaml));
   } else if (fileType === "xlsx") {
     const workbook = await readXLSX(inputFilename);
-    console.log(
-      "bookmark",
-      workbook.SheetNames,
-      config["Excel sheet #"],
-      workbook.SheetNames[config["Excel sheet #"] - 1]
-    );
 
     const sheetData =
       workbook.Sheets[workbook.SheetNames[config["Excel sheet #"] - 1]];
