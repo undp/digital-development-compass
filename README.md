@@ -7,14 +7,12 @@ Based on
 <br>
 Overview:
 <br>
-<img width="664" alt="Screen Shot 2021-02-04 at 2 02 10 PM" src="https://user-images.githubusercontent.com/109564/106960886-c8bb8b00-670a-11eb-87ba-84ffea6dc016.png">
-<br>
-Detail: 
-<br>
-<img width="730" alt="Screen Shot 2021-02-04 at 2 02 18 PM" src="https://user-images.githubusercontent.com/109564/106960892-ca854e80-670a-11eb-9c35-eb849fbc193a.png">
+
+<img width="546" alt="UNDP Digital Transformation Framework v2" src="https://user-images.githubusercontent.com/109564/179046661-c931a90e-9260-484a-9abf-a49b7505bddc.png">
 <br>
 Each sub-pillar is tied to a score:
 <br>
+
 <img width="546" alt="Screen Shot 2021-03-06 at 4 27 23 PM" src="https://user-images.githubusercontent.com/109564/110225272-09e1bf00-7eb2-11eb-8ff3-d9cec15b7e49.png">
 <br>
 Each country is ranked on a scale of 1.00-5.99 for each sub-pillar and each data set within said sub-pillar.

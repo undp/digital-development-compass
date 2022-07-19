@@ -976,3 +976,11 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx
            downloaded_filename: data/birth_registration.xlsx
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv
+           downloaded_filename: data/Freedomhouse_countries_report.csv
+           postprocess: ./process_raw_data.js
