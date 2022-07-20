@@ -215,7 +215,7 @@ if __name__ == "__main__":
     ]
 
     aggregate_files(
-        "D:\Code\digital-nation-dashboard2\score\indicator_scores",
+        "..\score\indicator_scores",
         ["Country Name", "Year", "Indicator", "data_col", "new_rank_score", "higher_is_better", "Pillar", "Sub-Pillar"],
         "Processed/Full Data/output.csv",
         skip_files
