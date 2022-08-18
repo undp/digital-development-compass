@@ -4,14 +4,22 @@ const csvtojson = require("csvtojson");
 const _ = require("lodash");
 const { getStage, roundNumber, stageNames } = require("./utils");
 
-const RAW_DATABASE_DIR = path.join(__dirname, "..", "database", "raw");
+const FINAL_SCORES_DIR = path.join(
+  __dirname,
+  "..",
+  "..",
+  "new_score",
+  "Processed",
+  "Full Data"
+);
+const UI_DATABASE_DIR = path.join(__dirname, "..", "database", "raw");
 
-const DEFINITIONS_FILE = path.join(RAW_DATABASE_DIR, "definitions.csv");
-const BOUNDING_BOXES_FILE = path.join(RAW_DATABASE_DIR, "bounding-boxes.json");
-const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
-const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
-const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
-const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
+const DEFINITIONS_FILE = path.join(UI_DATABASE_DIR, "definitions.csv");
+const BOUNDING_BOXES_FILE = path.join(UI_DATABASE_DIR, "bounding-boxes.json");
+const GEOJSON_FILE = path.join(UI_DATABASE_DIR, "country-geojson.json");
+const COUNTRIES_FILE = path.join(UI_DATABASE_DIR, "countries-manifest.csv");
+const SCORES_FILE = path.join(FINAL_SCORES_DIR, "full_output_rolling.csv");
+const LATLON_FILE = path.join(UI_DATABASE_DIR, "latlon.json");
 
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
@@ -30,9 +38,10 @@ async function main() {
   const countries = await csvtojson().fromFile(COUNTRIES_FILE);
   const scores = await csvtojson({
     colParser: {
-      data_availability: d => Number.isFinite(+d) ? +d : null,
-    }
-  }).fromFile(SCORES_FILE)
+      data_availability: (d) => (Number.isFinite(+d) ? +d : null),
+    },
+  }).fromFile(SCORES_FILE);
+  console.log(scores);
 
   const latlon = require(LATLON_FILE);
 
