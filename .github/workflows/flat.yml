@@ -1000,3 +1000,11 @@ jobs:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv
            downloaded_filename: data/demographic_comparison_data.csv
            postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.dlapiperdataprotection.com/_undp/feed.json
+           downloaded_filename: data/legislation_sanctions_enforcement.json
+           postprocess: ./process_raw_data.js
