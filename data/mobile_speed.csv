@@ -1,140 +1,141 @@
-﻿#,Year,Country,Mbps
-1,2021,United Arab Emirates,190.03
-2,2021,South Korea,189.2
-3,2021,Qatar,170.77
-4,2021,China,157.72
-5,2021,Cyprus,154.13
-6,2021,Norway,152.53
-7,2021,Saudi Arabia,151.13
-8,2021,Kuwait,140.16
-9,2021,Australia,122.27
-10,2021,Bulgaria,120.44
-11,2021,Luxembourg,110.72
-12,2021,Switzerland,109.65
-13,2021,Netherlands,100.65
-14,2021,United States,91.01
-15,2021,Sweden,90.57
-16,2021,Denmark,89.44
-17,2021,Oman,85.96
-18,2021,Singapore,85.93
-19,2021,Canada,85.91
-20,2021,New Zealand,84.22
-21,2021,United Kingdom,79.01
-22,2021,Bahrain,78.82
-23,2021,Hong Kong (SAR),78.06
-24,2021,Finland,76.78
-25,2021,Greece,76.36
-26,2021,Taiwan,74.62
-27,2021,France,73.27
-28,2021,Croatia,71.51
-29,2021,Belgium,70.49
-30,2021,Germany,70.48
-31,2021,Austria,67.05
-32,2021,Macau (SAR),66.67
-33,2021,Estonia,65.12
-34,2021,Lithuania,63.33
-35,2021,Japan,61.59
-36,2021,Brunei,59.34
-37,2021,Romania,57.71
-38,2021,Slovenia,57.64
-39,2021,Hungary,57.13
-40,2021,Czechia,56.89
-41,2021,Maldives,56.83
-42,2021,North Macedonia,56.55
-43,2021,Albania,56.43
-44,2021,Spain,53.01
-45,2021,Poland,51.9
-46,2021,Malta,51.77
-47,2021,Ireland,51.71
-48,2021,Italy,50.7
-49,2021,Slovakia,50.23
-50,2021,Portugal,49.96
-51,2021,Thailand,48.89
-52,2021,Serbia,48.57
-53,2021,South Africa,47.15
-54,2021,Israel,46.3
-55,2021,Turkey,45.42
-56,2021,Latvia,44.55
-57,2021,Jamaica,42.95
-58,2021,Vietnam,42.46
-59,2021,Morocco,39.56
-60,2021,Mauritius,39.35
-61,2021,Moldova,39.3
-62,2021,Lebanon,39.07
-63,2021,Iraq,38.52
-64,2021,Trinidad and Tobago,38.32
-65,2021,Georgia,38.01
-66,2021,Azerbaijan,37.24
-67,2021,Suriname,35.92
-68,2021,The Bahamas,34.67
-69,2021,Mexico,34.35
-70,2021,Bosnia and Herzegovina,34.32
-71,2021,Uruguay,34.01
-72,2021,Philippines,33.69
-73,2021,Brazil,33.33
-74,2021,Armenia,33.13
-75,2021,Costa Rica,33.08
-76,2021,Botswana,32.19
-77,2021,Dominican Republic,32.13
-78,2021,Cameroon,31.76
-79,2021,Iran,31.65
-80,2021,Montenegro,31.55
-81,2021,Laos,31.18
-82,2021,Ukraine,31.04
-83,2021,Tunisia,30.8
-84,2021,Kazakhstan,30.43
-85,2021,Argentina,30.05
-86,2021,Guatemala,28.9
-87,2021,Kosovo,28.06
-88,2021,Malaysia,28.02
-89,2021,Honduras,27.18
-90,2021,Russia,27.07
-91,2021,Ecuador,25.17
-92,2021,Jordan,25.12
-93,2021,Egypt,24.99
-94,2021,Kyrgyzstan,24.92
-95,2021,Peru,24.38
-96,2021,Nigeria,23.61
-97,2021,Angola,23.55
-98,2021,Cambodia,23.48
-99,2021,El Salvador,23.22
-100,2021,Senegal,22.94
-101,2021,Nicaragua,22.74
-102,2021,Mongolia,22.7
-103,2021,Republic of the Union of Myanmar,22.67
-104,2021,Bolivia,22.48
-105,2021,Syria,22.39
-106,2021,Fiji,22.33
-107,2021,Ethiopia,21.92
-108,2021,Mozambique,21.8
-109,2021,Kenya,21.5
-110,2021,Indonesia,21.35
-111,2021,Cuba,20.98
-112,2021,Nepal,20.57
-113,2021,Pakistan,20.33
-114,2021,Chile,20.27
-115,2021,Haiti,19.95
-116,2021,Paraguay,19.77
-117,2021,Panama,19.45
-118,2021,Uzbekistan,18.61
-119,2021,Belarus,18.33
-120,2021,Colombia,18.18
-121,2021,Namibia,17.92
-122,2021,India,17.77
-123,2021,Algeria,17.71
-124,2021,Samoa,17.46
-125,2021,Libya,17.41
-126,2021,Uganda,17.07
-127,2021,Côte d'Ivoire,16.51
-128,2021,Sri Lanka,16.02
-129,2021,Zambia,15.48
-130,2021,Tajikistan,15.16
-131,2021,Sudan,14.34
-132,2021,Tanzania,14.14
-133,2021,Ghana,13.38
-134,2021,Somalia,13.36
-135,2021,Bangladesh,12.6
-136,2021,Zimbabwe,11.71
-137,2021,Palestine,7.62
-138,2021,Venezuela,7.61
-139,2021,Afghanistan,6.71
+#,Year,Country,Mbps
+1,2022,United Arab Emirates,120.35
+2,2022,Qatar,117.43
+3,2022,South Korea,109.65
+4,2022,Norway,106.91
+5,2022,Kuwait,106.67
+6,2022,Netherlands,99.44
+7,2022,Bulgaria,96.43
+8,2022,Saudi Arabia,96.23
+9,2022,China,89.32
+10,2022,Luxembourg,85.2
+11,2022,Switzerland,84.23
+12,2022,Denmark,82.6
+13,2022,Australia,81.46
+14,2022,Brunei,77.48
+15,2022,Cyprus,72.31
+16,2022,Bahrain,72.24
+17,2022,Belgium,67.24
+18,2022,Singapore,64.92
+19,2022,Sweden,62.09
+20,2022,Croatia,60.36
+21,2022,United States,59.89
+22,2022,Taiwan,59.63
+23,2022,Finland,59.59
+24,2022,North Macedonia,59.54
+25,2022,New Zealand,58.52
+26,2022,Austria,58.33
+27,2022,France,56.78
+28,2022,Portugal,55.1
+29,2022,Canada,55.04
+30,2022,Maldives,54.96
+31,2022,Germany,53.34
+32,2022,Macau (SAR),51.71
+33,2022,Estonia,50.29
+34,2022,Greece,50.19
+35,2022,Slovenia,50.02
+36,2022,Oman,47.32
+37,2022,Hong Kong (SAR),47.1
+38,2022,Malta,46.76
+39,2022,Lithuania,46.08
+40,2022,Latvia,45.2
+41,2022,United Kingdom,43.74
+42,2022,Serbia,43.71
+43,2022,Suriname,43.55
+44,2022,Japan,41.51
+45,2022,Hungary,41.1
+46,2022,Italy,38.44
+47,2022,Vietnam,38.23
+48,2022,Albania,37.93
+49,2022,Poland,36.94
+50,2022,Czechia,35.81
+51,2022,Romania,35.37
+52,2022,Thailand,34.63
+53,2022,Slovakia,34.53
+54,2022,Iraq,33.95
+55,2022,Togo,33.34
+56,2022,South Africa,33.08
+57,2022,Jamaica,32.51
+58,2022,Moldova,32.25
+59,2022,Uruguay,31.59
+60,2022,Azerbaijan,31.21
+61,2022,Morocco,30.9
+62,2022,Israel,30.71
+63,2022,Trinidad and Tobago,30.55
+64,2022,Georgia,30.24
+65,2022,Malaysia,30.08
+66,2022,Spain,29.67
+67,2022,Armenia,28.77
+68,2022,Turkey,28.7
+69,2022,Montenegro,28.49
+70,2022,Iran,27.74
+71,2022,Laos,26.07
+72,2022,Brazil,25.92
+73,2022,Myanmar (Burma),25.67
+74,2022,Ireland,25.66
+75,2022,Mexico,24.93
+76,2022,Lebanon,24.26
+77,2022,Kosovo,24.05
+78,2022,Papua New Guinea,24.01
+79,2022,Ukraine,23.72
+80,2022,Tunisia,23.32
+81,2022,Egypt,23.18
+82,2022,Bosnia and Herzegovina,23.11
+83,2022,Kazakhstan,22.6
+84,2022,Philippines,22.56
+85,2022,Honduras,22.55
+86,2022,Chile,22.35
+87,2022,Fiji,22.28
+88,2022,Guatemala,21.98
+89,2022,El Salvador,21.76
+90,2022,Argentina,21.21
+91,2022,Russia,21.03
+92,2022,Kyrgyzstan,20.89
+93,2022,Angola,20.78
+94,2022,Uganda,19.4
+95,2022,Mauritius,18.51
+96,2022,Ecuador,18.32
+97,2022,Dominican Republic,18.14
+98,2022,Kenya,17.97
+99,2022,Indonesia,17.91
+100,2022,Namibia,17.48
+101,2022,Costa Rica,17.4
+102,2022,DR Congo,17.3
+103,2022,Mongolia,17.12
+104,2022,Cambodia,17.01
+105,2022,Jordan,16.32
+106,2022,Nicaragua,16.29
+107,2022,Mozambique,16.24
+108,2022,Paraguay,16.14
+109,2022,Nigeria,16.1
+110,2022,Peru,16.1
+111,2022,Senegal,16.1
+112,2022,Panama,15.69
+113,2022,C�te d'Ivoire,15.15
+114,2022,Pakistan,14.33
+115,2022,Nepal,14.2
+116,2022,Uzbekistan,13.96
+117,2022,India,13.41
+118,2022,Algeria,13.15
+119,2022,Zimbabwe,13.05
+120,2022,Syria,12.45
+121,2022,Libya,12.26
+122,2022,Ethiopia,12.18
+123,2022,Haiti,11.97
+124,2022,Bolivia,11.96
+125,2022,Sri Lanka,11.4
+126,2022,Colombia,11.3
+127,2022,Cameroon,10.59
+128,2022,Zambia,10.27
+129,2022,Belarus,10.18
+130,2022,Bangladesh,9.64
+131,2022,Sudan,9.51
+132,2022,Tanzania,9.51
+133,2022,Burkina Faso,9.42
+134,2022,Somalia,9.28
+135,2022,Tajikistan,8.06
+136,2022,Yemen,7.88
+137,2022,Ghana,7.7
+138,2022,Venezuela,5.44
+139,2022,Afghanistan,4.83
+140,2022,Cuba,4.15
