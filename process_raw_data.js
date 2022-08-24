@@ -3,6 +3,7 @@ import {
   readXLSX,
   writeCSV,
   readCSV,
+  readJSON
 } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import { parse as parseYaml } from "https://deno.land/std@0.63.0/encoding/yaml.ts";
 import { parse } from "https://deno.land/std@0.92.0/encoding/csv.ts";
