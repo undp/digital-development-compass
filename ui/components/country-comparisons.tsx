@@ -60,7 +60,8 @@ export function CountryComparisons(props: CountryComparisonsProps) {
     ["compare", countryCode, sameKey],
     fetchComparisonData
   );
-  const countries = sameKey === "related" ? relatedCountries.slice(0, 15) : data
+  const countries =
+    sameKey === "related" ? relatedCountries.slice(0, 15) : data;
 
   if (!countries)
     return (
@@ -164,14 +165,15 @@ export function CountryComparisons(props: CountryComparisonsProps) {
             : country.scores[pillar]?.score;
 
           const isSelected = country["ISO-alpha3 Code"] === countryCode;
-          if (!score) return null
+          if (!score) return null;
 
           return (
             <motion.div
-              className={`w-full flex items-center px-3 border rounded ${isSelected
-                ? " border-brand-blue bg-brand-blue/10 shadow-md"
-                : "border-transparent hover:bg-gray-100"
-                }`}
+              className={`w-full flex items-center px-3 border rounded ${
+                isSelected
+                  ? " border-brand-blue bg-brand-blue/10 shadow-md"
+                  : "border-transparent hover:bg-gray-100"
+              }`}
               key={country["ISO-alpha3 Code"]}
               initial={{ opacity: 0, x: -10 }}
               animate={{
@@ -212,8 +214,9 @@ export function CountryComparisons(props: CountryComparisonsProps) {
                       type: "spring",
                       stiffness: 300,
                     }}
-                    className={`w-6 h-6 rounded-full top-0 transform -translate-y-1/2 absolute flex items-center justify-center ${isSelected ? "ring-2 ring-opacity-10 ring-white" : ""
-                      }`}
+                    className={`w-6 h-6 rounded-full top-0 transform -translate-y-1/2 absolute flex items-center justify-center ${
+                      isSelected ? "ring-2 ring-opacity-10 ring-white" : ""
+                    }`}
                   >
                     <div className="font-mono absolute text-xs text-gray-600 left-full ml-2">
                       {roundNumber(score, 2)}

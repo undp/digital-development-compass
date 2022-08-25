@@ -149,7 +149,7 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
               })}
             </ul>
           ) : (
-            <p className="text-sm text-gray-600 italic mt-2">
+            <p className="text-sm text-gray-600 mt-2">
               Countries will appear here after you select them from the dropdown
               above.
             </p>

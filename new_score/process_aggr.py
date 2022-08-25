@@ -415,6 +415,8 @@ def save_roll_csv(df):
     roll_df = roll_df[columns_order]
 
     roll_df.to_csv("Processed/Full Data/full_output_rolling.csv", index=False)
+    # Copying this file to the UI directory so that the dashboard re-builds/deploys with the new data.
+    roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
 
 
 def process_aggregated(headers, aggr_file):
