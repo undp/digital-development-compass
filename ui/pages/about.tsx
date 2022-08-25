@@ -33,16 +33,16 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-                The Digital Development Dashboard (DDD) is an exhaustive
+                The Digital Development Compass (DDC) is an exhaustive
                 collection of a country's digital indicators, sourced from
                 publicly available datasets that we have aggregated and made
-                usable for the first time. The DDD was first created as a tool
+                usable for the first time. The DDC was first created as a tool
                 for UNDP's work in supporting inclusive, whole-of-society
                 digital transformation with partners.
               </p>
 
               <p>
-                The DDD features hundreds of existing public data sets that
+                The DDC features hundreds of existing public data sets that
                 provide indicators that provide insights on a country's progress
                 in digital transformation. Users can interact with the data to
                 understand the digital state of any nation (based on publicly

@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <DefaultSeo
         title="Home"
-        titleTemplate="UNDP Digital Development Dashboard | %s"
+        titleTemplate="UNDP Digital Development Compass | %s"
         twitter={{
           handle: "@UNDPdigital",
           cardType: "summary_large_image",
@@ -23,8 +23,8 @@ function MyApp({ Component, pageProps }) {
         <link rel="shortcut icon" href="/favicon.ico" />
         <meta charSet="utf-8" />
 
-        <meta name="description" content="UNDP Digital Development Dashboard" />
-        <meta name="keywords" content="UNDP, Digital, Development, Dashboard" />
+        <meta name="description" content="UNDP Digital Development Compass" />
+        <meta name="keywords" content="UNDP, Digital, Development, Compass" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"

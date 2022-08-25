@@ -17,7 +17,7 @@ export function SiteName() {
           </span>
         </div>
         <h1 className="text-sm font-medium lg:text-2xl max-w-[20ch] lg:max-w-full">
-          Digital Development Dashboard
+          Digital Development Compass
         </h1>
       </div>
     </div>

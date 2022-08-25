@@ -69,11 +69,11 @@ export const LoginComponent = ({
           </a>
 
           <h1 className="font-semibold text-2xl py-3">
-            Digital Development Dashboard
+            Digital Development Compass
           </h1>
 
           <p>
-            Currently the Digital Development Dashboard is in closed Beta. Please sign up for updates to learn about the launch or reach out to <a className="underline" href="mailto:digital@undp.org">digital@undp.org</a> with any inquires.
+            Currently the Digital Development Compass is in closed Beta. Please sign up for updates to learn about the launch or reach out to <a className="underline" href="mailto:digital@undp.org">digital@undp.org</a> with any inquires.
           </p>
 
 
