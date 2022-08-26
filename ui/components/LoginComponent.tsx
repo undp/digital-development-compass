@@ -73,14 +73,14 @@ export const LoginComponent = ({
           </h1>
 
           <p>
-            Currently the Digital Development Compass is in closed Beta. Please sign up for updates to learn about the launch or reach out to <a className="underline" href="mailto:digital@undp.org">digital@undp.org</a> with any inquires.
+            The Digital Development Compass is a new tool that aggregates publicly available data on countries’ digital development in one place. Now in its beta phase, it uses UNDP's whole-of-society approach and country experience to assess countries' efforts in inclusive digital transformation. It also identifies gaps, and recommends improvements to make this transformation easier and faster. Please subscribe to receive updates or reach out to <a className="underline" href="mailto:digital@undp.org">digital@undp.org</a> with any inquires.
           </p>
 
 
           <div id="mc_embed_signup">
             <form action="https://undp.us7.list-manage.com/subscribe/post?u=148ee4035f554a53ad2545a67&amp;id=232e454b96" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
               <div id="mc_embed_signup_scroll" className="space-y-2 mt-6">
-                <h2 className="font-semibold text-2xl">Join Us For Updates &amp; Launch Event Invitation</h2>
+                <h2 className="font-semibold text-2xl">Join Us For Updates &amp; A Launch Event Invitation</h2>
                 <div className="mc-field-group">
                   <label htmlFor="mce-EMAIL">Email Address<span className="text-red-500">*</span>
                   </label>
