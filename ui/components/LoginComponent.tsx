@@ -55,7 +55,7 @@ export const LoginComponent = ({
 
   return (
     <div className="w-full min-h-screen flex flex-col items-center justify-center bg-gray-100"
-    >``
+    >
       <div className="flex flex-col items-center max-w-[32em]">
         <div className="p-10 bg-white">
           <a className="block w-[203px] mt-[-60px]">
