@@ -27,7 +27,6 @@ export const LoginComponent = ({ apiUrl }: LoginComponentProps) => {
       ) as HTMLFormElement;
 
       const formData = new FormData(form);
-      console.log(formData);
 
       const res = await fetch(apiUrl || `/api/login`, {
         method: "post",
@@ -55,13 +54,13 @@ export const LoginComponent = ({ apiUrl }: LoginComponentProps) => {
   return (
     <>
       <style>{`body {background: #f1f5f9;}`}</style>
-      <div className="lg:h-screen flex flex-col lg:flex-row divide-y lg:divide-y-0 divide-x">
-        <div className="order-0 lg:order-1 flex-1 flex flex-col items-center justify-center px-10">
+      <div className="lg:h-screen flex flex-col lg:flex-row bg-gradient-to-bl from-brand-blue to-brand-blue-dark lg:overflow-hidden">
+        <div className="order-0 lg:order-1 flex-1 flex flex-col items-center justify-center px-10 py-8 lg:py-0">
           <div className="w-full lg:max-w-sm" id="password-form">
             <form
               data-testid="form"
               onSubmit={onSubmit}
-              className="my-8 w-full flex flex-col"
+              className="w-full flex flex-col space-y-4"
             >
               <input
                 name="password"
@@ -69,10 +68,17 @@ export const LoginComponent = ({ apiUrl }: LoginComponentProps) => {
                 id="password"
                 placeholder="Enter password"
                 required
-                className={`border py-2 px-3 ${error ? "border-red-500" : ""}`}
+                className={`rounded border border-transparent shadow-lg py-2 px-3 ${
+                  error
+                    ? "ring ring-red-400 ring-opacity-50 border-red-600"
+                    : ""
+                }`}
               />
               {!!error && (
-                <div className="text-red-500" data-testid="error">
+                <div
+                  className="text-red-500 bg-red-100 px-2 py-1 text-sm rounded"
+                  data-testid="error"
+                >
                   {error}
                 </div>
               )}
@@ -80,22 +86,27 @@ export const LoginComponent = ({ apiUrl }: LoginComponentProps) => {
               <button
                 type="submit"
                 disabled={isBusy}
-                className="font-semibold w-full text-sm py-3 uppercase tracking-wide mt-3 bg-gray-900 text-white"
+                className="font-semibold w-full text-sm py-3 uppercase tracking-wide bg-gray-900 text-white"
               >
                 {isBusy ? "Logging in..." : "Login"}
               </button>
             </form>
           </div>
         </div>
-        <div className="lg:w-1/2 flex-shrink-0 bg-white divide-y">
+        <div className="lg:w-1/2 flex-shrink-0 bg-white shadow-xl divide-y overflow-auto">
           <div className="p-4 lg:p-8">
             <div className="block w-16 mx-auto">
               <Image src={UNDPLogo} alt="UNDP Logo" />
             </div>
 
-            <h1 className="font-medium text-2xl text-center mt-2">
-              Digital Development Compass
-            </h1>
+            <div className="flex items-center justify-center space-x-2 mt-2 mx-auto">
+              <h1 className="font-medium text-2xl text-center">
+                Digital Development Compass
+              </h1>
+              <span className="inline-flex items-center px-[10px] py-[2px] rounded-full font-semibold bg-blue-100 text-blue-800 uppercase text-[10px] lg:text-xs tracking-widest">
+                Beta
+              </span>
+            </div>
 
             <p className="text-gray-600 text-left mt-4">
               The Digital Development Compass is a new tool that aggregates
