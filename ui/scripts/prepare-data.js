@@ -30,9 +30,9 @@ async function main() {
   const countries = await csvtojson().fromFile(COUNTRIES_FILE);
   const scores = await csvtojson({
     colParser: {
-      data_availability: d => Number.isFinite(+d) ? +d : null,
-    }
-  }).fromFile(SCORES_FILE)
+      data_availability: (d) => (Number.isFinite(+d) ? +d : null),
+    },
+  }).fromFile(SCORES_FILE);
 
   const latlon = require(LATLON_FILE);
 
@@ -269,15 +269,11 @@ async function main() {
     pillarNames: ${JSON.stringify(Object.keys(pillarMap))},
   } as const`;
 
-  fs.writeFileSync(
-    path.join(__dirname, "..", "database", "processed", "db.json"),
-    JSON.stringify(db)
-  );
+  let processedDir = path.join(__dirname, "..", "database", "processed");
+  fs.mkdirSync(processedDir, { recursive: true });
 
-  fs.writeFileSync(
-    path.join(__dirname, "..", "database", "processed", "ancillary.ts"),
-    ancillary
-  );
+  fs.writeFileSync(path.join(processedDir, "db.json"), JSON.stringify(db));
+  fs.writeFileSync(path.join(processedDir, "ancillary.ts"), ancillary);
 }
 
 main();

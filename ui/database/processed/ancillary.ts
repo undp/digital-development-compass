@@ -1,4 +1,0 @@
-export default {
-    pillars: {"Overall":[],"Foundations":["Data Exchange","Digital Legal Identity","Digital Payments"],"Infrastructure":["Connectivity Technology","Innovation Ecosystem"],"Government":["Capabilities","Digital Public Services","Funding and procurement","Leadership and coordination","Monitoring"],"Regulation":["Cybersecurity","Data standards and protection","E-commerce","Ethical Standards","Fair Market Competition"],"Business":["Financing Incentives","Impact commitments","Startup Environment","Technology Adoption"],"People":["Culture","Digital Literacy Skills","Digital Wellbeing","Usage and ownership"],"Strategy":["Approach","Ambition"]},
-    pillarNames: ["Overall","Foundations","Infrastructure","Government","Regulation","Business","People","Strategy"],
-  } as const
