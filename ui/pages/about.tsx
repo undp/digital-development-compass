@@ -180,7 +180,7 @@ export default function About(
         data-tf-popover="BYPpMpFy"
         data-tf-custom-icon="https://images.typeform.com/images/H59S4N5KfwQY"
         data-tf-button-color="#0445AF"
-        data-tf-tooltip="Hi 👋&nbsp;&nbsp;Can we help you?"
+        data-tf-tooltip="Hi 👋&nbsp;&nbsp;have feedback for us?"
         data-tf-chat
         data-tf-medium="snippet"
         data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
