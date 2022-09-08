@@ -93,7 +93,7 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[40em] py-10 text-lg mt-20">
+          <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
             <p>
               Automations scrape publicly available spreadsheets, PDFs, and
               documents into a machine-readable format. Scripts normalize the
@@ -112,7 +112,7 @@ export default function About(
             </p>
           </div>
 
-          <div className="max-w-[50em] mx-auto">
+          <div className="max-w-[50em] mx-auto px-4">
             <Image
               src="/github.png"
               width={3166}
@@ -121,7 +121,7 @@ export default function About(
             />
           </div>
 
-          <div className="max-w-[40em] py-10 text-lg">
+          <div className="max-w-[40em] py-10 text-lg px-4">
             <h2 className="text-3xl font-bold mt-20 mb-6">Our Methodology</h2>
 
             <ul className="space-y-4">
@@ -374,7 +374,7 @@ const MobilePillars = ({
   definitions: Dictionary<Definition[]>;
 }) => {
   return (
-    <div className="max-w-3xl mx-auto mt-20 lg:hidden">
+    <div className="max-w-3xl mx-auto mt-20 lg:hidden px-4">
       {pillars.map((name) => {
         const defs = definitions[name];
         const pillarColor = pillarColorMap[name]?.base || "black";
@@ -420,7 +420,7 @@ const MobilePillars = ({
                       </div>
                       <dl className="mt-4 space-y-3">
                         {stageNames.map((stageName, index) => (
-                          <div className="">
+                          <div key={stageName} className="">
                             <dt className="text-gray-500 flex-shrink-0 tracking-wider uppercase font-medium text-sm mb-3">
                               Stage {index + 1}. {stageName}
                             </dt>
@@ -583,8 +583,8 @@ const SolarSystem = ({
       <defs>
         <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
           <feFlood
-            flood-color="rgb(255,255,180)"
-            flood-opacity="0.6"
+            floodColor="rgb(255,255,180)"
+            floodOpacity="0.6"
             in="SourceGraphic"
           />
           <feComposite operator="in" in2="SourceGraphic" />
