@@ -104,9 +104,9 @@ export default function About(
               global resource on GitHub. Visit{" "}
               <a
                 className="underline"
-                href="https://github.com/undp/digital-nation-dashboard/"
+                href="https://github.com/undp/digital-development-compass"
               >
-                https://github.com/undp/digital-nation-dashboard/
+                https://github.com/undp/digital-development-compass
               </a>{" "}
               to see the latest.
             </p>
