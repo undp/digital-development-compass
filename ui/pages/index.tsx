@@ -73,6 +73,10 @@ const IndexPage = ({
                   area or its authorities, or concerning the delimitation of its
                   frontiers or boundaries.
                 </p>
+                <p className="text-xs text-gray-500 mt-2">
+                  References to Kosovo* shall be understood to be in the context
+                  of UN Security Council resolution 1244 (1999)
+                </p>
               </div>
             </div>
           </div>
