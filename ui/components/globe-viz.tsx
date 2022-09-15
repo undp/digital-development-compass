@@ -3,7 +3,6 @@ import type { Country, Feature } from "database/processed/db";
 import { makePillarsScale } from "lib";
 import { useRouter } from "next/router";
 import { useMemo, useRef, useState } from "react";
-import useDimensions from "react-cool-dimensions";
 import ReactGlobe, { GlobeMethods } from "react-globe.gl";
 import { useUpdateEffect } from "react-use";
 import {
@@ -44,10 +43,9 @@ export default function GlobeViz({
   onChange,
   activeCountryId,
 }: GlobeVizProps) {
-  const { observe, width, height } = useDimensions();
   const [hoveredCountry, setHoveredCountry] = useState<string | null>(null);
   const globeElement = useRef<GlobeMethods>(null);
-  const router = useRouter()
+  const router = useRouter();
 
   const htmlElementsData = useMemo(() => {
     if (!activeCountryId) return [];
@@ -95,15 +93,12 @@ export default function GlobeViz({
   };
 
   return (
-    <div
-      ref={observe}
-      className="w-full h-full min-h-[30em] overflow-hidden relative"
-    >
+    <div>
       <ReactGlobe
         // @ts-ignore
         ref={globeElement}
-        height={height}
-        width={width}
+        height={700}
+        width={700}
         showGraticules
         animateIn
         backgroundColor="rgba(0,0,0,0)"
@@ -180,11 +175,11 @@ export default function GlobeViz({
           // @ts-ignore
           const color = isActive
             ? // @ts-ignore
-            scale[pillar](6)
+              scale[pillar](6)
             : overallScore
-              ? // @ts-ignore
+            ? // @ts-ignore
               scale[pillar](overallScore || 0)
-              : "#eee";
+            : "#eee";
 
           const material = new MeshPhysicalMaterial({
             color,
@@ -237,7 +232,7 @@ export default function GlobeViz({
           }
           if (datum.alpha3 === activeCountryId) {
             router.push(`/country/${datum.alpha3}`);
-            return
+            return;
           }
           handlePolygonClick(datum.alpha3);
         }}

@@ -92,10 +92,10 @@ const IndexPage = ({
               )}
             </AnimatePresence>
             <motion.div
-              className="h-full"
+              className="h-full flex items-center justify-center will-change-transform"
               variants={globeVariants}
               initial={false}
-              animate={Boolean(activeCountryId) ? "shifted" : "normal"}
+              // animate={Boolean(activeCountryId) ? "shifted" : "normal"}
               transition={{
                 type: "tween",
                 duration: 0.5,
