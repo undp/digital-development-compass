@@ -14,6 +14,43 @@ pillars = [
 ]
 
 
+def filter_un_countries(df: pd.DataFrame):
+    countries_df = pd.read_csv("../data/Countries.csv")
+    countries_df = countries_df[["Country or Area", "UN Member States"]]
+    countries_df = countries_df.rename(columns={"Country or Area": "Country Name"})
+
+    # print(countries_df.head(10))
+
+    # filter UN Member States countries from countries_df
+    un_filter = countries_df["UN Member States"] == "x"
+    countries_df = countries_df.where(un_filter)
+    countries_df = countries_df.dropna()
+
+    print("Countries from Country.csv :", len(countries_df.index))
+
+    # df columns
+    columns = df.columns
+    # merge UN Member States to df
+    df = df.merge(countries_df, on=["Country Name"], how="left")
+
+    # filter data where UN Member States is NaN
+    df = df[df["UN Member States"].notna()]
+
+    print(df.head(10).to_string())
+
+    print(len(df.index))
+
+    names = df[["Country Name"]].drop_duplicates(keep="first")
+    print("Countries in final output :", len(names.index))
+    # keys = ["Country Name"]
+    # i1 = countries_df.set_index(keys).index
+    # i2 = names.set_index(keys).index
+    # res_df = countries_df[~i1.isin(i2)]
+    # print(res_df.to_string())
+
+    return df[columns]
+
+
 def parse_country_names(df: pd.DataFrame):
     df['Country Name'] = df['Country Name'].str.strip()
     df['Country Name'] = df['Country Name'].str.strip('**')
@@ -29,8 +66,10 @@ def parse_country_names(df: pd.DataFrame):
                                                     'Bolivia (Plurinational State of)', regex=False)
     df['Country Name'] = df['Country Name'].replace('Brunei', 'Brunei Darussalam', regex=False)
     df['Country Name'] = df['Country Name'].replace('Bulgaria (Rep.)', 'Bulgaria', regex=False)
-    df['Country Name'] = df['Country Name'].replace('Central African Republic', 'Central African Republic (the)', regex=False)
-    df['Country Name'] = df['Country Name'].replace('Central African Rep.', 'Central African Republic (the)', regex=False)
+    df['Country Name'] = df['Country Name'].replace('Central African Republic', 'Central African Republic (the)',
+                                                    regex=False)
+    df['Country Name'] = df['Country Name'].replace('Central African Rep.', 'Central African Republic (the)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].replace("China (People's Rep.)", 'China', regex=False)
     df['Country Name'] = df['Country Name'].replace("Comoros", 'Comoros (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("Congo", 'Congo (the)', regex=False)
@@ -38,7 +77,8 @@ def parse_country_names(df: pd.DataFrame):
     df['Country Name'] = df['Country Name'].replace("Congo (Rep. of the)", 'Congo (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("Congo (Democratic Republic of the)",
                                                     'Democratic Republic of the Congo (the)', regex=False)
-    df['Country Name'] = df['Country Name'].replace("Congo, Dem. Rep.", 'Democratic Republic of the Congo (the)', regex=False)
+    df['Country Name'] = df['Country Name'].replace("Congo, Dem. Rep.", 'Democratic Republic of the Congo (the)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].replace("Congo, The Democratic Republic of the",
                                                     'Democratic Republic of the Congo (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("DR Congo", 'Democratic Republic of the Congo (the)', regex=False)
@@ -46,7 +86,8 @@ def parse_country_names(df: pd.DataFrame):
                                                     'Democratic Republic of the Congo (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("Democratic Republic of the Congo",
                                                     'Democratic Republic of the Congo (the)', regex=False)
-    df['Country Name'] = df['Country Name'].replace("Dem. Rep. of the Congo", 'Democratic Republic of the Congo (the)', regex=False)
+    df['Country Name'] = df['Country Name'].replace("Dem. Rep. of the Congo", 'Democratic Republic of the Congo (the)',
+                                                    regex=False)
 
     df['Country Name'] = df['Country Name'].replace("Cote d'Ivoire", "Côte d'Ivoire", regex=False)
     df['Country Name'] = df['Country Name'].replace("Côte d’Ivoire", "Côte d'Ivoire", regex=False)
@@ -60,7 +101,8 @@ def parse_country_names(df: pd.DataFrame):
                                                     "Democratic People's Republic of Korea (the)", regex=False)
     df['Country Name'] = df['Country Name'].replace("Korea, Dem. People's Rep.",
                                                     "Democratic People's Republic of Korea (the)", regex=False)
-    df['Country Name'] = df['Country Name'].replace("North Korea", "Democratic People's Republic of Korea (the)", regex=False)
+    df['Country Name'] = df['Country Name'].replace("North Korea", "Democratic People's Republic of Korea (the)",
+                                                    regex=False)
 
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Czech.*$)', 'Czechia', regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Dominican Re.*$)', 'Dominican Republic (the)', regex=True)
@@ -82,12 +124,17 @@ def parse_country_names(df: pd.DataFrame):
     df['Country Name'] = df['Country Name'].replace("Korea, South", 'Republic of Korea (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("South Korea", 'Republic of Korea (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("Republic of Korea", 'Republic of Korea (the)', regex=False)
+    df['Country Name'] = df['Country Name'].replace("Marshall Islands", 'Marshall Islands (the)', regex=False)
 
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Kyrgyz.*$)', 'Kyrgyzstan', regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Lao.*$)', "Lao People's Democratic Republic (the)", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Macao.*$)', "China, Macao Special Administrative Region", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Macau.*$)', "China, Macao Special Administrative Region", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Micronesia.*$)', "Micronesia (Federated States of)", regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Lao.*$)', "Lao People's Democratic Republic (the)",
+                                                        regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Macao.*$)', "China, Macao Special Administrative Region",
+                                                        regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Macau.*$)', "China, Macao Special Administrative Region",
+                                                        regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Micronesia.*$)', "Micronesia (Federated States of)",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Moldova.*$)', "Republic of Moldova (the)", regex=True)
     df['Country Name'] = df['Country Name'].replace("Morroco", 'Morocco', regex=False)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Nepal.*$)', "Nepal", regex=True)
@@ -112,35 +159,46 @@ def parse_country_names(df: pd.DataFrame):
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*São Tomé.*$)', "Sao Tome and Principe", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Taiwan.*$)', "Taiwan", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Taipei.*$)', "Taiwan", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Tanzania.*$)', "United Republic of Tanzania (the)", regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Tanzania.*$)', "United Republic of Tanzania (the)",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Netherlands.*$)', "Netherlands (the)", regex=True)
 
     df['Country Name'] = df['Country Name'].replace("UAE", 'United Arab Emirates (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("U.A.E", 'United Arab Emirates (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace("United Arab Emirates", 'United Arab Emirates (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace('United Kingdom',
-                                                    'United Kingdom of Great Britain and Northern Ireland (the)', regex=False)
-    df['Country Name'] = df['Country Name'].replace('UK', 'United Kingdom of Great Britain and Northern Ireland (the)', regex=False)
+                                                    'United Kingdom of Great Britain and Northern Ireland (the)',
+                                                    regex=False)
+    df['Country Name'] = df['Country Name'].replace('UK', 'United Kingdom of Great Britain and Northern Ireland (the)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].replace("Great Britain",
-                                                    'United Kingdom of Great Britain and Northern Ireland (the)', regex=False)
+                                                    'United Kingdom of Great Britain and Northern Ireland (the)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].replace("United Kingdom of Great Britain and Northern Ireland",
-                                                    'United Kingdom of Great Britain and Northern Ireland (the)', regex=False)
+                                                    'United Kingdom of Great Britain and Northern Ireland (the)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].replace('Vietnam', 'Viet Nam', regex=False)
     df['Country Name'] = df['Country Name'].replace('United States', 'United States of America (the)', regex=False)
     df['Country Name'] = df['Country Name'].replace('USA', 'United States of America (the)', regex=False)
-    df['Country Name'] = df['Country Name'].replace('United States of America', 'United States of America (the)', regex=False)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Virgin Islands.*$)', "United States Virgin Islands", regex=True)
+    df['Country Name'] = df['Country Name'].replace('United States of America', 'United States of America (the)',
+                                                    regex=False)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Virgin Islands.*$)', "United States Virgin Islands",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Vatican.*$)', "Vatican", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Venezuela.*$)', "Venezuela (Bolivarian Republic of)", regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Venezuela.*$)', "Venezuela (Bolivarian Republic of)",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Yemen.*$)', "Yemen", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Arab world.*$)', "Arab World", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*World.*$)', "World", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Kitts and Nevis.*$)', "Saint Kitts and Nevis", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Lucia.*$)', "Saint Lucia", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Martin (French Part).*$)', "Saint Martin (French Part)", regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Martin (French Part).*$)', "Saint Martin (French Part)",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].replace('Sint Maarten', 'Saint Martin', regex=False)
-    df['Country Name'] = df['Country Name'].replace('St. Martin (French part)', 'Saint Martin (French Part)', regex=False)
-    df['Country Name'] = df['Country Name'].replace('Sint Maarten (Dutch part)', 'Saint Martin (Dutch Part)', regex=False)
+    df['Country Name'] = df['Country Name'].replace('St. Martin (French part)', 'Saint Martin (French Part)',
+                                                    regex=False)
+    df['Country Name'] = df['Country Name'].replace('Sint Maarten (Dutch part)', 'Saint Martin (Dutch Part)',
+                                                    regex=False)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Vincent and the Grenadines.*$)',
                                                         "Saint Vincent and the Grenadines", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Verde.*$)', "Cabo Verde", regex=True)
@@ -168,7 +226,8 @@ def parse_country_names(df: pd.DataFrame):
     df['Country Name'] = df['Country Name'].replace('R. of Congo', 'Congo (the)', regex=False)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Principe.*$)', "Sao Tome and Principe", regex=True)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Solomon.*$)', "Solomon Islands", regex=True)
-    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Vincent.*$)', "Saint Vincent and the Grenadines", regex=True)
+    df['Country Name'] = df['Country Name'].str.replace(r'(^.*Vincent.*$)', "Saint Vincent and the Grenadines",
+                                                        regex=True)
     df['Country Name'] = df['Country Name'].replace('Curacao', 'Curaçao', regex=False)
     df['Country Name'] = df['Country Name'].replace('Reunion', 'Réunion', regex=False)
     df['Country Name'] = df['Country Name'].str.replace(r'(^.*Kosovo.*$)', "Kosovo (UNSCR 1244)", regex=True)
@@ -200,12 +259,12 @@ def aggregate_files(files_dir, headers, output_file, skip_file_names):
             aggr_df = pd.concat([aggr_df, file_df], axis=0, join='outer', ignore_index=True)
 
     aggr_df = parse_country_names(aggr_df)
+    aggr_df = filter_un_countries(aggr_df)
 
     aggr_df.to_csv(output_file, index=False)
 
 
 if __name__ == "__main__":
-
     skip_files = [
         "people_Cyberbullying_scores.csv",
         "business_Doing Business Index_scores.csv",
