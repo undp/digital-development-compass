@@ -56,11 +56,12 @@ const Subpillar = (props: SubpillarProps) => {
         <h3 className="text-base font-medium">{subpillar}</h3>
         {score ? (
           <span className="text-sm text-right font-mono">
-            <span>
+            {/* <span>
               {rank}
               <sup>{getOrdinal(rank)}</sup>
-            </span>{" "}
-            / {score}
+            </span>{" "} */}
+            {/* /  */}
+            {score}
           </span>
         ) : (
           <span className="text-sm text-gray-600">No data</span>
@@ -133,7 +134,7 @@ const Pillar = (props: PillarProps) => {
           <div className="text-white font-mono font-semibold">{score}</div>
         </div>
       </header>
-      <div className="p-3 border-b relative">
+      {/* <div className="p-3 border-b relative">
         <div
           className="absolute inset-0 w-full h-full z-[-1]"
           style={{ background: color, opacity: 0.1 }}
@@ -145,7 +146,7 @@ const Pillar = (props: PillarProps) => {
           </span>{" "}
           highest score out of all countries
         </p>
-      </div>
+      </div> */}
       <div className="p-4 relative border-b">
         <StageInfo stage={stage} color={color} pillar={pillar} />
       </div>

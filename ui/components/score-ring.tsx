@@ -447,7 +447,7 @@ export const ScoreRing = ({
                           <text y="18" className="font-light">
                             {value}
                           </text>
-                          {!!rank && (
+                          {/* {!!rank && (
                             <text
                               y="-18"
                               className="font-light opacity-80 text-xs"
@@ -455,7 +455,7 @@ export const ScoreRing = ({
                               {rank}
                               {getOrdinal(rank)}
                             </text>
-                          )}
+                          )} */}
                         </g>
                       )}
                     </g>
