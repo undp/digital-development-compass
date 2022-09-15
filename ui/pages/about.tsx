@@ -5,7 +5,7 @@ import { Scrollama, Step } from "react-scrollama";
 import Layout from "components/Layout";
 import ScoreRing from "components/score-ring";
 import { groupBy } from "lodash";
-import { getOrdinal, pillarColorMap, stageNames } from "lib";
+import { pillarColorMap, stageNames } from "lib";
 import Icons from "components/icons";
 import { Definition } from "database/processed/db";
 import { useEffect, useState } from "react";
@@ -544,14 +544,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
               For instance, we can see that {country["Country or Area"]} scored
               a{" "}
               <span className="font-mono">{countryFocusedSubpillar.score}</span>{" "}
-              on the connectivity technology sub-pillar, putting it at the{" "}
-              <strong>{countryFocusedSubpillar.stage.name} stage</strong> and
-              ranking it{" "}
-              <strong className="font-mono">
-                {countryFocusedSubpillar.rank}
-                {getOrdinal(countryFocusedSubpillar.rank)}
-              </strong>{" "}
-              in the world.
+              on the connectivity technology sub-pillar.
             </>,
           ].map((text, index) => (
             <Step data={index} key={index}>

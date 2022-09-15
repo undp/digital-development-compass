@@ -1,9 +1,9 @@
 import pillarIcons from "components/icons";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
-import kebabCase from "lodash/kebabCase";
 import type { Country, Stage, SubPillar } from "database/processed/db";
-import { getOrdinal, pillarColorMap } from "lib";
+import { pillarColorMap } from "lib";
+import kebabCase from "lodash/kebabCase";
 import { useState } from "react";
 import { IndicatorList } from "./indicator-list";
 import { ProgressPill } from "./progress-pill";
@@ -56,11 +56,12 @@ const Subpillar = (props: SubpillarProps) => {
         <h3 className="text-base font-medium">{subpillar}</h3>
         {score ? (
           <span className="text-sm text-right font-mono">
-            <span>
+            {/* <span>
               {rank}
               <sup>{getOrdinal(rank)}</sup>
-            </span>{" "}
-            / {score}
+            </span>{" "} */}
+            {/* /  */}
+            {score}
           </span>
         ) : (
           <span className="text-sm text-gray-600">No data</span>
@@ -111,7 +112,7 @@ const Pillar = (props: PillarProps) => {
     showMissingIndicators,
     showSources,
   } = props;
-  let { rank, stage, score } = country.scores[pillar];
+  let { stage, score } = country.scores[pillar];
   // @ts-ignore
   let subpillars: SubPillar[] = ancillary.pillars[pillar];
   let color = pillarColorMap[pillar].base;
@@ -133,7 +134,7 @@ const Pillar = (props: PillarProps) => {
           <div className="text-white font-mono font-semibold">{score}</div>
         </div>
       </header>
-      <div className="p-3 border-b relative">
+      {/* <div className="p-3 border-b relative">
         <div
           className="absolute inset-0 w-full h-full z-[-1]"
           style={{ background: color, opacity: 0.1 }}
@@ -145,7 +146,7 @@ const Pillar = (props: PillarProps) => {
           </span>{" "}
           highest score out of all countries
         </p>
-      </div>
+      </div> */}
       <div className="p-4 relative border-b">
         <StageInfo stage={stage} color={color} pillar={pillar} />
       </div>
