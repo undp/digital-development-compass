@@ -1,14 +1,12 @@
 import Script from "next/script";
-import { withPasswordProtect } from "@storyofams/next-password-protect";
 import { DefaultSeo } from "next-seo";
-import { LoginComponent } from "./../components/LoginComponent";
 
 import "flagpack/dist/flagpack.css";
 import Head from "next/head";
 
 import "../styles/global.css";
 
-function MyApp({ Component, pageProps }) {
+export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <DefaultSeo
@@ -47,13 +45,3 @@ function MyApp({ Component, pageProps }) {
     </>
   );
 }
-
-export default withPasswordProtect(MyApp, {
-  loginComponent: LoginComponent,
-});
-
-// export default process.env.PASSWORD_PROTECT
-//   ? withPasswordProtect(MyApp, {
-//     loginComponent: LoginComponent
-//   })
-//   : MyApp;
