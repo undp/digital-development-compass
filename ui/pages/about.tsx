@@ -15,6 +15,8 @@ import { ancillary } from "database/ancillary";
 import Image from "next/image";
 import Script from "next/script";
 
+import githubScreenshot from "../public/github.png";
+
 const AboutScrollytelling = dynamic(
   () => import("components/about-scrollytelling"),
   { ssr: false }
@@ -30,6 +32,11 @@ export default function About(
 ) {
   const { definitions, countries, country } = props;
   const pillars = Object.keys(definitions);
+
+  const handleScrollToTop = () => {
+    if (typeof window === "undefined") return;
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   return (
     <Layout title="About" countries={countries}>
@@ -119,9 +126,7 @@ export default function About(
 
           <div className="max-w-[50em] mx-auto px-4">
             <Image
-              src="/github.png"
-              width={3166}
-              height={1744}
+              src={githubScreenshot}
               alt="The undp/digital-nation-dashboard GitHub repository"
             />
           </div>
@@ -176,6 +181,15 @@ export default function About(
               </a>
               .
             </p>
+
+            <div className="flex justify-center mt-8">
+              <button
+                onClick={handleScrollToTop}
+                className="bg-brand-blue-dark border-2 font-semibold border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-xs uppercase tracking-wide text-white flex-shrink-0 flex items-center"
+              >
+                Scroll To Top
+              </button>
+            </div>
           </div>
         </div>
       </div>
