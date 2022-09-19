@@ -150,13 +150,15 @@ const IndexPage = ({
 export default IndexPage;
 
 export const getStaticProps = async () => {
-  const countries = db.countries.map((country) => {
-    return {
-      name: country["Country or Area"],
-      alpha2: country["ISO-alpha2 Code"],
-      alpha3: country["ISO-alpha3 Code"],
-    };
-  });
+  const countries = db.countries
+    .filter((c) => c.unMember)
+    .map((country) => {
+      return {
+        name: country["Country or Area"],
+        alpha2: country["ISO-alpha2 Code"],
+        alpha3: country["ISO-alpha3 Code"],
+      };
+    });
 
   const globeData = db.countries
     // Filter out any countries for which we don't have geojson
