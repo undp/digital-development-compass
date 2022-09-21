@@ -1,11 +1,13 @@
 import numpy as np
 import pandas as pd
 
-sdgMappingdf = pd.read_csv('Input/sdg_mapping.csv', sep='|')
+sdgMappingdf =pd.DataFrame(pd.read_excel("Input/Digital Transformation SDG Mapping.xlsx", "SDG Mapping"))
 
-countriesdf = pd.read_csv('Input/Countries.csv', sep=',')
+urlCOuntries = 'https://raw.githubusercontent.com/undp/digital-development-compass/main/data/Countries.csv'
+countriesdf = pd.read_csv(urlCOuntries)
 
-opRollingdf = pd.read_csv('Input/full_output_rolling.csv', sep=',')
+urlopRolling = 'https://raw.githubusercontent.com/undp/digital-development-compass/main/new_score/Processed/Full%20Data/full_output_rolling.csv'
+opRollingdf = pd.read_csv(urlopRolling)
 opRollingdf = opRollingdf[opRollingdf['Indicator'].isnull()]
 opRollingdf = opRollingdf[opRollingdf['Sub-Pillar'].notnull()]
 opRollingdf = opRollingdf[['Country Name', 'Pillar', 'Sub-Pillar', 'new_rank_score']]
@@ -43,7 +45,7 @@ dfFinal['SDG #'] = dfFinal['SDG #'].str.strip()
 
 ################################################################################
 
-ReferenceTestdf = pd.DataFrame(pd.read_excel("Digital Transformation SDG Mapping.xlsx", "Reference Test"))
+ReferenceTestdf = pd.DataFrame(pd.read_excel("Input/Digital Transformation SDG Mapping.xlsx", "Reference Test"))
 
 ReferenceTestdf = ReferenceTestdf[['SDG #', 'SDG_Target']]
 ReferenceTestdf['SDG #'] = ReferenceTestdf['SDG #'].str.strip()
@@ -75,6 +77,6 @@ for country in countriesAtCountry:
 
 SDG_Mapping_Calculationdf = SDG_Mapping_Calculationdf.round(decimals=2)
 
-SDG_Mapping_Calculationdf.to_csv('SDG_Mapping_Calculation.csv', header=True, index=False)
+SDG_Mapping_Calculationdf.to_csv('Output/SDG_Mapping_Calculation.csv', header=True, index=False)
 
 
