@@ -125,18 +125,39 @@ def process_df(better_df, min_val, max_val):
                 scaled_data2 = scaler2.transform(raw_data2.values.reshape(-1, 1)).flatten()
 
             if raw_data3.values.size != 0:
-                scaler3.fit(raw_data3.values.reshape(-1, 1))
+                values = list(raw_data3.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler3.fit(values + mins)
                 scaled_data3 = scaler3.transform(raw_data3.values.reshape(-1, 1)).flatten()
 
             if raw_data4.values.size != 0:
-                scaler4.fit(raw_data4.values.reshape(-1, 1))
+                values = list(raw_data4.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler4.fit(values + mins)
                 scaled_data4 = scaler4.transform(raw_data4.values.reshape(-1, 1)).flatten()
 
             if raw_data5.values.size != 0:
-                ###############################################################################################################
-                #print(type(raw_data5))
-                ####raw_data5.values.reshape(-1, 1) append a value to this series which less than maximum value before fiting
-                scaler5.fit(raw_data5.values.reshape(-1, 1))
+                values = list(raw_data5.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler5.fit(values + mins)
                 scaled_data5 = scaler5.transform(raw_data5.values.reshape(-1, 1)).flatten()
 
             # add data to score_map
