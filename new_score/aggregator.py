@@ -18,11 +18,13 @@ def filter_un_countries(df: pd.DataFrame):
     countries_df = pd.read_csv("../data/Countries.csv")
     countries_df = countries_df[["Country or Area", "UN Member States"]]
     countries_df = countries_df.rename(columns={"Country or Area": "Country Name"})
+    countryList = ['Kosovo (UNSCR 1244)']
 
-    # print(countries_df.head(10))
+    for country in countryList:
+        countries_df.loc[len(df.index)] = [country, 'y']
 
     # filter UN Member States countries from countries_df
-    un_filter = countries_df["UN Member States"] == "x"
+    un_filter = countries_df["UN Member States"].isin(['x', 'y'])
     countries_df = countries_df.where(un_filter)
     countries_df = countries_df.dropna()
 
@@ -48,7 +50,7 @@ def filter_un_countries(df: pd.DataFrame):
     # res_df = countries_df[~i1.isin(i2)]
     # print(res_df.to_string())
 
-    return df[columns]
+    return df
 
 
 def parse_country_names(df: pd.DataFrame):
