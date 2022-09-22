@@ -30,7 +30,7 @@ Business,Technology Adoption,Size of digital economy (% of transactions),1
 Business,Technology Adoption,Size of gig economy (% of GDP),1
 Business,Startup Environment,"Amount invested into startups yearly from private, public, blended sources (respectively)",1
 Business,Startup Environment,Strength of legal rights index,1
-Business,Startup Environment,Time to Start a Business,1
+Business,Startup Environment,Time required to start a business (days),1
 Business,Technology Adoption,UNCTAD Business-to-Consumer (B2C) E-commerce Index,1
 Business,Financing Incentives,Venture Capital Availability,1
 Foundations,Digital Payments,% Making online transactions - Women,1
@@ -42,6 +42,8 @@ Foundations,Digital Payments,Digital payments penetration,1
 Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - all,1
 Foundations,Digital Payments,Made or received digital payments in the past year (% age 15+) - female,1
 Foundations,Digital Payments,% Making online transactions - Men,1
+Foundations,Digital Payments,% of population with digital finance account
+Foundations,Digital Payments,% of population with digital finance account - registered
 Foundations,Data Exchange,Open data index,1
 Foundations,Digital Payments,Used a mobile phone or the internet to check account balance in the past year (% age 15+) - all,1
 Government,Capabilities,% of digital skills certifications / training courses completed,1

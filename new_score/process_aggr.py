@@ -15,7 +15,7 @@ def load_weights():
 
 def get_weight(pillar, sub_pillar, indicator):
     global weights
-    # print(pillar, sub_pillar, indicator)
+    #print(pillar, sub_pillar, indicator)
     val = weights.loc[(weights["Pillar"] == pillar) & (weights["Sub-Pillar"] == sub_pillar) & (weights[
         "Indicator"] == indicator), "Weight"].values[0]
     return val
@@ -72,7 +72,7 @@ def process_df(better_df, min_val, max_val):
                     vals = np.append(vals, [[int(range_min)], [int(range_max)]], axis=0)
                     scaler.fit(vals)
                 else:
-                    print("Index type has invalid range data.")
+                    ##########print("Index type has invalid range data.")
                     # scaler.fit(raw_data.values)
                     is_percentile = True
             elif ind_type == "Raw":
@@ -80,7 +80,7 @@ def process_df(better_df, min_val, max_val):
                 #print("raw:", source_info["Indicator"].values[0])
                 is_percentile = True
             else:
-                print("Index type unknown for index:", source_info["Indicator"].values[0])
+                ####################print("Index type unknown for index:", source_info["Indicator"].values[0])
                 is_percentile = True
         else:
             # scaler.fit(raw_data.values)
@@ -125,15 +125,39 @@ def process_df(better_df, min_val, max_val):
                 scaled_data2 = scaler2.transform(raw_data2.values.reshape(-1, 1)).flatten()
 
             if raw_data3.values.size != 0:
-                scaler3.fit(raw_data3.values.reshape(-1, 1))
+                values = list(raw_data3.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler3.fit(values + mins)
                 scaled_data3 = scaler3.transform(raw_data3.values.reshape(-1, 1)).flatten()
 
             if raw_data4.values.size != 0:
-                scaler4.fit(raw_data4.values.reshape(-1, 1))
+                values = list(raw_data4.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler4.fit(values + mins)
                 scaled_data4 = scaler4.transform(raw_data4.values.reshape(-1, 1)).flatten()
 
             if raw_data5.values.size != 0:
-                scaler5.fit(raw_data5.values.reshape(-1, 1))
+                values = list(raw_data5.values.reshape(-1, 1))
+                values.sort()
+                mins = []
+                if len(values) > 0:
+                    mn = values[0]
+                    mx = values[-1]
+                    if mn == mx:
+                        mins.append(mx - 1)
+                scaler5.fit(values + mins)
                 scaled_data5 = scaler5.transform(raw_data5.values.reshape(-1, 1)).flatten()
 
             # add data to score_map
@@ -226,15 +250,20 @@ def add_country_sub_pillar_rank(df):
     # df["country_sub_pillar_rank"] = df["country_sub_pillar_rank"].astype(int)
 
 
-    pillar_df = df[["Country Name", "Pillar", "Sub-Pillar", "country_sub_pillar_score", "country_sub_pillar_rank"]] \
+    pillar_df = df[["Country Name", "Pillar", "Sub-Pillar", "country_sub_pillar_score", "country_sub_pillar_rank",'UN Member States']] \
         .drop_duplicates(["Country Name", "Pillar", "Sub-Pillar"], keep="first")
+
+    ######################################################################################
+    un_filter = pillar_df["UN Member States"].isin(['x'])
+    pillar_df = pillar_df.where(un_filter)
 
     pillar_df["country_sub_pillar_score"] = pillar_df["country_sub_pillar_score"].astype(float)
 
     pillar_df["country_sub_pillar_rank"] = pillar_df.groupby(["Pillar", "Sub-Pillar"])["country_sub_pillar_score"] \
         .rank(method="min", ascending=False)
 
-    pillar_df["country_sub_pillar_rank"] = pillar_df["country_sub_pillar_rank"].astype(int)
+    pillar_df["country_sub_pillar_rank"] = pillar_df["country_sub_pillar_rank"].astype("Int64")
+    #.astype(int)
 
     c = df.columns.difference(["country_sub_pillar_rank"])
     df = df[c].merge(pillar_df[["Country Name", "Pillar", "Sub-Pillar", "country_sub_pillar_rank"]],
@@ -289,15 +318,20 @@ def add_country_pillar_score(df):
 
 
 def add_country_pillar_rank(df):
-    pillar_df = df[["Country Name", "Pillar", "country_pillar_score", "country_pillar_rank"]] \
+    pillar_df = df[["Country Name", "Pillar", "country_pillar_score", "country_pillar_rank",'UN Member States']] \
         .drop_duplicates(["Country Name", "Pillar"], keep="first")
+
+    ##################################################################################
+    un_filter = pillar_df["UN Member States"].isin(['x'])
+    pillar_df = pillar_df.where(un_filter)
 
     # print(pillar_df[["Country Name"]].drop_duplicates(["Country Name"], keep="first").values.flatten().tolist())
 
     pillar_df["country_pillar_rank"] = pillar_df.groupby(["Pillar"])["country_pillar_score"] \
         .rank(method="min", ascending=False)
 
-    pillar_df["country_pillar_rank"] = pillar_df["country_pillar_rank"].astype(int)
+    pillar_df["country_pillar_rank"] = pillar_df["country_pillar_rank"].astype("Int64")
+        #.astype(int)
 
     c = df.columns.difference(["country_pillar_rank"])
     df = df[c].merge(pillar_df[["Country Name", "Pillar", "country_pillar_rank"]], on=["Country Name", "Pillar"],
@@ -351,6 +385,11 @@ def add_sources(df, source_file_name):
 
 def get_country_rank(pillar_df: pd.DataFrame):
     country_df = pillar_df.copy(deep=True)
+    #############################################
+    un_filter = pillar_df["UN Member States"].isin(['x','y'])
+    country_df = pillar_df.where(un_filter)
+    #country_df = country_df.drop(['UN Member States'], axis=1)
+
     country_group = pillar_df.groupby(["Country Name"])
 
     for name, group in country_group:
@@ -367,9 +406,18 @@ def get_country_rank(pillar_df: pd.DataFrame):
 
     country_df = country_df.drop_duplicates(["Country Name"], keep="first")
     country_df["Pillar"] = ""
-    #country_df["data_availability"] = ""
-    country_df["rank"] = country_df["new_rank_score"].rank(method="min", ascending=False)
 
+    #country_df["data_availability"] = ""
+    un_filter = country_df["UN Member States"].isin(['x'])
+    country_df1 = country_df.where(un_filter)
+    country_df1["rank"] = country_df1["new_rank_score"].rank(method="min", ascending=False)
+
+    country_df = country_df.drop(['UN Member States'], axis=1)
+
+    country_df1 = country_df1[["Country Name", "rank"]]
+    c = country_df.columns.difference(["rank"])
+    country_df = country_df[c].merge(country_df1, on=["Country Name"], how="left").reindex(columns=country_df.columns)
+    
     return country_df
 
 
@@ -394,7 +442,7 @@ def save_roll_csv(df):
     sub_pillar_df["Year"] = ""
     sub_pillar_df = sub_pillar_df.rename(columns={"country_sub_pillar_score": "new_rank_score"})
 
-    pillar_df = df[columns + ["country_pillar_score"]]
+    pillar_df = df[columns + ["country_pillar_score", "UN Member States"]]
     pillar_df["rank"] = df[["country_pillar_rank"]]
     pillar_df = pillar_df.drop_duplicates(["Country Name", "Pillar"], keep="first")
     pillar_df["Indicator"] = ""
@@ -407,7 +455,10 @@ def save_roll_csv(df):
     pillar_df["data_availability"] = df["country_pillar_availability"]
     pillar_df = pillar_df.rename(columns={"country_pillar_score": "new_rank_score"})
 
+    ########################## error ##############################
+
     country_df = get_country_rank(pillar_df)
+    ######################################################################
 
     roll_df = pd.concat([country_df, pillar_df, sub_pillar_df, indicator_df], axis=0)
     roll_df = roll_df.reset_index(drop=True)
@@ -416,8 +467,7 @@ def save_roll_csv(df):
 
     roll_df.to_csv("Processed/Full Data/full_output_rolling.csv", index=False)
     # Copying this file to the UI directory so that the dashboard re-builds/deploys with the new data.
-    roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
-
+    #roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
 
 def process_aggregated(headers, aggr_file):
     full_df = pd.read_csv(aggr_file)
@@ -470,7 +520,9 @@ def process_aggregated(headers, aggr_file):
 
     full_df["Year"] = year_df
 
-    full_df.to_csv("Processed/Full Data/full_data.csv", index=False)
+    full_df1 = full_df.drop(['UN Member States'], axis=1)
+
+    full_df1.to_csv("Processed/Full Data/full_data.csv", index=False)
     # print(full_df.head(170).to_string())
 
     save_roll_csv(full_df)
@@ -478,6 +530,6 @@ def process_aggregated(headers, aggr_file):
 
 if __name__ == "__main__":
     process_aggregated(
-        ["Country Name", "Year", "Indicator", "data_col", "new_rank_score", "higher_is_better", "Pillar", "Sub-Pillar"],
+        ["Country Name", "Year", "Indicator", "data_col", "new_rank_score", "higher_is_better", "Pillar", "Sub-Pillar", 'UN Member States'],
         "Processed/Full Data/output.csv"
     )
