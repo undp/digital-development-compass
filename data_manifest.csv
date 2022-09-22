@@ -1,6 +1,6 @@
 name,format,endpoint,Excel sheet #,Excel sheet top row #,Country Column #,Year Column #
 Countries,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.xlsx,5,1,,
-countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx,3,3,,
+countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx,3,3,,
 countries_ixp,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv,,,,
 number_key_internet_controls_employed,xlsx,https://freedomhouse.org/sites/default/files/2021-09/FOTN_2021_Key_Internet_Controls.xlsx,1,1,A,
 id4d_nid,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.cvs,,,,
@@ -62,6 +62,7 @@ digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/publi
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,,,,
 banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv,,,,
 startup_eco_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv,,,,
+fixed_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv,,,,
 mobile_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv,,,,
 gender_gaps,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv,,,,
 prevalance_gig_economy,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv,,,,
@@ -120,3 +121,5 @@ mobile_money_regulatory,xlsx,https://raw.githubusercontent.com/mbelinsky/public_
 inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,,,,
 birth_registration,xlsx,https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,,,,
+demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,,,,
+data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,,,,

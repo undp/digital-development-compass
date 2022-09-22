@@ -29,7 +29,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/countries_mobile_connectivity.xlsx
            postprocess: ./process_raw_data.js
 
@@ -525,6 +525,14 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv
+           downloaded_filename: data/fixed_speed.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv
            downloaded_filename: data/mobile_speed.csv
            postprocess: ./process_raw_data.js
@@ -983,4 +991,20 @@ jobs:
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv
            downloaded_filename: data/Freedomhouse_countries_report.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv
+           downloaded_filename: data/demographic_comparison_data.csv
+           postprocess: ./process_raw_data.js
+
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        if: always()
+        with:
+           http_url: https://www.dlapiperdataprotection.com/_undp/feed.json
+           downloaded_filename: data/data_laws.json
            postprocess: ./process_raw_data.js

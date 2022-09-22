@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+  height: 100%;
+}
+
+#__next {
+  @apply flex flex-col h-full;
+}
+
+.main {
+  min-height: calc(100vh - 100px);
+}
+
+.data-table [role="columnheader"] {
+  @apply text-sm font-medium text-gray-600 bg-gray-50 border-b-2 border-r-0 flex items-center;
+}
+
+.data-table [role="columnheader"] > span {
+  @apply flex-1;
+}
+
+.data-table [role="columnheader"] span {
+  @apply items-center;
+}
+
+.data-table [role="gridcell"] {
+  @apply border-r-0 border-gray-200;
+}
+
+.rdg-header-sort-name + span {
+  margin-left: 6px;
+}
+
+.drawer {
+  box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
+    0 4px 8px rgba(89, 97, 104, 0.15), 0 6px 24px 10px rgba(89, 97, 104, 0.2);
+}
+
+.SolarSystem .st0 {
+  fill: #6d6e71;
+}
+.SolarSystem .st1 {
+  fill: #231f20;
+}
+.SolarSystem .st2 {
+  fill: #58595b;
+}
+.SolarSystem .st3 {
+  fill: #1a96d4;
+}
+.SolarSystem .st4 {
+  fill: #fac313;
+}
+.SolarSystem .st5 {
+  fill: #f26a2b;
+}
+.SolarSystem .st6 {
+  fill: #5bba47;
+}
+.SolarSystem .st7 {
+  fill: #0569b1;
+}
+.SolarSystem .st8 {
+  fill: none;
+  stroke: #4d4d4d;
+  stroke-width: 0.2083;
+  stroke-miterlimit: 10;
+}
+.SolarSystem .st9 {
+  fill: none;
+  stroke: #4d4d4d;
+  stroke-width: 0.25;
+  stroke-miterlimit: 10;
+}
+.SolarSystem .st10 {
+  fill: #ffffff;
+}
+.SolarSystem .st11 {
+  fill: #ffffff;
+  stroke: #f26a2b;
+  stroke-width: 0.5;
+  stroke-miterlimit: 10;
+}
+.SolarSystem .st12 {
+  fill: #ffffff;
+  stroke: #f26a2b;
+  stroke-width: 0.425;
+  stroke-miterlimit: 10;
+}
+.SolarSystem .st13 {
+  fill: none;
+  stroke: #4d4d4d;
+  stroke-width: 0.245;
+  stroke-miterlimit: 10;
+}
+.SolarSystem .st14 {
+  fill: none;
+}

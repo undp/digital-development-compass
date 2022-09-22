@@ -469,7 +469,6 @@ def save_roll_csv(df):
     # Copying this file to the UI directory so that the dashboard re-builds/deploys with the new data.
     #roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
 
-
 def process_aggregated(headers, aggr_file):
     full_df = pd.read_csv(aggr_file)
     full_df["indicator_score"] = pd.Series(np.float64)
