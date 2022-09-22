@@ -15,7 +15,7 @@ def load_weights():
 
 def get_weight(pillar, sub_pillar, indicator):
     global weights
-    # print(pillar, sub_pillar, indicator)
+    #print(pillar, sub_pillar, indicator)
     val = weights.loc[(weights["Pillar"] == pillar) & (weights["Sub-Pillar"] == sub_pillar) & (weights[
         "Indicator"] == indicator), "Weight"].values[0]
     return val
@@ -365,9 +365,9 @@ def add_sources(df, source_file_name):
 def get_country_rank(pillar_df: pd.DataFrame):
     country_df = pillar_df.copy(deep=True)
     #############################################
-    un_filter = pillar_df["UN Member States"].isin(['x'])
+    un_filter = pillar_df["UN Member States"].isin(['x','y'])
     country_df = pillar_df.where(un_filter)
-    country_df = country_df.drop(['UN Member States'], axis=1)
+    #country_df = country_df.drop(['UN Member States'], axis=1)
 
     country_group = pillar_df.groupby(["Country Name"])
 
@@ -385,9 +385,18 @@ def get_country_rank(pillar_df: pd.DataFrame):
 
     country_df = country_df.drop_duplicates(["Country Name"], keep="first")
     country_df["Pillar"] = ""
-    #country_df["data_availability"] = ""
-    country_df["rank"] = country_df["new_rank_score"].rank(method="min", ascending=False)
 
+    #country_df["data_availability"] = ""
+    un_filter = country_df["UN Member States"].isin(['x'])
+    country_df1 = country_df.where(un_filter)
+    country_df1["rank"] = country_df1["new_rank_score"].rank(method="min", ascending=False)
+
+    country_df = country_df.drop(['UN Member States'], axis=1)
+
+    country_df1 = country_df1[["Country Name", "rank"]]
+    c = country_df.columns.difference(["rank"])
+    country_df = country_df[c].merge(country_df1, on=["Country Name"], how="left").reindex(columns=country_df.columns)
+    
     return country_df
 
 
@@ -437,7 +446,7 @@ def save_roll_csv(df):
 
     roll_df.to_csv("Processed/Full Data/full_output_rolling.csv", index=False)
     # Copying this file to the UI directory so that the dashboard re-builds/deploys with the new data.
-    # roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
+    #roll_df.to_csv("../ui/database/raw/scores.csv", index=False)
 
 
 def process_aggregated(headers, aggr_file):
