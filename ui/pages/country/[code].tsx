@@ -7,6 +7,7 @@ import { Toggle } from "components/toggle";
 import { db } from "database";
 import { ancillary } from "database/ancillary";
 import { Country, Definition } from "database/processed/db";
+import { isMemberState } from "lib";
 import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
 import { useState } from "react";
@@ -140,7 +141,8 @@ export default StaticPropsDetail;
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = db.countries
-    .filter((c) => Boolean(c["ISO-alpha3 Code"]) && c["unMember"])
+    .filter((c) => Boolean(c["ISO-alpha3 Code"]))
+    .filter(isMemberState)
     .map((datum) => ({
       params: { code: datum["ISO-alpha3 Code"] },
     }));

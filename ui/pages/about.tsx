@@ -5,7 +5,7 @@ import dynamic from "next/dynamic";
 import Layout from "components/Layout";
 import ScoreRing from "components/score-ring";
 import { groupBy } from "lodash";
-import { pillarColorMap, stageNames } from "lib";
+import { isMemberState, pillarColorMap, stageNames } from "lib";
 import Icons from "components/icons";
 import { Definition } from "database/processed/db";
 import { useEffect, useState } from "react";
@@ -4833,15 +4833,13 @@ const SolarSystem = ({
 };
 
 export const getStaticProps = async () => {
-  const countries = db.countries
-    .filter((c) => c.unMember)
-    .map((country) => {
-      return {
-        name: country["Country or Area"],
-        alpha2: country["ISO-alpha2 Code"],
-        alpha3: country["ISO-alpha3 Code"],
-      };
-    });
+  const countries = db.countries.filter(isMemberState).map((country) => {
+    return {
+      name: country["Country or Area"],
+      alpha2: country["ISO-alpha2 Code"],
+      alpha3: country["ISO-alpha3 Code"],
+    };
+  });
   const country = db.countries.find(
     (country) => country["Country or Area"] === "Ghana"
   );

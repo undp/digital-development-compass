@@ -1,7 +1,7 @@
 import { interpolateLab, scaleLinear } from "d3";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
-import type { BoundingBox } from "database/processed/db";
+import type { BoundingBox, Country } from "database/processed/db";
 import flattenDeep from "lodash/flattenDeep";
 
 interface PillarColorMap {
@@ -92,4 +92,8 @@ export function getOrdinal(n: number) {
   const s = ["th", "st", "nd", "rd"];
   const v = n % 100;
   return s[(v - 20) % 10] || s[v] || s[0];
+}
+
+export function isMemberState<T extends Country>(country: T) {
+  return country["unMember"] || country["ISO-alpha3 Code"] === "XKK";
 }

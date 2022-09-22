@@ -7,7 +7,7 @@ import { TableSettingsDialog } from "components/table-settings-dialog";
 import { scaleLinear } from "d3-scale";
 import { db } from "database";
 import { ancillary } from "database/ancillary";
-import { pillarColorMap } from "lib";
+import { isMemberState, pillarColorMap } from "lib";
 import get from "lodash/get";
 import orderBy from "lodash/orderBy";
 import partition from "lodash/partition";
@@ -685,20 +685,18 @@ const customSortFunctions: Record<
 };
 
 export const getStaticProps = async () => {
-  const data = db.countries
-    .filter((country) => country["unMember"])
-    .map((country) => {
-      return {
-        ...country,
-        name: country["Country or Area"],
-        alpha2: country["ISO-alpha2 Code"],
-        alpha3: country["ISO-alpha3 Code"],
-        region: country["Region Name"],
-        subregion: country["Sub-region Name"],
-        income: country["World Bank Income Level"],
-        scores: country.scores,
-      };
-    });
+  const data = db.countries.filter(isMemberState).map((country) => {
+    return {
+      ...country,
+      name: country["Country or Area"],
+      alpha2: country["ISO-alpha2 Code"],
+      alpha3: country["ISO-alpha3 Code"],
+      region: country["Region Name"],
+      subregion: country["Sub-region Name"],
+      income: country["World Bank Income Level"],
+      scores: country.scores,
+    };
+  });
 
   return {
     props: {
