@@ -45,7 +45,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://freedomhouse.org/sites/default/files/2021-09/FOTN_2021_Key_Internet_Controls.xlsx
+           http_url: https://freedomhouse.org/sites/default/files/2022-10/FOTN_2022_Key_Internet_Controls.xlsx
            downloaded_filename: data/number_key_internet_controls_employed.xlsx
            postprocess: ./process_raw_data.js
 
@@ -69,7 +69,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/population_internet_coverage_2g.xlsx
            postprocess: ./process_raw_data.js
 
@@ -77,7 +77,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/population_internet_coverage_3g.xlsx
            postprocess: ./process_raw_data.js
 
@@ -85,7 +85,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/population_internet_coverage_4g.xlsx
            postprocess: ./process_raw_data.js
 
@@ -93,7 +93,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/population_internet_coverage_5g.xlsx
            postprocess: ./process_raw_data.js
 
@@ -117,7 +117,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/spectrum_allocated_mobile_providers.xlsx
            postprocess: ./process_raw_data.js
 
@@ -141,7 +141,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/tax_percent_mobile_ownership.xlsx
            postprocess: ./process_raw_data.js
 
@@ -221,7 +221,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
+           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
            downloaded_filename: data/sdg_data.xlsx
            postprocess: ./process_raw_data.js
 
@@ -237,7 +237,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/a9e327cc-d63f-4e61-b13d-d1968ee018bf/download/county_country_aug2020.tsv
+           http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv
            downloaded_filename: data/fb_social_connectedness.tsv
            postprocess: ./process_raw_data.js
 
@@ -269,7 +269,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://happiness-report.s3.amazonaws.com/2021/DataForFigure2.1WHR2021C2.xls
+           http_url: https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls
            downloaded_filename: data/global_wellbeing_initiative.xlsx
            postprocess: ./process_raw_data.js
 
@@ -309,7 +309,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2020.xlsx
+           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
            downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
            postprocess: ./process_raw_data.js
 
@@ -445,7 +445,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR%202021%20-%20Database.xlsx
+           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
            downloaded_filename: data/sustainability_index.xlsx
            postprocess: ./process_raw_data.js
 
@@ -837,7 +837,7 @@ jobs:
         uses: githubocto/flat@v2
         if: always()
         with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_dataset_v202104.xlsx
+           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_rev2_Sept_2022.xlsx
            downloaded_filename: data/ITU_database.xlsx
            postprocess: ./process_raw_data.js
 
