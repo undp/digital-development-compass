@@ -1,194 +1,194 @@
 ,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-0,Iraq ,2020,E-Participation index,0.3095,2.5444050000000002,True,Digital Public Services
-1,Ireland ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-2,Israel ,2020,E-Participation index,0.7143,4.564357,True,Digital Public Services
-3,Italy ,2020,E-Participation index,0.8214,5.0987860000000005,True,Digital Public Services
-4,Jamaica ,2020,E-Participation index,0.369,2.84131,True,Digital Public Services
-5,Japan ,2020,E-Participation index,0.9881,5.930619,True,Digital Public Services
-6,Jordan ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-7,Kazakhstan ,2020,E-Participation index,0.881,5.39619,True,Digital Public Services
-8,Kenya ,2020,E-Participation index,0.5952,3.970048,True,Digital Public Services
-9,Kiribati ,2020,E-Participation index,0.5595,3.7919050000000003,True,Digital Public Services
-10,Kuwait ,2020,E-Participation index,0.9048,5.514952,True,Digital Public Services
-11,Kyrgyzstan ,2020,E-Participation index,0.7143,4.564357,True,Digital Public Services
-12,Lao People's Democratic Republic ,2020,E-Participation index,0.2143,2.069357,True,Digital Public Services
-13,Latvia ,2020,E-Participation index,0.5833,3.910667,True,Digital Public Services
-14,Lebanon ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-15,Lesotho ,2020,E-Participation index,0.3452,2.722548,True,Digital Public Services
-16,Liberia ,2020,E-Participation index,0.2381,2.1881190000000004,True,Digital Public Services
-17,Libya,2020,E-Participation index,0.0357,1.178143,True,Digital Public Services
-18,Liechtenstein,2020,E-Participation index,0.6071,4.029429,True,Digital Public Services
-19,Lithuania ,2020,E-Participation index,0.7381,4.683119,True,Digital Public Services
-20,Luxembourg,2020,E-Participation index,0.7024,4.504976,True,Digital Public Services
-21,Madagascar ,2020,E-Participation index,0.2976,2.485024,True,Digital Public Services
-22,Malawi ,2020,E-Participation index,0.4167,3.079333,True,Digital Public Services
-23,Malaysia,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-24,Maldives,2020,E-Participation index,0.4405,3.198095,True,Digital Public Services
-25,Mali ,2020,E-Participation index,0.3214,2.6037860000000004,True,Digital Public Services
-26,Malta ,2020,E-Participation index,0.8333,5.158167000000001,True,Digital Public Services
-27,Marshall Islands ,2020,E-Participation index,0.4286,3.138714,True,Digital Public Services
-28,Mauritania ,2020,E-Participation index,0.0952,1.4750480000000001,True,Digital Public Services
-29,Afghanistan,2020,E-Participation index,0.4643,3.316857,True,Digital Public Services
-30,Mauritius ,2020,E-Participation index,0.6429,4.208071,True,Digital Public Services
-31,Mexico ,2020,E-Participation index,0.8214,5.0987860000000005,True,Digital Public Services
-32,Micronesia (Federated States of) ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-33,Monaco ,2020,E-Participation index,0.369,2.84131,True,Digital Public Services
-34,Mongolia ,2020,E-Participation index,0.6071,4.029429,True,Digital Public Services
-35,Montenegro,2020,E-Participation index,0.5476,3.732524,True,Digital Public Services
-36,Albania ,2020,E-Participation index,0.8452,5.217548,True,Digital Public Services
-37,Algeria ,2020,E-Participation index,0.1548,1.772452,True,Digital Public Services
-38,Andorra ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-39,Angola ,2020,E-Participation index,0.4524,3.257476,True,Digital Public Services
-40,Antigua and Barbuda ,2020,E-Participation index,0.4881,3.435619,True,Digital Public Services
-41,Argentina ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-42,Armenia ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-43,Morocco ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-44,Mozambique ,2020,E-Participation index,0.5238,3.6137620000000004,True,Digital Public Services
-45,Myanmar ,2020,E-Participation index,0.2619,2.306881,True,Digital Public Services
-46,Namibia ,2020,E-Participation index,0.5,3.495,True,Digital Public Services
-47,Nauru ,2020,E-Participation index,0.2024,2.009976,True,Digital Public Services
-48,Dominica ,2020,E-Participation index,0.3571,2.781929,True,Digital Public Services
-49,Dominican Republic ,2020,E-Participation index,0.7738,4.861262,True,Digital Public Services
-50,Ecuador ,2020,E-Participation index,0.7976,4.980024,True,Digital Public Services
-51,Egypt ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-52,El Salvador ,2020,E-Participation index,0.6786,4.386214,True,Digital Public Services
-53,Equatorial Guinea ,2020,E-Participation index,0.0714,1.356286,True,Digital Public Services
-54,Eritrea ,2020,E-Participation index,0.0,1.0,True,Digital Public Services
-55,Estonia ,2020,E-Participation index,1.0,5.99,True,Digital Public Services
-56,Nepal ,2020,E-Participation index,0.369,2.84131,True,Digital Public Services
-57,Netherlands ,2020,E-Participation index,0.9643,5.811857000000001,True,Digital Public Services
-58,New Zealand ,2020,E-Participation index,0.9881,5.930619,True,Digital Public Services
-59,Nicaragua ,2020,E-Participation index,0.5238,3.6137620000000004,True,Digital Public Services
-60,Niger ,2020,E-Participation index,0.2976,2.485024,True,Digital Public Services
-61,Nigeria ,2020,E-Participation index,0.4881,3.435619,True,Digital Public Services
-62,Norway ,2020,E-Participation index,0.9048,5.514952,True,Digital Public Services
-63,Oman ,2020,E-Participation index,0.8333,5.158167000000001,True,Digital Public Services
-64,Pakistan ,2020,E-Participation index,0.5238,3.6137620000000004,True,Digital Public Services
-65,Palau ,2020,E-Participation index,0.3214,2.6037860000000004,True,Digital Public Services
-66,Panama ,2020,E-Participation index,0.5833,3.910667,True,Digital Public Services
-67,Papua New Guinea ,2020,E-Participation index,0.2143,2.069357,True,Digital Public Services
-68,Paraguay ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-69,Peru ,2020,E-Participation index,0.7619,4.801881,True,Digital Public Services
-70,Philippines ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-71,Poland ,2020,E-Participation index,0.9643,5.811857000000001,True,Digital Public Services
-72,Portugal ,2020,E-Participation index,0.8214,5.0987860000000005,True,Digital Public Services
-73,Qatar ,2020,E-Participation index,0.6548,4.2674520000000005,True,Digital Public Services
-74,Republic of Korea ,2020,E-Participation index,1.0,5.99,True,Digital Public Services
-75,Republic of Moldova ,2020,E-Participation index,0.7619,4.801881,True,Digital Public Services
-76,Romania ,2020,E-Participation index,0.8095,5.039405,True,Digital Public Services
-77,Russian Federation ,2020,E-Participation index,0.869,5.33631,True,Digital Public Services
-78,Australia ,2020,E-Participation index,0.9643,5.811857000000001,True,Digital Public Services
-79,Austria,2020,E-Participation index,0.9762,5.871238,True,Digital Public Services
-80,Azerbaijan ,2020,E-Participation index,0.6905,4.445595,True,Digital Public Services
-81,Bahamas ,2020,E-Participation index,0.619,4.0888100000000005,True,Digital Public Services
-82,Chad ,2020,E-Participation index,0.2619,2.306881,True,Digital Public Services
-83,Chile ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-84,China ,2020,E-Participation index,0.9643,5.811857000000001,True,Digital Public Services
-85,Bahrain ,2020,E-Participation index,0.7738,4.861262,True,Digital Public Services
-86,Bangladesh ,2020,E-Participation index,0.5714,3.8512860000000004,True,Digital Public Services
-87,Barbados ,2020,E-Participation index,0.5952,3.970048,True,Digital Public Services
-88,Belarus ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-89,Belgium ,2020,E-Participation index,0.6548,4.2674520000000005,True,Digital Public Services
-90,Belize ,2020,E-Participation index,0.2976,2.485024,True,Digital Public Services
-91,Benin ,2020,E-Participation index,0.5476,3.732524,True,Digital Public Services
-92,Bhutan ,2020,E-Participation index,0.631,4.14869,True,Digital Public Services
-93,Bolivia ,2020,E-Participation index,0.5952,3.970048,True,Digital Public Services
-94,Bosnia and Herzegovina ,2020,E-Participation index,0.6071,4.029429,True,Digital Public Services
-95,Botswana ,2020,E-Participation index,0.369,2.84131,True,Digital Public Services
-96,Djibouti ,2020,E-Participation index,0.2143,2.069357,True,Digital Public Services
-97,Brazil ,2020,E-Participation index,0.9048,5.514952,True,Digital Public Services
-98,Brunei Darussalam ,2020,E-Participation index,0.5476,3.732524,True,Digital Public Services
-99,Bulgaria ,2020,E-Participation index,0.8929,5.455571,True,Digital Public Services
-100,Burkina Faso ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-101,Burundi ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-102,Cambodia ,2020,E-Participation index,0.4167,3.079333,True,Digital Public Services
-103,Cameroon ,2020,E-Participation index,0.4167,3.079333,True,Digital Public Services
-104,Canada ,2020,E-Participation index,0.9405,5.6930950000000005,True,Digital Public Services
-105,Cabo Verde ,2020,E-Participation index,0.4167,3.079333,True,Digital Public Services
-106,Central African Republic ,2020,E-Participation index,0.1429,1.713071,True,Digital Public Services
-107,Colombia ,2020,E-Participation index,0.869,5.33631,True,Digital Public Services
-108,Comoros ,2020,E-Participation index,0.119,1.59381,True,Digital Public Services
-109,Congo ,2020,E-Participation index,0.2738,2.366262,True,Digital Public Services
-110,Costa Rica ,2020,E-Participation index,0.6548,4.2674520000000005,True,Digital Public Services
-111,Côte d'Ivoire ,2020,E-Participation index,0.4048,3.019952,True,Digital Public Services
-112,Croatia ,2020,E-Participation index,0.8929,5.455571,True,Digital Public Services
-113,Cuba ,2020,E-Participation index,0.3571,2.781929,True,Digital Public Services
-114,Cyprus ,2020,E-Participation index,0.9524,5.752476000000001,True,Digital Public Services
-115,Czech Republic ,2020,E-Participation index,0.7262,4.6237379999999995,True,Digital Public Services
-116,Democratic People's Republic of Korea ,2020,E-Participation index,0.0357,1.178143,True,Digital Public Services
-117,Democratic Republic of the Congo ,2020,E-Participation index,0.2024,2.009976,True,Digital Public Services
-118,Denmark ,2020,E-Participation index,0.9643,5.811857000000001,True,Digital Public Services
-119,Ethiopia ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-120,Fiji ,2020,E-Participation index,0.4643,3.316857,True,Digital Public Services
-121,Finland ,2020,E-Participation index,0.9524,5.752476000000001,True,Digital Public Services
-122,Guinea-Bissau ,2020,E-Participation index,0.0833,1.415667,True,Digital Public Services
-123,Guyana ,2020,E-Participation index,0.4524,3.257476,True,Digital Public Services
-124,Spain ,2020,E-Participation index,0.8452,5.217548,True,Digital Public Services
-125,Sierra Leone ,2020,E-Participation index,0.3929,2.9605710000000003,True,Digital Public Services
-126,France,2020,E-Participation index,0.9048,5.514952,True,Digital Public Services
-127,Gabon ,2020,E-Participation index,0.2738,2.366262,True,Digital Public Services
-128,Gambia ,2020,E-Participation index,0.0357,1.178143,True,Digital Public Services
-129,Georgia (Country),2020,E-Participation index,0.6429,4.208071,True,Digital Public Services
-130,Germany ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-131,Ghana ,2020,E-Participation index,0.631,4.14869,True,Digital Public Services
-132,Greece ,2020,E-Participation index,0.7857,4.920643,True,Digital Public Services
-133,Grenada ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-134,Guatemala ,2020,E-Participation index,0.5,3.495,True,Digital Public Services
-135,Guinea ,2020,E-Participation index,0.3095,2.5444050000000002,True,Digital Public Services
-136,Haiti ,2020,E-Participation index,0.2262,2.1287380000000002,True,Digital Public Services
-137,Honduras ,2020,E-Participation index,0.4881,3.435619,True,Digital Public Services
-138,Hungary ,2020,E-Participation index,0.6786,4.386214,True,Digital Public Services
-139,Iceland ,2020,E-Participation index,0.7738,4.861262,True,Digital Public Services
-140,India ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-141,Indonesia ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-142,Iran (Islamic Republic of) ,2020,E-Participation index,0.4643,3.316857,True,Digital Public Services
-143,Slovenia ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-144,Solomon Islands ,2020,E-Participation index,0.3214,2.6037860000000004,True,Digital Public Services
-145,Somalia ,2020,E-Participation index,0.3571,2.781929,True,Digital Public Services
-146,South Africa ,2020,E-Participation index,0.75,4.7425,True,Digital Public Services
-147,Sri Lanka ,2020,E-Participation index,0.7143,4.564357,True,Digital Public Services
-148,Sudan ,2020,E-Participation index,0.2143,2.069357,True,Digital Public Services
-149,Suriname ,2020,E-Participation index,0.25,2.2475,True,Digital Public Services
-150,Eswatini,2020,E-Participation index,0.4524,3.257476,True,Digital Public Services
-151,Uzbekistan ,2020,E-Participation index,0.8095,5.039405,True,Digital Public Services
-152,Vanuatu ,2020,E-Participation index,0.3929,2.9605710000000003,True,Digital Public Services
-153,Venezuela ,2020,E-Participation index,0.2381,2.1881190000000004,True,Digital Public Services
-154,Viet Nam ,2020,E-Participation index,0.7024,4.504976,True,Digital Public Services
-155,Sweden ,2020,E-Participation index,0.8214,5.0987860000000005,True,Digital Public Services
-156,Switzerland ,2020,E-Participation index,0.9048,5.514952,True,Digital Public Services
-157,Syrian Arab Republic ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-158,Tajikistan ,2020,E-Participation index,0.3452,2.722548,True,Digital Public Services
-159,Thailand ,2020,E-Participation index,0.7738,4.861262,True,Digital Public Services
-160,North Macedonia,2020,E-Participation index,0.8333,5.158167000000001,True,Digital Public Services
-161,Timor-Leste,2020,E-Participation index,0.4881,3.435619,True,Digital Public Services
-162,Togo ,2020,E-Participation index,0.5119,3.5543810000000002,True,Digital Public Services
-163,Tonga ,2020,E-Participation index,0.369,2.84131,True,Digital Public Services
-164,Trinidad and Tobago ,2020,E-Participation index,0.619,4.0888100000000005,True,Digital Public Services
-165,Tunisia ,2020,E-Participation index,0.6905,4.445595,True,Digital Public Services
-166,Turkey ,2020,E-Participation index,0.8929,5.455571,True,Digital Public Services
-167,Turkmenistan ,2020,E-Participation index,0.2024,2.009976,True,Digital Public Services
-168,Tuvalu ,2020,E-Participation index,0.3571,2.781929,True,Digital Public Services
-169,Uganda ,2020,E-Participation index,0.5714,3.8512860000000004,True,Digital Public Services
-170,Ukraine,2020,E-Participation index,0.8095,5.039405,True,Digital Public Services
-171,United Arab Emirates ,2020,E-Participation index,0.9405,5.6930950000000005,True,Digital Public Services
-172,United Kingdom of Great Britain and Northern Ireland,2020,E-Participation index,0.9762,5.871238,True,Digital Public Services
-173,United Republic of Tanzania ,2020,E-Participation index,0.5595,3.7919050000000003,True,Digital Public Services
-174,United States of America ,2020,E-Participation index,1.0,5.99,True,Digital Public Services
-175,Uruguay ,2020,E-Participation index,0.8571,5.276929,True,Digital Public Services
-176,Yemen ,2020,E-Participation index,0.3095,2.5444050000000002,True,Digital Public Services
-177,Zambia ,2020,E-Participation index,0.3095,2.5444050000000002,True,Digital Public Services
-178,Zimbabwe ,2020,E-Participation index,0.4524,3.257476,True,Digital Public Services
-179,South Sudan,2020,E-Participation index,0.0238,1.118762,True,Digital Public Services
-180,Rwanda ,2020,E-Participation index,0.631,4.14869,True,Digital Public Services
-181,Saint Kitts and Nevis ,2020,E-Participation index,0.3333,2.663167,True,Digital Public Services
-182,Saint Lucia ,2020,E-Participation index,0.3929,2.9605710000000003,True,Digital Public Services
-183,Saint Vincent and the Grenadines ,2020,E-Participation index,0.4643,3.316857,True,Digital Public Services
-184,Samoa ,2020,E-Participation index,0.25,2.2475,True,Digital Public Services
-185,San Marino ,2020,E-Participation index,0.3095,2.5444050000000002,True,Digital Public Services
-186,Sao Tome and Principe ,2020,E-Participation index,0.2024,2.009976,True,Digital Public Services
-187,Saudi Arabia ,2020,E-Participation index,0.7143,4.564357,True,Digital Public Services
-188,Senegal ,2020,E-Participation index,0.4405,3.198095,True,Digital Public Services
-189,Serbia,2020,E-Participation index,0.8214,5.0987860000000005,True,Digital Public Services
-190,Seychelles ,2020,E-Participation index,0.5714,3.8512860000000004,True,Digital Public Services
-191,Singapore ,2020,E-Participation index,0.9762,5.871238,True,Digital Public Services
-192,Slovakia ,2020,E-Participation index,0.7024,4.504976,True,Digital Public Services
+0,Iraq ,2022,E-Participation index,0.21590,2.5444050000000000,TRUE,Digital Public Services
+1,Ireland ,2022,E-Participation index,0.68180,5.276929,TRUE,Digital Public Services
+2,Israel ,2022,E-Participation index,0.71590,4.564357,TRUE,Digital Public Services
+3,Italy ,2022,E-Participation index,0.72730,5.0987860000000000,TRUE,Digital Public Services
+4,Jamaica ,2022,E-Participation index,0.28410,2.84131,TRUE,Digital Public Services
+5,Japan ,2022,E-Participation index,1.00000,5.930619,TRUE,Digital Public Services
+6,Jordan ,2022,E-Participation index,0.54550,2.663167,TRUE,Digital Public Services
+7,Kazakhstan ,2022,E-Participation index,0.80680,5.39619,TRUE,Digital Public Services
+8,Kenya ,2022,E-Participation index,0.57950,3.970048,TRUE,Digital Public Services
+9,Kiribati ,2022,E-Participation index,0.29550,3.7919050000000000,TRUE,Digital Public Services
+10,Kuwait ,2022,E-Participation index,0.54550,5.514952,TRUE,Digital Public Services
+11,Kyrgyzstan ,2022,E-Participation index,0.50000,4.564357,TRUE,Digital Public Services
+12,Lao People's Democratic Republic ,2022,E-Participation index,0.26140,2.069357,TRUE,Digital Public Services
+13,Latvia ,2022,E-Participation index,0.73860,3.910667,TRUE,Digital Public Services
+14,Lebanon ,2022,E-Participation index,0.39770,2.663167,TRUE,Digital Public Services
+15,Lesotho ,2022,E-Participation index,0.30680,2.722548,TRUE,Digital Public Services
+16,Liberia ,2022,E-Participation index,0.29550,2.1881190000000000,TRUE,Digital Public Services
+17,Libya,2022,E-Participation index,0.03410,1.178143,TRUE,Digital Public Services
+18,Liechtenstein,2022,E-Participation index,0.54550,4.029429,TRUE,Digital Public Services
+19,Lithuania ,2022,E-Participation index,0.54550,4.683119,TRUE,Digital Public Services
+20,Luxembourg,2022,E-Participation index,0.75000,4.504976,TRUE,Digital Public Services
+21,Madagascar ,2022,E-Participation index,0.28410,2.485024,TRUE,Digital Public Services
+22,Malawi ,2022,E-Participation index,0.37500,3.079333,TRUE,Digital Public Services
+23,Malaysia,2022,E-Participation index,0.68180,5.276929,TRUE,Digital Public Services
+24,Maldives,2022,E-Participation index,0.30680,3.198095,TRUE,Digital Public Services
+25,Mali ,2022,E-Participation index,0.27270,2.6037860000000000,TRUE,Digital Public Services
+26,Malta ,2022,E-Participation index,0.76140,5.158167000000000,TRUE,Digital Public Services
+27,Marshall Islands ,2022,E-Participation index,0.26140,3.138714,TRUE,Digital Public Services
+28,Mauritania ,2022,E-Participation index,0.02270,1.4750480000000000,TRUE,Digital Public Services
+29,Afghanistan,2022,E-Participation index,0.19320,3.316857,TRUE,Digital Public Services
+30,Mauritius ,2022,E-Participation index,0.42050,4.208071,TRUE,Digital Public Services
+31,Mexico ,2022,E-Participation index,0.72730,5.0987860000000000,TRUE,Digital Public Services
+32,Micronesia (Federated States of) ,2022,E-Participation index,0.21590,2.663167,TRUE,Digital Public Services
+33,Monaco ,2022,E-Participation index,0.13640,2.84131,TRUE,Digital Public Services
+34,Mongolia ,2022,E-Participation index,0.60230,4.029429,TRUE,Digital Public Services
+35,Montenegro,2022,E-Participation index,0.46590,3.732524,TRUE,Digital Public Services
+36,Albania ,2022,E-Participation index,0.76140,5.217548,TRUE,Digital Public Services
+37,Algeria ,2022,E-Participation index,0.22730,1.772452,TRUE,Digital Public Services
+38,Andorra ,2022,E-Participation index,0.37500,3.5543810000000000,TRUE,Digital Public Services
+39,Angola ,2022,E-Participation index,0.17050,3.257476,TRUE,Digital Public Services
+40,Antigua and Barbuda ,2022,E-Participation index,0.42050,3.435619,TRUE,Digital Public Services
+41,Argentina ,2022,E-Participation index,0.64770,5.276929,TRUE,Digital Public Services
+42,Armenia ,2022,E-Participation index,0.57950,4.7425,TRUE,Digital Public Services
+43,Morocco ,2022,E-Participation index,0.27270,3.5543810000000000,TRUE,Digital Public Services
+44,Mozambique ,2022,E-Participation index,0.19320,3.6137620000000000,TRUE,Digital Public Services
+45,Myanmar ,2022,E-Participation index,0.30680,2.306881,TRUE,Digital Public Services
+46,Namibia ,2022,E-Participation index,0.25000,3.495,TRUE,Digital Public Services
+47,Nauru ,2022,E-Participation index,0.25000,2.009976,TRUE,Digital Public Services
+48,Dominica ,2022,E-Participation index,0.09090,2.781929,TRUE,Digital Public Services
+49,Dominican Republic ,2022,E-Participation index,0.45450,4.861262,TRUE,Digital Public Services
+50,Ecuador ,2022,E-Participation index,0.70450,4.980024,TRUE,Digital Public Services
+51,Egypt ,2022,E-Participation index,0.35230,3.5543810000000000,TRUE,Digital Public Services
+52,El Salvador ,2022,E-Participation index,0.35230,4.386214,TRUE,Digital Public Services
+53,Equatorial Guinea ,2022,E-Participation index,0.15910,1.356286,TRUE,Digital Public Services
+54,Eritrea ,2022,E-Participation index,0.02270,1.0,TRUE,Digital Public Services
+55,Estonia ,2022,E-Participation index,0.97730,5.99,TRUE,Digital Public Services
+56,Nepal ,2022,E-Participation index,0.23860,2.84131,TRUE,Digital Public Services
+57,Netherlands ,2022,E-Participation index,0.96590,5.811857000000000,TRUE,Digital Public Services
+58,New Zealand ,2022,E-Participation index,0.95450,5.930619,TRUE,Digital Public Services
+59,Nicaragua ,2022,E-Participation index,0.25000,3.6137620000000000,TRUE,Digital Public Services
+60,Niger ,2022,E-Participation index,0.25000,2.485024,TRUE,Digital Public Services
+61,Nigeria ,2022,E-Participation index,0.30680,3.435619,TRUE,Digital Public Services
+62,Norway ,2022,E-Participation index,0.69320,5.514952,TRUE,Digital Public Services
+63,Oman ,2022,E-Participation index,0.65910,5.158167000000000,TRUE,Digital Public Services
+64,Pakistan ,2022,E-Participation index,0.36360,3.6137620000000000,TRUE,Digital Public Services
+65,Palau ,2022,E-Participation index,0.22730,2.6037860000000000,TRUE,Digital Public Services
+66,Panama ,2022,E-Participation index,0.51140,3.910667,TRUE,Digital Public Services
+67,Papua New Guinea ,2022,E-Participation index,0.17050,2.069357,TRUE,Digital Public Services
+68,Paraguay ,2022,E-Participation index,0.51140,4.7425,TRUE,Digital Public Services
+69,Peru ,2022,E-Participation index,0.76140,4.801881,TRUE,Digital Public Services
+70,Philippines ,2022,E-Participation index,0.48860,4.7425,TRUE,Digital Public Services
+71,Poland ,2022,E-Participation index,0.64770,5.811857000000000,TRUE,Digital Public Services
+72,Portugal ,2022,E-Participation index,0.72730,5.0987860000000000,TRUE,Digital Public Services
+73,Qatar ,2022,E-Participation index,0.37500,4.2674520000000000,TRUE,Digital Public Services
+74,Republic of Korea ,2022,E-Participation index,0.94320,5.99,TRUE,Digital Public Services
+75,Republic of Moldova ,2022,E-Participation index,0.68180,4.801881,TRUE,Digital Public Services
+76,Romania ,2022,E-Participation index,0.62500,5.039405,TRUE,Digital Public Services
+77,Russian Federation ,2022,E-Participation index,0.60230,5.33631,TRUE,Digital Public Services
+78,Australia ,2022,E-Participation index,0.98860,5.811857000000000,TRUE,Digital Public Services
+79,Austria,2022,E-Participation index,0.77270,5.871238,TRUE,Digital Public Services
+80,Azerbaijan ,2022,E-Participation index,0.38640,4.445595,TRUE,Digital Public Services
+81,Bahamas ,2022,E-Participation index,0.39770,4.0888100000000000,TRUE,Digital Public Services
+82,Chad ,2022,E-Participation index,0.31820,2.306881,TRUE,Digital Public Services
+83,Chile ,2022,E-Participation index,0.69320,5.276929,TRUE,Digital Public Services
+84,China ,2022,E-Participation index,0.86360,5.811857000000000,TRUE,Digital Public Services
+85,Bahrain ,2022,E-Participation index,0.44320,4.861262,TRUE,Digital Public Services
+86,Bangladesh ,2022,E-Participation index,0.52270,3.8512860000000000,TRUE,Digital Public Services
+87,Barbados ,2022,E-Participation index,0.39770,3.970048,TRUE,Digital Public Services
+88,Belarus ,2022,E-Participation index,0.43180,4.7425,TRUE,Digital Public Services
+89,Belgium ,2022,E-Participation index,0.45450,4.2674520000000000,TRUE,Digital Public Services
+90,Belize ,2022,E-Participation index,0.20450,2.485024,TRUE,Digital Public Services
+91,Benin ,2022,E-Participation index,0.34090,3.732524,TRUE,Digital Public Services
+92,Bhutan ,2022,E-Participation index,0.46590,4.14869,TRUE,Digital Public Services
+93,Bolivia ,2022,E-Participation index,0.31820,3.970048,TRUE,Digital Public Services
+94,Bosnia and Herzegovina ,2022,E-Participation index,0.53410,4.029429,TRUE,Digital Public Services
+95,Botswana ,2022,E-Participation index,0.17050,2.84131,TRUE,Digital Public Services
+96,Djibouti ,2022,E-Participation index,0.11360,2.069357,TRUE,Digital Public Services
+97,Brazil ,2022,E-Participation index,0.89770,5.514952,TRUE,Digital Public Services
+98,Brunei Darussalam ,2022,E-Participation index,0.47730,3.732524,TRUE,Digital Public Services
+99,Bulgaria ,2022,E-Participation index,0.73860,5.455571,TRUE,Digital Public Services
+100,Burkina Faso ,2022,E-Participation index,0.22730,3.5543810000000000,TRUE,Digital Public Services
+101,Burundi ,2022,E-Participation index,0.34090,2.663167,TRUE,Digital Public Services
+102,Cambodia ,2022,E-Participation index,0.28410,3.079333,TRUE,Digital Public Services
+103,Cameroon ,2022,E-Participation index,0.28410,3.079333,TRUE,Digital Public Services
+104,Canada ,2022,E-Participation index,0.82950,5.6930950000000000,TRUE,Digital Public Services
+105,Cabo Verde ,2022,E-Participation index,0.25000,3.079333,TRUE,Digital Public Services
+106,Central African Republic ,2022,E-Participation index,0.13640,1.713071,TRUE,Digital Public Services
+107,Colombia ,2022,E-Participation index,0.71590,5.33631,TRUE,Digital Public Services
+108,Comoros ,2022,E-Participation index,0.01140,1.59381,TRUE,Digital Public Services
+109,Congo ,2022,E-Participation index,0.23860,2.366262,TRUE,Digital Public Services
+110,Costa Rica ,2022,E-Participation index,0.55680,4.2674520000000000,TRUE,Digital Public Services
+111,Côte d'Ivoire ,2022,E-Participation index,0.37500,3.019952,TRUE,Digital Public Services
+112,Croatia ,2022,E-Participation index,0.73860,5.455571,TRUE,Digital Public Services
+113,Cuba ,2022,E-Participation index,0.13640,2.781929,TRUE,Digital Public Services
+114,Cyprus ,2022,E-Participation index,0.75000,5.752476000000000,TRUE,Digital Public Services
+115,Czech Republic ,2022,E-Participation index,0.60230,4.6237380000000000,TRUE,Digital Public Services
+116,Democratic People's Republic of Korea ,2022,E-Participation index,0.05680,1.178143,TRUE,Digital Public Services
+117,Democratic Republic of the Congo ,2022,E-Participation index,0.25000,2.009976,TRUE,Digital Public Services
+118,Denmark ,2022,E-Participation index,0.88640,5.811857000000000,TRUE,Digital Public Services
+119,Ethiopia ,2022,E-Participation index,0.19320,2.663167,TRUE,Digital Public Services
+120,Fiji ,2022,E-Participation index,0.23860,3.316857,TRUE,Digital Public Services
+121,Finland ,2022,E-Participation index,0.95450,5.752476000000000,TRUE,Digital Public Services
+122,Guinea-Bissau ,2022,E-Participation index,0.07950,1.415667,TRUE,Digital Public Services
+123,Guyana ,2022,E-Participation index,0.21590,3.257476,TRUE,Digital Public Services
+124,Spain ,2022,E-Participation index,0.75000,5.217548,TRUE,Digital Public Services
+125,Sierra Leone ,2022,E-Participation index,0.20450,2.9605710000000000,TRUE,Digital Public Services
+126,France,2022,E-Participation index,0.71590,5.514952,TRUE,Digital Public Services
+127,Gabon ,2022,E-Participation index,0.20450,2.366262,TRUE,Digital Public Services
+128,Gambia ,2022,E-Participation index,0.23860,1.178143,TRUE,Digital Public Services
+129,Georgia (Country),2022,E-Participation index,0.53410,4.208071,TRUE,Digital Public Services
+130,Germany ,2022,E-Participation index,0.72730,4.7425,TRUE,Digital Public Services
+131,Ghana ,2022,E-Participation index,0.45450,4.14869,TRUE,Digital Public Services
+132,Greece ,2022,E-Participation index,0.61360,4.920643,TRUE,Digital Public Services
+133,Grenada ,2022,E-Participation index,0.20450,2.663167,TRUE,Digital Public Services
+134,Guatemala ,2022,E-Participation index,0.32950,3.495,TRUE,Digital Public Services
+135,Guinea ,2022,E-Participation index,0.28410,2.5444050000000000,TRUE,Digital Public Services
+136,Haiti ,2022,E-Participation index,0.10230,2.1287380000000000,TRUE,Digital Public Services
+137,Honduras ,2022,E-Participation index,0.10230,3.435619,TRUE,Digital Public Services
+138,Hungary ,2022,E-Participation index,0.51140,4.386214,TRUE,Digital Public Services
+139,Iceland ,2022,E-Participation index,0.79550,4.861262,TRUE,Digital Public Services
+140,India ,2022,E-Participation index,0.59090,5.276929,TRUE,Digital Public Services
+141,Indonesia ,2022,E-Participation index,0.71590,4.7425,TRUE,Digital Public Services
+142,Iran (Islamic Republic of) ,2022,E-Participation index,0.18180,3.316857,TRUE,Digital Public Services
+143,Slovenia ,2022,E-Participation index,0.75000,5.276929,TRUE,Digital Public Services
+144,Solomon Islands ,2022,E-Participation index,0.21590,2.6037860000000000,TRUE,Digital Public Services
+145,Somalia ,2022,E-Participation index,0.25000,2.781929,TRUE,Digital Public Services
+146,South Africa ,2022,E-Participation index,0.59090,4.7425,TRUE,Digital Public Services
+147,Sri Lanka ,2022,E-Participation index,0.35230,4.564357,TRUE,Digital Public Services
+148,Sudan ,2022,E-Participation index,0.04550,2.069357,TRUE,Digital Public Services
+149,Suriname ,2022,E-Participation index,0.20450,2.2475,TRUE,Digital Public Services
+150,Eswatini,2022,E-Participation index,0.14770,3.257476,TRUE,Digital Public Services
+151,Uzbekistan ,2022,E-Participation index,0.61360,5.039405,TRUE,Digital Public Services
+152,Vanuatu ,2022,E-Participation index,0.34090,2.9605710000000000,TRUE,Digital Public Services
+153,Venezuela ,2022,E-Participation index,0.12500,2.1881190000000000,TRUE,Digital Public Services
+154,Viet Nam ,2022,E-Participation index,0.53410,4.504976,TRUE,Digital Public Services
+155,Sweden ,2022,E-Participation index,0.72730,5.0987860000000000,TRUE,Digital Public Services
+156,Switzerland ,2022,E-Participation index,0.70450,5.514952,TRUE,Digital Public Services
+157,Syrian Arab Republic ,2022,E-Participation index,0.06820,3.5543810000000000,TRUE,Digital Public Services
+158,Tajikistan ,2022,E-Participation index,0.25000,2.722548,TRUE,Digital Public Services
+159,Thailand ,2022,E-Participation index,0.78410,4.861262,TRUE,Digital Public Services
+160,North Macedonia,2022,E-Participation index,0.69320,5.158167000000000,TRUE,Digital Public Services
+161,Timor-Leste,2022,E-Participation index,0.47730,3.435619,TRUE,Digital Public Services
+162,Togo ,2022,E-Participation index,0.38640,3.5543810000000000,TRUE,Digital Public Services
+163,Tonga ,2022,E-Participation index,0.26140,2.84131,TRUE,Digital Public Services
+164,Trinidad and Tobago ,2022,E-Participation index,0.23860,4.0888100000000000,TRUE,Digital Public Services
+165,Tunisia ,2022,E-Participation index,0.54550,4.445595,TRUE,Digital Public Services
+166,Turkey ,2022,E-Participation index,0.78410,5.455571,TRUE,Digital Public Services
+167,Turkmenistan ,2022,E-Participation index,0.10230,2.009976,TRUE,Digital Public Services
+168,Tuvalu ,2022,E-Participation index,0.17050,2.781929,TRUE,Digital Public Services
+169,Uganda ,2022,E-Participation index,0.40910,3.8512860000000000,TRUE,Digital Public Services
+170,Ukraine,2022,E-Participation index,0.60230,5.039405,TRUE,Digital Public Services
+171,United Arab Emirates ,2022,E-Participation index,0.78410,5.6930950000000000,TRUE,Digital Public Services
+172,United Kingdom of Great Britain and Northern Ireland,2022,E-Participation index,0.95450,5.871238,TRUE,Digital Public Services
+173,United Republic of Tanzania ,2022,E-Participation index,0.27270,3.7919050000000000,TRUE,Digital Public Services
+174,United States of America ,2022,E-Participation index,0.90910,5.99,TRUE,Digital Public Services
+175,Uruguay ,2022,E-Participation index,0.59090,5.276929,TRUE,Digital Public Services
+176,Yemen ,2022,E-Participation index,0.19320,2.5444050000000000,TRUE,Digital Public Services
+177,Zambia ,2022,E-Participation index,0.37500,2.5444050000000000,TRUE,Digital Public Services
+178,Zimbabwe ,2022,E-Participation index,0.22730,3.257476,TRUE,Digital Public Services
+179,South Sudan,2022,E-Participation index,0.00000,1.118762,TRUE,Digital Public Services
+180,Rwanda ,2022,E-Participation index,0.63640,4.14869,TRUE,Digital Public Services
+181,Saint Kitts and Nevis ,2022,E-Participation index,0.20450,2.663167,TRUE,Digital Public Services
+182,Saint Lucia ,2022,E-Participation index,0.40910,2.9605710000000000,TRUE,Digital Public Services
+183,Saint Vincent and the Grenadines ,2022,E-Participation index,0.38640,3.316857,TRUE,Digital Public Services
+184,Samoa ,2022,E-Participation index,0.27270,2.2475,TRUE,Digital Public Services
+185,San Marino ,2022,E-Participation index,0.17050,2.5444050000000000,TRUE,Digital Public Services
+186,Sao Tome and Principe ,2022,E-Participation index,0.04550,2.009976,TRUE,Digital Public Services
+187,Saudi Arabia ,2022,E-Participation index,0.69320,4.564357,TRUE,Digital Public Services
+188,Senegal ,2022,E-Participation index,0.34090,3.198095,TRUE,Digital Public Services
+189,Serbia,2022,E-Participation index,0.80680,5.0987860000000000,TRUE,Digital Public Services
+190,Seychelles ,2022,E-Participation index,0.22730,3.8512860000000000,TRUE,Digital Public Services
+191,Singapore ,2022,E-Participation index,0.97730,5.871238,TRUE,Digital Public Services
+192,Slovakia ,2022,E-Participation index,0.46590,4.504976,TRUE,Digital Public Services

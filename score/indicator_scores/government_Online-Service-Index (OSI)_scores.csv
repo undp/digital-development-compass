@@ -1,194 +1,194 @@
 ,Country Name,Year,Indicator,data_col,new_rank_score,higher_is_better,Sub-Pillar
-0,Iraq ,2020,Online-Service-Index (OSI),0.3353,2.673147,True,Digital Public Services
-1,Ireland ,2020,Online-Service-Index (OSI),0.7706,4.845294,True,Digital Public Services
-2,Israel ,2020,Online-Service-Index (OSI),0.7471,4.728029,True,Digital Public Services
-3,Italy ,2020,Online-Service-Index (OSI),0.8294,5.138706,True,Digital Public Services
-4,Jamaica ,2020,Online-Service-Index (OSI),0.3882,2.937118,True,Digital Public Services
-5,Japan ,2020,Online-Service-Index (OSI),0.9059,5.520441000000001,True,Digital Public Services
-6,Jordan ,2020,Online-Service-Index (OSI),0.3588,2.790412,True,Digital Public Services
-7,Kazakhstan ,2020,Online-Service-Index (OSI),0.9235,5.608265,True,Digital Public Services
-8,Kenya ,2020,Online-Service-Index (OSI),0.6765,4.375735000000001,True,Digital Public Services
-9,Kiribati ,2020,Online-Service-Index (OSI),0.4941,3.465559,True,Digital Public Services
-10,Kuwait ,2020,Online-Service-Index (OSI),0.8412,5.197588,True,Digital Public Services
-11,Kyrgyzstan ,2020,Online-Service-Index (OSI),0.6471,4.229029000000001,True,Digital Public Services
-12,Lao People's Democratic Republic ,2020,Online-Service-Index (OSI),0.1941,1.968559,True,Digital Public Services
-13,Latvia ,2020,Online-Service-Index (OSI),0.5824,3.9061760000000003,True,Digital Public Services
-14,Lebanon ,2020,Online-Service-Index (OSI),0.4176,3.0838240000000003,True,Digital Public Services
-15,Lesotho ,2020,Online-Service-Index (OSI),0.3529,2.760971,True,Digital Public Services
-16,Liberia ,2020,Online-Service-Index (OSI),0.2471,2.233029,True,Digital Public Services
-17,Libya,2020,Online-Service-Index (OSI),0.0412,1.205588,True,Digital Public Services
-18,Liechtenstein,2020,Online-Service-Index (OSI),0.6588,4.287412,True,Digital Public Services
-19,Lithuania ,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-20,Luxembourg,2020,Online-Service-Index (OSI),0.7647,4.815853000000001,True,Digital Public Services
-21,Madagascar ,2020,Online-Service-Index (OSI),0.2882,2.4381180000000002,True,Digital Public Services
-22,Malawi ,2020,Online-Service-Index (OSI),0.4235,3.113265,True,Digital Public Services
-23,Malaysia,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-24,Maldives,2020,Online-Service-Index (OSI),0.4353,3.1721470000000003,True,Digital Public Services
-25,Mali ,2020,Online-Service-Index (OSI),0.3471,2.7320290000000003,True,Digital Public Services
-26,Malta ,2020,Online-Service-Index (OSI),0.8118,5.050882,True,Digital Public Services
-27,Marshall Islands ,2020,Online-Service-Index (OSI),0.3412,2.702588,True,Digital Public Services
-28,Mauritania ,2020,Online-Service-Index (OSI),0.1,1.499,True,Digital Public Services
-29,Afghanistan,2020,Online-Service-Index (OSI),0.4118,3.054882,True,Digital Public Services
-30,Mauritius ,2020,Online-Service-Index (OSI),0.7,4.493,True,Digital Public Services
-31,Mexico ,2020,Online-Service-Index (OSI),0.8235,5.109265000000001,True,Digital Public Services
-32,Micronesia (Federated States of) ,2020,Online-Service-Index (OSI),0.3529,2.760971,True,Digital Public Services
-33,Monaco ,2020,Online-Service-Index (OSI),0.4706,3.348294,True,Digital Public Services
-34,Mongolia ,2020,Online-Service-Index (OSI),0.5294,3.641706,True,Digital Public Services
-35,Montenegro,2020,Online-Service-Index (OSI),0.5412,3.700588,True,Digital Public Services
-36,Albania ,2020,Online-Service-Index (OSI),0.8412,5.197588,True,Digital Public Services
-37,Algeria ,2020,Online-Service-Index (OSI),0.2765,2.379735,True,Digital Public Services
-38,Andorra ,2020,Online-Service-Index (OSI),0.4824,3.407176,True,Digital Public Services
-39,Angola ,2020,Online-Service-Index (OSI),0.4882,3.436118,True,Digital Public Services
-40,Antigua and Barbuda ,2020,Online-Service-Index (OSI),0.4471,3.231029,True,Digital Public Services
-41,Argentina ,2020,Online-Service-Index (OSI),0.8471,5.227029,True,Digital Public Services
-42,Armenia ,2020,Online-Service-Index (OSI),0.7,4.493,True,Digital Public Services
-43,Morocco ,2020,Online-Service-Index (OSI),0.5235,3.612265,True,Digital Public Services
-44,Mozambique ,2020,Online-Service-Index (OSI),0.5176,3.582824,True,Digital Public Services
-45,Myanmar ,2020,Online-Service-Index (OSI),0.2588,2.2914120000000002,True,Digital Public Services
-46,Namibia ,2020,Online-Service-Index (OSI),0.5235,3.612265,True,Digital Public Services
-47,Nauru ,2020,Online-Service-Index (OSI),0.1706,1.851294,True,Digital Public Services
-48,Dominica ,2020,Online-Service-Index (OSI),0.4471,3.231029,True,Digital Public Services
-49,Dominican Republic ,2020,Online-Service-Index (OSI),0.7647,4.815853000000001,True,Digital Public Services
-50,Ecuador ,2020,Online-Service-Index (OSI),0.8118,5.050882,True,Digital Public Services
-51,Egypt ,2020,Online-Service-Index (OSI),0.5706,3.847294,True,Digital Public Services
-52,El Salvador ,2020,Online-Service-Index (OSI),0.5765,3.876735,True,Digital Public Services
-53,Equatorial Guinea ,2020,Online-Service-Index (OSI),0.0647,1.322853,True,Digital Public Services
-54,Eritrea ,2020,Online-Service-Index (OSI),0.0118,1.058882,True,Digital Public Services
-55,Estonia ,2020,Online-Service-Index (OSI),0.9941,5.960559,True,Digital Public Services
-56,Nepal ,2020,Online-Service-Index (OSI),0.4,2.9960000000000004,True,Digital Public Services
-57,Netherlands ,2020,Online-Service-Index (OSI),0.9059,5.520441000000001,True,Digital Public Services
-58,New Zealand ,2020,Online-Service-Index (OSI),0.9294,5.6377060000000006,True,Digital Public Services
-59,Nicaragua ,2020,Online-Service-Index (OSI),0.5471,3.7300290000000005,True,Digital Public Services
-60,Niger ,2020,Online-Service-Index (OSI),0.2941,2.4675589999999996,True,Digital Public Services
-61,Nigeria ,2020,Online-Service-Index (OSI),0.5176,3.582824,True,Digital Public Services
-62,Norway ,2020,Online-Service-Index (OSI),0.8765,5.373735,True,Digital Public Services
-63,Oman ,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-64,Pakistan ,2020,Online-Service-Index (OSI),0.6294,4.140706,True,Digital Public Services
-65,Palau ,2020,Online-Service-Index (OSI),0.2765,2.379735,True,Digital Public Services
-66,Panama ,2020,Online-Service-Index (OSI),0.6235,4.111265,True,Digital Public Services
-67,Papua New Guinea ,2020,Online-Service-Index (OSI),0.2235,2.115265,True,Digital Public Services
-68,Paraguay ,2020,Online-Service-Index (OSI),0.7059,4.522441000000001,True,Digital Public Services
-69,Peru ,2020,Online-Service-Index (OSI),0.7529,4.756971,True,Digital Public Services
-70,Philippines ,2020,Online-Service-Index (OSI),0.7294,4.639706,True,Digital Public Services
-71,Poland ,2020,Online-Service-Index (OSI),0.8588,5.285412,True,Digital Public Services
-72,Portugal ,2020,Online-Service-Index (OSI),0.8353,5.168147,True,Digital Public Services
-73,Qatar ,2020,Online-Service-Index (OSI),0.6588,4.287412,True,Digital Public Services
-74,Republic of Korea ,2020,Online-Service-Index (OSI),1.0,5.99,True,Digital Public Services
-75,Republic of Moldova ,2020,Online-Service-Index (OSI),0.7529,4.756971,True,Digital Public Services
-76,Romania ,2020,Online-Service-Index (OSI),0.7235,4.610265,True,Digital Public Services
-77,Russian Federation ,2020,Online-Service-Index (OSI),0.8176,5.079824,True,Digital Public Services
-78,Australia ,2020,Online-Service-Index (OSI),0.9471,5.7260290000000005,True,Digital Public Services
-79,Austria,2020,Online-Service-Index (OSI),0.9471,5.7260290000000005,True,Digital Public Services
-80,Azerbaijan ,2020,Online-Service-Index (OSI),0.7059,4.522441000000001,True,Digital Public Services
-81,Bahamas ,2020,Online-Service-Index (OSI),0.6765,4.375735000000001,True,Digital Public Services
-82,Chad ,2020,Online-Service-Index (OSI),0.2,1.9980000000000002,True,Digital Public Services
-83,Chile ,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-84,China ,2020,Online-Service-Index (OSI),0.9059,5.520441000000001,True,Digital Public Services
-85,Bahrain ,2020,Online-Service-Index (OSI),0.7882,4.933118,True,Digital Public Services
-86,Bangladesh ,2020,Online-Service-Index (OSI),0.6118,4.052882,True,Digital Public Services
-87,Barbados ,2020,Online-Service-Index (OSI),0.5765,3.876735,True,Digital Public Services
-88,Belarus ,2020,Online-Service-Index (OSI),0.7059,4.522441000000001,True,Digital Public Services
-89,Belgium ,2020,Online-Service-Index (OSI),0.6588,4.287412,True,Digital Public Services
-90,Belize ,2020,Online-Service-Index (OSI),0.2647,2.320853,True,Digital Public Services
-91,Benin ,2020,Online-Service-Index (OSI),0.5118,3.553882,True,Digital Public Services
-92,Bhutan ,2020,Online-Service-Index (OSI),0.6824,4.405176,True,Digital Public Services
-93,Bolivia ,2020,Online-Service-Index (OSI),0.5824,3.9061760000000003,True,Digital Public Services
-94,Bosnia and Herzegovina ,2020,Online-Service-Index (OSI),0.5353,3.671147,True,Digital Public Services
-95,Botswana ,2020,Online-Service-Index (OSI),0.3647,2.819853,True,Digital Public Services
-96,Djibouti ,2020,Online-Service-Index (OSI),0.2235,2.115265,True,Digital Public Services
-97,Brazil ,2020,Online-Service-Index (OSI),0.8706,5.3442940000000005,True,Digital Public Services
-98,Brunei Darussalam ,2020,Online-Service-Index (OSI),0.6353,4.170147,True,Digital Public Services
-99,Bulgaria ,2020,Online-Service-Index (OSI),0.7706,4.845294,True,Digital Public Services
-100,Burkina Faso ,2020,Online-Service-Index (OSI),0.4647,3.3188530000000003,True,Digital Public Services
-101,Burundi ,2020,Online-Service-Index (OSI),0.3529,2.760971,True,Digital Public Services
-102,Cambodia ,2020,Online-Service-Index (OSI),0.4529,3.259971,True,Digital Public Services
-103,Cameroon ,2020,Online-Service-Index (OSI),0.4706,3.348294,True,Digital Public Services
-104,Canada ,2020,Online-Service-Index (OSI),0.8412,5.197588,True,Digital Public Services
-105,Cabo Verde ,2020,Online-Service-Index (OSI),0.5,3.495,True,Digital Public Services
-106,Central African Republic ,2020,Online-Service-Index (OSI),0.1294,1.6457060000000001,True,Digital Public Services
-107,Colombia ,2020,Online-Service-Index (OSI),0.7647,4.815853000000001,True,Digital Public Services
-108,Comoros ,2020,Online-Service-Index (OSI),0.1235,1.616265,True,Digital Public Services
-109,Congo ,2020,Online-Service-Index (OSI),0.3176,2.5848240000000002,True,Digital Public Services
-110,Costa Rica ,2020,Online-Service-Index (OSI),0.6824,4.405176,True,Digital Public Services
-111,Côte d'Ivoire ,2020,Online-Service-Index (OSI),0.4529,3.259971,True,Digital Public Services
-112,Croatia ,2020,Online-Service-Index (OSI),0.7529,4.756971,True,Digital Public Services
-113,Cuba ,2020,Online-Service-Index (OSI),0.2588,2.2914120000000002,True,Digital Public Services
-114,Cyprus ,2020,Online-Service-Index (OSI),0.8706,5.3442940000000005,True,Digital Public Services
-115,Czech Republic ,2020,Online-Service-Index (OSI),0.7235,4.610265,True,Digital Public Services
-116,Democratic People's Republic of Korea ,2020,Online-Service-Index (OSI),0.0176,1.087824,True,Digital Public Services
-117,Democratic Republic of the Congo ,2020,Online-Service-Index (OSI),0.1294,1.6457060000000001,True,Digital Public Services
-118,Denmark ,2020,Online-Service-Index (OSI),0.9706,5.843294,True,Digital Public Services
-119,Ethiopia ,2020,Online-Service-Index (OSI),0.3647,2.819853,True,Digital Public Services
-120,Fiji ,2020,Online-Service-Index (OSI),0.5059,3.5244410000000004,True,Digital Public Services
-121,Finland ,2020,Online-Service-Index (OSI),0.9706,5.843294,True,Digital Public Services
-122,Guinea-Bissau ,2020,Online-Service-Index (OSI),0.0647,1.322853,True,Digital Public Services
-123,Guyana ,2020,Online-Service-Index (OSI),0.4647,3.3188530000000003,True,Digital Public Services
-124,Spain ,2020,Online-Service-Index (OSI),0.8882,5.432118,True,Digital Public Services
-125,Sierra Leone ,2020,Online-Service-Index (OSI),0.3059,2.526441,True,Digital Public Services
-126,France,2020,Online-Service-Index (OSI),0.8824,5.403176,True,Digital Public Services
-127,Gabon ,2020,Online-Service-Index (OSI),0.3235,2.614265,True,Digital Public Services
-128,Gambia ,2020,Online-Service-Index (OSI),0.0294,1.146706,True,Digital Public Services
-129,Georgia (Country),2020,Online-Service-Index (OSI),0.5882,3.9351179999999997,True,Digital Public Services
-130,Germany ,2020,Online-Service-Index (OSI),0.7353,4.669147,True,Digital Public Services
-131,Ghana ,2020,Online-Service-Index (OSI),0.6353,4.170147,True,Digital Public Services
-132,Greece ,2020,Online-Service-Index (OSI),0.7059,4.522441000000001,True,Digital Public Services
-133,Grenada ,2020,Online-Service-Index (OSI),0.3412,2.702588,True,Digital Public Services
-134,Guatemala ,2020,Online-Service-Index (OSI),0.5118,3.553882,True,Digital Public Services
-135,Guinea ,2020,Online-Service-Index (OSI),0.2176,2.0858239999999997,True,Digital Public Services
-136,Haiti ,2020,Online-Service-Index (OSI),0.1882,1.9391180000000001,True,Digital Public Services
-137,Honduras ,2020,Online-Service-Index (OSI),0.4647,3.3188530000000003,True,Digital Public Services
-138,Hungary ,2020,Online-Service-Index (OSI),0.7471,4.728029,True,Digital Public Services
-139,Iceland ,2020,Online-Service-Index (OSI),0.7941,4.962559000000001,True,Digital Public Services
-140,India ,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-141,Indonesia ,2020,Online-Service-Index (OSI),0.6824,4.405176,True,Digital Public Services
-142,Iran (Islamic Republic of) ,2020,Online-Service-Index (OSI),0.5882,3.9351179999999997,True,Digital Public Services
-143,Slovenia ,2020,Online-Service-Index (OSI),0.8529,5.255971,True,Digital Public Services
-144,Solomon Islands ,2020,Online-Service-Index (OSI),0.3235,2.614265,True,Digital Public Services
-145,Somalia ,2020,Online-Service-Index (OSI),0.2941,2.4675589999999996,True,Digital Public Services
-146,South Africa ,2020,Online-Service-Index (OSI),0.7471,4.728029,True,Digital Public Services
-147,Sri Lanka ,2020,Online-Service-Index (OSI),0.7176,4.580824,True,Digital Public Services
-148,Sudan ,2020,Online-Service-Index (OSI),0.3059,2.526441,True,Digital Public Services
-149,Suriname ,2020,Online-Service-Index (OSI),0.2882,2.4381180000000002,True,Digital Public Services
-150,Eswatini,2020,Online-Service-Index (OSI),0.4882,3.436118,True,Digital Public Services
-151,Uzbekistan ,2020,Online-Service-Index (OSI),0.7824,4.904176,True,Digital Public Services
-152,Vanuatu ,2020,Online-Service-Index (OSI),0.3353,2.673147,True,Digital Public Services
-153,Venezuela ,2020,Online-Service-Index (OSI),0.3176,2.5848240000000002,True,Digital Public Services
-154,Viet Nam ,2020,Online-Service-Index (OSI),0.6529,4.257971,True,Digital Public Services
-155,Sweden ,2020,Online-Service-Index (OSI),0.9,5.4910000000000005,True,Digital Public Services
-156,Switzerland ,2020,Online-Service-Index (OSI),0.8294,5.138706,True,Digital Public Services
-157,Syrian Arab Republic ,2020,Online-Service-Index (OSI),0.5412,3.700588,True,Digital Public Services
-158,Tajikistan ,2020,Online-Service-Index (OSI),0.3176,2.5848240000000002,True,Digital Public Services
-159,Thailand ,2020,Online-Service-Index (OSI),0.7941,4.962559000000001,True,Digital Public Services
-160,North Macedonia,2020,Online-Service-Index (OSI),0.7412,4.698588,True,Digital Public Services
-161,Timor-Leste,2020,Online-Service-Index (OSI),0.4412,3.201588,True,Digital Public Services
-162,Togo ,2020,Online-Service-Index (OSI),0.5,3.495,True,Digital Public Services
-163,Tonga ,2020,Online-Service-Index (OSI),0.3765,2.878735,True,Digital Public Services
-164,Trinidad and Tobago ,2020,Online-Service-Index (OSI),0.6118,4.052882,True,Digital Public Services
-165,Tunisia ,2020,Online-Service-Index (OSI),0.6235,4.111265,True,Digital Public Services
-166,Turkey ,2020,Online-Service-Index (OSI),0.8588,5.285412,True,Digital Public Services
-167,Turkmenistan ,2020,Online-Service-Index (OSI),0.1765,1.880735,True,Digital Public Services
-168,Tuvalu ,2020,Online-Service-Index (OSI),0.3,2.497,True,Digital Public Services
-169,Uganda ,2020,Online-Service-Index (OSI),0.5824,3.9061760000000003,True,Digital Public Services
-170,Ukraine,2020,Online-Service-Index (OSI),0.6824,4.405176,True,Digital Public Services
-171,United Arab Emirates ,2020,Online-Service-Index (OSI),0.9,5.4910000000000005,True,Digital Public Services
-172,United Kingdom of Great Britain and Northern Ireland,2020,Online-Service-Index (OSI),0.9588,5.7844120000000006,True,Digital Public Services
-173,United Republic of Tanzania ,2020,Online-Service-Index (OSI),0.5529,3.758971,True,Digital Public Services
-174,United States of America ,2020,Online-Service-Index (OSI),0.9471,5.7260290000000005,True,Digital Public Services
-175,Uruguay ,2020,Online-Service-Index (OSI),0.8412,5.197588,True,Digital Public Services
-176,Yemen ,2020,Online-Service-Index (OSI),0.3235,2.614265,True,Digital Public Services
-177,Zambia ,2020,Online-Service-Index (OSI),0.2588,2.2914120000000002,True,Digital Public Services
-178,Zimbabwe ,2020,Online-Service-Index (OSI),0.5235,3.612265,True,Digital Public Services
-179,South Sudan,2020,Online-Service-Index (OSI),0.0,1.0,True,Digital Public Services
-180,Rwanda ,2020,Online-Service-Index (OSI),0.6176,4.081824,True,Digital Public Services
-181,Saint Kitts and Nevis ,2020,Online-Service-Index (OSI),0.3941,2.966559,True,Digital Public Services
-182,Saint Lucia ,2020,Online-Service-Index (OSI),0.3824,2.908176,True,Digital Public Services
-183,Saint Vincent and the Grenadines ,2020,Online-Service-Index (OSI),0.4706,3.348294,True,Digital Public Services
-184,Samoa ,2020,Online-Service-Index (OSI),0.2647,2.320853,True,Digital Public Services
-185,San Marino ,2020,Online-Service-Index (OSI),0.2824,2.409176,True,Digital Public Services
-186,Sao Tome and Principe ,2020,Online-Service-Index (OSI),0.2471,2.233029,True,Digital Public Services
-187,Saudi Arabia ,2020,Online-Service-Index (OSI),0.6882,4.434118,True,Digital Public Services
-188,Senegal ,2020,Online-Service-Index (OSI),0.4941,3.465559,True,Digital Public Services
-189,Serbia,2020,Online-Service-Index (OSI),0.7941,4.962559000000001,True,Digital Public Services
-190,Seychelles ,2020,Online-Service-Index (OSI),0.6176,4.081824,True,Digital Public Services
-191,Singapore ,2020,Online-Service-Index (OSI),0.9647,5.813853,True,Digital Public Services
-192,Slovakia ,2020,Online-Service-Index (OSI),0.7176,4.580824,True,Digital Public Services
+0,Iraq ,2022,Online-Service-Index (OSI),0.20600,2.673147,TRUE,Digital Public Services
+1,Ireland ,2022,Online-Service-Index (OSI),0.77960,4.845294,TRUE,Digital Public Services
+2,Israel ,2022,Online-Service-Index (OSI),0.87450,4.728029,TRUE,Digital Public Services
+3,Italy ,2022,Online-Service-Index (OSI),0.86590,5.138706,TRUE,Digital Public Services
+4,Jamaica ,2022,Online-Service-Index (OSI),0.49140,2.937118,TRUE,Digital Public Services
+5,Japan ,2022,Online-Service-Index (OSI),0.90940,5.520441000000000,TRUE,Digital Public Services
+6,Jordan ,2022,Online-Service-Index (OSI),0.65940,2.790412,TRUE,Digital Public Services
+7,Kazakhstan ,2022,Online-Service-Index (OSI),0.93440,5.608265,TRUE,Digital Public Services
+8,Kenya ,2022,Online-Service-Index (OSI),0.68210,4.375735000000000,TRUE,Digital Public Services
+9,Kiribati ,2022,Online-Service-Index (OSI),0.36860,3.465559,TRUE,Digital Public Services
+10,Kuwait ,2022,Online-Service-Index (OSI),0.69730,5.197588,TRUE,Digital Public Services
+11,Kyrgyzstan ,2022,Online-Service-Index (OSI),0.61760,4.229029000000000,TRUE,Digital Public Services
+12,Lao People's Democratic Republic ,2022,Online-Service-Index (OSI),0.30050,1.968559,TRUE,Digital Public Services
+13,Latvia ,2022,Online-Service-Index (OSI),0.81350,3.9061760000000000,TRUE,Digital Public Services
+14,Lebanon ,2022,Online-Service-Index (OSI),0.42570,3.0838240000000000,TRUE,Digital Public Services
+15,Lesotho ,2022,Online-Service-Index (OSI),0.34560,2.760971,TRUE,Digital Public Services
+16,Liberia ,2022,Online-Service-Index (OSI),0.34170,2.233029,TRUE,Digital Public Services
+17,Libya,2022,Online-Service-Index (OSI),0.09900,1.205588,TRUE,Digital Public Services
+18,Liechtenstein,2022,Online-Service-Index (OSI),0.73290,4.287412,TRUE,Digital Public Services
+19,Lithuania ,2022,Online-Service-Index (OSI),0.83470,5.255971,TRUE,Digital Public Services
+20,Luxembourg,2022,Online-Service-Index (OSI),0.83190,4.815853000000000,TRUE,Digital Public Services
+21,Madagascar ,2022,Online-Service-Index (OSI),0.35150,2.4381180000000000,TRUE,Digital Public Services
+22,Malawi ,2022,Online-Service-Index (OSI),0.36070,3.113265,TRUE,Digital Public Services
+23,Malaysia,2022,Online-Service-Index (OSI),0.76300,5.255971,TRUE,Digital Public Services
+24,Maldives,2022,Online-Service-Index (OSI),0.48730,3.1721470000000000,TRUE,Digital Public Services
+25,Mali ,2022,Online-Service-Index (OSI),0.36520,2.7320290000000000,TRUE,Digital Public Services
+26,Malta ,2022,Online-Service-Index (OSI),0.88490,5.050882,TRUE,Digital Public Services
+27,Marshall Islands ,2022,Online-Service-Index (OSI),0.30040,2.702588,TRUE,Digital Public Services
+28,Mauritania ,2022,Online-Service-Index (OSI),0.09520,1.499,TRUE,Digital Public Services
+29,Afghanistan,2022,Online-Service-Index (OSI),0.27700,3.054882,TRUE,Digital Public Services
+30,Mauritius ,2022,Online-Service-Index (OSI),0.62820,4.493,TRUE,Digital Public Services
+31,Mexico ,2022,Online-Service-Index (OSI),0.82450,5.109265000000000,TRUE,Digital Public Services
+32,Micronesia (Federated States of) ,2022,Online-Service-Index (OSI),0.27030,2.760971,TRUE,Digital Public Services
+33,Monaco ,2022,Online-Service-Index (OSI),0.45880,3.348294,TRUE,Digital Public Services
+34,Mongolia ,2022,Online-Service-Index (OSI),0.62630,3.641706,TRUE,Digital Public Services
+35,Montenegro,2022,Online-Service-Index (OSI),0.55280,3.700588,TRUE,Digital Public Services
+36,Albania ,2022,Online-Service-Index (OSI),0.81820,5.197588,TRUE,Digital Public Services
+37,Algeria ,2022,Online-Service-Index (OSI),0.37430,2.379735,TRUE,Digital Public Services
+38,Andorra ,2022,Online-Service-Index (OSI),0.51330,3.407176,TRUE,Digital Public Services
+39,Angola ,2022,Online-Service-Index (OSI),0.47160,3.436118,TRUE,Digital Public Services
+40,Antigua and Barbuda ,2022,Online-Service-Index (OSI),0.42310,3.231029,TRUE,Digital Public Services
+41,Argentina ,2022,Online-Service-Index (OSI),0.80890,5.227029,TRUE,Digital Public Services
+42,Armenia ,2022,Online-Service-Index (OSI),0.72210,4.493,TRUE,Digital Public Services
+43,Morocco ,2022,Online-Service-Index (OSI),0.47210,3.612265,TRUE,Digital Public Services
+44,Mozambique ,2022,Online-Service-Index (OSI),0.35630,3.582824,TRUE,Digital Public Services
+45,Myanmar ,2022,Online-Service-Index (OSI),0.30730,2.2914120000000000,TRUE,Digital Public Services
+46,Namibia ,2022,Online-Service-Index (OSI),0.43160,3.612265,TRUE,Digital Public Services
+47,Nauru ,2022,Online-Service-Index (OSI),0.29520,1.851294,TRUE,Digital Public Services
+48,Dominica ,2022,Online-Service-Index (OSI),0.29540,3.231029,TRUE,Digital Public Services
+49,Dominican Republic ,2022,Online-Service-Index (OSI),0.61830,4.815853000000000,TRUE,Digital Public Services
+50,Ecuador ,2022,Online-Service-Index (OSI),0.76510,5.050882,TRUE,Digital Public Services
+51,Egypt ,2022,Online-Service-Index (OSI),0.57300,3.847294,TRUE,Digital Public Services
+52,El Salvador ,2022,Online-Service-Index (OSI),0.46700,3.876735,TRUE,Digital Public Services
+53,Equatorial Guinea ,2022,Online-Service-Index (OSI),0.18450,1.322853,TRUE,Digital Public Services
+54,Eritrea ,2022,Online-Service-Index (OSI),0.00000,1.058882,TRUE,Digital Public Services
+55,Estonia ,2022,Online-Service-Index (OSI),1.00000,5.960559,TRUE,Digital Public Services
+56,Nepal ,2022,Online-Service-Index (OSI),0.45920,2.9960000000000000,TRUE,Digital Public Services
+57,Netherlands ,2022,Online-Service-Index (OSI),0.90260,5.520441000000000,TRUE,Digital Public Services
+58,New Zealand ,2022,Online-Service-Index (OSI),0.95790,5.6377060000000000,TRUE,Digital Public Services
+59,Nicaragua ,2022,Online-Service-Index (OSI),0.48090,3.7300290000000000,TRUE,Digital Public Services
+60,Niger ,2022,Online-Service-Index (OSI),0.39040,2.4675590000000000,TRUE,Digital Public Services
+61,Nigeria ,2022,Online-Service-Index (OSI),0.52500,3.582824,TRUE,Digital Public Services
+62,Norway ,2022,Online-Service-Index (OSI),0.80070,5.373735,TRUE,Digital Public Services
+63,Oman ,2022,Online-Service-Index (OSI),0.74230,5.255971,TRUE,Digital Public Services
+64,Pakistan ,2022,Online-Service-Index (OSI),0.56580,4.140706,TRUE,Digital Public Services
+65,Palau ,2022,Online-Service-Index (OSI),0.23730,2.379735,TRUE,Digital Public Services
+66,Panama ,2022,Online-Service-Index (OSI),0.67410,4.111265,TRUE,Digital Public Services
+67,Papua New Guinea ,2022,Online-Service-Index (OSI),0.32630,2.115265,TRUE,Digital Public Services
+68,Paraguay ,2022,Online-Service-Index (OSI),0.60590,4.522441000000000,TRUE,Digital Public Services
+69,Peru ,2022,Online-Service-Index (OSI),0.80990,4.756971,TRUE,Digital Public Services
+70,Philippines ,2022,Online-Service-Index (OSI),0.63030,4.639706,TRUE,Digital Public Services
+71,Poland ,2022,Online-Service-Index (OSI),0.79290,5.285412,TRUE,Digital Public Services
+72,Portugal ,2022,Online-Service-Index (OSI),0.79540,5.168147,TRUE,Digital Public Services
+73,Qatar ,2022,Online-Service-Index (OSI),0.60940,4.287412,TRUE,Digital Public Services
+74,Republic of Korea ,2022,Online-Service-Index (OSI),0.98260,5.99,TRUE,Digital Public Services
+75,Republic of Moldova ,2022,Online-Service-Index (OSI),0.73800,4.756971,TRUE,Digital Public Services
+76,Romania ,2022,Online-Service-Index (OSI),0.68140,4.610265,TRUE,Digital Public Services
+77,Russian Federation ,2022,Online-Service-Index (OSI),0.73680,5.079824,TRUE,Digital Public Services
+78,Australia ,2022,Online-Service-Index (OSI),0.93800,5.7260290000000000,TRUE,Digital Public Services
+79,Austria,2022,Online-Service-Index (OSI),0.88270,5.7260290000000000,TRUE,Digital Public Services
+80,Azerbaijan ,2022,Online-Service-Index (OSI),0.61190,4.522441000000000,TRUE,Digital Public Services
+81,Bahamas ,2022,Online-Service-Index (OSI),0.62140,4.375735000000000,TRUE,Digital Public Services
+82,Chad ,2022,Online-Service-Index (OSI),0.27260,1.9980000000000000,TRUE,Digital Public Services
+83,Chile ,2022,Online-Service-Index (OSI),0.82800,5.255971,TRUE,Digital Public Services
+84,China ,2022,Online-Service-Index (OSI),0.88760,5.520441000000000,TRUE,Digital Public Services
+85,Bahrain ,2022,Online-Service-Index (OSI),0.75230,4.933118,TRUE,Digital Public Services
+86,Bangladesh ,2022,Online-Service-Index (OSI),0.65210,4.052882,TRUE,Digital Public Services
+87,Barbados ,2022,Online-Service-Index (OSI),0.53880,3.876735,TRUE,Digital Public Services
+88,Belarus ,2022,Online-Service-Index (OSI),0.53020,4.522441000000000,TRUE,Digital Public Services
+89,Belgium ,2022,Online-Service-Index (OSI),0.68990,4.287412,TRUE,Digital Public Services
+90,Belize ,2022,Online-Service-Index (OSI),0.44250,2.320853,TRUE,Digital Public Services
+91,Benin ,2022,Online-Service-Index (OSI),0.52450,3.553882,TRUE,Digital Public Services
+92,Bhutan ,2022,Online-Service-Index (OSI),0.59960,4.405176,TRUE,Digital Public Services
+93,Bolivia ,2022,Online-Service-Index (OSI),0.51930,3.9061760000000000,TRUE,Digital Public Services
+94,Bosnia and Herzegovina ,2022,Online-Service-Index (OSI),0.48980,3.671147,TRUE,Digital Public Services
+95,Botswana ,2022,Online-Service-Index (OSI),0.27400,2.819853,TRUE,Digital Public Services
+96,Djibouti ,2022,Online-Service-Index (OSI),0.22080,2.115265,TRUE,Digital Public Services
+97,Brazil ,2022,Online-Service-Index (OSI),0.89640,5.3442940000000000,TRUE,Digital Public Services
+98,Brunei Darussalam ,2022,Online-Service-Index (OSI),0.58710,4.170147,TRUE,Digital Public Services
+99,Bulgaria ,2022,Online-Service-Index (OSI),0.70920,4.845294,TRUE,Digital Public Services
+100,Burkina Faso ,2022,Online-Service-Index (OSI),0.37300,3.3188530000000000,TRUE,Digital Public Services
+101,Burundi ,2022,Online-Service-Index (OSI),0.33760,2.760971,TRUE,Digital Public Services
+102,Cambodia ,2022,Online-Service-Index (OSI),0.41810,3.259971,TRUE,Digital Public Services
+103,Cameroon ,2022,Online-Service-Index (OSI),0.39160,3.348294,TRUE,Digital Public Services
+104,Canada ,2022,Online-Service-Index (OSI),0.85040,5.197588,TRUE,Digital Public Services
+105,Cabo Verde ,2022,Online-Service-Index (OSI),0.49650,3.495,TRUE,Digital Public Services
+106,Central African Republic ,2022,Online-Service-Index (OSI),0.09620,1.6457060000000000,TRUE,Digital Public Services
+107,Colombia ,2022,Online-Service-Index (OSI),0.74180,4.815853000000000,TRUE,Digital Public Services
+108,Comoros ,2022,Online-Service-Index (OSI),0.03260,1.616265,TRUE,Digital Public Services
+109,Congo ,2022,Online-Service-Index (OSI),0.31770,2.5848240000000000,TRUE,Digital Public Services
+110,Costa Rica ,2022,Online-Service-Index (OSI),0.68120,4.405176,TRUE,Digital Public Services
+111,Côte d'Ivoire ,2022,Online-Service-Index (OSI),0.54670,3.259971,TRUE,Digital Public Services
+112,Croatia ,2022,Online-Service-Index (OSI),0.81080,4.756971,TRUE,Digital Public Services
+113,Cuba ,2022,Online-Service-Index (OSI),0.27890,2.2914120000000000,TRUE,Digital Public Services
+114,Cyprus ,2022,Online-Service-Index (OSI),0.77920,5.3442940000000000,TRUE,Digital Public Services
+115,Czech Republic ,2022,Online-Service-Index (OSI),0.66930,4.610265,TRUE,Digital Public Services
+116,Democratic People's Republic of Korea ,2022,Online-Service-Index (OSI),0.15790,1.087824,TRUE,Digital Public Services
+117,Democratic Republic of the Congo ,2022,Online-Service-Index (OSI),0.23410,1.6457060000000000,TRUE,Digital Public Services
+118,Denmark ,2022,Online-Service-Index (OSI),0.97970,5.843294,TRUE,Digital Public Services
+119,Ethiopia ,2022,Online-Service-Index (OSI),0.37300,2.819853,TRUE,Digital Public Services
+120,Fiji ,2022,Online-Service-Index (OSI),0.48130,3.5244410000000000,TRUE,Digital Public Services
+121,Finland ,2022,Online-Service-Index (OSI),0.98330,5.843294,TRUE,Digital Public Services
+122,Guinea-Bissau ,2022,Online-Service-Index (OSI),0.06240,1.322853,TRUE,Digital Public Services
+123,Guyana ,2022,Online-Service-Index (OSI),0.45090,3.3188530000000000,TRUE,Digital Public Services
+124,Spain ,2022,Online-Service-Index (OSI),0.85590,5.432118,TRUE,Digital Public Services
+125,Sierra Leone ,2022,Online-Service-Index (OSI),0.28010,2.526441,TRUE,Digital Public Services
+126,France,2022,Online-Service-Index (OSI),0.87680,5.403176,TRUE,Digital Public Services
+127,Gabon ,2022,Online-Service-Index (OSI),0.35780,2.614265,TRUE,Digital Public Services
+128,Gambia ,2022,Online-Service-Index (OSI),0.14550,1.146706,TRUE,Digital Public Services
+129,Georgia (Country),2022,Online-Service-Index (OSI),0.61110,3.9351180000000000,TRUE,Digital Public Services
+130,Germany ,2022,Online-Service-Index (OSI),0.79050,4.669147,TRUE,Digital Public Services
+131,Ghana ,2022,Online-Service-Index (OSI),0.53610,4.170147,TRUE,Digital Public Services
+132,Greece ,2022,Online-Service-Index (OSI),0.77530,4.522441000000000,TRUE,Digital Public Services
+133,Grenada ,2022,Online-Service-Index (OSI),0.55070,2.702588,TRUE,Digital Public Services
+134,Guatemala ,2022,Online-Service-Index (OSI),0.54090,3.553882,TRUE,Digital Public Services
+135,Guinea ,2022,Online-Service-Index (OSI),0.44210,2.0858240000000000,TRUE,Digital Public Services
+136,Haiti ,2022,Online-Service-Index (OSI),0.08650,1.9391180000000000,TRUE,Digital Public Services
+137,Honduras ,2022,Online-Service-Index (OSI),0.24170,3.3188530000000000,TRUE,Digital Public Services
+138,Hungary ,2022,Online-Service-Index (OSI),0.74650,4.728029,TRUE,Digital Public Services
+139,Iceland ,2022,Online-Service-Index (OSI),0.88670,4.962559000000000,TRUE,Digital Public Services
+140,India ,2022,Online-Service-Index (OSI),0.79340,5.255971,TRUE,Digital Public Services
+141,Indonesia ,2022,Online-Service-Index (OSI),0.76440,4.405176,TRUE,Digital Public Services
+142,Iran (Islamic Republic of) ,2022,Online-Service-Index (OSI),0.41960,3.9351180000000000,TRUE,Digital Public Services
+143,Slovenia ,2022,Online-Service-Index (OSI),0.86660,5.255971,TRUE,Digital Public Services
+144,Solomon Islands ,2022,Online-Service-Index (OSI),0.36760,2.614265,TRUE,Digital Public Services
+145,Somalia ,2022,Online-Service-Index (OSI),0.29440,2.4675590000000000,TRUE,Digital Public Services
+146,South Africa ,2022,Online-Service-Index (OSI),0.74870,4.728029,TRUE,Digital Public Services
+147,Sri Lanka ,2022,Online-Service-Index (OSI),0.56440,4.580824,TRUE,Digital Public Services
+148,Sudan ,2022,Online-Service-Index (OSI),0.21180,2.526441,TRUE,Digital Public Services
+149,Suriname ,2022,Online-Service-Index (OSI),0.34180,2.4381180000000000,TRUE,Digital Public Services
+150,Eswatini,2022,Online-Service-Index (OSI),0.32400,3.436118,TRUE,Digital Public Services
+151,Uzbekistan ,2022,Online-Service-Index (OSI),0.74400,4.904176,TRUE,Digital Public Services
+152,Vanuatu ,2022,Online-Service-Index (OSI),0.42280,2.673147,TRUE,Digital Public Services
+153,Venezuela ,2022,Online-Service-Index (OSI),0.30560,2.5848240000000000,TRUE,Digital Public Services
+154,Viet Nam ,2022,Online-Service-Index (OSI),0.64840,4.257971,TRUE,Digital Public Services
+155,Sweden ,2022,Online-Service-Index (OSI),0.90020,5.4910000000000000,TRUE,Digital Public Services
+156,Switzerland ,2022,Online-Service-Index (OSI),0.76770,5.138706,TRUE,Digital Public Services
+157,Syrian Arab Republic ,2022,Online-Service-Index (OSI),0.30530,3.700588,TRUE,Digital Public Services
+158,Tajikistan ,2022,Online-Service-Index (OSI),0.39680,2.5848240000000000,TRUE,Digital Public Services
+159,Thailand ,2022,Online-Service-Index (OSI),0.77630,4.962559000000000,TRUE,Digital Public Services
+160,North Macedonia,2022,Online-Service-Index (OSI),0.70200,4.698588,TRUE,Digital Public Services
+161,Timor-Leste,2022,Online-Service-Index (OSI),0.39310,3.201588,TRUE,Digital Public Services
+162,Togo ,2022,Online-Service-Index (OSI),0.43380,3.495,TRUE,Digital Public Services
+163,Tonga ,2022,Online-Service-Index (OSI),0.32960,2.878735,TRUE,Digital Public Services
+164,Trinidad and Tobago ,2022,Online-Service-Index (OSI),0.48920,4.052882,TRUE,Digital Public Services
+165,Tunisia ,2022,Online-Service-Index (OSI),0.60310,4.111265,TRUE,Digital Public Services
+166,Turkey ,2022,Online-Service-Index (OSI),0.86000,5.285412,TRUE,Digital Public Services
+167,Turkmenistan ,2022,Online-Service-Index (OSI),0.29800,1.880735,TRUE,Digital Public Services
+168,Tuvalu ,2022,Online-Service-Index (OSI),0.22650,2.497,TRUE,Digital Public Services
+169,Uganda ,2022,Online-Service-Index (OSI),0.51690,3.9061760000000000,TRUE,Digital Public Services
+170,Ukraine,2022,Online-Service-Index (OSI),0.81480,4.405176,TRUE,Digital Public Services
+171,United Arab Emirates ,2022,Online-Service-Index (OSI),0.90140,5.4910000000000000,TRUE,Digital Public Services
+172,United Kingdom of Great Britain and Northern Ireland,2022,Online-Service-Index (OSI),0.88590,5.7844120000000000,TRUE,Digital Public Services
+173,United Republic of Tanzania ,2022,Online-Service-Index (OSI),0.47000,3.758971,TRUE,Digital Public Services
+174,United States of America ,2022,Online-Service-Index (OSI),0.93040,5.7260290000000000,TRUE,Digital Public Services
+175,Uruguay ,2022,Online-Service-Index (OSI),0.76410,5.197588,TRUE,Digital Public Services
+176,Yemen ,2022,Online-Service-Index (OSI),0.33930,2.614265,TRUE,Digital Public Services
+177,Zambia ,2022,Online-Service-Index (OSI),0.44140,2.2914120000000000,TRUE,Digital Public Services
+178,Zimbabwe ,2022,Online-Service-Index (OSI),0.38450,3.612265,TRUE,Digital Public Services
+179,South Sudan,2022,Online-Service-Index (OSI),0.05180,1.0,TRUE,Digital Public Services
+180,Rwanda ,2022,Online-Service-Index (OSI),0.79350,4.081824,TRUE,Digital Public Services
+181,Saint Kitts and Nevis ,2022,Online-Service-Index (OSI),0.33070,2.966559,TRUE,Digital Public Services
+182,Saint Lucia ,2022,Online-Service-Index (OSI),0.40070,2.908176,TRUE,Digital Public Services
+183,Saint Vincent and the Grenadines ,2022,Online-Service-Index (OSI),0.45260,3.348294,TRUE,Digital Public Services
+184,Samoa ,2022,Online-Service-Index (OSI),0.35920,2.320853,TRUE,Digital Public Services
+185,San Marino ,2022,Online-Service-Index (OSI),0.37880,2.409176,TRUE,Digital Public Services
+186,Sao Tome and Principe ,2022,Online-Service-Index (OSI),0.24350,2.233029,TRUE,Digital Public Services
+187,Saudi Arabia ,2022,Online-Service-Index (OSI),0.82200,4.434118,TRUE,Digital Public Services
+188,Senegal ,2022,Online-Service-Index (OSI),0.49340,3.465559,TRUE,Digital Public Services
+189,Serbia,2022,Online-Service-Index (OSI),0.85140,4.962559000000000,TRUE,Digital Public Services
+190,Seychelles ,2022,Online-Service-Index (OSI),0.44240,4.081824,TRUE,Digital Public Services
+191,Singapore ,2022,Online-Service-Index (OSI),0.96200,5.813853,TRUE,Digital Public Services
+192,Slovakia ,2022,Online-Service-Index (OSI),0.72600,4.580824,TRUE,Digital Public Services
