@@ -64,7 +64,7 @@ banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_devel
 startup_eco_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv,NaN,NaN,NaN,NaN
 fixed_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv,NaN,NaN,NaN,NaN
 mobile_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv,NaN,NaN,NaN,NaN
-gender_gaps,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv,NaN,NaN,NaN,NaN
+gender_gaps,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps_2021.csv,NaN,NaN,NaN,NaN
 prevalance_gig_economy,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv,NaN,NaN,NaN,NaN
 size_digital_economy,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/size_digital_economy.csv,NaN,NaN,NaN,NaN
 automation_led_unemployment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv,NaN,NaN,NaN,NaN
@@ -86,7 +86,7 @@ business_internet,csv,https://raw.githubusercontent.com/mbelinsky/public_develop
 business_broadband,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv,NaN,NaN,NaN,NaN
 share_of_businesses_online_presence,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv,NaN,NaN,NaN,NaN
 ease_of_finding_skilled_employees,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv,NaN,NaN,NaN,NaN
-apps_in_national_language,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language.csv,NaN,NaN,NaN,NaN
+apps_in_national_language,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language_2021.csv,NaN,NaN,NaN,NaN
 time_spent_online,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv,NaN,NaN,NaN,NaN
 cryptocurrency_adoption,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv,NaN,NaN,NaN,NaN
 cyberbullying_rate,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv,NaN,NaN,NaN,NaN
