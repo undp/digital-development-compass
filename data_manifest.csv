@@ -32,8 +32,8 @@ population_digital_financial_services,xlsx,https://raw.githubusercontent.com/mbe
 ewaste_per_inhabitant,csv,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv,1,1,NaN,NaN
 global_wellbeing_initiative,xlsx,https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls,1,1,NaN,NaN
 financial_inclusiveness,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx,1,1,NaN,NaN
-ict_goods,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv,NaN,NaN,NaN,NaN
-ict_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv,NaN,NaN,NaN,NaN
+ict_goods,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods_2022.csv,NaN,NaN,NaN,NaN
+ict_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services_2022.csv,NaN,NaN,NaN,NaN
 mob_dev_pen,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv,NaN,NaN,NaN,NaN
 gender_gap_in_mobile_usage,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx,3,3,NaN,NaN
 venture_cap_avail,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv,1,1,NaN,NaN
@@ -98,7 +98,7 @@ tech_hubs,csv,https://raw.githubusercontent.com/mbelinsky/public_development_dat
 software_developer_ecosystem_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv,NaN,NaN,NaN,NaN
 population_with_smartphones,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_with_smartphones.csv,NaN,NaN,NaN,NaN
 cyber_attacks,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv,NaN,NaN,NaN,NaN
-e_government_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv,NaN,NaN,NaN,NaN
+e_government_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index_2022.csv,NaN,NaN,NaN,NaN
 internet_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv,NaN,NaN,NaN,NaN
 mobile_latency,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv,NaN,NaN,NaN,NaN
 ITU_database,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_rev2_Sept_2022.xlsx,1,1,NaN,NaN
