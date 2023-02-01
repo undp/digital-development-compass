@@ -26,7 +26,7 @@ Insights from the Digital Development Compass combined with UNDP's Digital Readi
 * Video Explanation: [![Digital Readiness Assessment Video Explanation](https://img.youtube.com/vi/EWJrX96TTo4/0.jpg)](http://www.youtube.com/watch?v=EWJrX96TTo4)
 
 # Our Methodology
-Inclusion of datasets
+## Inclusion of datasets
 Based on: Reliability of source, relevance of the source, quality of methodology, and both recency and breadth of data.
 
 ## Data availability
@@ -39,4 +39,4 @@ Stage of Digital Readiness is determined from score of 1-5.99. Indicators are co
 **This tool is in Beta**; we are currently under scientific peer review with Expert Advisors. This tool does not intend or imply any form of statistical significance.
 
 # Learn More
-For more information or suggestions on how to improve this approach, please [visit us](https://data.undp.org/digitalnation/) or [contact us](mailto:digital@undp.org?cc=mark.belinsky@undp.org&?subject=[GitHub]%20Digital%20Development%20Dashboard%20Code%20Inquiry)
+For more information or suggestions on how to improve this approach, please [visit us](https://data.undp.org/digitalcompass) or [contact us](mailto:digital@undp.org?cc=mark.belinsky@undp.org&?subject=[GitHub]%20Digital%20Development%20Dashboard%20Code%20Inquiry)
