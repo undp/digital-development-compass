@@ -28,10 +28,10 @@ sdg_data,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Da
 undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx,1,6,NaN,NaN
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv,NaN,NaN,NaN,NaN
 open_data_idx,csv,https://index.okfn.org/api/places.csv,1,1,NaN,NaN
-population_digital_financial_services,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database_2021.xlsx,1,1,NaN,NaN
+population_digital_financial_services,xlsx,https://thedocs.worldbank.org/en/doc/80c1e5770cce90f6ee748903c583208d-0430052022/original/Databank-wide.xlsx,1,1,NaN,NaN
 ewaste_per_inhabitant,csv,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv,1,1,NaN,NaN
 global_wellbeing_initiative,xlsx,https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls,1,1,NaN,NaN
-financial_inclusiveness,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database_2021.xlsx,1,1,NaN,NaN
+financial_inclusiveness,xlsx,https://thedocs.worldbank.org/en/doc/80c1e5770cce90f6ee748903c583208d-0430052022/original/Databank-wide.xlsx,1,1,NaN,NaN
 ict_goods,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods_2022.csv,NaN,NaN,NaN,NaN
 ict_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services_2022.csv,NaN,NaN,NaN,NaN
 mob_dev_pen,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv,NaN,NaN,NaN,NaN
