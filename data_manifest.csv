@@ -41,7 +41,7 @@ b2c_ecommerse_idx,csv,https://raw.githubusercontent.com/mbelinsky/public_develop
 pop_dens_map,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv,NaN,NaN,NaN,NaN
 countries_gci,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx,1,2,NaN,NaN
 encrytion_data,xlsx,https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls,1,2,NaN,NaN
-rli,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx,8,1,NaN,NaN
+rli,xlsx,https://worldjusticeproject.org/rule-of-law-index/downloads/FINAL_2022_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,8,1,NaN,NaN
 sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv,NaN,NaN,NaN,NaN
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,NaN,NaN,NaN,NaN
 google_trends,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx,2,3,NaN,NaN
@@ -113,13 +113,13 @@ Area,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/mai
 GDP,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv,NaN,NaN,NaN,NaN
 inherent_cyber_risk,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv,NaN,NaN,NaN,NaN
 global_resilience_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv,NaN,NaN,NaN,NaN
-open_data_inventory,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv,NaN,NaN,NaN,NaN
+open_data_inventory,csv,https://odin.opendatawatch.com/Report/ToExcel?type=RankingView&sortOrder=&appConfigId=8,NaN,NaN,NaN,NaN
 open_data_barometer,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv,NaN,NaN,NaN,NaN
-open_government_wjp,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
+open_government_wjp,xlsx,https://worldjusticeproject.org/rule-of-law-index/downloads/FINAL_2022_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
 mobile_money_prevalence,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx,1,2,C,NaN
 mobile_money_regulatory,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
 inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,NaN,NaN,NaN,NaN
-birth_registration,xlsx,https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
+birth_registration,xlsx,https://data.unicef.org/wp-content/uploads/2019/10/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,NaN,NaN,NaN,NaN
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
