@@ -56,6 +56,8 @@ export default function About(
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">an innovative partnership with GitHub</a>, it is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys.
               </p>
 
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/DsUgE5uEqvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
               <div className="max-w-[40em] mr-10 py-10 text-lg">
                 <h2 className="text-3xl font-bold mt-20 mb-6">
                   How the Compass Works
