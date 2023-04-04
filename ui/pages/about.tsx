@@ -45,22 +45,15 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-                The Digital Development Compass (DDC) is an exhaustive
-                collection of a country's digital indicators, sourced from
-                publicly available datasets that we have aggregated and made
-                usable for the first time. The DDC was first created as a tool
-                for UNDP's work in supporting inclusive, whole-of-society
-                digital transformation with partners.
+                The Digital Development Compass provides an analysis of national digital development based on a comprehensive collection of publicly available data sets on digital.
               </p>
 
               <p>
-                The DDC features hundreds of existing public data sets that
-                provide indicators that provide insights on a country's progress
-                in digital transformation. Users can interact with the data to
-                understand the digital state of any nation (based on publicly
-                available data) and see comparisons and recommendations. It is
-                the biggest compilation of global datasets on digital,
-                aggregating and visualizing these metrics for the first time.
+                The Compass aggregates and synthesizes digital development indicators from over 180 public data sources into interactive dashboards across the pillars of United Nation Development Programmes' <a href="https://www.undp.org/digital/transformations">digital transformation framework</a>. Users can interact with the data to understand the digital state of any nation (based on publicly available data) and see comparisons and recommendations.
+              </p>
+
+              <p>
+                Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">an innovative partnership with GitHub</a>, it is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys.
               </p>
 
               <p>
@@ -488,7 +481,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">So how does it work?</h2>
+      <h2 className="text-3xl text-gray-800 font-bold">So how does the Compass work?</h2>
 
       <div className="relative w-full mb-[120vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
