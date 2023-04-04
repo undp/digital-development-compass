@@ -14,6 +14,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ancillary } from "database/ancillary";
 import Image from "next/image";
 import Script from "next/script";
+import YouTube from "react-youtube";
 
 import githubScreenshot from "../public/github.png";
 
@@ -45,18 +46,36 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-                The Digital Development Compass provides an analysis of national digital development based on a comprehensive collection of publicly available data sets on digital.
+                The Digital Development Compass provides an analysis of national
+                digital development based on a comprehensive collection of
+                publicly available data sets on digital.
               </p>
 
               <p>
-                The Compass aggregates and synthesizes digital development indicators from over 180 public data sources into interactive dashboards across the pillars of United Nation Development Programmes' <a href="https://www.undp.org/digital/transformations">digital transformation framework</a>. Users can interact with the data to understand the digital state of any nation (based on publicly available data) and see comparisons and recommendations.
+                The Compass aggregates and synthesizes digital development
+                indicators from over 180 public data sources into interactive
+                dashboards across the pillars of United Nation Development
+                Programmes'{" "}
+                <a href="https://www.undp.org/digital/transformations">
+                  digital transformation framework
+                </a>
+                . Users can interact with the data to understand the digital
+                state of any nation (based on publicly available data) and see
+                comparisons and recommendations.
               </p>
 
               <p>
-                Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">an innovative partnership with GitHub</a>, it is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys.
+                Developed through{" "}
+                <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">
+                  an innovative partnership with GitHub
+                </a>
+                , it is UNDP’s latest tool supporting Member States with their
+                inclusive digital transformation journeys.
               </p>
 
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/DsUgE5uEqvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <div className="aspect-video">
+                <YouTube videoId="DsUgE5uEqvw" />
+              </div>
 
               <div className="max-w-[40em] mr-10 py-10 text-lg">
                 <h2 className="text-3xl font-bold mt-20 mb-6">
@@ -65,8 +84,10 @@ export default function About(
               </div>
 
               <p>
-                The Compass provides a score that assesses the digital maturity of a nation. This is determined by the{" "}
-                {numberWords[pillars.length]} pillars of UNDP’s digital transformation framework:
+                The Compass provides a score that assesses the digital maturity
+                of a nation. This is determined by the{" "}
+                {numberWords[pillars.length]} pillars of UNDP’s digital
+                transformation framework:
               </p>
             </div>
             <div className="flex flex-wrap">
@@ -84,7 +105,11 @@ export default function About(
               ))}
             </div>
             <p className="max-w-[40em] mt-9">
-              Each of these pillars is formed of various sub-pillars and their respective indicators, which can be mapped to a specific stage of digital transformation. Every stage is assigned a score, which represents the level of digital transformation maturity of a nation.
+              Each of these pillars is formed of various sub-pillars and their
+              respective indicators, which can be mapped to a specific stage of
+              digital transformation. Every stage is assigned a score, which
+              represents the level of digital transformation maturity of a
+              nation.
             </p>
           </div>
         </div>
@@ -109,7 +134,9 @@ export default function About(
 
           <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
             <p>
-              The software and data that are used to put together the Compass are open source and in the process of becoming Digital Public Goods.
+              The software and data that are used to put together the Compass
+              are open source and in the process of becoming Digital Public
+              Goods.
             </p>
             <p>
               Automations scrape publicly available spreadsheets, PDFs, and
@@ -493,7 +520,9 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">Let's walk through an example of the Compass at work?</h2>
+      <h2 className="text-3xl text-gray-800 font-bold">
+        Let's walk through an example of the Compass at work?
+      </h2>
 
       <div className="relative w-full mb-[120vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
