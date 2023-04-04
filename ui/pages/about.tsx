@@ -119,7 +119,7 @@ export default function About(
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] mr-10 py-10 text-lg">
             <h2 className="text-3xl font-bold mt-20 mb-6">
-              Stages of Digital Transformation
+              Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
 
@@ -164,13 +164,13 @@ export default function About(
           </div>
 
           <div className="max-w-[40em] py-10 text-lg px-4">
-            <h2 className="text-3xl font-bold mt-20 mb-6">Our Methodology</h2>
+            <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
 
             <ul className="space-y-4">
               <li>
                 <strong>Inclusion of datasets</strong>
                 <p>
-                  Based on: Reliability of source, relevance of the source,
+                  Based on: Reliability of source, relevance of source,
                   quality of methodology, and both recency and breadth of data.
                 </p>
               </li>
@@ -190,14 +190,22 @@ export default function About(
                   Averaged into Sub-Pillar Scores. Scores are Weighted and
                   Averaged into Pillar Scores & paired with a % Data
                   Availability Rate. Scores are Averaged into a Country's
-                  Overall Score and paired with a Reliability Score. Weightings
+                  Overall Score and paired with a Reliability Score. The Weighting
                   of data and scores is under development.
                 </p>
               </li>
               <li>
+                <strong>Real Time</strong>
+                <p>
+                  The data that is aggregated and normalized is pulled in real time.
+                  As such, the scores adjust to reflect the latest available data.
+                </p>
+              </li>
+              </li>
+              <li>
                 <strong>Peer Review</strong>
                 <p>
-                  This tool is in Beta; we are currently under scientific peer
+                  This tool is in Beta version; we are currently under scientific peer
                   review with Expert Advisors. This tool does not intend or
                   imply any form of statistical significance.
                 </p>
@@ -205,8 +213,8 @@ export default function About(
             </ul>
 
             <p className="mt-10">
-              We pulled together as many reliable data points on Digital
-              Development that we could. For more details on our methodology,
+              Through this effort, we pulled together as many reliable data points on digital
+              development as possible. For more details on our methodology or to contribute to it,
               reach out to{" "}
               <a href="mailto:digital@undp.org" className="underline">
                 digital@undp.org
@@ -521,7 +529,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
   return (
     <div className="w-full px-[2vw] mt-60">
       <h2 className="text-3xl text-gray-800 font-bold">
-        Let's walk through an example of the Compass at work?
+        Let's walk through navigating an example in the Compass:
       </h2>
 
       <div className="relative w-full mb-[120vh]">

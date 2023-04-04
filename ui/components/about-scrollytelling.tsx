@@ -13,17 +13,17 @@ export default function AboutScrollytelling({
   return (
     <Scrollama offset={0.5} onStepEnter={onStepEnter}>
       {[
-        "Each country is ranked according to stage of digital readiness.",
+        "Each nation is ranked according to stage of digital readiness.",
         <>
           These are scored from <span className="font-mono">1</span> to{" "}
           <span className="font-mono">5.99</span>
         </>,
-        "We then use UNDP’s Digital Transformation Framework to understand the digital state of the nation",
+        "We then use UNDP’s Digital Transformation Framework to understand the digital state of a given nation",
         "Each pillar is investigated",
-        "and each sub-pillar, too.",
-        "Using open data sets mapped to our framework, we see how each sub-pillar does.",
+        "and each related sub-pillar, too.",
+        "Using open data sets mapped to our framework, we identify each sub-pillar's score.",
         <>
-          For instance, we can see that {country["Country or Area"]} scored a{" "}
+          For instance, here our analysis shows that {country["Country or Area"]} scored a{" "}
           <span className="font-mono">{countryFocusedSubpillar.score}</span> on
           the connectivity technology sub-pillar.
         </>,
