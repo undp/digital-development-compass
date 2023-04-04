@@ -56,9 +56,15 @@ export default function About(
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">an innovative partnership with GitHub</a>, it is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys.
               </p>
 
+              <div className="max-w-[40em] mr-10 py-10 text-lg">
+                <h2 className="text-3xl font-bold mt-20 mb-6">
+                  How the Compass Works
+                </h2>
+              </div>
+
               <p>
-                The Digital Transformation Framework is split into{" "}
-                {numberWords[pillars.length]} pillars:
+                The Compass provides a score that assesses the digital maturity of a nation. This is determined by the{" "}
+                {numberWords[pillars.length]} pillars of UNDP’s digital transformation framework:
               </p>
             </div>
             <div className="flex flex-wrap">
@@ -76,12 +82,7 @@ export default function About(
               ))}
             </div>
             <p className="max-w-[40em] mt-9">
-              Each pillar is then mapped to a sub-pillar. And each sub-pillar
-              maps to a specific stage of digital transformation. The sub-pillar
-              consists of any number of individual indicators. These indicators
-              are used to calculate a country's Digital Transformation Score per
-              sub-pillar. These scores are mapped to definitions explaining each
-              stage of digital transformation.
+              Each of these pillars is formed of various sub-pillars and their respective indicators, which can be mapped to a specific stage of digital transformation. Every stage is assigned a score, which represents the level of digital transformation maturity of a nation.
             </p>
           </div>
         </div>
@@ -98,7 +99,16 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
+          <div className="max-w-[40em] mr-10 py-10 text-lg">
+            <h2 className="text-3xl font-bold mt-20 mb-6">
+              A Digital Public Good
+            </h2>
+          </div>
+
           <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
+            <p>
+              The software and data that are used to put together the Compass are open source and in the process of becoming Digital Public Goods.
+            </p>
             <p>
               Automations scrape publicly available spreadsheets, PDFs, and
               documents into a machine-readable format. Scripts normalize the
@@ -481,7 +491,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">So how does the Compass work?</h2>
+      <h2 className="text-3xl text-gray-800 font-bold">Let's walk through an example of the Compass at work?</h2>
 
       <div className="relative w-full mb-[120vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
