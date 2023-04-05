@@ -23,7 +23,7 @@ function Hero() {
         Is your nation ready to navigate digital transformation?
       </h1>
       <p className="text-lg leading-7 mt-4 text-gray-500">
-        Dive in and explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to disover & compare progress across a range of issues.
+        Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
       </p>
     </div>
   );
