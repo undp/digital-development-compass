@@ -170,8 +170,8 @@ export default function About(
               <li>
                 <strong>Inclusion of datasets</strong>
                 <p>
-                  Based on: Reliability of source, relevance of source,
-                  quality of methodology, and both recency and breadth of data.
+                  Based on: Reliability of source, relevance of source, quality
+                  of methodology, and both recency and breadth of data.
                 </p>
               </li>
               <li>
@@ -190,32 +190,32 @@ export default function About(
                   Averaged into Sub-Pillar Scores. Scores are Weighted and
                   Averaged into Pillar Scores & paired with a % Data
                   Availability Rate. Scores are Averaged into a Country's
-                  Overall Score and paired with a Reliability Score. The Weighting
-                  of data and scores is under development.
+                  Overall Score and paired with a Reliability Score. The
+                  Weighting of data and scores is under development.
                 </p>
               </li>
               <li>
                 <strong>Real Time</strong>
                 <p>
-                  The data that is aggregated and normalized is pulled in real time.
-                  As such, the scores adjust to reflect the latest available data.
+                  The data that is aggregated and normalized is pulled in real
+                  time. As such, the scores adjust to reflect the latest
+                  available data.
                 </p>
-              </li>
               </li>
               <li>
                 <strong>Peer Review</strong>
                 <p>
-                  This tool is in Beta version; we are currently under scientific peer
-                  review with Expert Advisors. This tool does not intend or
-                  imply any form of statistical significance.
+                  This tool is in Beta version; we are currently under
+                  scientific peer review with Expert Advisors. This tool does
+                  not intend or imply any form of statistical significance.
                 </p>
               </li>
             </ul>
 
             <p className="mt-10">
-              Through this effort, we pulled together as many reliable data points on digital
-              development as possible. For more details on our methodology or to contribute to it,
-              reach out to{" "}
+              Through this effort, we pulled together as many reliable data
+              points on digital development as possible. For more details on our
+              methodology or to contribute to it, reach out to{" "}
               <a href="mailto:digital@undp.org" className="underline">
                 digital@undp.org
               </a>
