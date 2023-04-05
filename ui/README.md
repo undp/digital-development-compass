@@ -2,7 +2,7 @@
 
 ## Deployment
 
-This UI auto-deploys on Vercel.
+This UI auto-deploys on [Vercel.app](https://vercel.com/)
 
 # Processing geojson data
 

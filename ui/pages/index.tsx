@@ -20,12 +20,10 @@ function Hero() {
   return (
     <div>
       <h1 className="text-3xl mt-4 font-light">
-        Explore the stages of digital readiness for nations around the world.
+        Is your nation ready to navigate digital transformation?
       </h1>
       <p className="text-lg leading-7 mt-4 text-gray-500">
-        Using the pillars of UNDP's Digital Transformation Framework, this tool
-        lets you dive into and compare national progress using the largest
-        available database of digital development data.
+        Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
       </p>
     </div>
   );

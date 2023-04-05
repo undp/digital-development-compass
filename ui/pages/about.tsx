@@ -14,6 +14,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ancillary } from "database/ancillary";
 import Image from "next/image";
 import Script from "next/script";
+import YouTube from "react-youtube";
 
 import githubScreenshot from "../public/github.png";
 
@@ -45,27 +46,48 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-                The Digital Development Compass (DDC) is an exhaustive
-                collection of a country's digital indicators, sourced from
-                publicly available datasets that we have aggregated and made
-                usable for the first time. The DDC was first created as a tool
-                for UNDP's work in supporting inclusive, whole-of-society
-                digital transformation with partners.
+                The Digital Development Compass provides an analysis of national
+                digital development based on a comprehensive collection of
+                publicly available data sets on digital.
               </p>
 
               <p>
-                The DDC features hundreds of existing public data sets that
-                provide indicators that provide insights on a country's progress
-                in digital transformation. Users can interact with the data to
-                understand the digital state of any nation (based on publicly
-                available data) and see comparisons and recommendations. It is
-                the biggest compilation of global datasets on digital,
-                aggregating and visualizing these metrics for the first time.
+                The Compass aggregates and synthesizes digital development
+                indicators from over 180 public data sources into interactive
+                dashboards across the pillars of United Nation Development
+                Programmes'{" "}
+                <a href="https://www.undp.org/digital/transformations">
+                  digital transformation framework
+                </a>
+                . Users can interact with the data to understand the digital
+                state of any nation (based on publicly available data) and see
+                comparisons and recommendations.
               </p>
 
               <p>
-                The Digital Transformation Framework is split into{" "}
-                {numberWords[pillars.length]} pillars:
+                Developed through{" "}
+                <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">
+                  an innovative partnership with GitHub
+                </a>
+                , it is UNDP’s latest tool supporting Member States with their
+                inclusive digital transformation journeys.
+              </p>
+
+              <div className="aspect-video">
+                <YouTube videoId="DsUgE5uEqvw" />
+              </div>
+
+              <div className="max-w-[40em] mr-10 py-10 text-lg">
+                <h2 className="text-3xl font-bold mt-20 mb-6">
+                  How the Compass Works
+                </h2>
+              </div>
+
+              <p>
+                The Compass provides a score that assesses the digital maturity
+                of a nation. This is determined by the{" "}
+                {numberWords[pillars.length]} pillars of UNDP’s digital
+                transformation framework:
               </p>
             </div>
             <div className="flex flex-wrap">
@@ -83,12 +105,11 @@ export default function About(
               ))}
             </div>
             <p className="max-w-[40em] mt-9">
-              Each pillar is then mapped to a sub-pillar. And each sub-pillar
-              maps to a specific stage of digital transformation. The sub-pillar
-              consists of any number of individual indicators. These indicators
-              are used to calculate a country's Digital Transformation Score per
-              sub-pillar. These scores are mapped to definitions explaining each
-              stage of digital transformation.
+              Each of these pillars is formed of various sub-pillars and their
+              respective indicators, which can be mapped to a specific stage of
+              digital transformation. Every stage is assigned a score, which
+              represents the level of digital transformation maturity of a
+              nation.
             </p>
           </div>
         </div>
@@ -98,14 +119,25 @@ export default function About(
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] mr-10 py-10 text-lg">
             <h2 className="text-3xl font-bold mt-20 mb-6">
-              Stages of Digital Transformation
+              Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
 
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
+          <div className="max-w-[40em] mr-10 py-10 text-lg">
+            <h2 className="text-3xl font-bold mt-20 mb-6">
+              A Digital Public Good
+            </h2>
+          </div>
+
           <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
+            <p>
+              The software and data that are used to put together the Compass
+              are open source and in the process of becoming Digital Public
+              Goods.
+            </p>
             <p>
               Automations scrape publicly available spreadsheets, PDFs, and
               documents into a machine-readable format. Scripts normalize the
@@ -132,14 +164,14 @@ export default function About(
           </div>
 
           <div className="max-w-[40em] py-10 text-lg px-4">
-            <h2 className="text-3xl font-bold mt-20 mb-6">Our Methodology</h2>
+            <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
 
             <ul className="space-y-4">
               <li>
                 <strong>Inclusion of datasets</strong>
                 <p>
-                  Based on: Reliability of source, relevance of the source,
-                  quality of methodology, and both recency and breadth of data.
+                  Based on: Reliability of source, relevance of source, quality
+                  of methodology, and both recency and breadth of data.
                 </p>
               </li>
               <li>
@@ -158,24 +190,32 @@ export default function About(
                   Averaged into Sub-Pillar Scores. Scores are Weighted and
                   Averaged into Pillar Scores & paired with a % Data
                   Availability Rate. Scores are Averaged into a Country's
-                  Overall Score and paired with a Reliability Score. Weightings
-                  of data and scores is under development.
+                  Overall Score and paired with a Reliability Score. The
+                  Weighting of data and scores is under development.
+                </p>
+              </li>
+              <li>
+                <strong>Real Time</strong>
+                <p>
+                  The data that is aggregated and normalized is pulled in real
+                  time. As such, the scores adjust to reflect the latest
+                  available data.
                 </p>
               </li>
               <li>
                 <strong>Peer Review</strong>
                 <p>
-                  This tool is in Beta; we are currently under scientific peer
-                  review with Expert Advisors. This tool does not intend or
-                  imply any form of statistical significance.
+                  This tool is in Beta version; we are currently under
+                  scientific peer review with Expert Advisors. This tool does
+                  not intend or imply any form of statistical significance.
                 </p>
               </li>
             </ul>
 
             <p className="mt-10">
-              We pulled together as many reliable data points on Digital
-              Development that we could. For more details on our methodology,
-              reach out to{" "}
+              Through this effort, we pulled together as many reliable data
+              points on digital development as possible. For more details on our
+              methodology or to contribute to it, reach out to{" "}
               <a href="mailto:digital@undp.org" className="underline">
                 digital@undp.org
               </a>
@@ -488,7 +528,9 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">So how does it work?</h2>
+      <h2 className="text-3xl text-gray-800 font-bold">
+        Let's walk through navigating an example in the Compass:
+      </h2>
 
       <div className="relative w-full mb-[120vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
