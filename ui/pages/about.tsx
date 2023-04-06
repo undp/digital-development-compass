@@ -54,8 +54,8 @@ export default function About(
               <p>
                 The Compass aggregates and synthesizes digital development
                 indicators from over 180 public data sources into interactive
-                dashboards across the pillars of United Nation Development
-                Programmes'{" "}
+                dashboards across the pillars of the United Nations Development
+                Programme's (UNDP){" "}
                 <a href="https://www.undp.org/digital/transformations">
                   digital transformation framework
                 </a>

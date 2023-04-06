@@ -13,7 +13,7 @@ export default function AboutScrollytelling({
   return (
     <Scrollama offset={0.5} onStepEnter={onStepEnter}>
       {[
-        "Each nation is ranked according to stage of digital readiness.",
+        "Each nation is ranked according to a stage of digital readiness.",
         <>
           These are scored from <span className="font-mono">1</span> to{" "}
           <span className="font-mono">5.99</span>
