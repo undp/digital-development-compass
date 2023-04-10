@@ -143,7 +143,7 @@ export default function About(
               documents into a machine-readable format. Scripts normalize the
               data according to a UN-defined list of countries, regions,
               sub-regions, income groups, & territorial borders. Data is
-              automatically updated international organizations release new
+              automatically updated as soon as international organizations release new
               reports. All code and data is transparent and available as a
               global resource on GitHub. Visit{" "}
               <a
