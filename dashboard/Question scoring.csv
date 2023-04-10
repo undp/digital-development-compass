@@ -10,14 +10,14 @@ Are there mechanisms to connect digitally-skilled diaspora to local efforts?,Inf
 Are local universities graduating the experts on digital needed in your country? What percentage of need do you think is being met?,Infrastructure,Innovation Ecosystem,Small,Medium,High,null
 Where is access to broadband internet available?,Infrastructure,Connectivity technology,Only the capital city,Only major cities,Widely available,I don't know
 Do you have wifi internet at home?,People,Usage and Ownership,No,"Yes, but data runs out","Yes, with lots of data",I don't know
-Do you have wifi internet at the office?,Business,Technology adoption,No,"Yes, but data runs out","Yes, with lots of data",I don't know
+Do you have wifi internet at the workplace?,Business,Technology adoption,No,"Yes, but data runs out","Yes, with lots of data",I don't know
 Do you have internet on your phone?,People,Usage and Ownership,No,"Yes, but data runs out","Yes, with lots of data",I don't know
 How difficult is it for a postal package to reach its destination throughout the country?,Infrastructure,Connectivity technology,Very,Medium,Not,I don't know
 Are government website analytics measured and used?,Government,Digital public services,No,Some,Yes,I don't know
 Is the source code for government software apps and/or websites available to staff to modify?,Government,Digital public services,No,"Yes, on office computers","Yes, in the Cloud",I don't know
 Does the government own any software apps and/or websites that it pays for?,Government,Digital public services,No,Some,All,I don't know
 Are data sets available in digital formats?,Government,Digital public services,No,"Yes, e.g. as spreadsheets","Yes, via APIs",I don't know
-Is the data collected from projects open and available to the public for use?,Government,Digital public services,No,Offline (paper),Online,I don't know
+Is the data collected from government projects open and available to the public for use?,Government,Digital public services,No,Offline (paper),Online,I don't know
 Does the government have any data security and privacy standards in place?,Government,Digital public services,No,Limited,"Thorough (password policy, etc.)",I don't know
 Has the government completed a data security threat analysis?,Government,Digital public services,No,"Yes, but security measures have not yet been implemented","Yes, and security measures have been implemented",I don't know
 What impact do procurement standards have on digital work?,Government,Funding and procurement,A barrier,Limited impact,An enabler,I don't know
@@ -61,18 +61,18 @@ Is there an institutional focus on addressing the needs of vulnerable groups?,Re
 Is data gathered on vulnerable groups to better understand their needs and perspectives?,Regulation,Ethical standards,No,Weak,Strong,I don't know
 Key drivers of the economy are adopting digital technologies,Business,Technology adoption,No interest,Need help,Making progress,I don't know
 How is the process of getting technology through customs?,Business,Technology adoption,Slow,Medium,Fast,I don't know
-There are financial vehicles to encourage corporate digital transformation,Business,Financing Incentives,No,Weak,Strong,I don't know
+Are there financial vehicles to encourage corporate digital transformation?,Business,Financing Incentives,No,Weak,Strong,I don't know
 Local corporations are adhering to responsible behavior around protecting customers online,Business,Impact Commitments,No,Weak,Strong,I don't know
 Startup companies feel comfortable growing here,Business,Startup Environment,No interest,Need help,Making progress,I don't know
 Getting internet set up in offices is:,Business,Technology adoption,Easy,Medium,Hard,I don't know
 Has the government's position on digital resulted in greater popularity and/or electability for officials?,People,Culture,Decreased,Neutral,Increased,I don't know
 Are there efforts underway to close the digital divide for women and girls?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
 Are there efforts underway to close the digital divide for ethnic and/or religious minorities?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
-Are there efforts underway to close the digital divide for other marginalized groups?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
+Are there efforts underway to close the digital divide for other vulnerable groups?,People,Digital Literacy Skills,No,Weak,Strong,I don't know
 Are people motivated to embrace technology solutions?,People,Culture,Nervous,Interested,Excited,I don't know
 How are citizens' attitudes towards entrepreneurial risk?,People,Culture,Negative,Neutral,Positive,I don't know
 What impact is the internet having on individuals?,People,Digital Wellbeing,Negative,Neutral,Positive,I don't know
-Are people having beneficial financial impacts from the digital economy who had less opportunity in the physical economy?,People,Usage and Ownership,No,Few,Many,I don't know
-Do you have grid electricity at the office?,Business,Technology adoption,No,Sometimes Disconnected,Yes,I don't know
+Are people having beneficial financial impacts from the digital economy who had less opportunity in the traditional economy?,People,Usage and Ownership,No,Few,Many,I don't know
+Do you have grid electricity at the workplace?,Business,Technology adoption,No,Sometimes Disconnected,Yes,I don't know
 Is inclusivity a priority for digital transformation?,Strategy,Ambition,Not,Somewhat,Very,I don't know
 Are any countries in your region and/or income-group doing interesting work on digital?,Infrastructure,Innovation Ecosystem,No,Some,Many,I don't know
