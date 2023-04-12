@@ -57,7 +57,7 @@ RD_Percentage_GDP,xlsx,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.
 ICT_Investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv,NaN,NaN,NaN,NaN
 start_up_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv,NaN,NaN,NaN,NaN
 SDG_digital_literacy_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv,NaN,NaN,NaN,NaN
-Egov_strategy,xlsx,https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx,2,2,NaN,NaN
+Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/DR0065450/WBG_GovTech%20Dataset_Dec2020.xlsx?versionId=2022-12-13T16:11:28.0242618Z,2,2,NaN,NaN
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,NaN,NaN,NaN,NaN
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,NaN,NaN,NaN,NaN
 banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv,NaN,NaN,NaN,NaN
@@ -85,7 +85,7 @@ digital_work_ecosystem_size,csv,https://raw.githubusercontent.com/mbelinsky/publ
 business_internet,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv,NaN,NaN,NaN,NaN
 business_broadband,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv,NaN,NaN,NaN,NaN
 share_of_businesses_online_presence,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv,NaN,NaN,NaN,NaN
-ease_of_finding_skilled_employees,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv,NaN,NaN,NaN,NaN
+ease_of_finding_skilled_employees,csv,https://govdata360-backend.worldbank.org/api/v1/datasets/53/dump.csv,NaN,NaN,NaN,NaN
 apps_in_national_language,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language_2021.csv,NaN,NaN,NaN,NaN
 time_spent_online,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv,NaN,NaN,NaN,NaN
 cryptocurrency_adoption,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv,NaN,NaN,NaN,NaN
@@ -104,7 +104,7 @@ mobile_latency,csv,https://raw.githubusercontent.com/mbelinsky/public_developmen
 ITU_database,xlsx,https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2022.xlsx,1,1,NaN,NaN
 Chainalysis_2021_Geography_Cryptocurrency_Report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv,NaN,NaN,NaN,NaN
 social_media_penetration,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/social_media_penetration.csv,NaN,NaN,NaN,NaN
-TCdata360,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv,NaN,NaN,NaN,NaN
+TCdata360,csv,https://tcdata360-backend.worldbank.org/api/v1/datasets/430/dump.csv,NaN,NaN,NaN,NaN
 global_innovation_dataset,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_innovation_dataset.csv,NaN,NaN,NaN,NaN
 patent_application_PCT,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/patent_application_PCT.csv,NaN,NaN,NaN,NaN
 Hague_system,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Hague_system.csv,NaN,NaN,NaN,NaN
@@ -113,13 +113,13 @@ Area,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/mai
 GDP,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv,NaN,NaN,NaN,NaN
 inherent_cyber_risk,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv,NaN,NaN,NaN,NaN
 global_resilience_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv,NaN,NaN,NaN,NaN
-open_data_inventory,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv,NaN,NaN,NaN,NaN
+open_data_inventory,csv,https://odin.opendatawatch.com/Report/ToExcel?type=RankingView&sortOrder=&appConfigId=8,NaN,NaN,NaN,NaN
 open_data_barometer,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv,NaN,NaN,NaN,NaN
-open_government_wjp,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
-mobile_money_prevalence,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx,1,2,C,NaN
-mobile_money_regulatory,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
+open_government_wjp,xlsx,https://worldjusticeproject.org/rule-of-law-index/downloads/FINAL_2022_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
+mobile_money_prevalence,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2023/02/MMPI2020-22_Public.xlsx ,1,2,C,NaN
+mobile_money_regulatory,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2022/03/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
 inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,NaN,NaN,NaN,NaN
-birth_registration,xlsx,https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
+birth_registration,xlsx,https://data.unicef.org/wp-content/uploads/2019/10/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,NaN,NaN,NaN,NaN
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
