@@ -76,7 +76,7 @@ happiness_score,csv,https://raw.githubusercontent.com/mbelinsky/public_developme
 population_interacting_public_officials,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv,NaN,NaN,NaN,NaN
 cloud_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv,NaN,NaN,NaN,NaN
 mobile_density,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv,NaN,NaN,NaN,NaN
-logistics_performance_index,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/logistics_performance_index.xlsx,1,1,NaN,NaN
+logistics_performance_index,xlsx,https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx,1,2,NaN,NaN
 national_cybersecurity_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv,NaN,NaN,NaN,NaN
 digital_platform_economy_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv,NaN,NaN,NaN,NaN
 global_fintech_ranking,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv,NaN,NaN,NaN,NaN
@@ -123,3 +123,5 @@ birth_registration,xlsx,https://data.unicef.org/wp-content/uploads/2019/10/XLS_B
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,NaN,NaN,NaN,NaN
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
+percentage_ownship_mobiles,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
+frequency_people_connect,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
