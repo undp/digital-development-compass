@@ -56,7 +56,7 @@ RD_Percentage_GDP,xlsx,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.
 ICT_Investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv,NaN,NaN,NaN,NaN
 start_up_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv,NaN,NaN,NaN,NaN
 SDG_digital_literacy_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv,NaN,NaN,NaN,NaN
-Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/DR0065450/WBG_GovTech%20Dataset_Dec2020.xlsx?versionId=2022-12-13T16:11:28.0242618Z,2,2,NaN,NaN
+Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/DR0065450/WBG_GovTech%20Dataset_Dec2020.xlsx,2,2,NaN,NaN
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,NaN,NaN,NaN,NaN
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,NaN,NaN,NaN,NaN
 banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv,NaN,NaN,NaN,NaN
