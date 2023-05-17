@@ -3,7 +3,7 @@ Countries,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_da
 countries_mobile_connectivity,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx,3,3,NaN,NaN
 countries_ixp,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv,NaN,NaN,NaN,NaN
 number_key_internet_controls_employed,xlsx,https://freedomhouse.org/sites/default/files/2022-10/FOTN_2022_Key_Internet_Controls.xlsx,1,1,A,NaN
-id4d_nid,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.cvs,NaN,NaN,NaN,NaN
+id4d_nid,csv,https://datacatalogfiles.worldbank.org/ddh-published/0040787/DR0050913/wb_id4d_dataset_2018_0.xlsx,NaN,NaN,NaN,NaN
 id4d_services,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx,7,2,NaN,NaN
 population_internet_coverage_2g,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx,3,3,Y,NaN
 population_internet_coverage_3g,xlsx,https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx,3,3,Z,NaN
@@ -25,7 +25,7 @@ legal_rights_strength,csv,https://raw.githubusercontent.com/mbelinsky/public_dev
 ease_doing_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv,NaN,NaN,NaN,NaN
 time_start_bus,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv,NaN,NaN,NaN,NaN
 sdg_data,xlsx,https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx,3,1,NaN,NaN
-undp_human_developmnt,xlsx,http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx,1,6,NaN,NaN
+undp_human_developmnt,xlsx,https://hdr.undp.org/sites/default/files/2021-22_HDR/HDR21-22_Statistical_Annex_HDI_Table.xlsx,1,6,NaN,NaN
 fb_social_connectedness,tsv,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv,NaN,NaN,NaN,NaN
 open_data_idx,csv,https://index.okfn.org/api/places.csv,1,1,NaN,NaN
 population_digital_financial_services,xlsx,https://thedocs.worldbank.org/en/doc/80c1e5770cce90f6ee748903c583208d-0430052022/original/Databank-wide.xlsx,1,2,NaN,NaN
@@ -41,13 +41,12 @@ b2c_ecommerse_idx,csv,https://raw.githubusercontent.com/mbelinsky/public_develop
 pop_dens_map,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv,NaN,NaN,NaN,NaN
 countries_gci,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx,1,2,NaN,NaN
 encrytion_data,xlsx,https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls,1,2,NaN,NaN
-rli,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx,8,1,NaN,NaN
 sci,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv,NaN,NaN,NaN,NaN
 top_sites,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv,NaN,NaN,NaN,NaN
 google_trends,xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx,2,3,NaN,NaN
 youtube_searches,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/youtube_searches.csv,NaN,NaN,NaN,NaN
 electricity_density,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/electricity_density.csv,NaN,NaN,NaN,NaN
-postal_coverage,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv,NaN,NaN,NaN,NaN
+postal_coverage,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage_2020.csv,NaN,NaN,NaN,NaN
 schools_w_internet,xlsx,https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls,1,3,NaN,NaN
 dice_export_global_cybersecurity_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv,NaN,NaN,NaN,NaN
 ecosystem,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv,NaN,NaN,NaN,NaN
@@ -57,7 +56,7 @@ RD_Percentage_GDP,xlsx,https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.
 ICT_Investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv,NaN,NaN,NaN,NaN
 start_up_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv,NaN,NaN,NaN,NaN
 SDG_digital_literacy_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv,NaN,NaN,NaN,NaN
-Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/DR0065450/WBG_GovTech%20Dataset_Dec2020.xlsx?versionId=2022-12-13T16:11:28.0242618Z,2,2,NaN,NaN
+Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/DR0065450/WBG_GovTech%20Dataset_Dec2020.xlsx,2,2,NaN,NaN
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,NaN,NaN,NaN,NaN
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,NaN,NaN,NaN,NaN
 banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv,NaN,NaN,NaN,NaN
@@ -76,7 +75,7 @@ happiness_score,csv,https://raw.githubusercontent.com/mbelinsky/public_developme
 population_interacting_public_officials,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv,NaN,NaN,NaN,NaN
 cloud_services,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv,NaN,NaN,NaN,NaN
 mobile_density,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv,NaN,NaN,NaN,NaN
-logistics_performance_index,xlsx,https://lpi.worldbank.org/sites/default/files/International_LPI_from_2007_to_2018.xlsx,1,2,NaN,NaN
+logistics_performance_index,xlsx,https://lpi.worldbank.org/sites/default/files/2023-03/International_LPI_from_2007_to_2023_0.xlsx,1,2,NaN,NaN
 national_cybersecurity_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv,NaN,NaN,NaN,NaN
 digital_platform_economy_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv,NaN,NaN,NaN,NaN
 global_fintech_ranking,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv,NaN,NaN,NaN,NaN
@@ -92,7 +91,7 @@ cryptocurrency_adoption,csv,https://raw.githubusercontent.com/mbelinsky/public_d
 cyberbullying_rate,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv,NaN,NaN,NaN,NaN
 individuals_buying_online_frequency,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/individuals_buying_online_frequency.csv,NaN,NaN,NaN,NaN
 e-commerce_activity,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e-commerce_activity.csv,NaN,NaN,NaN,NaN
-FB_users,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users.csv,NaN,NaN,NaN,NaN
+FB_users,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users-2023.csv,NaN,NaN,NaN,NaN
 digital_payments_penetration,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv,NaN,NaN,NaN,NaN
 tech_hubs,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tech_hubs.csv,NaN,NaN,NaN,NaN
 software_developer_ecosystem_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv,NaN,NaN,NaN,NaN
@@ -113,15 +112,14 @@ Area,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/mai
 GDP,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv,NaN,NaN,NaN,NaN
 inherent_cyber_risk,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv,NaN,NaN,NaN,NaN
 global_resilience_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv,NaN,NaN,NaN,NaN
-open_data_inventory,csv,https://odin.opendatawatch.com/Report/ToExcel?type=RankingView&sortOrder=&appConfigId=8,NaN,NaN,NaN,NaN
+open_data_inventory,xlsx,https://odin.opendatawatch.com/Report/ToExcel?type=RankingView&sortOrder=&appConfigId=8,NaN,NaN,NaN,NaN
 open_data_barometer,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv,NaN,NaN,NaN,NaN
 open_government_wjp,xlsx,https://worldjusticeproject.org/rule-of-law-index/downloads/FINAL_2022_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
-mobile_money_prevalence,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2023/02/MMPI2020-22_Public.xlsx ,1,2,C,NaN
+mobile_money_prevalence,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2023/02/MMPI2020-22_Public.xlsx,1,2,C,NaN
 mobile_money_regulatory,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2022/03/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
 inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,NaN,NaN,NaN,NaN
 birth_registration,xlsx,https://data.unicef.org/wp-content/uploads/2019/10/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,NaN,NaN,NaN,NaN
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
-percentage_ownship_mobiles,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
-frequency_people_connect,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
+A4AI-Mobile-Broadband-Pricing,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
