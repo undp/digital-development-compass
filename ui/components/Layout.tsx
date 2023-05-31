@@ -19,8 +19,8 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
       <main className="flex-shrink-0 main">{children}</main>
 
       <footer className="bg-brand-blue py-16 flex flex-col items-center justify-center text-white">
-        <div className="grid grid-cols-2 gap-2 text-left">
-          <div className="ml-10 text-left" >  
+        <div className="grid lg:grid-cols-2 md:grid-cols-4 gap-2 text-left">
+          <div className="ml-10 text-left" >
             <div className="space-y-3">
               <div>
                 <a
@@ -64,7 +64,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               </div>
             </div>
           </div>
-          <div className="ml-20 text-left flex flex-col justify-start items-center md:items-start">
+          <div className="ml-10 text-left flex flex-col justify-start items-center md:items-start">
             <p>
               The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations or UNDP concerning the legal status of any country, territory, city or area or its authorities, or concerning the delimitation of its frontiers or boundaries.<br/><br/>
               References to Kosovo* shall be understood to be in the context of UN Security Council resolution 1244 (1999)
