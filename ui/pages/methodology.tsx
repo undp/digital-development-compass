@@ -11,6 +11,8 @@ import fiveStage from "../public/fiveStage.png"
 import transformation from "../public/transformation.png"
 import dataProcess from "../public/DataProcess.jpg"
 import Layout from "components/Layout";
+import Link from "next/link";
+
 export default function Methodology(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
@@ -306,6 +308,13 @@ export default function Methodology(
                   Sub-pillar level scores are then weighted and averaged into pillar scores. All sub-pillars are also weighted equally.<br/><br/>
                   Where data for a country is not available for an indicator, this indicator is omitted from the calculation of a sub-pillar score. Instead, an average of the indicator data that is available is used. Similarly, where no data is available for a sub-pillar, this sub-pillar is omitted from the calculation of the overall pillar score.<br/><br/>
     
+                  </p>
+                  <p>
+                    <Link href="/disclaimer">
+                      <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+                        Disclaimer.
+                      </a>
+                    </Link>
                   </p>
                   <div className="flex justify-center mt-8">
                   <button
