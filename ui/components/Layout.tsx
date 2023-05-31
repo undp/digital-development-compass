@@ -59,7 +59,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
                   href="https://github.com/undp/digital-development-compass"
                 >
                   <GoMarkGithub aria-hidden />
-                  <span className="font-semibold">GitHub Repository</span>
+                  <span className="ml-1 font-semibold">GitHub Repository</span>
                 </a>
               </div>
             </div>
