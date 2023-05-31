@@ -1,7 +1,7 @@
 import { InferGetStaticPropsType } from "next";
 import { db } from "database";
 import dynamic from "next/dynamic";
-
+import Link from "next/link";
 import Layout from "components/Layout";
 import ScoreRing from "components/score-ring";
 import { groupBy } from "lodash";
@@ -46,33 +46,37 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-                The Digital Development Compass provides an analysis of national
-                digital development based on a comprehensive collection of
-                publicly available data sets on digital.
+              The Digital Development Compass provides an analysis of national digital development based on a comprehensive 
+              collection of publicly available data sets on digital. 
               </p>
 
               <p>
-                The Compass aggregates and synthesizes digital development
-                indicators from over 180 public data sources into interactive
-                dashboards across the pillars of the United Nations Development
-                Programme's (UNDP){" "}
-                <a href="https://www.undp.org/digital/transformations">
+              The Compass aggregates and synthesises digital development indicators from over 180 publicly available open-source 
+              datasets into interactive dashboards across the pillars of the United Nations Development Programme's (UNDP){" "}
+                <a href="https://www.undp.org/digital/transformations" target="_blank" className="text-blue-300">
                   digital transformation framework
                 </a>
-                . Users can interact with the data to understand the digital
-                state of any nation (based on publicly available data) and see
-                comparisons and recommendations.
+                . Users can interact with the data to understand the digital state of any nation (based on publicly available data); 
+                it is not intended to be used as an evaluative statistical tool or an index. 
               </p>
-
+              <p>
+              The Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners, 
+              and stakeholders in their efforts to promote digital development in their respective countries. Users are encouraged to 
+              exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political, 
+              and economic context of each country's digital development efforts. 
+              </p>
               <p>
                 Developed through{" "}
-                <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/">
+                <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank" className="text-blue-300">
                   an innovative partnership with GitHub
                 </a>
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
               </p>
-
+              <p>
+              Feedback and constructive criticism are welcome to improve the accuracy and usefulness of the Compass. 
+              To raise your concerns or reflections regarding the data or results, please contact us via the chatbox.  
+              </p>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
@@ -164,6 +168,69 @@ export default function About(
           </div>
 
           <div className="max-w-[40em] py-10 text-lg px-4">
+            {/* <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
+
+            <ul className="space-y-4">
+              <li>
+                <strong>Inclusion of datasets</strong>
+                <p>
+                  Based on: Reliability of source, relevance of source, quality
+                  of methodology, and both recency and breadth of data.
+                </p>
+              </li>
+              <li>
+                <strong>Data availability</strong>
+                <p>
+                  Transparency into % of data unavailable per country per
+                  sub-pillar.
+                </p>
+              </li>
+              <li>
+                <strong>Scoring</strong>
+                <p>
+                  Stage of Digital Readiness is determined from score of 1-5.99.
+                  Indicators are converted from Index Data or Calculated
+                  according to min/max from Raw Data. Scores are Weighted and
+                  Averaged into Sub-Pillar Scores. Scores are Weighted and
+                  Averaged into Pillar Scores & paired with a % Data
+                  Availability Rate. Scores are Averaged into a Country's
+                  Overall Score and paired with a Reliability Score. The
+                  Weighting of data and scores is under development.
+                </p>
+              </li>
+              <li>
+                <strong>Real Time</strong>
+                <p>
+                  The data that is aggregated and normalized is pulled in real
+                  time. As such, the scores adjust to reflect the latest
+                  available data.
+                </p>
+              </li>
+              <li>
+                <strong>Peer Review</strong>
+                <p>
+                While this tool has undergone a scientific peer review with Expert Advisors, 
+                it does not intend or imply any form of statistical significance.
+                </p>
+              </li>
+            </ul>
+
+            <p className="mt-10">
+              Through this effort, we pulled together as many reliable data
+              points on digital development as possible. For more details on our
+              methodology or to contribute to it, reach out to{" "}
+              <a href="mailto:digital@undp.org" className="underline">
+                digital@undp.org
+              </a>
+              .
+            </p> */}
+            <p>
+            <Link href="/methodology">
+              <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+               Click here to read the Methodology.
+              </a>
+            </Link>
+            </p>
             <div className="flex justify-center mt-8">
               <button
                 onClick={handleScrollToTop}

@@ -129,7 +129,37 @@ async function main() {
 
     return match && match["new_rank_score"] ? match["new_rank_score"] : null;
   }
-
+  //Count For Subpillars With Values
+  function getUniqueSubpillarCount(country, pillar) {
+    let uniqueSubpillars = new Set();
+  
+    scores.forEach((score) => {
+      if (
+        score["Country Name"] === country &&
+        score["Pillar"] === pillar &&
+        score["Sub-Pillar"]
+      ) {
+        uniqueSubpillars.add(score["Sub-Pillar"]);
+      }
+    });
+  
+    return uniqueSubpillars.size;
+  }
+  // Count For all Subpillars in Definition 
+  function countUniqueSubpillars(pillar) {
+    let uniqueSubpillars = new Set();
+  
+    definitions.forEach((definition) => {
+      if (
+        definition["Pillar"] === pillar &&
+        definition["Sub-Pillar"]
+      ) {
+        uniqueSubpillars.add(definition["Sub-Pillar"]);
+      }
+    });
+  
+    return uniqueSubpillars.size;
+  }  
   function getPillarConfidence(country, pillar) {
     let match = scores.find((score) => {
       return score["Country Name"] === country && score["Pillar"] === pillar;
@@ -206,9 +236,13 @@ async function main() {
         let score = getPillarScore(countryName, next);
         let confidence = getPillarConfidence(countryName, next);
         let rank = getPillarRank(countryName, next);
+        let multivariable = getUniqueSubpillarCount(countryName, next); 
+        let divisionVariable = countUniqueSubpillars(next);
+        let dividedRank = score * multivariable;
+        let final_score = dividedRank / divisionVariable ;
         acc[next] = {
           rank,
-          score: roundNumber(parseFloat(score), 2),
+          score: roundNumber(parseFloat(final_score), 2),
           confidence: roundNumber(parseFloat(confidence), 2),
           stage: getStageInfo(score, next) || null,
           ...pillarMap[next].reduce((subAcc, sp) => {
@@ -261,8 +295,7 @@ async function main() {
     countries: countriesWithScoresStagesAndRanks,
     geojson,
     scores,
-  };
-
+  }; 
   // Used to more easily access the pillar data in the frontend.
   const ancillary = `export default {
     pillars: ${JSON.stringify(pillarMap)},
@@ -271,7 +304,6 @@ async function main() {
 
   let processedDir = path.join(__dirname, "..", "database", "processed");
   fs.mkdirSync(processedDir, { recursive: true });
-
   fs.writeFileSync(path.join(processedDir, "db.json"), JSON.stringify(db));
   fs.writeFileSync(path.join(processedDir, "ancillary.ts"), ancillary);
 }

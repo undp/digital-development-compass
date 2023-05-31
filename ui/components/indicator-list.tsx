@@ -158,7 +158,8 @@ const Indicator = ({
   // but if empty, we need to fall back to the indicator's "Data Source"
   const sources = (indicator.sources || [indicator]).map(indicator => ({
     link: indicator["Data Link"],
-    source: indicator["Data Source"]
+    source: indicator["Data Source"],
+    year: indicator["Year"]
   })).filter(indicator => indicator.source && indicator.link)
   const value = +(isShowingRawScores
     ? indicator.data_col
@@ -188,6 +189,9 @@ const Indicator = ({
                   <FaLink className="group-hover:no-underline mr-1 flex-none" />
                   <span className="group-hover:underline">
                     {source.source}
+                  </span> &nbsp; 
+                  <span className="group-hover:no-underline">
+                    -<em>&nbsp;{source.year}</em>
                   </span>
                 </a>
               </li>

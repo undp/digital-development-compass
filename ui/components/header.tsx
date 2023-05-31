@@ -11,11 +11,6 @@ export function SiteName() {
   return (
     <div className="flex items-center space-x-4">
       <div className="flex flex-col space-y-1">
-        <div>
-          <span className="inline-flex items-center px-[10px] py-[2px] rounded-full font-semibold bg-blue-100 text-blue-800 uppercase text-[10px] lg:text-xs tracking-widest">
-            Beta
-          </span>
-        </div>
         <h1 className="text-sm font-medium lg:text-2xl max-w-[20ch] lg:max-w-full">
           Digital Development Compass
         </h1>
@@ -83,10 +78,15 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 Data
               </a>
             </Link>
+            <Link href="/methodology">
+              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+                Methodology
+              </a>
+            </Link>
             <SearchDialog countries={countries} />
           </div>
-        </div>
-      </header>
+          </div>
+          </header>
       <MobileMenu
         countries={countries}
         isOpen={mobileMenuOpen}
