@@ -117,9 +117,14 @@ open_data_barometer,csv,https://raw.githubusercontent.com/mbelinsky/public_devel
 open_government_wjp,xlsx,https://worldjusticeproject.org/rule-of-law-index/downloads/FINAL_2022_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx,9,A,2,NaN
 mobile_money_prevalence,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2023/02/MMPI2020-22_Public.xlsx,1,2,C,NaN
 mobile_money_regulatory,xlsx,https://www.gsma.com/mobilemoneymetrics/wp-content/uploads/2022/03/Mobile_Money_Regulatory_Index_Database_V1.xlsx,4,3,A,D
-inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv,NaN,NaN,NaN,NaN
+inclusive_internet_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data-2022.csv,NaN,NaN,NaN,NaN
 birth_registration,xlsx,https://data.unicef.org/wp-content/uploads/2019/10/XLS_Birth_registration_database_May-2022.xlsx,1,10,A,NaN
 Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv,NaN,NaN,NaN,NaN
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
 A4AI-Mobile-Broadband-Pricing,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
+gppd_data,,,1,1,B,NaN
+New_firms_Historical_data,xlsx,https://www.worldbank.org/content/dam/doingBusiness/excel/db-2021/New_firms_Historical_data.xlsx,1,1,NaN,NaN
+ITU_G5_benchmark,CSV,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ITU_G5_benchmark.csv,1,1,NaN,NaN
+ICT_regulatory_tracker,CSV,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_regulatory_tracker.csv,1,1,NaN,NaN
+google_search,CSV,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_search.csv,1,1,NaN,NaN
