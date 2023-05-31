@@ -164,64 +164,6 @@ export default function About(
           </div>
 
           <div className="max-w-[40em] py-10 text-lg px-4">
-            <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
-
-            <ul className="space-y-4">
-              <li>
-                <strong>Inclusion of datasets</strong>
-                <p>
-                  Based on: Reliability of source, relevance of source, quality
-                  of methodology, and both recency and breadth of data.
-                </p>
-              </li>
-              <li>
-                <strong>Data availability</strong>
-                <p>
-                  Transparency into % of data unavailable per country per
-                  sub-pillar.
-                </p>
-              </li>
-              <li>
-                <strong>Scoring</strong>
-                <p>
-                  Stage of Digital Readiness is determined from score of 1-5.99.
-                  Indicators are converted from Index Data or Calculated
-                  according to min/max from Raw Data. Scores are Weighted and
-                  Averaged into Sub-Pillar Scores. Scores are Weighted and
-                  Averaged into Pillar Scores & paired with a % Data
-                  Availability Rate. Scores are Averaged into a Country's
-                  Overall Score and paired with a Reliability Score. The
-                  Weighting of data and scores is under development.
-                </p>
-              </li>
-              <li>
-                <strong>Real Time</strong>
-                <p>
-                  The data that is aggregated and normalized is pulled in real
-                  time. As such, the scores adjust to reflect the latest
-                  available data.
-                </p>
-              </li>
-              <li>
-                <strong>Peer Review</strong>
-                <p>
-                  This tool is in Beta version; we are currently under
-                  scientific peer review with Expert Advisors. This tool does
-                  not intend or imply any form of statistical significance.
-                </p>
-              </li>
-            </ul>
-
-            <p className="mt-10">
-              Through this effort, we pulled together as many reliable data
-              points on digital development as possible. For more details on our
-              methodology or to contribute to it, reach out to{" "}
-              <a href="mailto:digital@undp.org" className="underline">
-                digital@undp.org
-              </a>
-              .
-            </p>
-
             <div className="flex justify-center mt-8">
               <button
                 onClick={handleScrollToTop}
