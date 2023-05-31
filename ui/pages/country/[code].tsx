@@ -1,4 +1,5 @@
-import { CountryComparisons } from "components/country-comparisons";
+// Hiding Comparision
+// import { CountryComparisons } from "components/country-comparisons";
 import Layout from "components/Layout";
 import { Pillars } from "components/pillar";
 import { RelatedCountryList } from "components/related-country-list";
@@ -11,6 +12,7 @@ import { isMemberState } from "lib";
 import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
 import { useState } from "react";
+import Link from "next/link";
 
 type Props = {
   layoutCountries: {
@@ -102,6 +104,11 @@ const StaticPropsDetail = ({
                 enabled={showSources}
                 onChange={setShowSources}
               />
+              <Link href="/disclaimer">
+                  <a className="ml-1 select-none text-sm text-gray-900">
+                  Disclaimer
+                  </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -117,14 +124,14 @@ const StaticPropsDetail = ({
           </div>
         </div>
       </section>
-
-      <section className="mx-auto max-w-6xl px-8 my-16">
+{/* Hiding Comparision */}
+      {/* <section className="mx-auto max-w-6xl px-8 my-16">
         <CountryComparisons
           pillars={ancillary.pillars}
           country={country}
           relatedCountries={relatedCountries}
         />
-      </section>
+      </section> */}
 
       <section className="mx-auto max-w-6xl px-8 my-16">
         <RelatedCountryList
@@ -226,7 +233,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     };
 
     const relatedCountries = getRelatedCountries(code as string);
-
     return {
       props: {
         layoutCountries,

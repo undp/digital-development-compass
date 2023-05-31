@@ -610,6 +610,7 @@ export default function Data(
                   of{" "}
                   <span className="font-medium">{data.length} countries</span>
                 </p>
+                
               </div>
 
               <OverflowList
@@ -636,7 +637,7 @@ export default function Data(
                   );
                 }}
               />
-
+              
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
@@ -644,8 +645,13 @@ export default function Data(
                   displaySettings={displaySettings}
                   onDisplaySettingsChange={setDisplaySettings}
                 />
-              </div>
-            </div>
+              </div>&nbsp;
+              <Link href="/disclaimer">
+                  <a className="ml-1 select-none text-sm text-gray-900">
+                  Disclaimer
+                  </a>
+              </Link>
+             </div>
           </div>
           <div className="flex-1 flex-col overflow-auto h-full">
             <DataGrid

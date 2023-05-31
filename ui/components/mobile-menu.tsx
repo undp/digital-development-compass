@@ -34,6 +34,12 @@ export function MobileMenu({
               <Link href="/data">
                 <a className="text-2xl py-2">Data</a>
               </Link>
+              <Link href="/methodology">
+                <a className="text-2xl py-2">Methodology</a>
+              </Link>
+              <Link href="/disclaimer">
+                <a className="text-2xl py-2">Disclaimer</a>
+              </Link>
               <a
                 href="https://undp2020cdo.typeform.com/FeedbackDDD"
                 className="text-2xl py-2"
