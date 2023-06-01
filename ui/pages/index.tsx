@@ -63,20 +63,6 @@ const IndexPage = ({
                   onChange={setPillarFilter}
                 />
               </div>
-              <div className="mt-auto pt-4 lg:pt-6 lg:pb-8">
-                <p className="text-xs text-gray-500">
-                  The designations employed and the presentation of material on
-                  this map do not imply the expression of any opinion whatsoever
-                  on the part of the Secretariat of the United Nations or UNDP
-                  concerning the legal status of any country, territory, city or
-                  area or its authorities, or concerning the delimitation of its
-                  frontiers or boundaries.
-                </p>
-                <p className="text-xs text-gray-500 mt-2">
-                  References to Kosovo* shall be understood to be in the context
-                  of UN Security Council resolution 1244 (1999)
-                </p>
-              </div>
             </div>
           </div>
           <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative">

@@ -59,13 +59,13 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
                   href="https://github.com/undp/digital-development-compass"
                 >
                   <GoMarkGithub aria-hidden />
-                  <span className="font-semibold">GitHub Repository</span>
+                  <span className="ml-1 font-semibold">GitHub Repository</span>
                 </a>
               </div>
             </div>
           </div>
           <div className="ml-10 text-left flex flex-col justify-start items-center md:items-start">
-            <p>
+            <p className="text-xs">
               The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations or UNDP concerning the legal status of any country, territory, city or area or its authorities, or concerning the delimitation of its frontiers or boundaries.<br/><br/>
               References to Kosovo* shall be understood to be in the context of UN Security Council resolution 1244 (1999)
             </p>
