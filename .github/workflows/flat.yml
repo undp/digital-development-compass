@@ -18,7 +18,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.xlsx
@@ -26,7 +26,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -34,7 +34,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
@@ -42,7 +42,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://freedomhouse.org/sites/default/files/2022-10/FOTN_2022_Key_Internet_Controls.xlsx
@@ -50,7 +50,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.cvs
@@ -58,7 +58,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
@@ -66,7 +66,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -74,7 +74,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -82,7 +82,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -90,7 +90,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -98,7 +98,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
@@ -106,7 +106,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://s3.amazonaws.com/datascope-ast-datasets-nov29/datasets/430/data.csv
@@ -114,7 +114,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -122,7 +122,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv
@@ -130,7 +130,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/elect_dist_grid_map.csv
@@ -138,7 +138,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -146,7 +146,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
@@ -154,7 +154,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
@@ -162,7 +162,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
@@ -170,7 +170,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/international_co_inventions.csv
@@ -178,7 +178,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://unctad.org/system/files/information-document/DP.xlsx
@@ -186,7 +186,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
@@ -194,7 +194,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv
@@ -202,7 +202,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv
@@ -210,7 +210,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
@@ -218,7 +218,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
@@ -226,7 +226,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx
@@ -234,7 +234,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv
@@ -242,7 +242,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://index.okfn.org/api/places.csv
@@ -250,7 +250,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
@@ -258,7 +258,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv
@@ -266,7 +266,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls
@@ -274,7 +274,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
@@ -282,7 +282,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv
@@ -290,7 +290,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
@@ -298,7 +298,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv
@@ -306,7 +306,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
@@ -314,7 +314,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv
@@ -322,7 +322,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/b2c_ecommerse_idx.csv
@@ -330,7 +330,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv
@@ -338,7 +338,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
@@ -346,7 +346,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
@@ -354,7 +354,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx
@@ -362,7 +362,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv
@@ -370,7 +370,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv
@@ -378,7 +378,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx
@@ -386,7 +386,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/youtube_searches.csv
@@ -394,7 +394,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/electricity_density.csv
@@ -402,7 +402,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv
@@ -410,7 +410,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
@@ -418,7 +418,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv
@@ -426,7 +426,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv
@@ -434,7 +434,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel
@@ -442,7 +442,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
@@ -450,7 +450,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel
@@ -458,7 +458,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv
@@ -466,7 +466,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv
@@ -474,7 +474,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv
@@ -482,7 +482,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx
@@ -490,7 +490,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv
@@ -498,7 +498,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv
@@ -506,7 +506,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv
@@ -514,7 +514,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv
@@ -522,7 +522,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv
@@ -530,7 +530,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv
@@ -538,7 +538,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv
@@ -546,7 +546,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv
@@ -554,7 +554,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/size_digital_economy.csv
@@ -562,7 +562,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv
@@ -570,7 +570,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_returning.csv
@@ -578,7 +578,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_security.csv
@@ -586,7 +586,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_proportion.csv
@@ -594,7 +594,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/network_readiness_index.csv
@@ -602,7 +602,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/happiness_score.csv
@@ -610,7 +610,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv
@@ -618,7 +618,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv
@@ -626,7 +626,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv
@@ -634,7 +634,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/logistics_performance_index.xlsx
@@ -642,7 +642,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv
@@ -650,7 +650,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv
@@ -658,7 +658,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv
@@ -666,7 +666,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level.csv
@@ -674,7 +674,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_work_ecosystem_size.csv
@@ -682,7 +682,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv
@@ -690,7 +690,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv
@@ -698,7 +698,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv
@@ -706,7 +706,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv
@@ -714,7 +714,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language.csv
@@ -722,7 +722,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv
@@ -730,7 +730,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv
@@ -738,7 +738,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv
@@ -746,7 +746,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/individuals_buying_online_frequency.csv
@@ -754,7 +754,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e-commerce_activity.csv
@@ -762,7 +762,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users.csv
@@ -770,7 +770,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv
@@ -778,7 +778,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tech_hubs.csv
@@ -786,7 +786,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv
@@ -794,7 +794,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_with_smartphones.csv
@@ -802,7 +802,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv
@@ -810,7 +810,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv
@@ -818,7 +818,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv
@@ -826,7 +826,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv
@@ -834,7 +834,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_rev2_Sept_2022.xlsx
@@ -842,7 +842,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv
@@ -850,7 +850,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/social_media_penetration.csv
@@ -858,7 +858,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv
@@ -866,7 +866,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_innovation_dataset.csv
@@ -874,7 +874,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/patent_application_PCT.csv
@@ -882,7 +882,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Hague_system.csv
@@ -890,7 +890,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Population.csv
@@ -898,7 +898,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Area.csv
@@ -906,7 +906,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv
@@ -914,7 +914,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv
@@ -922,7 +922,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv
@@ -930,7 +930,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv
@@ -938,7 +938,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv
@@ -946,7 +946,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
@@ -954,7 +954,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx
@@ -962,7 +962,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx
@@ -970,7 +970,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv
@@ -978,7 +978,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx
@@ -986,7 +986,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv
@@ -994,7 +994,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv
@@ -1002,7 +1002,7 @@ jobs:
            postprocess: ./process_raw_data.js
 
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         if: always()
         with:
            http_url: https://www.dlapiperdataprotection.com/_undp/feed.json
