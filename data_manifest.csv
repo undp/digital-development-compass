@@ -60,7 +60,7 @@ Egov_strategy,xlsx,https://datacatalogfiles.worldbank.org/ddh-published/0037889/
 digital_public_service_use,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv,NaN,NaN,NaN,NaN
 angel_investment,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv,NaN,NaN,NaN,NaN
 banking_sector_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv,NaN,NaN,NaN,NaN
-startup_eco_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv,NaN,NaN,NaN,NaN
+startup_eco_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size_2022.csv.csv,NaN,NaN,NaN,NaN
 fixed_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv,NaN,NaN,NaN,NaN
 mobile_speed,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv,NaN,NaN,NaN,NaN
 gender_gaps,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps_2021.csv,NaN,NaN,NaN,NaN
@@ -79,7 +79,7 @@ logistics_performance_index,xlsx,https://lpi.worldbank.org/sites/default/files/2
 national_cybersecurity_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index_2021.csv,NaN,NaN,NaN,NaN
 digital_platform_economy_index,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv,NaN,NaN,NaN,NaN
 global_fintech_ranking,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking_2021.csv,NaN,NaN,NaN,NaN
-digital_skill_level,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level.csv,NaN,NaN,NaN,NaN
+digital_skill_level,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level_2022.csv,NaN,NaN,NaN,NaN
 digital_work_ecosystem_size,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_work_ecosystem_size.csv,NaN,NaN,NaN,NaN
 business_internet,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv,NaN,NaN,NaN,NaN
 business_broadband,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv,NaN,NaN,NaN,NaN
@@ -123,7 +123,7 @@ Freedomhouse_countries_report,csv,https://raw.githubusercontent.com/mbelinsky/pu
 demographic_comparison_data,csv,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv,NaN,NaN,NaN,NaN
 data_laws,json,https://www.dlapiperdataprotection.com/_undp/feed.json,NaN,NaN,NaN,NaN
 A4AI-Mobile-Broadband-Pricing,xlsx,https://a4ai.org/extra/downloads/A4AI/2021/A4AI-Mobile-Broadband-Pricing-2021.xlsx,1,2,NaN,NaN
-gppd_data,,,1,1,B,NaN
+gppd_data,Xlsx,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gppd_data.xlsx,1,1,B,NaN
 New_firms_Historical_data,xlsx,https://www.worldbank.org/content/dam/doingBusiness/excel/db-2021/New_firms_Historical_data.xlsx,1,1,NaN,NaN
 ITU_G5_benchmark,CSV,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ITU_G5_benchmark.csv,1,1,NaN,NaN
 ICT_regulatory_tracker,CSV,https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_regulatory_tracker.csv,1,1,NaN,NaN
