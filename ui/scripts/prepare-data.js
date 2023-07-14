@@ -12,7 +12,7 @@ const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
 const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
-
+ 
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
   "Country or Area",
@@ -129,37 +129,7 @@ async function main() {
 
     return match && match["new_rank_score"] ? match["new_rank_score"] : null;
   }
-  //Count For Subpillars With Values
-  function getUniqueSubpillarCount(country, pillar) {
-    let uniqueSubpillars = new Set();
-  
-    scores.forEach((score) => {
-      if (
-        score["Country Name"] === country &&
-        score["Pillar"] === pillar &&
-        score["Sub-Pillar"]
-      ) {
-        uniqueSubpillars.add(score["Sub-Pillar"]);
-      }
-    });
-  
-    return uniqueSubpillars.size;
-  }
-  // Count For all Subpillars in Definition 
-  function countUniqueSubpillars(pillar) {
-    let uniqueSubpillars = new Set();
-  
-    definitions.forEach((definition) => {
-      if (
-        definition["Pillar"] === pillar &&
-        definition["Sub-Pillar"]
-      ) {
-        uniqueSubpillars.add(definition["Sub-Pillar"]);
-      }
-    });
-  
-    return uniqueSubpillars.size;
-  }  
+
   function getPillarConfidence(country, pillar) {
     let match = scores.find((score) => {
       return score["Country Name"] === country && score["Pillar"] === pillar;
@@ -236,13 +206,13 @@ async function main() {
         let score = getPillarScore(countryName, next);
         let confidence = getPillarConfidence(countryName, next);
         let rank = getPillarRank(countryName, next);
-        let multivariable = getUniqueSubpillarCount(countryName, next); 
-        let divisionVariable = countUniqueSubpillars(next);
-        let dividedRank = score * multivariable;
-        let final_score = dividedRank / divisionVariable ;
+        //let multivariable = getUniqueSubpillarCount(countryName, next); 
+        //let divisionVariable = countUniqueSubpillars(next);
+        //let dividedRank = score * multivariable;        
+        //let final_score = dividedRank / divisionVariable ;
         acc[next] = {
           rank,
-          score: roundNumber(parseFloat(final_score), 2),
+          score: roundNumber(parseFloat(score), 2),
           confidence: roundNumber(parseFloat(confidence), 2),
           stage: getStageInfo(score, next) || null,
           ...pillarMap[next].reduce((subAcc, sp) => {
