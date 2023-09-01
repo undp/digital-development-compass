@@ -16,11 +16,11 @@ export const pillarColorMap: PillarColorMap = {
     base: "#6366f1",
     triple: ["#FFF", "#a2e0f5", "#6366f1"],
   },
-  Foundations: {
+  DPInfrastructure: {
     base: "#DE1568",
     triple: ["#FFF", "#ffab8a", "#DE1568"],
   },
-  Infrastructure: {
+  Connectivity: {
     base: "#517Ce8",
     triple: ["#FFF", "#a2e0f5", "#517Ce8"],
   },
@@ -32,17 +32,13 @@ export const pillarColorMap: PillarColorMap = {
     base: "#FE6825",
     triple: ["#FFF", "#ffd796", "#ed4b00"],
   },
-  Business: {
+  Economy: {
     base: "#dD9700",
     triple: ["#FFF", "#fff566", "#eDa700"],
   },
   People: {
     base: "#16aDd3",
     triple: ["#FFF", "#9ebcf7", "#0d88e0"],
-  },
-  Strategy: {
-    base: "#14b8a6",
-    triple: ["#FFF", "#a2e0f5", "#14b8a6"],
   },
 };
 

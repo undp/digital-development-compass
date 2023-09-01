@@ -8,13 +8,12 @@ interface Props {
 
 const colorMap: Record<string, string> = {
   Overall: "stroke-pillar-overall",
-  Business: "stroke-pillar-business",
-  Foundations: "stroke-pillar-foundations",
+  Economy: "stroke-pillar-economy",
+  DPInfrastructure: "stroke-pillar-dpinfrastructure",
   Government: "stroke-pillar-government",
-  Infrastructure: "stroke-pillar-infrastructure",
+  Connectivity: "stroke-pillar-connectivity",
   People: "stroke-pillar-people",
   Regulation: "stroke-pillar-regulation",
-  Strategy: "stroke-pillar-strategy",
 };
 
 export function GlobeProgressIndicator(props: Props) {
