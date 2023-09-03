@@ -21,14 +21,14 @@ export default function Sandbox(
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
-              definitions={definitions["Economy"]}
+              definitions={definitions["Business"]}
               pillar="Overall"
             />
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
-              definitions={definitions["Economy"]}
-              pillar="Economy"
+              definitions={definitions["Business"]}
+              pillar="Business"
             />
             <StageGauge
               name={country["Country or Area"]}
@@ -39,20 +39,26 @@ export default function Sandbox(
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
-              definitions={definitions["DPInfrastructure"]}
-              pillar="DPInfrastructure"
+              definitions={definitions["Foundations"]}
+              pillar="Foundations"
             />
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
-              definitions={definitions["Connectivity"]}
-              pillar="Connectivity"
+              definitions={definitions["Infrastructure"]}
+              pillar="Infrastructure"
             />
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
               definitions={definitions["People"]}
               pillar="People"
+            />
+            <StageGauge
+              name={country["Country or Area"]}
+              scores={country.scores}
+              definitions={definitions["Strategy"]}
+              pillar="Strategy"
             />
             <StageGauge
               name={country["Country or Area"]}
@@ -69,7 +75,7 @@ export default function Sandbox(
                   scores: country["scores"],
                 }}
                 definitions={definitions}
-                pillar="Economy"
+                pillar="Government"
               />
             </div>
           </div>
