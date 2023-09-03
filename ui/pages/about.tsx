@@ -121,9 +121,9 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="mt-40 mb-60 flex flex-col items-center">
-          <div className="max-w-[40em] mr-10 py-10 text-lg">
-            <h2 className="text-3xl font-bold mt-20 mb-6">
+        <div className="mt-10 mb-60 flex flex-col px-[2vw] items-center stages">
+          <div className="max-w-[40em] pb-10 text-lg mx-auto">
+            <h2 className="text-3xl font-bold mt-2 mb-6 text-center">
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
@@ -131,13 +131,13 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[40em] mr-10 py-10 text-lg">
+          <div className="max-w-[40em] mr-10 pt-10 text-lg">
             <h2 className="text-3xl font-bold mt-20 mb-6">
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
+          <div className="max-w-[40em] pb-10 text-lg mt-0 px-4">
             <p>
               The software and data that are used to put together the Compass
               are open source and in the process of becoming Digital Public
@@ -582,7 +582,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
           )}
 
           {currentStepIndex > 4 && currentStepIndex < 7 && (
-            <div className="h-full w-full flex items-center justify-center px-[5vw] mb-[5vw]">
+            <div className="rainbow h-full w-full flex items-center justify-center px-[5vw] mb-[5vw]">
               <ScoreRing
                 defaultHoveredSubpillar={
                   currentStepIndex === 5 ? undefined : "Connectivity Technology"
