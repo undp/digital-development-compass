@@ -97,7 +97,6 @@ export default function Data(
   const [regionFilter, setRegionFilter] = useState("*");
   const [subregionFilter, setSubregionFilter] = useState("*");
 
-<<<<<<< HEAD
   // const [scoreFilter, setScoreFilter] = useState<
   //   Record<string, number[] | undefined>
   // >({
@@ -118,18 +117,6 @@ const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
 const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
   initialScoreFilterState
 );
-=======
-  const [scoreFilter, setScoreFilter] = useState<
-    Record<string, number[] | undefined>
-  >({
-    Economy: undefined,
-    Government: undefined,
-    DPInfrastructure: undefined,
-    Connectivity: undefined,
-    People: undefined,
-    Regulation: undefined,
-   });
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
   const columns: Column<typeof data[0]>[] = useMemo(() => {
     return [
@@ -279,42 +266,9 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
       .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
       .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
       .filter((datum) => {
-<<<<<<< HEAD
         return pillarNamesLists.every((pillar) =>
           filterPillarByRange(datum, pillar, scoreFilter[pillar])
         );
-=======
-        return regionFilter === "*" || datum.region === regionFilter;
-      })
-      .filter((datum) => {
-        return subregionFilter === "*" || datum.subregion === subregionFilter;
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Economy", scoreFilter.Economy);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "DPInfrastructure",
-          scoreFilter.DPInfrastructure
-        );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Government", scoreFilter.Government);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "Connectivity",
-          scoreFilter.Connectivity
-        );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "People", scoreFilter.People);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Regulation", scoreFilter.Regulation);
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
       });
   }, [countryFilter, scoreFilter, regionFilter, subregionFilter]);
 
@@ -341,7 +295,6 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
     );
   }, [sortColumns, maybeFilteredRows]);
 
-<<<<<<< HEAD
   // const economyScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["Economy"].score || 0);
   // }, [data]);
@@ -349,43 +302,22 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   // const dpinfrastructureScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
   // }, [data]);
-=======
-  const economyScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Economy"].score || 0);
-  }, [data]);
-
-  const dpinfrastructureScores = useMemo(() => {
-    return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
-  }, [data]);
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
   // const governmentScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["Government"].score || 0);
   // }, [data]);
 
-<<<<<<< HEAD
   // const connectivityScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
   // }, [data]);
-=======
-  const connectivityScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  }, [data]);
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
   // const peopleScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["People"].score || 0);
   // }, [data]);
 
-<<<<<<< HEAD
   // const regulationScores = useMemo(() => {
   //   return data.map((datum) => datum.scores["Regulation"].score || 0);
   // }, [data]);
-=======
-  const regulationScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Regulation"].score || 0);
-  }, [data]);
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -587,79 +519,10 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   })}
                 </select>
               </div>
-<<<<<<< HEAD
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
               {createHistogramInputs()}
               </div>
 
-=======
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Economy: value,
-                  }))
-                }
-                label="Economy Score"
-                data={economyScores}
-                value={scoreFilter.Economy}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    DPInfrastructure: value,
-                  }))
-                }
-                label="DPInfrastructure Score"
-                data={dpinfrastructureScores}
-                value={scoreFilter.DPInfrastructure}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Government: value,
-                  }))
-                }
-                label="Government Score"
-                data={governmentScores}
-                value={scoreFilter.Government}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Connectivity: value,
-                  }))
-                }
-                label="Connectivity Score"
-                data={connectivityScores}
-                value={scoreFilter.Connectivity}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    People: value,
-                  }))
-                }
-                label="People Score"
-                data={peopleScores}
-                value={scoreFilter.People}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Regulation: value,
-                  }))
-                }
-                label="Regulation Score"
-                data={regulationScores}
-                value={scoreFilter.Regulation}
-              />
->>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
             </div>
           </div>
         </aside>

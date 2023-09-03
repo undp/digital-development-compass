@@ -48,11 +48,11 @@ export const pillarColorMap: PillarColorMap = {
     base: "#6366f1",
     triple: ["#FFF", "#a2e0f5", "#6366f1"],
   },
-  DPInfrastructure: {
+  Foundations: {
     base: "#DE1568",
     triple: ["#FFF", "#ffab8a", "#DE1568"],
   },
-  Connectivity: {
+  Infrastructure: {
     base: "#517Ce8",
     triple: ["#FFF", "#a2e0f5", "#517Ce8"],
   },
@@ -64,13 +64,17 @@ export const pillarColorMap: PillarColorMap = {
     base: "#FE6825",
     triple: ["#FFF", "#ffd796", "#ed4b00"],
   },
-  Economy: {
+  Business: {
     base: "#dD9700",
     triple: ["#FFF", "#fff566", "#eDa700"],
   },
   People: {
     base: "#16aDd3",
     triple: ["#FFF", "#9ebcf7", "#0d88e0"],
+  },
+  Strategy: {
+    base: "#14b8a6",
+    triple: ["#FFF", "#a2e0f5", "#14b8a6"],
   },
 };
 >>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
