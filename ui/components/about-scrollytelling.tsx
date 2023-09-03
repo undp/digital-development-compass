@@ -25,7 +25,7 @@ export default function AboutScrollytelling({
         <>
           For instance, here our analysis shows that {country["Country or Area"]} scored a{" "}
           <span className="font-mono">{countryFocusedSubpillar.score}</span> on
-          the connectivity technology sub-pillar.
+          the physical infrastructure sub-pillar.
         </>,
       ].map((text, index) => (
         <Step data={index} key={index}>
