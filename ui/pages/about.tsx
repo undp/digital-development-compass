@@ -46,24 +46,24 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9">
               <p>
-              The Digital Development Compass provides an analysis of national digital development based on a comprehensive 
-              collection of publicly available data sets on digital. 
+                The Digital Development Compass provides an analysis of national digital development based on a comprehensive
+                collection of publicly available data sets on digital.
               </p>
 
               <p>
-              The Compass aggregates and synthesises digital development indicators from over 180 publicly available open-source 
-              datasets into interactive dashboards across the pillars of the United Nations Development Programme's (UNDP){" "}
+                The Compass aggregates and synthesises digital development indicators from over 180 publicly available open-source
+                datasets into interactive dashboards across the pillars of the United Nations Development Programme's (UNDP){" "}
                 <a href="https://www.undp.org/digital/transformations" target="_blank" className="text-blue-300">
                   digital transformation framework
                 </a>
-                . Users can interact with the data to understand the digital state of any nation (based on publicly available data); 
-                it is not intended to be used as an evaluative statistical tool or an index. 
+                . Users can interact with the data to understand the digital state of any nation (based on publicly available data);
+                it is not intended to be used as an evaluative statistical tool or an index.
               </p>
               <p>
-              The Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners, 
-              and stakeholders in their efforts to promote digital development in their respective countries. Users are encouraged to 
-              exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political, 
-              and economic context of each country's digital development efforts. 
+                The Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners,
+                and stakeholders in their efforts to promote digital development in their respective countries. Users are encouraged to
+                exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political,
+                and economic context of each country's digital development efforts.
               </p>
               <p>
                 Developed through{" "}
@@ -74,15 +74,15 @@ export default function About(
                 inclusive digital transformation journeys.
               </p>
               <p>
-              Feedback and constructive criticism are welcome to improve the accuracy and usefulness of the Compass. 
-              To raise your concerns or reflections regarding the data or results, please contact us via the chatbox.  
+                Feedback and constructive criticism are welcome to improve the accuracy and usefulness of the Compass.
+                To raise your concerns or reflections regarding the data or results, please contact us via the chatbox.
               </p>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
 
-              <div className="max-w-[40em] mr-10 py-10 text-lg">
-                <h2 className="text-3xl font-bold mt-20 mb-6">
+              <div className="max-w-[40em] mr-10 text-lg">
+                <h2 className="text-3xl font-bold mt-20 mb-3">
                   How the Compass Works
                 </h2>
               </div>
@@ -93,28 +93,29 @@ export default function About(
                 {numberWords[pillars.length]} pillars of UNDP’s digital
                 transformation framework:
               </p>
+
+              <div className="flex flex-wrap">
+                {pillars.map((pillar) => (
+                  <a
+                    href={`#${pillar}`}
+                    key={pillar}
+                    className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
+                    style={{
+                      backgroundColor: pillarColorMap[pillar]?.base,
+                    }}
+                  >
+                    {pillar}
+                  </a>
+                ))}
+              </div>
+              <p className="max-w-[40em] mt-9">
+                Each of these pillars is formed of various sub-pillars and their
+                respective indicators, which can be mapped to a specific stage of
+                digital transformation. Every stage is assigned a score, which
+                represents the level of digital transformation maturity of a
+                nation.
+              </p>
             </div>
-            <div className="flex flex-wrap">
-              {pillars.map((pillar) => (
-                <a
-                  href={`#${pillar}`}
-                  key={pillar}
-                  className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
-                  style={{
-                    backgroundColor: pillarColorMap[pillar]?.base,
-                  }}
-                >
-                  {pillar}
-                </a>
-              ))}
-            </div>
-            <p className="max-w-[40em] mt-9">
-              Each of these pillars is formed of various sub-pillars and their
-              respective indicators, which can be mapped to a specific stage of
-              digital transformation. Every stage is assigned a score, which
-              represents the level of digital transformation maturity of a
-              nation.
-            </p>
           </div>
         </div>
 
@@ -225,11 +226,11 @@ export default function About(
               .
             </p> */}
             <p>
-            <Link href="/methodology">
-              <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
-               Click here to read the Methodology.
-              </a>
-            </Link>
+              <Link href="/methodology">
+                <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+                  Click here to read the Methodology.
+                </a>
+              </Link>
             </p>
             <div className="flex justify-center mt-8">
               <button
@@ -338,9 +339,8 @@ const TablePillar = ({
   return (
     <div id={pillar} className={`${gridClassName} scroll-mt-20`} key={pillar}>
       <div
-        className={`p-5 pt-0 mt-5 ${
-          isHighlightingPillars ? "bg-yellow-50" : ""
-        }`}
+        className={`p-5 pt-0 mt-5 ${isHighlightingPillars ? "bg-yellow-50" : ""
+          }`}
       >
         <div
           className={`flex items-center self-start font-semibold text-xl mt-10`}
@@ -382,53 +382,51 @@ const TablePillar = ({
         {definitions.length === 1
           ? null
           : definitions.map((d, definitionIndex) => {
-              if (!isExpanded && d["Sub-Pillar"]) return null;
-              if (!d["Sub-Pillar"]) return null;
-              return (
-                <motion.div
-                  className={`${gridClassName} col-span-6`}
-                  key={definitionIndex}
-                  initial={{ opacity: 0, height: 0 }}
-                  animate={{ opacity: 1, height: "auto" }}
-                  exit={{ opacity: 0, height: 0 }}
-                  transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
-                >
-                  <div
-                    className={`p-2 col-start-1 pl-14 font-semibold ${
-                      !definitionIndex ? "mt-10" : ""
+            if (!isExpanded && d["Sub-Pillar"]) return null;
+            if (!d["Sub-Pillar"]) return null;
+            return (
+              <motion.div
+                className={`${gridClassName} col-span-6`}
+                key={definitionIndex}
+                initial={{ opacity: 0, height: 0 }}
+                animate={{ opacity: 1, height: "auto" }}
+                exit={{ opacity: 0, height: 0 }}
+                transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
+              >
+                <div
+                  className={`p-2 col-start-1 pl-14 font-semibold ${!definitionIndex ? "mt-10" : ""
                     }`}
-                    style={{
-                      color: pillarColor,
-                    }}
-                    key={`name-${definitionIndex}`}
-                  >
-                    {d["Sub-Pillar"] || "Overall"}
-                  </div>
-                  {stageNames.map((stageName, stageIndex) => (
-                    <div
-                      className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${
-                        !definitionIndex ? " mt-10" : ""
+                  style={{
+                    color: pillarColor,
+                  }}
+                  key={`name-${definitionIndex}`}
+                >
+                  {d["Sub-Pillar"] || "Overall"}
+                </div>
+                {stageNames.map((stageName, stageIndex) => (
+                  <div
+                    className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${!definitionIndex ? " mt-10" : ""
                       }`}
-                      style={
-                        {
-                          "--color": pillarColorScale(stageIndex),
-                        } as React.CSSProperties
-                      }
-                      key={`${stageName}-${definitionIndex}`}
-                    >
-                      <div
-                        className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
-                        style={{
-                          background: pillarColorScale(stageIndex),
-                        }}
-                      />
-                      {/* @ts-ignore */}
-                      {d[stageName] || ""}
-                    </div>
-                  ))}
-                </motion.div>
-              );
-            })}
+                    style={
+                      {
+                        "--color": pillarColorScale(stageIndex),
+                      } as React.CSSProperties
+                    }
+                    key={`${stageName}-${definitionIndex}`}
+                  >
+                    <div
+                      className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
+                      style={{
+                        background: pillarColorScale(stageIndex),
+                      }}
+                    />
+                    {/* @ts-ignore */}
+                    {d[stageName] || ""}
+                  </div>
+                ))}
+              </motion.div>
+            );
+          })}
       </AnimatePresence>
     </div>
   );
@@ -536,10 +534,13 @@ const Scrollytelling = ({ country }: { country: any }) => {
     .clamp(true);
 
   return (
-    <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">
-        Let's walk through navigating an example in the Compass:
-      </h2>
+    <div className="w-full max-w-[60em] px-[2vw] mt-20 mx-auto">
+      <div className="max-w-[40em] mr-10 py-10 text-lg mx-auto">
+        <h2 className="text-3xl text-gray-800 font-bold">
+          Let's walk through navigating an example in the Compass:
+        </h2>
+      </div>
+
 
       <div className="relative w-full mb-[120vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
@@ -590,8 +591,8 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   currentStepIndex > 5
                     ? country
                     : {
-                        score: {},
-                      }
+                      score: {},
+                    }
                 }
                 pillars={ancillary.pillars}
               />
