@@ -127,7 +127,7 @@ export default function About(
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
-
+          
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
@@ -514,7 +514,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
   const onStepEnter = ({ data }: { data: number }) => {
     setCurrentStepIndex(data);
   };
-  const focusedSubpillar = ["Infrastructure", "Connectivity Technology"];
+  const focusedSubpillar = ["Connectivity", "Physical Infrastructure"];
   const countryFocusedSubpillar =
     country["scores"][focusedSubpillar[0]][focusedSubpillar[1]];
 
@@ -585,7 +585,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
             <div className="h-full w-full flex items-center justify-center px-[5vw] mb-[5vw]">
               <ScoreRing
                 defaultHoveredSubpillar={
-                  currentStepIndex === 5 ? undefined : "Connectivity Technology"
+                  currentStepIndex === 5 ? undefined : "Physical Infrastructure"
                 }
                 country={
                   currentStepIndex > 5

@@ -18,7 +18,7 @@ async function fetchComparisonData(_: string, iso3: string, key: string) {
   // @ts-ignore
   const res = await fetch(`${url}?${stringifiedParams}`);
   return await res.json();
-}
+} 
 
 interface CountryComparisonsProps {
   relatedCountries?: Pick<
@@ -32,7 +32,7 @@ interface CountryComparisonsProps {
 export function CountryComparisons(props: CountryComparisonsProps) {
   const { country, pillars, relatedCountries = [] } = props;
   const [sameKey, setSameKey] = useState<string>("Sub-region Name");
-  const [pillar, setPillar] = useState<string>("Foundations");
+  const [pillar, setPillar] = useState<string>("DPInfrastructure");
   const [subpillar, setSubpillar] = useState<string>();
   const countryCode = country["ISO-alpha3 Code"];
   const pillarNames = Object.keys(pillars);

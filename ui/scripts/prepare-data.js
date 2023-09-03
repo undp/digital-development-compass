@@ -12,7 +12,7 @@ const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
 const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
- 
+
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
   "Country or Area",
@@ -38,15 +38,13 @@ async function main() {
 
   const pillarNames = [
     "Overall",
-    "Foundations",
-    "Infrastructure",
+    "DPInfrastructure",
+    "Connectivity",
     "Government",
     "Regulation",
-    "Business",
+    "Economy",
     "People",
-    "Strategy",
   ];
-
   // A map of pillar name to subpillar name.
   // {
   //   "Business": ["name-of-supillar"]
@@ -72,7 +70,9 @@ async function main() {
           (!subpillar || d["Sub-Pillar"] === subpillar)
       ) || "";
     const stageInfo = definition[stageName];
-    if (!stageInfo) return null;
+    if (!stageInfo){
+      stageInfo == ""
+    };
     return {
       number: stage,
       name: stageName,
@@ -164,7 +164,6 @@ async function main() {
     const allPillarScores = scores
       .filter((score) => !score["Pillar"] && score["Sub-Pillar"])
       .sort((a, b) => parseFloat(b["Score"]) - parseFloat(a["Score"]));
-
     return (
       allPillarScores.findIndex((score) => score["Country or Area"] === name) +
       1
@@ -178,7 +177,11 @@ async function main() {
     const definition =
       definitions.find((d) => !d["Pillar"] && !d["Sub-Pillar"]) || "";
     const stageInfo = definition[stageName];
-    if (!stageInfo) return null;
+    //console.log(stage)
+    //console.log(stageName)
+    if (!stageInfo){
+      stageInfo == ""
+    };
     return {
       number: stage,
       name: stageName,

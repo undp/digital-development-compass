@@ -100,14 +100,13 @@ export default function Data(
   const [scoreFilter, setScoreFilter] = useState<
     Record<string, number[] | undefined>
   >({
-    Business: undefined,
+    Economy: undefined,
     Government: undefined,
-    Foundations: undefined,
-    Infrastructure: undefined,
+    DPInfrastructure: undefined,
+    Connectivity: undefined,
     People: undefined,
     Regulation: undefined,
-    Strategy: undefined,
-  });
+   });
 
   const columns: Column<typeof data[0]>[] = useMemo(() => {
     return [
@@ -260,13 +259,13 @@ export default function Data(
         return subregionFilter === "*" || datum.subregion === subregionFilter;
       })
       .filter((datum) => {
-        return filterPillarByRange(datum, "Business", scoreFilter.Business);
+        return filterPillarByRange(datum, "Economy", scoreFilter.Economy);
       })
       .filter((datum) => {
         return filterPillarByRange(
           datum,
-          "Foundations",
-          scoreFilter.Foundations
+          "DPInfrastructure",
+          scoreFilter.DPInfrastructure
         );
       })
       .filter((datum) => {
@@ -275,8 +274,8 @@ export default function Data(
       .filter((datum) => {
         return filterPillarByRange(
           datum,
-          "Infrastructure",
-          scoreFilter.Infrastructure
+          "Connectivity",
+          scoreFilter.Connectivity
         );
       })
       .filter((datum) => {
@@ -284,9 +283,6 @@ export default function Data(
       })
       .filter((datum) => {
         return filterPillarByRange(datum, "Regulation", scoreFilter.Regulation);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Strategy", scoreFilter.Strategy);
       });
   }, [countryFilter, scoreFilter, regionFilter, subregionFilter]);
 
@@ -313,20 +309,20 @@ export default function Data(
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  const businessScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Business"].score || 0);
+  const economyScores = useMemo(() => {
+    return data.map((datum) => datum.scores["Economy"].score || 0);
   }, [data]);
 
-  const foundationsScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Foundations"].score || 0);
+  const dpinfrastructureScores = useMemo(() => {
+    return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
   }, [data]);
 
   const governmentScores = useMemo(() => {
     return data.map((datum) => datum.scores["Government"].score || 0);
   }, [data]);
 
-  const infrastructureScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Infrastructure"].score || 0);
+  const connectivityScores = useMemo(() => {
+    return data.map((datum) => datum.scores["Connectivity"].score || 0);
   }, [data]);
 
   const peopleScores = useMemo(() => {
@@ -335,10 +331,6 @@ export default function Data(
 
   const regulationScores = useMemo(() => {
     return data.map((datum) => datum.scores["Regulation"].score || 0);
-  }, [data]);
-
-  const strategyScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Strategy"].score || 0);
   }, [data]);
 
   const regions = useMemo(() => {
@@ -522,23 +514,23 @@ export default function Data(
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
-                    Business: value,
+                    Economy: value,
                   }))
                 }
-                label="Business Score"
-                data={businessScores}
-                value={scoreFilter.Business}
+                label="Economy Score"
+                data={economyScores}
+                value={scoreFilter.Economy}
               />
               <HistogramRangeInput
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
-                    Foundations: value,
+                    DPInfrastructure: value,
                   }))
                 }
-                label="Foundations Score"
-                data={foundationsScores}
-                value={scoreFilter.Foundations}
+                label="DPInfrastructure Score"
+                data={dpinfrastructureScores}
+                value={scoreFilter.DPInfrastructure}
               />
               <HistogramRangeInput
                 onChange={(value) =>
@@ -555,12 +547,12 @@ export default function Data(
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
-                    Infrastructure: value,
+                    Connectivity: value,
                   }))
                 }
-                label="Infrastructure Score"
-                data={infrastructureScores}
-                value={scoreFilter.Infrastructure}
+                label="Connectivity Score"
+                data={connectivityScores}
+                value={scoreFilter.Connectivity}
               />
               <HistogramRangeInput
                 onChange={(value) =>
@@ -583,17 +575,6 @@ export default function Data(
                 label="Regulation Score"
                 data={regulationScores}
                 value={scoreFilter.Regulation}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Strategy: value,
-                  }))
-                }
-                label="Strategy Score"
-                data={strategyScores}
-                value={scoreFilter.Strategy}
               />
             </div>
           </div>
