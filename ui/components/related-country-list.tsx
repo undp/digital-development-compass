@@ -54,7 +54,7 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           options={ancillary.pillarNames}
         ></Select>
       </div>
-      <div className="grid grid-cols-3 gap-8 mt-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 mt-6">
         {countries.slice(0, 8).map((country) => (
           <div key={country["ISO-alpha3 Code"]}>
             <CountryCard

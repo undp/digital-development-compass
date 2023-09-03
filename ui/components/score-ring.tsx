@@ -91,11 +91,11 @@ export const ScoreRing = ({
   const numberOfMissingSubpillars = isPlaceholder
     ? 0
     : pillars.reduce((acc, pillar) => {
-        const missingSubpillars = pillar[1].filter(
-          (subpillar) => !country.scores?.[pillar[0]]?.[subpillar]?.score
-        ).length;
-        return acc + missingSubpillars;
-      }, 0);
+      const missingSubpillars = pillar[1].filter(
+        (subpillar) => !country.scores?.[pillar[0]]?.[subpillar]?.score
+      ).length;
+      return acc + missingSubpillars;
+    }, 0);
   const numberOfSubpillars = pillars.reduce((acc, pillar) => {
     const subpillars = pillar[1].length;
     return acc + subpillars;
@@ -155,7 +155,7 @@ export const ScoreRing = ({
         width={width}
         height={height}
         viewBox={`0 0 ${width} ${height}`}
-        className="overflow-visible mb-10 mx-auto"
+        className="overflow-visible mb-10 mx-auto w-10/12 xl:w-full"
       >
         <defs>
           <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -243,9 +243,8 @@ export const ScoreRing = ({
                 >
                   <path
                     d={mainArc}
-                    className={`${
-                      isHovered ? "text-indigo-100" : "text-gray-100"
-                    } fill-current transition-all`}
+                    className={`${isHovered ? "text-indigo-100" : "text-gray-100"
+                      } fill-current transition-all`}
                     strokeWidth={1}
                   />
                   <path
@@ -329,8 +328,8 @@ export const ScoreRing = ({
                     Math.abs(endPoint[0]) < 180
                       ? "middle"
                       : endPoint[0] < 0
-                      ? "end"
-                      : "start";
+                        ? "end"
+                        : "start";
                   const offset = {
                     start: [10, 0],
                     middle: [0, -10],
@@ -387,26 +386,23 @@ export const ScoreRing = ({
                           x2={endPointLine[0]}
                           y2={endPointLine[1]}
                           strokeWidth="1"
-                          className={`${
-                            isHovered ? "text-gray-400" : "text-gray-200"
-                          } stroke-current transition-all`}
+                          className={`${isHovered ? "text-gray-400" : "text-gray-200"
+                            } stroke-current transition-all`}
                         />
                       )}
                       {isAStar && (
                         <>
                           <g
                             className="transition-all"
-                            transform={`translate(${starPosition[0] - 12} ${
-                              starPosition[1] - 12
-                            })`}
+                            transform={`translate(${starPosition[0] - 12} ${starPosition[1] - 12
+                              })`}
                           >
                             <use
                               href="#star"
                               style={{
                                 transformOrigin: `12px 12px`,
-                                transform: `rotate(${
-                                  midAngle - Math.PI * 0.78
-                                }rad)`,
+                                transform: `rotate(${midAngle - Math.PI * 0.78
+                                  }rad)`,
                               }}
                             />
                           </g>
@@ -426,25 +422,22 @@ export const ScoreRing = ({
 
                       {hasData && (
                         <g
-                          className={`text-sm ${
-                            isHovered
-                              ? "text-black font-semibold"
-                              : "text-gray-500"
-                          } fill-current transition-all duration-150`}
-                          transform={`translate(${endPoint[0] + offset[0]},${
-                            endPoint[1] + offset[1]
-                          })`}
+                          className={`sp-txt text-sm ${isHovered
+                            ? "text-black font-semibold"
+                            : "text-gray-500"
+                            } fill-current transition-all duration-150`}
+                          transform={`translate(${endPoint[0] + offset[0]},${endPoint[1] + offset[1]
+                            })`}
                           textAnchor={placement}
                           dominantBaseline="middle"
                         >
                           <text
-                            className={`font-semibold ${
-                              isHovered ? "text-indigo-500" : ""
-                            }`}
+                            className={`font-semibold ${isHovered ? "text-indigo-500" : ""
+                              } text-xs md:text-base`}
                           >
                             {subpillar}
                           </text>
-                          <text y="18" className="font-light">
+                          <text y="15" className="font-light">
                             {value}
                           </text>
                           {/* {!!rank && (
@@ -492,9 +485,9 @@ const getArc = (
     .outerRadius(outerRadius)
     .startAngle(startAngle)
     .endAngle(endAngle)(
-    // @ts-ignore
-    [{}]
-  );
+      // @ts-ignore
+      [{}]
+    );
 };
 
 const distanceOffset = scaleLinear()
