@@ -535,7 +535,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full max-w-[60em] px-[2vw] mt-20 mx-auto">
-      <div className="max-w-[40em] mr-10 py-10 text-lg mx-auto">
+      <div className="max-w-[40em] py-10 text-lg mx-auto">
         <h2 className="text-3xl text-gray-800 font-bold">
           Let's walk through navigating an example in the Compass:
         </h2>
