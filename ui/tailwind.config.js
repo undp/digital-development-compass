@@ -22,6 +22,7 @@ module.exports = {
           "blue-dark": "#0063AC",
         },
         pillar: {
+<<<<<<< HEAD
           // overall: "#44444f",
           // ecomony: "#A21942",
           // dpinfrastructure: "#FE6825",
@@ -29,6 +30,15 @@ module.exports = {
           // connectivity: "#57C22B",
           // people: "#FD9D24",
           // regulation: "#00689D",
+=======
+          overall: "#44444f",
+          ecomony: "#DE1568",
+          dpinfrastructure: "#FE6825",
+          government: "#FDB710",
+          connectivity: "#57C22B",
+          people: "#14b8a6",
+          regulation: "#26BDE3",
+>>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
         },
       },
     },

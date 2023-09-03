@@ -11,6 +11,7 @@ export interface PillarColorMap {
   };
 }
 
+<<<<<<< HEAD
 // export const pillarColorMap: PillarColorMap = {
 //   Overall: {
 //     base: "#6366f1",
@@ -41,6 +42,38 @@ export interface PillarColorMap {
 //   //   triple: ["#fff", "#f8c584", "#f49f34"],
 //   // },
 // };
+=======
+export const pillarColorMap: PillarColorMap = {
+  Overall: {
+    base: "#6366f1",
+    triple: ["#FFF", "#a2e0f5", "#6366f1"],
+  },
+  DPInfrastructure: {
+    base: "#DE1568",
+    triple: ["#FFF", "#ffab8a", "#DE1568"],
+  },
+  Connectivity: {
+    base: "#517Ce8",
+    triple: ["#FFF", "#a2e0f5", "#517Ce8"],
+  },
+  Government: {
+    base: "#57C22B",
+    triple: ["#FFF", "#e7ff87", "#02965d"],
+  },
+  Regulation: {
+    base: "#FE6825",
+    triple: ["#FFF", "#ffd796", "#ed4b00"],
+  },
+  Economy: {
+    base: "#dD9700",
+    triple: ["#FFF", "#fff566", "#eDa700"],
+  },
+  People: {
+    base: "#16aDd3",
+    triple: ["#FFF", "#9ebcf7", "#0d88e0"],
+  },
+};
+>>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
 export function convertBboxToLatLng(bbox: BoundingBox) {
   return [

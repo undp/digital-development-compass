@@ -12,7 +12,10 @@ const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
 const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
+<<<<<<< HEAD
 const PILLAR_DEFINITIONS = path.join(RAW_DATABASE_DIR,"pillar-definitions.csv")
+=======
+>>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
 
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
@@ -37,6 +40,7 @@ async function main() {
   }).fromFile(SCORES_FILE);
   const latlon = require(LATLON_FILE);
 
+<<<<<<< HEAD
   // const pillarNames = [
   //   "Overall",
   //   "DPInfrastructure",
@@ -46,6 +50,17 @@ async function main() {
   //   "Economy",
   //   "People",
   // ];
+=======
+  const pillarNames = [
+    "Overall",
+    "DPInfrastructure",
+    "Connectivity",
+    "Government",
+    "Regulation",
+    "Economy",
+    "People",
+  ];
+>>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
   // A map of pillar name to subpillar name.
   // {
   //   "Business": ["name-of-supillar"]
@@ -198,7 +213,12 @@ async function main() {
     const definition =
       definitions.find((d) => !d["Pillar"] && !d["Sub-Pillar"]) || "";
     const stageInfo = definition[stageName];
+<<<<<<< HEAD
 
+=======
+    //console.log(stage)
+    //console.log(stageName)
+>>>>>>> a7a9d53 (Merge branch 'staging' of https://github.com/undp/digital-development-compass into staging)
     if (!stageInfo){
       stageInfo == ""
     };
