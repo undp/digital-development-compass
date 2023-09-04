@@ -11,7 +11,7 @@ export function SiteName() {
   return (
     <div className="flex items-center space-x-4">
       <div className="flex flex-col space-y-1">
-        <h1 className="text-sm font-medium lg:text-2xl max-w-[20ch] lg:max-w-full">
+        <h1 className="text-sm font-bold lg:text-xl max-w-[20ch] lg:max-w-full">
           Digital Development Compass
         </h1>
       </div>
@@ -85,8 +85,8 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
             </Link>
             <SearchDialog countries={countries} />
           </div>
-          </div>
-          </header>
+        </div>
+      </header>
       <MobileMenu
         countries={countries}
         isOpen={mobileMenuOpen}
