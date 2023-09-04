@@ -21,24 +21,24 @@ export const pillarColorMap: PillarColorMap = {
     triple: ["#FFF", "#ffab8a", "#DE1568"],
   },
   Infrastructure: {
-    base: "#517Ce8",
-    triple: ["#FFF", "#a2e0f5", "#517Ce8"],
+    base: "#FD6925",
+    triple: ["#FFF", "#ffc1a4", "#FD6925"],
   },
   Government: {
-    base: "#57C22B",
-    triple: ["#FFF", "#e7ff87", "#02965d"],
+    base: "#19486A",
+    triple: ["#FFF", "#5c8eb2", "#19486A"],
   },
   Regulation: {
-    base: "#FE6825",
-    triple: ["#FFF", "#ffd796", "#ed4b00"],
+    base: "#00689D",
+    triple: ["#FFF", "#5595b6", "#00689D"],
   },
   Business: {
-    base: "#dD9700",
-    triple: ["#FFF", "#fff566", "#eDa700"],
+    base: "#A21942",
+    triple: ["#FFF", "#b04c6a", "#A21942"],
   },
   People: {
-    base: "#16aDd3",
-    triple: ["#FFF", "#9ebcf7", "#0d88e0"],
+    base: "#FD9D24",
+    triple: ["#fff", "#f8c584", "#f49f34"],
   },
   Strategy: {
     base: "#14b8a6",
