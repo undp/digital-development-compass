@@ -22,6 +22,7 @@ function Radio(props: RadioProps) {
         borderColor: checked ? activeColor.base : "",
       }}
     >
+
       <div
         className={cc([
           "absolute w-full h-full inset-0 z-0 opacity-0 group-hover:opacity-20 transition-opacity flex-shrink-0",
@@ -67,10 +68,10 @@ export function PillarRadioGroup(props: PillarRadioGroupProps) {
 
   return (
     <fieldset>
-      <legend className="text-xs uppercase tracking-wide font-medium text-gray-600 block">
+      <legend className="text-sm uppercase tracking-wide font-medium text-gray-600 block">
         Filter by pillar
       </legend>
-      <div className="grid grid-cols-2 lg:grid-cols-2 gap-2 mt-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-2">
         {ancillary.pillarNames.map((pillar) => (
           <Radio
             onChange={onChange}

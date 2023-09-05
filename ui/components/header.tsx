@@ -69,17 +69,17 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           </div>
           <div className="flex items-center justify-end space-x-8">
             <Link href="/about">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 About
               </a>
             </Link>
             <Link href="/data">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 Data
               </a>
             </Link>
             <Link href="/methodology">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 Methodology
               </a>
             </Link>
