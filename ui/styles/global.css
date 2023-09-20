@@ -119,6 +119,14 @@ html {
   width: 100%;
 }
 
+
+.dt-framework {
+  height: inherit;
+  width: 100%;
+  overflow: unset;
+}
+
+
 @media (max-width: 710px) {
   .rainbow text {
     font-size: 9px;
