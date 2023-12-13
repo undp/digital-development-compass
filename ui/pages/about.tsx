@@ -5,7 +5,7 @@ import Link from "next/link";
 import Layout from "components/Layout";
 import ScoreRing from "components/score-ring";
 import { groupBy } from "lodash";
-import { isMemberState, pillarColorMap, stageNames } from "lib";
+import { isMemberState, stageNames  } from "lib";
 import Icons from "components/icons";
 import { Definition } from "database/processed/db";
 import { useEffect, useState } from "react";
@@ -101,7 +101,7 @@ export default function About(
                   key={pillar}
                   className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
                   style={{
-                    backgroundColor: pillarColorMap[pillar]?.base,
+                    backgroundColor: ancillary.pillarColorMap[pillar]?.base,
                   }}
                 >
                   {pillar}
@@ -325,7 +325,7 @@ const TablePillar = ({
   useEffect(() => {
     setIsExpanded(isExpandedDefault);
   }, [isExpandedDefault]);
-  const pillarColors = pillarColorMap[pillar];
+  const pillarColors = ancillary.pillarColorMap[pillar];
   const pillarColor = pillarColors?.base || "black";
   const pillarColorScale = scaleLinear<string>()
     .domain([0, 6])
@@ -445,7 +445,7 @@ const MobilePillars = ({
     <div className="max-w-3xl mx-auto mt-20 lg:hidden px-4">
       {pillars.map((name) => {
         const defs = definitions[name];
-        const pillarColor = pillarColorMap[name]?.base || "black";
+        const pillarColor = ancillary.pillarColorMap[name]?.base || "black";
         // @ts-ignore
         let pillarIcon = Icons[name.toLowerCase()];
 
@@ -520,7 +520,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
   const countryFocusedSubpillar =
     country["scores"][focusedSubpillar[0]][focusedSubpillar[1]];
 
-  const pillarColor = pillarColorMap[focusedSubpillar[0]]?.base || "black";
+  const pillarColor = ancillary.pillarColorMap[focusedSubpillar[0]]?.base || "black";
   let darkerColor = lab(pillarColor);
   darkerColor.b += 90;
   darkerColor.a += 10;

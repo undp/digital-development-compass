@@ -97,16 +97,26 @@ export default function Data(
   const [regionFilter, setRegionFilter] = useState("*");
   const [subregionFilter, setSubregionFilter] = useState("*");
 
-  const [scoreFilter, setScoreFilter] = useState<
-    Record<string, number[] | undefined>
-  >({
-    Economy: undefined,
-    Government: undefined,
-    DPInfrastructure: undefined,
-    Connectivity: undefined,
-    People: undefined,
-    Regulation: undefined,
-   });
+  // const [scoreFilter, setScoreFilter] = useState<
+  //   Record<string, number[] | undefined>
+  // >({
+  //   Economy: undefined,
+  //   Government: undefined,
+  //   DPInfrastructure: undefined,
+  //   Connectivity: undefined,
+  //   People: undefined,
+  //   Regulation: undefined,
+  //  });
+
+const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
+const initialScoreFilterState = pillarNamesLists.reduce((acc, pillar) => {
+  acc[pillar] = undefined;
+  return acc;
+}, {});
+
+const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
+  initialScoreFilterState
+);
 
   const columns: Column<typeof data[0]>[] = useMemo(() => {
     return [
@@ -196,7 +206,7 @@ export default function Data(
       ...ancillary.pillarNames
         .filter((p) => p !== "Overall")
         .map((pillar) => {
-          const pillarColor = pillarColorMap[pillar].base;
+          const pillarColor = ancillary.pillarColorMap[pillar].base;
 
           const bgScale = scaleLinear<string>()
             .domain([0, 5])
@@ -249,40 +259,16 @@ export default function Data(
     ];
   }, [displaySettings]);
 
+  
   const maybeFilteredRows = useMemo(() => {
     const byName = matchSorter(data, countryFilter, { keys: ["name"] });
     return byName
+      .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
+      .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
       .filter((datum) => {
-        return regionFilter === "*" || datum.region === regionFilter;
-      })
-      .filter((datum) => {
-        return subregionFilter === "*" || datum.subregion === subregionFilter;
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Economy", scoreFilter.Economy);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "DPInfrastructure",
-          scoreFilter.DPInfrastructure
+        return pillarNamesLists.every((pillar) =>
+          filterPillarByRange(datum, pillar, scoreFilter[pillar])
         );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Government", scoreFilter.Government);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "Connectivity",
-          scoreFilter.Connectivity
-        );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "People", scoreFilter.People);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Regulation", scoreFilter.Regulation);
       });
   }, [countryFilter, scoreFilter, regionFilter, subregionFilter]);
 
@@ -309,29 +295,29 @@ export default function Data(
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  const economyScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Economy"].score || 0);
-  }, [data]);
+  // const economyScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Economy"].score || 0);
+  // }, [data]);
 
-  const dpinfrastructureScores = useMemo(() => {
-    return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
-  }, [data]);
+  // const dpinfrastructureScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
+  // }, [data]);
 
-  const governmentScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Government"].score || 0);
-  }, [data]);
+  // const governmentScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Government"].score || 0);
+  // }, [data]);
 
-  const connectivityScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  }, [data]);
+  // const connectivityScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
+  // }, [data]);
 
-  const peopleScores = useMemo(() => {
-    return data.map((datum) => datum.scores["People"].score || 0);
-  }, [data]);
+  // const peopleScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["People"].score || 0);
+  // }, [data]);
 
-  const regulationScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Regulation"].score || 0);
-  }, [data]);
+  // const regulationScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Regulation"].score || 0);
+  // }, [data]);
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -429,6 +415,29 @@ export default function Data(
     setCountryFilter,
   ]) as AppliedFilter[];
 
+  const createHistogramInputs = () => {
+    return pillarNamesLists.map(pillarName => {
+      const scores = useMemo(() => {
+        return data.map(datum => datum.scores[pillarName]?.score || 0);
+      }, [data]);
+
+      return (
+        <HistogramRangeInput
+          key={pillarName}
+          onChange={(value) =>
+            setScoreFilter((curr) => ({
+              ...curr,
+              [pillarName]: value,
+            }))
+          }
+          label={`${pillarName} Score`}
+          data={scores}
+          value={scoreFilter[pillarName] || 0}
+        />
+      );
+    });
+  };
+
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="h-screen flex overflow-hidden">
@@ -510,7 +519,8 @@ export default function Data(
                   })}
                 </select>
               </div>
-              <HistogramRangeInput
+              {createHistogramInputs()}
+              {/* <HistogramRangeInput
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
@@ -520,8 +530,8 @@ export default function Data(
                 label="Economy Score"
                 data={economyScores}
                 value={scoreFilter.Economy}
-              />
-              <HistogramRangeInput
+              /> */}
+              {/* <HistogramRangeInput
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
@@ -542,8 +552,8 @@ export default function Data(
                 label="Government Score"
                 data={governmentScores}
                 value={scoreFilter.Government}
-              />
-              <HistogramRangeInput
+              /> */}
+              {/* <HistogramRangeInput
                 onChange={(value) =>
                   setScoreFilter((curr) => ({
                     ...curr,
@@ -575,7 +585,7 @@ export default function Data(
                 label="Regulation Score"
                 data={regulationScores}
                 value={scoreFilter.Regulation}
-              />
+              /> */}
             </div>
           </div>
         </aside>

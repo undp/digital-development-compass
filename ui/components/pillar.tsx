@@ -2,7 +2,6 @@ import pillarIcons from "components/icons";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import type { Country, Stage, SubPillar } from "database/processed/db";
-import { pillarColorMap } from "lib";
 import kebabCase from "lodash/kebabCase";
 import { useState } from "react";
 import { IndicatorList } from "./indicator-list";
@@ -115,7 +114,7 @@ const Pillar = (props: PillarProps) => {
   let { stage, score } = country.scores[pillar];
   // @ts-ignore
   let subpillars: SubPillar[] = ancillary.pillars[pillar];
-  let color = pillarColorMap[pillar].base;
+  let color = ancillary.pillarColorMap[pillar].base;
   // @ts-ignore
   let icon = pillarIcons[pillar.toLowerCase()] || null;
 

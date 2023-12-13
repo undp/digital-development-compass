@@ -8,6 +8,7 @@ import { CircleText } from "./circle-text";
 import { Country } from "database/processed/db";
 import { getOrdinal, pillarColorMap } from "lib";
 import { ancillary } from "database/ancillary";
+import { db } from "database";
 import kebabCase from "lodash/kebabCase";
 
 const scoreDomain = [1, 6];
@@ -35,7 +36,7 @@ export const ScoreRing = ({
   }, []);
   const { pillarColorsMap, pillarColorScalesMap } = useMemo(() => {
     const pillarColors = pillars.map(
-      (pillar) => pillarColorMap[pillar[0]].base
+      (pillar) => ancillary.pillarColorMap[pillar[0]].base
     );
     let pillarColorsMap = {} as Record<string, string>;
     let pillarColorScalesMap = {} as Record<string, any>;
@@ -155,7 +156,7 @@ export const ScoreRing = ({
         width={width}
         height={height}
         viewBox={`0 0 ${width} ${height}`}
-        className="overflow-visible mb-10 mx-auto"
+        className="overflow-visible mb-10 mx-auto w-10/12 xl:w-full"
       >
         <defs>
           <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -396,16 +397,14 @@ export const ScoreRing = ({
                         <>
                           <g
                             className="transition-all"
-                            transform={`translate(${starPosition[0] - 12} ${
-                              starPosition[1] - 12
+                            transform={`translate(${starPosition[0] - 12} ${starPosition[1] - 12
                             })`}
                           >
                             <use
                               href="#star"
                               style={{
                                 transformOrigin: `12px 12px`,
-                                transform: `rotate(${
-                                  midAngle - Math.PI * 0.78
+                                transform: `rotate(${midAngle - Math.PI * 0.78
                                 }rad)`,
                               }}
                             />
@@ -426,25 +425,22 @@ export const ScoreRing = ({
 
                       {hasData && (
                         <g
-                          className={`text-sm ${
-                            isHovered
-                              ? "text-black font-semibold"
-                              : "text-gray-500"
+                        className={`sp-txt text-sm ${isHovered
+                          ? "text-black font-semibold"
+                          : "text-gray-500"
                           } fill-current transition-all duration-150`}
-                          transform={`translate(${endPoint[0] + offset[0]},${
-                            endPoint[1] + offset[1]
+                          transform={`translate(${endPoint[0] + offset[0]},${endPoint[1] + offset[1]
                           })`}
                           textAnchor={placement}
                           dominantBaseline="middle"
                         >
                           <text
-                            className={`font-semibold ${
-                              isHovered ? "text-indigo-500" : ""
-                            }`}
+                            className={`font-semibold ${isHovered ? "text-indigo-500" : ""
+                          } text-xs md:text-base`}
                           >
                             {subpillar}
                           </text>
-                          <text y="18" className="font-light">
+                          <text y="15" className="font-light">
                             {value}
                           </text>
                           {/* {!!rank && (
@@ -514,7 +510,7 @@ const Info = ({
 }) => {
   // @ts-ignore
   const stageInfo = country.scores?.[pillar]?.[subpillar]?.stage;
-  const color = pillarColorMap[pillar].base;
+  const color = ancillary.pillarColorMap[pillar].base;
 
   return (
     <div className="absolute top-[73%] bottom-0 left-0 right-0 w-full flex items-center justify-center max-w-[30%] mx-auto text-center">
