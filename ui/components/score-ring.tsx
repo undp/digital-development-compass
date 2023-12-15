@@ -6,7 +6,7 @@ import useDimensions from "react-cool-dimensions";
 import pillarIcons from "components/icons";
 import { CircleText } from "./circle-text";
 import { Country } from "database/processed/db";
-import { getOrdinal, pillarColorMap } from "lib";
+import { getOrdinal} from "lib";
 import { ancillary } from "database/ancillary";
 import { db } from "database";
 import kebabCase from "lodash/kebabCase";
@@ -104,7 +104,7 @@ export const ScoreRing = ({
   // don't let filled subpillars get too large, it looks wonky
   const emptySubpillarRatio =
     numberOfMissingSubpillars / numberOfSubpillars > 0.5 ? 0.8 : 0.3;
-  const emptySubpillarDegrees = degreesPerSubpillar * emptySubpillarRatio;
+  const emptySubpillarDegrees =  0 // degreesPerSubpillar * emptySubpillarRatio;
   const filledSubpillarDegrees =
     (allAngles - emptySubpillarDegrees * numberOfMissingSubpillars) /
     (numberOfSubpillars - numberOfMissingSubpillars);
@@ -269,6 +269,7 @@ export const ScoreRing = ({
           ))}
           {pillars.map(([pillar, subpillars], index) => {
             const angles = pillarAngles[pillar as string];
+            if(angles[0] == angles[1]) return
             const color = pillarColorsMap[pillar];
             const midAngle = (angles[0] + angles[1]) / 2;
             let iconPosition = getPointFromAngle(
