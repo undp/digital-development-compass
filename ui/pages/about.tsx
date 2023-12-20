@@ -44,7 +44,7 @@ export default function About(
       <div className="py-16">
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-            <div className="max-w-[40em] space-y-9">
+            <div className="max-w-[40em] space-y-9 text-justify">
               <p>
               The Digital Development Compass provides an analysis of national digital development based on a comprehensive 
               collection of publicly available data sets on digital. 
@@ -81,7 +81,7 @@ export default function About(
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
 
-              <div className="max-w-[40em] mr-10 py-10 text-lg">
+              <div className="max-w-[40em] text-center py-10 text-lg">
                 <h2 className="text-3xl font-bold mt-20 mb-6">
                   How the Compass Works
                 </h2>
@@ -94,7 +94,7 @@ export default function About(
                 transformation framework:
               </p>
             </div>
-            <div className="flex flex-wrap">
+            <div className="flex flex-wrap mt-4">
               {pillars.map((pillar) => (
                 <a
                   href={`#${pillar}`}
@@ -108,7 +108,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9">
+            <p className="max-w-[40em] mt-9 text-justify">
               Each of these pillars is formed of various sub-pillars and their
               respective indicators, which can be mapped to a specific stage of
               digital transformation. Every stage is assigned a score, which
@@ -121,8 +121,8 @@ export default function About(
         <Scrollytelling country={country} />
 
         <div className="mt-40 mb-60 flex flex-col items-center">
-          <div className="max-w-[40em] mr-10 py-10 text-lg">
-            <h2 className="text-3xl font-bold mt-20 mb-6">
+          <div className="max-w-[40em] pt-10 md:py-10 text-lg">
+            <h2 className="text-2xl text-center md:text-3xl font-bold mt-20 md:mb-6">
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
@@ -130,13 +130,13 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[40em] mr-10 py-10 text-lg">
-            <h2 className="text-3xl font-bold mt-20 mb-6">
+          <div className="max-w-[40em] text-center py-10 text-lg">
+            <h2 className="text-2xl lg:text-3xl  md:text-2xl font-bold mt-20 mb-6">
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-lg mt-20 px-4">
+          <div className="max-w-[40em] py-10 text-lg px-4 text-justify" >
             <p>
               The software and data that are used to put together the Compass
               are open source and in the process of becoming Digital Public
@@ -450,7 +450,7 @@ const MobilePillars = ({
         let pillarIcon = Icons[name.toLowerCase()];
 
         return (
-          <section id={name} className="py-6 first:pt-0 mt-20" key={name}>
+          <section id={name} className="py-6 first:pt-0 mt-0" key={name}>
             <div className="text-center">
               <div
                 className="text-4xl inline-block mx-auto -mb-3"
@@ -536,12 +536,12 @@ const Scrollytelling = ({ country }: { country: any }) => {
     .clamp(true);
 
   return (
-    <div className="w-full px-[2vw] mt-60">
-      <h2 className="text-3xl text-gray-800 font-bold">
+    <div className="w-full text-left px-[2vw] mt-60">
+      <h2 className="text-2xl md:text-3xl text-gray-800 font-bold">
         Let's walk through navigating an example in the Compass:
       </h2>
 
-      <div className="relative w-full mb-[120vh]">
+      <div className="relative w-full mb-[90vh] md:mb-[100vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
           {currentStepIndex < 2 && (
             <div className="w-full h-full flex items-center justify-center">

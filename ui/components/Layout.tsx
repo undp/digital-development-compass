@@ -66,7 +66,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
             </div>
           </div>
           <div className="lg:text-right flex flex-col justify-start items-center md:items-start border-t md:border-t-0 md:mt-0 md:pt-0 pt-5 mt-5">
-            <p className="text-sm">
+            <p className="text-sm text-justify">
               The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations or UNDP concerning the legal status of any country, territory, city or area or its authorities, or concerning the delimitation of its frontiers or boundaries.<br /><br />
               References to Kosovo* shall be understood to be in the context of UN Security Council resolution 1244 (1999)
             </p>

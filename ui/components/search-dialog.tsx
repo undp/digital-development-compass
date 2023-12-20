@@ -32,7 +32,15 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
   const handleSelection = useCallback(
     (country: CountryNameAndAlpha) => {
       setSelected(country);
-      setRecentlyVisited([...(recentlyVisited || []), country.alpha3]);
+      
+      // Update recentlyVisited array
+      const updatedRecentlyVisited = [
+        ...(recentlyVisited || []),
+        country.alpha3
+      ].slice(-8); // Keep only the last 8 elements
+      
+      setRecentlyVisited(updatedRecentlyVisited);
+      
       onClose();
       router.push(`/country/${country.alpha3}`);
     },

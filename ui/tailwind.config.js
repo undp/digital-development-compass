@@ -6,6 +6,11 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    screens: {
+      sm: "300px",
+      md: "768px",
+      lg: "1024px"
+    },
     fontFamily: {
       sans: ["proxima-nova", ...defaultTheme.fontFamily.sans],
       mono: defaultTheme.fontFamily.mono,

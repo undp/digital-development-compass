@@ -29,13 +29,13 @@ export function MobileMenu({
             </p>
             <nav className="flex flex-col mt-2 divide-y">
               <Link href="/about">
-                <a className="text-2xl py-2">About</a>
+                <a className="text-1xl py-2">About</a>
               </Link>
               <Link href="/data">
-                <a className="text-2xl py-2">Data</a>
+                <a className="text-1xl py-2">Data</a>
               </Link>
               <Link href="/methodology">
-                <a className="text-2xl py-2">Methodology</a>
+                <a className="text-1xl py-2">Methodology</a>
               </Link>
             </nav>
           </div>

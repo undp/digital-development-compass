@@ -7,7 +7,7 @@ import { TableSettingsDialog } from "components/table-settings-dialog";
 import { scaleLinear } from "d3-scale";
 import { db } from "database";
 import { ancillary } from "database/ancillary";
-import { isMemberState, pillarColorMap } from "lib";
+import { isMemberState } from "lib";
 import get from "lodash/get";
 import orderBy from "lodash/orderBy";
 import partition from "lodash/partition";
@@ -440,8 +440,8 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
 
   return (
     <Layout title="Data" countries={layoutCountries}>
-      <div className="h-screen flex overflow-hidden">
-        <aside className="w-[240px] border-r flex-shrink-0 overflow-y-auto">
+      <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
+        <aside className="h-full w-full md:w-[240px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
           <div className="p-6">
             <div className="space-y-6">
               <div>
@@ -519,77 +519,14 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   })}
                 </select>
               </div>
+              <div className="grid grid-cols-2 items-center md:grid-cols-1">
               {createHistogramInputs()}
-              {/* <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Economy: value,
-                  }))
-                }
-                label="Economy Score"
-                data={economyScores}
-                value={scoreFilter.Economy}
-              /> */}
-              {/* <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    DPInfrastructure: value,
-                  }))
-                }
-                label="DPInfrastructure Score"
-                data={dpinfrastructureScores}
-                value={scoreFilter.DPInfrastructure}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Government: value,
-                  }))
-                }
-                label="Government Score"
-                data={governmentScores}
-                value={scoreFilter.Government}
-              /> */}
-              {/* <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Connectivity: value,
-                  }))
-                }
-                label="Connectivity Score"
-                data={connectivityScores}
-                value={scoreFilter.Connectivity}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    People: value,
-                  }))
-                }
-                label="People Score"
-                data={peopleScores}
-                value={scoreFilter.People}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Regulation: value,
-                  }))
-                }
-                label="Regulation Score"
-                data={regulationScores}
-                value={scoreFilter.Regulation}
-              /> */}
+              </div>
+
             </div>
           </div>
         </aside>
-        <div className="flex-1 flex flex-col overflow-auto">
+        <div className="md:flex-1 md:flex md:flex-col overflow-auto">
           <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
@@ -644,7 +581,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               </Link>
              </div>
           </div>
-          <div className="flex-1 flex-col overflow-auto h-full">
+          <div className="flex-1 flex-col">
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,
@@ -658,8 +595,22 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               rowKeyGetter={(row) => row.name}
               components={{ noRowsFallback: <NoRows /> }}
             />
-          </div>
+          </div>        
         </div>
+        <div className="md:hidden h-full border-none rdg-light mb-5 data-table">
+          <DataGrid
+          defaultColumnOptions={{
+       sortable: true,
+      resizable: true,
+    }}
+    sortColumns={sortColumns}
+    onSortColumnsChange={setSortColumns}
+    columns={personalizedColumns}
+    rows={sortedAndFiltered}
+    rowKeyGetter={(row) => row.name}
+    components={{ noRowsFallback: <NoRows /> }}
+  />
+       </div>
       </div>
     </Layout>
   );

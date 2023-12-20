@@ -19,10 +19,10 @@ const GlobeViz = dynamic(() => import("components/globe-viz"), {
 function Hero() {
   return (
     <div>
-      <h1 className="text-4xl font-bold">
+      <h1 className="text-3xl md:text-4xl font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="text-lg leading-7 mt-4 text-gray-500">
+      <p className="text-lg leading-7 mt-4 text-gray-500 text-justify">
         Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
       </p>
     </div>

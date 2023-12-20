@@ -76,7 +76,11 @@ export const ScoreRing = ({
 
   // get dimensions
   const { observe, width } = useDimensions();
-  const height = width * 0.55;
+
+ // width = '3000vh'
+ // width = width * 2;
+  const height =   width * 0.55;
+  console.log('hello', width , height)
   const r = width * 0.45;
   const innerRingR = [r * 0.35, r * 0.55];
   const outerRingR = [r * 0.55, r * 0.9];
@@ -146,17 +150,26 @@ export const ScoreRing = ({
       ref={observe}
       className="relative mx-auto"
       style={{
-        width: "min(100%, 130vh)",
+        width: "min(100%, 450vh)",
       }}
       onMouseLeave={() => {
         setHoveredSubpillar(null);
       }}
-    >
+    >  
+      <div className="mb-10">
+      {
+      pillars.map(([pillar, subpillars], index) => { 
+        return (
+        pillar
+        )
+       })
+      }  
+      </div>        
       <svg
         width={width}
         height={height}
         viewBox={`0 0 ${width} ${height}`}
-        className="overflow-visible mb-10 mx-auto w-10/12 xl:w-full"
+        className="overflow-visible mb-10 mx-auto w-12/12 md:w-10/12 xl:w-full"
       >
         <defs>
           <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -214,7 +227,6 @@ export const ScoreRing = ({
             );
           })}
         </defs>
-
         <g transform={`translate(${width / 2}, ${height})`}>
           {pillars.map(([pillar, subpillars], index) =>
             subpillars.map((subpillar) => {
@@ -288,6 +300,7 @@ export const ScoreRing = ({
                     r={innerRingR[1] - r * 0.05}
                     stroke="white"
                     strokeWidth={4}
+                    className="hidden md:block"
                   />
                   <CircleText
                     id={`name-${pillar}`}
@@ -295,13 +308,25 @@ export const ScoreRing = ({
                     text={pillar as string}
                     r={innerRingR[1] - r * 0.05}
                     fill={color}
+                    className="hidden md:block"
                   />
-
+                  {/* web */}
                   <g
-                    className="lg:text-2xl transition-all"
+                    className="hidden md:block lg:text-2xl transition-all"
                     style={{
                       color,
                       transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-0.5em, 0)`,
+                    }}
+                  >
+                    {/* @ts-ignore */}
+                    {pillarIcons[pillar.toLowerCase()]}
+                  </g>
+                  {/* mobile */}
+                  <g
+                    className="md:hidden lg:text-2xl transition-all"
+                    style={{
+                      color,
+                      transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-1em, 0)`,
                     }}
                   >
                     {/* @ts-ignore */}
@@ -426,7 +451,7 @@ export const ScoreRing = ({
 
                       {hasData && (
                         <g
-                        className={`sp-txt text-sm ${isHovered
+                        className={`hidden md:block sp-txt text-sm ${isHovered
                           ? "text-black font-semibold"
                           : "text-gray-500"
                           } fill-current transition-all duration-150`}
@@ -453,7 +478,47 @@ export const ScoreRing = ({
                               {getOrdinal(rank)}
                             </text>
                           )} */}
-                        </g>
+                        </g>                     
+                      )}
+                      {hasData && (
+                        <g
+                        className={`md:hidden sp-txt text-sm ${isHovered
+                          ? "text-black font-semibold"
+                          : "text-gray-500"
+                        } fill-current transition-all duration-150`}
+                        transform={`translate(${endPoint[0] + offset[0]},${endPoint[1] + offset[1]})`}
+                        textAnchor={placement}
+                        dominantBaseline="middle"
+                      >
+                        {isHovered && (
+                          <>
+                            <text
+                              x="-25"
+                              y="-15"
+                              className={`font-semibold ${isHovered ? "text-indigo-500" : ""
+                              } text-xs md:text-base `}
+                            >
+                              {subpillar}
+                            </text>
+                          </>
+                        )}
+
+                        {
+                          <text y="15" className="font-light">
+                            {value}
+                          </text>
+                        }
+                        {/* {!!rank && (
+                          <text
+                            y="-18"
+                            className="font-light opacity-80 text-xs"
+                          >
+                            {rank}
+                            {getOrdinal(rank)}
+                          </text>
+                        )} */}
+                      </g> 
+                        
                       )}
                     </g>
                   );
@@ -469,7 +534,16 @@ export const ScoreRing = ({
           pillar={hoveredPillarName || ""}
           subpillar={hoveredSubpillar}
         />
-      )}
+      )
+      }
+
+      {
+      pillars.map(([pillar, subpillars], index) => { 
+        return (
+        pillar
+        )
+       })
+      }
     </div>
   );
 };
@@ -514,7 +588,7 @@ const Info = ({
   const color = ancillary.pillarColorMap[pillar].base;
 
   return (
-    <div className="absolute top-[73%] bottom-0 left-0 right-0 w-full flex items-center justify-center max-w-[30%] mx-auto text-center">
+    <div className="md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex md:items-center md:justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
       <div className="">
         <h3
           className="text-2xl font-bold pointer-events-none"
