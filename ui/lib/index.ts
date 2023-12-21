@@ -1,5 +1,4 @@
 import { interpolateLab, scaleLinear } from "d3";
-import { db } from "database";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import type { BoundingBox, Country } from "database/processed/db";

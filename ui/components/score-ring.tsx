@@ -16,7 +16,6 @@ import { CircleText } from "./circle-text";
 import { Country } from "database/processed/db";
 import { getOrdinal } from "lib";
 import { ancillary } from "database/ancillary";
-import { db } from "database";
 import kebabCase from "lodash/kebabCase";
 
 const scoreDomain = [1, 6];

@@ -1,7 +1,5 @@
 import cc from "classcat";
-import { pillarColorMap } from "lib";
 import { Pillar, ancillary } from "database/ancillary";
-import { db } from "database";
 
 interface RadioProps {
   value: string;
