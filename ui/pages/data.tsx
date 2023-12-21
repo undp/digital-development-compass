@@ -418,7 +418,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   const createHistogramInputs = () => {
     return pillarNamesLists.map(pillarName => {
       const scores = useMemo(() => {
-        return data.map(datum => datum.scores[pillarName]?.score || 0);
+        return data.map((datum:any) => datum.scores[pillarName]?.score || 0);
       }, [data]);
 
       return (
