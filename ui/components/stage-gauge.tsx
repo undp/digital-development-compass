@@ -2,7 +2,7 @@ import icons from "components/icons";
 import { arc } from "d3";
 import { ancillary, Pillar } from "database/ancillary";
 import type { Stage as DBStage } from "database/processed/db";
-import { pillarColorMap, stageNames } from "lib";
+import { stageNames } from "lib";
 import { useMemo, useState } from "react";
 
 const degToRad = (deg: number) => (deg * Math.PI) / 180;
