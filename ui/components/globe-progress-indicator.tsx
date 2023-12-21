@@ -1,4 +1,4 @@
-import ancillary from "database/processed/ancillary";
+//import ancillary from "database/processed/ancillary";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { useInterval } from "react-use";
