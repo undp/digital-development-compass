@@ -21,7 +21,8 @@ export function GlobeProgressIndicator(props: Props) {
   const [progress, setProgress] = useState(0);
   const { pillar } = props;
 
-  const strokeColorClass = ancillary.pillarColorMap[pillar as string];  // targetEntry ? JSON.parse(targetEntry['colorMap']) : null;
+  // Check if pillar is a string before accessing the property
+  const strokeColorClass = typeof pillar === 'string' ? ancillary.pillarColorMap[pillar] : null;
   // const strokeColorClass =    colorMap[pillar];
 
   useInterval(() => {
