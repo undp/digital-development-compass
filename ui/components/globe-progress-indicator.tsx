@@ -7,22 +7,22 @@ interface Props {
   pillar: string;
 }
 
-// const colorMap: Record<string, string> = {
-//   Overall: "stroke-pillar-overall",
-//   Economy: "stroke-pillar-economy",
-//   DPInfrastructure: "stroke-pillar-dpinfrastructure",
-//   Government: "stroke-pillar-government",
-//   Connectivity: "stroke-pillar-connectivity",
-//   People: "stroke-pillar-people",
-//   Regulation: "stroke-pillar-regulation",
-// };
+const colorMap: Record<string, string> = {
+  Overall: "stroke-pillar-overall",
+  Economy: "stroke-pillar-economy",
+  DPInfrastructure: "stroke-pillar-dpinfrastructure",
+  Government: "stroke-pillar-government",
+  Connectivity: "stroke-pillar-connectivity",
+  People: "stroke-pillar-people",
+  Regulation: "stroke-pillar-regulation",
+};
 
 export function GlobeProgressIndicator(props: Props) {
   const [progress, setProgress] = useState(0);
   const { pillar } = props;
 
-  const strokeColorClass = ancillary.pillarColorMap[pillar as any];
-  // const strokeColorClass =    colorMap[pillar];
+ // const strokeColorClass = ancillary.pillarColorMap[pillar as any];
+   const strokeColorClass =    colorMap[pillar];
 
   useInterval(() => {
     setProgress((curr) => curr + 1);
