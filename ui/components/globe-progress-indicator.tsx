@@ -1,4 +1,3 @@
-import { db } from "database";
 import ancillary from "database/processed/ancillary";
 import { motion } from "framer-motion";
 import { useState } from "react";
