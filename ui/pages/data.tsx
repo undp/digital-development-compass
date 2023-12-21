@@ -109,7 +109,7 @@ export default function Data(
   //  });
 
 const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
-const initialScoreFilterState = pillarNamesLists.reduce((acc, pillar) => {
+const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
   acc[pillar] = undefined;
   return acc;
 }, {});
