@@ -101,7 +101,7 @@ export default function About(
                   key={pillar}
                   className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
                   style={{
-                    backgroundColor: ancillary.pillarColorMap[pillar]?.base,
+                    backgroundColor: (ancillary.pillarColorMap as any)[pillar]?.base
                   }}
                 >
                   {pillar}
