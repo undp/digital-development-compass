@@ -1,4 +1,5 @@
 import { db } from "database";
+import ancillary from "database/processed/ancillary";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { useInterval } from "react-use";
@@ -21,9 +22,7 @@ export function GlobeProgressIndicator(props: Props) {
   const [progress, setProgress] = useState(0);
   const { pillar } = props;
 
-const targetEntry = db.pillarNames.find(entry => entry.Pillar === pillar);
-
-const strokeColorClass = targetEntry ? JSON.parse(targetEntry['colorMap']) : null;
+const strokeColorClass = ancillary.pillarColorMap[pillar];  // targetEntry ? JSON.parse(targetEntry['colorMap']) : null;
   // const strokeColorClass =    colorMap[pillar];
 
   useInterval(() => {
