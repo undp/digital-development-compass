@@ -10,7 +10,7 @@ interface RadioProps {
 
 function Radio(props: RadioProps) {
   const { value, label, onChange, checked } = props;
-  const activeColor =  ancillary.pillarColorMap[value].base;
+  const activeColor = (ancillary.pillarColorMap as any)[value].base;
 
   return (
     <label
