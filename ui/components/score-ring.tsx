@@ -163,7 +163,7 @@ export const ScoreRing = ({
         setHoveredSubpillar(null);
       }}
     >
-      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20  mb-10">
+      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20  mb-10" style={{marginLeft:'5%'}}>
         {pillars.map(([pillar, subpillars], index) => (
           <div key={index} className="flex flex-col sm:flex-row items-center">
             <div
@@ -348,7 +348,9 @@ export const ScoreRing = ({
                 {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>
                 {pillar}
               </text> */}
-                {subpillars.map((subpillar) => {
+                {subpillars.map((subpillar,index) => {
+                  console.log('chec error',index)
+                //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredSubpillar === subpillar;
                   const mainArc = getArc(
                     outerRingR[0],
@@ -494,7 +496,8 @@ export const ScoreRing = ({
                           textAnchor={placement}
                           dominantBaseline="middle"
                         >
-                          <text
+                          <text 
+                             y= {index == 2 ? -30: 0}
                             className={`font-semibold ${
                               isHovered ? "text-indigo-500" : ""
                             } text-xs md:text-base`}
@@ -566,13 +569,15 @@ export const ScoreRing = ({
           })}
         </g>
       </svg>
-      {hoveredSubpillar && (
+      {hoveredSubpillar 
+      && (
         <Info
           country={country}
           pillar={hoveredPillarName || ""}
           subpillar={hoveredSubpillar}
         />
-      )}
+      )
+      }
     </div>
   );
 };
@@ -617,7 +622,7 @@ const Info = ({
   const color = ancillary.pillarColorMap[pillar].base;
 
   return (
-    <div className="text-center md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex items-center md:justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
+    <div className="text-center md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex items-center justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
       <div>
         <h3
           className="text-2xl font-bold pointer-events-none"

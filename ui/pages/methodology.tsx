@@ -33,8 +33,8 @@ export default function Methodology(
                   Methodology
                   </h2>
                 </div>
-                <div className="max-w-[40em] space-y-9 text-justify">
-                  <h2 className="md:text-3xl font-bold mt-3 mb-6 text-2xl">
+                <div className="max-w-[40em] space-y-9 text-justify ">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                   Defining Digital Development
                   </h2>
                   <p>
@@ -97,7 +97,7 @@ export default function Methodology(
                     />
                     <p className="text-center mt-2"><em>Table 1. UNDP’s Inclusive Whole-of-Society Digital Transformation Framework. Pillars and sub-pillars</em></p>
                   </div>
-                  <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 tracking-tighter md:tracking-normal">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
                   Measuring Digital Development
                   </h2>
                   <h2 className="max-w-[40em] space-y-9 text-2xl">
@@ -128,7 +128,7 @@ export default function Methodology(
                   </div>
                 </div>
                 
-                <div className="max-w-[40em] py-10 text-center">
+                <div className="max-w-[40em] py-10 sm:text-center md:text-left">
                   <h2 className="text-2xl md:text-3xl lg:text-3xl font-bold mt-10 mb-3 text-brand-blue-dark" >
                   Digital Development Score Methodology
                   </h2>
@@ -137,7 +137,7 @@ export default function Methodology(
                 </div>
 
                 <div className="max-w-[40em] space-y-9 text-justify">
-                  <h2 className="text-2xl md:text-3xl lg:text-3xl text-orange font-bold mt-3 mb-6">
+                  <h2 className="text-2xl md:text-3xl sm:text-center md:text-left lg:text-3xl text-orange font-bold mt-3 mb-6">
                   Methodology
                   </h2>
                   <p>
@@ -311,7 +311,7 @@ export default function Methodology(
                   </p>
                   <p>
                     <Link href="/disclaimer">
-                      <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+                      <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
                         Disclaimer.
                       </a>
                     </Link>

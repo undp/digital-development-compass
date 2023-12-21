@@ -227,7 +227,7 @@ export default function About(
             </p> */}
             <p>
             <Link href="/methodology">
-              <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+              <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider text-justify">
                Click here to read the Methodology.
               </a>
             </Link>
