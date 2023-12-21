@@ -117,7 +117,8 @@ export default function About(
             </p>
           </div>
         </div>
-
+        
+        
         <Scrollytelling country={country} />
 
         <div className="mt-40 mb-60 flex flex-col items-center">
@@ -537,7 +538,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full text-left px-[2vw] mt-60">
-      <h2 className="text-2xl md:text-3xl text-gray-800 font-bold">
+      <h2 className="text-center text-2xl md:text-3xl text-gray-800 font-bold">
         Let's walk through navigating an example in the Compass:
       </h2>
 
@@ -546,7 +547,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
           {currentStepIndex < 2 && (
             <div className="w-full h-full flex items-center justify-center">
               {stageNames.map((stageName, index) => (
-                <div className="text-[2vw] relative" key={index}>
+                <div className="text-[2.5vw] md:text-[2vw] relative" key={index}>
                   <div
                     className="py-[0.6em] px-[1em] font-semibold text-white"
                     style={{
@@ -581,7 +582,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
           )}
 
           {currentStepIndex > 4 && currentStepIndex < 7 && (
-            <div className="h-full w-full flex items-center justify-center px-[5vw] mb-[5vw]">
+            <div className="continer h-full w-full flex items-center justify-center px-[5vw] mb-[5vw]">
               <ScoreRing
                 defaultHoveredSubpillar={
                   currentStepIndex === 5 ? undefined : "Physical Infrastructure"

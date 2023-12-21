@@ -1,12 +1,20 @@
 // @ts-nocheck
-import { arc, hcl, interpolateHclLong, lab, range, scaleLinear } from "d3";
+import {
+  arc,
+  color,
+  hcl,
+  interpolateHclLong,
+  lab,
+  range,
+  scaleLinear,
+} from "d3";
 import { pillarColorsByName } from "data";
 import { Fragment, useEffect, useMemo, useState } from "react";
 import useDimensions from "react-cool-dimensions";
 import pillarIcons from "components/icons";
 import { CircleText } from "./circle-text";
 import { Country } from "database/processed/db";
-import { getOrdinal} from "lib";
+import { getOrdinal } from "lib";
 import { ancillary } from "database/ancillary";
 import { db } from "database";
 import kebabCase from "lodash/kebabCase";
@@ -77,10 +85,10 @@ export const ScoreRing = ({
   // get dimensions
   const { observe, width } = useDimensions();
 
- // width = '3000vh'
- // width = width * 2;
-  const height =   width * 0.55;
-  console.log('hello', width , height)
+  // width = '3000vh'
+  // width = width * 2;
+  const height = width * 0.55;
+  console.log("hello", width, height);
   const r = width * 0.45;
   const innerRingR = [r * 0.35, r * 0.55];
   const outerRingR = [r * 0.55, r * 0.9];
@@ -108,7 +116,7 @@ export const ScoreRing = ({
   // don't let filled subpillars get too large, it looks wonky
   const emptySubpillarRatio =
     numberOfMissingSubpillars / numberOfSubpillars > 0.5 ? 0.8 : 0.3;
-  const emptySubpillarDegrees =  0 // degreesPerSubpillar * emptySubpillarRatio;
+  const emptySubpillarDegrees = 0; // degreesPerSubpillar * emptySubpillarRatio;
   const filledSubpillarDegrees =
     (allAngles - emptySubpillarDegrees * numberOfMissingSubpillars) /
     (numberOfSubpillars - numberOfMissingSubpillars);
@@ -148,23 +156,28 @@ export const ScoreRing = ({
   return (
     <div
       ref={observe}
-      className="relative mx-auto"
+      className="relative items-center mx-auto"
       style={{
         width: "min(100%, 450vh)",
       }}
       onMouseLeave={() => {
         setHoveredSubpillar(null);
       }}
-    >  
-      <div className="mb-10">
-      {
-      pillars.map(([pillar, subpillars], index) => { 
-        return (
-        pillar
-        )
-       })
-      }  
-      </div>        
+    >
+      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20  mb-10">
+        {pillars.map(([pillar, subpillars], index) => (
+          <div key={index} className="flex flex-col sm:flex-row items-center">
+            <div
+              className="mb-2 mr-2"
+              style={{ color: `${pillarColorsMap[pillar]}` }}
+            >
+              {pillarIcons[pillar.toLowerCase()]}
+            </div>
+            <div className="mb-2">{pillar}</div>
+          </div>
+        ))}
+      </div>
+
       <svg
         width={width}
         height={height}
@@ -281,7 +294,7 @@ export const ScoreRing = ({
           ))}
           {pillars.map(([pillar, subpillars], index) => {
             const angles = pillarAngles[pillar as string];
-            if(angles[0] == angles[1]) return
+            if (angles[0] == angles[1]) return;
             const color = pillarColorsMap[pillar];
             const midAngle = (angles[0] + angles[1]) / 2;
             let iconPosition = getPointFromAngle(
@@ -421,16 +434,36 @@ export const ScoreRing = ({
                       )}
                       {isAStar && (
                         <>
+                          {/* mobile */}
                           <g
-                            className="transition-all"
-                            transform={`translate(${starPosition[0] - 12} ${starPosition[1] - 12
+                            className="transition-all md:hidden"
+                            transform={`translate(${starPosition[0] - 5} ${
+                              starPosition[1] - 32
                             })`}
                           >
                             <use
                               href="#star"
                               style={{
                                 transformOrigin: `12px 12px`,
-                                transform: `rotate(${midAngle - Math.PI * 0.78
+                                transform: `rotate(${
+                                  midAngle - Math.PI * 0.78
+                                }rad)`,
+                              }}
+                            />
+                          </g>
+                          {/* web */}
+                          <g
+                            className="hidden md:block transition-all"
+                            transform={`translate(${starPosition[0] - 12} ${
+                              starPosition[1] - 12
+                            })`}
+                          >
+                            <use
+                              href="#star"
+                              style={{
+                                transformOrigin: `12px 12px`,
+                                transform: `rotate(${
+                                  midAngle - Math.PI * 0.78
                                 }rad)`,
                               }}
                             />
@@ -444,25 +477,28 @@ export const ScoreRing = ({
                             }
                             rotate={midAngle / (Math.PI / 180)}
                             text="top 10"
-                            className="uppercase tracking-widest font-bold text-xs text-yellow-700 fill-current"
+                            className="hidden md:block uppercase tracking-widest font-bold text-xs text-yellow-700 fill-current"
                           />
                         </>
                       )}
 
                       {hasData && (
                         <g
-                        className={`hidden md:block sp-txt text-sm ${isHovered
-                          ? "text-black font-semibold"
-                          : "text-gray-500"
+                          className={`hidden md:block sp-txt text-sm ${
+                            isHovered
+                              ? "text-black font-semibold"
+                              : "text-gray-500"
                           } fill-current transition-all duration-150`}
-                          transform={`translate(${endPoint[0] + offset[0]},${endPoint[1] + offset[1]
+                          transform={`translate(${endPoint[0] + offset[0]},${
+                            endPoint[1] + offset[1]
                           })`}
                           textAnchor={placement}
                           dominantBaseline="middle"
                         >
                           <text
-                            className={`font-semibold ${isHovered ? "text-indigo-500" : ""
-                          } text-xs md:text-base`}
+                            className={`font-semibold ${
+                              isHovered ? "text-indigo-500" : ""
+                            } text-xs md:text-base`}
                           >
                             {subpillar}
                           </text>
@@ -478,37 +514,41 @@ export const ScoreRing = ({
                               {getOrdinal(rank)}
                             </text>
                           )} */}
-                        </g>                     
+                        </g>
                       )}
                       {hasData && (
                         <g
-                        className={`md:hidden sp-txt text-sm ${isHovered
-                          ? "text-black font-semibold"
-                          : "text-gray-500"
-                        } fill-current transition-all duration-150`}
-                        transform={`translate(${endPoint[0] + offset[0]},${endPoint[1] + offset[1]})`}
-                        textAnchor={placement}
-                        dominantBaseline="middle"
-                      >
-                        {isHovered && (
-                          <>
-                            <text
-                              x="-25"
-                              y="-15"
-                              className={`font-semibold ${isHovered ? "text-indigo-500" : ""
-                              } text-xs md:text-base `}
-                            >
-                              {subpillar}
-                            </text>
-                          </>
-                        )}
+                          className={`md:hidden sp-txt text-sm ${
+                            isHovered
+                              ? "text-black font-semibold"
+                              : "text-gray-500"
+                          } fill-current transition-all duration-150`}
+                          transform={`translate(${endPoint[0] + offset[0]},${
+                            endPoint[1] + offset[1]
+                          })`}
+                          textAnchor={placement}
+                          dominantBaseline="middle"
+                        >
+                          {isHovered && (
+                            <>
+                              <text
+                                x="-25"
+                                y="-15"
+                                className={`font-semibold ${
+                                  isHovered ? "text-indigo-500" : ""
+                                } text-xs md:text-base `}
+                              >
+                                {subpillar}
+                              </text>
+                            </>
+                          )}
 
-                        {
-                          <text y="15" className="font-light">
-                            {value}
-                          </text>
-                        }
-                        {/* {!!rank && (
+                          {
+                            <text y="15" className="font-light">
+                              {value}
+                            </text>
+                          }
+                          {/* {!!rank && (
                           <text
                             y="-18"
                             className="font-light opacity-80 text-xs"
@@ -517,8 +557,7 @@ export const ScoreRing = ({
                             {getOrdinal(rank)}
                           </text>
                         )} */}
-                      </g> 
-                        
+                        </g>
                       )}
                     </g>
                   );
@@ -534,16 +573,7 @@ export const ScoreRing = ({
           pillar={hoveredPillarName || ""}
           subpillar={hoveredSubpillar}
         />
-      )
-      }
-
-      {
-      pillars.map(([pillar, subpillars], index) => { 
-        return (
-        pillar
-        )
-       })
-      }
+      )}
     </div>
   );
 };
@@ -588,8 +618,8 @@ const Info = ({
   const color = ancillary.pillarColorMap[pillar].base;
 
   return (
-    <div className="md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex md:items-center md:justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
-      <div className="">
+    <div className="text-center md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex items-center md:justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
+      <div>
         <h3
           className="text-2xl font-bold pointer-events-none"
           style={{
