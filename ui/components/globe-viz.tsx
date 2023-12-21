@@ -177,7 +177,6 @@ export default function GlobeViz({
           const isActive =
             hoveredCountry === datum.alpha3 || activeCountryId === datum.alpha3;
           
-            console.log('dddddfddfgdfdddddddddddddd',scale[pillar](6))
           // @ts-ignore
           const color = isActive
             ? // @ts-ignore
