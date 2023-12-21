@@ -543,7 +543,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
 
               <OverflowList
                 items={appliedFilters}
-                className="flex-1 ml-4 flex items-center space-x-2 flex-nowrap"
+                className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
                 itemRenderer={(item) => {
                   return (
                     <div className="flex-shrink-0" key={item.label}>
@@ -575,7 +575,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 />
               </div>&nbsp;
               <Link href="/disclaimer">
-                  <a className="ml-1 select-none text-sm text-gray-900">
+                  <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
                   Disclaimer
                   </a>
               </Link>
