@@ -432,7 +432,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
           }
           label={`${pillarName} Score`}
           data={scores}
-          value={scoreFilter[pillarName] || 0}
+          value={scoreFilter[pillarName]}
         />
       );
     });
