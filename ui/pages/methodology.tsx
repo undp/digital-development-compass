@@ -29,7 +29,7 @@ export default function Methodology(
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
                 <div className="max-w-[40em] py-10 text-lg text-center">
-                  <h2 className="text-3xl font-bold mt-7 mb-3 text-brand-blue-dark" >
+                  <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark" >
                   Methodology
                   </h2>
                 </div>

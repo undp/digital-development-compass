@@ -519,7 +519,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   })}
                 </select>
               </div>
-              <div className="grid grid-cols-2 items-center md:grid-cols-1">
+              <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
               {createHistogramInputs()}
               </div>
 
