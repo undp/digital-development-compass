@@ -581,7 +581,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               </Link>
              </div>
           </div>
-          <div className="flex-1 flex-col">
+          <div className="hidden md:block flex-1 flex-col">
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,
