@@ -163,9 +163,9 @@ export const ScoreRing = ({
         setHoveredSubpillar(null);
       }}
     >
-      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20  mb-10" style={{marginLeft:'5%'}}>
+      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20  mb-10">
         {pillars.map(([pillar, subpillars], index) => (
-          <div key={index} className="flex flex-col sm:flex-row items-center">
+          <div key={index} className="flex flex-col sm:flex-row items-center rainbow-margin">
             <div
               className="mb-2 mr-2"
               style={{ color: `${pillarColorsMap[pillar]}` }}

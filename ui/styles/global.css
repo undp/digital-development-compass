@@ -152,3 +152,35 @@ html {
     margin: 0 -16vw;
   }
 }
+
+
+@media (max-width: 770px) {
+  .rainbow-margin {
+    margin-left: 12%;
+  }
+}
+
+@media (max-width: 400px) {
+  .rainbow-margin {
+    margin-left: 5%;
+  }
+}
+
+
+@media (min-width: 300px) and (max-width: 800px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 770px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 770px) and (max-width: 800px) {
+  .container {
+    max-width: 100%;
+  }
+}
