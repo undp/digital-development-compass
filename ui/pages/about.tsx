@@ -82,7 +82,7 @@ export default function About(
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 className="text-3xl font-bold mt-20 mb-6">
+                <h2 className="text-3xl font-bold mt:8 md:mt-20  mb-1 md:mb-6">
                   How the Compass Works
                 </h2>
               </div>
@@ -537,7 +537,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
     .clamp(true);
 
   return (
-    <div className="w-full text-left px-[2vw] mt-40 md:mt-60">
+    <div className="w-full text-left px-[2vw] mt-8 md:mt-60">
       <h2 className="text-center text-2xl md:text-3xl text-gray-800 font-bold">
         Let's walk through navigating an example in the Compass:
       </h2>

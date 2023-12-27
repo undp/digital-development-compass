@@ -540,7 +540,8 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 </p>
                 
               </div>
-
+              
+              <div className="flex-shrink-0">
               <OverflowList
                 items={appliedFilters}
                 className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
@@ -565,7 +566,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   );
                 }}
               />
-              
+              </div>
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}

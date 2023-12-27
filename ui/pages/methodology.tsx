@@ -50,7 +50,7 @@ export default function Methodology(
                       the Digital Transformation Framework to discover & compare progress across a range of key issues.
                   </p> 
                   
-                  <h2 className="max-w-[40em] space-y-9 text-2xl tracking-tight md:tracking-normal">
+                  <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
                   Overview of the Digital Transformation framework
                   </h2>
                   <p>
