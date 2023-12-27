@@ -176,7 +176,7 @@ export default function GlobeViz({
           const overallScore = datum.scores[pillar].score || 0;
           const isActive =
             hoveredCountry === datum.alpha3 || activeCountryId === datum.alpha3;
-
+          
           // @ts-ignore
           const color = isActive
             ? // @ts-ignore

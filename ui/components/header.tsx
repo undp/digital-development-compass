@@ -11,7 +11,7 @@ export function SiteName() {
   return (
     <div className="flex items-center space-x-4">
       <div className="flex flex-col space-y-1">
-        <h1 className="text-sm font-medium lg:text-2xl max-w-[20ch] lg:max-w-full">
+      <h1 className="text-sm font-bold lg:text-xl max-w-[20ch] lg:max-w-full">
           Digital Development Compass
         </h1>
       </div>
@@ -69,17 +69,17 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           </div>
           <div className="flex items-center justify-end space-x-8">
             <Link href="/about">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+            <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 About
               </a>
             </Link>
             <Link href="/data">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+            <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 Data
               </a>
             </Link>
             <Link href="/methodology">
-              <a className="uppercase text-sm hover:underline font-medium tracking-wider">
+            <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
                 Methodology
               </a>
             </Link>

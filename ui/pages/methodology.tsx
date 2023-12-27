@@ -28,13 +28,13 @@ export default function Methodology(
       <div className="py-16">
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-                <div className="max-w-[40em] mr-10 py-10 text-lg">
-                  <h2 className="text-3xl font-bold mt-7 mb-3 text-brand-blue-dark" >
+                <div className="max-w-[40em] py-10 text-lg text-center">
+                  <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark" >
                   Methodology
                   </h2>
                 </div>
-                <div className="max-w-[40em] space-y-9">
-                  <h2 className="text-3xl font-bold mt-3 mb-6">
+                <div className="max-w-[40em] space-y-9 text-justify ">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                   Defining Digital Development
                   </h2>
                   <p>
@@ -50,7 +50,7 @@ export default function Methodology(
                       the Digital Transformation Framework to discover & compare progress across a range of key issues.
                   </p> 
                   
-                  <h2 className="max-w-[40em] space-y-9 text-2xl">
+                  <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
                   Overview of the Digital Transformation framework
                   </h2>
                   <p>
@@ -97,7 +97,7 @@ export default function Methodology(
                     />
                     <p className="text-center mt-2"><em>Table 1. UNDP’s Inclusive Whole-of-Society Digital Transformation Framework. Pillars and sub-pillars</em></p>
                   </div>
-                  <h2 className="text-3xl font-bold mt-10 mb-6">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
                   Measuring Digital Development
                   </h2>
                   <h2 className="max-w-[40em] space-y-9 text-2xl">
@@ -128,16 +128,16 @@ export default function Methodology(
                   </div>
                 </div>
                 
-                <div className="max-w-[40em] mr-10 py-10 text-lg">
-                  <h2 className="text-3xl font-bold mt-10 mb-3 text-brand-blue-dark" >
+                <div className="max-w-[40em] py-10 sm:text-center md:text-left">
+                  <h2 className="text-2xl md:text-3xl lg:text-3xl font-bold mt-10 mb-3 text-brand-blue-dark" >
                   Digital Development Score Methodology
                   </h2>
                   
 
                 </div>
 
-                <div className="max-w-[40em] space-y-9">
-                  <h2 className="text-3xl text-orange font-bold mt-3 mb-6">
+                <div className="max-w-[40em] space-y-9 text-justify">
+                  <h2 className="text-2xl md:text-3xl sm:text-center md:text-left lg:text-3xl text-orange font-bold mt-3 mb-6">
                   Methodology
                   </h2>
                   <p>
@@ -164,7 +164,7 @@ export default function Methodology(
                     </a>
                     . Sources of the data sets include:
                   </p>
-                  <ul className="grid grid-cols-2 gap-y-1 list-disc pl-4">
+                  <ul className="grid grid-cols-1 md:grid-cols-2 gap-x-7 gap-y-1 list-disc pl-4">
                     <li>
                       World Bank: World Development 
                       <p>
@@ -311,7 +311,7 @@ export default function Methodology(
                   </p>
                   <p>
                     <Link href="/disclaimer">
-                      <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+                      <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
                         Disclaimer.
                       </a>
                     </Link>

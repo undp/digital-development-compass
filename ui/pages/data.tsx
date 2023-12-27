@@ -7,7 +7,7 @@ import { TableSettingsDialog } from "components/table-settings-dialog";
 import { scaleLinear } from "d3-scale";
 import { db } from "database";
 import { ancillary } from "database/ancillary";
-import { isMemberState, pillarColorMap } from "lib";
+import { isMemberState } from "lib";
 import get from "lodash/get";
 import orderBy from "lodash/orderBy";
 import partition from "lodash/partition";
@@ -97,16 +97,26 @@ export default function Data(
   const [regionFilter, setRegionFilter] = useState("*");
   const [subregionFilter, setSubregionFilter] = useState("*");
 
-  const [scoreFilter, setScoreFilter] = useState<
-    Record<string, number[] | undefined>
-  >({
-    Economy: undefined,
-    Government: undefined,
-    DPInfrastructure: undefined,
-    Connectivity: undefined,
-    People: undefined,
-    Regulation: undefined,
-   });
+  // const [scoreFilter, setScoreFilter] = useState<
+  //   Record<string, number[] | undefined>
+  // >({
+  //   Economy: undefined,
+  //   Government: undefined,
+  //   DPInfrastructure: undefined,
+  //   Connectivity: undefined,
+  //   People: undefined,
+  //   Regulation: undefined,
+  //  });
+
+const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
+const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
+  acc[pillar] = undefined;
+  return acc;
+}, {});
+
+const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
+  initialScoreFilterState
+);
 
   const columns: Column<typeof data[0]>[] = useMemo(() => {
     return [
@@ -196,7 +206,7 @@ export default function Data(
       ...ancillary.pillarNames
         .filter((p) => p !== "Overall")
         .map((pillar) => {
-          const pillarColor = pillarColorMap[pillar].base;
+          const pillarColor = ancillary.pillarColorMap[pillar].base;
 
           const bgScale = scaleLinear<string>()
             .domain([0, 5])
@@ -249,40 +259,16 @@ export default function Data(
     ];
   }, [displaySettings]);
 
+  
   const maybeFilteredRows = useMemo(() => {
     const byName = matchSorter(data, countryFilter, { keys: ["name"] });
     return byName
+      .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
+      .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
       .filter((datum) => {
-        return regionFilter === "*" || datum.region === regionFilter;
-      })
-      .filter((datum) => {
-        return subregionFilter === "*" || datum.subregion === subregionFilter;
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Economy", scoreFilter.Economy);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "DPInfrastructure",
-          scoreFilter.DPInfrastructure
+        return pillarNamesLists.every((pillar) =>
+          filterPillarByRange(datum, pillar, scoreFilter[pillar])
         );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Government", scoreFilter.Government);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(
-          datum,
-          "Connectivity",
-          scoreFilter.Connectivity
-        );
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "People", scoreFilter.People);
-      })
-      .filter((datum) => {
-        return filterPillarByRange(datum, "Regulation", scoreFilter.Regulation);
       });
   }, [countryFilter, scoreFilter, regionFilter, subregionFilter]);
 
@@ -309,29 +295,29 @@ export default function Data(
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  const economyScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Economy"].score || 0);
-  }, [data]);
+  // const economyScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Economy"].score || 0);
+  // }, [data]);
 
-  const dpinfrastructureScores = useMemo(() => {
-    return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
-  }, [data]);
+  // const dpinfrastructureScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
+  // }, [data]);
 
-  const governmentScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Government"].score || 0);
-  }, [data]);
+  // const governmentScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Government"].score || 0);
+  // }, [data]);
 
-  const connectivityScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  }, [data]);
+  // const connectivityScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
+  // }, [data]);
 
-  const peopleScores = useMemo(() => {
-    return data.map((datum) => datum.scores["People"].score || 0);
-  }, [data]);
+  // const peopleScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["People"].score || 0);
+  // }, [data]);
 
-  const regulationScores = useMemo(() => {
-    return data.map((datum) => datum.scores["Regulation"].score || 0);
-  }, [data]);
+  // const regulationScores = useMemo(() => {
+  //   return data.map((datum) => datum.scores["Regulation"].score || 0);
+  // }, [data]);
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -429,10 +415,33 @@ export default function Data(
     setCountryFilter,
   ]) as AppliedFilter[];
 
+  const createHistogramInputs = () => {
+    return pillarNamesLists.map(pillarName => {
+      const scores = useMemo(() => {
+        return data.map((datum:any) => datum.scores[pillarName]?.score || 0);
+      }, [data]);
+
+      return (
+        <HistogramRangeInput
+          key={pillarName}
+          onChange={(value) =>
+            setScoreFilter((curr) => ({
+              ...curr,
+              [pillarName]: value,
+            }))
+          }
+          label={`${pillarName} Score`}
+          data={scores}
+          value={scoreFilter[pillarName]}
+        />
+      );
+    });
+  };
+
   return (
     <Layout title="Data" countries={layoutCountries}>
-      <div className="h-screen flex overflow-hidden">
-        <aside className="w-[240px] border-r flex-shrink-0 overflow-y-auto">
+      <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
+        <aside className="h-full w-full md:w-[240px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
           <div className="p-6">
             <div className="space-y-6">
               <div>
@@ -510,76 +519,14 @@ export default function Data(
                   })}
                 </select>
               </div>
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Economy: value,
-                  }))
-                }
-                label="Economy Score"
-                data={economyScores}
-                value={scoreFilter.Economy}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    DPInfrastructure: value,
-                  }))
-                }
-                label="DPInfrastructure Score"
-                data={dpinfrastructureScores}
-                value={scoreFilter.DPInfrastructure}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Government: value,
-                  }))
-                }
-                label="Government Score"
-                data={governmentScores}
-                value={scoreFilter.Government}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Connectivity: value,
-                  }))
-                }
-                label="Connectivity Score"
-                data={connectivityScores}
-                value={scoreFilter.Connectivity}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    People: value,
-                  }))
-                }
-                label="People Score"
-                data={peopleScores}
-                value={scoreFilter.People}
-              />
-              <HistogramRangeInput
-                onChange={(value) =>
-                  setScoreFilter((curr) => ({
-                    ...curr,
-                    Regulation: value,
-                  }))
-                }
-                label="Regulation Score"
-                data={regulationScores}
-                value={scoreFilter.Regulation}
-              />
+              <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
+              {createHistogramInputs()}
+              </div>
+
             </div>
           </div>
         </aside>
-        <div className="flex-1 flex flex-col overflow-auto">
+        <div className="md:flex-1 md:flex md:flex-col overflow-auto">
           <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
@@ -593,10 +540,11 @@ export default function Data(
                 </p>
                 
               </div>
-
+              
+              <div className="flex-shrink-0">
               <OverflowList
                 items={appliedFilters}
-                className="flex-1 ml-4 flex items-center space-x-2 flex-nowrap"
+                className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
                 itemRenderer={(item) => {
                   return (
                     <div className="flex-shrink-0" key={item.label}>
@@ -618,7 +566,7 @@ export default function Data(
                   );
                 }}
               />
-              
+              </div>
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
@@ -628,13 +576,13 @@ export default function Data(
                 />
               </div>&nbsp;
               <Link href="/disclaimer">
-                  <a className="ml-1 select-none text-sm text-gray-900">
+                  <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
                   Disclaimer
                   </a>
               </Link>
              </div>
           </div>
-          <div className="flex-1 flex-col overflow-auto h-full">
+          <div className="hidden md:block flex-1 flex-col">
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,
@@ -648,8 +596,22 @@ export default function Data(
               rowKeyGetter={(row) => row.name}
               components={{ noRowsFallback: <NoRows /> }}
             />
-          </div>
+          </div>        
         </div>
+        <div className="md:hidden h-full border-none rdg-light mb-5 data-table">
+          <DataGrid
+          defaultColumnOptions={{
+       sortable: true,
+      resizable: true,
+    }}
+    sortColumns={sortColumns}
+    onSortColumnsChange={setSortColumns}
+    columns={personalizedColumns}
+    rows={sortedAndFiltered}
+    rowKeyGetter={(row) => row.name}
+    components={{ noRowsFallback: <NoRows /> }}
+  />
+       </div>
       </div>
     </Layout>
   );

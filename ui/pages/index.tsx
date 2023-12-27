@@ -19,10 +19,10 @@ const GlobeViz = dynamic(() => import("components/globe-viz"), {
 function Hero() {
   return (
     <div>
-      <h1 className="text-3xl mt-4 font-light">
+      <h1 className="text-3xl md:text-4xl font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="text-lg leading-7 mt-4 text-gray-500">
+      <p className="text-lg leading-7 mt-4 text-gray-500 text-justify">
         Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
       </p>
     </div>
@@ -53,11 +53,11 @@ const IndexPage = ({
   return (
     <Layout countries={countries}>
       <section className="h-full flex flex-col">
-        <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full bg-gradient-to-l from-blue-50">
-          <div className="items-center justify-center py-6 px-6 lg:py-0 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
-            <div className="max-w-2xl pt-0 md:pt-4 lg:pt-8 xl:pt-12 flex flex-col h-full">
+      <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
+      <div className="items-center justify-center px-6 py-6 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
+            <div className="max-w-2xl pt-0 flex flex-col justify-center h-full md:mx-auto">
               <Hero />
-              <div className="mt-8">
+              <div className="mt-8 mb-4">
                 <PillarRadioGroup
                   value={pillarFilter}
                   onChange={setPillarFilter}
@@ -65,7 +65,7 @@ const IndexPage = ({
               </div>
             </div>
           </div>
-          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative">
+          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50">
             <AnimatePresence>
               {activeCountry && (
                 <motion.div
