@@ -115,7 +115,7 @@ const StaticPropsDetail = ({
         </div>
         {/* mobile responsive */}
         <div className="md:hidden lg:hidden mx-auto max-w-7xl px-7 sticky top-0 z-10">
-          <div className="w-full bg-white space-x-5 flex items-center py-4">
+          <div className="w-full bg-white space-x-5 flex items-center py-4 pl-2">
             <h2 className="md:hidden text-2xl leading-7 md:text-3xl md:leading-9 text-gray-900">
               Pillar scores
             </h2>
@@ -125,7 +125,7 @@ const StaticPropsDetail = ({
                   </a>
             </Link>
           </div>
-          <div className="w-full bg-white sm:grid sm:grid-cols-2 sm:gap-x-auto md:flex lg:flex items-center gap-4">
+          <div className="w-full bg-white sm:grid sm:grid-cols-2 sm:gap-x-auto md:flex lg:flex items-center gap-4 pb-2 pl-2 rounded-b-lg">
               <Toggle
                 disabled={!showIndicators}
                 id="toggle-missing-indicators"
