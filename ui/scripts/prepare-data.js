@@ -35,7 +35,7 @@ async function main() {
       data_availability: (d) => (Number.isFinite(+d) ? +d : null),
     },
   }).fromFile(SCORES_FILE);
-
+  console.log(pillar_definitions);
   const latlon = require(LATLON_FILE);
 
   // const pillarNames = [
