@@ -56,7 +56,7 @@ export function IndicatorList(props: IndicatorListProps) {
   return (
     <div>
       <ul className="space-y-2">
-        {data.map((indicator: any) => (
+        {!showMissingIndicators && data.map((indicator: any) => (
           <Indicator
             key={indicator.Indicator}
             indicator={indicator}
@@ -64,9 +64,18 @@ export function IndicatorList(props: IndicatorListProps) {
             isShowingRawScores={isShowingRawScores}
           />
         ))}
-        {showMissingIndicators && (
+        {!showMissingIndicators && (
           <MissingIndicators
             filledIndicators={data}
+            country={country}
+            pillar={pillar}
+            subpillar={subpillar}
+            showSources={showSources}
+            isShowingRawScores={isShowingRawScores}
+          />
+        )}
+        {showMissingIndicators && (
+          <ImIndicators
             country={country}
             pillar={pillar}
             subpillar={subpillar}
@@ -144,6 +153,59 @@ const MissingIndicators = ({
   );
 };
 
+const fetchimputedIndicators = async (
+  _: string,
+  country: string,
+  pillar: string,
+  subpillar: string
+) => {
+  let url = `/api/indicators-imputed-data`;
+  let params = { country, pillar, subpillar};
+  let stringifiedParams = new URLSearchParams(params).toString();
+  // @ts-ignore
+  const res = await fetch(`${url}?${stringifiedParams}`);
+  return await res.json();
+};
+const ImIndicators = ({ 
+  country,
+  pillar,
+  subpillar,
+  showSources,
+  isShowingRawScores,
+}: {
+  country: string;
+  pillar: Pillar;
+  subpillar: string;
+  showSources: boolean;
+  isShowingRawScores: boolean;
+}) => {
+  const { data: imputedindicators } = useSWR(
+    ["indicators", country, pillar, subpillar],
+    fetchimputedIndicators
+  );
+  console.log('im indicators');
+  console.log(imputedindicators);
+  if (!imputedindicators)
+    return (
+      <p className="text-sm text-gray-600">Loading missing indicators...</p>
+    );
+
+  const imindicators = imputedindicators
+  console.log('imIndicators');
+  console.log(imindicators);
+  return (
+    <>
+      {imindicators.map((indicator: any) => (
+        <Indicator
+          key={indicator.Indicator}
+          indicator={indicator}
+          showSources={showSources}
+          isShowingRawScores={isShowingRawScores}
+        />
+      ))}
+    </>
+  );
+};
 const Indicator = ({
   indicator,
   showSources,

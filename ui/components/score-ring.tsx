@@ -87,7 +87,6 @@ export const ScoreRing = ({
   // width = '3000vh'
   // width = width * 2;
   const height = width * 0.55;
-  console.log("hello", width, height);
   const r = width * 0.45;
   const innerRingR = [r * 0.35, r * 0.55];
   const outerRingR = [r * 0.55, r * 0.9];
@@ -349,7 +348,6 @@ export const ScoreRing = ({
                 {pillar}
               </text> */}
                 {subpillars.map((subpillar,index) => {
-                  console.log('chec error',index)
                 //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredSubpillar === subpillar;
                   const mainArc = getArc(
