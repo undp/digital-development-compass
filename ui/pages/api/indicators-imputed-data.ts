@@ -12,15 +12,15 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
   }
  
   let indices = db.scores.filter((score) => {
-      if(score['data_status']=='1'){
+      if(score['data_status']=='0'){
         return (
           score["Country Name"] === country &&
           score["Pillar"] === pillar &&
           score["Sub-Pillar"] === subpillar &&
           Boolean(score["Indicator"])
         );
-    } 
-  });
+    }
+  }); 
 
   let indicesWithSources = indices.map((index) => {
     return {

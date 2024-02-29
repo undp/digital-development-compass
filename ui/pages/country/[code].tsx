@@ -13,6 +13,7 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
 import { useState } from "react";
 import Link from "next/link";
+//import { IndicatorList } from "components/indicator-list";
 
 type Props = {
   layoutCountries: {
@@ -84,13 +85,13 @@ const StaticPropsDetail = ({
                 enabled={showIndicators}
                 onChange={setShowIndicators}
               />
-              <Toggle
+              {<Toggle
                 disabled={!showIndicators}
                 id="toggle-missing-indicators"
                 label="Missing indicators"
                 enabled={showMissingIndicators}
                 onChange={setShowMissingIndicators}
-              />
+              /> }
               <Toggle
                 id="toggle-raw-scores"
                 disabled={!showIndicators}
@@ -146,7 +147,7 @@ const StaticPropsDetail = ({
                 enabled={showRawScores}
                 onChange={setShowRawScores}
               />
-              <Toggle
+              <Toggle 
                 id="toggle-sources"
                 disabled={!showIndicators}
                 label="Sources"

@@ -101,7 +101,6 @@ const Subpillar = (props: SubpillarProps) => {
     </div>
   );
 };
-
 const Pillar = (props: PillarProps) => {
   const {
     country,
@@ -218,7 +217,7 @@ const StageInfo = ({
     return <p className="text-gray-600 text-sm">No stage data available.</p>;
 
   return (
-    <>
+    <> 
       {showAllStages ? (
         <StageList
           currentStage={stage?.number}

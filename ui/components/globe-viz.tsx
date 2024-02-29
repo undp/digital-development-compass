@@ -223,7 +223,6 @@ export default function GlobeViz({
             setHoveredCountry(null);
           }
           if (!datum || !datum.unMember) {
-            // console.info("Disabled for non-member countries");
             return;
           }
           setHoveredCountry(datum.alpha3 || null);
@@ -232,7 +231,6 @@ export default function GlobeViz({
           let datum = d as GlobeDatum;
 
           if (!datum.unMember) {
-            // console.info("Disabled for non-member countries");
             return;
           }
           if (datum.alpha3 === activeCountryId) {

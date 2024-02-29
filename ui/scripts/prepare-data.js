@@ -35,7 +35,6 @@ async function main() {
       data_availability: (d) => (Number.isFinite(+d) ? +d : null),
     },
   }).fromFile(SCORES_FILE);
-
   const latlon = require(LATLON_FILE);
 
   // const pillarNames = [
@@ -199,8 +198,7 @@ async function main() {
     const definition =
       definitions.find((d) => !d["Pillar"] && !d["Sub-Pillar"]) || "";
     const stageInfo = definition[stageName];
-    //console.log(stage)
-    //console.log(stageName)
+
     if (!stageInfo){
       stageInfo == ""
     };
