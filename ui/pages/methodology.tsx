@@ -327,7 +327,7 @@ export default function Methodology(
                   Sub-pillar level scores are then weighted and averaged into pillar scores. All sub-pillars are also weighted equally.<br/><br/>
                   Where data for a country is not available for an indicator, this indicator is omitted from the calculation of a sub-pillar score. Instead, an average of the indicator data that is available is used. Similarly, where no data is available for a sub-pillar, this sub-pillar is omitted from the calculation of the overall pillar score.<br/><br/>
                   
-                  Download raw data file <a href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv" className="text-blue-300" id='downloadRawScoresFile' onClick={handleDownloadClick}> here</a>
+                  Download raw data file <a href="https://github.com/xeptagondev/undp-digital-development-compass/blob/xep_ddc_task175/ui/database/raw/scores.csv" className="text-blue-300" id='downloadRawScoresFile' onClick={handleDownloadClick}> here</a>
                   </p>
                   <p>
                     <Link href="/disclaimer">
