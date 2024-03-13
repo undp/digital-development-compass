@@ -176,7 +176,7 @@ export default function GlobeViz({
           const overallScore = datum.scores[pillar].score || 0;
           const isActive =
             hoveredCountry === datum.alpha3 || activeCountryId === datum.alpha3;
-
+          
           // @ts-ignore
           const color = isActive
             ? // @ts-ignore
@@ -223,7 +223,6 @@ export default function GlobeViz({
             setHoveredCountry(null);
           }
           if (!datum || !datum.unMember) {
-            // console.info("Disabled for non-member countries");
             return;
           }
           setHoveredCountry(datum.alpha3 || null);
@@ -232,7 +231,6 @@ export default function GlobeViz({
           let datum = d as GlobeDatum;
 
           if (!datum.unMember) {
-            // console.info("Disabled for non-member countries");
             return;
           }
           if (datum.alpha3 === activeCountryId) {
