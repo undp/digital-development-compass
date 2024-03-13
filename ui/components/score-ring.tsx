@@ -102,11 +102,11 @@ export const ScoreRing = ({
   const numberOfMissingSubpillars = isPlaceholder
     ? 0
     : pillars.reduce((acc, pillar) => {
-        const missingSubpillars = pillar[1].filter(
-          (subpillar) => !country.scores?.[pillar[0]]?.[subpillar]?.score
-        ).length;
-        return acc + missingSubpillars;
-      }, 0);
+      const missingSubpillars = pillar[1].filter(
+        (subpillar) => !country.scores?.[pillar[0]]?.[subpillar]?.score
+      ).length;
+      return acc + missingSubpillars;
+    }, 0);
   const numberOfSubpillars = pillars.reduce((acc, pillar) => {
     const subpillars = pillar[1].length;
     return acc + subpillars;
@@ -267,9 +267,8 @@ export const ScoreRing = ({
                 >
                   <path
                     d={mainArc}
-                    className={`${
-                      isHovered ? "text-indigo-100" : "text-gray-100"
-                    } fill-current transition-all`}
+                    className={`${isHovered ? "text-indigo-100" : "text-gray-100"
+                      } fill-current transition-all`}
                     strokeWidth={1}
                   />
                   <path
@@ -368,8 +367,8 @@ export const ScoreRing = ({
                     Math.abs(endPoint[0]) < 180
                       ? "middle"
                       : endPoint[0] < 0
-                      ? "end"
-                      : "start";
+                        ? "end"
+                        : "start";
                   const offset = {
                     start: [10, 0],
                     middle: [0, -10],
@@ -426,9 +425,8 @@ export const ScoreRing = ({
                           x2={endPointLine[0]}
                           y2={endPointLine[1]}
                           strokeWidth="1"
-                          className={`${
-                            isHovered ? "text-gray-400" : "text-gray-200"
-                          } stroke-current transition-all`}
+                          className={`${isHovered ? "text-gray-400" : "text-gray-200"
+                            } stroke-current transition-all`}
                         />
                       )}
                       {isAStar && (
@@ -461,9 +459,8 @@ export const ScoreRing = ({
                               href="#star"
                               style={{
                                 transformOrigin: `12px 12px`,
-                                transform: `rotate(${
-                                  midAngle - Math.PI * 0.78
-                                }rad)`,
+                                transform: `rotate(${midAngle - Math.PI * 0.78
+                                  }rad)`,
                               }}
                             />
                           </g>
@@ -595,9 +592,9 @@ const getArc = (
     .outerRadius(outerRadius)
     .startAngle(startAngle)
     .endAngle(endAngle)(
-    // @ts-ignore
-    [{}]
-  );
+      // @ts-ignore
+      [{}]
+    );
 };
 
 const distanceOffset = scaleLinear()

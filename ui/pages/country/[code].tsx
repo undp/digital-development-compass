@@ -80,7 +80,7 @@ const StaticPropsDetail = ({
             <h2 className="text-2xl leading-7 sm:leading-9 text-gray-900">
               Pillar scores
             </h2>
-            <div className="flex items-center gap-4">
+            <div className="flex flex-wrap items-center gap-4">
               <Toggle
                 id="toggle-indicators"
                 label="Indicators"
@@ -111,7 +111,7 @@ const StaticPropsDetail = ({
               <Link href="/disclaimer">
                   <a className="ml-1 select-none text-sm text-blue-300">
                   Disclaimer
-                  </a>
+                </a>
               </Link>
             </div>
           </div>
@@ -172,7 +172,7 @@ const StaticPropsDetail = ({
           </div>
         </div>
       </section>
-{/* Hiding Comparision */}
+      {/* Hiding Comparision */}
       {/* <section className="mx-auto max-w-6xl px-8 my-16">
         <CountryComparisons
           pillars={ancillary.pillars}
@@ -248,7 +248,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       if (!center1 || !center2) return 10000;
       return Math.sqrt(
         Math.pow(center1[0] - center2[0], 2) +
-          Math.pow(center1[1] - center2[1], 2)
+        Math.pow(center1[1] - center2[1], 2)
       );
     };
 

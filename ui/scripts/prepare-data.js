@@ -91,9 +91,7 @@ async function main() {
           (!subpillar || d["Sub-Pillar"] === subpillar)
       ) || "";
     const stageInfo = definition[stageName];
-    if (!stageInfo){
-      stageInfo == ""
-    };
+    if (!stageInfo) return null;
     return {
       number: stage,
       name: stageName,
@@ -185,6 +183,7 @@ async function main() {
     const allPillarScores = scores
       .filter((score) => !score["Pillar"] && score["Sub-Pillar"])
       .sort((a, b) => parseFloat(b["Score"]) - parseFloat(a["Score"]));
+
     return (
       allPillarScores.findIndex((score) => score["Country or Area"] === name) +
       1

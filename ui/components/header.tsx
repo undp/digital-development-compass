@@ -85,8 +85,8 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
             </Link>
             <SearchDialog countries={countries} />
           </div>
-          </div>
-          </header>
+        </div>
+      </header>
       <MobileMenu
         countries={countries}
         isOpen={mobileMenuOpen}

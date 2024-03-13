@@ -71,7 +71,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               References to Kosovo* shall be understood to be in the context of UN Security Council resolution 1244 (1999)
             </p>
           </div>
-        </div>  
+        </div>
       </footer>
     </>
   );
