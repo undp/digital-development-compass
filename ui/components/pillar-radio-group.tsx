@@ -1,5 +1,4 @@
 import cc from "classcat";
-import { pillarColorMap } from "lib";
 import { Pillar, ancillary } from "database/ancillary";
 
 interface RadioProps {
@@ -11,15 +10,14 @@ interface RadioProps {
 
 function Radio(props: RadioProps) {
   const { value, label, onChange, checked } = props;
-  const activeColor = pillarColorMap[value];
+  const activeColor = (ancillary.pillarColorMap as any)[value].base;
 
   return (
     <label
       className={cc([
-        "p-4 font-bold cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",
-      ])}
+        "p-4 font-bold cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",      ])}
       style={{
-        borderColor: checked ? activeColor.base : "",
+        borderColor: checked ? activeColor : "",
       }}
     >
 
@@ -30,12 +28,12 @@ function Radio(props: RadioProps) {
             "!opacity-10": checked,
           },
         ])}
-        style={{ backgroundColor: activeColor.base }}
+        style={{ backgroundColor: activeColor }}
       ></div>
 
       <div
         className="w-3 h-3 rounded-full mr-2 flex-shrink-0"
-        style={{ backgroundColor: activeColor.base }}
+        style={{ backgroundColor: activeColor }}
       ></div>
       <input
         type="radio"
@@ -47,7 +45,7 @@ function Radio(props: RadioProps) {
       />
       <p
         style={{
-          color: checked ? activeColor.base : "",
+          color: checked ? activeColor : "",
           fontWeight: checked ? 600 : 600,
         }}
         id={value}

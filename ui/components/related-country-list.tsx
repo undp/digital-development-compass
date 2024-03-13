@@ -1,7 +1,6 @@
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import { Country } from "database/processed/db";
-import { pillarColorMap } from "lib";
 import { useState } from "react";
 import { CountryCard } from "./country-card";
 import { Select } from "./select";
@@ -31,14 +30,14 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           trigger={
             <span
               className="text-xs text-white font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full"
-              style={{ background: pillarColorMap[pillar].base }}
+              style={{ background: ancillary.pillarColorMap[pillar].base }}
             >
               {pillar}
             </span>
           }
           itemRenderer={(option) => {
             let asPillar = option as Pillar;
-            let color = pillarColorMap[asPillar].base;
+            let color = ancillary.pillarColorMap[asPillar].base;
             return (
               <div className="py-1">
                 <span

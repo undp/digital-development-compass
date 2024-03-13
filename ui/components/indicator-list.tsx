@@ -56,7 +56,7 @@ export function IndicatorList(props: IndicatorListProps) {
   return (
     <div>
       <ul className="space-y-2">
-        {data.map((indicator: any) => (
+        { data.filter( (ind : any) => ind['data_status'] === '1' ).map((indicator: any) => (
           <Indicator
             key={indicator.Indicator}
             indicator={indicator}
@@ -64,9 +64,9 @@ export function IndicatorList(props: IndicatorListProps) {
             isShowingRawScores={isShowingRawScores}
           />
         ))}
-        {showMissingIndicators && (
+        {!showMissingIndicators && (
           <MissingIndicators
-            filledIndicators={data}
+            filledIndicators={data.filter( (ind : any) => ind['data_status'] === '1' )}
             country={country}
             pillar={pillar}
             subpillar={subpillar}
@@ -74,6 +74,14 @@ export function IndicatorList(props: IndicatorListProps) {
             isShowingRawScores={isShowingRawScores}
           />
         )}
+        {showMissingIndicators && data.filter( (ind : any) => ind['data_status'] === '0' ).map((indicator: any) => (
+          <Indicator
+            key={indicator.Indicator}
+            indicator={indicator}
+            showSources={showSources}
+            isShowingRawScores={isShowingRawScores}
+          />
+        ))}
       </ul>
     </div>
   );
@@ -143,6 +151,7 @@ const MissingIndicators = ({
     </>
   );
 };
+
 
 const Indicator = ({
   indicator,

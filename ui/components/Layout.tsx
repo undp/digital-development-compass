@@ -25,28 +25,24 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               <div>
                 <a
                   href="https://creativecommons.org/licenses/by/4.0/"
-                  className="flex items-center">
+                   className="flex items-center">
                   <div className="flex flex-wrap text-lg">
                     <GrCreativeCommons className="mr-1 my-1" />
                     <FaCreativeCommonsBy className="mr-1 my-1" />
                   </div>
                   United Nations Development Programme
                 </a>
-
-
                 <div className="flex gap-4">
                   <a href="https://www.undp.org/copyright-terms-use" target="_blank"
                     className="flex items-center mt-2 underline">
                     Privacy Policy
                   </a>
-
                   <Link href="/disclaimer">
                     <a className="flex items-center mt-2 underline">
                       Disclaimer
                     </a>
                   </Link>
                 </div>
-
               </div>
               <div className="text-left">
                 <p>
@@ -70,7 +66,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
             </div>
           </div>
           <div className="lg:text-right flex flex-col justify-start items-center md:items-start border-t md:border-t-0 md:mt-0 md:pt-0 pt-5 mt-5">
-            <p className="text-sm">
+            <p className="text-sm text-justify">
               The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations or UNDP concerning the legal status of any country, territory, city or area or its authorities, or concerning the delimitation of its frontiers or boundaries.<br /><br />
               References to Kosovo* shall be understood to be in the context of UN Security Council resolution 1244 (1999)
             </p>

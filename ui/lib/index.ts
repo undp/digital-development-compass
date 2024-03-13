@@ -4,47 +4,43 @@ import ancillary from "database/processed/ancillary";
 import type { BoundingBox, Country } from "database/processed/db";
 import flattenDeep from "lodash/flattenDeep";
 
-interface PillarColorMap {
+export interface PillarColorMap {
   [key: string]: {
     base: string;
     triple: string[];
   };
 }
 
-export const pillarColorMap: PillarColorMap = {
-  Overall: {
-    base: "#6366f1",
-    triple: ["#FFF", "#a2e0f5", "#6366f1"],
-  },
-  Foundations: {
-    base: "#DE1568",
-    triple: ["#FFF", "#ffab8a", "#DE1568"],
-  },
-  Infrastructure: {
-    base: "#FD6925",
-    triple: ["#FFF", "#ffc1a4", "#FD6925"],
-  },
-  Government: {
-    base: "#19486A",
-    triple: ["#FFF", "#5c8eb2", "#19486A"],
-  },
-  Regulation: {
-    base: "#00689D",
-    triple: ["#FFF", "#5595b6", "#00689D"],
-  },
-  Business: {
-    base: "#A21942",
-    triple: ["#FFF", "#b04c6a", "#A21942"],
-  },
-  People: {
-    base: "#FD9D24",
-    triple: ["#fff", "#f8c584", "#f49f34"],
-  },
-  Strategy: {
-    base: "#14b8a6",
-    triple: ["#FFF", "#a2e0f5", "#14b8a6"],
-  },
-};
+// export const pillarColorMap: PillarColorMap = {
+//   Overall: {
+//     base: "#6366f1",
+//     triple: ["#FFF", "#a2e0f5", "#6366f1"],
+//   },
+//   // DPInfrastructure: {
+//   //   base: "#FD6925",
+//   //   triple: ["#FFF", "#ffc1a4", "#FD6925"],
+//   // },
+//   // Connectivity: {
+//   //   base: "#517Ce8",
+//   //   triple: ["#FFF", "#a2e0f5", "#517Ce8"],
+//   // },
+//   // Government: {
+//   //   base: "#19486A",
+//   //   triple: ["#FFF", "#5c8eb2", "#19486A"],
+//   // },
+//   // Regulation: {
+//   //   base: "#00689D",
+//   //   triple: ["#FFF", "#5595b6", "#00689D"],
+//   // },
+//   // Economy: {
+//   //   base: "#dD9700",
+//   //   triple: ["#FFF", "#fff566", "#eDa700"],
+//   // },
+//   // People: {
+//   //   base: "#FD9D24",
+//   //   triple: ["#fff", "#f8c584", "#f49f34"],
+//   // },
+// };
 
 export function convertBboxToLatLng(bbox: BoundingBox) {
   return [
@@ -68,7 +64,7 @@ export function makePillarsScale(pillars: typeof ancillary.pillarNames) {
   return pillars.reduce<PillarsScale>((acc, next) => {
     acc[next] = scaleLinear<string>()
       .domain([0, 2.5, 5])
-      .range(pillarColorMap[next].triple || [])
+      .range(ancillary.pillarColorMap[next].triple || [])
       .interpolate(interpolateLab);
     return acc;
     // @ts-ignore
