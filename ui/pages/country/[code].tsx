@@ -47,6 +47,8 @@ const StaticPropsDetail = ({
   if (statusCode) {
     return <Error statusCode={statusCode} />;
   }
+  console.log('setshowmissingind',showMissingIndicators);
+  console.log('setshowind',showIndicators);
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
       <section className="pt-8 border-b pb-8" id="country-meta">

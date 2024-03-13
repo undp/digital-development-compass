@@ -2,7 +2,7 @@ import { db } from "database";
 import type { NextApiRequest, NextApiResponse } from "next";
 
 export default (req: NextApiRequest, res: NextApiResponse) => {
-  const { country, pillar, subpillar } = req.query;
+  const { country, pillar, subpillar} = req.query;
 
   if (!country || !pillar || !subpillar) { 
     res
@@ -12,14 +12,13 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
   }
  
   let indices = db.scores.filter((score) => {
-      if(score['data_status']=='1'){
-        return (
-          score["Country Name"] === country &&
-          score["Pillar"] === pillar &&
-          score["Sub-Pillar"] === subpillar &&
-          Boolean(score["Indicator"])
-        );
-    } 
+          return (
+            score["Country Name"] === country &&
+            score["Pillar"] === pillar &&
+            score["Sub-Pillar"] === subpillar &&
+            Boolean(score["Indicator"])
+          );
+
   });
 
   let indicesWithSources = indices.map((index) => {
