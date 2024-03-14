@@ -32,15 +32,7 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
   const handleSelection = useCallback(
     (country: CountryNameAndAlpha) => {
       setSelected(country);
-      
-      // Update recentlyVisited array
-      const updatedRecentlyVisited = [
-        ...(recentlyVisited || []),
-        country.alpha3
-      ].slice(-8); // Keep only the last 8 elements
-      
-      setRecentlyVisited(updatedRecentlyVisited);
-      
+      setRecentlyVisited([...(recentlyVisited || []), country.alpha3]);
       onClose();
       router.push(`/country/${country.alpha3}`);
     },
@@ -86,10 +78,10 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
                     <Combobox.Option
                       key={country.alpha3}
                       className={({ active, selected }) =>
-                      `cursor-default select-none relative py-2 pl-4 pr-4 flex items-center ${active && !selected ? "bg-brand-blue/20" : ""
-                    } ${selected
-                      ? "text-white bg-brand-blue hover:bg-brand:blue"
-                      : ""
+                        `cursor-default select-none relative py-2 pl-4 pr-4 flex items-center ${active && !selected ? "bg-brand-blue/20" : ""
+                        } ${selected
+                          ? "text-white bg-brand-blue hover:bg-brand:blue"
+                          : ""
                         }`
                       }
                       value={country}
@@ -100,8 +92,8 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
                             className={`flex-shrink-0 mr-2 fp fp-rounded ${country?.alpha2?.toLowerCase()}`}
                           ></span>
                           <span
-                             className={`block truncate ${selected ? "font-medium" : "font-normal"
-                            }`}
+                            className={`block truncate ${selected ? "font-medium" : "font-normal"
+                              }`}
                           >
                             {country.name}
                           </span>
