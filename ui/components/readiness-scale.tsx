@@ -1,6 +1,8 @@
 import { Pillar, ancillary } from "database/ancillary";
 import { Scores } from "database/processed/db";
+import { pillarColorMap } from "lib";
 import { Tooltip } from "./tooltip";
+
 export function ReadinessScale({
   scores,
   onPillarClick = () => { },
@@ -20,7 +22,7 @@ export function ReadinessScale({
         let tooltipMsg = pillarInfo
           ? `${pillar}: ${stage ? stage?.name : "No Data"}`
           : "No data";
-        let color = ancillary.pillarColorMap[pillar].base;
+        let color = pillarColorMap[pillar].base;
         let percent = (stage?.number || 0) * 20;
 
         return (

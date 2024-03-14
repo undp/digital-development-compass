@@ -2,6 +2,7 @@ import pillarIcons from "components/icons";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import type { Country, Stage, SubPillar } from "database/processed/db";
+import { pillarColorMap } from "lib";
 import kebabCase from "lodash/kebabCase";
 import { useState } from "react";
 import { IndicatorList } from "./indicator-list";
@@ -101,6 +102,7 @@ const Subpillar = (props: SubpillarProps) => {
     </div>
   );
 };
+
 const Pillar = (props: PillarProps) => {
   const {
     country,
@@ -113,7 +115,7 @@ const Pillar = (props: PillarProps) => {
   let { stage, score } = country.scores[pillar];
   // @ts-ignore
   let subpillars: SubPillar[] = ancillary.pillars[pillar];
-  let color = ancillary.pillarColorMap[pillar].base;
+  let color = pillarColorMap[pillar].base;
   // @ts-ignore
   let icon = pillarIcons[pillar.toLowerCase()] || null;
 
@@ -217,7 +219,7 @@ const StageInfo = ({
     return <p className="text-gray-600 text-sm">No stage data available.</p>;
 
   return (
-    <> 
+    <>
       {showAllStages ? (
         <StageList
           currentStage={stage?.number}
