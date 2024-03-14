@@ -12,6 +12,7 @@ import transformation from "../public/transformation.png"
 import dataProcess from "../public/DataProcess.jpg"
 import Layout from "components/Layout";
 import Link from "next/link";
+import React from "react";
 
 export default function Methodology(
   props: InferGetStaticPropsType<typeof getStaticProps>
@@ -22,19 +23,37 @@ export default function Methodology(
     if (typeof window === "undefined") return;
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+  const handleDownloadClick = (event : React.MouseEvent<HTMLAnchorElement,MouseEvent>)=>{
+    event.preventDefault();
+    const url = event.currentTarget.getAttribute('href');
+    if(url){
+      fetch(url)
+        .then(response => response.blob())
+        .then(blob => {
+          const anchor = document.createElement('a');
+          anchor.href = URL.createObjectURL(blob);
+          anchor.download = 'scores.csv';
+          anchor.click();
+          URL.revokeObjectURL(anchor.href);
+        })
+        .catch(error => {
+          console.error('Error Downloading File',error);
+        });
+    }
+  };
   return (
     <Layout title="Methodology" countries = {countries} >
       
       <div className="py-16">
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-                <div className="max-w-[40em] mr-10 py-10 text-lg">
-                  <h2 className="text-3xl font-bold mt-7 mb-3 text-brand-blue-dark" >
+                <div className="max-w-[40em] py-10 text-lg text-center">
+                  <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark" >
                   Methodology
                   </h2>
                 </div>
-                <div className="max-w-[40em] space-y-9">
-                  <h2 className="text-3xl font-bold mt-3 mb-6">
+                <div className="max-w-[40em] space-y-9 text-justify ">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                   Defining Digital Development
                   </h2>
                   <p>
@@ -50,7 +69,7 @@ export default function Methodology(
                       the Digital Transformation Framework to discover & compare progress across a range of key issues.
                   </p> 
                   
-                  <h2 className="max-w-[40em] space-y-9 text-2xl">
+                  <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
                   Overview of the Digital Transformation framework
                   </h2>
                   <p>
@@ -97,7 +116,7 @@ export default function Methodology(
                     />
                     <p className="text-center mt-2"><em>Table 1. UNDP’s Inclusive Whole-of-Society Digital Transformation Framework. Pillars and sub-pillars</em></p>
                   </div>
-                  <h2 className="text-3xl font-bold mt-10 mb-6">
+                  <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
                   Measuring Digital Development
                   </h2>
                   <h2 className="max-w-[40em] space-y-9 text-2xl">
@@ -128,16 +147,16 @@ export default function Methodology(
                   </div>
                 </div>
                 
-                <div className="max-w-[40em] mr-10 py-10 text-lg">
-                  <h2 className="text-3xl font-bold mt-10 mb-3 text-brand-blue-dark" >
+                <div className="max-w-[40em] py-10 sm:text-center md:text-left">
+                  <h2 className="text-2xl md:text-3xl lg:text-3xl font-bold mt-10 mb-3 text-brand-blue-dark" >
                   Digital Development Score Methodology
                   </h2>
                   
 
                 </div>
 
-                <div className="max-w-[40em] space-y-9">
-                  <h2 className="text-3xl text-orange font-bold mt-3 mb-6">
+                <div className="max-w-[40em] space-y-9 text-justify">
+                  <h2 className="text-2xl md:text-3xl sm:text-center md:text-left lg:text-3xl text-orange font-bold mt-3 mb-6">
                   Methodology
                   </h2>
                   <p>
@@ -164,7 +183,7 @@ export default function Methodology(
                     </a>
                     . Sources of the data sets include:
                   </p>
-                  <ul className="grid grid-cols-2 gap-y-1 list-disc pl-4">
+                  <ul className="grid grid-cols-1 md:grid-cols-2 gap-x-7 gap-y-1 list-disc pl-4">
                     <li>
                       World Bank: World Development 
                       <p>
@@ -307,11 +326,12 @@ export default function Methodology(
                   Indicator level scores are weighted and averaged into sub-pillar scores. Presently, all indicators are weighted equally. Alongside the sub-pillar score, a data availability rate is calculated. This is the percentage of indicators in the sub-pillar for which there is data available for a country.<br/><br/> 
                   Sub-pillar level scores are then weighted and averaged into pillar scores. All sub-pillars are also weighted equally.<br/><br/>
                   Where data for a country is not available for an indicator, this indicator is omitted from the calculation of a sub-pillar score. Instead, an average of the indicator data that is available is used. Similarly, where no data is available for a sub-pillar, this sub-pillar is omitted from the calculation of the overall pillar score.<br/><br/>
-    
+                  
+                  Download raw data file <a href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv" className="text-blue-300" id='downloadRawScoresFile' onClick={handleDownloadClick}> here</a>
                   </p>
                   <p>
                     <Link href="/disclaimer">
-                      <a className="text-2xl text-blue-300 text-sm hover:underline font-medium tracking-wider">
+                      <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
                         Disclaimer.
                       </a>
                     </Link>

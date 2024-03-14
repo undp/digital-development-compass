@@ -2,7 +2,7 @@ import icons from "components/icons";
 import { arc } from "d3";
 import { ancillary, Pillar } from "database/ancillary";
 import type { Stage as DBStage } from "database/processed/db";
-import { pillarColorMap, stageNames } from "lib";
+import { stageNames } from "lib";
 import { useMemo, useState } from "react";
 
 const degToRad = (deg: number) => (deg * Math.PI) / 180;
@@ -26,7 +26,7 @@ function InnerStageGauge(props: StageGaugeProps) {
 
   const overallStageInfo = scores[pillar].stage;
 
-  let primaryColor = pillarColorMap[pillar].base;
+  let primaryColor = ancillary.pillarColorMap[pillar].base;
   let subpillars = ancillary.pillars[pillar];
   let numSubpillars = subpillars.length || 1;
   let offset = 4;
@@ -361,7 +361,7 @@ export function OverallStageGauge(props: OverallStageGaugeProps) {
               opacity = 0.5;
             }
 
-            let primaryColor = pillarColorMap[pillarName].base;
+            let primaryColor = ancillary.pillarColorMap[pillarName].base;
 
             return (
               <g key={i} style={{ opacity }}>
@@ -398,7 +398,7 @@ export function OverallStageGauge(props: OverallStageGaugeProps) {
       </svg>
       <div className="text-center relative">
         <div
-          style={{ color: pillarColorMap[activePillar].base }}
+          style={{ color: ancillary.pillarColorMap[activePillar].base }}
           className="text-3xl flex items-center justify-center pointer-events-none absolute -top-6 left-0 right-0"
           aria-label={`${activePillar} icon`}
         >
@@ -411,7 +411,7 @@ export function OverallStageGauge(props: OverallStageGaugeProps) {
         <div className="mt-3">
           <div className="pt-3">
             <span
-              style={{ background: pillarColorMap[activePillar].base }}
+              style={{ background: ancillary.pillarColorMap[activePillar].base }}
               className="text-xs text-white font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full"
             >
               {activePillar}
@@ -423,7 +423,7 @@ export function OverallStageGauge(props: OverallStageGaugeProps) {
               <div className="mt-4">
                 <p
                   className="text-sm font-medium uppercase tracking-widest"
-                  style={{ color: pillarColorMap[activePillar].base }}
+                  style={{ color: ancillary.pillarColorMap[activePillar].base }}
                 >
                   Stage {stageInfo?.number}: {stageInfo?.name}
                 </p>

@@ -221,7 +221,7 @@ export function TableSettingsDialog(props: Props) {
           <div className="flex justify-end min-h-screen">
             <Transition.Child
               as={"div"}
-              className="relative bg-white min-w-[400px] w-1/3 drawer"
+              className="relative bg-white min-w-[300px] md:min-w-[400px] w-1/3 drawer"
               enter="ease-out duration-300"
               enterFrom="opacity-0 translate-x-8"
               enterTo="opacity-100 translate-x-0"

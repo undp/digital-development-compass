@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind screens;
 
 body,
 html {
@@ -117,4 +118,69 @@ html {
 
 .aspect-video div iframe {
   width: 100%;
+}
+
+.dt-framework {
+  height: inherit;
+  width: 100%;
+  overflow: unset;
+}
+
+
+@media (max-width: 710px) {
+  .rainbow text {
+    font-size: 9px;
+    line-height: 1;
+  }
+
+  .rainbow h3.text-2xl.font-bold.pointer-events-none {
+    font-size: 1.3em;
+    margin-top: 8em;
+  }
+
+  .rainbow h3.text-2xl.font-semibold.pointer-events-auto {
+    font-size: 18px;
+    line-height: 1;
+  }
+
+  .rainbow p.mt-4.font-semibold.text-xl.pointer-events-none {
+    margin: 10px -9vw;
+    font-size: 1em;
+  }
+
+  .rainbow p.leading-5.mt-1.font-light.tracking-\[0\.01em\] {
+    margin: 0 -16vw;
+  }
+}
+
+
+@media (max-width: 770px) {
+  .rainbow-margin {
+    margin-left: 16%;
+  }
+}
+
+@media (max-width: 400px) {
+  .rainbow-margin {
+    margin-left: 5%;
+  }
+}
+
+
+@media (min-width: 300px) and (max-width: 800px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 770px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 770px) and (max-width: 800px) {
+  .container {
+    max-width: 100%;
+  }
 }

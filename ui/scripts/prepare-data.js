@@ -12,6 +12,7 @@ const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
 const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
+const PILLAR_DEFINITIONS = path.join(RAW_DATABASE_DIR,"pillar-definitions.csv")
 
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
@@ -28,27 +29,47 @@ async function main() {
   const geojson = require(GEOJSON_FILE);
   const definitions = await csvtojson().fromFile(DEFINITIONS_FILE);
   const countries = await csvtojson().fromFile(COUNTRIES_FILE);
+  const pillar_definitions = await csvtojson().fromFile(PILLAR_DEFINITIONS);
   const scores = await csvtojson({
     colParser: {
       data_availability: (d) => (Number.isFinite(+d) ? +d : null),
     },
   }).fromFile(SCORES_FILE);
-
   const latlon = require(LATLON_FILE);
 
-  const pillarNames = [
-    "Overall",
-    "DPInfrastructure",
-    "Connectivity",
-    "Government",
-    "Regulation",
-    "Economy",
-    "People",
-  ];
+  // const pillarNames = [
+  //   "Overall",
+  //   "DPInfrastructure",
+  //   "Connectivity",
+  //   "Government",
+  //   "Regulation",
+  //   "Economy",
+  //   "People",
+  // ];
   // A map of pillar name to subpillar name.
   // {
   //   "Business": ["name-of-supillar"]
   // }
+  
+ const pillarNames = pillar_definitions.map(item => item.Pillar)
+
+  const pillarColorMap = {}
+  pillar_definitions.forEach(pillarDef => {
+    const pillarName = pillarDef['Pillar'];
+    const colorBase = pillarDef['ColorBase'];
+    const colorTriple = [
+      pillarDef['ColorTriple1'],
+      pillarDef['ColorTriple2'],
+      pillarDef['ColorTriple3']
+    ];
+  
+    pillarColorMap[pillarName] = {
+      base: colorBase,
+      triple: colorTriple
+    };
+  }); 
+
+  
   const pillarMap = pillarNames.reduce((acc, pillar) => {
     acc[pillar] = _.uniq(
       definitions
@@ -177,8 +198,7 @@ async function main() {
     const definition =
       definitions.find((d) => !d["Pillar"] && !d["Sub-Pillar"]) || "";
     const stageInfo = definition[stageName];
-    //console.log(stage)
-    //console.log(stageName)
+
     if (!stageInfo){
       stageInfo == ""
     };
@@ -268,11 +288,14 @@ async function main() {
     countries: countriesWithScoresStagesAndRanks,
     geojson,
     scores,
+    pillar_definitions,
+    pillarNames
   }; 
   // Used to more easily access the pillar data in the frontend.
   const ancillary = `export default {
     pillars: ${JSON.stringify(pillarMap)},
     pillarNames: ${JSON.stringify(Object.keys(pillarMap))},
+    pillarColorMap: ${JSON.stringify(pillarColorMap)}
   } as const`;
 
   let processedDir = path.join(__dirname, "..", "database", "processed");
