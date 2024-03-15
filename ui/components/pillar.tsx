@@ -49,6 +49,8 @@ const Subpillar = (props: SubpillarProps) => {
   } = props;
   // @ts-ignore
   let { score, stage, rank, confidence } = country.scores[pillar][subpillar];
+  // console.log(subpillar);
+  // console.log(score);
   return (
     <div className="scroll-mt-24 group" id={kebabCase(pillar + subpillar)}>
       <div className="flex items-center justify-between group-target:bg-yellow-50 group-target:ring-2 group-target:ring-offset-4 group-target:ring-yellow-300">

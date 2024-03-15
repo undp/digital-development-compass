@@ -173,13 +173,13 @@ const Indicator = ({
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
-
+  const disp_val = (value==0 ? 0 : roundNumber(value,2));
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0">
-          {hasNoData ? "Data unavailable" : roundNumber(value, 2)}
+          {hasNoData ? "Data unavailable" : disp_val}
         </span>
       </div>
       {showSources && sources.length === 0 && (
