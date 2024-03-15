@@ -242,14 +242,13 @@ async function main() {
             let score = getSubpillarScore(countryName, next, sp);
             let confidence = getSubpillarConfidence(countryName, sp);
             let stage = getStageInfo(score, next, sp);
-
+            let sscore = (score==0 ? 0 :roundNumber(parseFloat(score), 2));
             subAcc[sp] = {
               rank: getSubpillarRank(country["Country or Area"], next, sp),
-              score: roundNumber(parseFloat(score), 2),
+              score: sscore,
               confidence: roundNumber(parseFloat(confidence), 2),
               stage: stage || null,
             };
-
             return subAcc;
           }, {}),
         };
