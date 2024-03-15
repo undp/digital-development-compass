@@ -42,6 +42,8 @@ export function IndicatorList(props: IndicatorListProps) {
     ["indicators", country, pillar, subpillar],
     fetchIndicators
   );
+  console.log('data');
+  console.log(data);
   if (!data)
     return <p className="text-sm text-gray-600">Loading indicator data...</p>;
 
@@ -173,13 +175,16 @@ const Indicator = ({
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
-
+  console.log(indicator.Indicator);
+  //console.log(roundNumber(value, 2));
+  const disp_val = (value==0 ? 0 : roundNumber(value,2));
+  console.log(disp_val);
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0">
-          {hasNoData ? "Data unavailable" : roundNumber(value, 2)}
+          {hasNoData ? "Data unavailable" : disp_val}
         </span>
       </div>
       {showSources && sources.length === 0 && (
