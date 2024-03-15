@@ -53,7 +53,7 @@ const Subpillar = (props: SubpillarProps) => {
     <div className="scroll-mt-24 group" id={kebabCase(pillar + subpillar)}>
       <div className="flex items-center justify-between group-target:bg-yellow-50 group-target:ring-2 group-target:ring-offset-4 group-target:ring-yellow-300">
         <h3 className="text-base font-medium">{subpillar}</h3>
-        {score ? (
+        {score !== null ? (
           <span className="text-sm text-right font-mono">
             {/* <span>
               {rank}
