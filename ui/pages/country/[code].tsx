@@ -49,8 +49,6 @@ const StaticPropsDetail = ({
   if (statusCode) {
     return <Error statusCode={statusCode} />;
   }
-  console.log('setshowmissingind',showMissingIndicators);
-  console.log('setshowind',showIndicators);
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
       <section className="pt-8 border-b pb-8" id="country-meta">
@@ -89,15 +87,13 @@ const StaticPropsDetail = ({
                 enabled={showIndicators}
                 onChange={setShowIndicators}
               />
-              {
-                <Toggle
-                  disabled={!showIndicators}
-                  id="toggle-missing-indicators"
-                  label="Missing indicators"
-                  enabled={showMissingIndicators}
-                  onChange={setShowMissingIndicators}
-                />
-              }
+              {<Toggle
+                disabled={!showIndicators}
+                id="toggle-missing-indicators"
+                label="Imputed data"
+                enabled={showMissingIndicators}
+                onChange={setShowMissingIndicators}
+              /> }
               <Toggle
                 id="toggle-raw-scores"
                 disabled={!showIndicators}
@@ -133,34 +129,34 @@ const StaticPropsDetail = ({
             </Link>
           </div>
           <div className="w-full bg-white sm:grid sm:grid-cols-2 sm:gap-x-auto md:flex lg:flex items-center gap-4 pb-2 pl-2 rounded-b-lg">
-            <Toggle
-              disabled={!showIndicators}
-              id="toggle-missing-indicators"
-              label="Missing indicators"
-              enabled={showMissingIndicators}
-              onChange={setShowMissingIndicators}
-            />
-            <Toggle
-              id="toggle-indicators"
-              label="Indicators"
-              enabled={showIndicators}
-              onChange={setShowIndicators}
-            />
-            <Toggle
-              id="toggle-raw-scores"
-              disabled={!showIndicators}
-              label="Source values"
-              enabled={showRawScores}
-              onChange={setShowRawScores}
-            />
-            <Toggle
-              id="toggle-sources"
-              disabled={!showIndicators}
-              label="Sources"
-              enabled={showSources}
-              onChange={setShowSources}
-            />
-          </div>
+              <Toggle
+                disabled={!showIndicators}
+                id="toggle-missing-indicators"
+                label="Imputed data"
+                enabled={showMissingIndicators}
+                onChange={setShowMissingIndicators}
+              />
+              <Toggle
+                id="toggle-indicators"
+                label="Indicators"
+                enabled={showIndicators}
+                onChange={setShowIndicators}
+              />
+              <Toggle
+                id="toggle-raw-scores"
+                disabled={!showIndicators}
+                label="Source values"
+                enabled={showRawScores}
+                onChange={setShowRawScores}
+              />
+              <Toggle 
+                id="toggle-sources"
+                disabled={!showIndicators}
+                label="Sources"
+                enabled={showSources}
+                onChange={setShowSources}
+              />          
+          </div>         
         </div>
 
         <div className="mx-auto max-w-[90rem] px-6 mb-40">
