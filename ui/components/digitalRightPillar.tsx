@@ -1,11 +1,11 @@
 import pillarIcons from "components/icons";
 import { DigitalRightsPillar} from "database/ancillary";
 import ancillary from "database/processed/ancillary";
-import type { Country, Stage, SubPillar } from "database/processed/db";
+import type { Country} from "database/processed/db";
 import kebabCase from "lodash/kebabCase";
-import { useState } from "react";
+// import { useState } from "react";
 import { ProgressPill } from "./progress-pill";
-import { StageList } from "./stage-list";
+// import { StageList } from "./stage-list";
 import { DigitalRightIndicatorList } from "./digital-right-indicator-list";
 
 interface Props {
@@ -58,7 +58,7 @@ const PillarList = (props: PillarListProps) => {
               <sup>{getOrdinal(rank)}</sup>
             </span>{" "} */}
             {/* /  */}
-            {score}
+            {/* {score} */}
           </span>
         ) : (
           <span className="text-sm text-gray-600">No data</span>
@@ -107,9 +107,9 @@ const Pillar = (props: PillarProps) => {
     showMissingIndicators,
     showSources,
   } = props;
-  let { stage, score } = country.digitalRightScores[pillar];
+  let { score } = country.digitalRightScores[pillar];
   // @ts-ignore
-  let subpillars: SubPillar[] = ancillary.pillars[pillar];
+  // let subpillars: SubPillar[] = ancillary.pillars[pillar];
   let color = ancillary.digitalRightPillarColorMap[pillar].base;
   // @ts-ignore
   let icon = pillarIcons[pillar.toLowerCase()] || null;
@@ -126,7 +126,7 @@ const Pillar = (props: PillarProps) => {
           <div className="text-xs text-white  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
             {pillar}
           </div>
-          <div className="text-white font-mono font-semibold">{score}</div>
+          <div className="text-white font-mono font-semibold pl-2">{score}</div>
         </div>
       </header>
       {/* <div className="p-3 border-b relative">
@@ -147,8 +147,6 @@ const Pillar = (props: PillarProps) => {
       </div> */}
       <div className="p-4">
         <ul className="divide-y">
-          {/* {subpillars.map((subpillar) => { */}
-            {/* return ( */}
               <li className="py-3 first:pt-0 last:pb-0" key={pillar}>
                 <PillarList
                   country={country}
@@ -160,8 +158,6 @@ const Pillar = (props: PillarProps) => {
                   showMissingIndicators={showMissingIndicators}
                 />
               </li>
-            {/* ); */}
-          {/* })} */}
         </ul>
       </div>
     </div>
@@ -195,48 +191,48 @@ export const DigitalRightsPillars = ({
   );
 };
 
-const StageInfo = ({
-  stage,
-  color,
-  pillar,
-  subpillar,
-}: {
-  stage: Stage | null;
-  color: string;
-  pillar: DigitalRightsPillar;
-  subpillar?: SubPillar;
-}) => {
-  const [showAllStages, setShowAllStages] = useState(false);
+// const StageInfo = ({
+//   stage,
+//   color,
+//   pillar,
+//   subpillar,
+// }: {
+//   stage: Stage | null;
+//   color: string;
+//   pillar: DigitalRightsPillar;
+//   subpillar?: SubPillar;
+// }) => {
+//   const [showAllStages, setShowAllStages] = useState(false);
 
-  if (!stage)
-    return <p className="text-gray-600 text-sm">No stage data available.</p>;
+//   if (!stage)
+//     return <p className="text-gray-600 text-sm">No stage data available.</p>;
 
-  return (
-    <> 
-      {showAllStages ? (
-        <StageList
-          currentStage={stage?.number}
-          color={color}
-          pillar={pillar}
-          subpillar={subpillar}
-        />
-      ) : (
-        <div>
-          <p
-            style={{ color }}
-            className="text-xs font-semibold uppercase tracking-widest"
-          >
-            Stage {stage.number}: {stage.name}
-          </p>
-          <p className="text-sm text-gray-600">{stage.description}</p>
-        </div>
-      )}
-      <button
-        className="mt-2 text-sm text-slate-500 underline"
-        onClick={() => setShowAllStages((curr) => !curr)}
-      >
-        Show {showAllStages ? "just the current stage" : "all stages"}
-      </button>
-    </>
-  );
-};
+//   return (
+//     <> 
+//       {showAllStages ? (
+//         <StageList
+//           currentStage={stage?.number}
+//           color={color}
+//           pillar={pillar}
+//           subpillar={subpillar}
+//         />
+//       ) : (
+//         <div>
+//           <p
+//             style={{ color }}
+//             className="text-xs font-semibold uppercase tracking-widest"
+//           >
+//             Stage {stage.number}: {stage.name}
+//           </p>
+//           <p className="text-sm text-gray-600">{stage.description}</p>
+//         </div>
+//       )}
+//       <button
+//         className="mt-2 text-sm text-slate-500 underline"
+//         onClick={() => setShowAllStages((curr) => !curr)}
+//       >
+//         Show {showAllStages ? "just the current stage" : "all stages"}
+//       </button>
+//     </>
+//   );
+// };

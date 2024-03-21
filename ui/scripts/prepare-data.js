@@ -181,6 +181,15 @@ async function main() {
     return match && match["new_rank_score"] ? match["new_rank_score"] : null;
   }
 
+  function checkCountryIsAvailable(country) {
+    let match = digital_right_scores.find((score) => {
+      return (
+        score["Country Name"] === country
+      );
+    });
+    return match ? true :  false;
+  }
+
   function getSubpillarScore(country, pillar, subpillar) {
     let match = scores.find((score) => {
       return (
@@ -330,7 +339,7 @@ async function main() {
       };
       return acc;
     }, {});
-
+    let digitalRightDataAvailable = checkCountryIsAvailable(countryName)
     return {
       ..._.pick(country, COUNTRY_PROPERTIES),
       longitude: latlonMatch ? latlonMatch.longitude : null,
@@ -339,7 +348,8 @@ async function main() {
       sids: country["Small Island Developing States (SIDS)"] === "x",
       lldc: country["Land Locked Developing Countries (LLDC)"] === "x",
       ldc: country["Least Developed Countries (LDC)"] === "x",
-     digitalRightScores: digitalRightsBaseScores,
+      digitalRightScores: digitalRightsBaseScores,
+      digitalRightDataAvailable:digitalRightDataAvailable,
       scores: {
         ...baseScores,
         Overall: {

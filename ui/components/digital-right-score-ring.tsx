@@ -22,10 +22,10 @@ const scoreDomain = [1, 6];
 const numberOfStages = scoreDomain[1] - scoreDomain[0];
 const tweakColor = (color: string) => {
   const d3Color = hcl(color);
-  console.log('d3 color', d3Color)
-  d3Color.l += 0.02;
+  console.log("tweakColor", color, d3Color);
+  d3Color.l += 0.07;
   d3Color.c -= 0.02;
-  d3Color.h -= 3;
+  d3Color.h -= 5;
   return d3Color.toString();
 };
 export const DigitalRightScoreRing = ({
@@ -37,34 +37,19 @@ export const DigitalRightScoreRing = ({
   pillars: typeof ancillary.digitalRightPillarName;
   defaultHoveredPillar?: string;
 }) => {
-  // const pillars1 = useMemo(() => {
-  //   return Object.keys(pillarData)
-  //     .map((pillarName) => [pillarName, pillarData[pillarName]])
-  //     .filter((d) => d[0] !== "Overall");
-  // }, []);
-  // console.log('const pillars = useMemo(()', pillars1)
-  // const pillars = ["Cross-Cutting Indicators","Freedom of Expression","Right to Equality and Non-Discrimination","Right to Privacy"];
-  // console.log('const pillars' , pillarData)
-  // console.log('const pillars1' , pillars)
-  // const pillarColorMap1 = pillarNames1.map(
-  //   (pillar) => ancillary.digitalRightPillarColorMap[pillar].base
-  // );
-  // console.log(`pilar Name ${pillarColorMap1}`)
   const { pillarColorsMap, pillarColorScalesMap } = useMemo(() => {
     const pillarColors = pillars.map(
       (pillar) => ancillary.digitalRightPillarColorMap[pillar].base
     );
-    // console.log(`pilar Name hi ${pillarColors[0]}`)
     let pillarColorsMap = {} as Record<string, string>;
     let pillarColorScalesMap = {} as Record<string, any>;
     pillars.forEach((pillar, i) => {
       // @ts-ignore
       pillarColorsMap[pillar] = pillarColors[i];
-      console.log('pillars.forEach(',country )
       let darkerColor = lab(pillarColors[i]);
-      darkerColor.b += 90;
+      darkerColor.b += 50;
       darkerColor.a += 10;
-      darkerColor.l += 40;
+      darkerColor.l += 25;
       let lighterColor = lab(pillarColors[i]);
       lighterColor.b -= 9;
       lighterColor.a += 10;
@@ -81,14 +66,12 @@ export const DigitalRightScoreRing = ({
       pillarColorsMap,
     };
   }, []);
-  console.log(`pilar Name ${pillarColorsMap['Right to Privacy']} ${pillarColorScalesMap}`)
   const [hoveredPillar, setHoveredPillar] = useState<string | null>(null);
   useEffect(() => {
     setHoveredPillar(defaultHoveredPillar);
   }, [defaultHoveredPillar]);
   const hoveredPillarName =
-    hoveredPillar &&
-    pillars.find((a) => a === hoveredPillar);
+    hoveredPillar && pillars.find((a) => a === hoveredPillar);
 
   // get dimensions
   const { observe, width } = useDimensions();
@@ -101,18 +84,22 @@ export const DigitalRightScoreRing = ({
   const outerRingR = [r * 0.55, r * 0.9];
 
   let pillarAngles = {} as any;
-//  let subPillarAngles = {} as any;
+  //  let subPillarAngles = {} as any;
   const minAngle = -Math.PI / 2;
   const allAngles = Math.PI;
   // const degreesPerSubpillar =
   //   allAngles / pillars.reduce((acc, pillar) => acc + pillar[1].length, 0);
   const isPlaceholder = !country.digitalRightScores;
   const numberOfMissingPillars = isPlaceholder
-  ? 0
-  : pillars.reduce((acc, pillar) => {
-      const missingPillars = country.digitalRightScores && !country.digitalRightScores[pillar]?.score ? 1 : 0;
-      return acc + missingPillars;
-  }, 0);
+    ? 0
+    : pillars.reduce((acc, pillar) => {
+        const missingPillars =
+          country.digitalRightScores &&
+          !country.digitalRightScores[pillar]?.score
+            ? 1
+            : 0;
+        return acc + missingPillars;
+      }, 0);
   const numberOfPillars = pillars.length - numberOfMissingPillars;
   // don't let filled subpillars get too large, it looks wonky
   // const emptySubpillarRatio =
@@ -125,17 +112,15 @@ export const DigitalRightScoreRing = ({
   pillars.forEach((name) => {
     let runningDegreesForPillar = 0;
     // subpillars.forEach((subpillar, j) => {
-      const isEmpty =
-        !isPlaceholder && !country.digitalRightScores?.[name]?.score;
-        console.log('const isEmpty', isEmpty, name)
-      const degreesForPillar = isEmpty
-        ? emptyPillarDegrees
-        : filledPillarDegrees;
-      // subPillarAngles[subpillar] = [
-      //   startAngleRunning + runningDegreesForPillar,
-      //   startAngleRunning + runningDegreesForPillar + degreesForSubpillar,
-      // ];
-      runningDegreesForPillar += degreesForPillar;
+    const isEmpty =
+      !isPlaceholder && !country.digitalRightScores?.[name]?.score;
+    console.log("const isEmpty", isEmpty, name);
+    const degreesForPillar = isEmpty ? emptyPillarDegrees : filledPillarDegrees;
+    // subPillarAngles[subpillar] = [
+    //   startAngleRunning + runningDegreesForPillar,
+    //   startAngleRunning + runningDegreesForPillar + degreesForSubpillar,
+    // ];
+    runningDegreesForPillar += degreesForPillar;
     // });
     pillarAngles[name] = [
       startAngleRunning,
@@ -166,19 +151,23 @@ export const DigitalRightScoreRing = ({
         setHoveredPillar(null);
       }}
     >
-      <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20 mb-10">
-        {pillars.map((pillar, index) => (
-          <div key={index} className="flex flex-col sm:flex-row items-center rainbow-margin">
-            <div
-              className="mb-2 mr-2"
-              style={{ color: `${pillarColorsMap[pillar]}` }}
-            >
-              {pillarIcons[pillar]}
-            </div>
-            <div className="mb-2">{pillar}</div>
-          </div>
-        ))}
-      </div>
+ <div className="md:hidden w-full grid grid-cols-1 sm:grid-cols-2 gap-2 gap-x-20 mb-10">
+  {pillars.map((pillar, index) => (
+    <div
+      key={index}
+      className="flex flex-row items-center"
+      style={{ marginBottom: "15px" , display: "flex" , alignItems:"center", justifyContent: "space-between" }}
+    >
+      {/* <div
+        className="mr-2"
+        style={{ color: `${pillarColorsMap[pillar]}` }}
+      >
+        {pillarIcons[pillar]}
+      </div> */}
+      <div className="flex-grow">{pillar}</div> {/* Added flex-grow class */}
+    </div>
+  ))}
+</div>
 
       <svg
         width={width}
@@ -213,7 +202,7 @@ export const DigitalRightScoreRing = ({
             return (
               <radialGradient
                 key={pillar}
-                id={`${pillar.replace(/\s+/g, '-')}-gradient`}
+                id={`${pillar.replace(/\s+/g, "-")}-gradient`}
                 gradientUnits="userSpaceOnUse"
                 r={outerRingR[1]}
                 cx={0}
@@ -244,48 +233,45 @@ export const DigitalRightScoreRing = ({
         </defs>
         <g transform={`translate(${width / 2}, ${height})`}>
           {pillars.map((pillar, index) => {
-            // subpillars.map((subpillar) => {
-              const mainArc = getArc(
-                outerRingR[0],
-                outerRingR[1],
-                pillarAngles[pillar][0],
-                pillarAngles[pillar][1]
-              );
-              // @ts-ignore
-              const fillArc = getArc(
-                outerRingR[0],
-                outerRingScale(country.digitalRightScores?.[pillar]?.score),
-                pillarAngles[pillar][0],
-                pillarAngles[pillar][1]
-              );
-              const isHovered = hoveredPillar === pillar;
-              const hasData =
-                isPlaceholder || country.digitalRightScores?.[pillar]?.score;
-              return (
-                <g
-                  key={`${pillar}-${index}-${pillar}`}
-                  style={{
-                    opacity: isHovered || hasData ? 1 : 0.6,
-                  }}
-                  onMouseEnter={() => setHoveredPillar(pillar)}
-                >
-                  <path
-                    d={mainArc}
-                    className={`${
-                      isHovered ? "text-indigo-100" : "text-gray-100"
-                    } fill-current transition-all`}
-                    strokeWidth={1}
-                  />
-                  <path
-                    className="transition-all"
-                    d={fillArc}
-                    fill={`url(#${pillar.replace(/\s+/g, '-')}-gradient)`}
-                  />
-                </g>
-              );
-           // })
-          }
-          )}
+            const mainArc = getArc(
+              outerRingR[0],
+              outerRingR[1],
+              pillarAngles[pillar][0],
+              pillarAngles[pillar][1]
+            );
+            // @ts-ignore
+            const fillArc = getArc(
+              outerRingR[0],
+              outerRingScale(country.digitalRightScores?.[pillar]?.score),
+              pillarAngles[pillar][0],
+              pillarAngles[pillar][1]
+            );
+            const isHovered = hoveredPillar === pillar;
+            const hasData =
+              isPlaceholder || country.digitalRightScores?.[pillar]?.score;
+            return (
+              <g
+                key={`${pillar}-${index}-${pillar}`}
+                style={{
+                  opacity: isHovered || hasData ? 1 : 0.6,
+                }}
+                onMouseEnter={() => setHoveredPillar(pillar)}
+              >
+                <path
+                  d={mainArc}
+                  className={`${
+                    isHovered ? "text-indigo-100" : "text-gray-100"
+                  } fill-current transition-all`}
+                  strokeWidth={1}
+                />
+                <path
+                  className="transition-all"
+                  d={fillArc}
+                  fill={`url(#${pillar.replace(/\s+/g, "-")}-gradient)`}
+                />
+              </g>
+            );
+          })}
           {arcTicks.map((path, i) => (
             <path
               key={i}
@@ -297,7 +283,6 @@ export const DigitalRightScoreRing = ({
           ))}
           {pillars.map((pillar, index) => {
             const angles = pillarAngles[pillar as string];
-            console.log('pillars.map', pillar , angles)
             if (angles[0] == angles[1]) return;
             const color = pillarColorsMap[pillar];
             const midAngle = (angles[0] + angles[1]) / 2;
@@ -353,17 +338,17 @@ export const DigitalRightScoreRing = ({
                 {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>
                 {pillar}
               </text> */}
-                {pillars.map((pillar,index) => {
-                //  const y:number = index == 8 ? - 19: -15;
+                {pillars.map((pillar, index) => {
+                  //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredPillar === pillar;
                   const mainArc = getArc(
                     outerRingR[0],
                     outerRingR[1],
                     pillarAngles[pillar][0],
-                    pillarAngles[pillar][1],
+                    pillarAngles[pillar][1]
                   );
                   const midAngle =
-                    (pillarAngles[pillar][0] + pillarAngles[pillar][1]) /2;
+                    (pillarAngles[pillar][0] + pillarAngles[pillar][1]) / 2;
                   let endPoint = getPointFromAngle(
                     midAngle - Math.PI * 0.5,
                     outerRingR[1] + r * 0.14
@@ -396,11 +381,10 @@ export const DigitalRightScoreRing = ({
                   starPosition[1] = starPosition[1] + (distanceOffset * r) / 2;
                   const endPointInner = getPointFromAngle(
                     midAngle - Math.PI * 0.5,
-                    outerRingR[1] - r * 0.08
+                    outerRingR[1] - r * 0.09
                   );
                   // @ts-ignore
-                  const value =
-                    country.digitalRightScores?.[pillar]?.["score"];
+                  const value = country.digitalRightScores?.[pillar]?.["score"];
                   const hasData = isPlaceholder || !!value;
                   // @ts-ignore
                   const rank = country.digitalRightScores?.[pillar]?.["rank"];
@@ -440,8 +424,8 @@ export const DigitalRightScoreRing = ({
                           {/* mobile */}
                           <g
                             className="transition-all md:hidden"
-                            transform={`translate(${starPosition[0] - 5} ${
-                              starPosition[1] - 32
+                            transform={`translate(${starPosition[0] - 20} ${
+                              starPosition[1] - 30
                             })`}
                           >
                             <use
@@ -449,7 +433,7 @@ export const DigitalRightScoreRing = ({
                               style={{
                                 transformOrigin: `12px 12px`,
                                 transform: `rotate(${
-                                  midAngle - Math.PI * 0.78
+                                  midAngle - Math.PI * 0.6
                                 }rad)`,
                               }}
                             />
@@ -466,7 +450,7 @@ export const DigitalRightScoreRing = ({
                               style={{
                                 transformOrigin: `12px 12px`,
                                 transform: `rotate(${
-                                  midAngle - Math.PI * 0.78
+                                  midAngle - Math.PI * 0.6
                                 }rad)`,
                               }}
                             />
@@ -498,9 +482,9 @@ export const DigitalRightScoreRing = ({
                           textAnchor={placement}
                           dominantBaseline="middle"
                         >
-                          <text 
-                             y= {index == 2 ? -30: -1}
-                            className={`font-semibold ${
+                          <text
+                            y={index == 2 ? -2 : -1}
+                            className={` ${
                               isHovered ? "text-indigo-500" : ""
                             } text-xs md:text-base`}
                           >
@@ -571,14 +555,9 @@ export const DigitalRightScoreRing = ({
           })}
         </g>
       </svg>
-      {hoveredPillar
-      && (
-        <Info
-          country={country}
-          pillar={hoveredPillarName || ""}
-        />
-      )
-      }
+      {hoveredPillar && (
+        <Info country={country} pillar={hoveredPillarName || ""} />
+      )}
     </div>
   );
 };
@@ -609,13 +588,7 @@ const distanceOffset = scaleLinear()
   .clamp(true);
 const getDistanceOffsetFromAngle = (angle: number) => distanceOffset(angle);
 
-const Info = ({
-  pillar,
-  country,
-}: {
-  pillar: string;
-  country: Country;
-}) => {
+const Info = ({ pillar, country }: { pillar: string; country: Country }) => {
   // @ts-ignore
   const stageInfo = country.digitalRightScores?.[pillar]?.stage;
   const color = ancillary.digitalRightPillarColorMap[pillar].base;

@@ -39,7 +39,6 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
     ["indicators", country, pillar],
     fetchIndicators
   );
-  console.log('data11111111111111',data)
   if (!data)
     return <p className="text-sm text-gray-600">Loading indicator data...</p>;
 
@@ -71,27 +70,26 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
             isShowingRawScores={isShowingRawScores}
           />
         )}
-        {/* {showMissingIndicators && data.filter( (ind : any) => ind['data_status'] === '0' ).map((indicator: any) => (
+        {showMissingIndicators && data.filter( (ind : any) => ind['data_status'] === '0' ).map((indicator: any) => (
           <Indicator
             key={indicator.Indicator}
             indicator={indicator}
             showSources={showSources}
             isShowingRawScores={isShowingRawScores}
           />
-        ))} */}
+        ))}
       </ul>
     </div>
   );
 }
 
-const fetchIndicatorsForSubpillar = async (
+const fetchIndicatorsForPillar = async (
   _: string,
   country: string,
   pillar: string,
-  subpillar: string
 ) => {
-  let url = `/api/indicators-for-subpillar`;
-  let params = { country, pillar, subpillar };
+  let url = `/api/digital-right-indicators-for-pillar`;
+  let params = { country, pillar};
   let stringifiedParams = new URLSearchParams(params).toString();
   // @ts-ignore
   const res = await fetch(`${url}?${stringifiedParams}`);
@@ -112,9 +110,8 @@ const MissingIndicators = ({
 }) => {
   const { data: allIndicators } = useSWR(
     ["indicators", country, pillar, true],
-    fetchIndicatorsForSubpillar
+    fetchIndicatorsForPillar
   );
-
   if (!allIndicators)
     return (
       <p className="text-sm text-gray-600">Loading missing indicators...</p>

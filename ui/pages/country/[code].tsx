@@ -45,7 +45,6 @@ const StaticPropsDetail = ({
   const [showIndicators, setShowIndicators] = useState(true);
   const [showRawScores, setShowRawScores] = useState(false);
   const [showSources, setShowSources] = useState(false);
-
   if (statusCode) {
     return <Error statusCode={statusCode} />;
   }
@@ -76,8 +75,8 @@ const StaticPropsDetail = ({
       <section id="pillars" className="my-16 relative">
         {/* Web */}
         <div className="hidden md:block lg:block mx-auto max-w-7xl px-8 sticky top-0 z-10">
-          <div className="w-full bg-white flex items-center justify-between py-4">
-            <h2 className="text-2xl leading-7 sm:leading-9 text-gray-900">
+          <div className="w-full bg-white flex items-center justify-between py-4 pr-4">
+            <h2 className="text-2xl leading-7 sm:leading-9 text-gray-900 pl-4">
               Pillar scores
             </h2>
             <div className="flex items-center gap-4">
@@ -87,13 +86,15 @@ const StaticPropsDetail = ({
                 enabled={showIndicators}
                 onChange={setShowIndicators}
               />
-              {<Toggle
-                disabled={!showIndicators}
-                id="toggle-missing-indicators"
-                label="Imputed data"
-                enabled={showMissingIndicators}
-                onChange={setShowMissingIndicators}
-              /> }
+              {
+                <Toggle
+                  disabled={!showIndicators}
+                  id="toggle-missing-indicators"
+                  label="Imputed data"
+                  enabled={showMissingIndicators}
+                  onChange={setShowMissingIndicators}
+                />
+              }
               <Toggle
                 id="toggle-raw-scores"
                 disabled={!showIndicators}
@@ -129,34 +130,34 @@ const StaticPropsDetail = ({
             </Link>
           </div>
           <div className="w-full bg-white sm:grid sm:grid-cols-2 sm:gap-x-auto md:flex lg:flex items-center gap-4 pb-2 pl-2 rounded-b-lg">
-              <Toggle
-                disabled={!showIndicators}
-                id="toggle-missing-indicators"
-                label="Imputed data"
-                enabled={showMissingIndicators}
-                onChange={setShowMissingIndicators}
-              />
-              <Toggle
-                id="toggle-indicators"
-                label="Indicators"
-                enabled={showIndicators}
-                onChange={setShowIndicators}
-              />
-              <Toggle
-                id="toggle-raw-scores"
-                disabled={!showIndicators}
-                label="Source values"
-                enabled={showRawScores}
-                onChange={setShowRawScores}
-              />
-              <Toggle 
-                id="toggle-sources"
-                disabled={!showIndicators}
-                label="Sources"
-                enabled={showSources}
-                onChange={setShowSources}
-              />          
-          </div>         
+            <Toggle
+              disabled={!showIndicators}
+              id="toggle-missing-indicators"
+              label="Imputed data"
+              enabled={showMissingIndicators}
+              onChange={setShowMissingIndicators}
+            />
+            <Toggle
+              id="toggle-indicators"
+              label="Indicators"
+              enabled={showIndicators}
+              onChange={setShowIndicators}
+            />
+            <Toggle
+              id="toggle-raw-scores"
+              disabled={!showIndicators}
+              label="Source values"
+              enabled={showRawScores}
+              onChange={setShowRawScores}
+            />
+            <Toggle
+              id="toggle-sources"
+              disabled={!showIndicators}
+              label="Sources"
+              enabled={showSources}
+              onChange={setShowSources}
+            />
+          </div>
         </div>
 
         <div className="mx-auto max-w-[90rem] px-6 mb-40">
@@ -170,6 +171,40 @@ const StaticPropsDetail = ({
             />
           </div>
         </div>
+        {/* digital right dashboard section */}
+        { country.digitalRightDataAvailable ?
+        <section
+          className="pt-8 border-b pb-8"
+          style={{ backgroundColor: "#FFFFF0" }}
+          id="country-meta"
+        >
+          <div className="container px-4 mx-auto text-center">
+            <div className="mb-10 text-center">
+              <div>
+                <h1 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-center">
+                  Digital Rights Dashboard
+                </h1>
+              </div>
+            </div>
+            <DigitalRightScoreRing
+              pillars={ancillary.digitalRightPillarName}
+              country={country}
+            />
+          </div>
+          <div className="mx-auto max-w-[90rem] px-6 mb-40">
+            <div className="py-8">
+              <DigitalRightsPillars
+                country={country}
+                isShowingRawScores={showRawScores}
+                showIndicators={showIndicators}
+                showMissingIndicators={showMissingIndicators}
+                showSources={showSources}
+              />
+            </div>
+          </div>
+        </section>
+        : ""
+         }
       </section>
       {/* Hiding Comparision */}
       {/* <section className="mx-auto max-w-6xl px-8 my-16">
@@ -179,30 +214,6 @@ const StaticPropsDetail = ({
           relatedCountries={relatedCountries}
         />
       </section> */}
-      {/* digital right dashboard section */}
-      <section className="pt-8 border-b pb-8" style={{backgroundColor:'#B0C9E5'}} id="country-meta">
-        <div className="container px-4 mx-auto text-center">
-          <div className="mb-10 text-center">
-            <div>
-              <h1 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-center">
-                Digital Rights Dashboard
-              </h1>
-            </div>
-          </div>
-          <DigitalRightScoreRing pillars={ancillary.digitalRightPillarName} country={country} />
-        </div>
-        <div className="mx-auto max-w-[90rem] px-6 mb-40">
-          <div className="py-8">
-              <DigitalRightsPillars
-              country={country}
-              isShowingRawScores={showRawScores}
-              showIndicators={showIndicators}
-              showMissingIndicators={showMissingIndicators}
-              showSources={showSources}
-            />
-          </div>
-        </div>
-      </section>
 
       <section className="mx-auto max-w-6xl px-8 my-16">
         <RelatedCountryList
