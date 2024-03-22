@@ -22,7 +22,6 @@ const scoreDomain = [1, 6];
 const numberOfStages = scoreDomain[1] - scoreDomain[0];
 const tweakColor = (color: string) => {
   const d3Color = hcl(color);
-  console.log("tweakColor", color, d3Color);
   d3Color.l += 0.07;
   d3Color.c -= 0.02;
   d3Color.h -= 5;
@@ -114,7 +113,6 @@ export const DigitalRightScoreRing = ({
     // subpillars.forEach((subpillar, j) => {
     const isEmpty =
       !isPlaceholder && !country.digitalRightScores?.[name]?.score;
-    console.log("const isEmpty", isEmpty, name);
     const degreesForPillar = isEmpty ? emptyPillarDegrees : filledPillarDegrees;
     // subPillarAngles[subpillar] = [
     //   startAngleRunning + runningDegreesForPillar,
