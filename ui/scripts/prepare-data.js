@@ -12,8 +12,9 @@ const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
 const SCORES_FILE = path.join(RAW_DATABASE_DIR, "scores.csv");
 const LATLON_FILE = path.join(RAW_DATABASE_DIR, "latlon.json");
-const PILLAR_DEFINITIONS = path.join(RAW_DATABASE_DIR,"pillar-definitions.csv")
-
+const PILLAR_DEFINITIONS = path.join(RAW_DATABASE_DIR,"pillar-definitions.csv");
+const DIGITAL_RIGHT_SCORES_FILE = path.join(RAW_DATABASE_DIR,"digital-right-scores.csv");
+const DIGITAL_RIGHT_PILLAR_DEFINITIONS = path.join(RAW_DATABASE_DIR,"digital-right-pillar-definitions.csv");
 // Used to trim down what we pass down to the client
 const COUNTRY_PROPERTIES = [
   "Country or Area",
@@ -23,18 +24,23 @@ const COUNTRY_PROPERTIES = [
   "Sub-region Name",
   "World Bank Income Level",
 ];
-
 async function main() {
   const boundingBoxes = require(BOUNDING_BOXES_FILE);
   const geojson = require(GEOJSON_FILE);
   const definitions = await csvtojson().fromFile(DEFINITIONS_FILE);
   const countries = await csvtojson().fromFile(COUNTRIES_FILE);
   const pillar_definitions = await csvtojson().fromFile(PILLAR_DEFINITIONS);
+  const digital_right_pillar_definitions = await csvtojson().fromFile(DIGITAL_RIGHT_PILLAR_DEFINITIONS);
   const scores = await csvtojson({
     colParser: {
       data_availability: (d) => (Number.isFinite(+d) ? +d : null),
     },
   }).fromFile(SCORES_FILE);
+  const digital_right_scores = await csvtojson({
+    colParser: {
+      data_availability: (d) => (Number.isFinite(+d) ? +d : null),
+    },
+  }).fromFile(DIGITAL_RIGHT_SCORES_FILE);
   const latlon = require(LATLON_FILE);
 
   // const pillarNames = [
@@ -69,7 +75,24 @@ async function main() {
     };
   }); 
 
+  const digitalRightPillarNames = digital_right_pillar_definitions.map(item => item.Pillar)
+  const digitalRightPillarColorMap = {}
   
+  digital_right_pillar_definitions.forEach(pillarDef => {
+    const pillarName = pillarDef['Pillar'];
+    const colorBase = pillarDef['ColorBase'];
+    const colorTriple = [
+      pillarDef['ColorTriple1'],
+      pillarDef['ColorTriple2'],
+      pillarDef['ColorTriple3']
+    ];
+  
+    digitalRightPillarColorMap[pillarName] = {
+      base: colorBase,
+      triple: colorTriple
+    };
+  }); 
+
   const pillarMap = pillarNames.reduce((acc, pillar) => {
     acc[pillar] = _.uniq(
       definitions
@@ -113,6 +136,17 @@ async function main() {
     return match && match["rank"] ? match["rank"] : null;
   }
 
+  function getDigitalRightPillarRank(name, pillar) {
+    let match = digital_right_scores.find((score) => {
+      return (
+        score["Country Name"] === name &&
+        score["Pillar"] === pillar
+      );
+    });
+
+    return match && match["rank"] ? match["rank"] : null;
+  }
+
   function getSubpillarRank(name, pillar, subpillar) {
     let match = scores.find((score) => {
       return (
@@ -135,6 +169,25 @@ async function main() {
     });
 
     return match && match["new_rank_score"] ? match["new_rank_score"] : null;
+  }
+
+  function getDigitalRightPillarScore(country, pillar) {
+    let match = digital_right_scores.find((score) => {
+      return (
+        score["Country Name"] === country &&
+        score["Pillar"] === pillar
+      );
+    });
+    return match && match["new_rank_score"] ? match["new_rank_score"] : null;
+  }
+
+  function checkCountryIsAvailable(country) {
+    let match = digital_right_scores.find((score) => {
+      return (
+        score["Country Name"] === country
+      );
+    });
+    return match ? true :  false;
   }
 
   function getSubpillarScore(country, pillar, subpillar) {
@@ -164,6 +217,14 @@ async function main() {
       return (
         score["Country Name"] === country && score["Sub-Pillar"] === subpillar
       );
+    });
+
+    return match ? match["data_availability"] : null;
+  }
+
+  function getDigitalRightPillarConfidence(country, pillar) {
+    let match = digital_right_scores.find((score) => {
+      return score["Country Name"] === country && score["Pillar"] === pillar;
     });
 
     return match ? match["data_availability"] : null;
@@ -261,7 +322,24 @@ async function main() {
     let latlonMatch = latlon.find((datum) => {
       return datum.alpha2 === country["ISO-alpha2 Code"];
     });
-
+    let digitalRightsBaseScores = digitalRightPillarNames
+    .reduce((acc, next) => {
+      let score = getDigitalRightPillarScore(countryName, next);
+      let confidence = getDigitalRightPillarConfidence(countryName, next);
+      let rank = getDigitalRightPillarRank(countryName, next);
+      //let multivariable = getUniqueSubpillarCount(countryName, next); 
+      //let divisionVariable = countUniqueSubpillars(next);
+      //let dividedRank = score * multivariable;        
+      //let final_score = dividedRank / divisionVariable ;
+      acc[next] = {
+        rank,
+        score: roundNumber(parseFloat(score), 2),
+        confidence: roundNumber(parseFloat(confidence), 2),
+        stage: null
+      };
+      return acc;
+    }, {});
+    let digitalRightDataAvailable = checkCountryIsAvailable(countryName)
     return {
       ..._.pick(country, COUNTRY_PROPERTIES),
       longitude: latlonMatch ? latlonMatch.longitude : null,
@@ -270,6 +348,8 @@ async function main() {
       sids: country["Small Island Developing States (SIDS)"] === "x",
       lldc: country["Land Locked Developing Countries (LLDC)"] === "x",
       ldc: country["Least Developed Countries (LDC)"] === "x",
+      digitalRightScores: digitalRightsBaseScores,
+      digitalRightDataAvailable:digitalRightDataAvailable,
       scores: {
         ...baseScores,
         Overall: {
@@ -289,13 +369,17 @@ async function main() {
     geojson,
     scores,
     pillar_definitions,
-    pillarNames
+    pillarNames,
+    digital_right_scores,
+    digital_right_pillar_definitions
   }; 
   // Used to more easily access the pillar data in the frontend.
   const ancillary = `export default {
     pillars: ${JSON.stringify(pillarMap)},
     pillarNames: ${JSON.stringify(Object.keys(pillarMap))},
-    pillarColorMap: ${JSON.stringify(pillarColorMap)}
+    pillarColorMap: ${JSON.stringify(pillarColorMap)},
+    digitalRightPillarName: ${JSON.stringify(digitalRightPillarNames)},
+    digitalRightPillarColorMap: ${JSON.stringify(digitalRightPillarColorMap)}
   } as const`;
 
   let processedDir = path.join(__dirname, "..", "database", "processed");

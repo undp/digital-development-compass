@@ -79,6 +79,13 @@ export default function Data(
         width: 100,
         visible: true,
       })),
+      ...ancillary.digitalRightPillarName
+      .map((pillar) => ({
+        name: pillar,
+        key: `scores.${pillar}.score`,
+        width: 100,
+        visible: true,
+      })),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -256,6 +263,58 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             },
           };
         }),
+        ...ancillary.digitalRightPillarName
+        .map((pillar) => {
+          const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
+
+          const bgScale = scaleLinear<string>()
+            .domain([0, 5])
+            .range(["#fff", pillarColor]);
+
+          return {
+            width: 190,
+            key: `scores.${pillar}.score`,
+            name: pillar,
+            cellClass: `p-0`,
+            headerCellClass: "text-right",
+            formatter(props: FormatterProps<typeof data[0]>) {
+              // @ts-ignore
+              let score = props.row.digitalRightScores[pillar].score;
+              let confidence;
+              confidence =
+                // @ts-ignore
+                !props.row.digitalRightScores[pillar].confidence
+                  ? null
+                  : // @ts-ignore
+                    props.row.digitalRightScores[pillar].confidence;
+
+              return (
+                <div className="relative px-2 h-full group z-0">
+                  <div
+                    className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
+                    style={{
+                      backgroundColor: displaySettings.showHeatmap
+                        ? bgScale(score || 0)
+                        : "transparent",
+                    }}
+                  ></div>
+                  <div className="flex h-full items-center justify-between z-10">
+                    {!!confidence && displaySettings.showConfidence && (
+                      <ProgressPill
+                        bar="white"
+                        background={pillarColor}
+                        border={pillarColor}
+                        value={confidence}
+                        label={`${Math.ceil(confidence)}%`}
+                      />
+                    )}
+                    <p className="font-mono text-right flex-1">{score}</p>
+                  </div>
+                </div>
+              );
+            },
+          };
+        }),  
     ];
   }, [displaySettings]);
 
@@ -520,9 +579,8 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 </select>
               </div>
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
-              {createHistogramInputs()}
+                {createHistogramInputs()}
               </div>
-
             </div>
           </div>
         </aside>
@@ -538,34 +596,32 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   of{" "}
                   <span className="font-medium">{data.length} countries</span>
                 </p>
-                
               </div>
-              
               <div className="flex-shrink-0">
-              <OverflowList
-                items={appliedFilters}
-                className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
-                itemRenderer={(item) => {
-                  return (
-                    <div className="flex-shrink-0" key={item.label}>
-                      <FilterBadge
-                        value={item.value}
-                        onClick={item.onReset}
-                        label={item.label}
-                      />
-                    </div>
-                  );
-                }}
-                overflowRenderer={(items) => {
-                  return (
-                    <div>
-                      <span className="text-sm text-gray-600">
-                        + {items.length} more
-                      </span>
-                    </div>
-                  );
-                }}
-              />
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
+                  itemRenderer={(item) => {
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <FilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
               </div>
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
@@ -574,13 +630,14 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   displaySettings={displaySettings}
                   onDisplaySettingsChange={setDisplaySettings}
                 />
-              </div>&nbsp;
+              </div>
+              &nbsp;
               <Link href="/disclaimer">
-                  <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
+                <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
                   Disclaimer
-                  </a>
+                </a>
               </Link>
-             </div>
+            </div>
           </div>
           <div className="hidden md:block flex-1 flex-col">
             <DataGrid
@@ -596,22 +653,22 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               rowKeyGetter={(row) => row.name}
               components={{ noRowsFallback: <NoRows /> }}
             />
-          </div>        
+          </div>
         </div>
         <div className="md:hidden h-full border-none rdg-light mb-5 data-table">
           <DataGrid
-          defaultColumnOptions={{
-       sortable: true,
-      resizable: true,
-    }}
-    sortColumns={sortColumns}
-    onSortColumnsChange={setSortColumns}
-    columns={personalizedColumns}
-    rows={sortedAndFiltered}
-    rowKeyGetter={(row) => row.name}
-    components={{ noRowsFallback: <NoRows /> }}
-  />
-       </div>
+            defaultColumnOptions={{
+              sortable: true,
+              resizable: true,
+            }}
+            sortColumns={sortColumns}
+            onSortColumnsChange={setSortColumns}
+            columns={personalizedColumns}
+            rows={sortedAndFiltered}
+            rowKeyGetter={(row) => row.name}
+            components={{ noRowsFallback: <NoRows /> }}
+          />
+        </div>
       </div>
     </Layout>
   );
