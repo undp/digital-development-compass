@@ -158,12 +158,12 @@ export const DigitalRightScoreRing = ({
       className="flex flex-row items-center"
       style={{ marginBottom: "15px" , display: "flex" , alignItems:"center", justifyContent: "space-between" }}
     >
-      {/* <div
+      <div
         className="mr-2"
         style={{ color: `${pillarColorsMap[pillar]}` }}
       >
         {pillarIcons[pillar]}
-      </div> */}
+      </div>
       <div className="flex-grow">{pillar}</div> {/* Added flex-grow class */}
     </div>
   ))}
@@ -321,7 +321,7 @@ export const DigitalRightScoreRing = ({
                     }}
                   >
                     {/* @ts-ignore */}
-                    {/* {pillarIcons[pillar]} */}
+                    {pillarIcons[pillar]}
                   </g>
                   {/* mobile */}
                   <g
@@ -332,7 +332,7 @@ export const DigitalRightScoreRing = ({
                     }}
                   >
                     {/* @ts-ignore */}
-                    {/* {pillarIcons[pillar]} */}
+                    {pillarIcons[pillar]}
                   </g>
                 </g>
                 {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>

@@ -112,7 +112,7 @@ const Pillar = (props: PillarProps) => {
   // let subpillars: SubPillar[] = ancillary.pillars[pillar];
   let color = ancillary.digitalRightPillarColorMap[pillar].base;
   // @ts-ignore
-  let icon = pillarIcons[pillar.toLowerCase()] || null;
+  let icon = pillarIcons[pillar] || null;
 
   return (
     <div className="border border-gray-200 rounded-lg shadow-lg shadow-gray-200 overflow-hidden">
@@ -122,7 +122,7 @@ const Pillar = (props: PillarProps) => {
           style={{ background: color }}
         ></div>
         <div className="flex items-center justify-between p-3 z-10">
-          <div className="text-white text-lg">{icon}</div>
+          <div className="text-white text-lg pr-3">{icon}</div>
           <div className="text-xs text-white  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
             {pillar}
           </div>
