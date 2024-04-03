@@ -39,7 +39,7 @@ async function main() {
 
   // const pillarNames = [
   //   "Overall",
-  //   "DPInfrastructure",
+  //   "Digital Public Infrastructure",
   //   "Connectivity",
   //   "Government",
   //   "Regulation",

@@ -10,7 +10,7 @@ interface Props {
 const colorMap: Record<string, string> = {
   Overall: "stroke-pillar-overall",
   Economy: "stroke-pillar-economy",
-  DPInfrastructure: "stroke-pillar-dpinfrastructure",
+  "Digital Public Infrastructure": "stroke-pillar-dpinfrastructure",
   Government: "stroke-pillar-government",
   Connectivity: "stroke-pillar-connectivity",
   People: "stroke-pillar-people",
