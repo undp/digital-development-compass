@@ -115,7 +115,7 @@ const Pillar = (props: PillarProps) => {
   let subpillars: SubPillar[] = ancillary.pillars[pillar];
   let color = ancillary.pillarColorMap[pillar].base;
   // @ts-ignore
-  let icon = pillarIcons[pillar.toLowerCase()] || null;
+  let icon = pillarIcons[pillar] || null;
 
   return (
     <div className="border border-gray-200 rounded-lg shadow-lg shadow-gray-200 overflow-hidden">

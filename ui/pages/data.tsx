@@ -109,7 +109,7 @@ export default function Data(
   // >({
   //   Economy: undefined,
   //   Government: undefined,
-  //   DPInfrastructure: undefined,
+  //   "Digital Public Infrastructure": undefined,
   //   Connectivity: undefined,
   //   People: undefined,
   //   Regulation: undefined,
@@ -359,7 +359,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   // }, [data]);
 
   // const dpinfrastructureScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["DPInfrastructure"].score || 0);
+  //   return data.map((datum) => datum.scores["Digital Public Infrastructure"].score || 0);
   // }, [data]);
 
   // const governmentScores = useMemo(() => {

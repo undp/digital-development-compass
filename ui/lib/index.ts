@@ -16,7 +16,7 @@ export interface PillarColorMap {
 //     base: "#6366f1",
 //     triple: ["#FFF", "#a2e0f5", "#6366f1"],
 //   },
-//   // DPInfrastructure: {
+//   // "Digital Public Infrastructure": {
 //   //   base: "#FD6925",
 //   //   triple: ["#FFF", "#ffc1a4", "#FD6925"],
 //   // },
