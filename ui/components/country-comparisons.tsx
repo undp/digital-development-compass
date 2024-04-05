@@ -32,7 +32,7 @@ interface CountryComparisonsProps {
 export function CountryComparisons(props: CountryComparisonsProps) {
   const { country, pillars, relatedCountries = [] } = props;
   const [sameKey, setSameKey] = useState<string>("Sub-region Name");
-  const [pillar, setPillar] = useState<string>("DPInfrastructure");
+  const [pillar, setPillar] = useState<string>("Digital Public Infrastructure");
   const [subpillar, setSubpillar] = useState<string>();
   const countryCode = country["ISO-alpha3 Code"];
   const pillarNames = Object.keys(pillars);
