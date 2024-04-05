@@ -15,7 +15,8 @@ import { useState } from "react";
 import Link from "next/link";
 import DigitalRightScoreRing from "components/digital-right-score-ring";
 import { DigitalRightsPillars } from "components/digitalRightPillar";
-//import { IndicatorList } from "components/indicator-list";
+import Image from "next/image";
+import RH from  "../../public/RH.png";
 
 type Props = {
   layoutCountries: {
@@ -70,6 +71,18 @@ const StaticPropsDetail = ({
             </div>
           </div>
           <ScoreRing pillars={ancillary.pillars} country={country} />
+          <div className="flex flex-col justify-between min-h-screen">
+            <div className="mt-auto">
+       
+            </div>
+            <div className="fixed right-5 bottom-5 p-4 w-64 bg-white shadow-lg rounded-lg border border-gray-200">
+              <Image
+                src={RH}
+                alt="RH"
+                className="w-full h-auto rounded-lg"
+              />
+            </div>
+          </div>
         </div>
       </section>
       <section id="pillars" className="my-16 relative">
@@ -172,39 +185,40 @@ const StaticPropsDetail = ({
           </div>
         </div>
         {/* digital right dashboard section */}
-        { country.digitalRightDataAvailable ?
-        <section
-          className="pt-8 border-b pb-8"
-          style={{ backgroundColor: "#FFFFF0" }}
-          id="country-meta"
-        >
-          <div className="container px-4 mx-auto text-center">
-            <div className="mb-10 text-center">
-              <div>
-                <h1 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-center">
-                  Digital Rights Dashboard
-                </h1>
+        {country.digitalRightDataAvailable ? (
+          <section
+            className="pt-8 border-b pb-8"
+            style={{ backgroundColor: "#FFFFF0" }}
+            id="country-meta"
+          >
+            <div className="container px-4 mx-auto text-center">
+              <div className="mb-10 text-center">
+                <div>
+                  <h1 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-center">
+                    Digital Rights Dashboard
+                  </h1>
+                </div>
               </div>
-            </div>
-            <DigitalRightScoreRing
-              pillars={ancillary.digitalRightPillarName}
-              country={country}
-            />
-          </div>
-          <div className="mx-auto max-w-[90rem] px-6 mb-40">
-            <div className="py-8">
-              <DigitalRightsPillars
+              <DigitalRightScoreRing
+                pillars={ancillary.digitalRightPillarName}
                 country={country}
-                isShowingRawScores={showRawScores}
-                showIndicators={showIndicators}
-                showMissingIndicators={showMissingIndicators}
-                showSources={showSources}
               />
             </div>
-          </div>
-        </section>
-        : ""
-         }
+            <div className="mx-auto max-w-[90rem] px-6 mb-40">
+              <div className="py-8">
+                <DigitalRightsPillars
+                  country={country}
+                  isShowingRawScores={showRawScores}
+                  showIndicators={showIndicators}
+                  showMissingIndicators={showMissingIndicators}
+                  showSources={showSources}
+                />
+              </div>
+            </div>
+          </section>
+        ) : (
+          ""
+        )}
       </section>
       {/* Hiding Comparision */}
       {/* <section className="mx-auto max-w-6xl px-8 my-16">
