@@ -1,7 +1,7 @@
 import { DigitalRightsPillar} from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
-import { FaLink } from "react-icons/fa";
+import { FaLink, FaSourcetree } from "react-icons/fa";
 import useSWR from "swr";
 
 interface IndicatorListProps {
@@ -162,18 +162,35 @@ const Indicator = ({
     source: indicator["Data Source"],
     year: indicator["Year"]
   })).filter(indicator => indicator.source && indicator.link)
-  const value = +(isShowingRawScores
-    ? indicator.data_col
-    : indicator.new_rank_score);
-
+  const value = +indicator.new_rank_score;
+  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0">
-          {hasNoData ? "Data unavailable" : roundNumber(value, 2)}
+          {hasNoData ? "Data unavailable" : disp_val}
         </span>
       </div>
+      {isShowingRawScores && !hasNoData && (
+        <ul className="mt-1 mb-2 divide-y-1">
+          <li className="text-slate-600 underline text-xs mb-3">
+            <div className="group flex items-center">
+              <FaSourcetree className="group-hover:no-underline mr-1 flex-none" />
+              <span>{indicator.data_col}</span>
+            </div>
+          </li>
+        </ul>
+      )}
+      {isShowingRawScores && hasNoData && (
+        <ul className="mt-1 mb-2 divide-y-1">
+          <li className="text-slate-600 underline text-xs mb-3">
+            <div className="group flex items-center">
+              <span>"Data unavailable"</span>
+            </div>
+          </li>
+        </ul>
+      )}
       {showSources && sources.length === 0 && (
         <p className="text-xs text-gray-600">Source Data Unavailable</p>
       )}
