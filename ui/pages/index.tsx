@@ -10,6 +10,7 @@ import { InferGetStaticPropsType } from "next";
 import dynamic from "next/dynamic";
 import { useState } from "react";
 import { IoClose } from "react-icons/io5";
+import PopupMessage from "./popupmessage";
 
 const GlobeViz = dynamic(() => import("components/globe-viz"), {
   ssr: false,
@@ -54,6 +55,7 @@ const IndexPage = ({
     <Layout countries={countries}>
       <section className="h-full flex flex-col">
       <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
+      <PopupMessage/>
       <div className="items-center justify-center px-6 py-6 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
             <div className="max-w-2xl pt-0 flex flex-col justify-center h-full md:mx-auto">
               <Hero />
