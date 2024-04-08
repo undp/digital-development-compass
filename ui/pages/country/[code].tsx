@@ -1,5 +1,4 @@
-// Hiding Comparision
-// import { CountryComparisons } from "components/country-comparisons";
+import { useState, useEffect } from "react";
 import Layout from "components/Layout";
 import { Pillars } from "components/pillar";
 import { RelatedCountryList } from "components/related-country-list";
@@ -11,12 +10,11 @@ import { Country, Definition } from "database/processed/db";
 import { isMemberState } from "lib";
 import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
-import { useState } from "react";
 import Link from "next/link";
 import DigitalRightScoreRing from "components/digital-right-score-ring";
 import { DigitalRightsPillars } from "components/digitalRightPillar";
 import Image from "next/image";
-import RH from  "../../public/RH.png";
+import RH from "../../public/RH.png";
 
 type Props = {
   layoutCountries: {
@@ -49,6 +47,15 @@ const StaticPropsDetail = ({
   if (statusCode) {
     return <Error statusCode={statusCode} />;
   }
+  const handleScroll = (e: any) => {
+    e.preventDefault(); // Prevent default anchor link behavior
+    const targetId = e.currentTarget.getAttribute("href").slice(1); // Extract the target ID from the href attribute
+    const targetElement = document.getElementById(targetId);
+
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: "smooth" });
+    }
+  };
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
       <section className="pt-8 border-b pb-8" id="country-meta">
@@ -71,21 +78,29 @@ const StaticPropsDetail = ({
             </div>
           </div>
           <ScoreRing pillars={ancillary.pillars} country={country} />
-          <div className="flex flex-col justify-between min-h-screen">
-            <div className="mt-auto">
-       
-            </div>
-            <div className="fixed right-5 bottom-5 p-4 w-64 bg-white shadow-lg rounded-lg border border-gray-200">
-              <Image
-                src={RH}
-                alt="RH"
-                className="w-full h-auto rounded-lg"
-              />
-            </div>
+          <div className="flex flex-col justify-between">
+            <div className="mt-auto"></div>
+            {country.digitalRightDataAvailable ? (
+              <div className="absolute right-5 bottom-40  p-1 w-64 bg-white shadow-lg rounded-lg border border-red-300 hidden md:block">
+                <a
+                  href="#country-meta-dr"
+                  onClick={handleScroll}
+                  style={{ textDecoration: "none" }}
+                >
+                  <Image
+                    src={RH}
+                    alt="RH"
+                    className="w-full h-auto rounded-lg"
+                  />
+                </a>
+              </div>
+            ) : (
+              ""
+            )}
           </div>
         </div>
       </section>
-      <section id="pillars" className="my-16 relative">
+      <section id="pillars-dr" className="my-16 relative">
         {/* Web */}
         <div className="hidden md:block lg:block mx-auto max-w-7xl px-8 sticky top-0 z-10">
           <div className="w-full bg-white flex items-center justify-between py-4 pr-4">
@@ -187,9 +202,9 @@ const StaticPropsDetail = ({
         {/* digital right dashboard section */}
         {country.digitalRightDataAvailable ? (
           <section
-            className="pt-8 border-b pb-8"
+            className="pt-20 border-b pb-8"
             style={{ backgroundColor: "#FFFFF0" }}
-            id="country-meta"
+            id="country-meta-dr"
           >
             <div className="container px-4 mx-auto text-center">
               <div className="mb-10 text-center">
