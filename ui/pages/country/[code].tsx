@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState} from "react";
 import Layout from "components/Layout";
 import { Pillars } from "components/pillar";
 import { RelatedCountryList } from "components/related-country-list";
