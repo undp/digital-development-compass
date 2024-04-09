@@ -5,6 +5,7 @@ import { GoMarkGithub } from "react-icons/go";
 import { GrCreativeCommons } from "react-icons/gr";
 import { Header } from "./header";
 import Link from "next/link";
+import CookieConsent from "./cookie-consent";
 type Props = {
   children?: ReactNode;
   title?: string;
@@ -17,7 +18,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
       <NextSeo title={title} />
       <Header key={title} countries={countries} />
       <main className="flex-shrink-0 main">{children}</main>
-
+      <CookieConsent />
       <footer className="bg-brand-blue text-white py-16 flex flex-col items-center justify-center">
         <div className="grid lg:grid-cols-2 md:grid-cols-2 gap-2 text-left max-w-screen-2xl mx-auto px-10">
           <div className="text-left" >
