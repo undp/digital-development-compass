@@ -174,7 +174,7 @@ const Indicator = ({
       </div>
       {isShowingRawScores && !hasNoData && (
         <ul className="mt-1 mb-2 divide-y-1">
-          <li className="text-slate-600 underline text-xs mb-3">
+          <li className="text-slate-600 text-xs mb-3">
             <div className="group flex items-center">
               <FaSourcetree className="group-hover:no-underline mr-1 flex-none" />
               <span>{indicator.data_col}</span>
