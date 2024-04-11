@@ -28,7 +28,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
           score["Country Name"] === country &&
           score["Pillar"] === pillar &&
           score["Indicator"] === index["Indicator"] &&
-          score["Data Source"]
+          score["Source Name"]
         );
       }),
     };
