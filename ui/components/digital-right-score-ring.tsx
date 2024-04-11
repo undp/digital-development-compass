@@ -99,7 +99,7 @@ export const DigitalRightScoreRing = ({
             : 0;
         return acc + missingPillars;
       }, 0);
-  const numberOfPillars = pillars.length - numberOfMissingPillars;
+  const numberOfPillars = pillars.length;
   // don't let filled subpillars get too large, it looks wonky
   // const emptySubpillarRatio =
   //   numberOfMissingPillars / numberOfSubpillars > 0.5 ? 0.8 : 0.3;
