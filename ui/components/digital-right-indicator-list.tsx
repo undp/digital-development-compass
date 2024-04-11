@@ -1,7 +1,6 @@
 import { DigitalRightsPillar} from "database/ancillary";
-import { Score } from "database/processed/db";
+import { DigitalRightScore, Score } from "database/processed/db";
 import { roundNumber } from "lib";
-import { ReactChild, ReactFragment, ReactPortal } from "react";
 import { FaLink, FaSourcetree } from "react-icons/fa";
 import useSWR from "swr";
 
@@ -151,18 +150,18 @@ const Indicator = ({
   showSources,
   isShowingRawScores,
 }: {
-  indicator: any & { sources: any[] };
+  indicator: DigitalRightScore & { sources: DigitalRightScore[] };
   showSources: boolean;
   isShowingRawScores: boolean;
 }) => {
   const hasNoData = indicator.data_col === null;
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
-  const sources = (indicator.sources || [indicator]).map((ind: { [x: string]: any; }) => ({
-    link: ind["Source URL"],
-    source: ind["Source Name"],
-    year: ind["Year"]
-  })).filter((ind: { source: any; link: any; }) => ind.source && ind.link);
+  const sources = (indicator.sources || [indicator]).map(indicator => ({
+    link: indicator["Source URL"],
+    source: indicator["Source Name"],
+    year: indicator["Year"]
+  })).filter(indicator => indicator.source && indicator.link)
   const value = +indicator.new_rank_score;
   const disp_val = value == 0 ? 0 : roundNumber(value, 2);
   return (
@@ -197,7 +196,7 @@ const Indicator = ({
       )}
       {showSources && sources.length > 0 && (
         <ul className="mt-1 mb-2 divide-y-1">
-          {sources.map((source: { link: string | undefined; source: boolean | ReactChild | ReactFragment | ReactPortal | null | undefined; year: boolean | ReactChild | ReactFragment | ReactPortal | null | undefined; }, i: number) => {
+          {sources.map((source, i: number) => {
             return (
               <li className="text-slate-600 underline text-xs mb-3" key={i}>
                 <a
