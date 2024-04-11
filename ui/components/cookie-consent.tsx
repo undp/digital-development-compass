@@ -26,7 +26,7 @@ const CookieConsent = () => {
                 <button onClick={handleAccept} className="bg-brand-blue hover:bg-blue-500 text-white font-bold py-2 px-4 rounded">
                     Accept All
                 </button>
-                <a href="/cookie-settings" className="text-blue-200 hover:text-blue-400">
+                <a href="https://www.undp.org/copyright-terms-use" target='_blank' className="text-blue-200 hover:text-blue-400">
                     Cookie Settings
                 </a>
             </div>
