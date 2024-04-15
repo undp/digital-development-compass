@@ -18,15 +18,15 @@ const CookieConsent = () => {
     if (!isVisible) return null;
 
     return (
-        <div className="fixed inset-x-0 bottom-0 bg-gray-900 text-white p-4 flex justify-between items-center">
+        <div className="fixed inset-x-0 bottom-0 cookie-bg-color text-white p-4 flex justify-between items-center">
             <div className="max-w-[calc(100%-250px)]"> {/* Adjust max-width accordingly */}
                 <p>We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.</p>
             </div>
             <div className="flex items-center space-x-2">
-                <button onClick={handleAccept} className="bg-brand-blue hover:bg-blue-500 text-white font-bold py-2 px-4 rounded">
+                <button onClick={handleAccept} className="bg-white hover:bg-brand-blue text-brand-blue-dark hover:text-white font-semibold py-2 px-4 rounded">
                     Accept All
                 </button>
-                <a href="https://www.undp.org/copyright-terms-use" target='_blank' className="text-blue-200 hover:text-blue-400">
+                <a href="https://www.undp.org/copyright-terms-use" target='_blank' >
                     Cookie Settings
                 </a>
             </div>
