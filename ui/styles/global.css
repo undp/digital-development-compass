@@ -153,6 +153,10 @@ html {
   }
 }
 
+.cookie-bg-color {
+  background-color: #0063AC;
+}
+
 
 @media (max-width: 770px) {
   .rainbow-margin {
