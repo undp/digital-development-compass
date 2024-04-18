@@ -30,7 +30,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
           score["Pillar"] === pillar &&
           score["Sub-Pillar"] === subpillar &&
           score["Indicator"] === index["Indicator"] &&
-          score["Data Source"]
+          score["Source Name"]
         );
       }),
     };

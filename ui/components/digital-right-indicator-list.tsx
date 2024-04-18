@@ -1,5 +1,5 @@
 import { DigitalRightsPillar} from "database/ancillary";
-import { DigitalRightScore } from "database/processed/db";
+import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { FaLink, FaSourcetree } from "react-icons/fa";
 import useSWR from "swr";
@@ -102,7 +102,7 @@ const MissingIndicators = ({
   showSources,
   isShowingRawScores,
 }: {
-  filledIndicators: DigitalRightScore[];
+  filledIndicators: Score[];
   country: string;
   pillar: DigitalRightsPillar;
   showSources: boolean;
@@ -119,12 +119,12 @@ const MissingIndicators = ({
 
   const missingIndicators = allIndicators
     .filter(
-      (indicator: DigitalRightScore) =>
+      (indicator: Score) =>
         !filledIndicators.find(
-          ({ Indicator }: DigitalRightScore) => Indicator === indicator["Indicator"]
+          ({ Indicator }: Score) => Indicator === indicator["Indicator"]
         )
     )
-    .map((indicator: DigitalRightScore) => ({
+    .map((indicator: Score) => ({
       ...indicator,
       new_rank_score: null,
       data_col: null,
@@ -150,7 +150,7 @@ const Indicator = ({
   showSources,
   isShowingRawScores,
 }: {
-  indicator: DigitalRightScore & { sources: DigitalRightScore[] };
+  indicator: Score & { sources: Score[] };
   showSources: boolean;
   isShowingRawScores: boolean;
 }) => {
