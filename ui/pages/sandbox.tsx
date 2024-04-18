@@ -39,8 +39,8 @@ export default function Sandbox(
             <StageGauge
               name={country["Country or Area"]}
               scores={country.scores}
-              definitions={definitions["DPInfrastructure"]}
-              pillar="DPInfrastructure"
+              definitions={definitions["Digital Public Infrastructure"]}
+              pillar="Digital Public Infrastructure"
             />
             <StageGauge
               name={country["Country or Area"]}

@@ -39,7 +39,7 @@ async function main() {
 
   // const pillarNames = [
   //   "Overall",
-  //   "DPInfrastructure",
+  //   "Digital Public Infrastructure",
   //   "Connectivity",
   //   "Government",
   //   "Regulation",
@@ -227,6 +227,7 @@ async function main() {
       .filter((p) => p !== "Overall")
       .reduce((acc, next) => {
         let score = getPillarScore(countryName, next);
+        let sscore = (score==0 ? 0 :roundNumber(parseFloat(score), 2));
         let confidence = getPillarConfidence(countryName, next);
         let rank = getPillarRank(countryName, next);
         //let multivariable = getUniqueSubpillarCount(countryName, next); 
@@ -235,7 +236,7 @@ async function main() {
         //let final_score = dividedRank / divisionVariable ;
         acc[next] = {
           rank,
-          score: roundNumber(parseFloat(score), 2),
+          score: sscore,
           confidence: roundNumber(parseFloat(confidence), 2),
           stage: getStageInfo(score, next) || null,
           ...pillarMap[next].reduce((subAcc, sp) => {

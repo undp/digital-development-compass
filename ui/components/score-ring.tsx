@@ -169,7 +169,7 @@ export const ScoreRing = ({
               className="mb-2 mr-2"
               style={{ color: `${pillarColorsMap[pillar]}` }}
             >
-              {pillarIcons[pillar.toLowerCase()]}
+              {pillarIcons[pillar]}
             </div>
             <div className="mb-2">{pillar}</div>
           </div>
@@ -209,7 +209,7 @@ export const ScoreRing = ({
             return (
               <radialGradient
                 key={pillar}
-                id={`${pillar}-gradient`}
+                id={`${pillar.replace(/\s+/g, "-")}-gradient`}
                 gradientUnits="userSpaceOnUse"
                 r={outerRingR[1]}
                 cx={0}
@@ -275,7 +275,7 @@ export const ScoreRing = ({
                   <path
                     className="transition-all"
                     d={fillArc}
-                    fill={`url(#${pillar}-gradient)`}
+                    fill={`url(#${pillar.replace(/\s+/g, "-")}-gradient)`}
                   />
                 </g>
               );
@@ -330,7 +330,7 @@ export const ScoreRing = ({
                     }}
                   >
                     {/* @ts-ignore */}
-                    {pillarIcons[pillar.toLowerCase()]}
+                    {pillarIcons[pillar]}
                   </g>
                   {/* mobile */}
                   <g
@@ -341,7 +341,7 @@ export const ScoreRing = ({
                     }}
                   >
                     {/* @ts-ignore */}
-                    {pillarIcons[pillar.toLowerCase()]}
+                    {pillarIcons[pillar]}
                   </g>
                 </g>
                 {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>
@@ -601,8 +601,8 @@ const getArc = (
 };
 
 const distanceOffset = scaleLinear()
-  .domain([-Math.PI * 0.3, -Math.PI * 0.06, 0, Math.PI * 0.06, Math.PI * 0.3])
-  .range([0, -0.05, -0.15, -0.05, 0])
+  .domain([-Math.PI * 0.39, -Math.PI * 0.06, 0, Math.PI * 0.06, Math.PI * 0.21])
+  .range([0, -0.04, -0.20, -0.19, 0])
   .clamp(true);
 const getDistanceOffsetFromAngle = (angle: number) => distanceOffset(angle);
 

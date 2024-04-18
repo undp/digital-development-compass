@@ -88,7 +88,7 @@ const StaticPropsDetail = ({
               {<Toggle
                 disabled={!showIndicators}
                 id="toggle-missing-indicators"
-                label="Missing indicators"
+                label="Imputed data"
                 enabled={showMissingIndicators}
                 onChange={setShowMissingIndicators}
               /> }
@@ -130,7 +130,7 @@ const StaticPropsDetail = ({
               <Toggle
                 disabled={!showIndicators}
                 id="toggle-missing-indicators"
-                label="Missing indicators"
+                label="Imputed data"
                 enabled={showMissingIndicators}
                 onChange={setShowMissingIndicators}
               />
