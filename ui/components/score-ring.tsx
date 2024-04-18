@@ -601,8 +601,8 @@ const getArc = (
 };
 
 const distanceOffset = scaleLinear()
-  .domain([-Math.PI * 0.3, -Math.PI * 0.06, 0, Math.PI * 0.06, Math.PI * 0.3])
-  .range([0, -0.05, -0.15, -0.05, 0])
+  .domain([-Math.PI * 0.39, -Math.PI * 0.06, 0, Math.PI * 0.06, Math.PI * 0.21])
+  .range([0, -0.04, -0.20, -0.19, 0])
   .clamp(true);
 const getDistanceOffsetFromAngle = (angle: number) => distanceOffset(angle);
 
