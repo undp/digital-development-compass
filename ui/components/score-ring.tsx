@@ -344,9 +344,6 @@ export const ScoreRing = ({
                     {pillarIcons[pillar]}
                   </g>
                 </g>
-                {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>
-                {pillar}
-              </text> */}
                 {subpillars.map((subpillar,index) => {
                 //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredSubpillar === subpillar;
