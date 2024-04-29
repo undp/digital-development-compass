@@ -158,12 +158,14 @@ const Indicator = ({
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
   const sources = (indicator.sources || [indicator]).map(indicator => ({
-    link: indicator["Data Link"],
-    source: indicator["Data Source"],
+    link: indicator["Source URL"],
+    source: indicator["Source Name"],
     year: indicator["Year"]
   })).filter(indicator => indicator.source && indicator.link)
-  const value = +indicator.new_rank_score;
-  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
+  const value = +(isShowingRawScores
+    ? indicator.data_col
+    : indicator.new_rank_score);
+  const disp_val = (value==0 ? 0 : roundNumber(value,2));
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
@@ -182,15 +184,15 @@ const Indicator = ({
           </li>
         </ul>
       )}
-      {isShowingRawScores && hasNoData && (
+      {/* {isShowingRawScores && hasNoData && (
         <ul className="mt-1 mb-2 divide-y-1">
           <li className="text-slate-600 underline text-xs mb-3">
             <div className="group flex items-center">
-              <span>"Data unavailable"</span>
+              <span>Data unavailable</span>
             </div>
           </li>
         </ul>
-      )}
+      )} */}
       {showSources && sources.length === 0 && (
         <p className="text-xs text-gray-600">Source Data Unavailable</p>
       )}
