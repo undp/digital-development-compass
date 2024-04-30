@@ -33,6 +33,7 @@ export default function About(
 ) {
   const { definitions, countries, country } = props;
   const pillars = Object.keys(definitions);
+  console.log('hello world', pillars)
 
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;
@@ -51,7 +52,7 @@ export default function About(
               </p>
 
               <p>
-              The Compass aggregates and synthesises digital development indicators from over 180 publicly available open-source 
+              The Compass aggregates and synthesises digital development indicators from over 140 publicly available open-source 
               datasets into interactive dashboards across the pillars of the United Nations Development Programme's (UNDP){" "}
                 <a href="https://www.undp.org/digital/transformations" target="_blank" className="text-blue-300">
                   digital transformation framework
