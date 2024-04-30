@@ -95,7 +95,7 @@ export const DigitalRightScoreRing = ({
         const missingPillars =
           country.digitalRightScores &&
           !country.digitalRightScores[pillar]?.score
-            ? 1
+            ? 0
             : 0;
         return acc + missingPillars;
       }, 0);
@@ -113,7 +113,7 @@ export const DigitalRightScoreRing = ({
     // subpillars.forEach((subpillar, j) => {
     const isEmpty =
       !isPlaceholder && !country.digitalRightScores?.[name]?.score;
-    const degreesForPillar = isEmpty ? emptyPillarDegrees : filledPillarDegrees;
+    const degreesForPillar = filledPillarDegrees;
     // subPillarAngles[subpillar] = [
     //   startAngleRunning + runningDegreesForPillar,
     //   startAngleRunning + runningDegreesForPillar + degreesForSubpillar,
@@ -251,7 +251,7 @@ export const DigitalRightScoreRing = ({
               <g
                 key={`${pillar}-${index}-${pillar}`}
                 style={{
-                  opacity: isHovered || hasData ? 1 : 0.6,
+                  opacity: isHovered || hasData ? 1 : 1,
                 }}
                 onMouseEnter={() => setHoveredPillar(pillar)}
               >
@@ -270,7 +270,7 @@ export const DigitalRightScoreRing = ({
               </g>
             );
           })}
-          {arcTicks.map((path, i) => (
+          {/* {arcTicks.map((path, i) => (
             <path
               key={i}
               d={path}
@@ -278,7 +278,7 @@ export const DigitalRightScoreRing = ({
               stroke="white"
               strokeWidth={0.1}
             />
-          ))}
+          ))} */}
           {pillars.map((pillar, index) => {
             const angles = pillarAngles[pillar as string];
             if (angles[0] == angles[1]) return;
@@ -382,7 +382,7 @@ export const DigitalRightScoreRing = ({
                     outerRingR[1] - r * 0.09
                   );
                   // @ts-ignore
-                  const value = country.digitalRightScores?.[pillar]?.["score"];
+                  const value = country.digitalRightScores?.[pillar]?.["score"] ?? 0;
                   const hasData = isPlaceholder || !!value;
                   // @ts-ignore
                   const rank = country.digitalRightScores?.[pillar]?.["rank"];
@@ -391,7 +391,7 @@ export const DigitalRightScoreRing = ({
                     <g
                       key={`${pillar}`}
                       style={{
-                        opacity: isHovered || hasData ? 1 : 0.3,
+                        opacity: isHovered || hasData ? 1 : 1,
                       }}
                       onMouseEnter={() => setHoveredPillar(pillar)}
                     >
@@ -405,7 +405,7 @@ export const DigitalRightScoreRing = ({
                         stroke="white"
                         strokeWidth={3}
                       />
-                      {hasData && (
+                      {(hasData || value >= 0) && (
                         <line
                           x1={endPointInner[0]}
                           y1={endPointInner[1]}
@@ -467,7 +467,7 @@ export const DigitalRightScoreRing = ({
                         </>
                       )}
 
-                      {hasData && (
+                      {(hasData || value >= 0) && (
                         <g
                           className={`hidden md:block sp-txt text-sm ${
                             isHovered
@@ -502,7 +502,7 @@ export const DigitalRightScoreRing = ({
                           )} */}
                         </g>
                       )}
-                      {hasData && (
+                      {(hasData || value >= 0) && (
                         <g
                           className={`md:hidden sp-txt text-sm ${
                             isHovered
