@@ -13,7 +13,6 @@ import Error from "next/error";
 import Link from "next/link";
 import DigitalRightScoreRing from "components/digital-right-score-ring";
 import { DigitalRightsPillars } from "components/digitalRightPillar";
-import { IoSearch } from "react-icons/io5";
 import { RiArrowRightDownLine} from "react-icons/ri";
 
 type Props = {
