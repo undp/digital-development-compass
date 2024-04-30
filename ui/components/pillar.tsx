@@ -126,7 +126,7 @@ const Pillar = (props: PillarProps) => {
         ></div>
         <div className="flex items-center justify-between p-3 z-10">
           <div className="text-white text-lg">{icon}</div>
-          <div className="text-xs text-white  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
+          <div className="text-xs text-white text-center  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
             {pillar}
           </div>
           <div className="text-white font-mono font-semibold">{score}</div>

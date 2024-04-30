@@ -18,7 +18,7 @@ import { getOrdinal } from "lib";
 import { ancillary } from "database/ancillary";
 import kebabCase from "lodash/kebabCase";
 
-const scoreDomain = [1, 6];
+const scoreDomain = [1, 5];
 const numberOfStages = scoreDomain[1] - scoreDomain[0];
 const tweakColor = (color: string) => {
   const d3Color = hcl(color);

@@ -15,8 +15,8 @@ export default function AboutScrollytelling({
       {[
         "Each nation is ranked according to a stage of digital readiness.",
         <>
-          These are scored from <span className="font-mono">1</span> to{" "}
-          <span className="font-mono">5.99</span>
+          These are scored from <span className="font-mono">0</span> to{" "}
+          <span className="font-mono">5</span>
         </>,
         "We then use UNDP’s Digital Transformation Framework to understand the digital state of a given nation",
         "Each pillar is investigated",
