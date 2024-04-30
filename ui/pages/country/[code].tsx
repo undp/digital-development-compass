@@ -1,4 +1,4 @@
-import { useState} from "react";
+import { useState } from "react";
 import Layout from "components/Layout";
 import { Pillars } from "components/pillar";
 import { RelatedCountryList } from "components/related-country-list";
@@ -13,8 +13,8 @@ import Error from "next/error";
 import Link from "next/link";
 import DigitalRightScoreRing from "components/digital-right-score-ring";
 import { DigitalRightsPillars } from "components/digitalRightPillar";
-import Image from "next/image";
-import RH from "../../public/RH.png";
+import { IoSearch } from "react-icons/io5";
+import { RiArrowRightDownLine} from "react-icons/ri";
 
 type Props = {
   layoutCountries: {
@@ -58,7 +58,7 @@ const StaticPropsDetail = ({
   };
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
-      <section className="pt-8 border-b pb-8" id="country-meta">
+      <section className="pt-8 border-b pb-3" id="country-meta">
         <div className="container px-4 mx-auto text-center">
           <div className="mb-10 text-center">
             <div className="mb-2">
@@ -78,28 +78,39 @@ const StaticPropsDetail = ({
             </div>
           </div>
           <ScoreRing pillars={ancillary.pillars} country={country} />
-          <div className="flex flex-col justify-between">
-            <div className="mt-auto"></div>
-            {country.digitalRightDataAvailable ? (
-              <div className="absolute right-5 bottom-40  p-1 w-64 bg-white shadow-lg rounded-lg border border-red-300 hidden md:block">
-                <a
-                  href="#country-meta-dr"
-                  onClick={handleScroll}
-                  style={{ textDecoration: "none" }}
-                >
-                  <Image
-                    src={RH}
-                    alt="RH"
-                    className="w-full h-auto rounded-lg"
-                  />
-                </a>
-              </div>
-            ) : (
-              ""
-            )}
-          </div>
+        </div>
+        <div className="hidden md:block lg:block relative">
+          {country.digitalRightDataAvailable ? (
+            <div className="absolute bottom-0 right-20 ">
+              <a
+                href="#country-meta-dr"
+                onClick={handleScroll}
+                style={{ textDecoration: "none" }}
+                className="bg-white border-2 font-semibold border-brand-blue-dark hover:bg-brand-blue-dark hover:text-white px-2 py-1 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center md:px-4 md:py-2 md:text-sm lg:px-6 lg:py-3 lg:text-base"
+              >
+                <span>JUMP TO DIGITAL RIGHTS DASHBOARD</span>
+                <RiArrowRightDownLine className="text-base ml-2 md:text-lg lg:text-xl" />
+              </a>
+            </div>
+          ) : (
+            ""
+          )}
         </div>
       </section>
+      <div className="relative flex items-center md:hidden lg:hidden">
+        {country.digitalRightDataAvailable && (
+          <div className="w-4/5 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+            <a
+              href="#country-meta-dr"
+              onClick={handleScroll}
+              className="bg-white border-2 border-brand-blue-dark hover:bg-brand-blue-dark hover:text-white px-2 py-1 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center md:px-4 md:py-2 md:text-sm lg:px-6 lg:py-3 lg:text-base font-semibold no-underline"
+            >
+              <span>JUMP TO DIGITAL RIGHTS DASHBOARD</span>
+              < RiArrowRightDownLine className="text-base ml-2 md:text-lg lg:text-xl" />
+            </a>
+          </div>
+        )}
+      </div>
       <section id="pillars-dr" className="my-16 relative">
         {/* Web */}
         <div className="hidden md:block lg:block mx-auto max-w-7xl px-8 sticky top-0 z-10">
@@ -203,7 +214,7 @@ const StaticPropsDetail = ({
         {country.digitalRightDataAvailable ? (
           <section
             className="pt-20 border-b pb-8"
-            style={{ backgroundColor: "#FFFFF0" }}
+            style={{ backgroundColor: "#D4D6D8" }}
             id="country-meta-dr"
           >
             <div className="container px-4 mx-auto text-center">
