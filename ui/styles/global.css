@@ -157,6 +157,10 @@ html {
   background-color: #0063AC;
 }
 
+.dp-text-color {
+  color: #484848 ;
+}
+
 
 @media (max-width: 770px) {
   .rainbow-margin {
