@@ -112,9 +112,9 @@ const StaticPropsDetail = ({
       </div>
       <section id="pillars-dr" className="my-16 relative">
         {/* Web */}
-        <div className="hidden md:block lg:block mx-auto max-w-7xl px-8 sticky top-0 z-10">
-          <div className="w-full bg-white flex items-center justify-between py-4 pr-4">
-            <h2 className="text-2xl leading-7 sm:leading-9 text-gray-900 pl-4">
+        <div className="hidden md:block lg:block mx-auto max-w-[90rem] px-6 sticky top-0 z-10">
+          <div className="w-full bg-white flex items-center justify-between py-4 pr-24">
+            <h2 className="text-2xl leading-5 sm:leading-9 text-gray-900 pl-20">
               Pillar scores
             </h2>
             <div className="flex items-center gap-4">
@@ -156,7 +156,7 @@ const StaticPropsDetail = ({
           </div>
         </div>
         {/* mobile responsive */}
-        <div className="md:hidden lg:hidden mx-auto max-w-7xl px-7 sticky top-0 z-10">
+        <div className="md:hidden lg:hidden mx-auto max-w-[90rem] px-7 sticky top-0 z-10">
           <div className="w-full bg-white space-x-5 flex items-center py-4 pl-2">
             <h2 className="md:hidden text-2xl leading-7 md:text-3xl md:leading-9 text-gray-900">
               Pillar scores
