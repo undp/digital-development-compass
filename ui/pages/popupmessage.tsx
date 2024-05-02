@@ -1,41 +1,47 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
+import Image from "next/image";
+import LogoSVG from "../public/undp-logo.svg";
+
+const slides = [
+  {
+    title: 'The Digital Development Compass Gets a Powerful Upgrade!',
+    content: 'We’re excited to unveil major improvements to the Digital Development Compass (DDC), focusing on robustness, reliability, and clarity!'
+  },
+  {
+    title1: "Here's a glimpse of what's new:",
+    content: '<b>Stronger Foundation:</b> The DDC’s structure now aligns seamlessly with the Digital Transformation Framework, providing a clearer picture of a country’s digital journey.'
+  },
+  {
+    content: "<b>Expert Guidance:</b> A dedicated Expert Committee has been established to review data and methodologies, ensuring the highest quality standards."
+  },
+  {
+    content: "<b>Enhanced Data:</b> Data sources have undergone a rigorous cleaning process, with new ones added based on stricter selection criteria. This means you'll find the most reliable and relevant information at your fingertips."
+  },
+  {
+    content: "<b>Solid Methodology:</b> The DDC's methodology has been strengthened by improved scoring and weighting techniques, making it statistically sound and more dependable."
+  },
+  {
+    content: "<b>Elevated User Experience:</b> Enjoy a smoother experience! We've revamped the DDC's visualizations and usability for a more intuitive and informative exploration.",
+    content1: "We're confident these improvements will make the DDC an even more valuable tool for navigating the ever-evolving digital landscape."
+  },
+  // Add more slides as needed
+];
 
 const PopupMessage = () => {
   const [isOpen, setIsOpen] = useState(true);
-  const [rectWidth, setRectWidth] = useState(0); // Initial width of the rectangle
+  const [currentPage, setCurrentPage] = useState(0); // Change to index-based state (starting from 0)
+  const totalPages = slides.length; // Set total pages based on slides length
 
-  useEffect(() => {
-    // Start the animation as soon as the component mounts
-    const widthInterval = setInterval(() => {
-      setRectWidth((currentWidth) => {
-        // Increase width by 10% each second, up to 100%
-        const newWidth = currentWidth + 10;
-        if (newWidth > 100) {
-          clearInterval(widthInterval); // Clear interval once 100% is reached
-          return 100;
-        }
-        return newWidth;
-      });
-    }, 1000); // Increase width every second
+  const handleNext = () => {
+    if (currentPage < totalPages - 1) {
+      setCurrentPage(currentPage + 1);
+    }
+  };
 
-    // Set a timer to close the popup after 10 seconds
-    const closeTimer = setTimeout(() => {
-      setIsOpen(false);
-    }, 10000);
-
-    // Cleanup function to clear the timers
-    return () => {
-      clearInterval(widthInterval);
-      clearTimeout(closeTimer);
-    };
-  }, []);
-
-  // Style for the rectangle
-  const rectStyle = {
-    width: `${rectWidth}%`, // Current width in percentage
-    height: "3px", // Height of the rectangle (can be changed as desired)
-    backgroundColor: "rgb(91 146 229 / var(--tw-bg-opacity))", // Color of the rectangle
-    transition: "bg-brand-blue", // Smooth width transition
+  const handleBack = () => {
+    if (currentPage > 0) {
+      setCurrentPage(currentPage - 1);
+    }
   };
 
   return (
@@ -47,71 +53,46 @@ const PopupMessage = () => {
       role="dialog"
       aria-modal="true"
     >
-      {/* Popup card */}
-      <div className="relative bg-white rounded-lg shadow-lg overflow-hidden w-auto max-w-3xl">
-        {" "}
-        {/* Adjust the max-width as needed */}
-        <div className="px-4 py-2 sm:px-4 sm:py-1 sm:flex sm:flex-row-reverse">
-          {" "}
-          {/* Adjust padding for decreasing height */}
+      <div className="relative bg-white rounded-lg shadow-lg overflow-hidden w-full max-w-lg mx-4 md:mx-0 z-10">
+        <div className="flex justify-between items-center p-4 border-b">
+          <div className="flex items-center">
+            <div className="rounded-full bg-blue-100 p-1 flex items-center justify-center" style={{ width: '50px', height: '50px' }}>
+              <Image src={LogoSVG} alt="UNDP Logo" width={40} height={40} />
+            </div>
+            <h2 className="ml-1 text-lg">Digital Development Compass</h2>
+          </div>
           <button
-            type="button"
             onClick={() => setIsOpen(false)}
-            className="inline-flex items-center justify-center bg-transparent border-0 p-0 text-base font-medium text-cyan-500 hover:text-cyan-600 focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:ring-offset-2 sm:text-sm"
-            aria-label="Close"
+            className="text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-500 rounded"
           >
-            <span>&times;</span> {/* This is a Unicode cross character */}
+            <span className="text-2xl">&times;</span> {/* Unicode cross character */}
           </button>
         </div>
-        <div className="p-4">
-          {" "}
-          {/* Adjust padding for decreasing height */}
-          <h3 className="text-lg leading-6 font-medium text-gray-900">
-            The Digital Development Compass Gets a Powerful Upgrade!
-          </h3>
-          <div className="mt-2 text-sm text-gray-500">
-            We're excited to unveil major improvements to the Digital
-            Development Compass (DDC), focusing on robustness, reliability, and
-            clarity!
-            <br />
-            <br />
-            Here's a glimpse of what's new:
-            <ul className="list-disc pl-5 text-sm">
-              <li>
-                <strong>Stronger Foundation:</strong> The DDC's structure now
-                aligns seamlessly with the Digital Transformation Framework,
-                providing a clearer picture of a country's digital journey.
-              </li>
-              <li>
-                <strong>Expert Guidance:</strong> A dedicated Expert Committee
-                has been established to review data and methodologies, ensuring
-                the highest quality standards.
-              </li>
-              <li>
-                <strong>Enhanced Data:</strong> Data sources have undergone a
-                rigorous cleaning process, with new ones added based on stricter
-                selection criteria. This means you'll find the most reliable and
-                relevant information at your fingertips.
-              </li>
-              <li>
-                <strong>Solid Methodology:</strong> The DDC's methodology has
-                been strengthened by improved scoring and weighting techniques,
-                making it statistically sound and more dependable.
-              </li>
-              <li>
-                <strong>Elevated User Experience:</strong> Enjoy a smoother
-                experience! We've revamped the DDC's visualizations and
-                usability for a more intuitive and informative exploration.
-              </li>
-            </ul>
-            We're confident these improvements will make the DDC an even more
-            valuable tool for navigating the ever-evolving digital landscape.
-            <br />
-            <br />
-            Stay tuned for further updates!
-          </div>
+        <div className="px-4 py-5 sm:p-6">
+          <h1 className="text-2xl font-bold">
+            {slides[currentPage].title}
+          </h1>
+          <h1 className="text-xl">
+            {slides[currentPage].title1}
+          </h1>
+          <div className="text-gray-600" dangerouslySetInnerHTML={{ __html: slides[currentPage].content }} />
+          <div className="text-gray-600 pt-3" dangerouslySetInnerHTML={{ __html: slides[currentPage].content1 }} />
         </div>
-        <div style={rectStyle} />
+        <div className="px-4 py-4 sm:px-6 flex justify-between items-center border-t">
+          <button
+            onClick={handleBack}
+            className="text-gray-800 hover:bg-gray-200 font-bold py-2 px-4 rounded-l focus:outline-none focus:ring-2 focus:ring-gray-300"
+          >
+            Back
+          </button>
+          <span className="text-sm text-gray-600">{`${currentPage + 1} of ${totalPages}`}</span>
+          <button
+            onClick={handleNext}
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-r focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
+            Next
+          </button>
+        </div>
       </div>
     </div>
   );
