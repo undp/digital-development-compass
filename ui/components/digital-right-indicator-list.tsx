@@ -165,9 +165,10 @@ const Indicator = ({
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
+    console.log('vslue', value,indicator.data_col,isShowingRawScores)
   const disp_val = (value==0 ? 0 : roundNumber(value,2));
   return (
-    <li className={hasNoData ? "text-slate-500" : ""}>
+    <li className={hasNoData ? "dp-text-color" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0">
