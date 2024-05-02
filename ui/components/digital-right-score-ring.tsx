@@ -36,6 +36,7 @@ export const DigitalRightScoreRing = ({
   pillars: typeof ancillary.digitalRightPillarName;
   defaultHoveredPillar?: string;
 }) => {
+  let processedPillars = new Set();
   const { pillarColorsMap, pillarColorScalesMap } = useMemo(() => {
     const pillarColors = pillars.map(
       (pillar) => ancillary.digitalRightPillarColorMap[pillar].base
@@ -293,7 +294,7 @@ export const DigitalRightScoreRing = ({
             return (
               <g key={`${pillar}-${index}-${index}`}>
                 <g className="text-sm">
-                  <CircleText
+                  {/* <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
                     text={pillar as string}
@@ -301,7 +302,7 @@ export const DigitalRightScoreRing = ({
                     stroke="white"
                     strokeWidth={4}
                     className="hidden md:block"
-                  />
+                  /> */}
                   <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
@@ -337,6 +338,10 @@ export const DigitalRightScoreRing = ({
                 {pillar}
               </text> */}
                 {pillars.map((pillar, index) => {
+                     if (processedPillars.has(pillar)) {
+                      return null;
+                    }
+                    processedPillars.add(pillar);
                   //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredPillar === pillar;
                   const mainArc = getArc(
