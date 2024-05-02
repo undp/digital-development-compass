@@ -33,7 +33,6 @@ export default function About(
 ) {
   const { definitions, countries, country } = props;
   const pillars = Object.keys(definitions);
-  console.log('hello world', pillars)
 
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;

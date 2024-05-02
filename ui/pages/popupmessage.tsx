@@ -76,7 +76,7 @@ const PopupMessage = () => {
             {slides[currentPage].title1}
           </h1>
           <div className="text-gray-600" dangerouslySetInnerHTML={{ __html: slides[currentPage].content }} />
-          <div className="text-gray-600 pt-3" dangerouslySetInnerHTML={{ __html: slides[currentPage].content1 }} />
+          <div className="text-gray-600 pt-3" dangerouslySetInnerHTML={{ __html: slides[currentPage].content1 || "" }} />
         </div>
         <div className="px-4 py-4 sm:px-6 flex justify-between items-center border-t">
           <button

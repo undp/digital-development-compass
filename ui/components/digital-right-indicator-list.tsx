@@ -154,7 +154,6 @@ const Indicator = ({
   showSources: boolean;
   isShowingRawScores: boolean;
 }) => {
-  // console.log('indicator', indicator)
   const hasNoData = indicator.data_col === null;
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
@@ -166,7 +165,6 @@ const Indicator = ({
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
-    console.log('vslue', value,indicator.data_col,isShowingRawScores)
   const disp_val = (value==0 ? 0 : roundNumber(value,2));
   return (
     <li className={hasNoData ? "dp-text-color" : ""}>
