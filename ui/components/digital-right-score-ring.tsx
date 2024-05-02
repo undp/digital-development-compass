@@ -36,6 +36,7 @@ export const DigitalRightScoreRing = ({
   pillars: typeof ancillary.digitalRightPillarName;
   defaultHoveredPillar?: string;
 }) => {
+  let processedPillars = new Set();
   const { pillarColorsMap, pillarColorScalesMap } = useMemo(() => {
     const pillarColors = pillars.map(
       (pillar) => ancillary.digitalRightPillarColorMap[pillar].base
@@ -293,7 +294,7 @@ export const DigitalRightScoreRing = ({
             return (
               <g key={`${pillar}-${index}-${index}`}>
                 <g className="text-sm">
-                  <CircleText
+                  {/* <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
                     text={pillar as string}
@@ -301,7 +302,7 @@ export const DigitalRightScoreRing = ({
                     stroke="white"
                     strokeWidth={4}
                     className="hidden md:block"
-                  />
+                  /> */}
                   <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
@@ -336,7 +337,12 @@ export const DigitalRightScoreRing = ({
                 {/* <text x={endPoint[0]} y={endPoint[1]} textAnchor={endPoint[0] < 0 ? "start" : "end"}>
                 {pillar}
               </text> */}
+                 
                 {pillars.map((pillar, index) => {
+                  if (processedPillars.has(pillar)) {
+                    return null;
+                  }
+                  processedPillars.add(pillar);
                   //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredPillar === pillar;
                   const mainArc = getArc(
@@ -481,14 +487,14 @@ export const DigitalRightScoreRing = ({
                           dominantBaseline="middle"
                         >
                           <text
-                            y={index == 2 ? -2 : -1}
+                           y={index == 2 ? -2 : -1}
                             className={` ${
                               isHovered ? "text-indigo-500" : ""
                             } text-xs md:text-base`}
                           >
                             {pillar}
                           </text>
-                          <text y="15" className="font-light">
+                          <text y="15" className="font-light" >
                             {value}
                           </text>
                           {/* {!!rank && (
@@ -502,49 +508,7 @@ export const DigitalRightScoreRing = ({
                           )} */}
                         </g>
                       )}
-                      {(hasData || value >= 0) && (
-                        <g
-                          className={`md:hidden sp-txt text-sm ${
-                            isHovered
-                              ? "text-black font-semibold"
-                              : "text-gray-500"
-                          } fill-current transition-all duration-150`}
-                          transform={`translate(${endPoint[0] + offset[0]},${
-                            endPoint[1] + offset[1]
-                          })`}
-                          textAnchor={placement}
-                          dominantBaseline="middle"
-                        >
-                          {isHovered && (
-                            <>
-                              <text
-                                // x=""
-                                // y="-8"
-                                className={`font-semibold ${
-                                  isHovered ? "text-indigo-500" : ""
-                                } text-xs md:text-base `}
-                              >
-                                {pillar}
-                              </text>
-                            </>
-                          )}
-
-                          {/* {
-                            <text y="15" className="font-light">
-                              {value}
-                            </text>
-                          } */}
-                          {/* {!!rank && (
-                          <text
-                            y="-18"
-                            className="font-light opacity-80 text-xs"
-                          >
-                            {rank}
-                            {getOrdinal(rank)}
-                          </text>
-                        )} */}
-                        </g>
-                      )}
+                     
                     </g>
                   );
                 })}
