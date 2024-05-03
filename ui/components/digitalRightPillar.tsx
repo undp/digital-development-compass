@@ -5,7 +5,7 @@ import type { Country, Stage} from "database/processed/db";
 import kebabCase from "lodash/kebabCase";
 // import { useState } from "react";
 import { ProgressPill } from "./progress-pill";
-import { StageList , DigitalRightStageList } from "./stage-list";
+import { DigitalRightStageList } from "./stage-list";
 import { DigitalRightIndicatorList } from "./digital-right-indicator-list";
 import { useState } from "react";
 
