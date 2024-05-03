@@ -7,6 +7,7 @@ const { getStage, roundNumber, stageNames } = require("./utils");
 const RAW_DATABASE_DIR = path.join(__dirname, "..", "database", "raw");
 
 const DEFINITIONS_FILE = path.join(RAW_DATABASE_DIR, "definitions.csv");
+const DIGITAL_RIGHT_DEFINITIONS_FILE = path.join(RAW_DATABASE_DIR, "digital-right-definitions.csv");
 const BOUNDING_BOXES_FILE = path.join(RAW_DATABASE_DIR, "bounding-boxes.json");
 const GEOJSON_FILE = path.join(RAW_DATABASE_DIR, "country-geojson.json");
 const COUNTRIES_FILE = path.join(RAW_DATABASE_DIR, "countries-manifest.csv");
@@ -28,6 +29,7 @@ async function main() {
   const boundingBoxes = require(BOUNDING_BOXES_FILE);
   const geojson = require(GEOJSON_FILE);
   const definitions = await csvtojson().fromFile(DEFINITIONS_FILE);
+  const digital_right_definitions = await csvtojson().fromFile(DIGITAL_RIGHT_DEFINITIONS_FILE);
   const countries = await csvtojson().fromFile(COUNTRIES_FILE);
   const pillar_definitions = await csvtojson().fromFile(PILLAR_DEFINITIONS);
   const digital_right_pillar_definitions = await csvtojson().fromFile(DIGITAL_RIGHT_PILLAR_DEFINITIONS);
@@ -103,6 +105,15 @@ async function main() {
     return acc;
   }, {});
 
+  const digital_right_pillarMap = digitalRightPillarNames.reduce((acc, pillar) => {
+    acc[pillar] = _.uniq(
+      digital_right_definitions
+        .filter((definition) => definition["Pillar"] === pillar)
+        .filter(Boolean)
+    );
+    return acc;
+  }, {});
+
   function getStageInfo(value = 0, pillar, subpillar) {
     if (value === null) return;
     const stage = getStage(value);
@@ -112,6 +123,26 @@ async function main() {
         (d) =>
           d["Pillar"] === pillar &&
           (!subpillar || d["Sub-Pillar"] === subpillar)
+      ) || "";
+    const stageInfo = definition[stageName];
+    if (!stageInfo){
+      stageInfo == ""
+    };
+    return {
+      number: stage,
+      name: stageName,
+      description: stageInfo,
+    };
+  }
+
+  function digital_right_getStageInfo(value = 0, pillar) {
+    if (value === null) return;
+    const stage = getStage(value);
+    const stageName = stageNames[stage - 1];
+    const definition =
+    digital_right_definitions.find(
+        (d) =>
+          d["Pillar"] === pillar
       ) || "";
     const stageInfo = definition[stageName];
     if (!stageInfo){
@@ -325,6 +356,7 @@ async function main() {
     let digitalRightsBaseScores = digitalRightPillarNames
     .reduce((acc, next) => {
       let score = getDigitalRightPillarScore(countryName, next);
+      let sscore = (score==0 ? 0 :roundNumber(parseFloat(score), 2));
       let confidence = getDigitalRightPillarConfidence(countryName, next);
       let rank = getDigitalRightPillarRank(countryName, next);
       //let multivariable = getUniqueSubpillarCount(countryName, next); 
@@ -333,9 +365,20 @@ async function main() {
       //let final_score = dividedRank / divisionVariable ;
       acc[next] = {
         rank,
-        score: roundNumber(parseFloat(score), 2),
+        score: sscore,
         confidence: roundNumber(parseFloat(confidence), 2),
-        stage: null
+        stage: digital_right_getStageInfo(score, next) || null,
+        // ...digital_right_pillarMap[next].reduce((subAcc, sp) => {
+        //   let stage = digital_right_getStageInfo(score, next, sp);
+        //   let sscore = (score==0 ? 0 :roundNumber(parseFloat(score), 2));
+        //   subAcc[sp] = {
+        //   //  rank: getSubpillarRank(country["Country or Area"], next, sp),
+        //     score: sscore,
+        //     confidence: roundNumber(parseFloat(confidence), 2),
+        //     stage: stage || null,
+        //   };
+        //   return subAcc;
+        // }, {}),
       };
       return acc;
     }, {});
@@ -371,7 +414,8 @@ async function main() {
     pillar_definitions,
     pillarNames,
     digital_right_scores,
-    digital_right_pillar_definitions
+    digital_right_pillar_definitions,
+    digital_right_definitions
   }; 
   // Used to more easily access the pillar data in the frontend.
   const ancillary = `export default {

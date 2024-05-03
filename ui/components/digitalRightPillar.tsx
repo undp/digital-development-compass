@@ -1,12 +1,13 @@
 import pillarIcons from "components/icons";
 import { DigitalRightsPillar} from "database/ancillary";
 import ancillary from "database/processed/ancillary";
-import type { Country} from "database/processed/db";
+import type { Country, Stage} from "database/processed/db";
 import kebabCase from "lodash/kebabCase";
 // import { useState } from "react";
 import { ProgressPill } from "./progress-pill";
-// import { StageList } from "./stage-list";
+import { StageList , DigitalRightStageList } from "./stage-list";
 import { DigitalRightIndicatorList } from "./digital-right-indicator-list";
+import { useState } from "react";
 
 interface Props {
   country: Country;
@@ -61,18 +62,17 @@ const PillarList = (props: PillarListProps) => {
             {/* {score} */}
           </span>
         ) : (
-          <span className="text-sm text-gray-600">No data</span>
+          <span className="text-sm text-gray-600"></span>
         )}
       </div>
       {stage && (
         <div className="mt-4">
           <div className="pb-3 relative">
-            {/* <StageInfo
+            <StageInfo
               stage={stage}
               color={color}
               pillar={pillar}
-              subpillar={subpillar}
-            /> */}
+            />
           </div>
           {confidence && (
             <ProgressPill
@@ -191,48 +191,45 @@ export const DigitalRightsPillars = ({
   );
 };
 
-// const StageInfo = ({
-//   stage,
-//   color,
-//   pillar,
-//   subpillar,
-// }: {
-//   stage: Stage | null;
-//   color: string;
-//   pillar: DigitalRightsPillar;
-//   subpillar?: SubPillar;
-// }) => {
-//   const [showAllStages, setShowAllStages] = useState(false);
+const StageInfo = ({
+  stage,
+  color,
+  pillar,
+}: {
+  stage: Stage | null;
+  color: string;
+  pillar: DigitalRightsPillar;
+}) => {
+  const [showAllStages, setShowAllStages] = useState(false);
 
-//   if (!stage)
-//     return <p className="text-gray-600 text-sm">No stage data available.</p>;
+  if (!stage)
+    return <p className="text-gray-600 text-sm">No stage data available.</p>;
 
-//   return (
-//     <> 
-//       {showAllStages ? (
-//         <StageList
-//           currentStage={stage?.number}
-//           color={color}
-//           pillar={pillar}
-//           subpillar={subpillar}
-//         />
-//       ) : (
-//         <div>
-//           <p
-//             style={{ color }}
-//             className="text-xs font-semibold uppercase tracking-widest"
-//           >
-//             Stage {stage.number}: {stage.name}
-//           </p>
-//           <p className="text-sm text-gray-600">{stage.description}</p>
-//         </div>
-//       )}
-//       <button
-//         className="mt-2 text-sm text-slate-500 underline"
-//         onClick={() => setShowAllStages((curr) => !curr)}
-//       >
-//         Show {showAllStages ? "just the current stage" : "all stages"}
-//       </button>
-//     </>
-//   );
-// };
+  return (
+    <> 
+      {showAllStages ? (
+        <DigitalRightStageList
+          currentStage={stage?.number}
+          color={color}
+          pillar={pillar}
+        />
+      ) : (
+        <div>
+          <p
+            style={{ color }}
+            className="text-xs font-semibold uppercase tracking-widest"
+          >
+            Stage {stage.number}: {stage.name}
+          </p>
+          <p className="text-sm dp-text-color">{stage.description}</p>
+        </div>
+      )}
+      <button
+        className="mt-2 text-sm dp-text-color underline"
+        onClick={() => setShowAllStages((curr) => !curr)}
+      >
+        Show {showAllStages ? "just the current stage" : "all stages"}
+      </button>
+    </>
+  );
+};
