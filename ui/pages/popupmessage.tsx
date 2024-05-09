@@ -88,7 +88,7 @@ const PopupMessage = () => {
           <span className="text-sm text-gray-600">{`${currentPage + 1} of ${totalPages}`}</span>
           <button
             onClick={handleNext}
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-r focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
           >
             Next
           </button>
