@@ -13,7 +13,7 @@ import Error from "next/error";
 import Link from "next/link";
 import DigitalRightScoreRing from "components/digital-right-score-ring";
 import { DigitalRightsPillars } from "components/digitalRightPillar";
-import { RiArrowRightDownLine} from "react-icons/ri";
+import { RiArrowRightDownLine } from "react-icons/ri";
 
 type Props = {
   layoutCountries: {
@@ -96,16 +96,16 @@ const StaticPropsDetail = ({
           )}
         </div>
       </section>
-      <div className="relative flex items-center md:hidden lg:hidden">
+      <div className="relative flex items-center justify-center md:hidden lg:hidden">
         {country.digitalRightDataAvailable && (
-          <div className="w-4/5 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+          <div className="text-center">
             <a
               href="#country-meta-dr"
               onClick={handleScroll}
-              className="bg-white border-2 border-brand-blue-dark hover:bg-brand-blue-dark hover:text-white px-2 py-1 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center md:px-4 md:py-2 md:text-sm lg:px-6 lg:py-3 lg:text-base font-semibold no-underline"
+              className="bg-white border-2 border-brand-blue-dark hover:bg-brand-blue-dark hover:text-white px-4 py-2 text-sm uppercase tracking-wide text-brand-blue-dark flex items-center justify-center md:px-6 md:py-3 md:text-base lg:px-8 lg:py-4 lg:text-lg font-semibold no-underline"
             >
               <span>JUMP TO DIGITAL RIGHTS DASHBOARD</span>
-              < RiArrowRightDownLine className="text-base ml-2 md:text-lg lg:text-xl" />
+              <RiArrowRightDownLine className="text-lg ml-2 md:text-xl lg:text-2xl" />
             </a>
           </div>
         )}

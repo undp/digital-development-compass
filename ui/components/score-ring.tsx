@@ -300,14 +300,14 @@ export const ScoreRing = ({
               innerRingR[0] + r * 0.1
             );
             iconPosition[1] -= height / 2;
-
+               const pillarsName = pillar == "Digital Public Infrastructure" ? "DPI" : pillar; 
             return (
               <g key={`${pillar}-${index}`}>
                 <g className="text-sm">
                   <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
-                    text={pillar as string}
+                    text={pillarsName as string}
                     r={innerRingR[1] - r * 0.05}
                     stroke="white"
                     strokeWidth={4}
@@ -316,7 +316,7 @@ export const ScoreRing = ({
                   <CircleText
                     id={`name-${pillar}`}
                     rotate={midAngle / (Math.PI / 180)}
-                    text={pillar as string}
+                    text={pillarsName as string}
                     r={innerRingR[1] - r * 0.05}
                     fill={color}
                     className="hidden md:block"
