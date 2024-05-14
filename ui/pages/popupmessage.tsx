@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import LogoSVG from "../public/undp-logo.svg";
 
@@ -22,15 +22,22 @@ const slides = [
   },
   {
     content: "<b>Elevated User Experience:</b> Enjoy a smoother experience! We've revamped the DDC's visualizations and usability for a more intuitive and informative exploration.",
-    content1: "We're confident these improvements will make the DDC an even more valuable tool for navigating the ever-evolving digital landscape."
+    content1: "We're confident these improvements will make the DDC an even more valuable tool for navigating the ever-evolving digital landscape. Stay tuned for further updates!"
   },
   // Add more slides as needed
 ];
 
 const PopupMessage = () => {
-  const [isOpen, setIsOpen] = useState(true);
-  const [currentPage, setCurrentPage] = useState(0); // Change to index-based state (starting from 0)
-  const totalPages = slides.length; // Set total pages based on slides length
+  const [isOpen, setIsOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState(0);
+  const totalPages = slides.length;
+
+  useEffect(() => {
+    const hasSeenPopup = localStorage.getItem('hasSeenPopup');
+    if (!hasSeenPopup) {
+      setIsOpen(true);
+    }
+  }, []);
 
   const handleNext = () => {
     if (currentPage < totalPages - 1) {
@@ -42,6 +49,11 @@ const PopupMessage = () => {
     if (currentPage > 0) {
       setCurrentPage(currentPage - 1);
     }
+  };
+
+  const handleClose = () => {
+    setIsOpen(false);
+    localStorage.setItem('hasSeenPopup', 'true'); // Store the flag in localStorage
   };
 
   return (
@@ -62,7 +74,7 @@ const PopupMessage = () => {
             <h2 className="ml-1 text-lg">Digital Development Compass</h2>
           </div>
           <button
-            onClick={() => setIsOpen(false)}
+            onClick={handleClose}
             className="text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-500 rounded"
           >
             <span className="text-2xl">&times;</span> {/* Unicode cross character */}
@@ -72,16 +84,17 @@ const PopupMessage = () => {
           <h1 className="text-2xl font-bold">
             {slides[currentPage].title}
           </h1>
-          <h1 className="text-xl">
+          <h1 className="text-lg">
             {slides[currentPage].title1}
           </h1>
-          <div className="text-gray-600" dangerouslySetInnerHTML={{ __html: slides[currentPage].content }} />
+          <div className="text-gray-600 pt-1" dangerouslySetInnerHTML={{ __html: slides[currentPage].content }} />
           <div className="text-gray-600 pt-3" dangerouslySetInnerHTML={{ __html: slides[currentPage].content1 || "" }} />
         </div>
         <div className="px-4 py-4 sm:px-6 flex justify-between items-center border-t">
           <button
             onClick={handleBack}
             className="text-gray-800 hover:bg-gray-200 font-bold py-2 px-4 rounded-l focus:outline-none focus:ring-2 focus:ring-gray-300"
+            disabled={currentPage === 0}
           >
             Back
           </button>
@@ -89,6 +102,7 @@ const PopupMessage = () => {
           <button
             onClick={handleNext}
             className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            disabled={currentPage === totalPages - 1}
           >
             Next
           </button>
