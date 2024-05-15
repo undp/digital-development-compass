@@ -2,7 +2,7 @@ import { DigitalRightsPillar} from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { useState } from "react";
-import { FaLink, FaSourcetree } from "react-icons/fa";
+import { FaLink} from "react-icons/fa";
 import useSWR from "swr";
 
 interface IndicatorListProps {
