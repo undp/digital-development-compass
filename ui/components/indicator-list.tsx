@@ -1,7 +1,8 @@
 import { Pillar } from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
-import { FaLink, FaSourcetree } from "react-icons/fa";
+import { useState } from "react";
+import { FaLink } from "react-icons/fa";
 import useSWR from "swr";
 
 interface IndicatorListProps {
@@ -178,19 +179,62 @@ const Indicator = ({
       year: indicator["Year"],
     }))
     .filter((indicator) => indicator.source && indicator.link);
-    const value = +(isShowingRawScores
-      ? indicator.data_col
-      : indicator.new_rank_score);
-    const disp_val = (value==0 ? 0 : roundNumber(value,2));
+  const value = +(isShowingRawScores
+    ? indicator.data_col
+    : indicator.new_rank_score);
+  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
+  const [isHovered, setIsHovered] = useState(false);
+
+  const renderValue = () => {
+    if (isShowingRawScores && indicator.raw_data_col) {
+      const number = parseFloat(indicator.raw_data_col);
+      if (!isNaN(number)) {
+        return number;  
+      }
+      if (indicator.raw_data_col.length > 3) {
+        return (
+          <span
+            onMouseEnter={() => setIsHovered(true)}
+            onMouseLeave={() => setIsHovered(false)}
+          >
+            {indicator.raw_data_col.substring(0, 3)}...
+          </span>
+        );
+      } else {
+        return indicator.raw_data_col;
+      }
+    } else {
+      return hasNoData ? "Data unavailable" : disp_val;
+    }
+  };
+
+  const getWidthClass = () => {
+    if (indicator.raw_data_col.length <= 7) {
+      return "w-auto";
+    }
+    if (indicator.raw_data_col.length < 20) {
+      return "sm:w-40 md:w-70 lg:w-128";
+    }
+    return "sm:w-80 md:w-80 lg:w-128";
+  };
+
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator.Indicator}</span>
-        <span className="font-mono text-xs ml-4 flex-shrink-0">
-          {hasNoData ? "Data unavailable" : disp_val}
+        <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
+          {renderValue()}
+          {isHovered && (
+            <div
+              className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
+              ${getWidthClass()} p-2`}
+            >
+              {indicator.raw_data_col}
+            </div>
+          )}
         </span>
       </div>
-      {isShowingRawScores && indicator.raw_data_col && (
+      {/* {isShowingRawScores && indicator.raw_data_col && (
         <ul className="mt-1 mb-2 divide-y-1">
           <li className="text-slate-600 text-xs mb-3">
             <div className="group flex items-center">
@@ -199,7 +243,7 @@ const Indicator = ({
             </div>
           </li>
         </ul>
-      )}
+      )} */}
       {/* {isShowingRawScores && !indicator.raw_data_col && (
         <ul className="mt-1 mb-2 divide-y-1">
           <li className="text-slate-600 text-xs mb-3">
