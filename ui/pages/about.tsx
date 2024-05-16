@@ -573,12 +573,9 @@ const Scrollytelling = ({ country }: { country: any }) => {
           )}
 
           {currentStepIndex > 1 && currentStepIndex < 5 && (
-            <>
-              <SolarSystem
-                isExpandedDefault={currentStepIndex === 4}
-                isHighlightingPillars={currentStepIndex === 3}
-              />
-            </>
+            <div className="SolarSystem w-[min(70vh,100%)] pointer-events-[all]">
+                <img src="/DTF.gif" alt="DTF Animation" />
+            </div>
           )}
 
           {currentStepIndex > 4 && currentStepIndex < 7 && (
