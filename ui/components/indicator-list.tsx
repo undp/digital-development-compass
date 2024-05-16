@@ -191,17 +191,22 @@ const Indicator = ({
       if (!isNaN(number)) {
         return number;  
       }
-      if (indicator.raw_data_col.length > 3) {
+      const cleanedData = indicator.raw_data_col.replace(/^["']+|["']+$/g, '').trim();
+
+      if (cleanedData.length > 9) {
+        // Find the first word
+        const firstWord = cleanedData.split(' ')[0];
+        
         return (
           <span
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
           >
-            {indicator.raw_data_col.substring(0, 3)}...
+            {firstWord}...
           </span>
         );
       } else {
-        return indicator.raw_data_col;
+        return cleanedData;
       }
     } else {
       return hasNoData ? "Data unavailable" : disp_val;
@@ -229,7 +234,7 @@ const Indicator = ({
               className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
               ${getWidthClass()} p-2`}
             >
-              {indicator.raw_data_col}
+              {indicator.raw_data_col.replace(/^["']+|["']+$/g, '').trim()}
             </div>
           )}
         </span>
