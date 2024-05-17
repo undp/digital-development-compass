@@ -199,6 +199,10 @@ const Indicator = ({
 
 
   const getWidthClass = () => {
+    if (!indicator || !indicator.raw_data_col) {
+      return "";
+    }
+  
     if (indicator.raw_data_col.length <= 7) {
       return "w-auto";
     }
