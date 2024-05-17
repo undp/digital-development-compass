@@ -31,10 +31,12 @@ export const ScoreRing = ({
   country,
   pillars: pillarData,
   defaultHoveredSubpillar,
+  type
 }: {
   country: Country;
   pillars: typeof ancillary.pillars;
   defaultHoveredSubpillar?: string;
+  type?:string
 }) => {
   const pillars = useMemo(() => {
     return Object.keys(pillarData)
@@ -345,6 +347,8 @@ export const ScoreRing = ({
                   </g>
                 </g>
                 {subpillars.map((subpillar,index) => {
+                 let yText  =  type == 'data' ?  (index == 2 ? -10: -8) : (index == 2 ? 4: 9) ;
+                 let yValue  =  type == 'data' ? 15 : 24;
                 //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredSubpillar === subpillar;
                   const mainArc = getArc(
@@ -498,14 +502,14 @@ export const ScoreRing = ({
                           dominantBaseline="middle"
                         >
                           <text 
-                             y= {index == 2 ? -10: -8}
+                             y= {yText}
                             className={`font-semibold ${
                               isHovered ? "text-indigo-500" : ""
                             } text-xs md:text-base`}
                           >
                             {subpillar}
                           </text>
-                          <text y="15" className="font-light">
+                          <text y={yValue} className="font-light">
                             {value}
                           </text>
                           {/* {!!rank && (
