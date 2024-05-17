@@ -592,6 +592,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
                       }
                 }
                 pillars={ancillary.pillars}
+                type={'about'}
               />
             </div>
           )}

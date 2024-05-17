@@ -76,7 +76,7 @@ const StaticPropsDetail = ({
               </p>
             </div>
           </div>
-          <ScoreRing pillars={ancillary.pillars} country={country} />
+          <ScoreRing pillars={ancillary.pillars} country={country} type={'data'} />
         </div>
         <div className="hidden md:block lg:block relative">
           {country.digitalRightDataAvailable ? (
