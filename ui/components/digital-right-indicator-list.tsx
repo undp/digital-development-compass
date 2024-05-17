@@ -218,7 +218,7 @@ const Indicator = ({
         <span className="text-sm">{indicator?.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
           {renderValue()}
-          {isHovered && (
+          {isHovered && (!indicator?.Indicator || !indicator?.raw_data_col) && (
               <div className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
               ${getWidthClass()} p-2`}>
               {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, '').trim() || ''}
