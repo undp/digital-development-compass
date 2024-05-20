@@ -68,7 +68,7 @@ const StaticPropsDetail = ({
               </p>
             </div>
           </div>
-          <ScoreRing pillars={ancillary.pillars} country={country} />
+          <ScoreRing pillars={ancillary.pillars} country={country} type={'data'} />
         </div>
       </section>
       <section id="pillars" className="my-16 relative">
