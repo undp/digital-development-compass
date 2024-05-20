@@ -28,6 +28,7 @@ export default function Methodology(
     if (typeof window === "undefined") return;
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+
   const handleDownloadClick = (
     event: React.MouseEvent<HTMLAnchorElement, MouseEvent>
   ) => {
@@ -48,17 +49,18 @@ export default function Methodology(
         });
     }
   };
+
   return (
     <Layout title="Methodology" countries={countries}>
-      <div className="py-16">
+      <div className="py-8 sm:py-16">
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-            <div className="max-w-[40em] py-10 text-lg text-center">
+            <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
               <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
                 Methodology
               </h2>
             </div>
-            <div className="max-w-[40em] space-y-9 text-justify ">
+            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 What is the Digital Development Compass?
               </h2>
@@ -94,8 +96,7 @@ export default function Methodology(
                 share their advancements openly to ensure accurate
                 representation in the DDC.
               </p>
-
-              <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
+              <h2 className="text-2xl md:tracking-normal">
                 How should the DCC be used?
               </h2>
               <p>
@@ -109,11 +110,10 @@ export default function Methodology(
                 offering countries an expedient means to explore and leverage
                 UNDP's digital capabilities.
               </p>
-
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 The Digital Transformation Framework
               </h2>
-              <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
+              <h2 className="text-2xl md:tracking-normal">
                 Defining Digital Development
               </h2>
               <p>
@@ -132,8 +132,7 @@ export default function Methodology(
                 the Digital Transformation Framework to discover & compare
                 progress across a range of key issues.
               </p>
-
-              <h2 className="max-w-[40em] space-y-9 text-xl md:tracking-normal">
+              <h2 className="text-xl md:tracking-normal">
                 Overview of the Digital Transformation framework
               </h2>
               <p>
@@ -178,15 +177,13 @@ export default function Methodology(
                 <Image
                   src={overviewofTDTF}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-64 h-64"
+                  className="w-full sm:w-64 h-auto"
                 />
                 <p className="text-center mt-2">
                   <em>UNDP’s The Digital Transformation Framework</em>
                 </p>
               </div>
-              <h2 className="max-w-[40em] space-y-9 text-xl">
-                Pillars and sub-pillar
-              </h2>
+              <h2 className="text-xl">Pillars and sub-pillar</h2>
               <p>
                 Table 1 provides a list of the pillars and the underlying
                 sub-pillars constituting UNDP’s Inclusive Whole-of-Society
@@ -213,9 +210,7 @@ export default function Methodology(
               <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
                 Measuring Digital Development
               </h2>
-              <h2 className="max-w-[40em] space-y-9 text-2xl">
-                Stages of digital development
-              </h2>
+              <h2 className="text-2xl">Stages of digital development</h2>
               <p>
                 Each country's digital readiness is assessed across five stages
                 of digital development as indicated Figure 2, which encompass
@@ -225,7 +220,7 @@ export default function Methodology(
                 <Image
                   src={fiveStage}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-84 h-84"
+                  className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
                   <em>
@@ -248,7 +243,7 @@ export default function Methodology(
                 <Image
                   src={transformation}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-84 h-84"
+                  className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
                   <em>
@@ -262,12 +257,10 @@ export default function Methodology(
                 </p>
               </div>
             </div>
-
             <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
               Digital Development Score Methodology
             </h2>
-
-            <div className="max-w-[40em] space-y-9 text-justify">
+            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <p>
                 The software and data that are used to put together the DDC are
                 open source and in the process of becoming Digital Public Goods.
@@ -283,11 +276,9 @@ export default function Methodology(
                 volunteers have helped to develop the novel scripts used in the
                 process.
               </p>
-
-              <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
+              <h2 className="text-2xl md:tracking-normal">
                 1. Indicator Selection
               </h2>
-
               <p>
                 UNDP conducted a review of the 200+ indicators that formed the
                 first version of the Compass. This indicator evaluation had two
@@ -348,9 +339,10 @@ export default function Methodology(
               </p>
               <p>
                 <DimensionsTable />
-                <p className="text-center mt-2">
-                  <em>Table 2. Data evaluation questions</em>
-                </p>
+              </p>
+
+              <p className="text-center mt-2">
+                <em>Table 2. Data evaluation questions</em>
               </p>
               <div className="p-0">
                 <p>
@@ -365,7 +357,7 @@ export default function Methodology(
                   </a>
                   . Sources of the data sets include among others:
                 </p>
-                <div className="pl-20">
+                <div className="pl-5">
                   <ul className="list-disc mt-2">
                     <li>World Bank: World Development Indicators</li>
                     <li>GSMA: Mobile Connectivity Index</li>
@@ -378,7 +370,7 @@ export default function Methodology(
                 </div>
               </div>
               {/* 2. Data Collection */}
-              <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
+              <h2 className="text-2xl md:tracking-normal">
                 2. Data Collection
               </h2>
               <p>
@@ -389,7 +381,6 @@ export default function Methodology(
                 PDFs, and documents and convert them into a machine-readable
                 format.
               </p>
-
               <p>
                 However, while automation can be applied to most websites from
                 which data is collected, certain platforms require manual
@@ -406,7 +397,7 @@ export default function Methodology(
                 <Image
                   src={githubUNDPdiagram}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-84 h-84"
+                  className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
                   {" "}
@@ -424,8 +415,7 @@ export default function Methodology(
                 notification is sent to administrators, and new links are
                 updated manually.
               </p>
-
-              <h2 className="max-w-[40em] space-y-9 text-2xl md:tracking-normal">
+              <h2 className="text-2xl md:tracking-normal">
                 3. Score Calculation Methodology
               </h2>
               <p>
@@ -434,16 +424,12 @@ export default function Methodology(
                 section includes the approach to normalization, weighting
                 indicators and imputation of missing scores.
               </p>
-              <h2 className="max-w-[40em] space-y-9 text-xl md:tracking-normal">
-                Normalisation
-              </h2>
+              <h2 className="text-xl md:tracking-normal">Normalisation</h2>
               <p>
                 The indicators used within the compass have been normalized
                 using Min-Max rescaling.
               </p>
-              <h2 className="max-w-[40em] space-y-9 text-lg md:tracking-normal">
-                Min-Max rescaling
-              </h2>
+              <h2 className="text-lg md:tracking-normal">Min-Max rescaling</h2>
               <p>
                 The following formula creates a score between 0 and 1. It does
                 so by creating a scale with a maximum possible score of 1 that
@@ -455,14 +441,12 @@ export default function Methodology(
                 <Image
                   src={MinMaxScale}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-64 h-64"
+                  className="w-full sm:w-64 h-auto"
                 />
               </p>
-
               <p>
                 <u>Scaling and normalization of categorical data</u>
               </p>
-
               <p>
                 The categories are identified in the dataset and numerical
                 values are assigned to each category. Each category has a unique
@@ -494,8 +478,7 @@ export default function Methodology(
                 data. Min-Max normalization is used for normalization of these
                 data types as well.{" "}
               </p>
-
-              <h2 className="max-w-[40em] space-y-9 text-xl md:tracking-normal">
+              <h2 className="text-xl md:tracking-normal">
                 Indicator weightings
               </h2>
               <p>
@@ -564,9 +547,7 @@ export default function Methodology(
                   within a sub-pillar.
                 </li>
               </ol>
-              <h2 className="max-w-[40em] space-y-9 text-xl md:tracking-normal">
-                Imputing scores
-              </h2>
+              <h2 className="text-xl md:tracking-normal">Imputing scores</h2>
               <p className="mb-4">
                 For indicators where there are gaps in country data, or where an
                 indicator has not collected data from particular countries,
@@ -616,7 +597,6 @@ export default function Methodology(
                 by missing data, the model is run 10 times – the average of
                 these 10 imputations is then used to impute the missing value.
               </p>
-
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 Definitions and scales
               </h2>
@@ -675,7 +655,7 @@ export default function Methodology(
           </div>
         </div>
         <div className="pt-10 overflow-x-auto">
-          <table className="w-3/5 mx-auto bg-white border border-gray-300">
+          <table className="w-full sm:w-3/5 mx-auto bg-white border border-gray-300">
             {/* people */}
             <thead
               style={{
@@ -1260,7 +1240,6 @@ export default function Methodology(
           </button>
         </div>
       </div>
-
       {/* typeform chat overlay */}
       <div
         data-tf-popover="BYPpMpFy"
@@ -1341,13 +1320,13 @@ export function PillarsTable() {
 
 export function DimensionsTable() {
   return (
-    <div className="overflow-x-auto p-5">
+    <div className="overflow-x-auto">
       <table className="min-w-full bg-white border border-gray-300">
         <thead style={{ backgroundColor: "#3b82f6", color: "#ffffff" }}>
           <tr>
-            <th className="px-4 py-2 border border-gray-300">Dimension</th>
-            <th className="px-4 py-2 border border-gray-300">Question</th>
-            <th className="px-4 py-2 border border-gray-300">Type</th>
+            <th className="px-1 py-2 border border-gray-300">Dimension</th>
+            <th className="px-1 py-2 border border-gray-300">Question</th>
+            <th className="px-1 py-2 border border-gray-300">Type</th>
           </tr>
         </thead>
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
@@ -1355,30 +1334,30 @@ export function DimensionsTable() {
             <React.Fragment key={index}>
               <tr>
                 <td
-                  className="px-4 py-2 border border-gray-300 align-top"
+                  className="px-1 py-2 border border-gray-300 align-top"
                   rowSpan={item.questions.length}
                 >
                   {item.dimension}
                 </td>
-                <td className="px-4 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300">
                   {item.questions[0].question}
                 </td>
-                <td className="px-4 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300">
                   {item.questions[0].type}
                 </td>
               </tr>
               {item.questions.slice(1).map((question, qIndex) => (
                 <tr key={qIndex}>
-                  <td className="px-4 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300">
                     {question.question}
                     {question.subQuestions &&
                       question.subQuestions.map((subQuestion, subIndex) => (
                         <tr key={subIndex}>
-                          <td className="px-4">- {subQuestion}</td>
+                          <td className="px-1">- {subQuestion}</td>
                         </tr>
                       ))}
                   </td>
-                  <td className="px-4 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300">
                     {question.type}
                   </td>
                 </tr>
