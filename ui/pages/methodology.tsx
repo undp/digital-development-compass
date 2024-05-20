@@ -337,9 +337,10 @@ export default function Methodology(
                 meet the evaluation criteria, the indicator will not be included
                 in the Digital Development Compass.
               </p>
-              <p>
+
+              <div className="max-w-[20em] sm:max-w-[20em] md:max-w-[40em] lg:max-w-[40em] mx-auto px-4">
                 <DimensionsTable />
-              </p>
+              </div>
 
               <p className="text-center mt-2">
                 <em>Table 2. Data evaluation questions</em>
@@ -1317,19 +1318,18 @@ export function PillarsTable() {
     </div>
   );
 }
-
 export function DimensionsTable() {
   return (
     <div className="overflow-x-auto">
-      <table className="min-w-full bg-white border border-gray-300">
-        <thead style={{ backgroundColor: "#3b82f6", color: "#ffffff" }}>
+      <table className="min-w-full sm:4 bg-white border border-gray-300">
+        <thead className="bg-brand-blue text-white">
           <tr>
             <th className="px-1 py-2 border border-gray-300">Dimension</th>
             <th className="px-1 py-2 border border-gray-300">Question</th>
             <th className="px-1 py-2 border border-gray-300">Type</th>
           </tr>
         </thead>
-        <tbody style={{ backgroundColor: "#f3f4f6" }}>
+        <tbody className="bg-gray-100">
           {dimensionsTable.map((item, index) => (
             <React.Fragment key={index}>
               <tr>
@@ -1341,6 +1341,14 @@ export function DimensionsTable() {
                 </td>
                 <td className="px-1 py-2 border border-gray-300">
                   {item.questions[0].question}
+                  {item.questions[0].subQuestions &&
+                    item.questions[0].subQuestions.map(
+                      (subQuestion, subIndex) => (
+                        <div key={subIndex} className="ml-4">
+                          - {subQuestion}
+                        </div>
+                      )
+                    )}
                 </td>
                 <td className="px-1 py-2 border border-gray-300">
                   {item.questions[0].type}
@@ -1352,9 +1360,9 @@ export function DimensionsTable() {
                     {question.question}
                     {question.subQuestions &&
                       question.subQuestions.map((subQuestion, subIndex) => (
-                        <tr key={subIndex}>
-                          <td className="px-1">- {subQuestion}</td>
-                        </tr>
+                        <div key={subIndex} className="ml-4">
+                          - {subQuestion}
+                        </div>
                       ))}
                   </td>
                   <td className="px-1 py-2 border border-gray-300">
