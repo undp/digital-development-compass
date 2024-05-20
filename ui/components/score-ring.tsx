@@ -31,10 +31,12 @@ export const ScoreRing = ({
   country,
   pillars: pillarData,
   defaultHoveredSubpillar,
+  type
 }: {
   country: Country;
   pillars: typeof ancillary.pillars;
   defaultHoveredSubpillar?: string;
+  type?:string
 }) => {
   const pillars = useMemo(() => {
     return Object.keys(pillarData)
@@ -345,6 +347,8 @@ export const ScoreRing = ({
                   </g>
                 </g>
                 {subpillars.map((subpillar,index) => {
+                 let yText  =  type == 'data' ?  (index == 2 ? -10: -8) : (index == 2 ? 4: 9) ;
+                 let yValue  =  type == 'data' ? 15 : 24;
                 //  const y:number = index == 8 ? - 19: -15;
                   const isHovered = hoveredSubpillar === subpillar;
                   const mainArc = getArc(
@@ -362,11 +366,17 @@ export const ScoreRing = ({
                     outerRingR[1] + r * 0.1
                   );
                   const placement =
-                    Math.abs(endPoint[0]) < 180
-                      ? "middle"
+                    Math.abs(endPoint[0]) < 40
+                      ? "end"
                       : endPoint[0] < 0
                       ? "end"
                       : "start";
+                   const placementMobile =
+                   Math.abs(endPoint[0]) < 50
+                   ? "start"
+                   : endPoint[0] < 20
+                   ? "end"
+                   : "start";
                   const offset = {
                     start: [10, 0],
                     middle: [0, -10],
@@ -433,8 +443,8 @@ export const ScoreRing = ({
                           {/* mobile */}
                           <g
                             className="transition-all md:hidden"
-                            transform={`translate(${starPosition[0] - 5} ${
-                              starPosition[1] - 32
+                            transform={`translate(${starPosition[0] - 15} ${
+                              starPosition[1] - 20
                             })`}
                           >
                             <use
@@ -492,14 +502,14 @@ export const ScoreRing = ({
                           dominantBaseline="middle"
                         >
                           <text 
-                             y= {index == 2 ? -30: 0}
+                             y= {yText}
                             className={`font-semibold ${
                               isHovered ? "text-indigo-500" : ""
                             } text-xs md:text-base`}
                           >
                             {subpillar}
                           </text>
-                          <text y="15" className="font-light">
+                          <text y={yValue} className="font-light">
                             {value}
                           </text>
                           {/* {!!rank && (
@@ -523,14 +533,13 @@ export const ScoreRing = ({
                           transform={`translate(${endPoint[0] + offset[0]},${
                             endPoint[1] + offset[1]
                           })`}
-                          textAnchor={placement}
+                          textAnchor={placementMobile}
                           dominantBaseline="middle"
                         >
                           {isHovered && (
                             <>
                               <text
-                                // x=""
-                                // y="-8"
+                                y= {index == 2 ? -20: -30}
                                 className={`font-semibold ${
                                   isHovered ? "text-indigo-500" : ""
                                 } text-xs md:text-base `}
@@ -541,7 +550,7 @@ export const ScoreRing = ({
                           )}
 
                           {
-                            <text y="15" className="font-light">
+                            <text y="-5" className="text-xs">
                               {value}
                             </text>
                           }
