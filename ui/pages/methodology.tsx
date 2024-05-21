@@ -1193,30 +1193,27 @@ export default function Methodology(
           <p className="text-center mt-2">
             <em>Table 3. DDC definitions and scales</em>
           </p>
-          <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
-
-            Download raw data file{" "}
-            <a
-              href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-              className="text-blue-300 text-lg"
-              id="downloadRawScoresFile"
-              onClick={handleDownloadClick}
-            >
-              {" "}
-              here
+        </div>
+        <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
+          Download raw data file{" "}
+          <a
+            href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+            className="text-blue-300 text-lg"
+            id="downloadRawScoresFile"
+            onClick={handleDownloadClick}
+          >
+            {" "}
+            here
+          </a>
+        </p>
+        <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
+          <Link href="/disclaimer">
+            <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
+              Disclaimer.
             </a>
-          </p>
-          <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
-            <Link href="/disclaimer">
-              <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-                Disclaimer.
-              </a>
-            </Link>
-          </p>
-        </div>
-        <div>
- 
-        </div>
+          </Link>
+        </p>
+        <div></div>
         <div className="flex justify-center mt-8">
           <button
             onClick={handleScrollToTop}
@@ -1279,17 +1276,17 @@ export function PillarsTable() {
       <table className="min-w-full border border-gray-300">
         <thead className="bg-brand-blue" style={{ color: "#ffffff" }}>
           <tr>
-            <th className="px-4 py-2 border">Pillars</th>
-            <th className="px-4 py-2 border">Sub-pillars</th>
+            <th className="px-4 py-2 border text-left">Pillars</th>
+            <th className="px-4 py-2 border text-left">Sub-pillars</th>
           </tr>
         </thead>
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
           {pillarsTableData.map((item, index) => (
             <tr key={index}>
-              <td className="px-4 py-2 border border-gray-300 align-top">
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
                 {item.pillar}
               </td>
-              <td className="px-4 py-2 border border-gray-300">
+              <td className="px-4 py-2 border border-gray-300 text-left">
                 <ul>
                   {item.subPillars.map((subPillar, subIndex) => (
                     <li key={subIndex}>{subPillar}</li>
@@ -1309,9 +1306,13 @@ export function DimensionsTable() {
       <table className="min-w-full sm:4 bg-white border border-gray-300">
         <thead className="bg-brand-blue text-white">
           <tr>
-            <th className="px-1 py-2 border border-gray-300">Dimension</th>
-            <th className="px-1 py-2 border border-gray-300">Question</th>
-            <th className="px-1 py-2 border border-gray-300">Type</th>
+            <th className="px-1 py-2 border border-gray-300 text-left">
+              Dimension
+            </th>
+            <th className="px-1 py-2 border border-gray-300 text-left">
+              Question
+            </th>
+            <th className="px-1 py-2 border border-gray-300 text-left">Type</th>
           </tr>
         </thead>
         <tbody className="bg-gray-100">
@@ -1319,12 +1320,12 @@ export function DimensionsTable() {
             <React.Fragment key={index}>
               <tr>
                 <td
-                  className="px-1 py-2 border border-gray-300 align-top"
+                  className="px-1 py-2 border border-gray-300 align-top text-left"
                   rowSpan={item.questions.length}
                 >
                   {item.dimension}
                 </td>
-                <td className="px-1 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300 text-left">
                   {item.questions[0].question}
                   {item.questions[0].subQuestions &&
                     item.questions[0].subQuestions.map(
@@ -1335,13 +1336,13 @@ export function DimensionsTable() {
                       )
                     )}
                 </td>
-                <td className="px-1 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300 text-left">
                   {item.questions[0].type}
                 </td>
               </tr>
               {item.questions.slice(1).map((question, qIndex) => (
                 <tr key={qIndex}>
-                  <td className="px-1 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300 text-left">
                     {question.question}
                     {question.subQuestions &&
                       question.subQuestions.map((subQuestion, subIndex) => (
@@ -1350,7 +1351,7 @@ export function DimensionsTable() {
                         </div>
                       ))}
                   </td>
-                  <td className="px-1 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300 text-left">
                     {question.type}
                   </td>
                 </tr>
