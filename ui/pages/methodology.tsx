@@ -8,7 +8,7 @@ import githubUNDPdiagram from "../public/undp-diagram.png";
 import overviewofTDTF from "../public/OverviewofTDTF.png";
 import fiveStage from "../public/fiveStage.png";
 import transformation from "../public/transformation.png";
-import MinMaxScale from "../public/MinMaxScale.jpg";
+import MinMaxScale from "../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React from "react";
