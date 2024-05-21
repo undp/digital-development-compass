@@ -614,44 +614,6 @@ export default function Methodology(
                 clearly within one of the five maturity stages of digital
                 development.
               </p>
-              <p>
-                {/* Indicator level scores are weighted and averaged into sub-pillar
-                scores. Presently, all indicators are weighted equally.
-                Alongside the sub-pillar score, a data availability rate is
-                calculated. This is the percentage of indicators in the
-                sub-pillar for which there is data available for a country.
-                <br />
-                <br />
-                Sub-pillar level scores are then weighted and averaged into
-                pillar scores. All sub-pillars are also weighted equally.
-                <br />
-                <br />
-                Where data for a country is not available for an indicator, this
-                indicator is omitted from the calculation of a sub-pillar score.
-                Instead, an average of the indicator data that is available is
-                used. Similarly, where no data is available for a sub-pillar,
-                this sub-pillar is omitted from the calculation of the overall
-                pillar score.
-                <br />
-                <br /> */}
-                Download raw data file{" "}
-                <a
-                  href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-                  className="text-blue-300"
-                  id="downloadRawScoresFile"
-                  onClick={handleDownloadClick}
-                >
-                  {" "}
-                  here
-                </a>
-              </p>
-              <p>
-                <Link href="/disclaimer">
-                  <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-                    Disclaimer.
-                  </a>
-                </Link>
-              </p>
             </div>
           </div>
         </div>
@@ -1231,6 +1193,29 @@ export default function Methodology(
           <p className="text-center mt-2">
             <em>Table 3. DDC definitions and scales</em>
           </p>
+          <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
+
+            Download raw data file{" "}
+            <a
+              href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+              className="text-blue-300 text-lg"
+              id="downloadRawScoresFile"
+              onClick={handleDownloadClick}
+            >
+              {" "}
+              here
+            </a>
+          </p>
+          <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
+            <Link href="/disclaimer">
+              <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
+                Disclaimer.
+              </a>
+            </Link>
+          </p>
+        </div>
+        <div>
+ 
         </div>
         <div className="flex justify-center mt-8">
           <button
