@@ -22,7 +22,7 @@ export const tableData = [
       {
         subPillar: "Usage & Adoption",
         levels: [
-          "Tech for leisure, low access and adoption.",
+          "Basic: Tech for leisure, low access and adoption.",
           "Transactional: Moderate use, gaps in access.",
           "Intermediate: Complex actions, info access, tech ownership.",
           "Advanced: Complex services, reduced divide.",
@@ -128,7 +128,7 @@ export const tableData = [
         levels: [
           "  Closed: No info sharing, no feedback or evaluation.",
           "Reactionary: Limited sharing, key stakeholder input.",
-          "Informative: Regular info sharing, some stakeholder input.",
+          "Transparent: Regular info sharing, some stakeholder input.",
           "Participatory: Info sharing, broad input, partial KPIs.",
           "Collaborative: Open, stakeholder partnership, robust feedback, evaluations.",
         ],
@@ -272,11 +272,11 @@ export const tableData = [
       {
         subPillar: "Payments",
         levels: [
-          "  Traditional: Cash, checks dominate, rare digital payments.",
+          "Traditional: Cash, checks dominate, rare digital payments.",
           "Changing: Digital access, cards, online banking, cashless.",
-          "Prepaid, mobile money, no bank account.",
-          "Decoupled payments, digital wallets.",
-          "Widespread digital payments, local currencies.",
+          "Systematic: Prepaid, mobile money, no bank account.",
+          "Differentiating: Decoupled payments, digital wallets.",
+          "Transformational: Widespread digital payments, local currencies.",
         ],
       },
       {

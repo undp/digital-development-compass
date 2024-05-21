@@ -284,21 +284,8 @@ export default function Methodology(
                 first version of the Compass. This indicator evaluation had two
                 phases:
               </p>
-              <p>
-                These indicators are compiled into an Open Digital Development
-                Data Exchange that includes 189 publicly available datasets and
-                is available on{" "}
-                <a
-                  href="https://github.com/undp/digital-development-compass"
-                  className="text-blue-300"
-                  target="_blank"
-                >
-                  GitHub
-                </a>
-                . Sources of the data sets include:
-              </p>
               <ul className="list-disc pl-5">
-                <li>
+                <li className="pb-2">
                   Phase 1: Existing indicators were reviewed according to newly
                   established indicator criteria. A number of composite indexes
                   were also exploded (the term “exploded” is used, in the sense
@@ -552,37 +539,36 @@ export default function Methodology(
               <p className="mb-4">
                 For indicators where there are gaps in country data, or where an
                 indicator has not collected data from particular countries,
-                imputing scores is an option. However, imputed data is not
-                included into the scoring in the Digital Development Compass,
-                while visualization is enabled with a toggle switch giving the
-                user the option to visualise data with or without imputed
-                scores. The following methods for imputation to use it in only
-                the data visualisation are used depending on their suitability
-                within a given context:
+                imputing scores is an option. However, imputed data is{" "}
+                <b>not</b> included into the scoring in the Digital Development
+                Compass, while visualization is enabled with a toggle switch
+                giving the user the option to visualise data with or without
+                imputed scores. The following methods for imputation to use it
+                in only the data visualisation are used depending on their
+                suitability within a given context:
               </p>
               <ol className="list-decimal ml-6 space-y-4">
                 <li>
-                  <span className="font-bold">Linear interpolation:</span>{" "}
-                  Historical information can be used before implementing a
-                  modelling-based approach. If data is missing but there are
-                  values in preceding and subsequent years, linear interpolation
-                  is used.
+                  <span className="">Linear interpolation:</span> Historical
+                  information can be used before implementing a modelling-based
+                  approach. If data is missing but there are values in preceding
+                  and subsequent years, linear interpolation is used.
                 </li>
                 <li>
-                  <span className="font-bold">Extrapolation:</span> If there is
-                  no data from preceding and subsequent years, data is
-                  extrapolated as a constant value of the nearest reported data,
-                  or as a value on a trend line/curve.
+                  <span className="">Extrapolation:</span> If there is no data
+                  from preceding and subsequent years, data is extrapolated as a
+                  constant value of the nearest reported data, or as a value on
+                  a trend line/curve.
                 </li>
                 <li>
-                  <span className="font-bold">
+                  <span className="">
                     Neighbouring/similar countries’ data:
                   </span>{" "}
                   A mean average is taken based on a sample of regionally
                   neighbouring countries and/or GDP figures.
                 </li>
                 <li>
-                  <span className="font-bold">
+                  <span className="">
                     Expectation-maximisation with a bootstrapping (EMB):
                   </span>{" "}
                   The remaining missing data is imputed with an
@@ -650,7 +636,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[0].pillar}
                     </td>
                     {tableData[0].levels.map((level, levelIndex) => (
@@ -745,7 +731,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[1].pillar}
                     </td>
                     {tableData[1].levels.map((level, levelIndex) => (
@@ -840,7 +826,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[2].pillar}
                     </td>
                     {tableData[2].levels.map((level, levelIndex) => (
@@ -935,7 +921,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[3].pillar}
                     </td>
                     {tableData[3].levels.map((level, levelIndex) => (
@@ -1030,7 +1016,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[4].pillar}
                     </td>
                     {tableData[4].levels.map((level, levelIndex) => (
@@ -1125,7 +1111,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[5].pillar}
                     </td>
                     {tableData[5].levels.map((level, levelIndex) => (
