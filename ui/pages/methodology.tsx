@@ -8,7 +8,7 @@ import githubUNDPdiagram from "../public/undp-diagram.png";
 import overviewofTDTF from "../public/OverviewofTDTF.png";
 import fiveStage from "../public/fiveStage.png";
 import transformation from "../public/transformation.png";
-import MinMaxScale from "../public/MinMaxScale.jpg";
+import MinMaxScale from "../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React from "react";
@@ -180,7 +180,7 @@ export default function Methodology(
                   className="w-full sm:w-64 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>UNDP’s The Digital Transformation Framework</em>
+                  <em>Figure 1. UNDP’s The Digital Transformation Framework</em>
                 </p>
               </div>
               <h2 className="text-xl">Pillars and sub-pillar</h2>
@@ -195,15 +195,8 @@ export default function Methodology(
                 <p className="text-center mt-2">
                   <em>
                     Table 1. UNDP’s{" "}
-                    <a
-                      href="https://www.undp.org/digital/transformations"
-                      className="text-blue-300"
-                      target="_blank"
-                    >
                       Inclusive Whole-Of-Society Digital Transformation
-                      framework
-                    </a>
-                    . Pillars and sub-pillars
+                      Framework: Pillars and sub-pillars
                   </em>
                 </p>
               </div>
@@ -224,6 +217,7 @@ export default function Methodology(
                 />
                 <p className="text-center mt-2">
                   <em>
+                    Figure 2.{" "}
                     <a
                       target="_blank"
                       href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
@@ -247,9 +241,11 @@ export default function Methodology(
                 />
                 <p className="text-center mt-2">
                   <em>
+                    Figure 3.{" "}
                     <a
                       href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
                       className="text-blue-300"
+                      target="_blank"
                     >
                       Transformation framework
                     </a>{" "}
@@ -284,21 +280,8 @@ export default function Methodology(
                 first version of the Compass. This indicator evaluation had two
                 phases:
               </p>
-              <p>
-                These indicators are compiled into an Open Digital Development
-                Data Exchange that includes 189 publicly available datasets and
-                is available on{" "}
-                <a
-                  href="https://github.com/undp/digital-development-compass"
-                  className="text-blue-300"
-                  target="_blank"
-                >
-                  GitHub
-                </a>
-                . Sources of the data sets include:
-              </p>
-              <ul className="list-disc pl-5">
-                <li>
+              <ul className="list-disc pl-10">
+                <li className="pb-5">
                   Phase 1: Existing indicators were reviewed according to newly
                   established indicator criteria. A number of composite indexes
                   were also exploded (the term “exploded” is used, in the sense
@@ -348,7 +331,7 @@ export default function Methodology(
               <div className="p-0">
                 <p>
                   As a result of this assessment, Digital Development Compass
-                  includes 45 publicly available datasets and is available on{" "}
+                  includes 145 publicly available datasets and is available on{" "}
                   <a
                     href="https://github.com/undp/digital-development-compass"
                     className="text-blue-500 underline"
@@ -552,37 +535,36 @@ export default function Methodology(
               <p className="mb-4">
                 For indicators where there are gaps in country data, or where an
                 indicator has not collected data from particular countries,
-                imputing scores is an option. However, imputed data is not
-                included into the scoring in the Digital Development Compass,
-                while visualization is enabled with a toggle switch giving the
-                user the option to visualise data with or without imputed
-                scores. The following methods for imputation to use it in only
-                the data visualisation are used depending on their suitability
-                within a given context:
+                imputing scores is an option. However, imputed data is{" "}
+                <b>not</b> included into the scoring in the Digital Development
+                Compass, while visualization is enabled with a toggle switch
+                giving the user the option to visualise data with or without
+                imputed scores. The following methods for imputation to use it
+                in only the data visualisation are used depending on their
+                suitability within a given context:
               </p>
               <ol className="list-decimal ml-6 space-y-4">
                 <li>
-                  <span className="font-bold">Linear interpolation:</span>{" "}
-                  Historical information can be used before implementing a
-                  modelling-based approach. If data is missing but there are
-                  values in preceding and subsequent years, linear interpolation
-                  is used.
+                  <span className="">Linear interpolation:</span> Historical
+                  information can be used before implementing a modelling-based
+                  approach. If data is missing but there are values in preceding
+                  and subsequent years, linear interpolation is used.
                 </li>
                 <li>
-                  <span className="font-bold">Extrapolation:</span> If there is
-                  no data from preceding and subsequent years, data is
-                  extrapolated as a constant value of the nearest reported data,
-                  or as a value on a trend line/curve.
+                  <span className="">Extrapolation:</span> If there is no data
+                  from preceding and subsequent years, data is extrapolated as a
+                  constant value of the nearest reported data, or as a value on
+                  a trend line/curve.
                 </li>
                 <li>
-                  <span className="font-bold">
+                  <span className="">
                     Neighbouring/similar countries’ data:
                   </span>{" "}
                   A mean average is taken based on a sample of regionally
                   neighbouring countries and/or GDP figures.
                 </li>
                 <li>
-                  <span className="font-bold">
+                  <span className="">
                     Expectation-maximisation with a bootstrapping (EMB):
                   </span>{" "}
                   The remaining missing data is imputed with an
@@ -613,44 +595,6 @@ export default function Methodology(
                 all scores between 0 and 5 (no zero scores), the countries are
                 clearly within one of the five maturity stages of digital
                 development.
-              </p>
-              <p>
-                {/* Indicator level scores are weighted and averaged into sub-pillar
-                scores. Presently, all indicators are weighted equally.
-                Alongside the sub-pillar score, a data availability rate is
-                calculated. This is the percentage of indicators in the
-                sub-pillar for which there is data available for a country.
-                <br />
-                <br />
-                Sub-pillar level scores are then weighted and averaged into
-                pillar scores. All sub-pillars are also weighted equally.
-                <br />
-                <br />
-                Where data for a country is not available for an indicator, this
-                indicator is omitted from the calculation of a sub-pillar score.
-                Instead, an average of the indicator data that is available is
-                used. Similarly, where no data is available for a sub-pillar,
-                this sub-pillar is omitted from the calculation of the overall
-                pillar score.
-                <br />
-                <br /> */}
-                Download raw data file{" "}
-                <a
-                  href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-                  className="text-blue-300"
-                  id="downloadRawScoresFile"
-                  onClick={handleDownloadClick}
-                >
-                  {" "}
-                  here
-                </a>
-              </p>
-              <p>
-                <Link href="/disclaimer">
-                  <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-                    Disclaimer.
-                  </a>
-                </Link>
               </p>
             </div>
           </div>
@@ -688,7 +632,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[0].pillar}
                     </td>
                     {tableData[0].levels.map((level, levelIndex) => (
@@ -713,7 +657,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -783,7 +727,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[1].pillar}
                     </td>
                     {tableData[1].levels.map((level, levelIndex) => (
@@ -808,7 +752,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -878,7 +822,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[2].pillar}
                     </td>
                     {tableData[2].levels.map((level, levelIndex) => (
@@ -903,7 +847,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -973,7 +917,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[3].pillar}
                     </td>
                     {tableData[3].levels.map((level, levelIndex) => (
@@ -998,7 +942,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1068,7 +1012,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[4].pillar}
                     </td>
                     {tableData[4].levels.map((level, levelIndex) => (
@@ -1093,7 +1037,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1163,7 +1107,7 @@ export default function Methodology(
               <tr>
                 {tableData.length > 0 && (
                   <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300">
+                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
                       {tableData[5].pillar}
                     </td>
                     {tableData[5].levels.map((level, levelIndex) => (
@@ -1188,7 +1132,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1232,6 +1176,26 @@ export default function Methodology(
             <em>Table 3. DDC definitions and scales</em>
           </p>
         </div>
+        <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
+          Download raw data file{" "}
+          <a
+            href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+            className="text-blue-300 text-lg"
+            id="downloadRawScoresFile"
+            onClick={handleDownloadClick}
+          >
+            {" "}
+            here
+          </a>
+        </p>
+        <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
+          <Link href="/disclaimer">
+            <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
+              Disclaimer.
+            </a>
+          </Link>
+        </p>
+        <div></div>
         <div className="flex justify-center mt-8">
           <button
             onClick={handleScrollToTop}
@@ -1294,17 +1258,17 @@ export function PillarsTable() {
       <table className="min-w-full border border-gray-300">
         <thead className="bg-brand-blue" style={{ color: "#ffffff" }}>
           <tr>
-            <th className="px-4 py-2 border">Pillars</th>
-            <th className="px-4 py-2 border">Sub-pillars</th>
+            <th className="px-4 py-2 border text-left">Pillars</th>
+            <th className="px-4 py-2 border text-left">Sub-pillars</th>
           </tr>
         </thead>
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
           {pillarsTableData.map((item, index) => (
             <tr key={index}>
-              <td className="px-4 py-2 border border-gray-300 align-top">
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
                 {item.pillar}
               </td>
-              <td className="px-4 py-2 border border-gray-300">
+              <td className="px-4 py-2 border border-gray-300 text-left">
                 <ul>
                   {item.subPillars.map((subPillar, subIndex) => (
                     <li key={subIndex}>{subPillar}</li>
@@ -1324,9 +1288,13 @@ export function DimensionsTable() {
       <table className="min-w-full sm:4 bg-white border border-gray-300">
         <thead className="bg-brand-blue text-white">
           <tr>
-            <th className="px-1 py-2 border border-gray-300">Dimension</th>
-            <th className="px-1 py-2 border border-gray-300">Question</th>
-            <th className="px-1 py-2 border border-gray-300">Type</th>
+            <th className="px-1 py-2 border border-gray-300 text-left">
+              Dimension
+            </th>
+            <th className="px-1 py-2 border border-gray-300 text-left">
+              Question
+            </th>
+            <th className="px-1 py-2 border border-gray-300 text-left">Type</th>
           </tr>
         </thead>
         <tbody className="bg-gray-100">
@@ -1334,12 +1302,12 @@ export function DimensionsTable() {
             <React.Fragment key={index}>
               <tr>
                 <td
-                  className="px-1 py-2 border border-gray-300 align-top"
+                  className="px-1 py-2 border border-gray-300 align-top text-left font-bold"
                   rowSpan={item.questions.length}
                 >
                   {item.dimension}
                 </td>
-                <td className="px-1 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300 text-left">
                   {item.questions[0].question}
                   {item.questions[0].subQuestions &&
                     item.questions[0].subQuestions.map(
@@ -1350,13 +1318,13 @@ export function DimensionsTable() {
                       )
                     )}
                 </td>
-                <td className="px-1 py-2 border border-gray-300">
+                <td className="px-1 py-2 border border-gray-300 text-left">
                   {item.questions[0].type}
                 </td>
               </tr>
               {item.questions.slice(1).map((question, qIndex) => (
                 <tr key={qIndex}>
-                  <td className="px-1 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300 text-left">
                     {question.question}
                     {question.subQuestions &&
                       question.subQuestions.map((subQuestion, subIndex) => (
@@ -1365,7 +1333,7 @@ export function DimensionsTable() {
                         </div>
                       ))}
                   </td>
-                  <td className="px-1 py-2 border border-gray-300">
+                  <td className="px-1 py-2 border border-gray-300 text-left">
                     {question.type}
                   </td>
                 </tr>
