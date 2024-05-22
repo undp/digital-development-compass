@@ -218,7 +218,7 @@ export const tableData = [
     ],
     subPillars: [
       {
-        subPillar: "Business services",
+        subPillar: "Business",
         levels: [
           "  Adverse: Limited tech adoption, unfavorable conditions.",
           "Developing: Moderate tech, sector-specific conditions.",
@@ -240,9 +240,9 @@ export const tableData = [
       {
         subPillar: "Innovation ecosystem",
         levels: [
-          "  Stagnant: Limited graduates, outdated curriculum, lack of engagement.",
+          "Stagnant: Limited graduates, outdated curriculum, lack of engagement.",
           "Emergent: Improved communication, industry-academia ties, updated curriculum.",
-          "Siloed: Growing collaboration, international recognition, international events.",
+          "Siloed: Growing collaboration, international recognition.",
           "Interconnected: Extensive engagement, cross-sector collaboration, international events.",
           "Dynamic: Thriving ecosystem, comprehensive collaboration, strong IT career path, global ties.",
         ],
