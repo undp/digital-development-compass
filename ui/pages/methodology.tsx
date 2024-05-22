@@ -180,7 +180,7 @@ export default function Methodology(
                   className="w-full sm:w-64 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>UNDP’s The Digital Transformation Framework</em>
+                  <em>Figure 1. UNDP’s The Digital Transformation Framework</em>
                 </p>
               </div>
               <h2 className="text-xl">Pillars and sub-pillar</h2>
@@ -201,9 +201,9 @@ export default function Methodology(
                       target="_blank"
                     >
                       Inclusive Whole-Of-Society Digital Transformation
-                      framework
+                      Framework
                     </a>
-                    . Pillars and sub-pillars
+                    : Pillars and sub-pillars
                   </em>
                 </p>
               </div>
@@ -224,6 +224,7 @@ export default function Methodology(
                 />
                 <p className="text-center mt-2">
                   <em>
+                    Figure 2.{" "}
                     <a
                       target="_blank"
                       href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
@@ -247,6 +248,7 @@ export default function Methodology(
                 />
                 <p className="text-center mt-2">
                   <em>
+                    Figure 3.{" "}
                     <a
                       href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
                       className="text-blue-300"
@@ -284,7 +286,7 @@ export default function Methodology(
                 first version of the Compass. This indicator evaluation had two
                 phases:
               </p>
-              <ul className="list-disc pl-5">
+              <ul className="list-disc pl-10">
                 <li className="pb-2">
                   Phase 1: Existing indicators were reviewed according to newly
                   established indicator criteria. A number of composite indexes
@@ -335,7 +337,7 @@ export default function Methodology(
               <div className="p-0">
                 <p>
                   As a result of this assessment, Digital Development Compass
-                  includes 45 publicly available datasets and is available on{" "}
+                  includes 145 publicly available datasets and is available on{" "}
                   <a
                     href="https://github.com/undp/digital-development-compass"
                     className="text-blue-500 underline"
@@ -661,7 +663,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -756,7 +758,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -851,7 +853,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -946,7 +948,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1041,7 +1043,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1136,7 +1138,7 @@ export default function Methodology(
             >
               <tr>
                 <th className="py-2 px-4 border-b border-gray-300">
-                  Sub pillar
+                  Sub-pillar
                 </th>
                 {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
                 <th className="py-2 px-4 border-b border-gray-300">Basic</th>
@@ -1269,7 +1271,7 @@ export function PillarsTable() {
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
           {pillarsTableData.map((item, index) => (
             <tr key={index}>
-              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
                 {item.pillar}
               </td>
               <td className="px-4 py-2 border border-gray-300 text-left">
@@ -1306,7 +1308,7 @@ export function DimensionsTable() {
             <React.Fragment key={index}>
               <tr>
                 <td
-                  className="px-1 py-2 border border-gray-300 align-top text-left"
+                  className="px-1 py-2 border border-gray-300 align-top text-left font-bold"
                   rowSpan={item.questions.length}
                 >
                   {item.dimension}
