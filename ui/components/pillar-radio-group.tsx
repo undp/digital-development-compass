@@ -1,5 +1,4 @@
 import cc from "classcat";
-import { pillarColorMap } from "lib";
 import { Pillar, ancillary } from "database/ancillary";
 
 interface RadioProps {
@@ -11,15 +10,14 @@ interface RadioProps {
 
 function Radio(props: RadioProps) {
   const { value, label, onChange, checked } = props;
-  const activeColor = pillarColorMap[value];
+  const activeColor = (ancillary.pillarColorMap as any)[value].base;
 
   return (
     <label
       className={cc([
-        "p-2 cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",
-      ])}
+        "p-4 font-bold cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",      ])}
       style={{
-        borderColor: checked ? activeColor.base : "",
+        borderColor: checked ? activeColor : "",
       }}
     >
       <div
@@ -29,12 +27,12 @@ function Radio(props: RadioProps) {
             "!opacity-10": checked,
           },
         ])}
-        style={{ backgroundColor: activeColor.base }}
+        style={{ backgroundColor: activeColor }}
       ></div>
 
       <div
         className="w-3 h-3 rounded-full mr-2 flex-shrink-0"
-        style={{ backgroundColor: activeColor.base }}
+        style={{ backgroundColor: activeColor }}
       ></div>
       <input
         type="radio"
@@ -46,8 +44,8 @@ function Radio(props: RadioProps) {
       />
       <p
         style={{
-          color: checked ? activeColor.base : "",
-          fontWeight: checked ? 600 : "normal",
+          color: checked ? activeColor : "",
+          fontWeight: checked ? 600 : 600,
         }}
         id={value}
       >
@@ -67,10 +65,10 @@ export function PillarRadioGroup(props: PillarRadioGroupProps) {
 
   return (
     <fieldset>
-      <legend className="text-xs uppercase tracking-wide font-medium text-gray-600 block">
+      <legend className="text-sm uppercase tracking-wide font-medium text-gray-600 block">
         Filter by pillar
       </legend>
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 mt-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-2">
         {ancillary.pillarNames.map((pillar) => (
           <Radio
             onChange={onChange}

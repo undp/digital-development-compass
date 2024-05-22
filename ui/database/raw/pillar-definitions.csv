@@ -1,0 +1,8 @@
+Pillar,ColorBase,ColorTriple1,ColorTriple2,ColorTriple3,colorMap
+Overall,#6366f1,"#FFF", "#a2e0f5", "#6366f1","stroke-pillar-overall"
+People,#4C9F38,"#FFF", "#79ed8a", "#4C9F38", "stroke-pillar-people"
+Connectivity,#FD6925,"#FFF", "#edc26d", "#FD6925","stroke-pillar-connectivity"
+Government,#19486A,"#FFF", "#54deeb", "#19486A","stroke-pillar-government"
+Regulation,#0A97D9,"#FFF", "#12c0c9", "#0A97D9","stroke-pillar-regulation"
+Economy,#A21942,"#FFF", "#d67240", "#A21942","stroke-pillar-economy"
+"Digital Public Infrastructure","#DE1568","#FFF", "#ffab8a", "#DE1568","stroke-pillar-dpinfrastructure"

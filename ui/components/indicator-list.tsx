@@ -1,6 +1,7 @@
 import { Pillar } from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
+import { useState } from "react";
 import { FaLink } from "react-icons/fa";
 import useSWR from "swr";
 
@@ -56,17 +57,21 @@ export function IndicatorList(props: IndicatorListProps) {
   return (
     <div>
       <ul className="space-y-2">
-        {data.map((indicator: any) => (
-          <Indicator
-            key={indicator.Indicator}
-            indicator={indicator}
-            showSources={showSources}
-            isShowingRawScores={isShowingRawScores}
-          />
-        ))}
-        {showMissingIndicators && (
+        {data
+          .filter((ind: any) => ind["data_status"] === "1")
+          .map((indicator: any) => (
+            <Indicator
+              key={indicator.Indicator}
+              indicator={indicator}
+              showSources={showSources}
+              isShowingRawScores={isShowingRawScores}
+            />
+          ))}
+        {!showMissingIndicators && (
           <MissingIndicators
-            filledIndicators={data}
+            filledIndicators={data.filter(
+              (ind: any) => ind["data_status"] === "1"
+            )}
             country={country}
             pillar={pillar}
             subpillar={subpillar}
@@ -74,6 +79,17 @@ export function IndicatorList(props: IndicatorListProps) {
             isShowingRawScores={isShowingRawScores}
           />
         )}
+        {showMissingIndicators &&
+          data
+            .filter((ind: any) => ind["data_status"] === "0")
+            .map((indicator: any) => (
+              <Indicator
+                key={indicator.Indicator}
+                indicator={indicator}
+                showSources={showSources}
+                isShowingRawScores={isShowingRawScores}
+              />
+            ))}
       </ul>
     </div>
   );
@@ -156,23 +172,95 @@ const Indicator = ({
   const hasNoData = indicator.data_col === null;
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
-  const sources = (indicator.sources || [indicator]).map(indicator => ({
-    link: indicator["Data Link"],
-    source: indicator["Data Source"],
-    year: indicator["Year"]
-  })).filter(indicator => indicator.source && indicator.link)
+  const sources = (indicator.sources || [indicator])
+    .map((indicator) => ({
+      link: indicator["Source URL"],
+      source: indicator["Source URL"],
+      year: indicator["Year"],
+    }))
+    .filter((indicator) => indicator.source && indicator.link);
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
+  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
+  const [isHovered, setIsHovered] = useState(false);
+
+  const renderValue = () => {
+    if (isShowingRawScores && indicator.raw_data_col) {
+      const number = parseFloat(indicator.raw_data_col);
+      if (!isNaN(number)) {
+        return number;  
+      }
+      const cleanedData = indicator.raw_data_col.replace(/^["']+|["']+$/g, '').trim();
+
+      if (cleanedData.length > 9) {
+        // Find the first word
+        const firstWord = cleanedData.split(' ')[0];
+        
+        return (
+          <span
+            onMouseEnter={() => setIsHovered(true)}
+            onMouseLeave={() => setIsHovered(false)}
+          >
+            {firstWord}...
+          </span>
+        );
+      } else {
+        return cleanedData;
+      }
+    } else {
+      return hasNoData ? "Data unavailable" : disp_val;
+    }
+  };
+
+  const getWidthClass = () => {
+    if (!indicator || !indicator.raw_data_col) {
+      return "";
+    }
+    if (indicator.raw_data_col.length <= 7) {
+      return "w-auto";
+    }
+    if (indicator.raw_data_col.length < 20) {
+      return "sm:w-40 md:w-70 lg:w-128";
+    }
+    return "sm:w-80 md:w-80 lg:w-128";
+  };
 
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
-        <span className="text-sm">{indicator.Indicator}</span>
-        <span className="font-mono text-xs ml-4 flex-shrink-0">
-          {hasNoData ? "Data unavailable" : roundNumber(value, 2)}
+        <span className="text-sm">{indicator?.Indicator}</span>
+        <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
+          {renderValue()}
+          {isHovered && (indicator.raw_data_col) && (
+            <div
+              className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
+              ${getWidthClass()} p-2`}
+            >
+              {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, '').trim() || ""}
+            </div>
+          )}
         </span>
       </div>
+      {/* {isShowingRawScores && indicator.raw_data_col && (
+        <ul className="mt-1 mb-2 divide-y-1">
+          <li className="text-slate-600 text-xs mb-3">
+            <div className="group flex items-center">
+              <FaSourcetree className="group-hover:no-underline mr-1 flex-none" />
+              <span>{indicator.raw_data_col}</span>
+            </div>
+          </li>
+        </ul>
+      )} */}
+      {/* {isShowingRawScores && !indicator.raw_data_col && (
+        <ul className="mt-1 mb-2 divide-y-1">
+          <li className="text-slate-600 text-xs mb-3">
+            <div className="group flex items-center">
+              <span>Data unavailable</span>
+            </div>
+          </li>
+        </ul>
+      )} */}
       {showSources && sources.length === 0 && (
         <p className="text-xs text-gray-600">Source Data Unavailable</p>
       )}
@@ -189,7 +277,8 @@ const Indicator = ({
                   <FaLink className="group-hover:no-underline mr-1 flex-none" />
                   <span className="group-hover:underline">
                     {source.source}
-                  </span> &nbsp; 
+                  </span>{" "}
+                  &nbsp;
                   <span className="group-hover:no-underline">
                     -<em>&nbsp;{source.year}</em>
                   </span>

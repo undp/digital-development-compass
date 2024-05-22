@@ -6,6 +6,11 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    screens: {
+      sm: "300px",
+      md: "768px",
+      lg: "1024px"
+    },
     fontFamily: {
       sans: ["proxima-nova", ...defaultTheme.fontFamily.sans],
       mono: defaultTheme.fontFamily.mono,
@@ -17,14 +22,13 @@ module.exports = {
           "blue-dark": "#0063AC",
         },
         pillar: {
-          overall: "#44444f",
-          business: "#DE1568",
-          foundations: "#FE6825",
-          government: "#FDB710",
-          infrastructure: "#57C22B",
-          people: "#14b8a6",
-          regulation: "#26BDE3",
-          strategy: "#818CF8",
+          // overall: "#44444f",
+          // ecomony: "#A21942",
+          // dpinfrastructure: "#FE6825",
+          // government: "#19486A",
+          // connectivity: "#57C22B",
+          // people: "#FD9D24",
+          // regulation: "#00689D",
         },
       },
     },

@@ -1,3 +1,4 @@
+//import ancillary from "database/processed/ancillary";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { useInterval } from "react-use";
@@ -8,19 +9,20 @@ interface Props {
 
 const colorMap: Record<string, string> = {
   Overall: "stroke-pillar-overall",
-  Business: "stroke-pillar-business",
-  Foundations: "stroke-pillar-foundations",
+  Economy: "stroke-pillar-economy",
+  "Digital Public Infrastructure": "stroke-pillar-dpinfrastructure",
   Government: "stroke-pillar-government",
-  Infrastructure: "stroke-pillar-infrastructure",
+  Connectivity: "stroke-pillar-connectivity",
   People: "stroke-pillar-people",
   Regulation: "stroke-pillar-regulation",
-  Strategy: "stroke-pillar-strategy",
 };
 
 export function GlobeProgressIndicator(props: Props) {
   const [progress, setProgress] = useState(0);
   const { pillar } = props;
-  const strokeColorClass = colorMap[pillar];
+
+ // const strokeColorClass = ancillary.pillarColorMap[pillar as any];
+   const strokeColorClass =    colorMap[pillar];
 
   useInterval(() => {
     setProgress((curr) => curr + 1);

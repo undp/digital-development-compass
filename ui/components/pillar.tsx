@@ -2,7 +2,6 @@ import pillarIcons from "components/icons";
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import type { Country, Stage, SubPillar } from "database/processed/db";
-import { pillarColorMap } from "lib";
 import kebabCase from "lodash/kebabCase";
 import { useState } from "react";
 import { IndicatorList } from "./indicator-list";
@@ -54,7 +53,7 @@ const Subpillar = (props: SubpillarProps) => {
     <div className="scroll-mt-24 group" id={kebabCase(pillar + subpillar)}>
       <div className="flex items-center justify-between group-target:bg-yellow-50 group-target:ring-2 group-target:ring-offset-4 group-target:ring-yellow-300">
         <h3 className="text-base font-medium">{subpillar}</h3>
-        {score ? (
+        {score !== null ? (
           <span className="text-sm text-right font-mono">
             {/* <span>
               {rank}
@@ -102,7 +101,6 @@ const Subpillar = (props: SubpillarProps) => {
     </div>
   );
 };
-
 const Pillar = (props: PillarProps) => {
   const {
     country,
@@ -115,9 +113,9 @@ const Pillar = (props: PillarProps) => {
   let { stage, score } = country.scores[pillar];
   // @ts-ignore
   let subpillars: SubPillar[] = ancillary.pillars[pillar];
-  let color = pillarColorMap[pillar].base;
+  let color = ancillary.pillarColorMap[pillar].base;
   // @ts-ignore
-  let icon = pillarIcons[pillar.toLowerCase()] || null;
+  let icon = pillarIcons[pillar] || null;
 
   return (
     <div className="border border-gray-200 rounded-lg shadow-lg shadow-gray-200 overflow-hidden">
@@ -128,7 +126,7 @@ const Pillar = (props: PillarProps) => {
         ></div>
         <div className="flex items-center justify-between p-3 z-10">
           <div className="text-white text-lg">{icon}</div>
-          <div className="text-xs text-white  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
+          <div className="text-xs text-white text-center  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
             {pillar}
           </div>
           <div className="text-white font-mono font-semibold">{score}</div>
@@ -219,7 +217,7 @@ const StageInfo = ({
     return <p className="text-gray-600 text-sm">No stage data available.</p>;
 
   return (
-    <>
+    <> 
       {showAllStages ? (
         <StageList
           currentStage={stage?.number}

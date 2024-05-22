@@ -4,7 +4,7 @@ import { interpolateHclLong, scaleLinear } from "d3";
 import { ancillary, Pillar } from "database/ancillary";
 import type { Country } from "database/processed/db";
 import { AnimatePresence, motion } from "framer-motion";
-import { pillarColorMap, roundNumber } from "lib";
+import { roundNumber } from "lib";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import useSWR from "swr";
@@ -18,7 +18,7 @@ async function fetchComparisonData(_: string, iso3: string, key: string) {
   // @ts-ignore
   const res = await fetch(`${url}?${stringifiedParams}`);
   return await res.json();
-}
+} 
 
 interface CountryComparisonsProps {
   relatedCountries?: Pick<
@@ -32,7 +32,7 @@ interface CountryComparisonsProps {
 export function CountryComparisons(props: CountryComparisonsProps) {
   const { country, pillars, relatedCountries = [] } = props;
   const [sameKey, setSameKey] = useState<string>("Sub-region Name");
-  const [pillar, setPillar] = useState<string>("Foundations");
+  const [pillar, setPillar] = useState<string>("Digital Public Infrastructure");
   const [subpillar, setSubpillar] = useState<string>();
   const countryCode = country["ISO-alpha3 Code"];
   const pillarNames = Object.keys(pillars);
@@ -48,7 +48,7 @@ export function CountryComparisons(props: CountryComparisonsProps) {
   };
 
   const colorScale = useMemo(() => {
-    const colorRange = pillarColorMap[pillar];
+    const colorRange = ancillary.pillarColorMap[pillar];
     return scaleLinear<string>()
       .domain([0, 6])
       .range([colorRange.triple[1], colorRange.triple[2]])
@@ -106,14 +106,14 @@ export function CountryComparisons(props: CountryComparisonsProps) {
           trigger={
             <span
               className="text-xs text-white font-medium uppercase tracking-widest py-[0.3em] px-[1em] rounded-full"
-              style={{ background: pillarColorMap[pillar].base }}
+              style={{ background: ancillary.pillarColorMap[pillar].base }}
             >
               {pillar}
             </span>
           }
           itemRenderer={(option) => {
             let asPillar = option as Pillar;
-            let color = pillarColorMap[asPillar].base;
+            let color = ancillary.pillarColorMap[asPillar].base;
             return (
               <span
                 className="text-xs text-white font-medium uppercase tracking-widest py-[0.3em] px-[1em] rounded-full"
@@ -207,7 +207,7 @@ export function CountryComparisons(props: CountryComparisonsProps) {
                     animate={{
                       left: `${xScale(score)}%`,
                       background: isSelected
-                        ? pillarColorMap[pillar].base
+                        ? ancillary.pillarColorMap[pillar].base
                         : colorScale(score),
                     }}
                     transition={{

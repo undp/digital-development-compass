@@ -13,6 +13,7 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
 import { useState } from "react";
 import Link from "next/link";
+//import { IndicatorList } from "components/indicator-list";
 
 type Props = {
   layoutCountries: {
@@ -67,13 +68,14 @@ const StaticPropsDetail = ({
               </p>
             </div>
           </div>
-          <ScoreRing pillars={ancillary.pillars} country={country} />
+          <ScoreRing pillars={ancillary.pillars} country={country} type={'data'} />
         </div>
       </section>
       <section id="pillars" className="my-16 relative">
-        <div className="mx-auto max-w-7xl px-8 sticky top-0 z-10">
-          <div className="w-full bg-white flex items-center justify-between py-4">
-            <h2 className="text-2xl leading-7 sm:text-3xl sm:leading-9 text-gray-900">
+        {/* Web */}
+        <div className="hidden md:block lg:block mx-auto max-w-[90rem] px-6 sticky top-0 z-10">
+          <div className="w-full bg-white flex items-center justify-between py-4 pr-24">
+            <h2 className="text-2xl leading-5 sm:leading-9 text-gray-900 pl-20">
               Pillar scores
             </h2>
             <div className="flex items-center gap-4">
@@ -83,13 +85,13 @@ const StaticPropsDetail = ({
                 enabled={showIndicators}
                 onChange={setShowIndicators}
               />
-              <Toggle
+              {<Toggle
                 disabled={!showIndicators}
                 id="toggle-missing-indicators"
-                label="Missing indicators"
+                label="Imputed data"
                 enabled={showMissingIndicators}
                 onChange={setShowMissingIndicators}
-              />
+              /> }
               <Toggle
                 id="toggle-raw-scores"
                 disabled={!showIndicators}
@@ -105,13 +107,57 @@ const StaticPropsDetail = ({
                 onChange={setShowSources}
               />
               <Link href="/disclaimer">
-                  <a className="ml-1 select-none text-sm text-gray-900">
+                  <a className="ml-1 select-none text-sm text-blue-300">
                   Disclaimer
                   </a>
               </Link>
             </div>
           </div>
         </div>
+        {/* mobile responsive */}
+        <div className="md:hidden lg:hidden mx-auto max-w-[90rem] px-7 sticky top-0 z-10">
+          <div className="w-full bg-white space-x-5 flex items-center py-4 pl-2">
+            <h2 className="md:hidden text-2xl leading-7 md:text-3xl md:leading-9 text-gray-900">
+              Pillar scores
+            </h2>
+            <Link href="/disclaimer">
+                  <a className="md:hidden ml-1 select-none text-sm text-blue-300">
+                  Disclaimer
+                  </a>
+            </Link>
+          </div>
+          <div className="w-full bg-white sm:grid sm:grid-cols-2 sm:gap-x-auto md:flex lg:flex items-center gap-4 pb-2 pl-2 rounded-b-lg">
+              <Toggle
+                disabled={!showIndicators}
+                id="toggle-missing-indicators"
+                label="Imputed data"
+                enabled={showMissingIndicators}
+                onChange={setShowMissingIndicators}
+              />
+              <Toggle
+                id="toggle-indicators"
+                label="Indicators"
+                enabled={showIndicators}
+                onChange={setShowIndicators}
+              />
+              <Toggle
+                id="toggle-raw-scores"
+                disabled={!showIndicators}
+                label="Source values"
+                enabled={showRawScores}
+                onChange={setShowRawScores}
+              />
+              <Toggle 
+                id="toggle-sources"
+                disabled={!showIndicators}
+                label="Sources"
+                enabled={showSources}
+                onChange={setShowSources}
+              />          
+          </div>         
+        </div>
+
+
         <div className="mx-auto max-w-[90rem] px-6 mb-40">
           <div className="py-8">
             <Pillars
