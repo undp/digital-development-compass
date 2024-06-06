@@ -54,7 +54,7 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
   return (
     <div>
       <ul className="space-y-2">
-        { data.filter( (ind : any) => ind['data_status'] === ('1.0' || '1' )).map((indicator: any) => (
+        { data.filter( (ind : any) => ind['data_status'] === ( '1' )).map((indicator: any) => (
           <Indicator
             key={indicator.Indicator}
             indicator={indicator}
@@ -64,7 +64,7 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
         ))}
         {!showMissingIndicators && (
           <MissingIndicators
-            filledIndicators={data.filter( (ind : any) => ind['data_status'] === ('1.0' || '0' ))}
+            filledIndicators={data.filter( (ind : any) => ind['data_status'] === ('1' || '0' ))}
             country={country}
             pillar={pillar}
             showSources={showSources}
