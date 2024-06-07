@@ -4,11 +4,11 @@ import { InferGetStaticPropsType } from "next";
 import Image from "next/image";
 import Script from "next/script";
 import { isMemberState } from "lib";
-import githubUNDPdiagram from "../public/undp-diagram.png";
-import overviewofTDTF from "../public/OverviewofTDTF.png";
-import fiveStage from "../public/fiveStage.png";
-import transformation from "../public/transformation.png";
-import MinMaxScale from "../public/MinMaxScale.png";
+import githubUNDPdiagram from "../../public/undp-diagram.png";
+import overviewofTDTF from "../../public/OverviewofTDTF.png";
+import fiveStage from "../../public/fiveStage.png";
+import transformation from "../../public/transformation.png";
+import MinMaxScale from "../../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React from "react";
@@ -19,7 +19,23 @@ import {
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
 
-export default function Methodology(
+const NavBar = () => {
+    return (
+      <nav className="flex items-center justify-start p-4 pb-0">
+        <Link href="/">
+          <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+        </Link>
+        <span className="text-red-500 mr-4">/</span>
+        <span className="text-red-500 mr-4">METHODOLOGY</span>
+        <span className="text-red-500">/</span>
+        <Link href="/methodology/digital-development-compass">
+          <a className="ml-4 text-red-500">DIGITAL DEVELOPMENT COMPASS</a>
+        </Link>
+      </nav>
+    );
+  };
+
+export default function DIGITAL_DEVELOPMENT_COMPASS(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const { countries } = props;
@@ -53,13 +69,27 @@ export default function Methodology(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
+      <div className="px-5 pb-5">
+          <div className="w-full bg-gray-200 md:px-20">
+            <div className="md:mx-auto">
+              <div className="container md:px-4 md:mx-auto">
+                <NavBar />
+                <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
+                  <h2 className="heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color">
+                  DIGITAL DEVELOPMENT COMPASS
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-            <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
+            {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
               <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
-                Methodology
+                DIGITAL DEVELOPMENT COMPASS
               </h2>
-            </div>
+            </div> */}
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 What is the Digital Development Compass?

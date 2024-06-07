@@ -161,6 +161,32 @@ html {
   color: #484848 ;
 }
 
+.hero-title-size {
+  font-size: 55px;
+  line-height: 3rem;
+}
+
+.button-bg-color {
+  background-color: #3288CE;
+}
+
+.heading-title-size {
+  font-size: 45px;
+  line-height: 3rem;
+}
+
+.hero-content-text-size {
+  font-size: 20px;
+  line-height: 1.75rem; line-height: 1.75rem;
+}
+
+.hero-content-text-color {
+  color: #000000;
+}
+
+.footer-background-color {
+  background-color: #1F5A95;
+}
 
 @media (max-width: 770px) {
   .rainbow-margin {
