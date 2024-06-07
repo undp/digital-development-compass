@@ -17,11 +17,11 @@ export default function disclaimer(
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
            <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 className="text-3xl font-bold mt-7 mb-3 text-brand-blue-dark" >
+                <h2 className="hero-title-size font-bold mt-7 mb-3 hero-content-text-color" >
                 Disclaimer
                 </h2>
              </div>
-             <div className="max-w-[40em] space-y-9 text-justify"> 
+             <div className="max-w-[40em] text-xl space-y-9 text-justify"> 
               
               <p>
               The Digital Development Compass, maintained by the United Nations Development Programme (UNDP), 
