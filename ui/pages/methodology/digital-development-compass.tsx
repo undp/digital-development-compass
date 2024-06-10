@@ -169,7 +169,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 The DDC is constructed based on the{" "}
                 <a
                   href="https://www.undp.org/digital/transformations"
-                  className="text-blue-300"
+                  className="url-styling"
                   target="_blank"
                 >
                   Inclusive Whole-Of-Society Digital Transformation framework
@@ -293,7 +293,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 The script and datasets can all be found on UNDP’s&nbsp;
                 <a
                   href="https://github.com/undp/digital-development-compass"
-                  className="text-blue-300"
+                  className="url-styling"
                   target="_blank"
                 >
                   GitHub.
@@ -364,7 +364,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   includes 145 publicly available datasets and is available on{" "}
                   <a
                     href="https://github.com/undp/digital-development-compass"
-                    className="text-blue-500 underline"
+                    className="url-styling"
                     target="_blank"
                   >
                     GitHub

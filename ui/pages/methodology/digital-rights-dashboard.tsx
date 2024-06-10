@@ -1,23 +1,23 @@
 import { db } from "database";
 import { groupBy } from "lodash";
 import { InferGetStaticPropsType } from "next";
-import Image from "next/image";
 import Script from "next/script";
 import { isMemberState } from "lib";
-import githubUNDPdiagram from "../../public/undp-diagram.png";
-import overviewofTDTF from "../../public/OverviewofTDTF.png";
-import fiveStage from "../../public/fiveStage.png";
-import transformation from "../../public/transformation.png";
-import MinMaxScale from "../../public/MinMaxScale.png";
+// import githubUNDPdiagram from "../../public/undp-diagram.png";
+// import overviewofTDTF from "../../public/OverviewofTDTF.png";
+// import fiveStage from "../../public/fiveStage.png";
+// import transformation from "../../public/transformation.png";
+// import MinMaxScale from "../../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React from "react";
 import {
-  tableData,
   pillarsTableData,
-  dimensionsTable,
-} from "database/methodologyTableData";
-import { ancillary } from "database/ancillary";
+  feTableData,
+  rendTableData,
+  rpTableData,
+} from "database/DRDmethodologyTableData";
+//import { ancillary } from "database/ancillary";
 
 export default function DIGITAL_RIGHTS_DASHBOARD(
   props: InferGetStaticPropsType<typeof getStaticProps>
@@ -43,27 +43,6 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;
     window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
-  const handleDownloadClick = (
-    event: React.MouseEvent<HTMLAnchorElement, MouseEvent>
-  ) => {
-    event.preventDefault();
-    const url = event.currentTarget.getAttribute("href");
-    if (url) {
-      fetch(url)
-        .then((response) => response.blob())
-        .then((blob) => {
-          const anchor = document.createElement("a");
-          anchor.href = URL.createObjectURL(blob);
-          anchor.download = "scores.csv";
-          anchor.click();
-          URL.revokeObjectURL(anchor.href);
-        })
-        .catch((error) => {
-          console.error("Error Downloading File", error);
-        });
-    }
   };
 
   return (
@@ -92,1140 +71,316 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div> */}
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
-                What is the Digital Development Compass?
+                The role of digital rights in digital transformation
               </h2>
               <p>
-                The Digital Development Compass (DDC) is a comprehensive
-                visualisation of a country's digital indicators. These
-                indicators are sourced from publicly available datasets,
-                gathered and made available by UNDP to offer guidance and
-                clarity into a country's progress in digital development. Thus,
-                the DDC provides a diagnostic framework and serves as a starting
-                point for deeper collaboration and engagement. The DDC allows
-                users to obtain a snapshot of a country's digital readiness
-                without the need to consult multiple sources.
+                UNDP advocates for rights based, inclusive, whole-of-society digital transformation. It is a coordinated 
+                approach between government, civil society and the private sector to support human-centred design, 
+                mitigate risks, and establish accountability. However, digital transformation in the absence of a clearly 
+                defined framework of rights comes with several potential harms to individuals and consumers and undermines 
+                the trust that people repose in digital ecosystems.
               </p>
               <p>
-                Within the DDC, each country can examine individual pillars and
-                sub-pillars to identify strengths and weaknesses, aligning them
-                with specific ‘maturity stages.’ Each sub-pillar comprises
-                multiple indicators. Additionally, the percentage of available
-                data is displayed. The DDC also allows for comparisons between
-                regions, sub-regions, and income groups, and offers various
-                visualisation options.
-              </p>
-              <p>
-                Moreover, the tool serves as a catalyst for conversations
-                between governments and UNDP, providing an opportunity to
-                initiate discussions, address potential discrepancies in
-                rankings, or explore the potential impacts of digital
-                technologies in their specific sectors or development plans. The
-                DDC represents a valuable tool for understanding governments’
-                current digital landscape and identifying opportunities for
-                progress and growth. Furthermore, it encourages governments to
-                share their advancements openly to ensure accurate
-                representation in the DDC.
-              </p>
-              <h2 className="text-2xl md:tracking-normal">
-                How should the DCC be used?
-              </h2>
-              <p>
-                The primary objective of the digital compass is to serve as a
-                prominent entry point, allowing countries to establish immediate
-                connections with UNDP’s country offices. Through this platform,
-                country offices can promptly generate customised materials that
-                showcase their digital initiatives, capabilities, and comprehend
-                the specific requirements. By providing this dedicated space,
-                the DDC aims to strengthen engagement and collaboration while
-                offering countries an expedient means to explore and leverage
-                UNDP's digital capabilities.
-              </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
-                The Digital Transformation Framework
-              </h2>
-              <h2 className="text-2xl md:tracking-normal">
-                Defining Digital Development
-              </h2>
-              <p>
-                'Digital transformation' is not a destination, but a journey. It
-                is about using digital and technology to improve the lives and
-                livelihoods of individuals, communities, and countries. This
-                ranges from improving public services, to tackling issues of
-                marginalisation.
-              </p>
-              <p>
-                UNDP advocates for inclusive, whole-of-society digital
-                transformation. It is a coordinated approach between government,
-                civil society and the private sector to build ownership, support
-                human-centred design, mitigate risks, and establish
-                accountability. To support this strategy, UNDP has implemented
-                the Digital Transformation Framework to discover & compare
-                progress across a range of key issues.
-              </p>
-              <h2 className="text-xl md:tracking-normal">
-                Overview of the Digital Transformation framework
-              </h2>
-              <p>
-                The DDC is constructed based on the{" "}
+                This is why across the United Nations System, human rights have been recognized as integral to digital 
+                uptake and transformation. The Secretary-General's 2020 {" "}
                 <a
-                  href="https://www.undp.org/digital/transformations"
-                  className="text-blue-300"
+                  href="https://www.un.org/en/content/action-for-human-rights/index.shtml"
+                  className="url-styling"
+                  target="_blank"
+                  
+                >
+                Call to Action on Human Rights: Our Common Agenda
+                </a>{" "}
+                includes consideration of the application of human rights frameworks and standards in the digital space. As per the{" "} 
+                <a
+                  href="https://www.un.org/en/content/digital-cooperation-roadmap/"
+                  className="url-styling"
                   target="_blank"
                 >
-                  Inclusive Whole-Of-Society Digital Transformation framework
+                  United Nations Secretary General's Roadmap for Digital Cooperation,
                 </a>{" "}
-                endorsed by UNDP. The Digital Transformation Framework serves as
-                a guide for stakeholders to align their efforts regarding
-                inclusive digital transformation and supports countries in their
-                transformation process. It enables stakeholders to identify,
-                structure, and prioritise their national digital transformation
-                initiatives and agendas effectively.
+                Human rights apply online just as they do offline. Digital technologies provide new means to exercise human rights, 
+                but they are too often also used to violate them. Data protection and privacy issues, the throttling of free speech 
+                online, the use of surveillance technologies, and online violence and harassment, are of particular concern. This view 
+                reflects several United Nations resolutions. 
               </p>
               <p>
-                The framework represents the encompassing structure for Digital
-                Development within the UNDP. It is the result of an extensive
-                study that examines various frameworks, implementation
-                strategies, and methodologies employed by diverse organisations,
-                including those in the private sector, public sector, and
-                international development agencies. Through this framework, UNDP
-                aims to provide countries with a valuable resource for assessing
-                and advancing their digital development journey, while
-                considering the unique challenges and opportunities they may
-                encounter along the way.
+                Consequently, the Digital Development Compass does not conceptualise "digital human rights" as new rights unique to 
+                the digital space but instead as the online application of rights that exist offline.
               </p>
               <p>
-                The Digital Transformation Framework (see Figure 1) is
-                structured into seven pillars, with each pillar being further
-                subdivided into 25 sub-pillars. Each sub-pillar corresponds to a
-                specific element of digital transformation. The sub-pillars
-                encompass various individual indicators, which are used to
-                calculate a country's Digital Transformation Score. These scores
-                are then aligned with corresponding stages of digital
-                transformation.
+                <a
+                  href="https://digitalstrategy.undp.org/"
+                  className="url-styling"
+                  target="_blank"
+                >
+                  UNDP's Digital Strategy
+                </a>{" "}
+                aims to apply this approach to the digital realm by collaborating with other entities in the UN system to promote 
+                inclusive and gender-sensitive approaches that address the needs of the most vulnerable. Further, UNDP will contribute 
+                to and propagate shared global standards that protect human rights in the digital realm by drawing from existing 
+                international law instruments such as the United Nations Charter and the Universal Declaration of Human Rights.
               </p>
-              <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={overviewofTDTF}
-                  alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-64 h-auto"
-                />
-                <p className="text-center mt-2">
-                  <em>Figure 1. UNDP’s The Digital Transformation Framework</em>
-                </p>
-              </div>
-              <h2 className="text-xl">Pillars and sub-pillar</h2>
+              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
+                Overview of the Digital Rights Dashboard 
+              </h2>
+              <h2 className="text-2xl md:tracking-normal">
+                Objectives
+              </h2>
               <p>
-                Table 1 provides a list of the pillars and the underlying
-                sub-pillars constituting UNDP’s Inclusive Whole-of-Society
-                Digital Transformation Framework that form the basis of the
-                Digital Development Compass:
+                The Digital Development Compass (DDC) is constructed based on the{" "}
+                <a
+                  href="https://www.undp.org/digital/transformations"
+                  className="url-styling"
+                  target="_blank"
+                >
+                   Inclusive Whole-Of-Society Digital Transformation framework 
+                </a>{" "}                
+                endorsed by UNDP. The Digital Transformation Framework serves as a guide for stakeholders to align their efforts 
+                regarding inclusive digital transformation and supports countries in their transformation process. It enables stakeholders 
+                to identify, structure, and prioritise their national digital transformation initiatives and agendas effectively.
               </p>
-              <div className="max-w-[50em] mx-auto px-4">
-                <PillarsTable />
-                <p className="text-center mt-2">
-                  <em>
-                    Table 1. UNDP’s{" "}
-                      Inclusive Whole-Of-Society Digital Transformation
-                      Framework: Pillars and sub-pillars
-                  </em>
-                </p>
-              </div>
+              <p>
+                The <b>Digital Rights Dashboard (DRD)</b> attempts to share insights and measure the performance of countries on the extent 
+                to which they have been able to incorporate digital rights effectively into their overall digital strategy. 
+                It is an additional component of the Digital Development Compass and uses the same methodology.
+              </p>
+              <p>
+                The framework represented in the Digital Rights Dashboard is the result of an extensive review of international law and 
+                relevant literature published by international organizations, civil society, governments, academia and the private sector. 
+                Like the Digital Development Compass, it relies on publicly available data to assess the performance of countries on specific 
+                digital rights. The Digital Rights Dashboard is designed as an entry point or a conversation starter and should not be 
+                interpreted as an authoritative final judgment regarding the performance of any country either on a specific right or on 
+                digital rights as a whole.
+              </p>
+              <h2 className="text-2xl md:tracking-normal">
+                Four Rights 
+              </h2>           
+              <p>
+                For the purpose of the Digital Rights Dashboard, we are measuring four rights:
+              </p>
+              <h2 className="text-xl md:tracking-normal">
+                <b>1. Right to Freedom of Speech and Expression </b>
+              </h2>
+              <p>
+                Definition from <b>ICCPR Art. 19 (2):</b> This right shall include freedom to seek, receive and impart information and ideas of all kinds, 
+                regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
+              </p>
+              <h2 className="text-xl md:tracking-normal">
+                <b>2.	Right to Freedom of Assembly and Association </b>
+              </h2>
+              <p>
+                Everyone shall have the right to freedom of expression; this right shall include freedom to seek, 
+                receive and impart information and ideas of all kinds, regardless of frontiers, either orally, 
+                in writing or in print, in the form of art, or through any other media of his choice <b>(Art. 19 ICCPR) </b>
+                This right also covers the "rights to freedom of peaceful assembly and association", which are essential 
+                components of democracy. The right of peaceful assembly includes the right to hold meetings, sit-ins, strikes, 
+                rallies, events or protests, both offline and online.  
+              </p>
+              <p>
+                <b>
+                  NB: Given the overlap in the indicators measuring these rights, the two rights above will be integrated as the Right 
+                  to Freedom of Expression, Assembly and Association.
+                </b>
+              </p>
+              <h2 className="text-xl md:tracking-normal">
+                <b>3.	Right to Equality and Non-Discrimination  </b>
+              </h2>
+              <p>
+                Definition derived from Art. 26 ICCPR
+              </p>
+              <p>
+                <i>
+                  All persons are equal before the law and are entitled without any discrimination to the equal protection of the 
+                  law [both online and offline]. In this respect, the law shall prohibit any discrimination and guarantee to all persons 
+                  equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, 
+                  political or other opinion, national or social origin, property, birth or other status.
+                </i>
+              </p>
+              <h2 className="text-xl md:tracking-normal">
+                <b>4.	Right to Privacy  </b>
+              </h2>
+              <p>
+                <i>
+                  Protection of all individuals against arbitrary or unlawful interference with his or her privacy, family, home or 
+                  correspondence, or unlawful attacks on their honour and reputation.
+                </i>
+              </p>
+              <h2 className="text-2xl md:tracking-normal">Why did UNDP choose four rights?</h2>
+              <p>
+                UNDP recognizes  that there are other important digital rights in International Human Rights Law (IHRL) 
+                such as the right to freedom of religion, right to work, and right to housing. After considering factors 
+                such as data availability and the bandwidth to meaningfully create and update the Digital Rights Dashboard 
+                we decided nevertheless to narrow down to the four aforementioned rights bearing in mind that the Digital 
+                Development Compass is designed as an entry-point or conversation starter for countries to conduct their own evaluations.
+              </p>
+              <p>
+                The four rights we chose have been recognized across United Nations resolutions, General Comments, 
+                and reports as being integral to the protection and empowerment of individuals online and can cumulatively 
+                provide an assessment of each country's performance on digital rights as a whole. For example, the assessment 
+                of the right to equality and non-discrimination has been recognized as{" "}
+                <a
+                  href="https://global.oup.com/academic/product/an-international-bill-of-the-rights-of-man-9780199667826"
+                  className="url-styling"
+                  target="_blank"
+                >
+                "the most fundamental of the rights"
+                </a>{" "} 
+                speaks to the range of international human rights instruments that deal with specific forms of discrimination such as{" "}
+                <a
+                  href="https://www.un.org/womenwatch/daw/cedaw/cedaw.htm#:~:text=French%2C%20Russian%20%2C%20Spanish-,The%20Convention%20on%20the%20Elimination%20of%20All%20Forms%20of%20Discrimination,bill%20of%20rights%20for%20women."
+                  className="url-styling"
+                  target="_blank"
+                >
+                Convention on the Elimination of All Forms of Discrimination Against Women,
+                </a>{" "} 
+                <a
+                  href="https://www.ohchr.org/sites/default/files/cerd.pdf"
+                  className="url-styling"
+                  target="_blank"
+                >
+                International Convention on the Elimination of Racial Discrimination,
+                </a>{" "} 
+                <a
+                  href="https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf"
+                  className="url-styling"
+                  target="_blank"
+                >
+                United Nations Declaration on the Rights of Indigenous Peoples
+                </a>{" "} 
+                and{" "}
+                <a
+                  href="https://www.un.org/womenwatch/daw/cedaw/cedaw.htm#:~:text=French%2C%20Russian%20%2C%20Spanish-,The%20Convention%20on%20the%20Elimination%20of%20All%20Forms%20of%20Discrimination,bill%20of%20rights%20for%20women."
+                  className="url-styling"
+                  target="_blank"
+                >
+                Convention on the Rights of Persons with Disabilities.
+                </a>{" "} 
+              </p>
               <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
                 Measuring Digital Development
               </h2>
-              <h2 className="text-2xl">Stages of digital development</h2>
+              <h2 className="text-2xl md:tracking-normal">Stages of Rights Fulfilment</h2>
               <p>
-                Each country's digital readiness is assessed across five stages
-                of digital development as indicated Figure 2, which encompass
-                every pillar and sub-pillar.
+                In the Digital Development Compass, each country's digital readiness is assessed across five stages of 
+                digital development, which encompass every pillar and sub-pillar. Each of the five stages corresponds to a 
+                score from 0 to 5. The Digital Development Dashboard applies the same process to construct stages of Rights 
+                Fulfilment. The corresponding stages and scores are shown in the table below:
               </p>
-              <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={fiveStage}
-                  alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-84 h-auto"
-                />
-                <p className="text-center mt-2">
-                  <em>
-                    Figure 2.{" "}
-                    <a
-                      target="_blank"
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                    >
-                      UNDP's five stages of digital development
-                    </a>{" "}
-                  </em>
-                </p>
-              </div>
+              <h2 className="text-2xl md:tracking-normal">Overall stages</h2>
               <p>
-                Further enhancement of countries' digital readiness can be
-                achieved by providing individual support to each component of
-                the transformation framework.
+                The five stages correspond to the five stages of the Digital Development Compass. Each stage has a 
+                definition that broadly corresponds to the performance on digital rights by member countries. Essentially, 
+                the stage gives a "bird's eye-view" of the state's overall performance. Specific indicators provide a more 
+                concrete assessment. To precisely see how a country can move from one stage to the next, scores on specific 
+                indicators should be evaluated and improved upon.
               </p>
-              <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={transformation}
-                  alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-84 h-auto"
-                />
-                <p className="text-center mt-2">
-                  <em>
-                    Figure 3.{" "}
-                    <a
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                      target="_blank"
-                    >
-                      Transformation framework
-                    </a>{" "}
-                  </em>
-                </p>
-              </div>
-            </div>
-            <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
-              Digital Development Score Methodology
-            </h2>
-            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
+             
+              <PillarsTable />
+              <p><b>Freedom of Expression</b></p>
+              <FeTable />
+              <p><b>Right to equality and non-discrimination online</b></p>
+              <RendTable />
+              <p><b>Right to privacy online</b></p>
+              <ReTable />
+              <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
+                Digital Rights Score Methodology
+              </h2>
+              <h2 className="text-2xl md:tracking-normal">Indicator Selection</h2>
               <p>
-                The software and data that are used to put together the DDC are
-                open source and in the process of becoming Digital Public Goods.
-                The script and datasets can all be found on UNDP’s&nbsp;
+                Indicators were identified based on our initial literature review and prevailing understandings of international human rights 
+                law in the online realm.        
+                There are unique indicators measuring each right (Rights to Freedom of Expression, Assembly and Association; Right to 
+                Privacy and Right to Equality and Non-Discrimination). All indicators in the Digital Rights Dashboard, like the Digital 
+                Development Compass, are all{" "}
                 <a
-                  href="https://github.com/undp/digital-development-compass"
-                  className="text-blue-300"
+                  href="https://www.ohchr.org/en/instruments-and-mechanisms/human-rights-indicators"
+                  className="url-styling"
                   target="_blank"
                 >
-                  GitHub.
-                </a>
-                &nbsp;UNDP is partnered with GitHub’s volunteer programme and
-                volunteers have helped to develop the novel scripts used in the
-                process.
-              </p>
-              <h2 className="text-2xl md:tracking-normal">
-                1. Indicator Selection
-              </h2>
-              <p>
-                UNDP conducted a review of the 200+ indicators that formed the
-                first version of the Compass. This indicator evaluation had two
-                phases:
-              </p>
-              <ul className="list-disc pl-10">
-                <li className="pb-5">
-                  Phase 1: Existing indicators were reviewed according to newly
-                  established indicator criteria. A number of composite indexes
-                  were also exploded (the term “exploded” is used, in the sense
-                  of ‘to break up into pieces’, to refer to the process of
-                  surfacing all of the individual indicators contained within a
-                  composite index) earlier included in the Compass to identify
-                  and remove instances of double-counting and to improve
-                  relevancy.
-                </li>
-                <li>
-                  Phase 2: New indicators were added after a research and review
-                  process.
-                </li>
-              </ul>
-              <p>
-                Currently, there are a total of 145 indicators included in the
-                DDC. Indicators were identified by conducting desk research
-                online into the public data available relating to the
-                sub-pillars and pillars of the digital development framework as
-                mentioned above.
+                Fact-based or objective indicators
+                </a>{" "} 
+                which reveal "objects, facts or events" that can be directly observed or verified (such as percentage of population with 
+                internet access or existence of a legal provision or institution.) Judgment based indicators which require independent 
+                analysis for all 193 were excluded due to capacity constraints.
               </p>
               <p>
-                During this review process, an Expert Committee was appointed,
-                with a globally representative group of experts with specialisms
-                and experience in digital development. The Committee’s vision is
-                to support the DDC as it develops year on year. At its core, the
-                Committee will be flexible with this as its primary aim,
-                evolving organically, in parallel with the Digital Development
-                Compass.
+                There is another section that features all cross-cutting indicators. These are indicators that are common to all rights 
+                being measured and serve as indicators of the “enabling environment” for digital rights writ large. 
               </p>
               <p>
-                Based on a series of consultations and advisory from the Expert
-                Committee, questions for data evaluation have been created to
-                perform a data quality assessment for all existing and newly
-                selected indicators. In case the examined indicator does not
-                meet the evaluation criteria, the indicator will not be included
-                in the Digital Development Compass.
-              </p>
-
-              <div className="max-w-[20em] sm:max-w-[20em] md:max-w-[40em] lg:max-w-[40em] mx-auto px-4">
-                <DimensionsTable />
-              </div>
-
-              <p className="text-center mt-2">
-                <em>Table 2. Data evaluation questions</em>
-              </p>
-              <div className="p-0">
-                <p>
-                  As a result of this assessment, Digital Development Compass
-                  includes 145 publicly available datasets and is available on{" "}
-                  <a
-                    href="https://github.com/undp/digital-development-compass"
-                    className="text-blue-500 underline"
-                    target="_blank"
-                  >
-                    GitHub
-                  </a>
-                  . Sources of the data sets include among others:
-                </p>
-                <div className="pl-5">
-                  <ul className="list-disc mt-2">
-                    <li>World Bank: World Development Indicators</li>
-                    <li>GSMA: Mobile Connectivity Index</li>
-                    <li>University of Oxford: Our World in Data</li>
-                    <li>World Economic Forum: Global Competitiveness Index</li>
-                    <li>Sustainable Development Report</li>
-                    <li>ITU: Global Cybersecurity Index</li>
-                    <li>Oxford Insights: AI Readiness Index</li>
-                  </ul>
-                </div>
-              </div>
-              {/* 2. Data Collection */}
-              <h2 className="text-2xl md:tracking-normal">
-                2. Data Collection
-              </h2>
-              <p>
-                The methodology used for data collection depends on the format
-                the data is published in. Largely, data is retrieved from the
-                data source automatically. Links to data sources are collected
-                in a spreadsheet and automation is used to scrape spreadsheets,
-                PDFs, and documents and convert them into a machine-readable
-                format.
+                Sources to score these indicators fall into two categories:
               </p>
               <p>
-                However, while automation can be applied to most websites from
-                which data is collected, certain platforms require manual
-                intervention. In these cases, files containing data in the
-                correct format are uploaded manually.
+                1.	<i>Using sources used for other Digital Development Compass indicators:</i> A second category of indicators used the same 
+                sources as similar indicators in the Digital Development Compass framework. These are all external sources put together 
+                by non-governmental organizations, think-tanks and international organizations and provide a quantitative assessment of 
+                the relevant Digital Rights Dashboard indicators.
               </p>
               <p>
-                99% of all indicators are automatically updated when
-                organisations release new reports and datasets. The below
-                diagram visualises how updates in the source data triggers a
-                change in the DDC webpage.
-              </p>
-              <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={githubUNDPdiagram}
-                  alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-84 h-auto"
-                />
-                <p className="text-center mt-2">
-                  {" "}
-                  <a
-                    target="_blank"
-                    href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                    className="text-blue-300"
-                  >
-                    <em>Source</em>
-                  </a>{" "}
-                </p>
-              </div>
-              <p>
-                When any of the links to source data expire, an automated email
-                notification is sent to administrators, and new links are
-                updated manually.
-              </p>
-              <h2 className="text-2xl md:tracking-normal">
-                3. Score Calculation Methodology
-              </h2>
-              <p>
-                The Digital Development Compass aims to put countries into one
-                of the five maturity levels for each of the sub-pillars. This
-                section includes the approach to normalization, weighting
-                indicators and imputation of missing scores.
-              </p>
-              <h2 className="text-xl md:tracking-normal">Normalisation</h2>
-              <p>
-                The indicators used within the compass have been normalized
-                using Min-Max rescaling.
-              </p>
-              <h2 className="text-lg md:tracking-normal">Min-Max rescaling</h2>
-              <p>
-                The following formula creates a score between 0 and 1. It does
-                so by creating a scale with a maximum possible score of 1 that
-                corresponds to the highest scoring country’s score; and a
-                minimum possible score of 0 that corresponds to the lowest
-                scoring country’s score.
-              </p>
-              <p className="flex justify-center items-center">
-                <Image
-                  src={MinMaxScale}
-                  alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-64 h-auto"
-                />
+                2. <i>Independent desk research: </i>The Digital Rights Dashboard uses independent desk research to assess most indicators. 
+                These include indicators assessing the existence of laws and institutions within the countries as well as the state of signing 
+                and ratifying foundational human rights law treaties. As there is no available database that provides information on all 
+                Digital Rights Dashboard indicators, the Digital Rights Dashboard is building its own customized database, which will be
+                made publicly available. Due to constraints on bandwidth and expertise, the DRD’s desk research does not evaluate the 
+                comprehensiveness or legislation and institutions but merely ascertains whether a law or relevant institution exists.
               </p>
               <p>
-                <u>Scaling and normalization of categorical data</u>
+                As with the Digital Development Compass, the Digital Rights Dashboard verifies the methodology of any external source 
+                before incorporation. However, the incorporation of a source into the Digital Rights Dashboard should not be viewed as 
+                endorsement of the results of the source. Instead, in line with the overall objectives of the Digital Rights Dashboard, 
+                each source should be seen as a conversation starter that all countries can use to conduct more detailed evaluations of 
+                their digital rights strategy and compliance.
               </p>
+              <h2 className="text-2xl md:tracking-normal">Weighting</h2>
               <p>
-                The categories are identified in the dataset and numerical
-                values are assigned to each category. Each category has a unique
-                numerical representation. The maximum possible value that a
-                category can attain within the dataset is determined to
-                establish the scaling range. The maximum value provides a
-                reference point for rescaling all other values. Once the maximum
-                possible value is determined, the numerical values of the
-                categories are rescaled to a predefined range, typically
-                spanning from 0 to a chosen maximum value. This rescaling
-                process ensures uniformity and facilitates comparison across
-                different indicators.
+                All indicators in the Digital Rights Dashboard are weighted equally. Existing international human rights law and 
+                jurisprudence do not support the assignment of inequitable weights to one human right over another or to indicators 
+                used to measure each right.
               </p>
+              <h2 className="text-2xl md:tracking-normal">Data Processing</h2>
               <p>
-                The original numerical values of the categories to the desired
-                rescaled range are linearly mapped. The mapping maintains the
-                relative order and spacing of the original values.
-              </p>
-              <p>
-                For each category, its rescaled value is calculated using the
-                determined maximum possible value and the chosen scaling range.
-                The rescaling formula is consistently applied across all
-                categories.
-              </p>
-              <p>
-                The rescaled values are normalized to ensure they fall within a
-                standard range, such as 0 to 1. Normalization helps mitigate the
-                influence of outliers and enhances the interpretability of the
-                data. Min-Max normalization is used for normalization of these
-                data types as well.{" "}
-              </p>
-              <h2 className="text-xl md:tracking-normal">
-                Indicator weightings
-              </h2>
-              <p>
-                In the Compass, equal weightings are assigned to all pillars and
-                sub-pillars.{" "}
-              </p>
-              <p>
-                Weighting at the indicator level is made in the following way:
-              </p>
-              <ol className="list-decimal ml-6 space-y-4">
-                <li>
-                  <span className="font-bold">Indicator specificity:</span> Each
-                  indicator is assigned a score of 1 or 0.5 based on its
-                  relationship with digital development:
-                  <ul className="list-disc ml-8 mt-2 space-y-2">
-                    <li>
-                      0.5 to indicators identified as more weakly aligned and
-                      which only partially relate to digital development.
-                    </li>
-                    <li>
-                      1 to all those indicators that have a clear, direct
-                      connection to digital development;
-                    </li>
-                    <li>
-                      A score of 0 is not included, as the data evaluation
-                      process already removed indicators that do not clearly
-                      relate to digital development (and which would have scored
-                      0),
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <span className="font-bold">
-                    Indicator uniqueness or overlap:
-                  </span>{" "}
-                  Although the Compass does not have any instances of the same
-                  indicator appearing more than one time (explicit double
-                  counting), in some cases, multiple indicators are measured
-                  overlapping factors. For instance, ‘average fixed broadband
-                  download speeds’ and ‘average mobile broadband upload speeds’
-                  are highly likely to be correlated, being dependent on the
-                  same infrastructure. These indicators needed to be scored
-                  lower to avoid counting the same metric more than once.
-                  <ul className="list-disc ml-8 mt-2 space-y-2">
-                    <li>
-                      To quantitatively capture overlapping, indicators are
-                      scored by dividing 1 by the number of overlapping
-                      indicators.
-                    </li>
-                    <li>
-                      In this way, an indicator that does not overlap with
-                      others scores 1, one that overlaps with only 1 other
-                      indicator scores 1/2 = 0.5, one overlapping with two more
-                      indicators scores 1/3 = 0.33, and so on.
-                    </li>
-                    <li>
-                      This process allows us to assign a lower score to those
-                      indicators that measure similar aspects of digital
-                      development.
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <span className="font-bold">Indicator number:</span> Indicator
-                  scores are divided by the total number of indicator scores
-                  within a sub-pillar.
-                </li>
-              </ol>
-              <h2 className="text-xl md:tracking-normal">Imputing scores</h2>
-              <p className="mb-4">
-                For indicators where there are gaps in country data, or where an
-                indicator has not collected data from particular countries,
-                imputing scores is an option. However, imputed data is{" "}
-                <b>not</b> included into the scoring in the Digital Development
-                Compass, while visualization is enabled with a toggle switch
-                giving the user the option to visualise data with or without
-                imputed scores. The following methods for imputation to use it
-                in only the data visualisation are used depending on their
-                suitability within a given context:
-              </p>
-              <ol className="list-decimal ml-6 space-y-4">
-                <li>
-                  <span className="">Linear interpolation:</span> Historical
-                  information can be used before implementing a modelling-based
-                  approach. If data is missing but there are values in preceding
-                  and subsequent years, linear interpolation is used.
-                </li>
-                <li>
-                  <span className="">Extrapolation:</span> If there is no data
-                  from preceding and subsequent years, data is extrapolated as a
-                  constant value of the nearest reported data, or as a value on
-                  a trend line/curve.
-                </li>
-                <li>
-                  <span className="">
-                    Neighbouring/similar countries’ data:
-                  </span>{" "}
-                  A mean average is taken based on a sample of regionally
-                  neighbouring countries and/or GDP figures.
-                </li>
-                <li>
-                  <span className="">
-                    Expectation-maximisation with a bootstrapping (EMB):
-                  </span>{" "}
-                  The remaining missing data is imputed with an
-                  expectation-maximisation with a bootstrapping (EMB) multiple
-                  imputation algorithm.
-                </li>
-              </ol>
-              <p className="mt-4">
-                The EMB method generates imputed values through an iterative
-                procedure that uses other variables to impute a value
-                (expectation) and then asserts whether the value is most likely
-                to fit the data (maximisation). To account for variation caused
-                by missing data, the model is run 10 times – the average of
-                these 10 imputations is then used to impute the missing value.
+                Data processing for the Digital Rights Dashboard uses the same methodology as the  Digital Development Compass. 
+                Please refer to the{" "}
+                <a
+                  href="https://undp-digital-new-dev-development-compass.vercel.app/methodology"
+                  className="url-styling"
+                  target="_blank"
+                >
+                Digital Development Compass methodology
+                </a>{" "}.
               </p>
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
-                Definitions and scales
+                Disclaimer
               </h2>
-              <p className="mb-4">
-                Data that has been retrieved is then matched with a UN-defined
-                list of countries, regions, sub-regions, income groups, and
-                territorial borders.
+              <p>
+                The Digital Rights Dashboard, maintained by the United Nations Development Programme (UNDP), aggregates 
+                publicly available data on digital development. However, UNDP does not verify the accuracy or endorse the 
+                legitimacy of these data sources. Therefore, any information presented on the Digital Rights Dashboard should 
+                not be considered as verified or endorsed by UNDP.
               </p>
               <p>
-                Raw data and data from other indexes are converted to values
-                within the DDC’s 0-5 range. The method used to perform this
-                conversion depends on the type of indicator. Through rescaling
-                all scores between 0 and 5 (no zero scores), the countries are
-                clearly within one of the five maturity stages of digital
-                development.
+                We recognize that the application and compliance with rights is context-specific and complex. Any numerical 
+                score is not bound to account for the entire picture within any given jurisdiction. Further, there is always 
+                the possibility of bias on part of the entity/individual compiling or aggregating a certain dataset. While we 
+                have endeavoured to provide reliable information, we emphasize that decisions or judgments should not be made 
+                solely on the basis of a score on the Digital Rights Dashboard.
+              </p>
+              <p>
+                It is important to note that the Digital Rights Dashboard should not be utilized as a statistical tool. Relying 
+                solely on the data presented on the Digital Rights Dashboard for statistical analysis or decision-making purposes 
+                is strongly discouraged. Any decisions made, actions taken, or consequences that arise from such decisions are the 
+                sole responsibility of the individuals or entities involved. UNDP will not be held liable or responsible for any damages 
+                or losses incurred as a result of decisions made based on the information provided on the Digital Rights Dashboard.
+              </p>
+              <p>
+                Users of the Digital Rights Dashboard are advised to exercise their own judgment, conduct independent research, and 
+                consult other reliable sources to obtain accurate and verified information before making any decisions or taking any 
+                actions. By accessing and using the Digital Development Compass, you acknowledge and agree to the terms of this disclaimer.
               </p>
             </div>
           </div>
         </div>
-        <div className="pt-10 overflow-x-auto">
-          <table className="w-full sm:w-3/5 mx-auto bg-white border border-gray-300">
-            {/* people */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[0].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[0].pillar}
-                    </td>
-                    {tableData[0].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[0].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[0].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-            {/* Connectivity */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[1].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[1].pillar}
-                    </td>
-                    {tableData[1].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[1].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[1].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-            {/* Government */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[2].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[2].pillar}
-                    </td>
-                    {tableData[2].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[2].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[2].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-            {/* Regulations */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[3].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[3].pillar}
-                    </td>
-                    {tableData[3].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[3].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[3].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-            {/* Economy */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[4].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[4].pillar}
-                    </td>
-                    {tableData[4].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[4].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[4].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-            {/* Digital Public Infrastructure  */}
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[5].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300 ">Pillar</th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300 ">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300 ">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                {tableData.length > 0 && (
-                  <React.Fragment>
-                    <td className="py-2 px-4 border-b border-gray-300 font-bold">
-                      {tableData[5].pillar}
-                    </td>
-                    {tableData[5].levels.map((level, levelIndex) => (
-                      <td
-                        key={levelIndex}
-                        className="py-2 px-4 border-b text-start border-gray-300"
-                      >
-                        {level}
-                      </td>
-                    ))}
-                  </React.Fragment>
-                )}
-              </tr>
-            </tbody>
-            <thead
-              style={{
-                backgroundColor: (ancillary.pillarColorMap as any)[
-                  tableData[5].pillar
-                ]?.base,
-                color: "white",
-              }}
-            >
-              <tr>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Sub-pillar
-                </th>
-                {/* <th className="py-2 px-4 border-b border-gray-300 bg-green-200">Sub-pillar</th> */}
-                <th className="py-2 px-4 border-b border-gray-300">Basic</th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Opportunistic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Systematic
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Differentiating
-                </th>
-                <th className="py-2 px-4 border-b border-gray-300">
-                  Transformational
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableData.length > 0 && (
-                <React.Fragment>
-                  {tableData[5].subPillars.map((subPillar, subIndex) => (
-                    <tr key={`0-${subIndex}`}>
-                      <td className="py-2 px-4 border-b border-gray-300">
-                        {subPillar.subPillar}
-                      </td>
-                      {subPillar.levels.map((subLevel, subLevelIndex) => (
-                        <td
-                          key={subLevelIndex}
-                          className="py-2 px-4 border-b text-start border-gray-300"
-                        >
-                          {subLevel}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </React.Fragment>
-              )}
-            </tbody>
-          </table>
-          <p className="text-center mt-2">
-            <em>Table 3. DDC definitions and scales</em>
-          </p>
-        </div>
-        <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
-          Download raw data file{" "}
-          <a
-            href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-            className="text-blue-300 text-lg"
-            id="downloadRawScoresFile"
-            onClick={handleDownloadClick}
-          >
-            {" "}
-            here
-          </a>
-        </p>
-        <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
-          <Link href="/disclaimer">
-            <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-              CLICK HERE TO ACCESS THE DISCLAIMER <img src="icons/chevron-right.svg" alt="icon"/>
-            </a>
-          </Link>
-        </p>
-        <div></div>
         <div className="flex justify-center mt-8">
           <button
             onClick={handleScrollToTop}
@@ -1286,24 +441,17 @@ export function PillarsTable() {
   return (
     <div className="overflow-x-auto">
       <table className="min-w-full border border-gray-300">
-        <thead className="bg-brand-blue" style={{ color: "#ffffff" }}>
-          <tr>
-            <th className="px-4 py-2 border text-left">Pillars</th>
-            <th className="px-4 py-2 border text-left">Sub-pillars</th>
-          </tr>
-        </thead>
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
           {pillarsTableData.map((item, index) => (
             <tr key={index}>
-              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
-                {item.pillar}
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold" width={80}>
+                {item.number}
               </td>
-              <td className="px-4 py-2 border border-gray-300 text-left">
-                <ul>
-                  {item.subPillars.map((subPillar, subIndex) => (
-                    <li key={subIndex}>{subPillar}</li>
-                  ))}
-                </ul>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
+                {item.stage}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+                {item.definition}
               </td>
             </tr>
           ))}
@@ -1312,63 +460,69 @@ export function PillarsTable() {
     </div>
   );
 }
-export function DimensionsTable() {
+export function FeTable() {
   return (
     <div className="overflow-x-auto">
-      <table className="min-w-full sm:4 bg-white border border-gray-300">
-        <thead className="bg-brand-blue text-white">
-          <tr>
-            <th className="px-1 py-2 border border-gray-300 text-left">
-              Dimension
-            </th>
-            <th className="px-1 py-2 border border-gray-300 text-left">
-              Question
-            </th>
-            <th className="px-1 py-2 border border-gray-300 text-left">Type</th>
-          </tr>
-        </thead>
-        <tbody className="bg-gray-100">
-          {dimensionsTable.map((item, index) => (
-            <React.Fragment key={index}>
-              <tr>
-                <td
-                  className="px-1 py-2 border border-gray-300 align-top text-left font-bold"
-                  rowSpan={item.questions.length}
-                >
-                  {item.dimension}
-                </td>
-                <td className="px-1 py-2 border border-gray-300 text-left">
-                  {item.questions[0].question}
-                  {item.questions[0].subQuestions &&
-                    item.questions[0].subQuestions.map(
-                      (subQuestion, subIndex) => (
-                        <div key={subIndex} className="ml-4">
-                          - {subQuestion}
-                        </div>
-                      )
-                    )}
-                </td>
-                <td className="px-1 py-2 border border-gray-300 text-left">
-                  {item.questions[0].type}
-                </td>
-              </tr>
-              {item.questions.slice(1).map((question, qIndex) => (
-                <tr key={qIndex}>
-                  <td className="px-1 py-2 border border-gray-300 text-left">
-                    {question.question}
-                    {question.subQuestions &&
-                      question.subQuestions.map((subQuestion, subIndex) => (
-                        <div key={subIndex} className="ml-4">
-                          - {subQuestion}
-                        </div>
-                      ))}
-                  </td>
-                  <td className="px-1 py-2 border border-gray-300 text-left">
-                    {question.type}
-                  </td>
-                </tr>
-              ))}
-            </React.Fragment>
+      <table className="min-w-full border border-gray-300">
+        <tbody style={{ backgroundColor: "#f3f4f6" }}>
+          {feTableData.map((item, index) => (
+            <tr key={index}>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold" width={80}>
+                {item.number}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
+                {item.stage}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+                {item.definition}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+export function RendTable() {
+  return (
+    <div className="overflow-x-auto">
+      <table className="min-w-full border border-gray-300">
+        <tbody style={{ backgroundColor: "#f3f4f6" }}>
+          {rendTableData.map((item, index) => (
+            <tr key={index}>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold" width={80}>
+                {item.number}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
+                {item.stage}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+                {item.definition}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+export function ReTable() {
+  return (
+    <div className="overflow-x-auto">
+      <table className="min-w-full border border-gray-300">
+        <tbody style={{ backgroundColor: "#f3f4f6" }}>
+          {rpTableData.map((item, index) => (
+            <tr key={index}>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold" width={80}>
+                {item.number}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
+                {item.stage}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+                {item.definition}
+              </td>
+            </tr>
           ))}
         </tbody>
       </table>
