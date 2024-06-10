@@ -190,7 +190,7 @@ html {
 }
 
 .footer-background-color {
-  background-color: #1F5A95;
+  background-color: #006EB5;
 }
 
 @media (max-width: 770px) {
@@ -221,5 +221,38 @@ html {
 @media (min-width: 770px) and (max-width: 800px) {
   .container {
     max-width: 100%;
+  }
+}
+
+.custom-mobile-bg-color {
+  background-color: #d9e7f0eb;
+}
+
+.custom-mobile-menu {
+  /* Custom slide-in animation from left to right */
+  animation: slide-in-left 0.6s ease-in-out forwards;
+}
+
+.custom-mobile-close-menu {
+  /* Custom slide-in animation from left to right */
+  animation: slide-out-left 0.6s ease-in-out forwards;
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+
+@keyframes slide-out-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
   }
 }
