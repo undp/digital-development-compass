@@ -88,7 +88,7 @@ export default function About(
                 <a
                   href="https://www.undp.org/digital/transformations"
                   target="_blank"
-                  className="text-blue-300"
+                  className="url-styling"
                 >
                   digital transformation framework
                 </a>
@@ -111,7 +111,7 @@ export default function About(
                 <a
                   href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
                   target="_blank"
-                  className="text-blue-300"
+                  className="url-styling"
                 >
                   an innovative partnership with GitHub
                 </a>
