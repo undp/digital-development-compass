@@ -584,7 +584,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             </div>
           </div>
         </aside>
-        <div className="md:flex-1 md:flex md:flex-col overflow-auto">
+        <div className="md:flex-1 md:flex md:flex-col overflow-auto" style={{zIndex:-10}}>
           <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
