@@ -36,7 +36,7 @@ const NavBar = () => {
       </Link>
       <span className="text-red-500">/</span>
       <Link href="/about">
-        <a className="ml-4 text-red-500">About</a>
+        <a className="ml-4 text-red-500 uppercase">About</a>
       </Link>
     </nav>
   );
