@@ -35,7 +35,12 @@ html {
 .rdg-header-sort-name+span {
   margin-left: 6px;
 }
+.url-styling{
+  border-bottom-width: 2px;
+  border-bottom-color: red;
+  padding-bottom: 1px;
 
+}
 .drawer {
   box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
     0 4px 8px rgba(89, 97, 104, 0.15), 0 6px 24px 10px rgba(89, 97, 104, 0.2);
