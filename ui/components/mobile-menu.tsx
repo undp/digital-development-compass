@@ -9,7 +9,7 @@ interface MobileMenuProps {
   countries: CountryNameAndAlpha[];
 }
 
-export function MobileMenu({ isOpen, onClose, countries }: MobileMenuProps) {
+export function MobileMenu({ isOpen, onClose}: MobileMenuProps) {
   const [activeLink, setActiveLink] = useState<string | null>(null);
 
   useEffect(() => {
