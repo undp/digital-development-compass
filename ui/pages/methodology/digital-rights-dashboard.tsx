@@ -26,7 +26,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
   
   const NavBar = () => {
     return (
-      <nav className="flex items-center justify-start p-4 pb-0">
+      <nav className="flex items-center justify-start p-4 pb-0 text-base sm:text-sm md:text-base">
         <Link href="/">
           <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
         </Link>
@@ -54,7 +54,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               <div className="container md:px-4 md:mx-auto">
                 <NavBar />
                 <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
-                  <h2 className="heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color">
+                <h2
+                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                  >
                   DIGITAL RIGHTS DASHBOARD
                   </h2>
                 </div>
