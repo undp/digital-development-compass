@@ -162,7 +162,7 @@ export default function About(
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
+                <h2 id="how-it-works" className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
                   How the Compass Works
                 </h2>
               </div>
@@ -203,7 +203,7 @@ export default function About(
 
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] pt-10 md:py-10 text-lg">
-            <h2 className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
+            <h2 id="digital-readiness" className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
@@ -212,7 +212,7 @@ export default function About(
           <MobilePillars pillars={pillars} definitions={definitions} />
 
           <div className="max-w-[40em] text-center py-10 text-lg">
-            <h2 className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
+            <h2 id="public-good" className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
               A Digital Public Good
             </h2>
           </div>
