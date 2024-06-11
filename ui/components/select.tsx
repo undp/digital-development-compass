@@ -1,6 +1,7 @@
 import { Listbox } from "@headlessui/react";
 import React from "react";
-import { HiSelector } from "react-icons/hi";
+import Image from "next/image";
+import chevronRight from "../public/chevron-right.svg";
 
 interface SelectProps<T> {
   value: T;
@@ -25,7 +26,14 @@ export function Select<T extends string>(props: SelectProps<T>) {
         <Listbox.Button className="focus:ring disabled:cursor-not-allowed disabled:opacity-75 focus:ring-brand-blue relative w-full py-2 pl-4 text-left bg-white border cursor-pointer shadow-sm focus:outline-none sm:text-sm">
           {trigger}
           <span className="absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
-            <HiSelector className="w-5 h-5 text-gray-400" aria-hidden="true" />
+            {/* <HiSelector className="w-5 h-5 text-gray-400" aria-hidden="true" /> */}
+            <Image
+                src={chevronRight}
+                alt="Chevron Right"
+                width={12}
+                height={12}
+                className="transform rotate-90" // Rotate to match dropdown arrow direction
+              />
           </span>
         </Listbox.Button>
         <Listbox.Options className="absolute w-auto left-0 right-0 py-1 mt-1 overflow-auto text-base bg-white shadow-lg max-h-60 ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm z-20">
