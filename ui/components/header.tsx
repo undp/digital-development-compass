@@ -1,10 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState, useRef } from "react";
-import { FaBars, FaTimes } from "react-icons/fa";
 import { SearchDialog } from "./search-dialog";
 import LogoSVG from "../public/undp-logo.svg";
 import { MobileMenu } from "./mobile-menu";
+import Hamburger from "../public/hamburger.svg";
+import Times from "../public/times-blue.svg";
 
 export function SiteName() {
   return (
@@ -31,8 +32,8 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
   const dropdownTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const { countries } = props;
 
-  const handleMenuToggle = () => {
-    setMobileMenuOpen((curr) => !curr);
+  const handleMenuToggle = (isOpen: boolean) => {
+    setMobileMenuOpen(isOpen);
   };
 
   const handleDropdownOpen = () => {
@@ -52,9 +53,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
     <>
       <header className="bg-white flex-shrink-0 border-b">
         {/* mobile */}
-        <div className="lg:hidden p-4 flex items-center justify-between h-28">
+        <div className="lg:hidden p-4 flex items-center justify-between h-24">
           <div className="flex items-center space-x-4">
-            <div className="w-9">
+            <div className="w-12">
               <Link href="/">
                 <a className="block relative">
                   <Image src={LogoSVG} alt="UNDP Logo" />
@@ -63,17 +64,21 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
             </div>
             <SiteName />
           </div>
-          <div className="flex items-end">
+          <div className="flex items-start">
             <button
-              onClick={handleMenuToggle}
-              className="bg-white font-semibold border-brand-blue hover:bg-brand-blue/10 px-4 py-2 text-brand-blue-dark flex-shrink-0 flex items-center"
+              onClick={() => handleMenuToggle(!mobileMenuOpen)}
+              className={`bg-white font-semibold border-brand-blue hover:bg-brand-blue/10 px-4 py-4 text-brand-blue-dark flex-shrink-0 flex items-center`}
             >
               <span className="tracking-wide">
-                {mobileMenuOpen ? <FaTimes /> : <FaBars />}
+                {mobileMenuOpen ? (
+                  <Image src={Times} alt="Close menu icon" />
+                ) : (
+                  <Image src={Hamburger} alt="Open menu icon" />
+                )}
               </span>
             </button>
             <div className="flex items-center justify-end">
-              <SearchDialog countries={countries} />
+              <SearchDialog countries={countries} isOpen={mobileMenuOpen} />
             </div>
           </div>
         </div>
