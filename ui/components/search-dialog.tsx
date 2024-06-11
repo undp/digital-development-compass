@@ -5,12 +5,14 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useCallback, useMemo, useState } from "react";
 import { useHotkeys } from "react-hotkeys-hook";
-import { IoSearch } from "react-icons/io5";
 import { useLocalStorage } from "react-use";
 import { matchSorter } from "match-sorter";
+import SearchIcon from "../public/search.svg"
+import Image from "next/image";
 
 interface SearchDialogProps {
   countries: CountryNameAndAlpha[];
+  isOpen?: boolean;
 }
 
 interface SearchDialogInnerProps extends SearchDialogProps {
@@ -167,7 +169,6 @@ export function SearchDialogInner(props: SearchDialogInnerProps) {
 
 export function SearchDialog(props: SearchDialogProps) {
   const [open, setOpen] = useState(false);
-
   useHotkeys("command+k", () => {
     setOpen(true);
   });
@@ -176,10 +177,9 @@ export function SearchDialog(props: SearchDialogProps) {
     <>
       <button
         onClick={() => setOpen(true)}
-        className="bg-white font-semibold  hover:bg-brand-blue-dark hover:text-white px-4 py-2 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center"
-      >
-        <IoSearch className="text-base mr-1" />
-  
+        className={`bg-white font-semibold hover:bg-white hover:text-white px-4 ${props.isOpen ? 'py-5' : 'py-4'} text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center`}
+        >
+        <Image src={SearchIcon} alt="SearchIcon" className="text-base mr-1" />
       </button>
 
       <Dialog

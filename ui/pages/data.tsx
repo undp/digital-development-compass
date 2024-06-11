@@ -18,6 +18,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import DataGrid, { Column, FormatterProps } from "react-data-grid";
 import { OverflowList } from "react-overflow-list";
+import chevronDown from "../public/chevron-down.svg";
 
 type SortDirection = "ASC" | "DESC";
 
@@ -79,13 +80,12 @@ export default function Data(
         width: 100,
         visible: true,
       })),
-      ...ancillary.digitalRightPillarName
-      .map((pillar) => ({
-        name: pillar,
-        key: `scores.${pillar}.score`,
-        width: 100,
-        visible: true,
-      })),
+    ...ancillary.digitalRightPillarName.map((pillar) => ({
+      name: pillar,
+      key: `scores.${pillar}.score`,
+      width: 100,
+      visible: true,
+    })),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -115,17 +115,22 @@ export default function Data(
   //   Regulation: undefined,
   //  });
 
-const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
-const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
-  acc[pillar] = undefined;
-  return acc;
-}, {});
+  const pillarNamesLists = db.pillarNames.filter(
+    (pillar) => pillar !== "Overall"
+  );
+  const initialScoreFilterState = pillarNamesLists.reduce(
+    (acc: any, pillar) => {
+      acc[pillar] = undefined;
+      return acc;
+    },
+    {}
+  );
 
-const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
-  initialScoreFilterState
-);
+  const [scoreFilter, setScoreFilter] = useState<
+    Record<string, number[] | undefined>
+  >(initialScoreFilterState);
 
-  const columns: Column<typeof data[0]>[] = useMemo(() => {
+  const columns: Column<(typeof data)[0]>[] = useMemo(() => {
     return [
       {
         key: "name",
@@ -225,7 +230,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             name: pillar,
             cellClass: `p-0`,
             headerCellClass: "text-right",
-            formatter(props: FormatterProps<typeof data[0]>) {
+            formatter(props: FormatterProps<(typeof data)[0]>) {
               // @ts-ignore
               let score = props.row.scores[pillar].score;
               let confidence;
@@ -263,67 +268,68 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             },
           };
         }),
-        ...ancillary.digitalRightPillarName
-        .map((pillar) => {
-          const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
+      ...ancillary.digitalRightPillarName.map((pillar) => {
+        const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
 
-          const bgScale = scaleLinear<string>()
-            .domain([0, 5])
-            .range(["#fff", pillarColor]);
+        const bgScale = scaleLinear<string>()
+          .domain([0, 5])
+          .range(["#fff", pillarColor]);
 
-          return {
-            width: 190,
-            key: `scores.${pillar}.score`,
-            name: pillar,
-            cellClass: `p-0`,
-            headerCellClass: "text-right",
-            formatter(props: FormatterProps<typeof data[0]>) {
+        return {
+          width: 190,
+          key: `scores.${pillar}.score`,
+          name: pillar,
+          cellClass: `p-0`,
+          headerCellClass: "text-right",
+          formatter(props: FormatterProps<(typeof data)[0]>) {
+            // @ts-ignore
+            let score = props.row.digitalRightScores[pillar].score;
+            let confidence;
+            confidence =
               // @ts-ignore
-              let score = props.row.digitalRightScores[pillar].score;
-              let confidence;
-              confidence =
-                // @ts-ignore
-                !props.row.digitalRightScores[pillar].confidence
-                  ? null
-                  : // @ts-ignore
-                    props.row.digitalRightScores[pillar].confidence;
+              !props.row.digitalRightScores[pillar].confidence
+                ? null
+                : // @ts-ignore
+                  props.row.digitalRightScores[pillar].confidence;
 
-              return (
-                <div className="relative px-2 h-full group z-0">
-                  <div
-                    className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
-                    style={{
-                      backgroundColor: displaySettings.showHeatmap
-                        ? bgScale(score || 0)
-                        : "transparent",
-                    }}
-                  ></div>
-                  <div className="flex h-full items-center justify-between z-10">
-                    {!!confidence && displaySettings.showConfidence && (
-                      <ProgressPill
-                        bar="white"
-                        background={pillarColor}
-                        border={pillarColor}
-                        value={confidence}
-                        label={`${Math.ceil(confidence)}%`}
-                      />
-                    )}
-                    <p className="font-mono text-right flex-1">{score}</p>
-                  </div>
+            return (
+              <div className="relative px-2 h-full group z-0">
+                <div
+                  className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
+                  style={{
+                    backgroundColor: displaySettings.showHeatmap
+                      ? bgScale(score || 0)
+                      : "transparent",
+                  }}
+                ></div>
+                <div className="flex h-full items-center justify-between z-10">
+                  {!!confidence && displaySettings.showConfidence && (
+                    <ProgressPill
+                      bar="white"
+                      background={pillarColor}
+                      border={pillarColor}
+                      value={confidence}
+                      label={`${Math.ceil(confidence)}%`}
+                    />
+                  )}
+                  <p className="font-mono text-right flex-1">{score}</p>
                 </div>
-              );
-            },
-          };
-        }),  
+              </div>
+            );
+          },
+        };
+      }),
     ];
   }, [displaySettings]);
 
-  
   const maybeFilteredRows = useMemo(() => {
     const byName = matchSorter(data, countryFilter, { keys: ["name"] });
     return byName
       .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
-      .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
+      .filter(
+        (datum) =>
+          subregionFilter === "*" || datum.subregion === subregionFilter
+      )
       .filter((datum) => {
         return pillarNamesLists.every((pillar) =>
           filterPillarByRange(datum, pillar, scoreFilter[pillar])
@@ -475,9 +481,9 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   ]) as AppliedFilter[];
 
   const createHistogramInputs = () => {
-    return pillarNamesLists.map(pillarName => {
+    return pillarNamesLists.map((pillarName) => {
       const scores = useMemo(() => {
-        return data.map((datum:any) => datum.scores[pillarName]?.score || 0);
+        return data.map((datum: any) => datum.scores[pillarName]?.score || 0);
       }, [data]);
 
       return (
@@ -526,22 +532,28 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 >
                   Region
                 </label>
-                <select
-                  id="region"
-                  name="region"
-                  className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
-                  onChange={(e) => setRegionFilter(e.target.value)}
-                  value={regionFilter}
-                >
-                  <option value="*">All</option>
-                  {regions.map((region) => {
-                    return (
+                <div className="relative">
+                  <select
+                    id="region"
+                    name="region"
+                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md appearance-none bg-no-repeat bg-right"
+                    onChange={(e) => setRegionFilter(e.target.value)}
+                    value={regionFilter}
+                    style={{
+                      backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
+                      backgroundSize: "12px", // Size of the SVG icon
+                      backgroundPosition: "right 0.5rem center", // Position the SVG icon
+                      backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
+                    }}
+                  >
+                    <option value="*">All</option>
+                    {regions.map((region) => (
                       <option key={region} value={region}>
                         {region}
                       </option>
-                    );
-                  })}
-                </select>
+                    ))}
+                  </select>
+                </div>
               </div>
               <div>
                 <label
@@ -560,6 +572,12 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                       "opacity-50 cursor-not-allowed": subregionSelectDisabled,
                     },
                   ])}
+                  style={{
+                    backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
+                    backgroundSize: "12px", // Size of the SVG icon
+                    backgroundPosition: "right 0.5rem center", // Position the SVG icon
+                    backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
+                  }}
                   onChange={(e) => setSubregionFilter(e.target.value)}
                   value={subregionFilter}
                 >
@@ -584,7 +602,10 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             </div>
           </div>
         </aside>
-        <div className="md:flex-1 md:flex md:flex-col overflow-auto">
+        <div
+          className="md:flex-1 md:flex md:flex-col overflow-auto"
+          style={{ zIndex: -10 }}
+        >
           <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">

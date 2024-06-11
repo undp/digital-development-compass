@@ -15,7 +15,7 @@ import { ancillary } from "database/ancillary";
 import Image from "next/image";
 import Script from "next/script";
 import YouTube from "react-youtube";
-
+import chevronRight from "../public/chevron-right.svg";
 import githubScreenshot from "../public/github.png";
 
 const AboutScrollytelling = dynamic(
@@ -30,14 +30,39 @@ type Definitions = Dictionary<Definition[]>;
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-start p-4">
+    <nav className="flex items-center justify-start p-4 text-base sm:text-sm md:text-base">
       <Link href="/">
         <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
       </Link>
       <span className="text-red-500">/</span>
       <Link href="/about">
-        <a className="ml-4 text-red-500">About</a>
+        <a className="ml-4 text-red-500 uppercase">About</a>
       </Link>
+    </nav>
+  );
+};
+
+const SideMenuBar = () => {
+  return (
+    <nav className="fixed top-20 left-8 w-64 bg-white shadow-lg p-4 rounded-md">
+      <h2 className="text-lg font-semibold mb-4">Quick Links</h2>
+      <ul className="space-y-2">
+        <li>
+          <Link href="#how-it-works">
+            <a className="text-blue-600 hover:underline">How the Compass Works</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="#digital-readiness">
+            <a className="text-blue-600 hover:underline">Stages of Digital Readiness</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="#public-good">
+            <a className="text-blue-600 hover:underline">A Digital Public Good</a>
+          </Link>
+        </li>
+      </ul>
     </nav>
   );
 };
@@ -62,7 +87,10 @@ export default function About(
               <div className="container md:px-4 md:mx-auto">
                 <NavBar />
                 <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
-                  <h2 className="heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color">
+                <h2
+                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                  >
                     About
                   </h2>
                 </div>
@@ -70,9 +98,13 @@ export default function About(
             </div>
           </div>
         </div>
-        <div className="container px-4 mx-auto">
+       
+        <div className="container px-4 mx-auto flex">
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9 text-justify">
+              <div className="flex">
+              <SideMenuBar />
+                <div>
               <p>
                 The Digital Development Compass provides an analysis of national
                 digital development based on a comprehensive collection of
@@ -123,12 +155,14 @@ export default function About(
                 or reflections regarding the data or results, please contact us
                 via the chatbox.
               </p>
+              </div>
+              </div>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
+                <h2 id="how-it-works" className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
                   How the Compass Works
                 </h2>
               </div>
@@ -169,7 +203,7 @@ export default function About(
 
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] pt-10 md:py-10 text-lg">
-            <h2 className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
+            <h2 id="digital-readiness" className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
@@ -178,7 +212,7 @@ export default function About(
           <MobilePillars pillars={pillars} definitions={definitions} />
 
           <div className="max-w-[40em] text-center py-10 text-lg">
-            <h2 className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
+            <h2 id="public-good" className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
               A Digital Public Good
             </h2>
           </div>
@@ -273,8 +307,11 @@ export default function About(
             </p> */}
             <p>
               <Link href="/methodology">
-                <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider text-justify">
-                  READ THE METHODOLOGY
+                <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider hover:underline text-justify flex items-center">
+                  CLICK HERE TO READ THE METHODOLOGY
+                  <div className="ml-4 sm:mt-1">
+                    <Image src={chevronRight} alt="chevronRight" />
+                  </div>
                 </a>
               </Link>
             </p>
@@ -568,16 +605,20 @@ const Scrollytelling = ({ country }: { country: any }) => {
   const countryFocusedSubpillar =
     country["scores"][focusedSubpillar[0]][focusedSubpillar[1]];
 
-  const pillarColor =
-    (ancillary.pillarColorMap as any)[focusedSubpillar[0]]?.base || "black";
-  let darkerColor = lab(pillarColor);
-  darkerColor.b += 90;
-  darkerColor.a += 10;
-  darkerColor.l += 40;
-  let lighterColor = lab(pillarColor);
-  lighterColor.b -= 9;
-  lighterColor.a += 10;
-  lighterColor.l -= 10;
+  // const pillarColor =
+  //   (ancillary.pillarColorMap as any)[focusedSubpillar[0]]?.base || "black";
+  
+  let pillarColorLighter = "#B8ECB6";
+  let pillarColorDarker = "#3632a8";
+
+  let darkerColor = lab(pillarColorDarker);
+  // darkerColor.b += 90;
+  // darkerColor.a += 10;
+  // darkerColor.l += 40;
+  let lighterColor = lab(pillarColorLighter);
+  // lighterColor.b -= 9;
+  // lighterColor.a += 10;
+  // lighterColor.l -= 10;
   const stepColors = scaleLinear<string>()
     .domain([0, 6])
     .range([lighterColor.formatHex(), darkerColor.formatHex()])

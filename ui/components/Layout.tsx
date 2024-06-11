@@ -7,7 +7,7 @@ import Image from "next/image";
 import { Header } from "./header";
 // import Link from "next/link";
 import CookieConsent from "./cookie-consent";
-import LogoSVG from "../public/undp-logo.svg";
+import LogoSVG from "../public/undp-white-logo.svg";
 import {
   FaFacebookF,
   FaTwitter,
@@ -140,8 +140,8 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               &copy; 2024 United Nations Development Programme
             </p>
             <a
-              href="https://www.undp.org/terms-of-use"
-              className="text-sm order-1 lg:order-2 mb-2 lg:mb-0"
+              href="https://www.undp.org/copyright-terms-use"
+              className="text-sm order-1 lg:order-2 mb-2 lg:mb-0 hover:underline"
             >
               Terms Of Use
             </a>

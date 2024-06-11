@@ -18,22 +18,24 @@ import {
   dimensionsTable,
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
+import chevronRight from "../../public/chevron-right.svg";
+import downloadDefault from "../../public/download-default.svg";
 
 const NavBar = () => {
-    return (
-      <nav className="flex items-center justify-start p-4 pb-0">
-        <Link href="/">
-          <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
-        </Link>
-        <span className="text-red-500 mr-4">/</span>
-        <span className="text-red-500 mr-4">METHODOLOGY</span>
-        <span className="text-red-500">/</span>
-        <Link href="/methodology/digital-development-compass">
-          <a className="ml-4 text-red-500">DIGITAL DEVELOPMENT COMPASS</a>
-        </Link>
-      </nav>
-    );
-  };
+  return (
+    <nav className="flex items-center justify-start p-4 pb-0 text-base sm:text-sm md:text-base">
+      <Link href="/">
+        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+      </Link>
+      <span className="text-red-500 mr-4">/</span>
+      <span className="text-red-500 mr-4">METHODOLOGY</span>
+      <span className="text-red-500">/</span>
+      <Link href="/methodology/digital-development-compass">
+        <a className="ml-4 text-red-500">DIGITAL DEVELOPMENT COMPASS</a>
+      </Link>
+    </nav>
+  );
+};
 
 export default function DIGITAL_DEVELOPMENT_COMPASS(
   props: InferGetStaticPropsType<typeof getStaticProps>
@@ -69,14 +71,17 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
-      <div className="px-5 pb-5">
+        <div className="px-5 pb-5">
           <div className="w-full bg-gray-200 md:px-20">
             <div className="md:mx-auto">
               <div className="container md:px-4 md:mx-auto">
                 <NavBar />
                 <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
-                  <h2 className="heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color">
-                  DIGITAL DEVELOPMENT COMPASS
+                  <h2
+                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                  >
+                    DIGITAL DEVELOPMENT COMPASS
                   </h2>
                 </div>
               </div>
@@ -224,9 +229,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <PillarsTable />
                 <p className="text-center mt-2">
                   <em>
-                    Table 1. UNDP’s{" "}
-                      Inclusive Whole-Of-Society Digital Transformation
-                      Framework: Pillars and sub-pillars
+                    Table 1. UNDP’s Inclusive Whole-Of-Society Digital
+                    Transformation Framework: Pillars and sub-pillars
                   </em>
                 </p>
               </div>
@@ -1206,22 +1210,39 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             <em>Table 3. DDC definitions and scales</em>
           </p>
         </div>
-        <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
-          Download raw data file{" "}
-          <a
-            href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-            className="text-blue-300 text-lg"
-            id="downloadRawScoresFile"
-            onClick={handleDownloadClick}
-          >
-            {" "}
-            here
-          </a>
-        </p>
+        <div className="flex w-3/5 md:w-3/5 sm:w-4/5 mx-auto pb-4">
+          <div className="bg-gray-200 px-4 py-2 max-w-xs">
+            <p className="text-lg mb-1">
+              Raw Data
+              <br />
+              <span className="text-sm text-gray-600">PDF (800kb)</span>
+            </p>
+            <div className="text-lg font-bold flex items-center mt-2">
+              DOWNLOAD
+              <a
+                href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+                className="text-red-500 flex items-center ml-2"
+                id="downloadRawScoresFile"
+                onClick={handleDownloadClick}
+              >
+                <Image
+                  src={downloadDefault} // Replace with the correct path to your download icon
+                  alt="download"
+                  width={16}
+                  height={16}
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+
         <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
-          <Link href="/disclaimer">
-            <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-              CLICK HERE TO ACCESS THE DISCLAIMER <img src="icons/chevron-right.svg" alt="icon"/>
+        <Link href="/disclaimer">
+            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider hover:underline flex items-center">
+              CLICK HERE TO ACCESS THE DISCLAIMER
+              <div className="ml-2 sm:mt-1">
+                <Image src={chevronRight} alt="chevronRight" />
+              </div>
             </a>
           </Link>
         </p>
