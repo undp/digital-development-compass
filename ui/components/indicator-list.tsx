@@ -2,8 +2,9 @@ import { Pillar } from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { useState } from "react";
-import { FaLink } from "react-icons/fa";
 import useSWR from "swr";
+import ExternalDefault from "../public/external-default.svg"
+import Image from "next/image";
 
 interface IndicatorListProps {
   country: string;
@@ -273,8 +274,8 @@ const Indicator = ({
                   className="group flex items-center"
                   target="_blank"
                   href={source.link}
-                >
-                  <FaLink className="group-hover:no-underline mr-1 flex-none" />
+                >  
+                 <Image src={ExternalDefault} height={12} alt="ExternalDefault" className="group-hover:no-underline mr-1 flex-none" />
                   <span className="group-hover:underline">
                     {source.source}
                   </span>{" "}
