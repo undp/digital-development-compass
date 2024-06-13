@@ -67,7 +67,7 @@ const IndexPage = ({
               </div>
             </div>
           </div>
-          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50 " style={{zIndex:-10}}>
+          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50 ">
             <AnimatePresence>
               {activeCountry && (
                 <motion.div
