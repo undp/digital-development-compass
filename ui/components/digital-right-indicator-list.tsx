@@ -1,9 +1,10 @@
-import { DigitalRightsPillar} from "database/ancillary";
+import { DigitalRightsPillar } from "database/ancillary";
 import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { useState } from "react";
 import useSWR from "swr";
-import ExternalDefault from "../public/external-default.svg"
+import ExternalDefault from "../public/external-default.svg";
+import ExternalDefaultHover from "../public/external-hover.svg";
 import Image from "next/image";
 interface IndicatorListProps {
   country: string;
@@ -14,11 +15,7 @@ interface IndicatorListProps {
   showSources: boolean;
 }
 
-const fetchIndicators = async (
-  _: string,
-  country: string,
-  pillar: string,
-) => {
+const fetchIndicators = async (_: string, country: string, pillar: string) => {
   let url = `/api/digital-right-indicators`;
   let params = { country, pillar };
   let stringifiedParams = new URLSearchParams(params).toString();
@@ -36,10 +33,7 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
     showMissingIndicators,
     showSources,
   } = props;
-  const { data } = useSWR(
-    ["indicators", country, pillar],
-    fetchIndicators
-  );
+  const { data } = useSWR(["indicators", country, pillar], fetchIndicators);
   if (!data)
     return <p className="text-sm text-gray-600">Loading indicator data...</p>;
 
@@ -54,31 +48,38 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
   return (
     <div>
       <ul className="space-y-2">
-        { data.filter( (ind : any) => ind['data_status'] === ( '1' )).map((indicator: any) => (
-          <Indicator
-            key={indicator.Indicator}
-            indicator={indicator}
-            showSources={showSources}
-            isShowingRawScores={isShowingRawScores}
-          />
-        ))}
+        {data
+          .filter((ind: any) => ind["data_status"] === "1")
+          .map((indicator: any) => (
+            <Indicator
+              key={indicator.Indicator}
+              indicator={indicator}
+              showSources={showSources}
+              isShowingRawScores={isShowingRawScores}
+            />
+          ))}
         {!showMissingIndicators && (
           <MissingIndicators
-            filledIndicators={data.filter( (ind : any) => ind['data_status'] === ('1' || '0' ))}
+            filledIndicators={data.filter(
+              (ind: any) => ind["data_status"] === ("1" || "0")
+            )}
             country={country}
             pillar={pillar}
             showSources={showSources}
             isShowingRawScores={isShowingRawScores}
           />
         )}
-        {showMissingIndicators && data.filter( (ind : any) => ind['data_status'] === '0' ).map((indicator: any) => (
-          <Indicator
-            key={indicator.Indicator}
-            indicator={indicator}
-            showSources={showSources}
-            isShowingRawScores={isShowingRawScores}
-          />
-        ))}
+        {showMissingIndicators &&
+          data
+            .filter((ind: any) => ind["data_status"] === "0")
+            .map((indicator: any) => (
+              <Indicator
+                key={indicator.Indicator}
+                indicator={indicator}
+                showSources={showSources}
+                isShowingRawScores={isShowingRawScores}
+              />
+            ))}
       </ul>
     </div>
   );
@@ -87,10 +88,10 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
 const fetchIndicatorsForPillar = async (
   _: string,
   country: string,
-  pillar: string,
+  pillar: string
 ) => {
   let url = `/api/digital-right-indicators-for-pillar`;
-  let params = { country, pillar};
+  let params = { country, pillar };
   let stringifiedParams = new URLSearchParams(params).toString();
   // @ts-ignore
   const res = await fetch(`${url}?${stringifiedParams}`);
@@ -145,7 +146,6 @@ const MissingIndicators = ({
   );
 };
 
-
 const Indicator = ({
   indicator,
   showSources,
@@ -156,31 +156,36 @@ const Indicator = ({
   isShowingRawScores: boolean;
 }) => {
   const hasNoData = indicator.data_col === null;
+  const [isIconHovered, setIconIsHovered] = useState(false);
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
-  const sources = (indicator.sources || [indicator]).map(indicator => ({
-    link: indicator["Source URL"],
-    source: indicator["Source Name"],
-    year: indicator["Year"]
-  })).filter(indicator => indicator.source && indicator.link)
+  const sources = (indicator.sources || [indicator])
+    .map((indicator) => ({
+      link: indicator["Source URL"],
+      source: indicator["Source Name"],
+      year: indicator["Year"],
+    }))
+    .filter((indicator) => indicator.source && indicator.link);
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
-  const disp_val = (value==0 ? 0 : roundNumber(value,2));
+  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
   const [isHovered, setIsHovered] = useState(false);
 
   const renderValue = () => {
     if (isShowingRawScores && indicator.raw_data_col) {
       const number = parseFloat(indicator.raw_data_col);
       if (!isNaN(number)) {
-        return number;  
+        return number;
       }
-      const cleanedData = indicator.raw_data_col.replace(/^["']+|["']+$/g, '').trim();
+      const cleanedData = indicator.raw_data_col
+        .replace(/^["']+|["']+$/g, "")
+        .trim();
 
       if (cleanedData.length > 9) {
         // Find the first word
-        const firstWord = cleanedData.split(' ')[0];
-        
+        const firstWord = cleanedData.split(" ")[0];
+
         return (
           <span
             onMouseEnter={() => setIsHovered(true)}
@@ -197,17 +202,16 @@ const Indicator = ({
     }
   };
 
-
   const getWidthClass = () => {
     if (!indicator || !indicator.raw_data_col) {
       return "";
     }
-  
+
     if (indicator.raw_data_col.length <= 7) {
       return "w-auto";
     }
     if (indicator.raw_data_col.length < 20) {
-    return "sm:w-40 md:w-70 lg:w-128";
+      return "sm:w-40 md:w-70 lg:w-128";
     }
     return "sm:w-80 md:w-80 lg:w-128";
   };
@@ -218,10 +222,13 @@ const Indicator = ({
         <span className="text-sm">{indicator?.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
           {renderValue()}
-          {isHovered && (indicator?.raw_data_col) && (
-              <div className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
-              ${getWidthClass()} p-2`}>
-              {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, '').trim() || ''}
+          {isHovered && indicator?.raw_data_col && (
+            <div
+              className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
+              ${getWidthClass()} p-2`}
+            >
+              {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, "").trim() ||
+                ""}
             </div>
           )}
         </span>
@@ -257,11 +264,26 @@ const Indicator = ({
                   className="group flex items-center"
                   target="_blank"
                   href={source.link}
-                > 
-                <Image src={ExternalDefault} height={12} alt="ExternalDefault" className="group-hover:no-underline mr-1 flex-none" />
-                  <span className="group-hover:underline">
-                    {source.source}
-                  </span> &nbsp; 
+                  onMouseEnter={() => setIconIsHovered(true)}
+                  onMouseLeave={() => setIconIsHovered(false)}
+                >
+                  {isIconHovered ? (
+                    <Image
+                      src={ExternalDefaultHover}
+                      height={12}
+                      alt="ExternalDefaultHover"
+                      className="mr-1 flex-none"
+                    />
+                  ) : (
+                    <Image
+                      src={ExternalDefault}
+                      height={12}
+                      alt="ExternalDefault"
+                      className="mr-1 flex-none"
+                    />
+                  )}
+                  <span className="group-hover:underline">{source.source}</span>{" "}
+                  &nbsp;
                   <span className="group-hover:no-underline">
                     -<em>&nbsp;{source.year}</em>
                   </span>
