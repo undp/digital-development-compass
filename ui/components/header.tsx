@@ -119,18 +119,18 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               </button>
               {dropdownOpen && (
                 <div
-                  className="absolute bg-white border mt-2 rounded shadow-lg w-full"
+                  className="absolute bg-white border mt-2 rounded shadow-lg w-full z-20" // Ensure the z-index is higher than the data grid
                   onMouseEnter={handleDropdownOpen}
                   onMouseLeave={handleDropdownClose}
-                  style={{ width: "280px" }} // Increase the width of the dropdown menu
+                  style={{ width: "280px" }}
                 >
                   <Link href="/methodology/digital-development-compass">
-                    <a className="px-4 z-10 bg-white py-2 h-20 items-center flex justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider border-b whitespace-nowrap">
+                    <a className="px-4 z-30 bg-white py-2 h-20 items-center flex justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider border-b whitespace-nowrap">
                       Digital Development Compass
                     </a>
                   </Link>
                   <Link href="/methodology/digital-rights-dashboard">
-                    <a className="px-4 py-2 h-20 flex items-center justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider whitespace-nowrap">
+                    <a className="px-4 z-30 py-2 h-20 flex items-center justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider whitespace-nowrap">
                       Digital Rights Dashboard
                     </a>
                   </Link>
