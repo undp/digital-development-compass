@@ -18,7 +18,6 @@ import YouTube from "react-youtube";
 import chevronRight from "../public/chevron-right.svg";
 import arrowBase from "../public/arrow-base.svg";
 import githubScreenshot from "../public/github.png";
-import chevronDown from "../public/chevron-down.svg";
 
 const AboutScrollytelling = dynamic(
   () => import("components/about-scrollytelling"),
