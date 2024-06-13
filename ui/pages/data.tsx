@@ -546,10 +546,7 @@ export default function Data(
             </div>
           </div>
         </aside>
-        <div
-          className="md:flex-1 md:flex md:flex-col overflow-auto"
-          style={{ zIndex: -10 }}
-        >
+        <div className="md:flex-1 md:flex md:flex-col overflow-auto">
           <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
@@ -605,7 +602,9 @@ export default function Data(
               </Link>
              </div>
           </div>
-          <div className="hidden md:block flex-1 flex-col">
+          <div
+            className="hidden md:block flex-1 flex-col z-0" // Set to a positive value or 0 if no overlap is needed
+          >
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,
