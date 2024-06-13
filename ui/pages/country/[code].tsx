@@ -33,7 +33,6 @@ type Props = {
 };
 
 const NavBar = ({ country }: any) => {
-  console.log("country", country);
   const countryUrl = `/country/${country["ISO-alpha3 Code"]}`;
   return (
     <nav className="flex items-center justify-start p-4 text-base sm:text-sm md:text-base">
