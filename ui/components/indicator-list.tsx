@@ -3,7 +3,8 @@ import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { useState } from "react";
 import useSWR from "swr";
-import ExternalDefault from "../public/external-default.svg"
+import ExternalDefault from "../public/external-default.svg";
+import ExternalDefaultHover from "../public/external-hover.svg";
 import Image from "next/image";
 
 interface IndicatorListProps {
@@ -171,6 +172,7 @@ const Indicator = ({
   isShowingRawScores: boolean;
 }) => {
   const hasNoData = indicator.data_col === null;
+  const [isIconHovered, setIconIsHovered] = useState(false);
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
   const sources = (indicator.sources || [indicator])
@@ -190,14 +192,16 @@ const Indicator = ({
     if (isShowingRawScores && indicator.raw_data_col) {
       const number = parseFloat(indicator.raw_data_col);
       if (!isNaN(number)) {
-        return number;  
+        return number;
       }
-      const cleanedData = indicator.raw_data_col.replace(/^["']+|["']+$/g, '').trim();
+      const cleanedData = indicator.raw_data_col
+        .replace(/^["']+|["']+$/g, "")
+        .trim();
 
       if (cleanedData.length > 9) {
         // Find the first word
-        const firstWord = cleanedData.split(' ')[0];
-        
+        const firstWord = cleanedData.split(" ")[0];
+
         return (
           <span
             onMouseEnter={() => setIsHovered(true)}
@@ -233,12 +237,13 @@ const Indicator = ({
         <span className="text-sm">{indicator?.Indicator}</span>
         <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
           {renderValue()}
-          {isHovered && (indicator.raw_data_col) && (
+          {isHovered && indicator.raw_data_col && (
             <div
               className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
               ${getWidthClass()} p-2`}
             >
-              {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, '').trim() || ""}
+              {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, "").trim() ||
+                ""}
             </div>
           )}
         </span>
@@ -274,11 +279,25 @@ const Indicator = ({
                   className="group flex items-center"
                   target="_blank"
                   href={source.link}
-                >  
-                 <Image src={ExternalDefault} height={12} alt="ExternalDefault" className="group-hover:no-underline mr-1 flex-none" />
-                  <span className="group-hover:underline">
-                    {source.source}
-                  </span>{" "}
+                  onMouseEnter={() => setIconIsHovered(true)}
+                  onMouseLeave={() => setIconIsHovered(false)}
+                >
+                  {isIconHovered ? (
+                    <Image
+                      src={ExternalDefaultHover}
+                      height={12}
+                      alt="ExternalDefaultHover"
+                      className="mr-1 flex-none"
+                    />
+                  ) : (
+                    <Image
+                      src={ExternalDefault}
+                      height={12}
+                      alt="ExternalDefault"
+                      className="mr-1 flex-none"
+                    />
+                  )}
+                  <span className="group-hover:underline">{source.source}</span>{" "}
                   &nbsp;
                   <span className="group-hover:no-underline">
                     -<em>&nbsp;{source.year}</em>

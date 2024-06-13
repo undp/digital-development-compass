@@ -16,6 +16,7 @@ import Image from "next/image";
 import Script from "next/script";
 import YouTube from "react-youtube";
 import chevronRight from "../public/chevron-right.svg";
+import arrowBase from "../public/arrow-base.svg";
 import githubScreenshot from "../public/github.png";
 
 const AboutScrollytelling = dynamic(
@@ -42,28 +43,120 @@ const NavBar = () => {
   );
 };
 
+const handleScroll = (e: any) => {
+  e.preventDefault(); // Prevent default anchor link behavior
+  const targetId = e.currentTarget.getAttribute("href").slice(1); // Extract the target ID from the href attribute
+  const targetElement = document.getElementById(targetId);
+
+  if (targetElement) {
+    targetElement.scrollIntoView({ behavior: "smooth" });
+  }
+};
+
 const SideMenuBar = () => {
   return (
-    <nav className="fixed top-20 left-8 w-64 bg-white shadow-lg p-4 rounded-md">
-      <h2 className="text-lg font-semibold mb-4">Quick Links</h2>
-      <ul className="space-y-2">
+    <nav className="absolute left-0 top-0 h-full sideLink">
+      <ul className="space-y-6 p-4">
+        {" "}
+        {/* Adjust space between items and padding */}
         <li>
-          <Link href="#how-it-works">
-            <a className="text-blue-600 hover:underline">How the Compass Works</a>
-          </Link>
+          <a
+            href="#how-it-works"
+            onClick={handleScroll}
+            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4 transition-colors duration-300"
+          >
+            How the Compass Works
+          </a>
         </li>
         <li>
-          <Link href="#digital-readiness">
-            <a className="text-blue-600 hover:underline">Stages of Digital Readiness</a>
-          </Link>
+          <a
+            href="#digital-readiness"
+            onClick={handleScroll}
+            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4  transition-colors duration-300"
+          >
+            Stages of Digital Readiness by Transformation Pillar
+          </a>
         </li>
         <li>
-          <Link href="#public-good">
-            <a className="text-blue-600 hover:underline">A Digital Public Good</a>
-          </Link>
+          <a
+            href="#public-good"
+            onClick={handleScroll}
+            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4  transition-colors duration-300"
+          >
+            A Digital Public Good
+          </a>
         </li>
       </ul>
     </nav>
+  );
+};
+
+const SideMenuBarMobile = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleDropdown = () => {
+    setIsOpen(!isOpen);
+  };
+  return (
+    <div className="relative inline-block text-left w-full px-5">
+      <button
+        onClick={toggleDropdown}
+        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${  isOpen ? "border-black" : ""} `}
+      >
+        Menu
+        <svg
+          className={`w-5 h-5  transition-transform ${
+            isOpen ? "rotate-180 mb-2" : "rotate-0 mt-2"
+          }`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M19 0.999969L10 11L1 0.999969"
+            stroke="#EE402D"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+      <div
+        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"}`}
+        style={{ overflow: 'hidden' }}
+      >
+        <div
+          className="py-0 px-5 flex flex-col  justify-center"
+          role="menu"
+          aria-orientation="vertical"
+          aria-labelledby="options-menu"
+        >
+          <a
+           href="#how-it-works"
+           onClick={handleScroll}
+            className="flex items-center justify-start bg-gray-200 font-semibold px-4 uppercase py-2 text-base text h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
+            role="menuitem"
+          >
+              How the Compass Works
+          </a>
+          <a
+            href="#digital-readiness"
+            onClick={handleScroll}
+            className="flex items-center justify-start bg-gray-200 px-4 uppercase py-2 text-base font-semibold h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
+            role="menuitem"
+          >
+           Stages of Digital Readiness by Transformation Pillar
+          </a>
+          <a
+            href="#public-good"
+            onClick={handleScroll}
+            className="flex items-center justify-start bg-gray-200 px-4 uppercase py-2 text-base font-semibold h-20 text-gray-800 hover:button-bg-color hover:text-white"
+            role="menuitem"
+          >
+            A Digital Public Good
+          </a>
+        </div>
+      </div>
+    </div>
   );
 };
 
@@ -72,6 +165,7 @@ export default function About(
 ) {
   const { definitions, countries, country } = props;
   const pillars = Object.keys(definitions);
+  const [isHovered, setIsHovered] = useState(false);
 
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;
@@ -80,14 +174,14 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="py-4">
+      <div className="py-6">
         <div className="px-5 pb-5">
           <div className="w-full bg-gray-200 md:px-20">
             <div className="md:mx-auto">
               <div className="container md:px-4 md:mx-auto">
                 <NavBar />
                 <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
-                <h2
+                  <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{ fontFamily: "SohneBreitFont, sans-serif" }}
                   >
@@ -98,13 +192,15 @@ export default function About(
             </div>
           </div>
         </div>
-       
+        <div className="flex items-center justify-center md:hidden lg:hidden">
+          <SideMenuBarMobile />
+        </div>
+        <div className="hidden md:block lg:block viewMenu">
+          <SideMenuBar />
+        </div>
         <div className="container px-4 mx-auto flex">
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9 text-justify">
-              <div className="flex">
-              <SideMenuBar />
-                <div>
               <p>
                 The Digital Development Compass provides an analysis of national
                 digital development based on a comprehensive collection of
@@ -155,14 +251,15 @@ export default function About(
                 or reflections regarding the data or results, please contact us
                 via the chatbox.
               </p>
-              </div>
-              </div>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 id="how-it-works" className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
+                <h2
+                  id="how-it-works"
+                  className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6"
+                >
                   How the Compass Works
                 </h2>
               </div>
@@ -203,7 +300,10 @@ export default function About(
 
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] pt-10 md:py-10 text-lg">
-            <h2 id="digital-readiness" className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
+            <h2
+              id="digital-readiness"
+              className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6"
+            >
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
@@ -212,7 +312,10 @@ export default function About(
           <MobilePillars pillars={pillars} definitions={definitions} />
 
           <div className="max-w-[40em] text-center py-10 text-lg">
-            <h2 id="public-good" className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
+            <h2
+              id="public-good"
+              className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6"
+            >
               A Digital Public Good
             </h2>
           </div>
@@ -307,10 +410,26 @@ export default function About(
             </p> */}
             <p>
               <Link href="/methodology">
-                <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider hover:underline text-justify flex items-center">
+                <a
+                  className="text-sm  sm:text-sm md:text-2xl font-medium tracking-wider text-justify flex items-center duration-700"
+                  onMouseEnter={() => setIsHovered(true)}
+                  onMouseLeave={() => setIsHovered(false)}
+                >
                   CLICK HERE TO READ THE METHODOLOGY
-                  <div className="ml-4 sm:mt-1">
-                    <Image src={chevronRight} alt="chevronRight" />
+                  <div className="ml-4 sm:mt-1 flex items-center space-x-0">
+                    {isHovered ? (
+                      <Image
+                        src={arrowBase}
+                        alt="arrowBase"
+                        className="m-0 p-0"
+                      />
+                    ) : (
+                      <Image
+                        src={chevronRight}
+                        alt="chevronRight"
+                        className="m-0 p-0"
+                      />
+                    )}
                   </div>
                 </a>
               </Link>
@@ -607,7 +726,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   // const pillarColor =
   //   (ancillary.pillarColorMap as any)[focusedSubpillar[0]]?.base || "black";
-  
+
   let pillarColorLighter = "#B8ECB6";
   let pillarColorDarker = "#3632a8";
 

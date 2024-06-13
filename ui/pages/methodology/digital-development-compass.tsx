@@ -11,7 +11,7 @@ import transformation from "../../public/transformation.png";
 import MinMaxScale from "../../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
 import {
   tableData,
   pillarsTableData,
@@ -20,6 +20,9 @@ import {
 import { ancillary } from "database/ancillary";
 import chevronRight from "../../public/chevron-right.svg";
 import downloadDefault from "../../public/download-default.svg";
+import arrowBase from "../../public/arrow-base.svg";
+import downloadHover from "../../public/download-hover.svg";
+
 
 const NavBar = () => {
   return (
@@ -41,6 +44,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const { countries } = props;
+  const [isHovered, setIsHovered] = useState(false);
+  const [isDownloadHovered, setDownloadHovered] = useState(false);
 
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;
@@ -1224,13 +1229,24 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 className="text-red-500 flex items-center ml-2"
                 id="downloadRawScoresFile"
                 onClick={handleDownloadClick}
-              >
-                <Image
-                  src={downloadDefault} // Replace with the correct path to your download icon
-                  alt="download"
+                onMouseEnter={() => setDownloadHovered(true)}
+                onMouseLeave={() => setDownloadHovered(false)}
+              > 
+               { isDownloadHovered ? (               
+                 <Image
+                  src={downloadHover}
+                  alt="downloadHover"
                   width={16}
                   height={16}
                 />
+              ) : (
+                <Image
+                src={downloadDefault}
+                alt="download"
+                width={16}
+                height={16}
+              />
+                )}
               </a>
             </div>
           </div>
@@ -1238,11 +1254,26 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
 
         <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
         <Link href="/disclaimer">
-            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider hover:underline flex items-center">
+            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
+             onMouseEnter={() => setIsHovered(true)}
+             onMouseLeave={() => setIsHovered(false)}
+            >
               CLICK HERE TO ACCESS THE DISCLAIMER
-              <div className="ml-2 sm:mt-1">
-                <Image src={chevronRight} alt="chevronRight" />
-              </div>
+              <div className="ml-2 mb-1 sm:mt-1  flex items-center space-x-0">
+                    {isHovered ? (
+                      <Image
+                        src={arrowBase}
+                        alt="arrowBase"
+                        className="m-0 p-0"
+                      />
+                    ) : (
+                      <Image
+                        src={chevronRight}
+                        alt="chevronRight"
+                        className="m-0 p-0"
+                      />
+                    )}
+                  </div>
             </a>
           </Link>
         </p>
