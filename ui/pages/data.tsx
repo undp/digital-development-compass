@@ -1,5 +1,5 @@
 import cc from "classcat";
-import { FilterBadge } from "components/filter-badge";
+import { SideMenuFilterBadge } from "components/filter-badge";
 import { HistogramRangeInput } from "components/histogram-range-input";
 import Layout from "components/Layout";
 import { ProgressPill } from "components/progress-pill";
@@ -18,6 +18,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import DataGrid, { Column, FormatterProps } from "react-data-grid";
 import { OverflowList } from "react-overflow-list";
+import chevronDown from "../public/chevron-down.svg";
 
 type SortDirection = "ASC" | "DESC";
 
@@ -108,17 +109,22 @@ export default function Data(
   //   Regulation: undefined,
   //  });
 
-const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
-const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
-  acc[pillar] = undefined;
-  return acc;
-}, {});
+  const pillarNamesLists = db.pillarNames.filter(
+    (pillar) => pillar !== "Overall"
+  );
+  const initialScoreFilterState = pillarNamesLists.reduce(
+    (acc: any, pillar) => {
+      acc[pillar] = undefined;
+      return acc;
+    },
+    {}
+  );
 
-const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
-  initialScoreFilterState
-);
+  const [scoreFilter, setScoreFilter] = useState<
+    Record<string, number[] | undefined>
+  >(initialScoreFilterState);
 
-  const columns: Column<typeof data[0]>[] = useMemo(() => {
+  const columns: Column<(typeof data)[0]>[] = useMemo(() => {
     return [
       {
         key: "name",
@@ -218,7 +224,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             name: pillar,
             cellClass: `p-0`,
             headerCellClass: "text-right",
-            formatter(props: FormatterProps<typeof data[0]>) {
+            formatter(props: FormatterProps<(typeof data)[0]>) {
               // @ts-ignore
               let score = props.row.scores[pillar].score;
               let confidence;
@@ -259,12 +265,14 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
     ];
   }, [displaySettings]);
 
-  
   const maybeFilteredRows = useMemo(() => {
     const byName = matchSorter(data, countryFilter, { keys: ["name"] });
     return byName
       .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
-      .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
+      .filter(
+        (datum) =>
+          subregionFilter === "*" || datum.subregion === subregionFilter
+      )
       .filter((datum) => {
         return pillarNamesLists.every((pillar) =>
           filterPillarByRange(datum, pillar, scoreFilter[pillar])
@@ -416,9 +424,9 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   ]) as AppliedFilter[];
 
   const createHistogramInputs = () => {
-    return pillarNamesLists.map(pillarName => {
+    return pillarNamesLists.map((pillarName) => {
       const scores = useMemo(() => {
-        return data.map((datum:any) => datum.scores[pillarName]?.score || 0);
+        return data.map((datum: any) => datum.scores[pillarName]?.score || 0);
       }, [data]);
 
       return (
@@ -441,7 +449,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
-        <aside className="h-full w-full md:w-[240px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
+        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
           <div className="p-6">
             <div className="space-y-6">
               <div>
@@ -467,22 +475,54 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 >
                   Region
                 </label>
-                <select
-                  id="region"
-                  name="region"
-                  className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
-                  onChange={(e) => setRegionFilter(e.target.value)}
-                  value={regionFilter}
-                >
-                  <option value="*">All</option>
-                  {regions.map((region) => {
-                    return (
+                <div className="relative">
+                  <select
+                    id="region"
+                    name="region"
+                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md appearance-none bg-no-repeat bg-right"
+                    onChange={(e) => setRegionFilter(e.target.value)}
+                    value={regionFilter}
+                    style={{
+                      backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
+                      backgroundSize: "12px", // Size of the SVG icon
+                      backgroundPosition: "right 0.5rem center", // Position the SVG icon
+                      backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
+                    }}
+                  >
+                    <option value="*">All</option>
+                    {regions.map((region) => (
                       <option key={region} value={region}>
                         {region}
                       </option>
+                    ))}
+                  </select>
+                  <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                  itemRenderer={(item) => {
+                    if(item.label == 'Region') {
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <SideMenuFilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
                     );
-                  })}
-                </select>
+                  }
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
+                </div>
               </div>
               <div>
                 <label
@@ -501,6 +541,12 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                       "opacity-50 cursor-not-allowed": subregionSelectDisabled,
                     },
                   ])}
+                  style={{
+                    backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
+                    backgroundSize: "12px", // Size of the SVG icon
+                    backgroundPosition: "right 0.5rem center", // Position the SVG icon
+                    backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
+                  }}
                   onChange={(e) => setSubregionFilter(e.target.value)}
                   value={subregionFilter}
                 >
@@ -518,6 +564,33 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                     );
                   })}
                 </select>
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-1 flex-nowrap"
+                  itemRenderer={(item) => {
+                    if(item.label == 'Sub-region') {
+                      console.log('ddd', item)
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <SideMenuFilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
               </div>
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
               {createHistogramInputs()}
@@ -540,33 +613,33 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                 </p>
                 
               </div>
-              
-              <div className="flex-shrink-0">
-              <OverflowList
-                items={appliedFilters}
-                className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
-                itemRenderer={(item) => {
-                  return (
-                    <div className="flex-shrink-0" key={item.label}>
-                      <FilterBadge
-                        value={item.value}
-                        onClick={item.onReset}
-                        label={item.label}
-                      />
-                    </div>
-                  );
-                }}
-                overflowRenderer={(items) => {
-                  return (
-                    <div>
-                      <span className="text-sm text-gray-600">
-                        + {items.length} more
-                      </span>
-                    </div>
-                  );
-                }}
-              />
-              </div>
+              {/* <div className="flex-shrink-0">
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
+                  itemRenderer={(item) => {
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <FilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
+              </div> */}
+\
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
@@ -582,7 +655,9 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               </Link>
              </div>
           </div>
-          <div className="hidden md:block flex-1 flex-col">
+          <div
+            className="hidden md:block flex-1 flex-col z-0" // Set to a positive value or 0 if no overlap is needed
+          >
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,

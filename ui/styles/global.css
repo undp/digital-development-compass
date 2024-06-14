@@ -20,7 +20,7 @@ html {
   @apply text-sm font-medium text-gray-600 bg-gray-50 border-b-2 border-r-0 flex items-center;
 }
 
-.data-table [role="columnheader"]>span {
+.data-table [role="columnheader"] > span {
   @apply flex-1;
 }
 
@@ -32,9 +32,62 @@ html {
   @apply border-r-0 border-gray-200;
 }
 
-.rdg-header-sort-name+span {
+.rdg-header-sort-name + span {
   margin-left: 6px;
 }
+/* .url-styling {
+  border-bottom-width: 2px;
+  border-bottom-color: red;
+  padding-bottom: 1px;
+} */
+
+.url-styling {
+  position: relative; /* Required for positioning of the pseudo-element */
+  display: inline-block; /* Ensures the element only takes as much width as needed */
+  padding-bottom: 1px;
+  border-bottom: 2px solid red; /* Default bottom border */
+}
+
+.url-styling::after {
+  content: ''; /* Pseudo-element for the animated border line */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: red;
+  transform: scaleX(0); /* Initially hide the line */
+  transform-origin: left; /* Start the animation from the left side */
+  transition: transform 0.5s ease-in-out; /* Smooth transition */
+}
+
+.url-styling:hover {
+  border-bottom: none; /* Hide the default border on hover */
+}
+
+.url-styling:hover::after {
+  animation: borderMove 2s linear infinite; /* Apply the looping animation on hover */
+}
+
+@keyframes borderMove {
+  0% {
+    transform: scaleX(0); /* Start with the line hidden */
+    transform-origin: left; /* Start from the left side */
+  }
+  50% {
+    transform: scaleX(1); /* Expand the line to full width */
+    transform-origin: left; /* Expanding from the left */
+  }
+  51% {
+    transform: scaleX(1); /* Line is fully visible */
+    transform-origin: right; /* Switch the origin to right */
+  }
+  100% {
+    transform: scaleX(0); /* Collapse the line to hidden */
+    transform-origin: right; /* Collapse towards the right */
+  }
+}
+
 
 .drawer {
   box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
@@ -126,7 +179,6 @@ html {
   overflow: unset;
 }
 
-
 @media (max-width: 710px) {
   .rainbow text {
     font-size: 9px;
@@ -154,9 +206,44 @@ html {
 }
 
 .cookie-bg-color {
-  background-color: #0063AC;
+  background-color: #0063ac;
 }
 
+.dp-text-color {
+  color: #484848;
+}
+
+.hero-title-size {
+  font-size: 55px;
+  line-height: 4rem;
+}
+
+.button-bg-color {
+  background-color: #3288ce;
+}
+
+.heading-title-size {
+  font-size: 45px;
+  line-height: 3rem;
+}
+
+.hero-content-text-size {
+  font-size: 20px;
+  line-height: 1.75rem;
+  line-height: 1.75rem;
+}
+
+.hero-content-text-color {
+  color: #000000;
+}
+
+.footer-background-color {
+  background-color: #006eb5;
+}
+
+.MobileMenuSideMenu {
+  background-color: #f0f3f6;
+}
 
 @media (max-width: 770px) {
   .rainbow-margin {
@@ -169,7 +256,6 @@ html {
     margin-left: 5%;
   }
 }
-
 
 @media (min-width: 300px) and (max-width: 800px) {
   .container {
@@ -188,3 +274,152 @@ html {
     max-width: 100%;
   }
 }
+
+.custom-mobile-bg-color {
+  background-color: #d9e7f0eb;
+}
+
+.custom-mobile-menu {
+  /* Custom slide-in animation from left to right */
+  animation: slide-in-left 0.6s ease-in-out forwards;
+}
+
+.custom-mobile-close-menu {
+  /* Custom slide-in animation from left to right */
+  animation: slide-out-left 0.6s ease-in-out forwards;
+}
+
+.custom-side-view {
+  /* Custom slide-in animation from right to left */
+  animation: slide-in-left 0.6s ease-in-out forwards;
+}
+
+.custom-side-view-close {
+  /* Custom slide-out animation from right to left */
+  animation: slide-out-left 0.6s ease-in-out forwards;
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-out-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@font-face {
+  font-family: "SohneBreitFont";
+  src: url("/fonts/soehne-breit-web-dreiviertelfett.woff2") format("woff2"),
+    url("/fonts/soehne-breit-web-dreiviertelfett.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media (max-width: 640px) {
+  .heading-mobile-title-size {
+    font-size: 30px;
+    line-height: 3rem;
+  }
+}
+
+
+@media (min-width: 640px) and (max-width: 991px) {
+  .sideLink {
+    width: 100px;
+    padding-left: 50px;
+    padding-top: 13rem /* 208px */;
+    padding-bottom: 13rem /* 208px */;
+  }
+  .viewMenu {
+    display: none;
+  }
+}
+
+@media (min-width: 1301px) and (max-width: 1450px) {
+  .sideLink {
+    width: 200px;
+    padding-left: 84px;
+    padding-top: 24rem /* 208px */;
+    padding-bottom: 13rem /* 208px */;
+  }
+}
+
+@media (min-width: 1451px) and (max-width: 1500px) {
+  .sideLink {
+    width: 200px;
+    padding-left: 80px;
+    padding-top: 13rem /* 208px */;
+    padding-bottom: 13rem /* 208px */;
+  }
+}
+
+@media (min-width: 1500px) and (max-width: 1700px) {
+  .sideLink {
+    width: 21%;
+    padding-left: 90px;
+    padding-top: 22rem;
+    padding-bottom: 13rem;
+  }
+}
+
+@media (min-width: 1700px) {
+  .sideLink {
+    width: 24%;
+    padding-left: 130px;
+    padding-top: 22rem;
+    padding-bottom: 13rem;
+  }
+}
+
+
+@media (max-width: 990px) {
+  .disclaimer-text-position {
+    text-align: center;
+    padding-left : 0pm
+  }
+}
+
+@media (min-width: 990px) {
+  .disclaimer-text-position {
+    text-align: left;
+    padding-left: 6rem
+  }
+}
+
+@media (max-width: 1300px) {
+  .sideMenuBarMobile {
+    display: block;
+  }
+  .sideMenuBar {
+    display: none;
+  }
+}
+
+/* Show SideMenuBar on screens 990px and larger */
+@media (min-width: 1301px) {
+  .sideMenuBarMobile {
+    display: none;
+  }
+  .sideMenuBar {
+    display: block;
+  }
+}
+
+@media (max-width: 1300px) {
+  .about-under-line {
+    z-index: -10;
+  }
+}
+
+
+
