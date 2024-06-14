@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { useState, useRef } from "react";
+import { useState } from "react";
 import { SearchDialog } from "./search-dialog";
 import LogoSVG from "../public/undp-logo.svg";
 import { MobileMenu } from "./mobile-menu";
@@ -28,26 +28,26 @@ export function SiteName() {
 
 export function Header(props: { countries: CountryNameAndAlpha[] }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
-  const dropdownTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  // const [dropdownOpen, setDropdownOpen] = useState(false);
+  //const dropdownTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const { countries } = props;
 
   const handleMenuToggle = (isOpen: boolean) => {
     setMobileMenuOpen(isOpen);
   };
 
-  const handleDropdownOpen = () => {
-    if (dropdownTimeoutRef.current) {
-      clearTimeout(dropdownTimeoutRef.current);
-    }
-    setDropdownOpen(true);
-  };
+  // const handleDropdownOpen = () => {
+  //   if (dropdownTimeoutRef.current) {
+  //     clearTimeout(dropdownTimeoutRef.current);
+  //   }
+  //   setDropdownOpen(true);
+  // };
 
-  const handleDropdownClose = () => {
-    dropdownTimeoutRef.current = setTimeout(() => {
-      setDropdownOpen(false);
-    }, 300); // Adjust the delay as needed
-  };
+  // const handleDropdownClose = () => {
+  //   dropdownTimeoutRef.current = setTimeout(() => {
+  //     setDropdownOpen(false);
+  //   }, 300); // Adjust the delay as needed
+  // };
 
   return (
     <>

@@ -2,7 +2,7 @@ import * as Dialog from "@radix-ui/react-dialog";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import chevronRight from "../public/chevron-right.svg";
+//import chevronRight from "../public/chevron-right.svg";
 import arrowLeft from "../public/arrow-left.svg";
 
 // Define the interface for the props
@@ -50,9 +50,9 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
     setActiveLink(link);
   };
 
-  const openMethodology = () => {
-    setIsSideViewOpen(true);
-  };
+  // const openMethodology = () => {
+  //   setIsSideViewOpen(true);
+  // };
 
   const closeSideView = () => {
     setIsSideViewOpen(false);
