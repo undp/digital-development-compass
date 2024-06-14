@@ -11,18 +11,38 @@ import transformation from "../public/transformation.png";
 import MinMaxScale from "../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
 import {
   tableData,
   pillarsTableData,
   dimensionsTable,
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
+import chevronRight from "../public/chevron-right.svg";
+import downloadDefault from "../public/download-default.svg";
+import arrowBase from "../public/arrow-base.svg";
+import downloadHover from "../public/download-hover.svg";
+
+const NavBar = () => {
+  return (
+    <nav className="flex items-center justify-start p-4 pb-0 text-base sm:text-sm md:text-base">
+      <Link href="/">
+        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+      </Link>
+      <span className="text-red-500 mr-4">/</span>
+      <Link href="/methodology">
+        <a className="ml-4 text-red-500">METHODOLOGY</a>
+      </Link>
+    </nav>
+  );
+};
 
 export default function Methodology(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const { countries } = props;
+  const [isHovered, setIsHovered] = useState(false);
+  const [isDownloadHovered, setDownloadHovered] = useState(false);
 
   const handleScrollToTop = () => {
     if (typeof window === "undefined") return;
@@ -53,13 +73,25 @@ export default function Methodology(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
+      <div className="px-5 sm:px-2 pb-5">
+          <div className="w-full bg-gray-200 md:px-20">
+            <div className="md:mx-auto">
+              <div className="container md:px-4 md:mx-auto">
+                <NavBar />
+                <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
+                <h2
+                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                  >
+                     METHODOLOGY
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
-            <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
-              <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
-                Methodology
-              </h2>
-            </div>
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 What is the Digital Development Compass?
@@ -1176,22 +1208,65 @@ export default function Methodology(
             <em>Table 3. DDC definitions and scales</em>
           </p>
         </div>
-        <p className="w-3/5 md:w-3/5 sm:w-4/5  mx-auto pb-5 pt-5 text-lg">
-          Download raw data file{" "}
-          <a
-            href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-            className="text-blue-300 text-lg"
-            id="downloadRawScoresFile"
-            onClick={handleDownloadClick}
-          >
-            {" "}
-            here
-          </a>
-        </p>
+        <div className="flex w-3/5 md:w-3/5 sm:w-4/5 mx-auto pb-4 sm:pb-7 pt-5">
+          <div className="bg-gray-200 px-4 py-2 max-w-xs">
+            <p className="text-lg mb-1">
+              Raw Data
+              <br />
+              <span className="text-sm text-gray-600">PDF (800kb)</span>
+            </p>
+            <div className="text-lg font-bold flex items-center mt-2">
+              DOWNLOAD
+              <a
+                href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+                className="text-red-500 flex items-center ml-2"
+                id="downloadRawScoresFile"
+                onClick={handleDownloadClick}
+                onMouseEnter={() => setDownloadHovered(true)}
+                onMouseLeave={() => setDownloadHovered(false)}
+              >
+                { isDownloadHovered ? (               
+                 <Image
+                  src={downloadHover}
+                  alt="downloadHover"
+                  width={16}
+                  height={16}
+                />
+              ) : (
+                <Image
+                src={downloadDefault}
+                alt="download"
+                width={16}
+                height={16}
+              />
+                )}
+              </a>
+            </div>
+          </div>
+        </div>
+
         <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
           <Link href="/disclaimer">
-            <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider">
-              Disclaimer.
+            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
+             onMouseEnter={() => setIsHovered(true)}
+             onMouseLeave={() => setIsHovered(false)}
+            >
+              CLICK HERE TO ACCESS THE DISCLAIMER
+              <div className="ml-2 sm:mt-1 flex items-center space-x-0">
+                    {isHovered ? (
+                      <Image
+                        src={arrowBase}
+                        alt="arrowBase"
+                        className="m-0 p-0"
+                      />
+                    ) : (
+                      <Image
+                        src={chevronRight}
+                        alt="chevronRight"
+                        className="m-0 p-0"
+                      />
+                    )}
+                  </div>
             </a>
           </Link>
         </p>
