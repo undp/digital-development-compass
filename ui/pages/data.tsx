@@ -1,5 +1,5 @@
 import cc from "classcat";
-import { FilterBadge } from "components/filter-badge";
+import { SideMenuFilterBadge } from "components/filter-badge";
 import { HistogramRangeInput } from "components/histogram-range-input";
 import Layout from "components/Layout";
 import { ProgressPill } from "components/progress-pill";
@@ -506,7 +506,7 @@ export default function Data(
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
-        <aside className="h-full w-full md:w-[240px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
+        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
           <div className="p-6">
             <div className="space-y-6">
               <div>
@@ -553,6 +553,32 @@ export default function Data(
                       </option>
                     ))}
                   </select>
+                  <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                  itemRenderer={(item) => {
+                    if(item.label == 'Region') {
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <SideMenuFilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
                 </div>
               </div>
               <div>
@@ -595,6 +621,33 @@ export default function Data(
                     );
                   })}
                 </select>
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-1 flex-nowrap"
+                  itemRenderer={(item) => {
+                    if(item.label == 'Sub-region') {
+                      console.log('ddd', item)
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <SideMenuFilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
               </div>
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
                 {createHistogramInputs()}
@@ -615,7 +668,7 @@ export default function Data(
                   <span className="font-medium">{data.length} countries</span>
                 </p>
               </div>
-              <div className="flex-shrink-0">
+              {/* <div className="flex-shrink-0">
                 <OverflowList
                   items={appliedFilters}
                   className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
@@ -640,7 +693,7 @@ export default function Data(
                     );
                   }}
                 />
-              </div>
+              </div> */}
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
