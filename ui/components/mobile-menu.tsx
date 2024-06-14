@@ -95,7 +95,19 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                   Data
                 </a>
               </Link>
-              <a
+              <Link href="/methodology">
+                <a
+                  className={`uppercase text-lg w-full border-b h-20 border-white flex items-center p-6 ${
+                    activeLink === "/data"
+                      ? "footer-background-color text-white"
+                      : ""
+                  }`}
+                  onClick={() => handleLinkClick("/methodology")}
+                >
+                  Methodology   
+                </a>
+              </Link>
+              {/* <a
                 className={`uppercase text-lg w-full border-b h-20 border-white flex items-center justify-between p-6 ${
                   activeLink === "/methodology"
                     ? "footer-background-color text-white"
@@ -107,7 +119,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                 <div className="flex-shrink-0 sm:mt-1">
                   <Image src={chevronRight} alt="chevronRight" />
                 </div>
-              </a>
+              </a> */}
             </nav>
           )}
         </Dialog.Content>
