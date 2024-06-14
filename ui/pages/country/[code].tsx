@@ -86,7 +86,9 @@ const StaticPropsDetail = ({
               ></span>
             </div>
             <div>
-              <h1 className="text-4xl lg:text-5xl font-medium tracking-tight leading-0">
+              <h1 className="text-4xl lg:text-5xl font-medium tracking-tight leading-0"
+              style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+              >
                 {country["Country or Area"]}
               </h1>
               <p className="text-gray-600 text-sm mt-1">
