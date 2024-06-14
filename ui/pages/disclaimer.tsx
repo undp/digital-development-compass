@@ -14,7 +14,7 @@ export default function disclaimer(
     <Layout title="Disclaimer" countries={countries}>
       <div className="py-16">
         <div className="container px-4 mx-auto">
-          <div className="text-lg text-center sm:text-center md:text-left md:pl-24 items-center">
+          <div className="text-lg text-center sm:text-center items-center disclaimer-text-position">
             <div className="max-w-[40em] py-10 text-lg items-center">
               <h2 className="hero-title-size font-bold mt-7 mb-3 hero-content-text-color">
                 Disclaimer

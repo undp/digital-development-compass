@@ -98,7 +98,7 @@ const SideMenuBarMobile = () => {
     setIsOpen(!isOpen);
   };
   return (
-    <div className="relative inline-block text-left w-full px-5">
+    <div className="relative inline-block text-left w-full px-5 bottom-3">
       <button
         onClick={toggleDropdown}
         className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${  isOpen ? "border-black" : ""} `}
@@ -192,10 +192,10 @@ export default function About(
             </div>
           </div>
         </div>
-        <div className="flex items-center justify-center md:hidden lg:hidden">
+        <div className="sideMenuBarMobile flex items-center justify-center">
           <SideMenuBarMobile />
         </div>
-        <div className="hidden md:block lg:block viewMenu">
+        <div className="sideMenuBar">
           <SideMenuBar />
         </div>
         <div className="container px-4 mx-auto flex">
@@ -215,7 +215,7 @@ export default function About(
                 <a
                   href="https://www.undp.org/digital/transformations"
                   target="_blank"
-                  className="url-styling"
+                  className="url-styling about-under-line"
                 >
                   digital transformation framework
                 </a>
