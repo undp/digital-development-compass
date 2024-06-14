@@ -5,7 +5,7 @@ import Link from "next/link";
 import Layout from "components/Layout";
 import ScoreRing from "components/score-ring";
 import { groupBy } from "lodash";
-import { isMemberState, stageNames  } from "lib";
+import { isMemberState, stageNames } from "lib";
 import Icons from "components/icons";
 import { Definition } from "database/processed/db";
 import { useEffect, useState } from "react";
@@ -28,6 +28,20 @@ interface Dictionary<T> {
 }
 type Definitions = Dictionary<Definition[]>;
 
+const NavBar = () => {
+  return (
+    <nav className="flex items-center justify-start p-4">
+      <Link href="/">
+        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+      </Link>
+      <span className="text-red-500">/</span>
+      <Link href="/about">
+        <a className="ml-4 text-red-500">About</a>
+      </Link>
+    </nav>
+  );
+};
+
 export default function About(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
@@ -42,48 +56,80 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="py-16">
+      <div className="py-4">
+        <div className="px-5 pb-5">
+          <div className="w-full bg-gray-200 md:px-20">
+            <div className="md:mx-auto">
+              <div className="container md:px-4 md:mx-auto">
+                <NavBar />
+                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
+                  <h2 className="heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color">
+                    About
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9 text-justify">
               <p>
-              The Digital Development Compass provides an analysis of national digital development based on a comprehensive 
-              collection of publicly available data sets on digital. 
+                The Digital Development Compass provides an analysis of national
+                digital development based on a comprehensive collection of
+                publicly available data sets on digital.
               </p>
 
               <p>
-              The Compass aggregates and synthesises digital development indicators from over 140 publicly available open-source 
-              datasets into interactive dashboards across the pillars of the United Nations Development Programme's (UNDP){" "}
-                <a href="https://www.undp.org/digital/transformations" target="_blank" className="text-blue-300">
+                The Compass aggregates and synthesises digital development
+                indicators from over 140 publicly available open-source datasets
+                into interactive dashboards across the pillars of the United
+                Nations Development Programme's (UNDP){" "}
+                <a
+                  href="https://www.undp.org/digital/transformations"
+                  target="_blank"
+                  className="text-blue-300"
+                >
                   digital transformation framework
                 </a>
-                . Users can interact with the data to understand the digital state of any nation (based on publicly available data); 
-                it is not intended to be used as an evaluative statistical tool or an index. 
+                . Users can interact with the data to understand the digital
+                state of any nation (based on publicly available data); it is
+                not intended to be used as an evaluative statistical tool or an
+                index.
               </p>
               <p>
-              The Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners, 
-              and stakeholders in their efforts to promote digital development in their respective countries. Users are encouraged to 
-              exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political, 
-              and economic context of each country's digital development efforts. 
+                The Digital Development Compass aims to serve as a guide and
+                starting point for policymakers, practitioners, and stakeholders
+                in their efforts to promote digital development in their
+                respective countries. Users are encouraged to exercise caution
+                and critical thinking when interpreting the results and to
+                consider the broader socio-cultural, political, and economic
+                context of each country's digital development efforts.
               </p>
               <p>
                 Developed through{" "}
-                <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank" className="text-blue-300">
+                <a
+                  href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
+                  target="_blank"
+                  className="text-blue-300"
+                >
                   an innovative partnership with GitHub
                 </a>
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
               </p>
               <p>
-              Feedback and constructive criticism are welcome to improve the accuracy and usefulness of the Compass. 
-              To raise your concerns or reflections regarding the data or results, please contact us via the chatbox.  
+                Feedback and constructive criticism are welcome to improve the
+                accuracy and usefulness of the Compass. To raise your concerns
+                or reflections regarding the data or results, please contact us
+                via the chatbox.
               </p>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2 className="text-3xl font-bold mt:8 md:mt-20  mb-1 md:mb-6">
+                <h2 className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6">
                   How the Compass Works
                 </h2>
               </div>
@@ -102,7 +148,8 @@ export default function About(
                   key={pillar}
                   className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
                   style={{
-                    backgroundColor: (ancillary.pillarColorMap as any)[pillar]?.base
+                    backgroundColor: (ancillary.pillarColorMap as any)[pillar]
+                      ?.base,
                   }}
                 >
                   {pillar}
@@ -118,27 +165,26 @@ export default function About(
             </p>
           </div>
         </div>
-        
-        
+
         <Scrollytelling country={country} />
 
         <div className="mt-40 mb-60 flex flex-col items-center">
           <div className="max-w-[40em] pt-10 md:py-10 text-lg">
-            <h2 className="text-2xl text-center md:text-3xl font-bold mt-20 md:mb-6">
+            <h2 className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6">
               Stages of Digital Readiness by Transformation Pillar
             </h2>
           </div>
-          
+
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
           <div className="max-w-[40em] text-center py-10 text-lg">
-            <h2 className="text-2xl lg:text-3xl  md:text-2xl font-bold mt-20 mb-6">
+            <h2 className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6">
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-lg px-4 text-justify" >
+          <div className="max-w-[40em] py-10 text-lg px-4 text-justify">
             <p>
               The software and data that are used to put together the Compass
               are open source and in the process of becoming Digital Public
@@ -149,9 +195,9 @@ export default function About(
               documents into a machine-readable format. Scripts normalize the
               data according to a UN-defined list of countries, regions,
               sub-regions, income groups, & territorial borders. Data is
-              automatically updated as soon as international organizations release new
-              reports. All code and data is transparent and available as a
-              global resource on GitHub. Visit{" "}
+              automatically updated as soon as international organizations
+              release new reports. All code and data is transparent and
+              available as a global resource on GitHub. Visit{" "}
               <a
                 className="underline"
                 href="https://github.com/undp/digital-development-compass"
@@ -227,11 +273,11 @@ export default function About(
               .
             </p> */}
             <p>
-            <Link href="/methodology">
-              <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider text-justify">
-               Click here to read the Methodology.
-              </a>
-            </Link>
+              <Link href="/methodology">
+                <a className="text-xl md:text-2xl text-blue-300 hover:underline font-medium tracking-wider text-justify">
+                  READ THE METHODOLOGY
+                </a>
+              </Link>
             </p>
             <div className="flex justify-center mt-8">
               <button
@@ -447,7 +493,8 @@ const MobilePillars = ({
     <div className="max-w-3xl mx-auto mt-20 lg:hidden px-4">
       {pillars.map((name) => {
         const defs = definitions[name];
-        const pillarColor = (ancillary.pillarColorMap as any)[name]?.base || "black";
+        const pillarColor =
+          (ancillary.pillarColorMap as any)[name]?.base || "black";
         // @ts-ignore
         let pillarIcon = Icons[name.toLowerCase()];
 
@@ -522,7 +569,8 @@ const Scrollytelling = ({ country }: { country: any }) => {
   const countryFocusedSubpillar =
     country["scores"][focusedSubpillar[0]][focusedSubpillar[1]];
 
-  const pillarColor = (ancillary.pillarColorMap as any)[focusedSubpillar[0]]?.base || "black";
+  const pillarColor =
+    (ancillary.pillarColorMap as any)[focusedSubpillar[0]]?.base || "black";
   let darkerColor = lab(pillarColor);
   darkerColor.b += 90;
   darkerColor.a += 10;
@@ -548,7 +596,10 @@ const Scrollytelling = ({ country }: { country: any }) => {
           {currentStepIndex < 2 && (
             <div className="w-full h-full flex items-center justify-center">
               {stageNames.map((stageName, index) => (
-                <div className="text-[2.5vw] md:text-[2vw] relative" key={index}>
+                <div
+                  className="text-[2.5vw] md:text-[2vw] relative"
+                  key={index}
+                >
                   <div
                     className="py-[0.6em] px-[1em] font-semibold text-white"
                     style={{
@@ -575,7 +626,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
           {currentStepIndex > 1 && currentStepIndex < 5 && (
             <div className="SolarSystem w-[min(70vh,100%)] pointer-events-[all]">
-                <img src="/DTF.gif" alt="DTF Animation" />
+              <img src="/DTF.gif" alt="DTF Animation" />
             </div>
           )}
 
@@ -593,7 +644,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
                       }
                 }
                 pillars={ancillary.pillars}
-                type={'about'}
+                type={"about"}
               />
             </div>
           )}
@@ -608,8 +659,6 @@ const Scrollytelling = ({ country }: { country: any }) => {
     </div>
   );
 };
-
-
 
 export const getStaticProps = async () => {
   const countries = db.countries.filter(isMemberState).map((country) => {

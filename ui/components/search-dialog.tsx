@@ -176,10 +176,10 @@ export function SearchDialog(props: SearchDialogProps) {
     <>
       <button
         onClick={() => setOpen(true)}
-        className="bg-white border-2 font-semibold border-brand-blue-dark hover:bg-brand-blue-dark hover:text-white px-4 py-2 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center"
+        className="bg-white font-semibold  hover:bg-brand-blue-dark hover:text-white px-4 py-2 text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center"
       >
         <IoSearch className="text-base mr-1" />
-        <span>Search</span>
+  
       </button>
 
       <Dialog
@@ -188,7 +188,7 @@ export function SearchDialog(props: SearchDialogProps) {
         className="relative z-50"
       >
         <Dialog.Overlay className="fixed inset-0 bg-black/20" />
-        <div className="fixed inset-0 flex items-center justify-center p-4">
+        <div className="fixed inset-0 flex items-center md:justify-center p-4">
           <div className="flex min-h-full items-center justify-center w-full max-w-xl">
             <Dialog.Panel className="w-full bg-white rounded-md shadow-xl">
               <Dialog.Title className="sr-only">Search Countries</Dialog.Title>
