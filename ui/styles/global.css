@@ -332,11 +332,6 @@ html {
   }
 }
 
-@media (min-width: 300px) and (max-width: 640px) {
-  /* .sideLink {
-    
-  } */
-}
 
 @media (min-width: 640px) and (max-width: 991px) {
   .sideLink {
@@ -350,7 +345,16 @@ html {
   }
 }
 
-@media (min-width: 990px) and (max-width: 1500px) {
+@media (min-width: 1301px) and (max-width: 1450px) {
+  .sideLink {
+    width: 200px;
+    padding-left: 84px;
+    padding-top: 24rem /* 208px */;
+    padding-bottom: 13rem /* 208px */;
+  }
+}
+
+@media (min-width: 1451px) and (max-width: 1500px) {
   .sideLink {
     width: 200px;
     padding-left: 80px;
@@ -376,3 +380,46 @@ html {
     padding-bottom: 13rem;
   }
 }
+
+
+@media (max-width: 990px) {
+  .disclaimer-text-position {
+    text-align: center;
+    padding-left : 0pm
+  }
+}
+
+@media (min-width: 990px) {
+  .disclaimer-text-position {
+    text-align: left;
+    padding-left: 6rem
+  }
+}
+
+@media (max-width: 1300px) {
+  .sideMenuBarMobile {
+    display: block;
+  }
+  .sideMenuBar {
+    display: none;
+  }
+}
+
+/* Show SideMenuBar on screens 990px and larger */
+@media (min-width: 1301px) {
+  .sideMenuBarMobile {
+    display: none;
+  }
+  .sideMenuBar {
+    display: block;
+  }
+}
+
+@media (max-width: 1300px) {
+  .about-under-line {
+    z-index: -10;
+  }
+}
+
+
+
