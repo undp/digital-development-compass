@@ -639,7 +639,7 @@ export default function Data(
                   }}
                 />
               </div> */}
-\
+
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
