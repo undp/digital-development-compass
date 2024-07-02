@@ -1,4 +1,4 @@
-import cc from "classcat";
+// import cc from "classcat";
 import { SideMenuFilterBadge } from "components/filter-badge";
 import { HistogramRangeInput } from "components/histogram-range-input";
 import Layout from "components/Layout";
@@ -18,7 +18,8 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import DataGrid, { Column, FormatterProps } from "react-data-grid";
 import { OverflowList } from "react-overflow-list";
-import chevronDown from "../public/chevron-down.svg";
+// import chevronDown from "../public/chevron-down.svg";
+import { Select } from "components/select";
 
 type SortDirection = "ASC" | "DESC";
 
@@ -453,90 +454,119 @@ export default function Data(
           <div className="p-6">
             <div className="space-y-6">
               <div>
-                <label
+                {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
                 >
                   Country Name
-                </label>
+                </label> */}
                 <input
                   id="country"
-                  className="form-input text-sm shadow-sm border-gray-300 rounded-md w-full p-2"
+                  className="form-input text-sm placeholder-black shadow-sm border-black border-2 w-full p-2 pl-4"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
-                  placeholder="Filter by country name"
+                  placeholder="COUNTRY NAME"
                 />
               </div>
               <div>
-                <label
+                {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
                 >
                   Region
-                </label>
+                </label> */}
                 <div className="relative">
-                  <select
+                  {/* <select
                     id="region"
                     name="region"
-                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md appearance-none bg-no-repeat bg-right"
+                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm appearance-none bg-no-repeat bg-right"
                     onChange={(e) => setRegionFilter(e.target.value)}
                     value={regionFilter}
                     style={{
-                      backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
-                      backgroundSize: "12px", // Size of the SVG icon
-                      backgroundPosition: "right 0.5rem center", // Position the SVG icon
-                      backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
+                      backgroundImage: `url(${chevronDown.src})`,
+                      backgroundSize: "12px",
+                      backgroundPosition: "right 0.5rem center",
+                      backgroundRepeat: "no-repeat",
                     }}
                   >
+                    <option className="text-gray-400" value="*" hidden>
+                      REGION
+                    </option>
+
                     <option value="*">All</option>
                     {regions.map((region) => (
-                      <option key={region} value={region}>
+                      <option
+                        className="uppercase hover-option"
+                        key={region}
+                        value={region}
+                      >
                         {region}
                       </option>
                     ))}
-                  </select>
+                  </select> */}
+                  <Select
+                    value={regionFilter}
+                    onChange={setRegionFilter}
+                    label="Region"
+                    trigger={
+                      <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                        REGION
+                      </span>
+                    }
+                    itemRenderer={(option) => {
+                      return (
+                        <div className="py-1">
+                          <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                            {option}
+                          </span>
+                        </div>
+                      );
+                    }}
+                    // @ts-ignore
+                    options={regions}
+                  ></Select>
                   <OverflowList
-                  items={appliedFilters}
-                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
-                  itemRenderer={(item) => {
-                    if(item.label == 'Region') {
-                    return (
-                      <div className="flex-shrink-0" key={item.label}>
-                        <SideMenuFilterBadge
-                          value={item.value}
-                          onClick={item.onReset}
-                          label={item.label}
-                        />
-                      </div>
-                    );
-                  }
-                  }}
-                  overflowRenderer={(items) => {
-                    return (
-                      <div>
-                        <span className="text-sm text-gray-600">
-                          + {items.length} more
-                        </span>
-                      </div>
-                    );
-                  }}
-                />
+                    items={appliedFilters}
+                    className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                    itemRenderer={(item) => {
+                      if (item.label == "Region") {
+                        return (
+                          <div className="flex-shrink-0" key={item.label}>
+                            <SideMenuFilterBadge
+                              value={item.value}
+                              onClick={item.onReset}
+                              label={item.label}
+                            />
+                          </div>
+                        );
+                      }
+                    }}
+                    overflowRenderer={(items) => {
+                      return (
+                        <div>
+                          <span className="text-sm text-gray-600">
+                            + {items.length} more
+                          </span>
+                        </div>
+                      );
+                    }}
+                  />
                 </div>
               </div>
               <div>
-                <label
+                {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
                 >
                   Sub-region
-                </label>
-                <select
+                </label> */}
+                {/* <select
                   id="region"
                   name="region"
                   disabled={subregionSelectDisabled}
                   className={cc([
-                    `form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md`,
+                    `form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm`,
                     {
                       "opacity-50 cursor-not-allowed": subregionSelectDisabled,
                     },
@@ -551,35 +581,56 @@ export default function Data(
                   value={subregionFilter}
                 >
                   {subregionSelectDisabled ? (
-                    <option value="#">Select a region first</option>
+                    <option value="#">SUB-REGION</option>
                   ) : (
                     <option value="*">All</option>
                   )}
 
                   {subRegions.map((region) => {
                     return (
-                      <option key={region} value={region}>
+                      <option className="uppercase" key={region} value={region}>
                         {region}
                       </option>
                     );
                   })}
-                </select>
+                </select> */}
+                <Select
+                  value={subregionFilter}
+                  onChange={setSubregionFilter}
+                  label="Region"
+                  disabled={subregionSelectDisabled}
+                  trigger={
+                    <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                      SUB-REGION
+                    </span>
+                  }
+                  itemRenderer={(option) => {
+                    return (
+                      <div className="py-1">
+                        <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                          {option}
+                        </span>
+                      </div>
+                    );
+                  }}
+                  // @ts-ignore
+                  options={subRegions}
+                ></Select>
                 <OverflowList
                   items={appliedFilters}
                   className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-1 flex-nowrap"
                   itemRenderer={(item) => {
-                    if(item.label == 'Sub-region') {
-                      console.log('ddd', item)
-                    return (
-                      <div className="flex-shrink-0" key={item.label}>
-                        <SideMenuFilterBadge
-                          value={item.value}
-                          onClick={item.onReset}
-                          label={item.label}
-                        />
-                      </div>
-                    );
-                  }
+                    if (item.label == "Sub-region") {
+                      return (
+                        <div className="flex-shrink-0" key={item.label}>
+                          <SideMenuFilterBadge
+                            value={item.value}
+                            onClick={item.onReset}
+                            label={item.label}
+                          />
+                        </div>
+                      );
+                    }
                   }}
                   overflowRenderer={(items) => {
                     return (
