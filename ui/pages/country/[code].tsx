@@ -163,7 +163,7 @@ const StaticPropsDetail = ({
                 onChange={setShowSources}
               />
               <Link href="/disclaimer">
-                <a className="ml-1 select-none text-sm text-blue-300">
+                <a className="ml-1 select-none text-sm url-styling">
                   Disclaimer
                 </a>
               </Link>
@@ -177,7 +177,7 @@ const StaticPropsDetail = ({
               Pillar scores
             </h2>
             <Link href="/disclaimer">
-              <a className="md:hidden ml-1 select-none text-sm text-blue-300">
+              <a className="md:hidden ml-1 select-none text-sm url-styling">
                 Disclaimer
               </a>
             </Link>
