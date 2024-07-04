@@ -257,13 +257,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <p className="text-center mt-2">
                   <em>
                     Figure 2.{" "}
-                    <a
-                      target="_blank"
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                    >
                       UNDP's five stages of digital development
-                    </a>{" "}
                   </em>
                 </p>
               </div>
@@ -281,13 +275,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <p className="text-center mt-2">
                   <em>
                     Figure 3.{" "}
-                    <a
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                      target="_blank"
-                    >
                       Transformation framework
-                    </a>{" "}
                   </em>
                 </p>
               </div>
@@ -423,14 +411,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  {" "}
-                  <a
-                    target="_blank"
-                    href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                    className="text-blue-300"
-                  >
-                    <em>Source</em>
-                  </a>{" "}
+                    <em>Figure 4. Source</em>
                 </p>
               </div>
               <p>

@@ -115,7 +115,7 @@ const Pillar = (props: PillarProps) => {
   let icon = pillarIcons[pillar] || null;
 
   return (
-    <div className="border border-gray-200 rounded-lg shadow-lg shadow-gray-200 overflow-hidden">
+    <div className="border border-gray-200 rounded-lg shadow-lg overflow-hidden digital-right-bg-color">
       <header className="relative" style={{ background: color }}>
         <div
           className="h-6 absolute top-0 w-full inset-0 z-[-1]"
