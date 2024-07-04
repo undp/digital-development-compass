@@ -223,6 +223,10 @@ select option[value="placeholder"] {
   }
 }
 
+.digital-right-bg-color {
+  background-color: #d1d6d9;
+}
+
 .cookie-bg-color {
   background-color: #0063ac;
 }
