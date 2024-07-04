@@ -69,21 +69,20 @@ export default function Methodology(
         });
     }
   };
-
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
-      <div className="px-5 sm:px-2 pb-5">
+        <div className="px-5 pb-5">
           <div className="w-full bg-gray-200 md:px-20">
             <div className="md:mx-auto">
               <div className="container md:px-4 md:mx-auto">
                 <NavBar />
                 <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
-                <h2
+                  <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{ fontFamily: "SohneBreitFont, sans-serif" }}
                   >
-                     METHODOLOGY
+                    METHODOLOGY
                   </h2>
                 </div>
               </div>
@@ -92,6 +91,11 @@ export default function Methodology(
         </div>
         <div className="container px-4 mx-auto">
           <div className="text-lg flex flex-col items-center">
+            {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
+            <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
+              DIGITAL DEVELOPMENT COMPASS
+            </h2>
+          </div> */}
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 What is the Digital Development Compass?
@@ -171,7 +175,7 @@ export default function Methodology(
                 The DDC is constructed based on the{" "}
                 <a
                   href="https://www.undp.org/digital/transformations"
-                  className="text-blue-300"
+                  className="url-styling"
                   target="_blank"
                 >
                   Inclusive Whole-Of-Society Digital Transformation framework
@@ -226,9 +230,8 @@ export default function Methodology(
                 <PillarsTable />
                 <p className="text-center mt-2">
                   <em>
-                    Table 1. UNDP’s{" "}
-                      Inclusive Whole-Of-Society Digital Transformation
-                      Framework: Pillars and sub-pillars
+                    Table 1. UNDP’s Inclusive Whole-Of-Society Digital
+                    Transformation Framework: Pillars and sub-pillars
                   </em>
                 </p>
               </div>
@@ -248,16 +251,7 @@ export default function Methodology(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>
-                    Figure 2.{" "}
-                    <a
-                      target="_blank"
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                    >
-                      UNDP's five stages of digital development
-                    </a>{" "}
-                  </em>
+                  <em>Figure 2. UNDP's five stages of digital development</em>
                 </p>
               </div>
               <p>
@@ -272,16 +266,7 @@ export default function Methodology(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>
-                    Figure 3.{" "}
-                    <a
-                      href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                      className="text-blue-300"
-                      target="_blank"
-                    >
-                      Transformation framework
-                    </a>{" "}
-                  </em>
+                  <em>Figure 3. Transformation framework</em>
                 </p>
               </div>
             </div>
@@ -295,7 +280,7 @@ export default function Methodology(
                 The script and datasets can all be found on UNDP’s&nbsp;
                 <a
                   href="https://github.com/undp/digital-development-compass"
-                  className="text-blue-300"
+                  className="url-styling"
                   target="_blank"
                 >
                   GitHub.
@@ -366,7 +351,7 @@ export default function Methodology(
                   includes 145 publicly available datasets and is available on{" "}
                   <a
                     href="https://github.com/undp/digital-development-compass"
-                    className="text-blue-500 underline"
+                    className="url-styling"
                     target="_blank"
                   >
                     GitHub
@@ -416,14 +401,7 @@ export default function Methodology(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  {" "}
-                  <a
-                    target="_blank"
-                    href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=64c52d6e75&attid=0.1&permmsgid=msg-f:1764868617392429293&th=187e12a826e918ed&view=att&disp=inline&saddbat=ANGjdJ_J6ABUb_6VX6F6g30jWvJsce85NyutxtJ9_irPPQmXAXG1GMfRf8Z06lAEQSUseD1JGn_t-6vO8snwM7AaMp2W-yk0SOUapva-x5TVm1fY7r49nERKGYXCGEDRLfrQjsHfTNtYgaHKK0bsATMi4AOG6BFLQBqrr1frZZykB3EhQKP_smCCch7cOXIJUMFBRxEgpos_vG9s5o5CVQfo9YSdhXalSdvjEdm0IVSs9B8lthNecdOo6wvrRri476tPTYaMoE5Y8PKZw5eFKXAVCvLkeBFNkApdy61ihMaP6ijj7Rd4FanYD0F21uMNwQryQWCj_SpXITvkD-kMQlMSfUNk0dRf3sImCmef_LqpxOEXrDpmbNZ6Y4HgPOIOGKo4o9YYRJkZydyBTXZY629NQCE9Do0X_oMCwH6TulqasDXAhjSErY96BQ11PA8hNzZCOKf2LivBGsYWknTGr0Z9OGcRxO3mJzFSUsdYrpjBhWBd1nFXcaiAq_WzYv7ianWJQMcxntzo9qinox6Xl3w33XybZAQCb8Bx8pyPOVcbSz3uzKsK1jR97g65NqeNmpJWAw7AqoaW_645goUcIubnPo_sIpuy6oJG0TqIeduVhpObJc1NhooEZXh0fqnZO3oUp4rmaPMEMrsGSfU57lKDOEjML5pvg9yuuZjsM-yqTUeZN4zfJqmN0ZiEorCiKgwn8ml4qN1pwwJ4XjD9N4nJDMWz5zvE8BTcF0YVnTVDSJPq9OxxUGqs6HBr3OLbF1tj2msmV94y0bc2UmKhubxxF9Q0RoZZ7B3I5UmuSTipcUflWlqDpV8G1xzv_69nqCYcWtiV7I_Zalo78FGa6Rvax5XTS3QH7L5qtE6pfI7-ZrM1_dJ2JLtNyYYXq7yV9bfdFkGf1P9sohjfxWvEi_LGjZrdbQX4l5Jv-LNAfHNuB9h7IbNkHrmMtmiUmYfxUwlPhe7yMGBouW1HZETIGWD1a8AJpQAllfqLn5QrXi4AzzV4SAGqKyZcNNCxVuIQ99cVJmWFV4kdBZFm7maX"
-                    className="text-blue-300"
-                  >
-                    <em>Source</em>
-                  </a>{" "}
+                  <em>Figure 4. Source</em>
                 </p>
               </div>
               <p>
@@ -1208,7 +1186,7 @@ export default function Methodology(
             <em>Table 3. DDC definitions and scales</em>
           </p>
         </div>
-        <div className="flex w-3/5 md:w-3/5 sm:w-4/5 mx-auto pb-4 sm:pb-7 pt-5">
+        <div className="flex w-3/5 md:w-3/5 sm:w-4/5 mx-auto pb-4">
           <div className="bg-gray-200 px-4 py-2 max-w-xs">
             <p className="text-lg mb-1">
               Raw Data
@@ -1225,20 +1203,20 @@ export default function Methodology(
                 onMouseEnter={() => setDownloadHovered(true)}
                 onMouseLeave={() => setDownloadHovered(false)}
               >
-                { isDownloadHovered ? (               
-                 <Image
-                  src={downloadHover}
-                  alt="downloadHover"
-                  width={16}
-                  height={16}
-                />
-              ) : (
-                <Image
-                src={downloadDefault}
-                alt="download"
-                width={16}
-                height={16}
-              />
+                {isDownloadHovered ? (
+                  <Image
+                    src={downloadHover}
+                    alt="downloadHover"
+                    width={16}
+                    height={16}
+                  />
+                ) : (
+                  <Image
+                    src={downloadDefault}
+                    alt="download"
+                    width={16}
+                    height={16}
+                  />
                 )}
               </a>
             </div>
@@ -1247,26 +1225,23 @@ export default function Methodology(
 
         <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
           <Link href="/disclaimer">
-            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
-             onMouseEnter={() => setIsHovered(true)}
-             onMouseLeave={() => setIsHovered(false)}
+            <a
+              className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
+              onMouseEnter={() => setIsHovered(true)}
+              onMouseLeave={() => setIsHovered(false)}
             >
               CLICK HERE TO ACCESS THE DISCLAIMER
-              <div className="ml-2 sm:mt-1 flex items-center space-x-0">
-                    {isHovered ? (
-                      <Image
-                        src={arrowBase}
-                        alt="arrowBase"
-                        className="m-0 p-0"
-                      />
-                    ) : (
-                      <Image
-                        src={chevronRight}
-                        alt="chevronRight"
-                        className="m-0 p-0"
-                      />
-                    )}
-                  </div>
+              <div className="ml-2 mb-1 sm:mt-1  flex items-center space-x-0">
+                {isHovered ? (
+                  <Image src={arrowBase} alt="arrowBase" className="m-0 p-0" />
+                ) : (
+                  <Image
+                    src={chevronRight}
+                    alt="chevronRight"
+                    className="m-0 p-0"
+                  />
+                )}
+              </div>
             </a>
           </Link>
         </p>

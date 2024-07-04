@@ -69,6 +69,24 @@ html {
   animation: borderMove 2s linear infinite; /* Apply the looping animation on hover */
 }
 
+input::placeholder {
+  color: #000000; /* Change placeholder color to black */
+  font-size: small;
+}
+
+select option:hover {
+  color: red;
+}
+
+select option[value="placeholder"] {
+  color: #9ca3af; /* Light gray color for the placeholder */
+}
+
+.hover-option:hover {
+  color: white;
+  background-color: red;
+}
+
 @keyframes borderMove {
   0% {
     transform: scaleX(0); /* Start with the line hidden */
