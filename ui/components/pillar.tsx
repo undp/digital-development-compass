@@ -54,7 +54,7 @@ const Subpillar = (props: SubpillarProps) => {
       <div className="flex items-center justify-between group-target:bg-yellow-50 group-target:ring-2 group-target:ring-offset-4 group-target:ring-yellow-300">
         <h3 className="text-base font-medium">{subpillar}</h3>
         {score !== null ? (
-          <span className="text-sm text-right font-mono">
+          <span className="text-base font-normal leading-[137.5%] text-right">
             {/* <span>
               {rank}
               <sup>{getOrdinal(rank)}</sup>
