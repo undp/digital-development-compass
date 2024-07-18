@@ -259,6 +259,37 @@ select option[value="placeholder"] {
   color: #000000;
 }
 
+.filter-badge-bg-color {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 8rem;
+}
+
+.filter-badge-bg-color:hover {
+  background-color: #edeff0;
+}
+
+.placeholder-bold-text::placeholder {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.custom-data-table-style {
+  font-size: 16px;
+  line-height: 137.5%;
+  font-family: 'Proxima Nova', sans-serif;
+  font-weight: 800; /* Regular weight */
+  letter-spacing: 0;
+}
+
+.custom-nav-shadow {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header-nav-bg-color {
+  background-color: #FAFAFA;
+}
+
 .footer-background-color {
   background-color: #006eb5;
 }
@@ -370,7 +401,7 @@ select option[value="placeholder"] {
 @media (min-width: 1301px) and (max-width: 1450px) {
   .sideLink {
     width: 200px;
-    padding-left: 84px;
+    padding-left: 25px;
     padding-top: 24rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
   }
@@ -379,7 +410,7 @@ select option[value="placeholder"] {
 @media (min-width: 1451px) and (max-width: 1500px) {
   .sideLink {
     width: 200px;
-    padding-left: 80px;
+    padding-left: 25px;
     padding-top: 13rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
   }
@@ -388,7 +419,7 @@ select option[value="placeholder"] {
 @media (min-width: 1500px) and (max-width: 1700px) {
   .sideLink {
     width: 21%;
-    padding-left: 90px;
+    padding-left: 25px;
     padding-top: 22rem;
     padding-bottom: 13rem;
   }
@@ -397,7 +428,7 @@ select option[value="placeholder"] {
 @media (min-width: 1700px) {
   .sideLink {
     width: 24%;
-    padding-left: 130px;
+    padding-left: 25px;
     padding-top: 22rem;
     padding-bottom: 13rem;
   }
@@ -443,5 +474,22 @@ select option[value="placeholder"] {
   }
 }
 
+@media (min-width: 769px ) {
+   .rainbow-mobile {
+      display: none;
+   }
+   .rainbow-web {
+    display: block;
+ }
+}
 
+
+.header-scrolled {
+  width: 3rem;
+}
+
+.header-scrolled-mobile {
+  width: 3rem;
+  top: 4px;
+}
 
