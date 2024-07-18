@@ -56,7 +56,7 @@ const handleScroll = (e: any) => {
 const SideMenuBar = () => {
   return (
     <nav className="absolute left-0 top-0 h-full sideLink">
-      <ul className="space-y-6 p-4">
+      <ul className="space-y-6 pt-4">
         {" "}
         {/* Adjust space between items and padding */}
         <li>
@@ -101,7 +101,9 @@ const SideMenuBarMobile = () => {
     <div className="relative inline-block text-left w-full px-5 bottom-3">
       <button
         onClick={toggleDropdown}
-        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${  isOpen ? "border-black" : ""} `}
+        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${
+          isOpen ? "border-black" : ""
+        } `}
       >
         Menu
         <svg
@@ -121,8 +123,10 @@ const SideMenuBarMobile = () => {
         </svg>
       </button>
       <div
-        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"}`}
-        style={{ overflow: 'hidden' }}
+        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${
+          isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
+        }`}
+        style={{ overflow: "hidden" }}
       >
         <div
           className="py-0 px-5 flex flex-col  justify-center"
@@ -131,12 +135,12 @@ const SideMenuBarMobile = () => {
           aria-labelledby="options-menu"
         >
           <a
-           href="#how-it-works"
-           onClick={handleScroll}
+            href="#how-it-works"
+            onClick={handleScroll}
             className="flex items-center justify-start bg-gray-200 font-semibold px-4 uppercase py-2 text-base text h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
             role="menuitem"
           >
-              How the Compass Works
+            How the Compass Works
           </a>
           <a
             href="#digital-readiness"
@@ -144,7 +148,7 @@ const SideMenuBarMobile = () => {
             className="flex items-center justify-start bg-gray-200 px-4 uppercase py-2 text-base font-semibold h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
             role="menuitem"
           >
-           Stages of Digital Readiness by Transformation Pillar
+            Stages of Digital Readiness by Transformation Pillar
           </a>
           <a
             href="#public-good"
@@ -195,7 +199,7 @@ export default function About(
         <div className="sideMenuBarMobile flex items-center justify-center">
           <SideMenuBarMobile />
         </div>
-        <div className="sideMenuBar">
+        <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
         <div className="container px-4 mx-auto flex">
@@ -335,7 +339,7 @@ export default function About(
               release new reports. All code and data is transparent and
               available as a global resource on GitHub. Visit{" "}
               <a
-                className="underline"
+                className="url-styling"
                 href="https://github.com/undp/digital-development-compass"
               >
                 https://github.com/undp/digital-development-compass
@@ -746,9 +750,9 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full text-left px-[2vw] mt-8 md:mt-60">
-      <h2 className="text-center text-2xl md:text-3xl text-gray-800 font-bold">
+      <h4 className="text-center text-[35px] leading-[1.142] text-gray-800 font-normal">
         Let's walk through navigating an example in the Compass:
-      </h2>
+      </h4>
 
       <div className="relative w-full mb-[90vh] md:mb-[100vh]">
         <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
