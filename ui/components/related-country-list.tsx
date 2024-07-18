@@ -47,7 +47,7 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           label="Pillar"
           trigger={
             <span
-              className="text-xs text-black font-medium uppercase tracking-widest py-[2px] px-[2px]"
+              className="text-bold text-black font-bold uppercase tracking-widest py-[2px] text-base"
             >
               PILLAR
             </span>
