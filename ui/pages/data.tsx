@@ -79,7 +79,7 @@ export default function Data(
         name: pillar,
         key: `scores.${pillar}.score`,
         width: 100,
-        visible: true,
+        visible: true
       })),
     {
       name: "Small Island Developing States (SIDS)",
@@ -256,13 +256,64 @@ export default function Data(
                         label={`${Math.ceil(confidence)}%`}
                       />
                     )}
-                    <p className="font-mono text-right flex-1">{score}</p>
+                    <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
                   </div>
                 </div>
               );
             },
           };
         }),
+      ...ancillary.digitalRightPillarName.map((pillar) => {
+        const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
+
+        const bgScale = scaleLinear<string>()
+          .domain([0, 5])
+          .range(["#fff", pillarColor]);
+
+        return {
+          width: 190,
+          key: `scores.${pillar}.score`,
+          name: pillar,
+          cellClass: `p-0`,
+          headerCellClass: "text-right",
+          formatter(props: FormatterProps<(typeof data)[0]>) {
+            // @ts-ignore
+            let score = props.row.digitalRightScores[pillar].score;
+            let confidence;
+            confidence =
+              // @ts-ignore
+              !props.row.digitalRightScores[pillar].confidence
+                ? null
+                : // @ts-ignore
+                  props.row.digitalRightScores[pillar].confidence;
+
+            return (
+              <div className="relative px-2 h-full group z-0">
+                <div
+                  className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
+                  style={{
+                    backgroundColor: displaySettings.showHeatmap
+                      ? bgScale(score || 0)
+                      : "transparent",
+                  }}
+                ></div>
+                <div className="flex h-full items-center justify-between z-10">
+                  {!!confidence && displaySettings.showConfidence && (
+                    <ProgressPill
+                      bar="white"
+                      background={pillarColor}
+                      border={pillarColor}
+                      value={confidence}
+                      label={`${Math.ceil(confidence)}%`}
+                    />
+                  )}
+                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
+                </div>
+              </div>
+            );
+          },
+        };
+      }),
     ];
   }, [displaySettings]);
 
@@ -462,7 +513,7 @@ export default function Data(
                 </label> */}
                 <input
                   id="country"
-                  className="form-input text-sm placeholder-black shadow-sm border-black border-2 w-full p-2 pl-4"
+                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-2 w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
@@ -510,7 +561,7 @@ export default function Data(
                     onChange={setRegionFilter}
                     label="Region"
                     trigger={
-                      <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                      <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
                         REGION
                       </span>
                     }
@@ -600,7 +651,7 @@ export default function Data(
                   label="Region"
                   disabled={subregionSelectDisabled}
                   trigger={
-                    <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                    <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
                       SUB-REGION
                     </span>
                   }
