@@ -34,7 +34,7 @@ export function FilterBadge(props: FilterBadgeProps) {
 export function SideMenuFilterBadge(props: FilterBadgeProps) {
   const { value, onClick } = props;
   return (
-    <span className="inline-flex items-center py-0.6 pl-1 pr-1.5 rounded-md text-sm font-medium bg-gray-300 text-black">
+    <span className="inline-flex items-center py-0.6 pl-1 pr-1.5 text-sm font-medium filter-badge-bg-color text-black">
       <button
         type="button"
         onClick={onClick}
