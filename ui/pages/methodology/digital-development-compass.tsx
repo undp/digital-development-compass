@@ -23,7 +23,6 @@ import downloadDefault from "../../public/download-default.svg";
 import arrowBase from "../../public/arrow-base.svg";
 import downloadHover from "../../public/download-hover.svg";
 
-
 const NavBar = () => {
   return (
     <nav className="flex items-center justify-start p-4 pb-0 text-base sm:text-sm md:text-base">
@@ -84,9 +83,16 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
-                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                    style={{
+                      fontFamily: "SohneBreitFont, sans-serif",
+                      wordWrap: "break-word",
+                    }}
                   >
-                    DIGITAL DEVELOPMENT COMPASS
+                    DIGITAL
+                    <br />
+                    DEVELOPMENT
+                    <br />
+                    COMPASS
                   </h2>
                 </div>
               </div>
@@ -255,10 +261,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>
-                    Figure 2.{" "}
-                      UNDP's five stages of digital development
-                  </em>
+                  <em>Figure 2. UNDP's five stages of digital development</em>
                 </p>
               </div>
               <p>
@@ -273,10 +276,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>
-                    Figure 3.{" "}
-                      Transformation framework
-                  </em>
+                  <em>Figure 3. Transformation framework</em>
                 </p>
               </div>
             </div>
@@ -411,7 +411,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   className="w-full sm:w-84 h-auto"
                 />
                 <p className="text-center mt-2">
-                    <em>Figure 4. Source</em>
+                  <em>Figure 4. Source</em>
                 </p>
               </div>
               <p>
@@ -1212,21 +1212,21 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 onClick={handleDownloadClick}
                 onMouseEnter={() => setDownloadHovered(true)}
                 onMouseLeave={() => setDownloadHovered(false)}
-              > 
-               { isDownloadHovered ? (               
-                 <Image
-                  src={downloadHover}
-                  alt="downloadHover"
-                  width={16}
-                  height={16}
-                />
-              ) : (
-                <Image
-                src={downloadDefault}
-                alt="download"
-                width={16}
-                height={16}
-              />
+              >
+                {isDownloadHovered ? (
+                  <Image
+                    src={downloadHover}
+                    alt="downloadHover"
+                    width={16}
+                    height={16}
+                  />
+                ) : (
+                  <Image
+                    src={downloadDefault}
+                    alt="download"
+                    width={16}
+                    height={16}
+                  />
                 )}
               </a>
             </div>
@@ -1234,27 +1234,24 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
         </div>
 
         <p className="w-3/5 md:w-3/5 sm:w-4/5 mx-auto">
-        <Link href="/disclaimer">
-            <a className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
-             onMouseEnter={() => setIsHovered(true)}
-             onMouseLeave={() => setIsHovered(false)}
+          <Link href="/disclaimer">
+            <a
+              className="text-sm sm:text-sm md:text-2xl font-medium tracking-wider flex items-center"
+              onMouseEnter={() => setIsHovered(true)}
+              onMouseLeave={() => setIsHovered(false)}
             >
               CLICK HERE TO ACCESS THE DISCLAIMER
               <div className="ml-2 mb-1 sm:mt-1  flex items-center space-x-0">
-                    {isHovered ? (
-                      <Image
-                        src={arrowBase}
-                        alt="arrowBase"
-                        className="m-0 p-0"
-                      />
-                    ) : (
-                      <Image
-                        src={chevronRight}
-                        alt="chevronRight"
-                        className="m-0 p-0"
-                      />
-                    )}
-                  </div>
+                {isHovered ? (
+                  <Image src={arrowBase} alt="arrowBase" className="m-0 p-0" />
+                ) : (
+                  <Image
+                    src={chevronRight}
+                    alt="chevronRight"
+                    className="m-0 p-0"
+                  />
+                )}
+              </div>
             </a>
           </Link>
         </p>
