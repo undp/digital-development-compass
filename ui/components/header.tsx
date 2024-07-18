@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { SearchDialog } from "./search-dialog";
 import LogoSVG from "../public/undp-logo.svg";
 import { MobileMenu } from "./mobile-menu";
@@ -49,16 +49,41 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
     }, 300); // Adjust the delay as needed
   };
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const header: any = document.getElementById("header");
+      const headerMobile: any = document.getElementById("header-mobile");
+      if (window.scrollY > 10) {
+        header.classList.add("header-scrolled");
+        headerMobile.classList.add("header-scrolled-mobile");
+      } else {
+        header.classList.remove("header-scrolled");
+        headerMobile.classList.remove("header-scrolled-mobile");
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
     <>
-      <header className="bg-white flex-shrink-0 border-b">
+      <header className="flex-shrink-0 border-b custom-nav-shadow header-nav-bg-color">
         {/* mobile */}
         <div className="lg:hidden p-4 flex items-center justify-between h-24">
           <div className="flex items-center space-x-4">
             <div className="w-12">
               <Link href="/">
-                <a className="block relative">
-                  <Image src={LogoSVG} alt="UNDP Logo" />
+                <a id="header-mobile" className="block relative top-1 w-14">
+                  <Image
+                    id="logo"
+                    src={LogoSVG}
+                    alt="UNDP Logo"
+                    className="transition-all duration-300"
+                  />
                 </a>
               </Link>
             </div>
@@ -67,7 +92,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-start">
             <button
               onClick={() => handleMenuToggle(!mobileMenuOpen)}
-              className={`bg-white font-semibold border-brand-blue hover:bg-brand-blue/10 px-4 py-4 text-brand-blue-dark flex-shrink-0 flex items-center`}
+              className={`header-nav-bg-color font-semibold border-brand-blue hover:bg-brand-blue/10 px-4 py-4 text-brand-blue-dark flex-shrink-0 flex items-center`}
             >
               <span className="tracking-wide">
                 {mobileMenuOpen ? (
@@ -88,8 +113,13 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div className="w-12 h-24 flex-shrink-0">
               <Link href="/">
-                <a className="block relative">
-                  <Image src={LogoSVG} alt="UNDP Logo" />
+                <a id="header" className="block relative top-0 w-[52px]">
+                  <Image
+                    id="logo"
+                    src={LogoSVG}
+                    alt="UNDP Logo"
+                    className="transition-all duration-300"
+                  />
                 </a>
               </Link>
             </div>
@@ -119,13 +149,13 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               </button>
               {dropdownOpen && (
                 <div
-                  className="absolute bg-white border mt-2 rounded shadow-lg w-full z-20" // Ensure the z-index is higher than the data grid
+                  className="absolute header-nav-bg-color border mt-2 rounded shadow-lg w-full z-20" // Ensure the z-index is higher than the data grid
                   onMouseEnter={handleDropdownOpen}
                   onMouseLeave={handleDropdownClose}
-                  style={{ width: "280px" }}
+                  style={{ width: "270px"}}
                 >
                   <Link href="/methodology/digital-development-compass">
-                    <a className="px-4 z-30 bg-white py-2 h-20 items-center flex justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider border-b whitespace-nowrap">
+                    <a className="px-4 z-30 py-2 h-20 items-center flex justify-start hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider border-b whitespace-nowrap">
                       Digital Development Compass
                     </a>
                   </Link>

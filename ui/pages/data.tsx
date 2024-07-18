@@ -79,7 +79,7 @@ export default function Data(
         name: pillar,
         key: `scores.${pillar}.score`,
         width: 100,
-        visible: true,
+        visible: true
       })),
     ...ancillary.digitalRightPillarName.map((pillar) => ({
       name: pillar,
@@ -262,7 +262,7 @@ export default function Data(
                         label={`${Math.ceil(confidence)}%`}
                       />
                     )}
-                    <p className="font-mono text-right flex-1">{score}</p>
+                    <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
                   </div>
                 </div>
               );
@@ -313,7 +313,7 @@ export default function Data(
                       label={`${Math.ceil(confidence)}%`}
                     />
                   )}
-                  <p className="font-mono text-right flex-1">{score}</p>
+                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
                 </div>
               </div>
             );
@@ -519,7 +519,7 @@ export default function Data(
                 </label> */}
                 <input
                   id="country"
-                  className="form-input text-sm placeholder-black shadow-sm border-black border-2 w-full p-2 pl-4"
+                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-2 w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
@@ -567,7 +567,7 @@ export default function Data(
                     onChange={setRegionFilter}
                     label="Region"
                     trigger={
-                      <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                      <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
                         REGION
                       </span>
                     }
@@ -657,7 +657,7 @@ export default function Data(
                   label="Region"
                   disabled={subregionSelectDisabled}
                   trigger={
-                    <span className="text-xs text-black font-medium uppercase tracking-widest py-[2px]">
+                    <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
                       SUB-REGION
                     </span>
                   }
