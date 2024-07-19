@@ -60,7 +60,7 @@ export function Select<T extends string>(props: SelectProps<T>) {
         {options.map((option) => (
           <Listbox.Option
             className={({ active }) =>
-              `cursor-default select-none relative py-2 pl-4 pr-4 flex items-center justify-between border-b border-gray-300 ${
+              `cursor-default select-none relative py-2 pl-4 pr-3 flex items-center justify-between border-b border-gray-300 ${
                 active ? 'text-gray-500 bg-gray-50' : 'text-gray-900'
               }`
             }
@@ -69,8 +69,8 @@ export function Select<T extends string>(props: SelectProps<T>) {
             onClick={() => setIsOpen(!isOpen)}
           >
             {({ selected }) => (
-              <>
-                <span className={`block truncate ${selected ? 'font-medium' : 'font-normal'}`}>
+              <> 
+                <span className={`block ${selected ? 'font-medium' : 'font-normal'}`}>
                   {itemRenderer(option)}
                 </span>
                 <span className="flex items-center ml-2">
