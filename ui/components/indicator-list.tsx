@@ -185,25 +185,34 @@ const Indicator = ({
   const value = +(isShowingRawScores
     ? indicator.data_col
     : indicator.new_rank_score);
-  const disp_val = value == 0 ? 0 : roundNumber(value, 2);
+  const disp_val:any = value == 0 ? 0 : roundNumber(value, 2);
   const [isHovered, setIsHovered] = useState(false);
 
   const renderValue = () => {
+    const commonClasses = 'font-mono text-xs';
+    const numberClasses = 'text-base font-normal leading-[137.5%] tracking-normal font-sans';
+  
     if (isShowingRawScores && indicator.raw_data_col) {
       const number = parseFloat(indicator.raw_data_col);
+  
       if (!isNaN(number)) {
-        return number;
+        return (
+          <span className={numberClasses}>
+            {number}
+          </span>
+        );
       }
       const cleanedData = indicator.raw_data_col
         .replace(/^["']+|["']+$/g, "")
         .trim();
-
+  
       if (cleanedData.length > 9) {
         // Find the first word
         const firstWord = cleanedData.split(" ")[0];
-
+  
         return (
           <span
+            className={commonClasses}
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
           >
@@ -211,10 +220,36 @@ const Indicator = ({
           </span>
         );
       } else {
-        return cleanedData;
+        return (
+          <span className={commonClasses}>
+            {cleanedData}
+          </span>
+        );
       }
     } else {
-      return hasNoData ? "Data unavailable" : disp_val;
+      if (hasNoData) {
+        return (
+          <span className={commonClasses}>
+            Data unavailable
+          </span>
+        );
+      }
+  
+      const number = parseFloat(disp_val);
+  
+      if (!isNaN(number)) {
+        return (
+          <span className={numberClasses}>
+            {disp_val}
+          </span>
+        );
+      } else {
+        return (
+          <span className={commonClasses}>
+            {disp_val}
+          </span>
+        );
+      }
     }
   };
 
@@ -231,15 +266,16 @@ const Indicator = ({
     return "sm:w-80 md:w-80 lg:w-128";
   };
 
+ // const numberText = isShowingRawScores ? parseFloat(indicator.raw_data_col) : parseFloat(disp_val) ;
   return (
     <li className={hasNoData ? "text-slate-500" : ""}>
       <div className="flex items-center justify-between">
         <span className="text-sm">{indicator?.Indicator}</span>
-        <span className="font-mono text-xs ml-4 flex-shrink-0 relative">
+        <span className={`ml-4 flex-shrink-0 relative`}>
           {renderValue()}
           {isHovered && indicator.raw_data_col && (
             <div
-              className={`absolute right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
+              className={`font-mono absolute text-xs right-0 text-center bottom-full mb-2 bg-white shadow-lg border border-gray-200 z-50
               ${getWidthClass()} p-2`}
             >
               {indicator?.raw_data_col?.replace(/^["']+|["']+$/g, "").trim() ||

@@ -490,7 +490,7 @@ export const ScoreRing = ({
 
                       {hasData && (
                         <g
-                          className={`hidden md:block sp-txt text-sm ${
+                          className={`hidden rainbow-web sp-txt text-sm ${
                             isHovered
                               ? "text-black font-semibold"
                               : "text-gray-500"
@@ -525,7 +525,7 @@ export const ScoreRing = ({
                       )}
                       {hasData && (
                         <g
-                          className={`md:hidden sp-txt text-sm ${
+                          className={`rainbow-mobile sp-txt text-sm ${
                             isHovered
                               ? "text-black font-semibold"
                               : "text-gray-500"
