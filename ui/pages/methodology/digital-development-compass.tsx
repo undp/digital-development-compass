@@ -106,55 +106,24 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 DIGITAL DEVELOPMENT COMPASS
               </h2>
             </div> */}
-            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
+             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 What is the Digital Development Compass?
               </h2>
               <p>
-                The Digital Development Compass (DDC) is a comprehensive
-                visualisation of a country's digital indicators. These
-                indicators are sourced from publicly available datasets,
-                gathered and made available by UNDP to offer guidance and
-                clarity into a country's progress in digital development. Thus,
-                the DDC provides a diagnostic framework and serves as a starting
-                point for deeper collaboration and engagement. The DDC allows
-                users to obtain a snapshot of a country's digital readiness
-                without the need to consult multiple sources.
+              The Digital Development Compass (the Compass) is a comprehensive visualisation of a country's digital indicators, based on publicly available datasets.  By examining the Compass, each country can identify their strengths and weaknesses and assess their digital ‘maturity stage.’ The tool features various visualization options, displays the percentage of available data, and enables comparisons between regions, sub-regions and income groups. This user-friendly format allows users to obtain a snapshot of a country's digital readiness without the need to consult multiple sources. 
               </p>
               <p>
-                Within the DDC, each country can examine individual pillars and
-                sub-pillars to identify strengths and weaknesses, aligning them
-                with specific ‘maturity stages.’ Each sub-pillar comprises
-                multiple indicators. Additionally, the percentage of available
-                data is displayed. The DDC also allows for comparisons between
-                regions, sub-regions, and income groups, and offers various
-                visualisation options.
+              Moreover, the tool serves as a catalyst for conversations between governments and UNDP. It opens the door for discussions about potential discrepancies in rankings or the potential impacts of digital technologies on specific sectors or development plans. Thus, the Compass acts as both a diagnostic framework and a starting point for deeper collaboration and engagement. 
               </p>
               <p>
-                Moreover, the tool serves as a catalyst for conversations
-                between governments and UNDP, providing an opportunity to
-                initiate discussions, address potential discrepancies in
-                rankings, or explore the potential impacts of digital
-                technologies in their specific sectors or development plans. The
-                DDC represents a valuable tool for understanding governments’
-                current digital landscape and identifying opportunities for
-                progress and growth. Furthermore, it encourages governments to
-                share their advancements openly to ensure accurate
-                representation in the DDC.
+              Ultimately, the Compass represents a valuable tool for understanding governments’ current digital landscapes and identifying opportunities for progress and growth. It also encourages governments to share their advancements openly to ensure their digital progress is accurately represented in the Compass. 
               </p>
               <h2 className="text-2xl md:tracking-normal">
-                How should the DCC be used?
+              How should the Compass be used? 
               </h2>
               <p>
-                The primary objective of the digital compass is to serve as a
-                prominent entry point, allowing countries to establish immediate
-                connections with UNDP’s country offices. Through this platform,
-                country offices can promptly generate customised materials that
-                showcase their digital initiatives, capabilities, and comprehend
-                the specific requirements. By providing this dedicated space,
-                the DDC aims to strengthen engagement and collaboration while
-                offering countries an expedient means to explore and leverage
-                UNDP's digital capabilities.
+              The primary objective of the Digital Development Compass is to serve as a prominent entry point for countries to directly connect with UNDP’s Country Offices. Through this platform, Country Offices can promptly generate customized materials that showcase their digital initiatives, capabilities and needs. By providing this dedicated space, the Compass aims to strengthen engagement and collaboration while offering countries an expedient means to explore and leverage UNDP's digital capabilities. 
               </p>
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 The Digital Transformation Framework
@@ -163,61 +132,30 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 Defining Digital Development
               </h2>
               <p>
-                'Digital transformation' is not a destination, but a journey. It
-                is about using digital and technology to improve the lives and
-                livelihoods of individuals, communities, and countries. This
-                ranges from improving public services, to tackling issues of
-                marginalisation.
+              'Digital transformation' is not a destination, but a journey. It is about using digital and technology to improve the lives and livelihoods of individuals, communities and countries. 
               </p>
               <p>
-                UNDP advocates for inclusive, whole-of-society digital
-                transformation. It is a coordinated approach between government,
-                civil society and the private sector to build ownership, support
-                human-centred design, mitigate risks, and establish
-                accountability. To support this strategy, UNDP has implemented
-                the Digital Transformation Framework to discover & compare
-                progress across a range of key issues.
+              UNDP advocates for inclusive, whole-of-society digital transformation. This demands a coordinated approach between government, civil society and the private sector to build ownership, support human-centred design, mitigate risks and establish accountability. To support this strategy, UNDP has developed the Digital Transformation Framework, which covers the most important areas for collaboration to achieve inclusive digital transformation.
               </p>
               <h2 className="text-xl md:tracking-normal">
                 Overview of the Digital Transformation framework
               </h2>
               <p>
-                The DDC is constructed based on the{" "}
+              The Compass is constructed based on the inclusive whole-of-society{" "}
                 <a
                   href="https://www.undp.org/digital/transformations"
                   className="url-styling"
                   target="_blank"
                 >
-                  Inclusive Whole-Of-Society Digital Transformation framework
+                 Digital Transformation Framework
                 </a>{" "}
-                endorsed by UNDP. The Digital Transformation Framework serves as
-                a guide for stakeholders to align their efforts regarding
-                inclusive digital transformation and supports countries in their
-                transformation process. It enables stakeholders to identify,
-                structure, and prioritise their national digital transformation
-                initiatives and agendas effectively.
+                endorsed by UNDP. The Digital Transformation Framework guides countries towards inclusive digital transformation. Specifically, it enables stakeholders to identify, structure and prioritize their national digital transformation initiatives and agendas effectively. 
               </p>
               <p>
-                The framework represents the encompassing structure for Digital
-                Development within the UNDP. It is the result of an extensive
-                study that examines various frameworks, implementation
-                strategies, and methodologies employed by diverse organisations,
-                including those in the private sector, public sector, and
-                international development agencies. Through this framework, UNDP
-                aims to provide countries with a valuable resource for assessing
-                and advancing their digital development journey, while
-                considering the unique challenges and opportunities they may
-                encounter along the way.
+              The Digital Transformation Framework is the result of an extensive study that examined various frameworks, implementation strategies and methodologies employed by diverse organizations, including those in the private sector, public sector and international development agencies. The Framework (see Figure 1) is structured around five pillars, with each pillar being further subdivided into 20 sub-pillars such as cyber security and broadband speed. Additionally, the Compass reflects the state of Digital Public Infrastructure (DPI), with 3 sub-dimensions: data exchange, identification and payments. Finally, to score the country’s digital transformation, the Compass evaluates each sub-pillar, using its specific set of indicators.   
               </p>
               <p>
-                The Digital Transformation Framework (see Figure 1) is
-                structured into seven pillars, with each pillar being further
-                subdivided into 25 sub-pillars. Each sub-pillar corresponds to a
-                specific element of digital transformation. The sub-pillars
-                encompass various individual indicators, which are used to
-                calculate a country's Digital Transformation Score. These scores
-                are then aligned with corresponding stages of digital
-                transformation.
+              Through this framework, UNDP aims to provide countries with a valuable resource for assessing and advancing their digital development journey; while considering the unique challenges and opportunities they may encounter along the way. 
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <Image
@@ -231,10 +169,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </div>
               <h2 className="text-xl">Pillars and sub-pillar</h2>
               <p>
-                Table 1 provides a list of the pillars and the underlying
-                sub-pillars constituting UNDP’s Inclusive Whole-of-Society
-                Digital Transformation Framework that form the basis of the
-                Digital Development Compass:
+              Table 1 provides a list of the pillars and the underlying sub-pillars constituting UNDP’s inclusive whole-of-society Digital Transformation Framework, which form the basis of the Digital Development Compass: 
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <PillarsTable />
@@ -250,9 +185,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </h2>
               <h2 className="text-2xl">Stages of digital development</h2>
               <p>
-                Each country's digital readiness is assessed across five stages
-                of digital development as indicated Figure 2, which encompass
-                every pillar and sub-pillar.
+              Each country's digital readiness is assessed across five stages of digital development as indicated in Figure 2, which encompasses every pillar and sub-pillar. 
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <Image
@@ -265,9 +198,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </p>
               </div>
               <p>
-                Further enhancement of countries' digital readiness can be
-                achieved by providing individual support to each component of
-                the transformation framework.
+              Further enhancement of countries' digital readiness can be achieved by providing individual support to each component of the transformation framework. 
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <Image
@@ -285,67 +216,38 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </h2>
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <p>
-                The software and data that are used to put together the DDC are
-                open source and in the process of becoming Digital Public Goods.
-                The script and datasets can all be found on UNDP’s&nbsp;
+              The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. The script and datasets can all be found on UNDP’s&nbsp;
                 <a
                   href="https://github.com/undp/digital-development-compass"
                   className="url-styling"
                   target="_blank"
                 >
-                  GitHub.
+                  GitHub
                 </a>
-                &nbsp;UNDP is partnered with GitHub’s volunteer programme and
-                volunteers have helped to develop the novel scripts used in the
-                process.
+                &nbsp;, developed in partnership with GitHub’s volunteer programme.
               </p>
               <h2 className="text-2xl md:tracking-normal">
                 1. Indicator Selection
               </h2>
               <p>
-                UNDP conducted a review of the 200+ indicators that formed the
-                first version of the Compass. This indicator evaluation had two
-                phases:
+              UNDP conducted a review of the 200+ indicators that formed the first version of the Digital Development Compass. This indicator evaluation was carried out in two phases: 
               </p>
               <ul className="list-disc pl-10">
                 <li className="pb-5">
-                  Phase 1: Existing indicators were reviewed according to newly
-                  established indicator criteria. A number of composite indexes
-                  were also exploded (the term “exploded” is used, in the sense
-                  of ‘to break up into pieces’, to refer to the process of
-                  surfacing all of the individual indicators contained within a
-                  composite index) earlier included in the Compass to identify
-                  and remove instances of double-counting and to improve
-                  relevancy.
+                Phase 1: Existing indicators were reviewed according to newly established indicator criteria. A number of composite indexes that were included earlier in the Compass were also exploded to remove instances of double-counting and improve relevancy.  The term “exploded” is used, in the sense of ‘to break up into pieces’, to refer to the process of surfacing all of the individual indicators contained within a composite index. 
                 </li>
                 <li>
-                  Phase 2: New indicators were added after a research and review
-                  process.
+                Phase 2: New indicators were added after the research and review process. 
                 </li>
               </ul>
               <p>
-                Currently, there are a total of 145 indicators included in the
-                DDC. Indicators were identified by conducting desk research
-                online into the public data available relating to the
-                sub-pillars and pillars of the digital development framework as
-                mentioned above.
+              Currently, there are a total of 145 indicators included in the Compass. Indicators were identified by conducting online desk research into the public data available related to the sub-pillars and pillars of the Digital Development Framework mentioned above. 
               </p>
               <p>
-                During this review process, an Expert Committee was appointed,
-                with a globally representative group of experts with specialisms
-                and experience in digital development. The Committee’s vision is
-                to support the DDC as it develops year on year. At its core, the
-                Committee will be flexible with this as its primary aim,
-                evolving organically, in parallel with the Digital Development
-                Compass.
+              During this review process, an Expert Committee was appointed, comprising a globally representative group of experts with specialized experience in digital development. The Committee’s vision is to support the Digital Development Compass as it develops year on year. At its core, the Committee will remain flexible, evolving organically and in parallel with the Compass. 
               </p>
               <p>
-                Based on a series of consultations and advisory from the Expert
-                Committee, questions for data evaluation have been created to
-                perform a data quality assessment for all existing and newly
-                selected indicators. In case the examined indicator does not
-                meet the evaluation criteria, the indicator will not be included
-                in the Digital Development Compass.
+              Based on a series of advisory consultations with the Expert Committee, questions for data evaluation have been created to assess data quality of all existing and newly selected indicators. In case the examined indicator does not meet the evaluation criteria, the indicator will be excluded from the Digital Development Compass. 
               </p>
 
               <div className="max-w-[20em] sm:max-w-[20em] md:max-w-[40em] lg:max-w-[40em] mx-auto px-4">
@@ -385,24 +287,13 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 2. Data Collection
               </h2>
               <p>
-                The methodology used for data collection depends on the format
-                the data is published in. Largely, data is retrieved from the
-                data source automatically. Links to data sources are collected
-                in a spreadsheet and automation is used to scrape spreadsheets,
-                PDFs, and documents and convert them into a machine-readable
-                format.
+              The methodology used for data collection depends on the format the data are published in. Largely, data are retrieved from the data source automatically. Links to data sources are collected in a spreadsheet and automation is used to scrape spreadsheets, PDFs and documents and convert them into a machine-readable format. 
               </p>
               <p>
-                However, while automation can be applied to most websites from
-                which data is collected, certain platforms require manual
-                intervention. In these cases, files containing data in the
-                correct format are uploaded manually.
+              However, while automation can be applied to most websites from which data are collected, certain platforms require manual intervention. In these cases, files containing data in the correct format are uploaded manually. 
               </p>
               <p>
-                99% of all indicators are automatically updated when
-                organisations release new reports and datasets. The below
-                diagram visualises how updates in the source data triggers a
-                change in the DDC webpage.
+              99% of all indicators are automatically updated when organisations release new reports and datasets. The below diagram visualises how updates in the source data triggers a change in the Compass webpage.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <Image
@@ -415,9 +306,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </p>
               </div>
               <p>
-                When any of the links to source data expire, an automated email
-                notification is sent to administrators, and new links are
-                updated manually.
+              When any of the links to source data expire, an automated email notification is sent to administrators, and new links are updated manually.
               </p>
               <h2 className="text-2xl md:tracking-normal">
                 3. Score Calculation Methodology
@@ -430,16 +319,11 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </p>
               <h2 className="text-xl md:tracking-normal">Normalisation</h2>
               <p>
-                The indicators used within the compass have been normalized
-                using Min-Max rescaling.
+              The indicators used within the compass have been normalized using Min-Max rescaling.
               </p>
               <h2 className="text-lg md:tracking-normal">Min-Max rescaling</h2>
               <p>
-                The following formula creates a score between 0 and 1. It does
-                so by creating a scale with a maximum possible score of 1 that
-                corresponds to the highest scoring country’s score; and a
-                minimum possible score of 0 that corresponds to the lowest
-                scoring country’s score.
+              The following formula creates a score between 0 and 1. It does so by creating a scale with a maximum possible score of 1 that corresponds to the highest scoring country’s score; and a minimum possible score of 0 that corresponds to the lowest scoring country’s score.
               </p>
               <p className="flex justify-center items-center">
                 <Image
@@ -452,35 +336,16 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <u>Scaling and normalization of categorical data</u>
               </p>
               <p>
-                The categories are identified in the dataset and numerical
-                values are assigned to each category. Each category has a unique
-                numerical representation. The maximum possible value that a
-                category can attain within the dataset is determined to
-                establish the scaling range. The maximum value provides a
-                reference point for rescaling all other values. Once the maximum
-                possible value is determined, the numerical values of the
-                categories are rescaled to a predefined range, typically
-                spanning from 0 to a chosen maximum value. This rescaling
-                process ensures uniformity and facilitates comparison across
-                different indicators.
+              The categories are identified in the dataset and numerical values are assigned to each category. Each category has a unique numerical representation. The maximum possible value that a category can attain within the dataset is determined to establish the scaling range. The maximum value provides a reference point for rescaling all other values. Once the maximum possible value is determined, the numerical values of the categories are rescaled to a predefined range, typically spanning from 0 to a chosen maximum value. This rescaling process ensures uniformity and facilitates comparison across different indicators.
               </p>
               <p>
-                The original numerical values of the categories to the desired
-                rescaled range are linearly mapped. The mapping maintains the
-                relative order and spacing of the original values.
+              The original numerical values of the categories to the desired rescaled range are linearly mapped. The mapping maintains the relative order and spacing of the original values. 
               </p>
               <p>
-                For each category, its rescaled value is calculated using the
-                determined maximum possible value and the chosen scaling range.
-                The rescaling formula is consistently applied across all
-                categories.
+              For each category, its rescaled value is calculated using the determined maximum possible value and the chosen scaling range. The rescaling formula is consistently applied across all categories. 
               </p>
               <p>
-                The rescaled values are normalized to ensure they fall within a
-                standard range, such as 0 to 1. Normalization helps mitigate the
-                influence of outliers and enhances the interpretability of the
-                data. Min-Max normalization is used for normalization of these
-                data types as well.{" "}
+              The rescaled values are normalized to ensure they fall within a standard range, such as 0 to 1. Normalization helps mitigate the influence of outliers and enhances the interpretability of the data. Min-Max normalization is used for normalization of these data types as well.{" "}
               </p>
               <h2 className="text-xl md:tracking-normal">
                 Indicator weightings
@@ -499,18 +364,13 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   relationship with digital development:
                   <ul className="list-disc ml-8 mt-2 space-y-2">
                     <li>
-                      0.5 to indicators identified as more weakly aligned and
-                      which only partially relate to digital development.
+                    The score 0.5 is assigned to indicators identified as more weakly aligned and which only partially relate to digital development. 
                     </li>
                     <li>
-                      1 to all those indicators that have a clear, direct
-                      connection to digital development;
+                    The score 1 is assigned to indicators that have a clear, direct connection to digital development; 
                     </li>
                     <li>
-                      A score of 0 is not included, as the data evaluation
-                      process already removed indicators that do not clearly
-                      relate to digital development (and which would have scored
-                      0),
+                    A score of 0 is not included, as the data evaluation process already removed indicators that do not clearly relate to digital development (and which would have scored 0), 
                     </li>
                   </ul>
                 </li>
@@ -518,103 +378,59 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   <span className="font-bold">
                     Indicator uniqueness or overlap:
                   </span>{" "}
-                  Although the Compass does not have any instances of the same
-                  indicator appearing more than one time (explicit double
-                  counting), in some cases, multiple indicators are measured
-                  overlapping factors. For instance, ‘average fixed broadband
-                  download speeds’ and ‘average mobile broadband upload speeds’
-                  are highly likely to be correlated, being dependent on the
-                  same infrastructure. These indicators needed to be scored
-                  lower to avoid counting the same metric more than once.
+                  Although the Compass does not have any instances of the same indicator appearing more than one time (explicit double counting), in some cases, multiple indicators are measured with overlapping factors. For instance, ‘average fixed broadband download speeds’ and ‘average mobile broadband upload speeds’ are highly likely to be correlated, being dependent on the same infrastructure. These indicators needed to be scored lower to avoid counting the same metric more than once.
                   <ul className="list-disc ml-8 mt-2 space-y-2">
                     <li>
-                      To quantitatively capture overlapping, indicators are
-                      scored by dividing 1 by the number of overlapping
-                      indicators.
+                    To quantitatively capture overlapping, indicators are scored by dividing 1 by the number of overlapping indicators. 
                     </li>
                     <li>
-                      In this way, an indicator that does not overlap with
-                      others scores 1, one that overlaps with only 1 other
-                      indicator scores 1/2 = 0.5, one overlapping with two more
-                      indicators scores 1/3 = 0.33, and so on.
+                    In this way, an indicator that does not overlap with others scores 1; an indicator that overlaps with only one other indicator scores 1/2 = 0.5; an indicator that overlaps with two other indicators scores 1/3 = 0.33, and so on.
                     </li>
                     <li>
-                      This process allows us to assign a lower score to those
-                      indicators that measure similar aspects of digital
-                      development.
+                    This process allows us to assign a lower score to those indicators that measure similar aspects of digital development.
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <span className="font-bold">Indicator number:</span> Indicator
-                  scores are divided by the total number of indicator scores
-                  within a sub-pillar.
+                  <span className="font-bold">Indicator number:</span> Indicator scores are divided by the total number of indicator scores within a sub-pillar. 
                 </li>
               </ol>
               <h2 className="text-xl md:tracking-normal">Imputing scores</h2>
               <p className="mb-4">
-                For indicators where there are gaps in country data, or where an
-                indicator has not collected data from particular countries,
-                imputing scores is an option. However, imputed data is{" "}
-                <b>not</b> included into the scoring in the Digital Development
-                Compass, while visualization is enabled with a toggle switch
-                giving the user the option to visualise data with or without
-                imputed scores. The following methods for imputation to use it
-                in only the data visualisation are used depending on their
-                suitability within a given context:
+              For indicators where there are gaps in country data, or there is no collected data from a particular country, imputing scores is an option. While imputed data is not included into the scoring in the Digital Development Compass, users can still visualise the data with or without imputed scores using a toggle switch.
               </p>
+              <p>The following imputation methods are selected depending on their suitability within a given context: </p>
               <ol className="list-decimal ml-6 space-y-4">
                 <li>
-                  <span className="">Linear interpolation:</span> Historical
-                  information can be used before implementing a modelling-based
-                  approach. If data is missing but there are values in preceding
-                  and subsequent years, linear interpolation is used.
+                  <span className="">Linear interpolation:</span> Historical information can be used before implementing a modelling-based approach. If data are missing but there are values in preceding and subsequent years, linear interpolation is used.
                 </li>
                 <li>
-                  <span className="">Extrapolation:</span> If there is no data
-                  from preceding and subsequent years, data is extrapolated as a
-                  constant value of the nearest reported data, or as a value on
-                  a trend line/curve.
+                  <span className="">Extrapolation:</span> If there is no data from preceding and subsequent years, data are extrapolated as a constant value of the nearest reported data, or as a value on a trend line/curve.
                 </li>
                 <li>
                   <span className="">
                     Neighbouring/similar countries’ data:
                   </span>{" "}
-                  A mean average is taken based on a sample of regionally
-                  neighbouring countries and/or GDP figures.
+                  A mean average is taken based on a sample of regionally neighbouring countries and/or GDP figures.
                 </li>
                 <li>
                   <span className="">
                     Expectation-maximisation with a bootstrapping (EMB):
                   </span>{" "}
-                  The remaining missing data is imputed with an
-                  expectation-maximisation with a bootstrapping (EMB) multiple
-                  imputation algorithm.
+                  The remaining missing data are imputed with an expectation-maximisation with a bootstrapping (EMB) multiple imputation algorithm.
                 </li>
               </ol>
               <p className="mt-4">
-                The EMB method generates imputed values through an iterative
-                procedure that uses other variables to impute a value
-                (expectation) and then asserts whether the value is most likely
-                to fit the data (maximisation). To account for variation caused
-                by missing data, the model is run 10 times – the average of
-                these 10 imputations is then used to impute the missing value.
+              The EMB method generates imputed values through an iterative procedure that uses other variables to impute a value (expectation) and then asserts whether the value is most likely to fit the data (maximisation). To account for variation caused by missing data, the model is run 10 times. The average of these 10 imputations is then used to impute the missing value.
               </p>
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 Definitions and scales
               </h2>
               <p className="mb-4">
-                Data that has been retrieved is then matched with a UN-defined
-                list of countries, regions, sub-regions, income groups, and
-                territorial borders.
+              Data that has been retrieved are then matched with a UN-defined list of countries, regions, sub-regions, income groups and territorial borders.
               </p>
               <p>
-                Raw data and data from other indexes are converted to values
-                within the DDC’s 0-5 range. The method used to perform this
-                conversion depends on the type of indicator. Through rescaling
-                all scores between 0 and 5 (no zero scores), the countries are
-                clearly within one of the five maturity stages of digital
-                development.
+              Raw data and data from other indexes are converted to values within the Compass’ 0 - 5 range. The method used to perform this conversion depends on the type of indicator. Through rescaling all scores between 0 and 5 (no zero scores), the countries are clearly within one of the five maturity stages of digital development.
               </p>
             </div>
           </div>
