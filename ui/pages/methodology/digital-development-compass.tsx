@@ -143,7 +143,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <p>
               The Compass is constructed based on the inclusive whole-of-society{" "}
                 <a
-                  href="https://www.undp.org/digital/transformations"
+                  href="https://digital-development-compass-git-staging-undp-digital.vercel.app/about"
                   className="url-styling"
                   target="_blank"
                 >
@@ -262,7 +262,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   As a result of this assessment, Digital Development Compass
                   includes 145 publicly available datasets and is available on{" "}
                   <a
-                    href="https://github.com/undp/digital-development-compass"
+                    href="https://www.undp.org/digital/transformations"
                     className="url-styling"
                     target="_blank"
                   >
