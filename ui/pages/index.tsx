@@ -24,7 +24,7 @@ function Hero() {
         Is your nation ready to navigate digital transformation?
       </h1>
       <p className="hero-content-text-size leading-7 mt-4 hero-content-text-color text-justify">
-        Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
+      Explore your nation's digital progress using the world's largest database of digital development data. Leveraging the pillars of UNDP’s Digital Transformation Framework, the Digital Development Compass lets you discover and compare progress across a range of key issues.
       </p>
     </div>
   );
