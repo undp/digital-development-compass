@@ -763,6 +763,16 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   className="text-[2.5vw] md:text-[2vw] relative"
                   key={index}
                 >
+                                    {index + 1 == stageNames.length && <motion.div
+                    className="absolute bottom-[-2em] text-[#FC8A29]  right-0 transform -translate-x-1/2 font-mono text-[0.5em]"
+                    animate={{
+                      y: currentStepIndex > 0 ? 0 : 10,
+                      opacity: currentStepIndex > 0 ? 1 : 0,
+                    }}
+                    transition={{ duration: 0.6, delay: index * 0.1 }}
+                  >
+                    {index+1}
+                  </motion.div>}
                   <div
                     className="py-[0.6em] px-[1em] font-semibold text-white"
                     style={{
@@ -773,15 +783,16 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   </div>
 
                   <motion.div
-                    className="absolute bottom-[-2em] left-1/2 transform -translate-x-1/2 font-mono text-[0.7em]"
+                    className="absolute bottom-[-2em] text-[#FC8A29]  left-0 transform -translate-x-1/2 font-mono text-[0.5em]"
                     animate={{
                       y: currentStepIndex > 0 ? 0 : 10,
                       opacity: currentStepIndex > 0 ? 1 : 0,
                     }}
                     transition={{ duration: 0.6, delay: index * 0.1 }}
                   >
-                    {index + 1}
+                    {index}
                   </motion.div>
+
                 </div>
               ))}
             </div>
