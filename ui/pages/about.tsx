@@ -101,15 +101,13 @@ const SideMenuBarMobile = () => {
     <div className="relative inline-block text-left w-full px-5 bottom-3">
       <button
         onClick={toggleDropdown}
-        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${
-          isOpen ? "border-black" : ""
-        } `}
+        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${isOpen ? "border-black" : ""
+          } `}
       >
         Menu
         <svg
-          className={`w-5 h-5  transition-transform ${
-            isOpen ? "rotate-180 mb-2" : "rotate-0 mt-2"
-          }`}
+          className={`w-5 h-5  transition-transform ${isOpen ? "rotate-180 mb-2" : "rotate-0 mt-2"
+            }`}
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
@@ -123,9 +121,8 @@ const SideMenuBarMobile = () => {
         </svg>
       </button>
       <div
-        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${
-          isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
-        }`}
+        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
+          }`}
         style={{ overflow: "hidden" }}
       >
         <div
@@ -206,38 +203,20 @@ export default function About(
           <div className="text-lg flex flex-col items-center">
             <div className="max-w-[40em] space-y-9 text-justify">
               <p>
-                The Digital Development Compass provides an analysis of national
-                digital development based on a comprehensive collection of
-                publicly available data sets on digital.
+                Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
+                  className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
               </p>
 
               <p>
-                The Compass aggregates and synthesises digital development
-                indicators from over 140 publicly available open-source datasets
-                into interactive dashboards across the pillars of the United
-                Nations Development Programme's (UNDP){" "}
-                <a
-                  href="https://www.undp.org/digital/transformations"
-                  target="_blank"
-                  className="url-styling about-under-line"
-                >
-                  digital transformation framework
-                </a>
-                . Users can interact with the data to understand the digital
-                state of any nation (based on publicly available data); it is
-                not intended to be used as an evaluative statistical tool or an
-                index.
+                The Digital Development Compass aggregates and synthesizes digital development indicators from over 140 open-source datasets into interactive dashboards. These dashboards cover the six pillars of the United Nations Development Programme's (UNDP)
+                <a href="https://www.undp.org/digital/transformations" target="_blank"
+                  className="url-styling about-under-line">Digital Transformation Framework</a>,
+                allowing users to quickly understand the digital state of any nation
               </p>
               <p>
-                The Digital Development Compass aims to serve as a guide and
-                starting point for policymakers, practitioners, and stakeholders
-                in their efforts to promote digital development in their
-                respective countries. Users are encouraged to exercise caution
-                and critical thinking when interpreting the results and to
-                consider the broader socio-cultural, political, and economic
-                context of each country's digital development efforts.
+                Ultimately, the Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners and stakeholders in their efforts to promote digital development in their respective countries. The tool is not intended to be used as an evaluative statistical tool or an index. Users are encouraged to exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political and economic context of each country's digital development efforts.
               </p>
-              <p>
+              {/* <p>
                 Developed through{" "}
                 <a
                   href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
@@ -248,7 +227,7 @@ export default function About(
                 </a>
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
-              </p>
+              </p> */}
               <p>
                 Feedback and constructive criticism are welcome to improve the
                 accuracy and usefulness of the Compass. To raise your concerns
@@ -269,10 +248,7 @@ export default function About(
               </div>
 
               <p>
-                The Compass provides a score that assesses the digital maturity
-                of a nation. This is determined by the{" "}
-                {numberWords[pillars.length]} pillars of UNDP’s digital
-                transformation framework:
+                The Compass provides a score that assesses a nation’s digital maturity. This is determined by the pillars of UNDP’s Digital Transformation Framework:
               </p>
             </div>
             <div className="flex flex-wrap mt-4">
@@ -291,11 +267,7 @@ export default function About(
               ))}
             </div>
             <p className="max-w-[40em] mt-9 text-justify">
-              Each of these pillars is formed of various sub-pillars and their
-              respective indicators, which can be mapped to a specific stage of
-              digital transformation. Every stage is assigned a score, which
-              represents the level of digital transformation maturity of a
-              nation.
+              Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
         </div>
@@ -326,18 +298,10 @@ export default function About(
 
           <div className="max-w-[40em] py-10 text-lg px-4 text-justify">
             <p>
-              The software and data that are used to put together the Compass
-              are open source and in the process of becoming Digital Public
-              Goods.
+            The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
             <p>
-              Automations scrape publicly available spreadsheets, PDFs, and
-              documents into a machine-readable format. Scripts normalize the
-              data according to a UN-defined list of countries, regions,
-              sub-regions, income groups, & territorial borders. Data is
-              automatically updated as soon as international organizations
-              release new reports. All code and data is transparent and
-              available as a global resource on GitHub. Visit{" "}
+            Automations scrape publicly available spreadsheets, PDFs, and documents, converting them into machine-readable formats. Scripts then normalize the data according to a UN-defined list of countries, regions, sub-regions, income groups and territorial borders. Data are also automatically updated as soon as international organizations release new reports. All code and data are transparent and available as a global resource on GitHub. Visit{" "}
               <a
                 className="url-styling"
                 href="https://github.com/undp/digital-development-compass"
@@ -545,9 +509,8 @@ const TablePillar = ({
   return (
     <div id={pillar} className={`${gridClassName} scroll-mt-20`} key={pillar}>
       <div
-        className={`p-5 pt-0 mt-5 ${
-          isHighlightingPillars ? "bg-yellow-50" : ""
-        }`}
+        className={`p-5 pt-0 mt-5 ${isHighlightingPillars ? "bg-yellow-50" : ""
+          }`}
       >
         <div
           className={`flex items-center self-start font-semibold text-xl mt-10`}
@@ -589,53 +552,51 @@ const TablePillar = ({
         {definitions.length === 1
           ? null
           : definitions.map((d, definitionIndex) => {
-              if (!isExpanded && d["Sub-Pillar"]) return null;
-              if (!d["Sub-Pillar"]) return null;
-              return (
-                <motion.div
-                  className={`${gridClassName} col-span-6`}
-                  key={definitionIndex}
-                  initial={{ opacity: 0, height: 0 }}
-                  animate={{ opacity: 1, height: "auto" }}
-                  exit={{ opacity: 0, height: 0 }}
-                  transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
-                >
-                  <div
-                    className={`p-2 col-start-1 pl-14 font-semibold ${
-                      !definitionIndex ? "mt-10" : ""
+            if (!isExpanded && d["Sub-Pillar"]) return null;
+            if (!d["Sub-Pillar"]) return null;
+            return (
+              <motion.div
+                className={`${gridClassName} col-span-6`}
+                key={definitionIndex}
+                initial={{ opacity: 0, height: 0 }}
+                animate={{ opacity: 1, height: "auto" }}
+                exit={{ opacity: 0, height: 0 }}
+                transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
+              >
+                <div
+                  className={`p-2 col-start-1 pl-14 font-semibold ${!definitionIndex ? "mt-10" : ""
                     }`}
-                    style={{
-                      color: pillarColor,
-                    }}
-                    key={`name-${definitionIndex}`}
-                  >
-                    {d["Sub-Pillar"] || "Overall"}
-                  </div>
-                  {stageNames.map((stageName, stageIndex) => (
-                    <div
-                      className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${
-                        !definitionIndex ? " mt-10" : ""
+                  style={{
+                    color: pillarColor,
+                  }}
+                  key={`name-${definitionIndex}`}
+                >
+                  {d["Sub-Pillar"] || "Overall"}
+                </div>
+                {stageNames.map((stageName, stageIndex) => (
+                  <div
+                    className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${!definitionIndex ? " mt-10" : ""
                       }`}
-                      style={
-                        {
-                          "--color": pillarColorScale(stageIndex),
-                        } as React.CSSProperties
-                      }
-                      key={`${stageName}-${definitionIndex}`}
-                    >
-                      <div
-                        className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
-                        style={{
-                          background: pillarColorScale(stageIndex),
-                        }}
-                      />
-                      {/* @ts-ignore */}
-                      {d[stageName] || ""}
-                    </div>
-                  ))}
-                </motion.div>
-              );
-            })}
+                    style={
+                      {
+                        "--color": pillarColorScale(stageIndex),
+                      } as React.CSSProperties
+                    }
+                    key={`${stageName}-${definitionIndex}`}
+                  >
+                    <div
+                      className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
+                      style={{
+                        background: pillarColorScale(stageIndex),
+                      }}
+                    />
+                    {/* @ts-ignore */}
+                    {d[stageName] || ""}
+                  </div>
+                ))}
+              </motion.div>
+            );
+          })}
       </AnimatePresence>
     </div>
   );
@@ -763,15 +724,15 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   className="text-[2.5vw] md:text-[2vw] relative"
                   key={index}
                 >
-                                    {index + 1 == stageNames.length && <motion.div
-                    className="absolute bottom-[-2em] text-[#FC8A29]  right-0 transform -translate-x-1/2 font-mono text-[0.5em]"
+                  {index + 1 == stageNames.length && <motion.div
+                    className="absolute bottom-[-2em] text-black  right-0 transform -translate-x-1/2 font-mono text-[0.5em]"
                     animate={{
                       y: currentStepIndex > 0 ? 0 : 10,
                       opacity: currentStepIndex > 0 ? 1 : 0,
                     }}
                     transition={{ duration: 0.6, delay: index * 0.1 }}
                   >
-                    {index+1}
+                    {index + 1}
                   </motion.div>}
                   <div
                     className="py-[0.6em] px-[1em] font-semibold text-white"
@@ -783,7 +744,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   </div>
 
                   <motion.div
-                    className="absolute bottom-[-2em] text-[#FC8A29]  left-0 transform -translate-x-1/2 font-mono text-[0.5em]"
+                    className="absolute bottom-[-2em] text-black  left-0 transform -translate-x-1/2 font-mono text-[0.5em]"
                     animate={{
                       y: currentStepIndex > 0 ? 0 : 10,
                       opacity: currentStepIndex > 0 ? 1 : 0,
@@ -814,8 +775,8 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   currentStepIndex > 5
                     ? country
                     : {
-                        score: {},
-                      }
+                      score: {},
+                    }
                 }
                 pillars={ancillary.pillars}
                 type={"about"}
