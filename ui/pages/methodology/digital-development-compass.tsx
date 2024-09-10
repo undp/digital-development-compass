@@ -129,7 +129,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 The Digital Transformation Framework
               </h2>
               <h2 className="text-2xl md:tracking-normal">
-                Defining Digital Development
+                Defining digital development
               </h2>
               <p>
               'Digital transformation' is not a destination, but a journey. It is about using digital and technology to improve the lives and livelihoods of individuals, communities and countries. 
@@ -138,7 +138,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               UNDP advocates for inclusive, whole-of-society digital transformation. This demands a coordinated approach between government, civil society and the private sector to build ownership, support human-centred design, mitigate risks and establish accountability. To support this strategy, UNDP has developed the Digital Transformation Framework, which covers the most important areas for collaboration to achieve inclusive digital transformation.
               </p>
               <h2 className="text-xl md:tracking-normal">
-                Overview of the Digital Transformation framework
+                Overview of the Digital Transformation Framework
               </h2>
               <p>
               The Compass is constructed based on the inclusive whole-of-society{" "}
@@ -164,10 +164,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   className="w-full sm:w-64 h-auto"
                 />
                 <p className="text-center mt-2">
-                  <em>Figure 1. UNDP’s The Digital Transformation Framework</em>
+                  <em>Figure 1. UNDP’s Digital Transformation Framework</em>
                 </p>
               </div>
-              <h2 className="text-xl">Pillars and sub-pillar</h2>
+              <h2 className="text-xl">Pillars and sub-pillars</h2>
               <p>
               Table 1 provides a list of the pillars and the underlying sub-pillars constituting UNDP’s inclusive whole-of-society Digital Transformation Framework, which form the basis of the Digital Development Compass: 
               </p>
@@ -175,13 +175,13 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <PillarsTable />
                 <p className="text-center mt-2">
                   <em>
-                    Table 1. UNDP’s Inclusive Whole-Of-Society Digital
-                    Transformation Framework: Pillars and sub-pillars
+                    Table 1. UNDP’s inclusive whole-of-society Digital
+                    Transformation Framework: pillars and sub-pillars
                   </em>
                 </p>
               </div>
               <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
-                Measuring Digital Development
+                Measuring digital development
               </h2>
               <h2 className="text-2xl">Stages of digital development</h2>
               <p>
@@ -212,7 +212,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </div>
             </div>
             <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
-              Digital Development Score Methodology
+              Digital development score methodology
             </h2>
             <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
               <p>
@@ -227,7 +227,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 &nbsp;, developed in partnership with GitHub’s volunteer programme.
               </p>
               <h2 className="text-2xl md:tracking-normal">
-                1. Indicator Selection
+                1. Indicator selection
               </h2>
               <p>
               UNDP conducted a review of the 200+ indicators that formed the first version of the Digital Development Compass. This indicator evaluation was carried out in two phases: 
@@ -241,7 +241,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </li>
               </ul>
               <p>
-              Currently, there are a total of 145 indicators included in the Compass. Indicators were identified by conducting online desk research into the public data available related to the sub-pillars and pillars of the Digital Development Framework mentioned above. 
+              Currently, there are a 145 indicators included in the Compass. Indicators were identified by conducting online desk research into the public data available related to the sub-pillars and pillars of the Digital Development Framework mentioned above. 
               </p>
               <p>
               During this review process, an Expert Committee was appointed, comprising a globally representative group of experts with specialized experience in digital development. The Committee’s vision is to support the Digital Development Compass as it develops year on year. At its core, the Committee will remain flexible, evolving organically and in parallel with the Compass. 
@@ -284,16 +284,16 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </div>
               {/* 2. Data Collection */}
               <h2 className="text-2xl md:tracking-normal">
-                2. Data Collection
+                2. Data collection
               </h2>
               <p>
-              The methodology used for data collection depends on the format the data are published in. Largely, data are retrieved from the data source automatically. Links to data sources are collected in a spreadsheet and automation is used to scrape spreadsheets, PDFs and documents and convert them into a machine-readable format. 
+              The methodology used for data collection depends on the format the data are published in. Largely, data are retrieved from the data source automatically. Links to data sources are collected in a spreadsheet. Then, automation is used to scrape spreadsheets, PDFs and documents and convert them into a machine-readable format. 
               </p>
               <p>
               However, while automation can be applied to most websites from which data are collected, certain platforms require manual intervention. In these cases, files containing data in the correct format are uploaded manually. 
               </p>
               <p>
-              99% of all indicators are automatically updated when organisations release new reports and datasets. The below diagram visualises how updates in the source data triggers a change in the Compass webpage.
+              99 percent of all indicators are automatically updated when organisations release new reports and datasets. The below diagram visualises how updates in the source data triggers a change in the Compass webpage.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
                 <Image
@@ -309,7 +309,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               When any of the links to source data expire, an automated email notification is sent to administrators, and new links are updated manually.
               </p>
               <h2 className="text-2xl md:tracking-normal">
-                3. Score Calculation Methodology
+                3. Score calculation methodology
               </h2>
               <p>
                 The Digital Development Compass aims to put countries into one
@@ -367,10 +367,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                     The score 0.5 is assigned to indicators identified as more weakly aligned and which only partially relate to digital development. 
                     </li>
                     <li>
-                    The score 1 is assigned to indicators that have a clear, direct connection to digital development; 
+                    The score 1 is assigned to indicators that have a clear, direct connection to digital development. 
                     </li>
                     <li>
-                    A score of 0 is not included, as the data evaluation process already removed indicators that do not clearly relate to digital development (and which would have scored 0), 
+                    A score of 0 is not included, as the data evaluation process already removed indicators that do not clearly relate to digital development (and which would have scored 0). 
                     </li>
                   </ul>
                 </li>
@@ -1009,7 +1009,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </tbody>
           </table>
           <p className="text-center mt-2">
-            <em>Table 3. DDC definitions and scales</em>
+            <em>Table 3. Compass definitions and scales</em>
           </p>
         </div>
         <div className="flex w-3/5 md:w-3/5 sm:w-4/5 mx-auto pb-4">
