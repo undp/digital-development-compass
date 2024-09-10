@@ -118,8 +118,8 @@ const MissingIndicators = ({
     return (
       <p className="text-sm text-gray-600">Loading missing indicators...</p>
     );
-
-  const missingIndicators = allIndicators
+ 
+  let missingIndicators = allIndicators
     .filter(
       (indicator: Score) =>
         !filledIndicators.find(
@@ -131,6 +131,7 @@ const MissingIndicators = ({
       new_rank_score: null,
       data_col: null,
     }));
+    if(country == ("Mauritania" || "Samoa" )) missingIndicators = []
 
   return (
     <>
