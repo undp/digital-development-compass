@@ -243,7 +243,7 @@ export default function About(
                   id="how-it-works"
                   className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6"
                 >
-                  How the Compass Works
+                  How the Compass works
                 </h2>
               </div>
 
@@ -280,7 +280,7 @@ export default function About(
               id="digital-readiness"
               className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6"
             >
-              Stages of Digital Readiness by Transformation Pillar
+              Stages of digital readiness by transformation pillar
             </h2>
           </div>
 
@@ -712,7 +712,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
   return (
     <div className="w-full text-left px-[2vw] mt-8 md:mt-60">
       <h4 className="text-center text-[35px] leading-[1.142] text-gray-800 font-normal">
-        Let's walk through navigating an example in the Compass:
+        Let's walk through how to navigate the Compass:
       </h4>
 
       <div className="relative w-full mb-[90vh] md:mb-[100vh]">
