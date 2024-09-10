@@ -20,7 +20,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Usage & Adoption",
+        subPillar: "Usage and adoption",
         levels: [
           "Basic: Tech for leisure, low access and adoption.",
           "Transactional: Moderate use, gaps in access.",
@@ -30,7 +30,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Cultural Norms",
+        subPillar: "Cultural norms",
         levels: [
           "Resistant: Low tech adoption, change incentives lacking.",
           "Tolerant: Tech as last resort.",
@@ -40,7 +40,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Civic Engagement",
+        subPillar: "Civic engagement",
         levels: [
           "Restricted: Tech not for citizen-govt interaction, voice exclusion.",
           "Volunteerism: Tech aids activism, accountability via volunteers.",
@@ -62,7 +62,7 @@ export const tableData = [
     ],
     subPillars: [
       {
-        subPillar: "Physical Infrastructure",
+        subPillar: "Physical infrastructure",
         levels: [
           "Outdated: Limited coverage, unreliable infrastructure.",
           "Inaccessible: Basic quality, selective coverage.",
@@ -72,7 +72,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Access Enablers",
+        subPillar: "Access enablers",
         levels: [
           "Blocked: Systemic barriers exclude at-risk groups.",
           "Restricted: Lower tech access, systemic barriers.",
@@ -94,7 +94,7 @@ export const tableData = [
     ],
     subPillars: [
       {
-        subPillar: "Leadership & strategy",
+        subPillar: "Leadership and strategy",
         levels: [
           "  Reactive: No strategy, no senior support, isolated projects.",
           "Informal: Scattered support, no national framework.",
@@ -104,7 +104,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Implementation capacity & systems",
+        subPillar: "Implementation capacity and systems",
         levels: [
           "  Analogue: No skills, outsourcing, no strategy, no budget.",
           "Outsourcing: Few skills, external help, partial strategy.",
@@ -114,7 +114,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Digital public services & platforms",
+        subPillar: "Digital public services and platforms",
         levels: [
           "  Paper-based: No online services, in-person only.",
           "Digitization: Basic digital tools, in-person main.",
@@ -146,7 +146,7 @@ export const tableData = [
     ],
     subPillars: [
       {
-        subPillar: "Data Protection",
+        subPillar: "Data protection",
         levels: [
           "  No recognition: No data protection, access barriers.",
           "Regulate & forget: Ineffective legislation, no enforcement.",
@@ -196,7 +196,7 @@ export const tableData = [
         ],
       },
       {
-        subPillar: "Human Rights",
+        subPillar: "Human rights",
         levels: [
           "  Not recognized: No digital human rights.",
           "Recognized: No action taken.",
