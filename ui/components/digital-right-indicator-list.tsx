@@ -131,7 +131,9 @@ const MissingIndicators = ({
       new_rank_score: null,
       data_col: null,
     }));
-    if(country == ("Mauritania" || "Samoa" )) missingIndicators = []
+    if (country === "Mauritania" || country === "Samoa") {
+      missingIndicators = [];
+    }
 
   return (
     <>
