@@ -236,8 +236,8 @@ select option[value="placeholder"] {
 }
 
 .hero-title-size {
-  font-size: 55px;
-  line-height: 59.95px;
+  font-size: 36px;
+  line-height: 40.95px;
 }
 
 .disclaimer-title-size {
@@ -275,9 +275,9 @@ select option[value="placeholder"] {
 }
 
 .placeholder-bold-text::placeholder {
-  font-weight: 700;
-  font-size: 10.1px;
-  line-height: 11.36px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
   color: #000000;
 }
 
