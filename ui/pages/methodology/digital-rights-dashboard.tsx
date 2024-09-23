@@ -26,17 +26,17 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
 
   const NavBar = () => {
     return (
-      <nav className="flex items-center justify-start p-4 pb-0 text-base sm:text-sm md:text-base">
+      <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-bold sm:text-sm md:text-[12px]">
         <Link href="/">
-          <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">
+          <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">
             Home
           </a>
         </Link>
-        <span className="text-red-500 mr-4">/</span>
-        <span className="text-red-500 mr-4">METHODOLOGY</span>
-        <span className="text-red-500">/</span>
+        <span className="[color:#D12800] mr-4">/</span>
+        <span className="[color:#D12800] mr-4">METHODOLOGY</span>
+        <span className="[color:#D12800] mr-4">/</span>
         <Link href="/methodology/digital-rights-dashboard">
-          <a className="ml-4 text-red-500">DIGITAL RIGHTS DASHBOARD</a>
+          <a className="ml-1 [color:#D12800]">DIGITAL RIGHTS DASHBOARD</a>
         </Link>
       </nav>
     );
@@ -51,16 +51,17 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
         <div className="px-5 pb-5">
-          <div className="w-full bg-gray-200 md:px-20">
+          <div className="w-full h-[532px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
-              <div className="container md:px-4 md:mx-auto">
+              <div className="md:px-4 md:mx-auto pt-[80px]">
                 <NavBar />
-                <div className="max-w-[80em] py-0 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
+                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{
                       fontFamily: "SohneBreitFont, sans-serif",
                       wordWrap: "break-word",
+                      letterSpacing : '3px'
                     }}
                   >
                     DIGITAL
@@ -74,15 +75,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div>
           </div>
         </div>
-        <div className="container px-4 mx-auto">
+        <div className="container px-4 mx-auto pt-[61.12px]">
           <div className="text-lg flex flex-col items-center">
             {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
               <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
               DIGITAL RIGHTS DASHBOARD
               </h2>
             </div> */}
-            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify">
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
+            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify text-[20px] [line-height:27.5px]">
+              <h2 className="text-2xl md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left">
                 The role of digital rights in digital transformation
               </h2>
               <p>
@@ -500,7 +501,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
         <div className="flex justify-center mt-8">
           <button
             onClick={handleScrollToTop}
-            className="bg-brand-blue-dark border-2 font-semibold border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-xs uppercase tracking-wide text-white flex-shrink-0 flex items-center"
+            className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-md font-bold uppercase tracking-wide text-white flex-shrink-0 flex items-center"
           >
             Scroll To Top
           </button>
