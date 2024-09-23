@@ -35,7 +35,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               <div className="w-12 flex-shrink-0 mb-2 lg:mb-0">
                 <Image src={LogoSVG} alt="UNDP Logo" />
               </div>
-              <div className="text-base sm:text-base md:text-lg sm:pl-4 leading-tight md:text-center lg:text-left">
+              <div className="text-base sm:text-base md:text-lg sm:pl-4 font-normal leading-tight md:text-center lg:text-left">
                 <span>United Nations</span>
                 <br />
                 <span>Development Programme</span>
@@ -83,12 +83,12 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
           </div>
           <div className="border-t border-gray-200 w-full mt-4 sm:mt-2 md:mt-6"></div>
           <div className="flex flex-col lg:flex-row justify-between items-start w-full mt-4 px-0 text-center lg:text-left">
-            <p className="text-sm lg:order-1 mb-2 lg:mb-0">
+            <p className="text-base  font-normal lg:order-1 mb-2 lg:mb-0">
               &copy; 2024 United Nations Development Programme
             </p>
             <a
               href="https://www.undp.org/copyright-terms-use"
-              className="text-base order-1 lg:order-2 mb-2 lg:mb-0 hover:underline"
+              className="text-base font-normal order-1 lg:order-2 mb-2 lg:mb-0 hover:underline"
             >
               Terms Of Use
             </a>

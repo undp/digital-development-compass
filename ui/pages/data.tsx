@@ -507,10 +507,10 @@ export default function Data(
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
-        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
+        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto pt-[40px]">
           <div className="p-6">
             <div className="space-y-6">
-              <div>
+              <div >
                 {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
@@ -519,7 +519,7 @@ export default function Data(
                 </label> */}
                 <input
                   id="country"
-                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-2 w-full pl-4 placeholder-bold-text"
+                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-[1.26px] w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
@@ -567,14 +567,14 @@ export default function Data(
                     onChange={setRegionFilter}
                     label="Region"
                     trigger={
-                      <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
+                      <span className="text-[10.1px] text-black font-bold uppercase tracking-widest py-[2px]">
                         REGION
                       </span>
                     }
                     itemRenderer={(option) => {
                       return (
                         <div className="py-1">
-                          <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                          <span className="text-[10.1px] font-bold uppercase tracking-widest py-[2px] ">
                             {option}
                           </span>
                         </div>
@@ -657,14 +657,14 @@ export default function Data(
                   label="Region"
                   disabled={subregionSelectDisabled}
                   trigger={
-                    <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
+                    <span className="text-[10.1px] text-black font-bold uppercase tracking-widest py-[2px]">
                       SUB-REGION
                     </span>
                   }
                   itemRenderer={(option) => {
                     return (
                       <div className="py-1">
-                        <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                        <span className="text-[10.1px] font-medium uppercase tracking-widest py-[2px] ">
                           {option}
                         </span>
                       </div>

@@ -14,8 +14,9 @@ export function SiteName() {
         <Link href="/" passHref>
           <a>
             <h1
-              className="text-sm font-semibold lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
-              style={{ color: "#333333" }}
+              className="text-md font-semibold sm:[line-height:18.27px] md:[line-height:22.84px] lg:[line-height:22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
+              style={{ color: "#000000"}}
+
             >
               Digital Development Compass
             </h1>
@@ -87,7 +88,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
+            <div className="pl-[12.1px] w-4"> 
             <SiteName />
+            </div>
           </div>
           <div className="flex items-start">
             <button
@@ -111,9 +114,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
         {/* web */}
         <div className="hidden mx-auto px-6 lg:flex lg:items-center lg:justify-between lg:space-x-4">
           <div className="flex items-center">
-            <div className="w-12 h-24 flex-shrink-0">
+            <div className="w-12 h-[115px] flex-shrink-0">
               <Link href="/">
-                <a id="header" className="block relative top-0 w-[52px]">
+                <a id="header" className="block relative top-0 w-[60px]">
                   <Image
                     id="logo"
                     src={LogoSVG}
@@ -123,7 +126,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
-            <div className="pl-4 w-4">
+            <div className="pl-[24.1px] w-4">
               <SiteName />
             </div>
           </div>

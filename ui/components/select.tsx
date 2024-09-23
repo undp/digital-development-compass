@@ -42,7 +42,7 @@ export function Select<T extends string>(props: SelectProps<T>) {
       onClick={() => setIsOpen(!isOpen)}
     >
       <Listbox.Button
-        className={`focus:ring disabled:cursor-not-allowed disabled:opacity-75 focus:ring-brand-blue relative w-full py-2 pl-4 text-left bg-white border-black border-2 ${isOpen ? 'border-b-0' : ''} cursor-pointer shadow-sm focus:outline-none sm:text-sm`}
+        className={`focus:ring disabled:cursor-not-allowed disabled:opacity-75 focus:ring-brand-blue relative w-full py-2 pl-4 text-left bg-white border-black border-[1.26px] ${isOpen ? 'border-b-0' : ''} cursor-pointer shadow-sm focus:outline-none sm:text-sm`}
         onClick={() => setIsOpen(!isOpen)}
       >
         {trigger}
