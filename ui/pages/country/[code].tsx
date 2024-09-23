@@ -35,13 +35,13 @@ type Props = {
 const NavBar = ({ country }: any) => {
   const countryUrl = `/country/${country["ISO-alpha3 Code"]}`;
   return (
-    <nav className="flex items-center justify-start p-4 text-base sm:text-sm md:text-base">
+    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-bold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+        <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">Home</a>
       </Link>
-      <span className="text-red-500">/</span>
+      <span className="[color:#D12800]">/</span>
       <Link href={countryUrl}>
-        <a className="ml-4 w-44 text-red-500 text-left uppercase">
+        <a className="ml-4 w-44 [color:#D12800] text-left uppercase">
           {country["Country or Area"]}
         </a>
       </Link>
@@ -75,8 +75,10 @@ const StaticPropsDetail = ({
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
       <section className="pt-8 border-b pb-3" id="country-meta">
-        <div className="container px-4 mx-auto text-center">
+        <div className=" sm:px-4 sm:mx-auto sm:text-center md:pl-[149px]">
         <NavBar country={country} />
+        </div>
+        <div className="container px-4 mx-auto text-center">
           <div className="mb-10 text-center">
             <div className="mb-2">
               <span

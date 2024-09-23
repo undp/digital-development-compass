@@ -29,7 +29,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
       <main className="flex-shrink-0 main">{children}</main>
       <CookieConsent />
       <footer className="footer-background-color text-white py-8">
-        <div className="max-w-screen-xl mx-auto px-4 lg:px-24">
+        <div className="max-w-screen-xl mx-auto px-4 lg:px-24 h-[260px]">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between">
             <div className="flex flex-row items-center space-x-0 lg:space-x-4 mb-4 lg:mb-0">
               <div className="w-12 flex-shrink-0 mb-2 lg:mb-0">
