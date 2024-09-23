@@ -45,7 +45,7 @@ html {
   position: relative; /* Required for positioning of the pseudo-element */
   display: inline-block; /* Ensures the element only takes as much width as needed */
   padding-bottom: 1px;
-  border-bottom: 2px solid red; /* Default bottom border */
+  border-bottom: 2px solid #D12800; /* Default bottom border */
 }
 
 .url-styling::after {
@@ -55,7 +55,7 @@ html {
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: red;
+  background-color: #D12800;
   transform: scaleX(0); /* Initially hide the line */
   transform-origin: left; /* Start the animation from the left side */
   transition: transform 0.5s ease-in-out; /* Smooth transition */
@@ -237,7 +237,12 @@ select option[value="placeholder"] {
 
 .hero-title-size {
   font-size: 55px;
-  line-height: 4rem;
+  line-height: 59.95px;
+}
+
+.disclaimer-title-size {
+  font-size: 55px;
+  line-height: 59.95px;
 }
 
 .button-bg-color {
@@ -271,7 +276,9 @@ select option[value="placeholder"] {
 
 .placeholder-bold-text::placeholder {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 10.1px;
+  line-height: 11.36px;
+  color: #000000;
 }
 
 .custom-data-table-style {
@@ -485,7 +492,7 @@ select option[value="placeholder"] {
 
 
 .header-scrolled {
-  width: 3rem;
+  width: 57px;
 }
 
 .header-scrolled-mobile {

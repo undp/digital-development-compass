@@ -12,16 +12,16 @@ export default function disclaimer(
 
   return (
     <Layout title="Disclaimer" countries={countries}>
-      <div className="py-16">
+      <div className="py-16 pt-[48px]">
         <div className="container px-4 mx-auto">
-          <div className="text-lg text-center sm:text-center items-center disclaimer-text-position">
+          <div className="text-lg text-center sm:text-center items-center disclaimer-text-position md:pb-[48px] lg:pb-[48px]">
             <div className="max-w-[40em] py-10 text-lg items-center">
-              <h2 className="hero-title-size font-bold mt-7 mb-3 hero-content-text-color">
+              <h2 className="disclaimer-title-size font-bold mt-7 mb-3 hero-content-text-color">
                 Disclaimer
               </h2>
             </div>
           </div>
-          <div className="text-lg flex flex-col items-center">
+          <div className="text-lg flex flex-col items-center font-normal">
             <div className="max-w-[40em] text-xl space-y-9 text-justify">
               <p>
                 The Digital Development Compass, maintained by the United
