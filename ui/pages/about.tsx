@@ -31,13 +31,13 @@ type Definitions = Dictionary<Definition[]>;
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-start p-4 text-base sm:text-sm md:text-base">
+    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-bold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+        <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">Home</a>
       </Link>
-      <span className="text-red-500">/</span>
+      <span className="[color:#D12800]">/</span>
       <Link href="/about">
-        <a className="ml-4 text-red-500 uppercase">About</a>
+        <a className="ml-4 [color:#D12800] uppercase">About</a>
       </Link>
     </nav>
   );
@@ -55,7 +55,7 @@ const handleScroll = (e: any) => {
 
 const SideMenuBar = () => {
   return (
-    <nav className="absolute left-0 top-0 h-full sideLink">
+    <nav className="absolute left-0 top-[296px] h-full sideLink">
       <ul className="space-y-6 pt-4">
         {" "}
         {/* Adjust space between items and padding */}
@@ -63,7 +63,7 @@ const SideMenuBar = () => {
           <a
             href="#how-it-works"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4 transition-colors duration-300"
+            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4 transition-colors duration-300"
           >
             How the Compass Works
           </a>
@@ -72,7 +72,7 @@ const SideMenuBar = () => {
           <a
             href="#digital-readiness"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4  transition-colors duration-300"
+            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4  transition-colors duration-300"
           >
             Stages of Digital Readiness by Transformation Pillar
           </a>
@@ -81,7 +81,7 @@ const SideMenuBar = () => {
           <a
             href="#public-good"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-lg font-semibold uppercase block pb-4  transition-colors duration-300"
+            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4  transition-colors duration-300"
           >
             A Digital Public Good
           </a>
@@ -176,15 +176,15 @@ export default function About(
   return (
     <Layout title="About" countries={countries}>
       <div className="py-6">
-        <div className="px-5 pb-5">
-          <div className="w-full bg-gray-200 md:px-20">
+      <div className="px-5 pb-5 pt-[27px]">
+          <div className="w-full h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
-              <div className="container md:px-4 md:mx-auto">
+              <div className="md:px-4 md:mx-auto pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-5">
+                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
-                    style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+                    style={{ fontFamily: "SohneBreitFont, sans-serif", letterSpacing : '3px' }}
                   >
                     About
                   </h2>
@@ -192,15 +192,15 @@ export default function About(
               </div>
             </div>
           </div>
-        </div>
+      </div>
         <div className="sideMenuBarMobile flex items-center justify-center">
           <SideMenuBarMobile />
         </div>
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
-        <div className="container px-4 mx-auto flex">
-          <div className="text-lg flex flex-col items-center">
+        <div className="container px-4 mx-auto flex pt-[61.12px]">
+          <div className="text-[20px] [line-height:27.5px] flex flex-col items-center">
             <div className="max-w-[40em] space-y-9 text-justify">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
@@ -239,15 +239,15 @@ export default function About(
               </div>
 
               <div className="max-w-[40em] text-center py-10 text-lg">
-                <h2
+              <h2
                   id="how-it-works"
-                  className="text-3xl md:hero-title-size font-bold mt:8 md:mt-20  mb-1 md:mb-6"
+                  className="text-[55px] [line-height:59.95px] md:hero-title-size font-bold mt:4 md:mt-0  mb-1 md:mb-6"
                 >
                   How the Compass works
                 </h2>
               </div>
 
-              <p>
+              <p className="text-[20px] [line-height:27.5px]">
                 The Compass provides a score that assesses a nation’s digital maturity. This is determined by the pillars of UNDP’s Digital Transformation Framework:
               </p>
             </div>
@@ -266,7 +266,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9 text-justify">
+            <p className="max-w-[40em] mt-9 text-justify text-[20px] [line-height:27.5px]">
               Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
@@ -275,10 +275,10 @@ export default function About(
         <Scrollytelling country={country} />
 
         <div className="mt-40 mb-60 flex flex-col items-center">
-          <div className="max-w-[40em] pt-10 md:py-10 text-lg">
+          <div className="max-w-[60em] pt-10 md:py-10 text-lg">
             <h2
               id="digital-readiness"
-              className="text-3xl text-center md:hero-title-size font-bold mt-20 md:mb-6"
+              className="text-[55px] [line-height:59.95px]  text-center md:hero-title-size font-bold mt-20 md:mb-6"
             >
               Stages of digital readiness by transformation pillar
             </h2>
@@ -287,16 +287,16 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[40em] text-center py-10 text-lg">
+          <div className="max-w-[60em] text-center py-10 " >
             <h2
               id="public-good"
-              className="text-3xl lg:hero-title-size  md:hero-title-size font-bold mt-20 mb-6"
+              className="text-[55px] [line-height:59.95px] lg:hero-title-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-20 mb-6"
             >
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-lg px-4 text-justify">
+          <div className="max-w-[40em] py-10 text-[20px] [line-height:27.5px] px-4 text-justify">
             <p>
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
