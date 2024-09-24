@@ -116,7 +116,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div className="h-[115px] flex-shrink-0">
               <Link href="/">
-                <a id="header" className="block relative top-0 w-[60px]">
+                <a id="header" className="block relative top-0 w-[60px] h-[121.62px]">
                   <Image
                     id="logo"
                     src={LogoSVG}
@@ -133,12 +133,12 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
 
           <div className="flex items-center justify-end space-x-14">
             <Link href="/about">
-              <a className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
                 About
               </a>
             </Link>
             <Link href="/data">
-              <a className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
                 Data
               </a>
             </Link>
@@ -147,7 +147,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               onMouseEnter={handleDropdownOpen}
               onMouseLeave={handleDropdownClose}
             >
-              <button className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider flex items-center">
+              <button className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider flex items-center">
                 Methodology
               </button>
               {dropdownOpen && (

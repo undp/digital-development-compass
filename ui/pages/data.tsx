@@ -361,29 +361,10 @@ export default function Data(
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  // const economyScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Economy"].score || 0);
-  // }, [data]);
-
-  // const dpinfrastructureScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Digital Public Infrastructure"].score || 0);
-  // }, [data]);
-
-  // const governmentScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Government"].score || 0);
-  // }, [data]);
-
-  // const connectivityScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  // }, [data]);
-
-  // const peopleScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["People"].score || 0);
-  // }, [data]);
-
-  // const regulationScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Regulation"].score || 0);
-  // }, [data]);
+  const countries = useMemo(() => {
+    return uniq(data.map((c) => c.name
+  ).filter(Boolean));
+  }, []);
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -396,7 +377,7 @@ export default function Data(
     );
   }, [regionFilter]);
 
-  const subregionSelectDisabled = regionFilter === "*";
+  //const subregionSelectDisabled = regionFilter === "*";
 
   useEffect(() => {
     // @ts-ignore
@@ -433,7 +414,7 @@ export default function Data(
 
   const appliedFilters = useMemo(() => {
     return [
-      countryFilter.length > 0
+      countryFilter  !== "*"
         ? {
             label: "Country",
             value: countryFilter,
@@ -517,14 +498,70 @@ export default function Data(
                 >
                   Country Name
                 </label> */}
-                <input
+                {/* <input
                   id="country"
-                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-2 w-full pl-4 placeholder-bold-text"
+                  className="form-input text-sm placeholder-black placeholder-bold border-black border-2 w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
                   placeholder="COUNTRY NAME"
-                />
+                /> */}
+              </div>
+              <div>
+                <div className="relative">
+                  <Select
+                    value={countryFilter}
+                    onChange={setCountryFilter}
+                    label="country"
+                    trigger={
+                      countryFilter == "" ? (
+                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest">
+                        COUNTRY NAME
+                      </span>
+                      ) : (
+                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest">
+                        COUNTRY NAME (1)
+                      </span>
+                      )
+               
+                    }
+                    itemRenderer={(option) => {
+                      return (
+                          <span className="text-[16px] font-normal uppercase tracking-widest">
+                            {option}
+                          </span>
+                      );
+                    }}
+                    // @ts-ignore
+                    options={countries}
+                  ></Select>
+                  <OverflowList
+                    items={appliedFilters}
+                    className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                    itemRenderer={(item) => {
+                      if (item.label == "Country" && item.value !="") {
+                        return (
+                          <div className="flex-shrink-0" key={item.label}>
+                            <SideMenuFilterBadge
+                              value={item.value}
+                              onClick={item.onReset}
+                              label={item.label}
+                            />
+                          </div>
+                        );
+                      }
+                    }}
+                    overflowRenderer={(items) => {
+                      return (
+                        <div>
+                          <span className="text-sm text-gray-600">
+                            + {items.length} more
+                          </span>
+                        </div>
+                      );
+                    }}
+                  />
+                </div>
               </div>
               <div>
                 {/* <label
@@ -534,45 +571,17 @@ export default function Data(
                   Region
                 </label> */}
                 <div className="relative">
-                  {/* <select
-                    id="region"
-                    name="region"
-                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm appearance-none bg-no-repeat bg-right"
-                    onChange={(e) => setRegionFilter(e.target.value)}
-                    value={regionFilter}
-                    style={{
-                      backgroundImage: `url(${chevronDown.src})`,
-                      backgroundSize: "12px",
-                      backgroundPosition: "right 0.5rem center",
-                      backgroundRepeat: "no-repeat",
-                    }}
-                  >
-                    <option className="text-gray-400" value="*" hidden>
-                      REGION
-                    </option>
-
-                    <option value="*">All</option>
-                    {regions.map((region) => (
-                      <option
-                        className="uppercase hover-option"
-                        key={region}
-                        value={region}
-                      >
-                        {region}
-                      </option>
-                    ))}
-                  </select> */}
                   <Select
                     value={regionFilter}
                     onChange={setRegionFilter}
                     label="Region"
                     trigger={
                       regionFilter == "*" ? (
-                        <span className="text-[16px] text-black font-bold uppercase tracking-widest py-[2px]">
+                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest">
                         REGION
                       </span>
                       ) : (
-                        <span className="text-[16px] text-black font-bold uppercase tracking-widest py-[2px]">
+                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest">
                         REGION (1)
                       </span>
                       )
@@ -580,8 +589,8 @@ export default function Data(
                     }
                     itemRenderer={(option) => {
                       return (
-                        <div className="py-1">
-                          <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                        <div>
+                          <span className="text-[16px] font-normal uppercase tracking-widest">
                             {option}
                           </span>
                         </div>
@@ -619,68 +628,27 @@ export default function Data(
                 </div>
               </div>
               <div>
-                {/* <label
-                  className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
-                  htmlFor="country"
-                >
-                  Sub-region
-                </label> */}
-                {/* <select
-                  id="region"
-                  name="region"
-                  disabled={subregionSelectDisabled}
-                  className={cc([
-                    `form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm`,
-                    {
-                      "opacity-50 cursor-not-allowed": subregionSelectDisabled,
-                    },
-                  ])}
-                  style={{
-                    backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
-                    backgroundSize: "12px", // Size of the SVG icon
-                    backgroundPosition: "right 0.5rem center", // Position the SVG icon
-                    backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
-                  }}
-                  onChange={(e) => setSubregionFilter(e.target.value)}
-                  value={subregionFilter}
-                >
-                  {subregionSelectDisabled ? (
-                    <option value="#">SUB-REGION</option>
-                  ) : (
-                    <option value="*">All</option>
-                  )}
-
-                  {subRegions.map((region) => {
-                    return (
-                      <option className="uppercase" key={region} value={region}>
-                        {region}
-                      </option>
-                    );
-                  })}
-                </select> */}
                 <Select
                   value={subregionFilter}
                   onChange={setSubregionFilter}
                   label="Region"
-                  disabled={subregionSelectDisabled}
+                  // disabled={subregionSelectDisabled}
                   trigger={
                     subregionFilter == "*" ? (
-                      <span className="text-[16px] text-black font-bold uppercase tracking-widest py-[2px]">
+                      <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest py-[2px]">
                       SUB-REGION
                     </span>
                     ) : (
-                      <span className="text-[16px] text-black font-bold uppercase tracking-widest py-[2px]">
+                      <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase tracking-widest py-[2px]">
                       SUB-REGION (1)
                     </span>
                     )
                   }
                   itemRenderer={(option) => {
                     return (
-                      <div className="py-1">
-                        <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                        <span className="text-[16px] uppercase font-normal">
                           {option}
                         </span>
-                      </div>
                     );
                   }}
                   // @ts-ignore

@@ -55,7 +55,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             <div className="md:mx-auto">
               <div className="md:px-4 md:mx-auto pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-3 pt-[80px]">
+                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-left md:text-left md:pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{

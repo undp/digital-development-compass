@@ -29,13 +29,13 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
       <main className="flex-shrink-0 main">{children}</main>
       <CookieConsent />
       <footer className="footer-background-color text-white">
-        <div className="max-w-screen-xl mx-auto px-4 lg:px-[140px] h-[333px] pt-[52px] ">
-          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between pb-[48px]">
-            <div className="flex flex-row items-center space-x-0 mb-4 lg:mb-0">
-              <div className="w-[60px] flex-shrink-0 mb-2 lg:mb-0">
+        <div className="max-w-screen-xl mx-auto px-4 lg:px-[140px] h-[440px] sm:h-[440px] md:h-[435px] lg:h-[333px] pt-[48px] sm:pt-[48px] md:pt-[52px] lg:pt-[52px]">
+          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between pb-[32px] sm:pb-[32px] md:pb-[48px] lg:pb-[48px]">
+            <div className="flex flex-row items-center space-x-0 mb-0 sm:mb-0 md:mb-4 lg:mb-0">
+              <div className="w-[60px] flex-shrink-0 mb-0 sm:mb-0 md:mb-2 lg:mb-2">
                 <Image src={LogoSVG} alt="UNDP Logo" />
               </div>
-              <div className="text-base sm:text-base md:text-[25px] md:[line-height:28.55px] sm:pl-4 font-normal md:text-center lg:text-left">
+              <div className="text-xl sm:text-xl md:text-[25px] md:[line-height:28.55px] sm:pl-4 font-normal md:text-left lg:text-left">
                 <span>United Nations</span>
                 <br />
                 <span>Development Programme</span>
@@ -81,9 +81,9 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               </div>
             </div>
           </div>
-          <div className="border-t border-white w-full"></div>
-          <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[32px] text-center lg:text-left pb-[48px]">
-            <p className="text-base md:text-[16px] md:[line-height:22px]  font-normal lg:order-1 mb-2 lg:mb-0">
+          <div className="border-t border-[#fff] w-full"></div>
+          <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[32px] text-center lg:text-left pb-5 sm:pb-5 md:pb-[48px] lg:pb-[48px]">
+            <p className="text-sm md:text-[16px] md:[line-height:22px]  font-normal lg:order-1 mb-2 lg:mb-0">
               &copy; 2024 United Nations Development Programme
             </p>
             <a
@@ -93,8 +93,8 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
               Terms Of Use
             </a>
           </div>
-          <div className="md:hidden lg:hidden">
-            <div className="flex space-x-5 py-5">
+          <div className="md:hidden lg:hidden ">
+            <div className="flex space-x-8 pl-[72px]">
               <a
                 href="https://www.facebook.com/UNDP"
                 target="_blank"
