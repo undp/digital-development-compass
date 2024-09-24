@@ -25,7 +25,7 @@ import downloadHover from "../public/download-hover.svg";
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-bold sm:text-sm md:text-[11.44px]">
+    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-semibold sm:text-sm md:text-[11.44px]">
       <Link href="/">
         <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">
           Home
