@@ -77,7 +77,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="py-8 sm:py-16">
-        <div className="px-5 pb-5">
+        <div className="px-3 sm:px-3 md:px-5 pb-5 sm:pb-3 md:pb-5 lg:pb-5">
           <div
             className="w-full h-[532px] md:px-20"
             style={{ backgroundColor: "#F7F7F7" }}
@@ -85,7 +85,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             <div className="md:mx-auto">
               <div className="md:px-4 md:mx-auto pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-3 pt-[80px]">
+                <div className="max-w-[40em] p-4 py-5 sm:py-10 text-lg text-start sm:text-left md:text-left md:pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{
@@ -103,15 +103,15 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </div>
           </div>
         </div>
-        <div className="max-w-[813px]  mx-auto pt-[61.12px]">
-          <div className="text-lg flex flex-col items-center">
+        <div className="max-w-[813px]  mx-auto sm:[30px] pt-[61.12px]">
+          <div className="flex-col items-center">
             {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
             <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
               DIGITAL DEVELOPMENT COMPASS
             </h2>
           </div> */}
-            <div className="space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
-              <h2 className="text-[55px] md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left pb-[61.12px]">
+            <div className="space-y-6 text-[20px] [line-height:1.4] text-left m-0 sm:m-3">
+              <h2 className="text-[55px] sm:mobile-title-font-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-left md:text-left pb-[61.12px]">
                 What is the Digital Development Compass?
               </h2>
               <p>
@@ -157,7 +157,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 expedient means to explore and leverage UNDP's digital
                 capabilities.
               </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
+              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-left md:text-left">
                 The Digital Transformation Framework
               </h2>
               <h2 className="text-2xl md:tracking-normal">
@@ -244,7 +244,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   </em>
                 </p>
               </div>
-              <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
+              <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-left md:text-left">
                 Measuring digital development
               </h2>
               <h2 className="text-2xl">Stages of digital development</h2>
@@ -279,10 +279,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </p>
               </div>
             </div>
-            <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
+            <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-left md:text-left">
               Digital development score methodology
             </h2>
-            <div className="max-w-[813px] space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
+            <div className="max-w-[813px] space-y-6 sm:mx-3 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
               <p>
                 The software and data that are used to put together the Compass
                 are open-source and in the process of becoming Digital Public
