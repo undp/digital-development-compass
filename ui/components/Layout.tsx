@@ -48,35 +48,35 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <FaFacebookF size={20} />
+                  <FaFacebookF size={24} />
                 </a>
                 <a
                   href="https://www.linkedin.com/company/undp"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <FaLinkedinIn size={20} />
+                  <FaLinkedinIn size={24} />
                 </a>
                 <a
                   href="https://www.instagram.com/UNDP"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Image height={20} width={20} src={InstagramSVG} alt="InstagramSVG" />
+                  <Image height={24} width={24} src={InstagramSVG} alt="InstagramSVG" />
                 </a>
                 <a
                   href="https://twitter.com/UNDP"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                    <Image height={20} width={20} src={xTwitter} alt="xTwitter" />
+                    <Image height={24} width={24} src={xTwitter} alt="xTwitter" />
                 </a>
                 <a
                   href="https://www.youtube.com/user/undp"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <FaYoutube size={20} />
+                  <FaYoutube size={24} />
                 </a>
               </div>
             </div>

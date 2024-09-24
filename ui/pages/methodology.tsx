@@ -25,15 +25,15 @@ import downloadHover from "../public/download-hover.svg";
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-bold sm:text-sm md:text-[11.44px]">
+    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-semibold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">
+        <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">
           Home
         </a>
       </Link>
-      <span className="[color:#D12800]">/</span>
+      <span className="[color:#D12800] hover:[color:#ee402d]">/</span>
       <Link href="/methodology">
-        <a className="ml-4 [color:#D12800]">METHODOLOGY</a>
+        <a className="ml-4 [color:#000000]">METHODOLOGY</a>
       </Link>
     </nav>
   );
@@ -104,7 +104,7 @@ export default function Methodology(
               DIGITAL DEVELOPMENT COMPASS
             </h2>
           </div> */}
-            <div className="space-y-6 sm:space-y-9 text-[20px] [line-height:27.5px] text-justify">
+            <div className="space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
               <h2 className="text-[55px] md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left pb-[61.12px]">
                 What is the Digital Development Compass?
               </h2>
@@ -276,7 +276,7 @@ export default function Methodology(
             <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
               Digital development score methodology
             </h2>
-            <div className="max-w-[813px] space-y-6 sm:space-y-9 text-justify">
+            <div className="max-w-[813px] space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
               <p>
                 The software and data that are used to put together the Compass
                 are open-source and in the process of becoming Digital Public
@@ -1249,7 +1249,10 @@ export default function Methodology(
         </p> */}
 
         <div className="flex md:w-[370px] md:mx-[290px] sm:w-5/5 pb-4 pt-5 pl-0 sm:pl-3 md:pl-0">
-          <div className="px-4 py-2 w-[336px]" style={{backgroundColor: "#F7F7F7"}}>
+          <div
+            className="px-4 py-2 w-[336px]"
+            style={{ backgroundColor: "#F7F7F7" }}
+          >
             <p className="text-lg mb-1 text-[#000000]">
               Raw Data
               <br />
@@ -1313,7 +1316,7 @@ export default function Methodology(
             onClick={handleScrollToTop}
             className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
           >
-            Scroll To Top
+            Scroll to the top
           </button>
         </div>
       </div>
