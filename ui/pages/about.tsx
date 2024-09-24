@@ -200,8 +200,8 @@ export default function About(
           <SideMenuBar />
         </div>
         <div className="container px-4 mx-auto flex pt-[61.12px]">
-          <div className="text-[20px] [line-height:27.5px] flex flex-col items-center">
-            <div className="max-w-[40em] space-y-9 text-justify">
+          <div className="text-[20px] [line-height:1.4] flex flex-col items-center font-normal text-left">
+            <div className="max-w-[40em] space-y-9">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
                   className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
@@ -266,7 +266,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9 text-justify text-[20px] [line-height:27.5px]">
+            <p className="max-w-[40em] mt-9 text-left text-[20px] [line-height:1.4] font-normal">
               Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
@@ -296,7 +296,7 @@ export default function About(
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-[20px] [line-height:27.5px] px-4 text-justify">
+          <div className="max-w-[40em] py-10 text-[20px] [line-height:1.4] px-4 text-left">
             <p>
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
@@ -379,7 +379,7 @@ export default function About(
             <p>
               <Link href="/methodology">
                 <a
-                  className="text-sm  sm:text-sm md:text-2xl font-medium tracking-wider text-justify flex items-center duration-700"
+                  className="text-sm  sm:text-sm md:text-[16px] md:[line-height:18px] font-bold tracking-wider text-justify flex items-center duration-700"
                   onMouseEnter={() => setIsHovered(true)}
                   onMouseLeave={() => setIsHovered(false)}
                 >
@@ -405,9 +405,9 @@ export default function About(
             <div className="flex justify-center mt-8">
               <button
                 onClick={handleScrollToTop}
-                className="bg-brand-blue-dark border-2 font-semibold border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-xs uppercase tracking-wide text-white flex-shrink-0 flex items-center"
-              >
-                Scroll To Top
+                className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
+                >
+                Scroll to the top
               </button>
             </div>
           </div>

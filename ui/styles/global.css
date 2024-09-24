@@ -275,7 +275,7 @@ select option[value="placeholder"] {
 }
 
 .placeholder-bold-text::placeholder {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
   line-height: 18px;
   color: #000000;
