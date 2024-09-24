@@ -114,7 +114,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
         {/* web */}
         <div className="hidden mx-auto px-6 lg:flex lg:items-center lg:justify-between lg:space-x-4">
           <div className="flex items-center">
-            <div className="w-12 h-[115px] flex-shrink-0">
+            <div className="h-[115px] flex-shrink-0">
               <Link href="/">
                 <a id="header" className="block relative top-0 w-[60px]">
                   <Image
@@ -126,19 +126,19 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
-            <div className="pl-[44px] w-4">
+            <div className="pl-[24px] w-4">
               <SiteName />
             </div>
           </div>
 
           <div className="flex items-center justify-end space-x-14">
             <Link href="/about">
-              <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider">
                 About
               </a>
             </Link>
             <Link href="/data">
-              <a className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider">
+              <a className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider">
                 Data
               </a>
             </Link>
@@ -147,7 +147,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               onMouseEnter={handleDropdownOpen}
               onMouseLeave={handleDropdownClose}
             >
-              <button className="uppercase text-sm hover:text-brand-blue-dark font-medium tracking-wider flex items-center">
+              <button className="uppercase text-sm hover:text-brand-blue-dark font-bold tracking-wider flex items-center">
                 Methodology
               </button>
               {dropdownOpen && (

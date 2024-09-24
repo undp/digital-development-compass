@@ -23,7 +23,7 @@ function Hero() {
       <h1 className="text-3xl md:hero-title-size font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="hero-content-text-size leading-7 mt-4 text-justify" style={{color: '#333333'}}>
+      <p className="hero-content-text-size leading-7 mt-4 text-left" style={{color: '#333333'}}>
       Explore your nation's digital progress using the world's largest database of digital development data. Leveraging the pillars of UNDP’s Digital Transformation Framework, the Digital Development Compass lets you discover and compare progress across a range of key issues.
       </p>
     </div>
