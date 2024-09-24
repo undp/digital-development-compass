@@ -377,7 +377,7 @@ export default function Data(
     );
   }, [regionFilter]);
 
-  const subregionSelectDisabled = regionFilter === "*";
+  //const subregionSelectDisabled = regionFilter === "*";
 
   useEffect(() => {
     // @ts-ignore
