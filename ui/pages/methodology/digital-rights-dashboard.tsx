@@ -26,7 +26,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
 
   const NavBar = () => {
     return (
-      <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-bold sm:text-sm md:text-[12px]">
+      <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[12px]">
         <Link href="/">
           <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">
             Home
