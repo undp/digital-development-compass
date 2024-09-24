@@ -27,15 +27,15 @@ const NavBar = () => {
   return (
     <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-bold sm:text-sm md:text-[12px]">
       <Link href="/">
-        <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">
+        <a className="mr-4 [color:#D12800] uppercase hover:[color:#ee402d]">
           Home
         </a>
       </Link>
-      <span className="[color:#D12800] mr-4">/</span>
-      <span className="[color:#D12800] mr-4">METHODOLOGY</span>
+      <span className="[color:#D12800] mr-4 ">/</span>
+      <span className="[color:#D12800] mr-4 hover:[color:#ee402d]">METHODOLOGY</span>
       <span className="[color:#D12800]">/</span>
       <Link href="/methodology/digital-development-compass">
-        <a className="ml-4 [color:#D12800]">DIGITAL DEVELOPMENT COMPASS</a>
+        <a className="ml-4 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
       </Link>
     </nav>
   );
@@ -94,9 +94,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                       letterSpacing: "3px",
                     }}
                   >
-                    DIGITAL
-                    <br />
-                    DEVELOPMENT
+                    DIGITAL DEVELOPMENT
                     <br />
                     COMPASS
                   </h2>
@@ -112,7 +110,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               DIGITAL DEVELOPMENT COMPASS
             </h2>
           </div> */}
-            <div className="space-y-6 sm:space-y-9 text-[20px] [line-height:27.5px] text-justify">
+            <div className="space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
               <h2 className="text-[55px] md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left pb-[61.12px]">
                 What is the Digital Development Compass?
               </h2>
@@ -284,7 +282,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
               Digital development score methodology
             </h2>
-            <div className="max-w-[813px] space-y-6 sm:space-y-9 text-justify">
+            <div className="max-w-[813px] space-y-6 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
               <p>
                 The software and data that are used to put together the Compass
                 are open-source and in the process of becoming Digital Public
@@ -1324,7 +1322,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             onClick={handleScrollToTop}
             className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
           >
-            Scroll To Top
+            Scroll to the top
           </button>
         </div>
       </div>

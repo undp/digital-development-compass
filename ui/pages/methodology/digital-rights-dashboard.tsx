@@ -28,15 +28,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
     return (
       <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-bold sm:text-sm md:text-[12px]">
         <Link href="/">
-          <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">
+          <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">
             Home
           </a>
         </Link>
         <span className="[color:#D12800] mr-4">/</span>
-        <span className="[color:#D12800] mr-4">METHODOLOGY</span>
+        <span className="[color:#D12800] hover:[color:#ee402d] mr-4">METHODOLOGY</span>
         <span className="[color:#D12800] mr-4">/</span>
         <Link href="/methodology/digital-rights-dashboard">
-          <a className="ml-1 [color:#D12800]">DIGITAL RIGHTS DASHBOARD</a>
+          <a className="ml-1 [color:#000000]">DIGITAL RIGHTS DASHBOARD</a>
         </Link>
       </nav>
     );
@@ -64,9 +64,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                       letterSpacing : '3px'
                     }}
                   >
-                    DIGITAL
-                    <br />
-                    RIGHTS
+                    DIGITAL RIGHTS
                     <br />
                     DASHBOARD
                   </h2>
@@ -82,7 +80,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               DIGITAL RIGHTS DASHBOARD
               </h2>
             </div> */}
-            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-justify text-[20px] [line-height:27.5px]">
+            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-left text-[20px] [line-height:1.4] font-normal">
               <h2 className="text-2xl md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left">
                 The role of digital rights in digital transformation
               </h2>
@@ -503,7 +501,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             onClick={handleScrollToTop}
             className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-md font-bold uppercase tracking-wide text-white flex-shrink-0 flex items-center"
           >
-            Scroll To Top
+            Scroll to the top
           </button>
         </div>
       </div>
