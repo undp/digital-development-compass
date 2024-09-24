@@ -245,8 +245,19 @@ select option[value="placeholder"] {
   line-height: 59.95px;
 }
 
+.disclaimer-mobile-title-size {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+.mobile-title-font-size {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+
 .button-bg-color {
-  background-color: #3288ce;
+  background-color: #006eb5;
 }
 
 .heading-title-size {
@@ -266,8 +277,8 @@ select option[value="placeholder"] {
 
 .filter-badge-bg-color {
   background-color: #f7f7f7;
-  padding: 10px;
-  border-radius: 8rem;
+  padding: 4px 16px 4px 16px;
+  border-radius: 20px;
 }
 
 .filter-badge-bg-color:hover {
@@ -444,8 +455,13 @@ select option[value="placeholder"] {
 
 @media (max-width: 990px) {
   .disclaimer-text-position {
-    text-align: center;
-    padding-left : 0pm
+    text-align: left;
+    padding-left : 0px
+  }
+
+  text-alignment {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 }
 

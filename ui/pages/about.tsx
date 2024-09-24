@@ -98,10 +98,10 @@ const SideMenuBarMobile = () => {
     setIsOpen(!isOpen);
   };
   return (
-    <div className="relative inline-block text-left w-full px-5 bottom-3">
+    <div className="relative inline-block text-left w-full px-5 bottom-3 pt-[14px]">
       <button
         onClick={toggleDropdown}
-        className={`inline-flex justify-between items-center w-full px-4 h-16 py-3 text-base font-semibold text-black bg-gray-200 border-b ${isOpen ? "border-black" : ""
+        className={`inline-flex justify-between uppercase items-center w-full px-4 h-[50.39px] py-3 text-base font-semibold text-black bg-[#edeff0] border-b-2 ${isOpen ? "border-black" : ""
           } `}
       >
         Menu
@@ -134,7 +134,7 @@ const SideMenuBarMobile = () => {
           <a
             href="#how-it-works"
             onClick={handleScroll}
-            className="flex items-center justify-start bg-gray-200 font-semibold px-4 uppercase py-2 text-base text h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
+            className="flex items-center justify-start bg-[#edeff0] font-bold px-4 uppercase py-2 text-base text h-[67.39px] text-black hover:button-bg-color hover:text-white border-b border-gray-400"
             role="menuitem"
           >
             How the Compass Works
@@ -142,7 +142,7 @@ const SideMenuBarMobile = () => {
           <a
             href="#digital-readiness"
             onClick={handleScroll}
-            className="flex items-center justify-start bg-gray-200 px-4 uppercase py-2 text-base font-semibold h-20 text-gray-800 hover:button-bg-color hover:text-white border-b border-gray-400"
+            className="flex items-center justify-start bg-[#edeff0] px-4 uppercase py-2 text-base font-bold h-[67.39px] text-black hover:button-bg-color hover:text-white border-b border-gray-400"
             role="menuitem"
           >
             Stages of Digital Readiness by Transformation Pillar
@@ -150,7 +150,7 @@ const SideMenuBarMobile = () => {
           <a
             href="#public-good"
             onClick={handleScroll}
-            className="flex items-center justify-start bg-gray-200 px-4 uppercase py-2 text-base font-semibold h-20 text-gray-800 hover:button-bg-color hover:text-white"
+            className="flex items-center justify-start bg-[#edeff0] px-4 uppercase py-2 text-base font-bold h-[67.39px] text-black hover:button-bg-color hover:text-white"
             role="menuitem"
           >
             A Digital Public Good
@@ -175,13 +175,16 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="py-6">
-      <div className="px-5 pb-5 pt-[27px]">
+      <div className="py-6 px-3 mx-auto">
+      <div className="sideMenuBarMobile flex items-center justify-center">
+          <SideMenuBarMobile />
+      </div>
+      <div className="pb-5 pt-[14px] sm:pt-[14px] md:pt-[27px] lg:md:pt-[27px] ">
           <div className="w-full h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
-              <div className="md:px-4 md:mx-auto pt-[80px]">
+              <div className="md:px-4 md:mx-auto pt-[0.75rem] sm:pt-[0.75rem] md:pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-center md:text-left md:pl-3 pt-[80px]">
+                <div className="max-w-[40em] py-5 sm:py-10 text-start sm:text-left sm:px-4 md:text-left md:pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{ fontFamily: "SohneBreitFont, sans-serif", letterSpacing : '3px' }}
@@ -193,13 +196,10 @@ export default function About(
             </div>
           </div>
       </div>
-        <div className="sideMenuBarMobile flex items-center justify-center">
-          <SideMenuBarMobile />
-        </div>
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
-        <div className="container px-4 mx-auto flex pt-[61.12px]">
+        <div className="container mx-auto flex pt-[61.12px]">
           <div className="text-[20px] [line-height:1.4] flex flex-col items-center font-normal text-left">
             <div className="max-w-[40em] space-y-9">
               <p>
@@ -287,7 +287,7 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[60em] text-center py-10 " >
+          <div className="max-w-[60em] text-left py-10 " >
             <h2
               id="public-good"
               className="text-[55px] [line-height:59.95px] lg:hero-title-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-20 mb-6"
