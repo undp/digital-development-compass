@@ -12,17 +12,17 @@ export default function disclaimer(
 
   return (
     <Layout title="Disclaimer" countries={countries}>
-      <div className="pt-[55px] pb-[72px] mx-0 sm:mx-3 md:mx-0 lg:mx-0">
+      <div className="pt-[72px] sm:pt-[72px] md:pt-[72px] lg:pt-[72px] pb-[72px] mx-0 sm:mx-3 md:mx-0 lg:mx-0">
         <div className="max-w-[1050px] mx-auto">
-          <div className="text-left disclaimer-text-position md:pb-[20px] lg:pb-[20px]">
+          <div className="text-left">
             <div>
-              <h2 className="disclaimer-title-size sm:disclaimer-mobile-title-size md:disclaimer-title-size lg:disclaimer-title-size font-bold mt-7 mb-3 hero-content-text-color">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold mb-[44px] sm:mb-[44px] md:mb-4 lg:mb-4  hero-content-text-color">
                 Disclaimer
               </h2>
             </div>
           </div>
-          <div className="flex flex-col items-center font-normal">
-            <div className="text-[20px] leading-[1.4] space-y-9 text-left">
+          <div className="flex flex-col items-center font-normal text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4]">
+            <div className="space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 text-left">
               <p>
                 The Digital Development Compass, maintained by the United
                 Nations Development Programme (UNDP), aggregates publicly
