@@ -60,7 +60,7 @@ export function Select<T extends string>(props: SelectProps<T>) {
         {options.map((option) => (
           <Listbox.Option
             className={({ active }) =>
-              `cursor-default select-none relative py-2 pr-3 ml-4 flex items-center justify-between border-b border-b-[#d4d6d8] border-gray-300 ${
+              `cursor-default select-none relative py-4 pr-3 ml-4 flex justify-between border-b border-b-[#d4d6d8] border-gray-300 ${
                 active ? 'text-black bg-[#fafafa]' : 'text-black'
               }`
             }

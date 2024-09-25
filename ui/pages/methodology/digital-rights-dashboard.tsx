@@ -49,13 +49,13 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
 
   return (
     <Layout title="Methodology" countries={countries}>
-      <div className="py-8 sm:py-16">
-        <div className="px-5 pb-5">
-          <div className="w-full h-[532px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
+      <div className="py-8 sm:py-6 mx-0 sm:mx-3">
+        <div className="px-0 sm:px-0 md:px-5 lg:px-5 pb-5">
+          <div className="w-full h-[532px] md:px-6" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
               <div className="md:px-4 md:mx-auto pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-lg text-start sm:text-left md:text-left md:pl-3 pt-[80px]">
+                <div className="max-w-[40em] py-5 sm:py-10 text-start sm:text-left md:text-left pl-3 pt-[80px]">
                   <h2
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{
@@ -73,15 +73,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div>
           </div>
         </div>
-        <div className="container px-4 mx-auto pt-[61.12px]">
-          <div className="text-lg flex flex-col items-center">
+        <div className="max-w-[1050px]  mx-auto sm:[30px] pt-[61.12px]">
+          <div className="text-lg flex flex-col">
             {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
               <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
               DIGITAL RIGHTS DASHBOARD
               </h2>
             </div> */}
-            <div className="max-w-[40em] space-y-6 sm:space-y-9 text-left text-[20px] [line-height:1.4] font-normal">
-              <h2 className="text-2xl md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-center md:text-left">
+            <div className=" space-y-6 sm:space-y-9 text-left text-[20px] leading-[1.4] font-normal">
+              <h2 className="text-2xl md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-left md:text-left">
                 The role of digital rights in digital transformation
               </h2>
               <p>
@@ -356,7 +356,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 <b>Right to privacy online</b>
               </p>
               <ReTable />
-              <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-center md:text-left">
+              <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-left md:text-left">
                 Digital Rights Score Methodology
               </h2>
               <h2 className="text-2xl md:tracking-normal">
@@ -451,7 +451,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 </a>{" "}
                 .
               </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
+              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-left md:text-left">
                 Disclaimer
               </h2>
               <p>

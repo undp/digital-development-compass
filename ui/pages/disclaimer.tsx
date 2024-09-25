@@ -12,17 +12,17 @@ export default function disclaimer(
 
   return (
     <Layout title="Disclaimer" countries={countries}>
-      <div className="py-16 pt-[48px]">
-        <div className="container px-3 mx-auto">
-          <div className="text-center sm:text-center items-center disclaimer-text-position md:pb-[48px] lg:pb-[48px]">
-            <div className="max-w-[40em] py-10">
+      <div className="pt-[55px] pb-[72px]">
+        <div className="max-w-[1050px] mx-auto">
+          <div className="text-left disclaimer-text-position md:pb-[20px] lg:pb-[20px]">
+            <div>
               <h2 className="disclaimer-mobile-title-size sm:disclaimer-mobile-title-size md:disclaimer-title-size lg:disclaimer-title-size font-bold mt-7 mb-3 hero-content-text-color">
                 Disclaimer
               </h2>
             </div>
           </div>
           <div className="flex flex-col items-center font-normal">
-            <div className="max-w-[40em] text-[20px] [line-height:1.4] space-y-9 text-left">
+            <div className="text-[20px] leading-[1.4] space-y-9 text-left">
               <p>
                 The Digital Development Compass, maintained by the United
                 Nations Development Programme (UNDP), aggregates publicly

@@ -104,7 +104,7 @@ export default function Methodology(
               DIGITAL DEVELOPMENT COMPASS
             </h2>
           </div> */}
-            <div className="space-y-6 text-[20px] [line-height:1.4] text-left m-0 sm:m-3">
+            <div className="space-y-6 text-[20px] leading-[1.4] text-left m-0 sm:m-3">
               <h2 className="text-[55px] sm:mobile-title-font-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-left md:text-left pb-[61.12px]">
                 What is the Digital Development Compass?
               </h2>
@@ -276,7 +276,7 @@ export default function Methodology(
             <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-left md:text-left">
               Digital development score methodology
             </h2>
-            <div className="max-w-[813px] space-y-6 sm:mx-3 sm:space-y-9 text-[20px] [line-height:1.4] text-left">
+            <div className="max-w-[813px] space-y-6 sm:mx-3 sm:space-y-9 text-[20px] leading-[1.4] text-left">
               <p>
                 The software and data that are used to put together the Compass
                 are open-source and in the process of becoming Digital Public
