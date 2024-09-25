@@ -370,6 +370,42 @@ select option[value="placeholder"] {
   animation: slide-out-left 0.6s ease-in-out forwards;
 }
 
+.mobile-main-title {
+  padding-top: 48px;
+  padding-bottom: 12px;
+}
+
+.mobile-main-title-bottom {
+  padding-bottom: 12px;
+}
+
+.mobile-sub-title{
+  padding-top: 48px;
+  padding-bottom: 12px;
+}
+
+.mobile-sub-title-bottom {
+  padding-bottom: 12px;
+}
+
+.web-main-title {
+  padding-top: 0px;
+  padding-bottom: 32px;
+}
+
+.web-main-title-bottom {
+  padding-bottom: 32px;
+}
+
+.web-sub-title {
+  padding-top: 0px;
+  padding-bottom: 32px;
+}
+
+.web-sub-title-bottom {
+  padding-bottom: 32px;
+}
+
 @keyframes slide-in-left {
   from {
     transform: translateX(-100%);
