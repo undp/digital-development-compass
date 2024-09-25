@@ -62,7 +62,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
     <Dialog.Root open={isOpen} onOpenChange={onClose}>
       <Dialog.Portal>
         <Dialog.Content
-          className={`fixed top-20 left-0 h-full w-full custom-mobile-bg-color bg-opacity-90 z-50 space-y-4 shadow-lg transform transition-transform duration-300 translate-x-0 ${
+          className={`fixed top-24 left-0 h-full w-full custom-mobile-bg-color bg-opacity-90 z-50 space-y-4 shadow-lg transform transition-transform duration-300 translate-x-0 ${
             isOpen ? "custom-mobile-menu" : "custom-mobile-close-menu"
           }`}
           style={{ top: "6rem" }}

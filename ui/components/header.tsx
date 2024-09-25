@@ -116,7 +116,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div className="h-[115px] flex-shrink-0">
               <Link href="/">
-                <a id="header" className="block relative top-0 w-[60px] h-[121.62px]">
+                <a id="header" className="block relative top-0 w-[60px] h-[121.62px] z-60">
                   <Image
                     id="logo"
                     src={LogoSVG}
@@ -126,7 +126,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
-            <div className="pl-[24px] w-4">
+            <div className="pl-[25px] w-4">
               <SiteName />
             </div>
           </div>
@@ -171,7 +171,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               )}
             </div>
           </div>
-          <div className="flex items-center justify-end pr-8">
+          <div className="flex items-center justify-end pr-[64px]">
             <SearchDialog countries={countries} />
           </div>
         </div>

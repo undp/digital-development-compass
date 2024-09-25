@@ -43,7 +43,7 @@ html {
 
 .url-styling {
   position: relative; /* Required for positioning of the pseudo-element */
-  display: inline-block; /* Ensures the element only takes as much width as needed */
+  /* display: inline-block; Ensures the element only takes as much width as needed */
   padding-bottom: 1px;
   border-bottom: 2px solid #D12800; /* Default bottom border */
 }
@@ -465,12 +465,12 @@ select option[value="placeholder"] {
   }
 }
 
-@media (min-width: 990px) {
+/* @media (min-width: 990px) {
   .disclaimer-text-position {
     text-align: left;
     padding-left: 6rem
   }
-}
+} */
 
 @media (max-width: 1300px) {
   .sideMenuBarMobile {

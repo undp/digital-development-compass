@@ -175,11 +175,11 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="py-6 px-3 mx-auto">
+      <div className="py-6 px-6 mx-auto">
       <div className="sideMenuBarMobile flex items-center justify-center">
           <SideMenuBarMobile />
       </div>
-      <div className="pb-5 pt-[14px] sm:pt-[14px] md:pt-[27px] lg:md:pt-[27px] ">
+      <div className="pb-5 pt-[14px] sm:pt-[14px] md:pt-0 lg:pt-0">
           <div className="w-full h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
               <div className="md:px-4 md:mx-auto pt-[0.75rem] sm:pt-[0.75rem] md:pt-[80px]">
@@ -200,7 +200,7 @@ export default function About(
           <SideMenuBar />
         </div>
         <div className="container mx-auto flex pt-[61.12px]">
-          <div className="text-[20px] [line-height:1.4] flex flex-col items-center font-normal text-left">
+          <div className="text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
             <div className="max-w-[40em] space-y-9">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
@@ -266,7 +266,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9 text-left text-[20px] [line-height:1.4] font-normal">
+            <p className="max-w-[40em] mt-9 text-left text-[20px] leading-[1.4] font-normal">
               Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
@@ -296,7 +296,7 @@ export default function About(
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-[20px] [line-height:1.4] px-4 text-left">
+          <div className="max-w-[40em] py-10 text-[20px] leading-[1.4] px-4 text-left">
             <p>
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
