@@ -202,19 +202,19 @@ export default function About(
         </div>
         <div className="container mx-auto flex pt-[24px] sm:pt-[24px] md:pt-[61.12px] lg:pt-[61.12px]">
           <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
-            <div className="max-w-[40em]">
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+            <div className="max-w-[40em] space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 ">
+              <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
                   className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
               </p>
 
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 The Digital Development Compass aggregates and synthesizes digital development indicators from over 140 open-source datasets into interactive dashboards. These dashboards cover the six pillars of the United Nations Development Programme's (UNDP)
                 <a href="https://www.undp.org/digital/transformations" target="_blank"
                   className="url-styling about-under-line">Digital Transformation Framework</a>,
                 allowing users to quickly understand the digital state of any nation
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 Ultimately, the Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners and stakeholders in their efforts to promote digital development in their respective countries. The tool is not intended to be used as an evaluative statistical tool or an index. Users are encouraged to exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political and economic context of each country's digital development efforts.
               </p>
               {/* <p>
@@ -229,7 +229,7 @@ export default function About(
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
               </p> */}
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 Feedback and constructive criticism are welcome to improve the
                 accuracy and usefulness of the Compass. To raise your concerns
                 or reflections regarding the data or results, please contact us
@@ -242,7 +242,7 @@ export default function About(
               <div className="max-w-[40em] text-left">
               <h2
                   id="how-it-works"
-                  className="text-[40px] sm:text-[40px]  md:text-[55px] lg:text-[55px] leading-[1.4] font-bold pt-[72px] sm:pt-[72px] md:pt-[48px] lg:pt-[48px] pb-[32px] sm:pb-[32px] md:pb-[38px] lg:pb-[48px]"
+                  className="web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title text-[40px] sm:text-[40px]  md:text-[55px] lg:text-[55px] leading-[1.4] font-bold"
                 >
                   How the Compass works
                 </h2>
@@ -275,11 +275,11 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="mt-40 mb-60 flex flex-col items-center">
-          <div className="max-w-[60em] pt-10 md:py-10">
+        <div className="mb-20 flex flex-col items-center">
+          <div className="max-w-[60em] ">
             <h2
               id="digital-readiness"
-              className="mx-3 text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] pt-[72px] sm:pt-[72px] md:pt-[48px] lg:pt-[48px] pb-[32px] sm:pb-[32px] md:pb-[38px] lg:pb-[48px] leading-[1.1] mb-6 text-left md:hero-title-size font-bold mt-20 md:mb-6"
+              className="mx-3 web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title  text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.1] text-left font-bold"
             >
               Stages of digital readiness by transformation pillar
             </h2>
@@ -291,7 +291,7 @@ export default function About(
           <div className="max-w-[80em]">
             <h2
               id="public-good"
-              className="mx-3 text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] pt-[72px] sm:pt-[72px] md:pt-[48px] lg:pt-[48px] pb-[32px] sm:pb-[32px] md:pb-[38px] lg:pb-[48px] leading-[1.1] mb-6 text-left md:hero-title-size font-bold mt-20 md:mb-6"
+              className="mx-3 text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title leading-[1.1] text-left font-bold"
             >
               A Digital Public Good
             </h2>
@@ -380,7 +380,7 @@ export default function About(
             <p>
               <Link href="/methodology">
                 <a
-                  className="text-sm  sm:text-sm md:text-[16px] md:[line-height:18px] font-bold tracking-wider flex items-center duration-700"
+                  className="text-[12px] sm:text-[12px] md:text-[16px] md:leading-[18px] font-bold tracking-wider flex items-center duration-700"
                   onMouseEnter={() => setIsHovered(true)}
                   onMouseLeave={() => setIsHovered(false)}
                 >

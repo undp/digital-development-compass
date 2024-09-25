@@ -515,11 +515,11 @@ export default function Data(
                     label="country"
                     trigger={
                       countryFilter == "" ? (
-                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
                         COUNTRY NAME
                       </span>
                       ) : (
-                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
                         COUNTRY NAME (1)
                       </span>
                       )
@@ -577,11 +577,11 @@ export default function Data(
                     label="Region"
                     trigger={
                       regionFilter == "*" ? (
-                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
                         REGION
                       </span>
                       ) : (
-                        <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
                         REGION (1)
                       </span>
                       )
@@ -635,11 +635,11 @@ export default function Data(
                   // disabled={subregionSelectDisabled}
                   trigger={
                     subregionFilter == "*" ? (
-                      <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase py-[2px]">
+                      <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase py-[2px]">
                       SUB-REGION
                     </span>
                     ) : (
-                      <span className="text-[16px] text-black font-semibold  [line-height: 1.125rem] uppercase py-[2px]">
+                      <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase py-[2px]">
                       SUB-REGION (1)
                     </span>
                     )

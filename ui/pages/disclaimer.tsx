@@ -12,7 +12,7 @@ export default function disclaimer(
 
   return (
     <Layout title="Disclaimer" countries={countries}>
-      <div className="pt-[72px] sm:pt-[72px] md:pt-[72px] lg:pt-[72px] pb-[72px] mx-0 sm:mx-3 md:mx-0 lg:mx-0">
+      <div className="pt-[72px] sm:pt-[72px] md:pt-[48px] lg:pt-[48px] pb-[72px] mx-0 sm:mx-3 md:mx-0 lg:mx-0">
         <div className="max-w-[1050px] mx-auto">
           <div className="text-left">
             <div>

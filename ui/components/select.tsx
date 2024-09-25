@@ -50,8 +50,8 @@ export function Select<T extends string>(props: SelectProps<T>) {
           <Image
             src={chevronRight}
             alt="Chevron Right"
-            width={12}
-            height={12}
+            width={20}
+            height={13}
             className={`transform transition-transform ${isOpen ? 'rotate-180' : 'rotate-0'}`}
           />
         </span>

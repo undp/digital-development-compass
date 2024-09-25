@@ -76,11 +76,11 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
 
   return (
     <Layout title="Methodology" countries={countries}>
-      <div className="py-8 sm:py-6">
-        <div className="px-5 pb-5">
-          <div className="w-full h-[532px] md:px-6" style={{ backgroundColor: "#F7F7F7" }}>
+      <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
+        <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
+          <div className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
-              <div className="md:px-4 md:mx-auto pt-[80px]">
+              <div className="md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
                 <div className="max-w-[400em] py-5 sm:py-10 text-start sm:text-left md:text-left pl-3 pt-[80px]">
                   <h2
@@ -100,18 +100,18 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </div>
           </div>
         </div>
-        <div className="max-w-[1050px]  mx-auto sm:[30px] pt-[61.12px]">
+        <div className="max-w-[1050px]  mx-auto pt-[72px] sm:pt-[72px] md:pt-[61.12px] lg:pt-[61.12px]">
           <div className="flex-col items-center">
             {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
             <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
               DIGITAL DEVELOPMENT COMPASS
             </h2>
           </div> */}
-            <div className="space-y-6 text-[20px]  leading-[1.4] text-left m-0 sm:m-3">
-              <h2 className="text-[55px] sm:mobile-title-font-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-3 mb-6 sm:text-left md:text-left pb-[61.12px]">
+            <div className="text-[16px] sm:text-[16px] md:text-[20px] lg:text-[20px] leading-[1.4]">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px]">
                 What is the Digital Development Compass?
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The Digital Development Compass (the Compass) is a comprehensive
                 visualisation of a country's digital indicators, based on
                 publicly available datasets. By examining the Compass, each
@@ -123,7 +123,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 a snapshot of a country's digital readiness without the need to
                 consult multiple sources.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Moreover, the tool serves as a catalyst for conversations
                 between governments and UNDP. It opens the door for discussions
                 about potential discrepancies in rankings or the potential
@@ -132,7 +132,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 framework and a starting point for deeper collaboration and
                 engagement.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Ultimately, the Compass represents a valuable tool for
                 understanding governments’ current digital landscapes and
                 identifying opportunities for progress and growth. It also
@@ -140,10 +140,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 ensure their digital progress is accurately represented in the
                 Compass.
               </p>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">
                 How should the Compass be used?
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The primary objective of the Digital Development Compass is to
                 serve as a prominent entry point for countries to directly
                 connect with UNDP’s Country Offices. Through this platform,
@@ -154,18 +154,18 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 expedient means to explore and leverage UNDP's digital
                 capabilities.
               </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-left md:text-left">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px]">
                 The Digital Transformation Framework
               </h2>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">
                 Defining digital development
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 'Digital transformation' is not a destination, but a journey. It
                 is about using digital and technology to improve the lives and
                 livelihoods of individuals, communities and countries.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 UNDP advocates for inclusive, whole-of-society digital
                 transformation. This demands a coordinated approach between
                 government, civil society and the private sector to build
@@ -175,10 +175,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 most important areas for collaboration to achieve inclusive
                 digital transformation.
               </p>
-              <h2 className="text-xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">
                 Overview of the Digital Transformation Framework
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The Compass is constructed based on the inclusive
                 whole-of-society{" "}
                 <a
@@ -194,7 +194,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 prioritize their national digital transformation initiatives and
                 agendas effectively.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The Digital Transformation Framework is the result of an
                 extensive study that examined various frameworks, implementation
                 strategies and methodologies employed by diverse organizations,
@@ -209,7 +209,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 Compass evaluates each sub-pillar, using its specific set of
                 indicators.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Through this framework, UNDP aims to provide countries with a
                 valuable resource for assessing and advancing their digital
                 development journey; while considering the unique challenges and
@@ -221,18 +221,18 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   alt="The undp/digital-nation-dashboard GitHub repository"
                   className="w-full sm:w-64 h-auto"
                 />
-                <p className="text-center mt-2">
+                <p className="text-center mt-2 mb-2">
                   <em>Figure 1. UNDP’s Digital Transformation Framework</em>
                 </p>
               </div>
-              <h2 className="text-xl">Pillars and sub-pillars</h2>
-              <p>
+              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">Pillars and sub-pillars</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Table 1 provides a list of the pillars and the underlying
                 sub-pillars constituting UNDP’s inclusive whole-of-society
                 Digital Transformation Framework, which form the basis of the
                 Digital Development Compass:
               </p>
-              <div className="max-w-[50em] mx-auto px-4">
+              <div className="max-w-[50em] mx-auto">
                 <PillarsTable />
                 <p className="text-center mt-2">
                   <em>
@@ -241,11 +241,11 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   </em>
                 </p>
               </div>
-              <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-left md:text-left">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold text-left mobile-main-title web-main-title">
                 Measuring digital development
               </h2>
-              <h2 className="text-2xl">Stages of digital development</h2>
-              <p>
+              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">Stages of digital development</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Each country's digital readiness is assessed across five stages
                 of digital development as indicated in Figure 2, which
                 encompasses every pillar and sub-pillar.
@@ -260,7 +260,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   <em>Figure 2. UNDP's five stages of digital development</em>
                 </p>
               </div>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Further enhancement of countries' digital readiness can be
                 achieved by providing individual support to each component of
                 the transformation framework.
@@ -279,8 +279,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             <h2 className="text-2xl m-0 sm:m-3 md:text-3xl font-bold mt-5 mb-6 sm:text-left md:text-left">
               Digital development score methodology
             </h2>
-            <div className="space-y-6 sm:mx-3 sm:space-y-9 text-[20px] leading-[1.4] text-left">
-              <p>
+            <div className="space-y-6 sm:mx-3 sm:space-y-9 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] text-left">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The software and data that are used to put together the Compass
                 are open-source and in the process of becoming Digital Public
                 Goods. The script and datasets can all be found on UNDP’s&nbsp;
@@ -297,7 +297,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <h2 className="text-2xl md:tracking-normal">
                 1. Indicator selection
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 UNDP conducted a review of the 200+ indicators that formed the
                 first version of the Digital Development Compass. This indicator
                 evaluation was carried out in two phases:
@@ -317,13 +317,13 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   review process.
                 </li>
               </ul>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Currently, there are a 145 indicators included in the Compass.
                 Indicators were identified by conducting online desk research
                 into the public data available related to the sub-pillars and
                 pillars of the Digital Development Framework mentioned above.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 During this review process, an Expert Committee was appointed,
                 comprising a globally representative group of experts with
                 specialized experience in digital development. The Committee’s
@@ -331,7 +331,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 develops year on year. At its core, the Committee will remain
                 flexible, evolving organically and in parallel with the Compass.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Based on a series of advisory consultations with the Expert
                 Committee, questions for data evaluation have been created to
                 assess data quality of all existing and newly selected
@@ -348,7 +348,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <em>Table 2. Data evaluation questions</em>
               </p>
               <div className="p-0">
-                <p>
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                   As a result of this assessment, Digital Development Compass
                   includes 145 publicly available datasets and is available on{" "}
                   <a
@@ -376,7 +376,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <h2 className="text-2xl md:tracking-normal">
                 2. Data collection
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The methodology used for data collection depends on the format
                 the data are published in. Largely, data are retrieved from the
                 data source automatically. Links to data sources are collected
@@ -384,13 +384,13 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 spreadsheets, PDFs and documents and convert them into a
                 machine-readable format.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 However, while automation can be applied to most websites from
                 which data are collected, certain platforms require manual
                 intervention. In these cases, files containing data in the
                 correct format are uploaded manually.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 99 percent of all indicators are automatically updated when
                 organisations release new reports and datasets. The below
                 diagram visualises how updates in the source data triggers a
@@ -406,7 +406,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   <em>Figure 4. Source</em>
                 </p>
               </div>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 When any of the links to source data expire, an automated email
                 notification is sent to administrators, and new links are
                 updated manually.
@@ -414,19 +414,19 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <h2 className="text-2xl md:tracking-normal">
                 3. Score calculation methodology
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The Digital Development Compass aims to put countries into one
                 of the five maturity levels for each of the sub-pillars. This
                 section includes the approach to normalization, weighting
                 indicators and imputation of missing scores.
               </p>
               <h2 className="text-xl md:tracking-normal">Normalisation</h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The indicators used within the compass have been normalized
                 using Min-Max rescaling.
               </p>
               <h2 className="text-lg md:tracking-normal">Min-Max rescaling</h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The following formula creates a score between 0 and 1. It does
                 so by creating a scale with a maximum possible score of 1 that
                 corresponds to the highest scoring country’s score; and a
@@ -443,7 +443,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <p>
                 <u>Scaling and normalization of categorical data</u>
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The categories are identified in the dataset and numerical
                 values are assigned to each category. Each category has a unique
                 numerical representation. The maximum possible value that a
@@ -456,18 +456,18 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 process ensures uniformity and facilitates comparison across
                 different indicators.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The original numerical values of the categories to the desired
                 rescaled range are linearly mapped. The mapping maintains the
                 relative order and spacing of the original values.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 For each category, its rescaled value is calculated using the
                 determined maximum possible value and the chosen scaling range.
                 The rescaling formula is consistently applied across all
                 categories.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The rescaled values are normalized to ensure they fall within a
                 standard range, such as 0 to 1. Normalization helps mitigate the
                 influence of outliers and enhances the interpretability of the
@@ -477,11 +477,11 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <h2 className="text-xl md:tracking-normal">
                 Indicator weightings
               </h2>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 In the Compass, equal weightings are assigned to all pillars and
                 sub-pillars.{" "}
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Weighting at the indicator level is made in the following way:
               </p>
               <ol className="list-decimal ml-6 space-y-4">
@@ -547,14 +547,14 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </li>
               </ol>
               <h2 className="text-xl md:tracking-normal">Imputing scores</h2>
-              <p className="mb-4">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 For indicators where there are gaps in country data, or there is
                 no collected data from a particular country, imputing scores is
                 an option. While imputed data is not included into the scoring
                 in the Digital Development Compass, users can still visualise
                 the data with or without imputed scores using a toggle switch.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The following imputation methods are selected depending on their
                 suitability within a given context:{" "}
               </p>
@@ -587,7 +587,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   imputation algorithm.
                 </li>
               </ol>
-              <p className="mt-4">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The EMB method generates imputed values through an iterative
                 procedure that uses other variables to impute a value
                 (expectation) and then asserts whether the value is most likely
@@ -598,12 +598,12 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-left">
                 Definitions and scales
               </h2>
-              <p className="mb-4">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Data that has been retrieved are then matched with a UN-defined
                 list of countries, regions, sub-regions, income groups and
                 territorial borders.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 Raw data and data from other indexes are converted to values
                 within the Compass’ 0 - 5 range. The method used to perform this
                 conversion depends on the type of indicator. Through rescaling
@@ -1251,9 +1251,9 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
           </Link>
         </p> */}
 
-        <div className="flex md:w-[370px] md:mx-[290px] sm:w-5/5 pb-4 pt-5 pl-0 sm:pl-3 md:pl-0">
+        <div className="flex md:w-[370px] md:mx-[290px] sm:w-5/5  pt-12 pb-12 pl-0 sm:pl-3 md:pl-0 ">
           <div
-            className="px-4 py-2 w-[336px]"
+            className="px-6 py-8 w-[336px]"
             style={{ backgroundColor: "#F7F7F7" }}
           >
             <p className="text-lg mb-1 text-[#000000]">
@@ -1294,7 +1294,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
         <p className="md:w-[370px] md:mx-[290px] sm:w-5/5 pl-0 sm:pl-3 md:pl-0">
           <Link href="/disclaimer">
             <a
-              className="text-base sm:text-sm md:text-base font-bold tracking-wider flex items-center"
+              className="text-base sm:text-sm md:text-base font-bold flex items-center"
               onMouseEnter={() => setIsHovered(true)}
               onMouseLeave={() => setIsHovered(false)}
             >
@@ -1314,7 +1314,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
           </Link>
         </p>
         <div></div>
-        <div className="flex justify-center mt-8">
+        <div className="flex justify-center mt-8 pb-8">
           <button
             onClick={handleScrollToTop}
             className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"

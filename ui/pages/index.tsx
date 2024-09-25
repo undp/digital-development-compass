@@ -20,10 +20,10 @@ const GlobeViz = dynamic(() => import("components/globe-viz"), {
 function Hero() {
   return (
     <div>
-      <h1 className="text-3xl md:hero-title-size font-bold">
+      <h1 className="text-[40px] sm:text-[40px] md:text-[35px] lg:text-[35px] leading-[1.1] font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="hero-content-text-size leading-7 mt-4 text-left" style={{color: '#333333'}}>
+      <p className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-7 mt-4 text-left" style={{color: '#333333'}}>
       Explore your nation's digital progress using the world's largest database of digital development data. Leveraging the pillars of UNDP’s Digital Transformation Framework, the Digital Development Compass lets you discover and compare progress across a range of key issues.
       </p>
     </div>

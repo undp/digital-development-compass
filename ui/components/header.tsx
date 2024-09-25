@@ -83,7 +83,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                     id="logo"
                     src={LogoSVG}
                     alt="UNDP Logo"
-                    className="transition-all duration-300"
+                    className="transition-all duration-300 z-[100]"
                   />
                 </a>
               </Link>
@@ -158,12 +158,12 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                   style={{ width: "270px"}}
                 >
                   <Link href="/methodology/digital-development-compass">
-                    <a className="px-4 z-30 py-2 h-20 items-center flex justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider border-b whitespace-nowrap">
+                    <a className="px-4 z-30 py-2 h-20 items-center flex justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium border-b whitespace-nowrap">
                       Digital Development Compass
                     </a>
                   </Link>
                   <Link href="/methodology/digital-rights-dashboard">
-                    <a className="px-4 z-30 py-2 h-20 flex items-center justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium tracking-wider whitespace-nowrap">
+                    <a className="px-4 z-30 py-2 h-20 flex items-center justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium whitespace-nowrap">
                       Digital Rights Dashboard
                     </a>
                   </Link>
