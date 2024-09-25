@@ -370,6 +370,33 @@ select option[value="placeholder"] {
   animation: slide-out-left 0.6s ease-in-out forwards;
 }
 
+.mobile-sub-title{
+  padding-top: 48px;
+  padding-bottom: 16px;
+}
+
+.mobile-main-title-bottom {
+  padding-bottom: 12px;
+}
+
+.mobile-sub-title-bottom {
+  padding-bottom: 12px;
+}
+
+
+.web-main-title-bottom {
+  padding-bottom: 32px;
+}
+
+.web-sub-title {
+  padding-top: 0px;
+  padding-bottom: 32px;
+}
+
+.web-sub-title-bottom {
+  padding-bottom: 32px;
+}
+
 @keyframes slide-in-left {
   from {
     transform: translateX(-100%);
@@ -401,6 +428,11 @@ select option[value="placeholder"] {
     font-size: 30px;
     line-height: 3rem;
   }
+
+  .mobile-main-title {
+    padding-top: 72px;
+    padding-bottom: 44px;
+  }
 }
 
 
@@ -414,6 +446,11 @@ select option[value="placeholder"] {
   .viewMenu {
     display: none;
   }
+
+  .web-main-title{
+    padding-top: 48px;
+    padding-bottom: 16px;
+  }
 }
 
 @media (min-width: 1301px) and (max-width: 1450px) {
@@ -422,6 +459,11 @@ select option[value="placeholder"] {
     padding-left: 25px;
     padding-top: 24rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+  }
+
+  .web-main-title{
+    padding-top: 48px;
+    padding-bottom: 16px;
   }
 }
 

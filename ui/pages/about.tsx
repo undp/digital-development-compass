@@ -55,15 +55,15 @@ const handleScroll = (e: any) => {
 
 const SideMenuBar = () => {
   return (
-    <nav className="absolute left-0 top-[296px] h-full sideLink">
-      <ul className="space-y-6 pt-4">
+    <nav className="absolute left-0 top-[260px] sideLink">
+      <ul className="">
         {" "}
         {/* Adjust space between items and padding */}
         <li>
           <a
             href="#how-it-works"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4 transition-colors duration-300"
+            className="border-b border-gray-300 text-[16px] font-bold [line-height:18px] py-6 uppercase block transition-colors duration-300"
           >
             How the Compass Works
           </a>
@@ -72,7 +72,7 @@ const SideMenuBar = () => {
           <a
             href="#digital-readiness"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4  transition-colors duration-300"
+            className="border-b border-gray-300 text-[16px] font-bold [line-height:18px] py-6 uppercase block transition-colors duration-300"
           >
             Stages of Digital Readiness by Transformation Pillar
           </a>
@@ -81,7 +81,7 @@ const SideMenuBar = () => {
           <a
             href="#public-good"
             onClick={handleScroll}
-            className="border-b border-gray-300 text-md font-bold [line-height:18px] uppercase block pb-4  transition-colors duration-300"
+            className="border-b border-gray-300 text-[16px] font-bold [line-height:18px] py-6 uppercase block transition-colors duration-300"
           >
             A Digital Public Good
           </a>
@@ -98,7 +98,7 @@ const SideMenuBarMobile = () => {
     setIsOpen(!isOpen);
   };
   return (
-    <div className="relative inline-block text-left w-full px-5 bottom-3 pt-[14px]">
+    <div className="relative inline-block text-left w-full bottom-3 pt-[14px]">
       <button
         onClick={toggleDropdown}
         className={`inline-flex justify-between uppercase items-center w-full px-4 h-[50.39px] py-3 text-base font-semibold text-black bg-[#edeff0] border-b-2 ${isOpen ? "border-black" : ""
@@ -175,18 +175,19 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="py-6 px-6 mx-auto">
-      <div className="sideMenuBarMobile flex items-center justify-center">
+      <div className="sideMenuBarMobile flex items-center pt-3 sm:pt-3 md:py-0 justify-center">
           <SideMenuBarMobile />
       </div>
-      <div className="pb-5 pt-[14px] sm:pt-[14px] md:pt-0 lg:pt-0">
-          <div className="w-full h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
+      <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6 ">
+      <div className="pb-5 pt-[14px] sm:pt-0 md:pt-0 lg:pt-0">
+          <div className="w-full h-[410px] sm:h-[410px] md:h-[410px] lg:h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
             <div className="md:mx-auto">
-              <div className="md:px-4 md:mx-auto pt-[0.75rem] sm:pt-[0.75rem] md:pt-[80px]">
+              <div className="md:px-4 md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
-                <div className="max-w-[40em] py-5 sm:py-10 text-start sm:text-left sm:px-4 md:text-left md:pl-3 pt-[80px]">
+                {/* pt-[125px] sm:pt-[125px] md:pt-[80px] lg:pt-[80px] */}
+                <div className="max-w-[40em] py-5 sm:py-0 text-start sm:text-left sm:px-4 md:text-left md:pl-3 pt-[125px] sm:pt-[125px] md:pt-[40px] lg:pt-[40px]">
                   <h2
-                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    className=" items-center heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{ fontFamily: "SohneBreitFont, sans-serif", letterSpacing : '3px' }}
                   >
                     About
@@ -199,9 +200,9 @@ export default function About(
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
-        <div className="container mx-auto flex pt-[61.12px]">
-          <div className="text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
-            <div className="max-w-[40em] space-y-9">
+        <div className="container mx-auto flex pt-[24px] sm:pt-[24px] md:pt-[61.12px] lg:pt-[61.12px]">
+          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
+            <div className="max-w-[40em] space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 ">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
                   className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
@@ -236,18 +237,18 @@ export default function About(
               </p>
               <div className="aspect-video">
                 <YouTube videoId="DsUgE5uEqvw" />
-              </div>
+              </div> 
 
-              <div className="max-w-[40em] text-center py-10 text-lg">
+              <div className="max-w-[40em] text-left">
               <h2
                   id="how-it-works"
-                  className="text-[55px] [line-height:59.95px] md:hero-title-size font-bold mt:4 md:mt-0  mb-1 md:mb-6"
+                  className="web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title text-[40px] sm:text-[40px]  md:text-[55px] lg:text-[55px] leading-[1.4] font-bold"
                 >
                   How the Compass works
                 </h2>
               </div>
 
-              <p className="text-[20px] [line-height:27.5px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
                 The Compass provides a score that assesses a nation’s digital maturity. This is determined by the pillars of UNDP’s Digital Transformation Framework:
               </p>
             </div>
@@ -266,7 +267,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9 text-left text-[20px] leading-[1.4] font-normal">
+            <p className="max-w-[40em] mt-9 text-left text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] font-normal pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
               Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
@@ -274,11 +275,11 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="mt-40 mb-60 flex flex-col items-center">
-          <div className="max-w-[60em] pt-10 md:py-10 text-lg">
+        <div className="mb-20 flex flex-col items-center">
+          <div className="max-w-[60em] ">
             <h2
               id="digital-readiness"
-              className="text-[55px] [line-height:59.95px]  text-center md:hero-title-size font-bold mt-20 md:mb-6"
+              className="mx-3 web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title  text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.1] text-left font-bold"
             >
               Stages of digital readiness by transformation pillar
             </h2>
@@ -287,20 +288,20 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[60em] text-left py-10 " >
+          <div className="max-w-[80em]">
             <h2
               id="public-good"
-              className="text-[55px] [line-height:59.95px] lg:hero-title-size  md:text-[55px] md:[line-height:59.95px] font-bold mt-20 mb-6"
+              className="mx-3 text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title leading-[1.1] text-left font-bold"
             >
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-[20px] leading-[1.4] px-4 text-left">
-            <p>
+          <div className="max-w-[40em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] px-4 text-left">
+            <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
-            <p>
+            <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
             Automations scrape publicly available spreadsheets, PDFs, and documents, converting them into machine-readable formats. Scripts then normalize the data according to a UN-defined list of countries, regions, sub-regions, income groups and territorial borders. Data are also automatically updated as soon as international organizations release new reports. All code and data are transparent and available as a global resource on GitHub. Visit{" "}
               <a
                 className="url-styling"
@@ -379,7 +380,7 @@ export default function About(
             <p>
               <Link href="/methodology">
                 <a
-                  className="text-sm  sm:text-sm md:text-[16px] md:[line-height:18px] font-bold tracking-wider text-justify flex items-center duration-700"
+                  className="text-[12px] sm:text-[12px] md:text-[16px] md:leading-[18px] font-bold tracking-wider flex items-center duration-700"
                   onMouseEnter={() => setIsHovered(true)}
                   onMouseLeave={() => setIsHovered(false)}
                 >
@@ -711,7 +712,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
   return (
     <div className="w-full text-left px-[2vw] mt-8 md:mt-60">
-      <h4 className="text-center text-[35px] leading-[1.142] text-gray-800 font-normal">
+      <h4 className="text-left text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.142] text-gray-800 font-normal">
         Let's walk through how to navigate the Compass:
       </h4>
 
