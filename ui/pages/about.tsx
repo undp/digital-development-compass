@@ -297,7 +297,7 @@ export default function About(
             </h2>
           </div>
 
-          <div className="max-w-[40em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] px-4 text-left">
+          <div className="max-w-[65em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] px-4 text-left">
             <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
@@ -376,11 +376,12 @@ export default function About(
                 digital@undp.org
               </a>
               .
-            </p> */}
-            <p>
+            </p> */}          
+        </div>
+        <p>
               <Link href="/methodology">
                 <a
-                  className="text-[12px] sm:text-[12px] md:text-[16px] md:leading-[18px] font-bold tracking-wider flex items-center duration-700"
+                  className="text-[12px] sm:text-[12px] md:text-[16px] md:leading-[18px] font-bold tracking-wider justify-center flex items-center duration-700"
                   onMouseEnter={() => setIsHovered(true)}
                   onMouseLeave={() => setIsHovered(false)}
                 >
@@ -402,8 +403,8 @@ export default function About(
                   </div>
                 </a>
               </Link>
-            </p>
-            <div className="flex justify-center mt-[48px] pb-[6px]">
+        </p>
+        <div className="flex justify-center mt-[48px] pb-[46px]">
               <button
                 onClick={handleScrollToTop}
                 className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
@@ -412,7 +413,6 @@ export default function About(
               </button>
             </div>
           </div>
-        </div>
       </div>
 
       {/* typeform chat overlay */}
