@@ -445,6 +445,14 @@ select option[value="placeholder"] {
   }
 }
 
+@media (max-width: 380px) {
+  .heading-mobile-title-size {
+    font-size: 30px;
+    line-height: 3rem;
+    letter-spacing: 2px;
+  }
+}
+
 
 @media (min-width: 640px) and (max-width: 991px) {
   .sideLink {
@@ -460,6 +468,16 @@ select option[value="placeholder"] {
   .web-main-title{
     padding-top: 48px;
     padding-bottom: 16px;
+  }
+
+  .download-section-position {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .disclaimer-position {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
   }
 }
 
