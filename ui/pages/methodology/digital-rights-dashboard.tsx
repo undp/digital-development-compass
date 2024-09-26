@@ -64,9 +64,9 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                       letterSpacing : '3px'
                     }}
                   >
-                    DIGITAL DEVELOPMENT
+                    DIGITAL RIGHTS
                     <br />
-                    COMPASS
+                    DASHBOARD
                   </h2>
                 </div>
               </div>
