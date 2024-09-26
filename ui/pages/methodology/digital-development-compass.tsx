@@ -79,7 +79,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
         <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
           <div className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9" style={{ backgroundColor: "#F7F7F7" }}>
-            <div className="md:mx-auto">
+            <div className="md:px-14 md:mx-auto">
               <div className="md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
                 <div className="max-w-[400em] py-5 sm:py-10 text-start sm:text-left md:text-left pl-3 pt-[80px]">
@@ -1250,8 +1250,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </a>
           </Link>
         </p> */}
-
-        <div className="flex md:w-[370px] md:mx-[290px] sm:w-5/5  pt-12 pb-12 pl-0 sm:pl-3 md:pl-0 ">
+        <div className="md:mx-[265px]">
+        <div className="flex md:w-[370px] sm:w-5/5  pt-12 pb-12 pl-0 sm:pl-3 md:pl-0 ">
           <div
             className="px-6 py-8 w-[336px]"
             style={{ backgroundColor: "#F7F7F7" }}
@@ -1291,7 +1291,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
           </div>
         </div>
 
-        <p className="md:w-[370px] md:mx-[290px] sm:w-5/5 pl-0 sm:pl-3 md:pl-0">
+        <p className="md:w-[370px] sm:w-5/5 pl-0 sm:pl-3 md:pl-0">
           <Link href="/disclaimer">
             <a
               className="text-base sm:text-sm md:text-base font-bold flex items-center"
@@ -1313,7 +1313,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </a>
           </Link>
         </p>
-        <div></div>
+        </div>
         <div className="flex justify-center mt-8 pb-8">
           <button
             onClick={handleScrollToTop}
