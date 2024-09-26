@@ -28,15 +28,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
     return (
       <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[12px]">
         <Link href="/">
-          <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">
+          <a className="mr-3 [color:#D12800] hover:[color:#ee402d] uppercase">
             Home
           </a>
         </Link>
-        <span className="[color:#D12800] mr-4">/</span>
-        <span className="[color:#D12800] hover:[color:#ee402d] mr-4">METHODOLOGY</span>
-        <span className="[color:#D12800] mr-4">/</span>
+        <span className="[color:#D12800] mr-3">/</span>
+        <span className="[color:#D12800] hover:[color:#ee402d] mr-3">METHODOLOGY</span>
+        <span className="[color:#D12800] mr-3">/</span>
         <Link href="/methodology/digital-rights-dashboard">
-          <a className="ml-1 [color:#000000]">DIGITAL RIGHTS DASHBOARD</a>
+          <a className="ml-0 [color:#000000]">DIGITAL RIGHTS DASHBOARD</a>
         </Link>
       </nav>
     );
