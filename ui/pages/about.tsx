@@ -126,7 +126,7 @@ const SideMenuBarMobile = () => {
         style={{ overflow: "hidden" }}
       >
         <div
-          className="py-0 px-5 flex flex-col  justify-center"
+          className="py-0 flex flex-col  justify-center"
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="options-menu"
@@ -201,7 +201,7 @@ export default function About(
           <SideMenuBar />
         </div>
         <div className="container mx-auto flex pt-[24px] sm:pt-[24px] md:pt-[61.12px] lg:pt-[61.12px]">
-          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
+          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left pl-10 sm:pl-0 md:pl-10 lg:pl-10">
             <div className="max-w-[40em] space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 ">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
@@ -275,7 +275,7 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="mb-20 flex flex-col items-center">
+        <div className="container mx-auto mb-20 flex flex-col ">
           <div className="max-w-[60em] ">
             <h2
               id="digital-readiness"
@@ -313,7 +313,7 @@ export default function About(
             </p>
           </div>
 
-          <div className="max-w-[50em] mx-auto px-4">
+          <div className="container mx-auto">
             <Image
               src={githubScreenshot}
               alt="The undp/digital-nation-dashboard GitHub repository"

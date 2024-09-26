@@ -8,6 +8,10 @@ html {
   height: 100%;
 }
 
+p {
+  line-height: 1.4;
+}
+
 #__next {
   @apply flex flex-col h-full;
 }
@@ -281,6 +285,12 @@ select option[value="placeholder"] {
   border-radius: 20px;
 }
 
+.filter-main-badge-bg-color {
+  background-color: #D1D5DB;
+  padding: 4px 16px 4px 16px;
+  border-radius: 12px;
+}
+
 .filter-badge-bg-color:hover {
   background-color: #edeff0;
 }
@@ -425,7 +435,7 @@ select option[value="placeholder"] {
 
 @media (max-width: 640px) {
   .heading-mobile-title-size {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 3rem;
   }
 

@@ -52,7 +52,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
       <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
           <div className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9" style={{ backgroundColor: "#F7F7F7" }}>
-            <div className="md:mx-auto">
+            <div className="md:px-14 md:mx-auto">
               <div className="md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
                 <div className="max-w-[400em] py-5 sm:py-10 text-start sm:text-left md:text-left pl-3 pt-[80px]">

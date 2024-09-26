@@ -82,7 +82,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
             </div>
           </div>
           <div className="border-t border-[#fff] w-full"></div>
-          <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[32px] text-center lg:text-left pb-5 sm:pb-5 md:mb-[60px] lg:mb-[60px]">
+          <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[34px] text-center lg:text-left pb-5 sm:pb-5 md:mb-[24px] lg:mb-[24px]">
             <p className="text-sm md:text-[16px] md:leading-[22px] font-normal lg:order-1 mb-2 lg:mb-0">
               &copy; 2024 United Nations Development Programme
             </p>
