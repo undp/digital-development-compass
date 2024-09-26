@@ -27,15 +27,15 @@ const NavBar = () => {
   return (
     <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[12px]">
       <Link href="/">
-        <a className="mr-4 [color:#D12800] uppercase hover:[color:#ee402d]">
+        <a className="mr-3 [color:#D12800] uppercase hover:[color:#ee402d]">
           Home
         </a>
       </Link>
-      <span className="[color:#D12800] mr-4 ">/</span>
-      <span className="[color:#D12800] mr-4 hover:[color:#ee402d]">METHODOLOGY</span>
+      <span className="[color:#D12800] mr-3 ">/</span>
+      <span className="[color:#D12800] mr-3 hover:[color:#ee402d]">METHODOLOGY</span>
       <span className="[color:#D12800]">/</span>
       <Link href="/methodology/digital-development-compass">
-        <a className="ml-4 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
+        <a className="ml-3 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
       </Link>
     </nav>
   );
