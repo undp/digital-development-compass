@@ -73,18 +73,18 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div>
           </div>
         </div>
-        <div className="max-w-[1050px]  mx-auto pt-[72px] sm:pt-[72px] md:pt-[61.12px] lg:pt-[61.12px]">
+        <div className="max-w-[1050px]  mx-auto pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
           <div className="text-lg flex flex-col">
             {/* <div className="max-w-[40em] py-5 sm:py-10 text-lg text-center">
               <h2 className="text-3xl font-bold mt-0 md:mt-7 mb-3 text-brand-blue-dark">
               DIGITAL RIGHTS DASHBOARD
               </h2>
             </div> */}
-            <div className="text-[16px] sm:text-[16px] md:text-[20px] lg:text-[20px] leading-[1.4]">
-              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px]">
+            <div className="text-[16px] sm:text-[16px] md:text-[20px] lg:text-[20px] leading-[1.4] ">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] ">
                 The role of digital rights in digital transformation
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 UNDP advocates for rights based, inclusive, whole-of-society
                 digital transformation. It is a coordinated approach between
                 government, civil society and the private sector to support
@@ -94,7 +94,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 potential harms to individuals and consumers and undermines the
                 trust that people repose in digital ecosystems.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 This is why across the United Nations System, human rights have
                 been recognized as integral to digital uptake and
                 transformation. The Secretary-General's 2020{" "}
@@ -123,13 +123,13 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 harassment, are of particular concern. This view reflects
                 several United Nations resolutions.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Consequently, the Digital Development Compass does not
                 conceptualise "digital human rights" as new rights unique to the
                 digital space but instead as the online application of rights
                 that exist offline.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 <a
                   href="https://digitalstrategy.undp.org/"
                   className="url-styling"
@@ -146,11 +146,11 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 instruments such as the United Nations Charter and the Universal
                 Declaration of Human Rights.
               </p>
-              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] font-bold mt-3 mb-6 stext-left">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Overview of the Digital Rights Dashboard
               </h2>
-              <h2 className="text-[30px] sm:text-[30px] md:text-[35px] lg:text-[35px] leading-[1.4] text-left pb-[44px] sm:pb-[44px] md:pb-[16px] lg:pb-[16px] tracking-normal">Objectives</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Objectives</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Development Compass (DDC) is constructed based on
                 the{" "}
                 <a
@@ -167,7 +167,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 structure, and prioritise their national digital transformation
                 initiatives and agendas effectively.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The <b>Digital Rights Dashboard (DRD)</b> attempts to share
                 insights and measure the performance of countries on the extent
                 to which they have been able to incorporate digital rights
@@ -175,7 +175,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 additional component of the Digital Development Compass and uses
                 the same methodology.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="">
                 The framework represented in the Digital Rights Dashboard is the
                 result of an extensive review of international law and relevant
                 literature published by international organizations, civil
@@ -188,25 +188,25 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 country either on a specific right or on digital rights as a
                 whole.
               </p>
-              <h2 className="text-2xl md:tracking-normal">Four Rights</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Four Rights</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 For the purpose of the Digital Rights Dashboard, we are
                 measuring four rights:
               </p>
-              <h2 className="text-xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>1. Right to Freedom of Speech and Expression </b>
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 Definition from <b>ICCPR Art. 19 (2):</b> This right shall
                 include freedom to seek, receive and impart information and
                 ideas of all kinds, regardless of frontiers, either orally, in
                 writing or in print, in the form of art, or through any other
                 media of his choice.
               </p>
-              <h2 className="text-xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>2. Right to Freedom of Assembly and Association </b>
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 Everyone shall have the right to freedom of expression; this
                 right shall include freedom to seek, receive and impart
                 information and ideas of all kinds, regardless of frontiers,
@@ -225,11 +225,11 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   to Freedom of Expression, Assembly and Association.
                 </b>
               </p>
-              <h2 className="text-xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>3. Right to Equality and Non-Discrimination </b>
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">Definition derived from Art. 26 ICCPR</p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Definition derived from Art. 26 ICCPR</p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 <i>
                   All persons are equal before the law and are entitled without
                   any discrimination to the equal protection of the law [both
@@ -241,10 +241,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   status.
                 </i>
               </p>
-              <h2 className="text-xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>4. Right to Privacy </b>
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 <i>
                   Protection of all individuals against arbitrary or unlawful
                   interference with his or her privacy, family, home or
@@ -252,10 +252,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   reputation.
                 </i>
               </p>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 Why did UNDP choose four rights?
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 UNDP recognizes that there are other important digital rights in
                 International Human Rights Law (IHRL) such as the right to
                 freedom of religion, right to work, and right to housing. After
@@ -267,7 +267,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 conversation starter for countries to conduct their own
                 evaluations.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The four rights we chose have been recognized across United
                 Nations resolutions, General Comments, and reports as being
                 integral to the protection and empowerment of individuals online
@@ -316,13 +316,13 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   Convention on the Rights of Persons with Disabilities.
                 </a>{" "}
               </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-10 mb-6 sm:text-center md:text-left">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Measuring Digital Development
               </h2>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 Stages of Rights Fulfilment
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 In the Digital Development Compass, each country's digital
                 readiness is assessed across five stages of digital development,
                 which encompass every pillar and sub-pillar. Each of the five
@@ -331,8 +331,8 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 stages of Rights Fulfilment. The corresponding stages and scores
                 are shown in the table below:
               </p>
-              <h2 className="text-2xl md:tracking-normal">Overall stages</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Overall stages</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The five stages correspond to the five stages of the Digital
                 Development Compass. Each stage has a definition that broadly
                 corresponds to the performance on digital rights by member
@@ -344,25 +344,25 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               </p>
 
               <PillarsTable />
-              <p>
+              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>Freedom of Expression</b>
               </p>
               <FeTable />
-              <p>
+              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>Right to equality and non-discrimination online</b>
               </p>
               <RendTable />
-              <p>
+              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 <b>Right to privacy online</b>
               </p>
               <ReTable />
-              <h2 className="text-2xl md:text-3xl font-bold mt-5 mb-6 sm:text-left md:text-left">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Digital Rights Score Methodology
               </h2>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Indicator Selection
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Indicators were identified based on our initial literature
                 review and prevailing understandings of international human
                 rights law in the online realm. There are unique indicators
@@ -384,14 +384,14 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 independent analysis for all 193 were excluded due to capacity
                 constraints.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 There is another section that features all cross-cutting
                 indicators. These are indicators that are common to all rights
                 being measured and serve as indicators of the “enabling
                 environment” for digital rights writ large.
               </p>
-              <p>Sources to score these indicators fall into two categories:</p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Sources to score these indicators fall into two categories:</p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 1.{" "}
                 <i>
                   Using sources used for other Digital Development Compass
@@ -404,7 +404,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 provide a quantitative assessment of the relevant Digital Rights
                 Dashboard indicators.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 2. <i>Independent desk research: </i>The Digital Rights
                 Dashboard uses independent desk research to assess most
                 indicators. These include indicators assessing the existence of
@@ -429,16 +429,16 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 conduct more detailed evaluations of their digital rights
                 strategy and compliance.
               </p>
-              <h2 className="text-2xl md:tracking-normal">Weighting</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Weighting</h2>
+              <p>
                 All indicators in the Digital Rights Dashboard are weighted
                 equally. Existing international human rights law and
                 jurisprudence do not support the assignment of inequitable
                 weights to one human right over another or to indicators used to
                 measure each right.
               </p>
-              <h2 className="text-2xl md:tracking-normal">Data Processing</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Data Processing</h2>
+              <p>
                 Data processing for the Digital Rights Dashboard uses the same
                 methodology as the Digital Development Compass. Please refer to
                 the{" "}
@@ -451,10 +451,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 </a>{" "}
                 .
               </p>
-              <h2 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-left md:text-left">
+              <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:text-left md:text-left">
                 Disclaimer
               </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Rights Dashboard, maintained by the United Nations
                 Development Programme (UNDP), aggregates publicly available data
                 on digital development. However, UNDP does not verify the
@@ -463,7 +463,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 Dashboard should not be considered as verified or endorsed by
                 UNDP.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 We recognize that the application and compliance with rights is
                 context-specific and complex. Any numerical score is not bound
                 to account for the entire picture within any given jurisdiction.
@@ -473,7 +473,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 emphasize that decisions or judgments should not be made solely
                 on the basis of a score on the Digital Rights Dashboard.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 It is important to note that the Digital Rights Dashboard should
                 not be utilized as a statistical tool. Relying solely on the
                 data presented on the Digital Rights Dashboard for statistical
@@ -485,7 +485,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 decisions made based on the information provided on the Digital
                 Rights Dashboard.
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p>
                 Users of the Digital Rights Dashboard are advised to exercise
                 their own judgment, conduct independent research, and consult
                 other reliable sources to obtain accurate and verified
@@ -496,7 +496,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div>
           </div>
         </div>
-        <div className="flex justify-center mt-8 pb-8">
+        <div className="flex justify-center mt-[48px] pb-[46px]">
           <button
             onClick={handleScrollToTop}
             className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 text-md font-bold uppercase tracking-wide text-white flex-shrink-0 flex items-center"
