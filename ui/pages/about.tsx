@@ -33,11 +33,11 @@ const NavBar = () => {
   return (
     <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-4 [color:#D12800] hover:[color:#ee402d] uppercase">Home</a>
+        <a className="mr-3 [color:#D12800] hover:[color:#ee402d] uppercase">Home</a>
       </Link>
       <span className="[color:#D12800]">/</span>
       <Link href="/about">
-        <a className="ml-4 [color:#000000] uppercase">About</a>
+        <a className="ml-3 [color:#000000] uppercase">About</a>
       </Link>
     </nav>
   );
