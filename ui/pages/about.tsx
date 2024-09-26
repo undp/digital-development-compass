@@ -200,21 +200,21 @@ export default function About(
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
-        <div className="container mx-auto flex pt-[24px] sm:pt-[24px] md:pt-[61.12px] lg:pt-[61.12px]">
+        <div className="container mx-auto flex pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
           <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left pl-10 sm:pl-0 md:pl-10 lg:pl-10">
-            <div className="max-w-[40em] space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 ">
-              <p>
+            <div className="max-w-[40em]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
                   className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
               </p>
 
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Development Compass aggregates and synthesizes digital development indicators from over 140 open-source datasets into interactive dashboards. These dashboards cover the six pillars of the United Nations Development Programme's (UNDP)
                 <a href="https://www.undp.org/digital/transformations" target="_blank"
                   className="url-styling about-under-line">Digital Transformation Framework</a>,
                 allowing users to quickly understand the digital state of any nation
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Ultimately, the Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners and stakeholders in their efforts to promote digital development in their respective countries. The tool is not intended to be used as an evaluative statistical tool or an index. Users are encouraged to exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political and economic context of each country's digital development efforts.
               </p>
               {/* <p>
@@ -229,7 +229,7 @@ export default function About(
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
               </p> */}
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Feedback and constructive criticism are welcome to improve the
                 accuracy and usefulness of the Compass. To raise your concerns
                 or reflections regarding the data or results, please contact us
@@ -242,13 +242,13 @@ export default function About(
               <div className="max-w-[40em] text-left">
               <h2
                   id="how-it-works"
-                  className="web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title text-[40px] sm:text-[40px]  md:text-[55px] lg:text-[55px] leading-[1.4] font-bold"
+                  className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
                 >
                   How the Compass works
                 </h2>
               </div>
 
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Compass provides a score that assesses a nation’s digital maturity. This is determined by the pillars of UNDP’s Digital Transformation Framework:
               </p>
             </div>
@@ -267,7 +267,7 @@ export default function About(
                 </a>
               ))}
             </div>
-            <p className="max-w-[40em] mt-9 text-left text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] font-normal pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+            <p className="max-w-[40em] mt-9 text-left text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] font-normal pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
               Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
             </p>
           </div>
@@ -275,11 +275,11 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="container mx-auto mb-20 flex flex-col ">
+        <div className="container mx-auto flex flex-col ">
           <div className="max-w-[60em] ">
             <h2
               id="digital-readiness"
-              className="mx-3 web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title  text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.1] text-left font-bold"
+              className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
             >
               Stages of digital readiness by transformation pillar
             </h2>
@@ -291,17 +291,17 @@ export default function About(
           <div className="max-w-[80em]">
             <h2
               id="public-good"
-              className="mx-3 text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] web-main-title sm:mobile-main-title md:web-main-title lg:web-main-title leading-[1.1] text-left font-bold"
+              className="pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
             >
               A Digital Public Good
             </h2>
           </div>
 
           <div className="max-w-[40em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] px-4 text-left">
-            <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+            <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
-            <p className="pb-[12px] sm:pb-[12px] md:pb-[16px] lg:pb-[16px]">
+            <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
             Automations scrape publicly available spreadsheets, PDFs, and documents, converting them into machine-readable formats. Scripts then normalize the data according to a UN-defined list of countries, regions, sub-regions, income groups and territorial borders. Data are also automatically updated as soon as international organizations release new reports. All code and data are transparent and available as a global resource on GitHub. Visit{" "}
               <a
                 className="url-styling"
@@ -403,7 +403,7 @@ export default function About(
                 </a>
               </Link>
             </p>
-            <div className="flex justify-center mt-8">
+            <div className="flex justify-center mt-[48px] pb-[6px]">
               <button
                 onClick={handleScrollToTop}
                 className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
