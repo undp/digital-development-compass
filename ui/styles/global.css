@@ -425,7 +425,7 @@ select option[value="placeholder"] {
 
 @media (max-width: 640px) {
   .heading-mobile-title-size {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 3rem;
   }
 

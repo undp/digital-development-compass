@@ -126,7 +126,7 @@ const SideMenuBarMobile = () => {
         style={{ overflow: "hidden" }}
       >
         <div
-          className="py-0 px-5 flex flex-col  justify-center"
+          className="py-0 flex flex-col  justify-center"
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="options-menu"
@@ -275,7 +275,7 @@ export default function About(
 
         <Scrollytelling country={country} />
 
-        <div className="mb-20 flex flex-col items-center">
+        <div className="container mx-auto mb-20 flex flex-col ">
           <div className="max-w-[60em] ">
             <h2
               id="digital-readiness"
@@ -313,7 +313,7 @@ export default function About(
             </p>
           </div>
 
-          <div className="max-w-[50em] mx-auto px-4">
+          <div className="container mx-auto">
             <Image
               src={githubScreenshot}
               alt="The undp/digital-nation-dashboard GitHub repository"
