@@ -201,7 +201,7 @@ export default function About(
           <SideMenuBar />
         </div>
         <div className="container mx-auto flex pt-[24px] sm:pt-[24px] md:pt-[61.12px] lg:pt-[61.12px]">
-          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
+          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left pl-10 sm:pl-0 md:pl-10 lg:pl-10">
             <div className="max-w-[40em] space-y-3 sm:space-y-3 md:space-y-4 lg:space-y-4 ">
               <p>
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"

@@ -32,9 +32,12 @@ export function FilterBadge(props: FilterBadgeProps) {
 }
 
 export function SideMenuFilterBadge(props: FilterBadgeProps) {
-  const { value, onClick } = props;
+  const { value, onClick , label } = props;
   return (
-<span className="inline-flex py-0.6 pl-1 pr-0 text-base font-normal [line-height:22px] filter-badge-bg-color text-black">
+<span 
+className={`inline-flex py-0.6 pl-1 pr-0 text-base font-normal [line-height:22px] ${
+  label === "Sub-region" ? "filter-badge-bg-color" : "filter-main-badge-bg-color"
+} text-black items-center`}>
   <span className="flex items-center">
     <button
       type="button"
@@ -45,6 +48,8 @@ export function SideMenuFilterBadge(props: FilterBadgeProps) {
       <Image
         src={Times}
         alt="Times"
+        className="mr-3"
+        width={18}
       />
     </button>
   </span>
