@@ -242,7 +242,7 @@ export default function About(
               <div className="max-w-[40em] text-left">
               <h2
                   id="how-it-works"
-                  className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
+                  className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px]"
                 >
                   How the Compass works
                 </h2>
@@ -276,10 +276,10 @@ export default function About(
         <Scrollytelling country={country} />
 
         <div className="container mx-auto flex flex-col ">
-          <div className="max-w-[60em] ">
+          <div className="max-w-[100em] ">
             <h2
               id="digital-readiness"
-              className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
+              className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
             >
               Stages of digital readiness by transformation pillar
             </h2>
@@ -288,16 +288,16 @@ export default function About(
           <TablePillars pillars={pillars} definitions={definitions} />
           <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[80em]">
+          <div className="max-w-[100em]">
             <h2
               id="public-good"
-              className="pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px]"
+              className="pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
             >
               A Digital Public Good
             </h2>
           </div>
 
-          <div className="max-w-[65em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] px-4 text-left">
+          <div className="max-w-[120em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] text-left mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]">
             <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
             The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
             </p>
