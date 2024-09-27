@@ -29,7 +29,7 @@ export default function AboutScrollytelling({
         </>,
       ].map((text, index) => (
         <Step data={index} key={index}>
-          <div className="min-h-[80vh] flex items-center z-100 relative">
+          <div className="min-h-[80vh] flex items-center z-50 relative">
             <div className="bg-white max-w-[30em] py-[0.6em] px-[1em] shadow-lg border text-[clamp(1em,1.5vw,1.5vw)]">
               {text}
             </div>
