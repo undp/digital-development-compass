@@ -460,6 +460,7 @@ select option[value="placeholder"] {
     padding-left: 50px;
     padding-top: 13rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+    top: 26px;
   }
   .viewMenu {
     display: none;
@@ -481,13 +482,18 @@ select option[value="placeholder"] {
   }
 }
 
-@media (min-width: 1301px) and (max-width: 1450px) {
+@media (min-width: 1301px) and (max-width: 1449px) {
   .sideLink {
-    width: 200px;
+    width: 300px;
     padding-left: 25px;
     padding-top: 24rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+    top: 230px;
   }
+
+  .Screen1450Size {
+    padding-left: 130px;
+   }
 
   .web-main-title{
     padding-top: 48px;
@@ -495,12 +501,17 @@ select option[value="placeholder"] {
   }
 }
 
-@media (min-width: 1451px) and (max-width: 1500px) {
+@media (min-width: 1450px) and (max-width: 1500px) {
   .sideLink {
-    width: 200px;
+    width: 300px;
     padding-left: 25px;
     padding-top: 13rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+    top: 405px;
+  }
+
+  .Screen1450Size {
+   padding-left: -110px;
   }
 }
 
@@ -510,15 +521,17 @@ select option[value="placeholder"] {
     padding-left: 25px;
     padding-top: 22rem;
     padding-bottom: 13rem;
+    top: 260px;
   }
 }
 
-@media (min-width: 1700px) {
+@media (min-width: 1701px) {
   .sideLink {
-    width: 24%;
-    padding-left: 25px;
+    width: 20%;
+    padding-left: 20px;
     padding-top: 22rem;
     padding-bottom: 13rem;
+    top: 260px;
   }
 }
 

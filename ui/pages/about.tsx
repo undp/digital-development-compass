@@ -55,7 +55,7 @@ const handleScroll = (e: any) => {
 
 const SideMenuBar = () => {
   return (
-    <nav className="absolute left-0 top-[260px] sideLink">
+    <nav className="absolute left-0 sideLink">
       <ul className="">
         {" "}
         {/* Adjust space between items and padding */}
@@ -200,8 +200,9 @@ export default function About(
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
+        <div className="pl-10 sm:pl-0 md:pl-0 lg:pl-10 Screen1450Size">
         <div className="container mx-auto flex pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
-          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left pl-10 sm:pl-0 md:pl-10 lg:pl-10">
+          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
             <div className="max-w-[40em]">
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
@@ -413,6 +414,7 @@ export default function About(
               </button>
             </div>
           </div>
+      </div>
       </div>
 
       {/* typeform chat overlay */}
