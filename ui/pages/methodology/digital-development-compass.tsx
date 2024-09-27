@@ -241,10 +241,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   </em>
                 </p>
               </div>
-              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] pb-[70px] sm:pb-[70px] md:pb-[60px] lg:pb-[60px]">
                 Measuring digital development
               </h2>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
               Stages of digital development</h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Each country's digital readiness is assessed across five stages
@@ -342,7 +342,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 Digital Development Compass.
               </p>
 
-              <div className="max-w-[20em] sm:max-w-[20em] md:max-w-[813px] lg:max-w-[813px] mx-auto px-4">
+              <div className="max-w-[20em] sm:max-w-[50em] md:max-w-[813px] lg:max-w-[813px] mx-auto px-0">
                 <DimensionsTable />
               </div>
 
@@ -1252,7 +1252,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
             </a>
           </Link>
         </p> */}
-        <div className="mx-[200px] download-section-position">
+        <div className="mx-[0px] sm:mx-0 md:mx-[265px] lg:mx-[265px]">
         <div className="flex md:w-[318px] sm:w-[285px] pt-12 pb-12 pl-0 sm:pl-0 md:pl-0 ">
           <div
             className="px-[22px] py-6 w-[336px]"
