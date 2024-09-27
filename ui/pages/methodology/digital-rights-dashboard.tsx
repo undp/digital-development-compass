@@ -149,7 +149,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Overview of the Digital Rights Dashboard
               </h2>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Objectives</h2>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Objectives</h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Development Compass (DDC) is constructed based on
                 the{" "}
@@ -319,7 +319,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Measuring Digital Development
               </h2>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Stages of Rights Fulfilment
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -352,7 +352,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 <b>Right to equality and non-discrimination online</b>
               </p>
               <RendTable />
-              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 <b>Right to privacy online</b>
               </p>
               <ReTable />
