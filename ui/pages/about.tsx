@@ -719,7 +719,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
       </h4>
 
       <div className="relative w-full mb-[90vh] md:mb-[100vh]">
-        <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center">
+        <div className="sticky top-[10vh] w-full h-[80vh] mb-[-100vh] flex items-center justify-center -z-50">
           {currentStepIndex < 2 && (
             <div className="w-full h-full flex items-center justify-center">
               {stageNames.map((stageName, index) => (
