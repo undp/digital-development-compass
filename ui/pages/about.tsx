@@ -212,8 +212,8 @@ export default function About(
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Development Compass aggregates and synthesizes digital development indicators from over 140 open-source datasets into interactive dashboards. These dashboards cover the six pillars of the United Nations Development Programme's (UNDP)
                 <a href="https://www.undp.org/digital/transformations" target="_blank"
-                  className="url-styling about-under-line">Digital Transformation Framework</a>,
-                allowing users to quickly understand the digital state of any nation
+                  className="url-styling about-under-line"> Digital Transformation Framework</a>,
+                allowing users to quickly understand the digital state of any nation.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Ultimately, the Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners and stakeholders in their efforts to promote digital development in their respective countries. The tool is not intended to be used as an evaluative statistical tool or an index. Users are encouraged to exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political and economic context of each country's digital development efforts.
