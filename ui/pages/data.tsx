@@ -688,7 +688,7 @@ export default function Data(
           </div>
         </aside>
         <div className="md:flex-1 md:flex md:flex-col overflow-auto">
-          <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
+          <div className="h-16 px-3 sm:px-3 md:px-4 lg:px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
                 <p className="text-sm text-gray-600">
