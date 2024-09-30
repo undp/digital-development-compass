@@ -72,7 +72,7 @@ export function CountryCard({
       {showFooterLink && (
         <div className="mb-4">
           <Link href={`/country/${country.alpha3}`}>
-            <a className="bg-[#4F95DD] hover:button-bg-color text-base uppercase font-bold px-6 py-4 text-white flex-shrink-0 flex items-center">
+            <a className="bg-[#006EB5] hover:button-bg-color text-base uppercase font-bold px-6 py-4 text-white flex-shrink-0 flex items-center">
               view more
             </a>
           </Link>
