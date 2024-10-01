@@ -18,7 +18,7 @@ export default function AboutScrollytelling({
           These are scored from <span className="font-mono">0</span> to{" "}
           <span className="font-mono">5</span>
         </>,
-        "We then use UNDP’s Digital Transformation Framework to understand the digital state of a given nation",
+        "We then use UNDP’s Digital Transformation Framework to understand the digital state of a given nation.",
         "Each pillar is investigated",
         "and each related sub-pillar, too.",
         "Using open data sets mapped to our framework, we identify each sub-pillar's score.",
