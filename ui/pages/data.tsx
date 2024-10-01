@@ -377,7 +377,7 @@ export default function Data(
     );
   }, [regionFilter]);
 
-  //const subregionSelectDisabled = regionFilter === "*";
+  const subregionSelectDisabled = regionFilter === "*";
 
   useEffect(() => {
     // @ts-ignore
@@ -632,7 +632,7 @@ export default function Data(
                   value={subregionFilter}
                   onChange={setSubregionFilter}
                   label="Region"
-                  // disabled={subregionSelectDisabled}
+                  disabled={subregionSelectDisabled}
                   trigger={
                     subregionFilter == "*" ? (
                       <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase py-[2px]">
