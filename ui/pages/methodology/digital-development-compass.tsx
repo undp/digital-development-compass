@@ -257,7 +257,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   alt="The undp/digital-nation-dashboard GitHub repository"
                   className="w-full sm:w-84 h-auto"
                 />
-                <p className="text-center mt-2">
+                <p className="text-center mt-2  pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px]">
                   <em>Figure 2. UNDP's five stages of digital development</em>
                 </p>
               </div>
@@ -277,7 +277,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </p>
               </div>
             </div>
-            <h2 className="font-bold m-0 sm:m-3 text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+            <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] pb-[70px] sm:pb-[70px] md:pb-[60px] lg:pb-[60px]">
 
               Digital development score methodology
             </h2>
@@ -296,7 +296,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 &nbsp;, developed in partnership with GitHub’s volunteer
                 programme.
               </p>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-2xl pt-[100px] sm:pt-[35px] md:pt-[100px] lg:pt-[100px] pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 1. Indicator selection
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -346,7 +346,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 <DimensionsTable />
               </div>
 
-              <p className="text-center mt-2 pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+              <p className="text-center mt-2 pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px]">
                 <em>Table 2. Data evaluation questions</em>
               </p>
               <div className="p-0">
@@ -375,7 +375,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </div>
               </div>
               {/* 2. Data Collection */}
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-2xl pt-[100px] sm:pt-[35px] md:pt-[100px] lg:pt-[100px] pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 2. Data collection
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -408,12 +408,12 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   <em>Figure 4. Source</em>
                 </p>
               </div>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+              <p>
                 When any of the links to source data expire, an automated email
                 notification is sent to administrators, and new links are
                 updated manually.
               </p>
-              <h2 className="text-2xl md:tracking-normal">
+              <h2 className="text-2xl pt-[100px] sm:pt-[35px] md:pt-[100px] lg:pt-[100px] pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 3. Score calculation methodology
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -1189,7 +1189,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               )}
             </tbody>
           </table>
-          <p className="text-center mt-2">
+          <p className="text-center mt-2 ">
             <em>Table 3. DDC definitions and scales</em>
           </p>
         </div>
