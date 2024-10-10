@@ -65,7 +65,7 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
             return (
               <div className="py-1">
                 <span
-                  className="text-xs font-medium uppercase tracking-widest py-[2px] "
+                  className="text-[16px] font-normal"
                 >
                   {asPillar}
                 </span>

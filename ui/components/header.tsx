@@ -50,23 +50,16 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
     }, 300); // Adjust the delay as needed
   };
 
+  const [isScrolled, setIsScrolled] = useState(false);
+
   useEffect(() => {
     const handleScroll = () => {
-      const header: any = document.getElementById("header");
-      const headerMobile: any = document.getElementById("header-mobile");
-      if (window.scrollY > 10) {
-        header.classList.add("header-scrolled");
-        headerMobile.classList.add("header-scrolled-mobile");
-      } else {
-        header.classList.remove("header-scrolled");
-        headerMobile.classList.remove("header-scrolled-mobile");
-      }
+      setIsScrolled(window.scrollY > 0);
     };
 
-    window.addEventListener("scroll", handleScroll);
-
+    window.addEventListener('scroll', handleScroll);
     return () => {
-      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener('scroll', handleScroll);
     };
   }, []);
 
@@ -74,28 +67,31 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
     <>
       <header className="flex-shrink-0 border-b custom-nav-shadow header-nav-bg-color">
         {/* mobile */}
-        <div className="lg:hidden p-3 flex items-center justify-between h-24">
-          <div className="flex items-center space-x-4 sm:space-x-2 md:space-x-4 lg:space-x-4">
-            <div className="w-12">
+        <div className="lg:hidden p-3 flex items-center justify-between h-[75px]">
+          <div className="flex items-center">
+            <div>
               <Link href="/">
-                <a id="header-mobile" className="block relative top-1 w-14">
+                <a id="header-mobile" 
+                  className={`block relative z-[100] transition-all duration-300 ${
+                    isScrolled ?  'h-[86px] w-[40px]': 'h-[75px] w-[40px]' 
+                  }`}
+                >
                   <Image
                     id="logo"
                     src={LogoSVG}
                     alt="UNDP Logo"
-                    className="transition-all duration-300 z-[100]"
                   />
                 </a>
               </Link>
             </div>
-            <div className="pl-[12px] w-4"> 
+            <div className="pl-[12px] sm:pl-[12px] md:pl-[25px] lg:pl-[25px] w-4"> 
             <SiteName />
             </div>
           </div>
           <div className="flex items-start">
             <button
               onClick={() => handleMenuToggle(!mobileMenuOpen)}
-              className={`header-nav-bg-color font-semibold border-brand-blue hover:bg-brand-blue/10 px-5 py-4 text-brand-blue-dark flex-shrink-0 flex items-center`}
+              className={`header-nav-bg-color font-semibold px-5 py-4 flex-shrink-0 flex items-center`}
             >
               <span className="tracking-wide">
                 {mobileMenuOpen ? (
@@ -116,7 +112,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div className="h-[115px] flex-shrink-0">
               <Link href="/">
-                <a id="header" className="block relative top-0 w-[60px] h-[121.62px] z-60">
+                <a id="header"  className={`block relative z-[100] transition-all duration-300 ${
+                    isScrolled ?  'h-[115px] w-[57px]': 'h-[122px] w-[60px]' 
+                  }`}>
                   <Image
                     id="logo"
                     src={LogoSVG}

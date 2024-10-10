@@ -33,7 +33,9 @@ const NavBar = () => {
   return (
     <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-3 [color:#D12800] hover:[color:#ee402d] uppercase">Home</a>
+        <a className="mr-3 [color:#D12800] hover:[color:#ee402d] uppercase">
+          Home
+        </a>
       </Link>
       <span className="[color:#D12800]">/</span>
       <Link href="/about">
@@ -101,13 +103,15 @@ const SideMenuBarMobile = () => {
     <div className="relative inline-block text-left w-full bottom-3 pt-[14px]">
       <button
         onClick={toggleDropdown}
-        className={`inline-flex justify-between uppercase items-center w-full px-4 h-[50.39px] py-3 text-base font-semibold text-black bg-[#edeff0] border-b-2 ${isOpen ? "border-black" : ""
-          } `}
+        className={`inline-flex justify-between uppercase items-center w-full px-4 h-[50.39px] py-3 text-base font-semibold text-black bg-[#edeff0] border-b-2 ${
+          isOpen ? "border-black" : ""
+        } `}
       >
         Menu
         <svg
-          className={`w-5 h-5  transition-transform ${isOpen ? "rotate-180 mb-2" : "rotate-0 mt-2"
-            }`}
+          className={`w-5 h-5  transition-transform ${
+            isOpen ? "rotate-180 mb-2" : "rotate-0 mt-2"
+          }`}
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
@@ -121,8 +125,9 @@ const SideMenuBarMobile = () => {
         </svg>
       </button>
       <div
-        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
-          }`}
+        className={`origin-top-right absolute right-0 w-full rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 transition-all duration-700 ease-in-out ${
+          isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
+        }`}
         style={{ overflow: "hidden" }}
       >
         <div
@@ -176,11 +181,14 @@ export default function About(
   return (
     <Layout title="About" countries={countries}>
       <div className="sideMenuBarMobile flex items-center pt-3 sm:pt-3 md:py-0 justify-center">
-          <SideMenuBarMobile />
+        <SideMenuBarMobile />
       </div>
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6 ">
-      <div className="pb-5 pt-[14px] sm:pt-0 md:pt-0 lg:pt-0">
-          <div className="w-full h-[410px] sm:h-[410px] md:h-[410px] lg:h-[410px] md:px-20" style={{ backgroundColor: "#F7F7F7" }}>
+        <div className="pb-5 pt-[14px] sm:pt-0 md:pt-0 lg:pt-0">
+          <div
+            className="w-full h-[410px] sm:h-[410px] md:h-[410px] lg:h-[410px] md:px-20"
+            style={{ backgroundColor: "#F7F7F7" }}
+          >
             <div className="md:mx-auto">
               <div className="md:px-4 md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
@@ -188,7 +196,10 @@ export default function About(
                 <div className="max-w-[40em] py-5 sm:py-0 text-start sm:text-left sm:px-4 md:text-left md:pl-3 pt-[125px] sm:pt-[125px] md:pt-[40px] lg:pt-[40px]">
                   <h2
                     className=" items-center heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
-                    style={{ fontFamily: "SohneBreitFont, sans-serif", letterSpacing : '3px' }}
+                    style={{
+                      fontFamily: "SohneBreitFont, sans-serif",
+                      letterSpacing: "3px",
+                    }}
                   >
                     About
                   </h2>
@@ -196,29 +207,59 @@ export default function About(
               </div>
             </div>
           </div>
-      </div>
+        </div>
         <div className="sideMenuBar pr-12">
           <SideMenuBar />
         </div>
         <div className="pl-10 sm:pl-0 md:pl-0 lg:pl-10 Screen1450Size">
-        <div className="container mx-auto flex pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
-          <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
-            <div className="max-w-[40em]">
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Developed through <a href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/" target="_blank"
-                  className="url-styling about-under-line">an innovative partnership with GitHub</a>, the Digital Development Compass is UNDP’s latest tool supporting Member States with their inclusive digital transformation journeys. The Compass provides an analysis of a nation’s digital development based on a comprehensive collection of publicly available data sets.
-              </p>
+          <div className="container mx-auto flex pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
+            <div className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] flex flex-col items-center font-normal text-left">
+              <div className="max-w-[40em]">
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                  Developed through{" "}
+                  <a
+                    href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
+                    target="_blank"
+                    className="url-styling about-under-line"
+                  >
+                    an innovative partnership with GitHub
+                  </a>
+                  , the Digital Development Compass is UNDP’s latest tool
+                  supporting Member States with their inclusive digital
+                  transformation journeys. The Compass provides an analysis of a
+                  nation’s digital development based on a comprehensive
+                  collection of publicly available data sets.
+                </p>
 
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The Digital Development Compass aggregates and synthesizes digital development indicators from over 140 open-source datasets into interactive dashboards. These dashboards cover the six pillars of the United Nations Development Programme's (UNDP)
-                <a href="https://www.undp.org/digital/transformations" target="_blank"
-                  className="url-styling about-under-line"> Digital Transformation Framework</a>,
-                allowing users to quickly understand the digital state of any nation.
-              </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Ultimately, the Digital Development Compass aims to serve as a guide and starting point for policymakers, practitioners and stakeholders in their efforts to promote digital development in their respective countries. The tool is not intended to be used as an evaluative statistical tool or an index. Users are encouraged to exercise caution and critical thinking when interpreting the results and to consider the broader socio-cultural, political and economic context of each country's digital development efforts.
-              </p>
-              {/* <p>
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                  The Digital Development Compass aggregates and synthesizes
+                  digital development indicators from over 140 open-source
+                  datasets into interactive dashboards. These dashboards cover
+                  the six pillars of the United Nations Development Programme's
+                  (UNDP)
+                  <a
+                    href="https://www.undp.org/digital/transformations"
+                    target="_blank"
+                    className="url-styling about-under-line"
+                  >
+                    {" "}
+                    Digital Transformation Framework
+                  </a>
+                  , allowing users to quickly understand the digital state of
+                  any nation.
+                </p>
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                  Ultimately, the Digital Development Compass aims to serve as a
+                  guide and starting point for policymakers, practitioners and
+                  stakeholders in their efforts to promote digital development
+                  in their respective countries. The tool is not intended to be
+                  used as an evaluative statistical tool or an index. Users are
+                  encouraged to exercise caution and critical thinking when
+                  interpreting the results and to consider the broader
+                  socio-cultural, political and economic context of each
+                  country's digital development efforts.
+                </p>
+                {/* <p>
                 Developed through{" "}
                 <a
                   href="https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
@@ -230,99 +271,114 @@ export default function About(
                 , it is UNDP’s latest tool supporting Member States with their
                 inclusive digital transformation journeys.
               </p> */}
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Feedback and constructive criticism are welcome to improve the
-                accuracy and usefulness of the Compass. To raise your concerns
-                or reflections regarding the data or results, please contact us
-                via the chatbox.
-              </p>
-              <div className="aspect-video">
-                <YouTube videoId="DsUgE5uEqvw" />
-              </div> 
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                  Feedback and constructive criticism are welcome to improve the
+                  accuracy and usefulness of the Compass. To raise your concerns
+                  or reflections regarding the data or results, please contact
+                  us via the chatbox.
+                </p>
+                <div className="aspect-video">
+                  <YouTube videoId="DsUgE5uEqvw" />
+                </div>
 
-              <div className="max-w-[40em] text-left">
-              <h2
-                  id="how-it-works"
-                  className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px]"
-                >
-                  How the Compass works
-                </h2>
+                <div className="max-w-[40em] text-left">
+                  <h2
+                    id="how-it-works"
+                    className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px]"
+                  >
+                    How the Compass works
+                  </h2>
+                </div>
+
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                  The Compass provides a score that assesses a nation’s digital
+                  maturity. This is determined by the pillars of UNDP’s Digital
+                  Transformation Framework:
+                </p>
               </div>
-
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The Compass provides a score that assesses a nation’s digital maturity. This is determined by the pillars of UNDP’s Digital Transformation Framework:
+              <div className="flex flex-wrap mt-4">
+                {pillars.map((pillar) => (
+                  <a
+                    href={`#${pillar}`}
+                    key={pillar}
+                    className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
+                    style={{
+                      backgroundColor: (ancillary.pillarColorMap as any)[pillar]
+                        ?.base,
+                    }}
+                  >
+                    {pillar}
+                  </a>
+                ))}
+              </div>
+              <p className="max-w-[40em] mt-9 text-left text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] font-normal pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Each of these pillars consists of multiple sub-pillars and
+                indicators, which can be mapped to a specific stage of digital
+                transformation. Every stage is then assigned a score, which
+                represents the level of a nation’s digital transformation
+                maturity.
               </p>
             </div>
-            <div className="flex flex-wrap mt-4">
-              {pillars.map((pillar) => (
-                <a
-                  href={`#${pillar}`}
-                  key={pillar}
-                  className="inline-flex text-sm text-white font-medium uppercase tracking-widest py-[0.3em] px-[1.2em] m-1 rounded-full z-10"
-                  style={{
-                    backgroundColor: (ancillary.pillarColorMap as any)[pillar]
-                      ?.base,
-                  }}
-                >
-                  {pillar}
-                </a>
-              ))}
-            </div>
-            <p className="max-w-[40em] mt-9 text-left text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] font-normal pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-              Each of these pillars consists of multiple sub-pillars and indicators, which can be mapped to a specific stage of digital transformation. Every stage is then assigned a score, which represents the level of a nation’s digital transformation maturity.
-            </p>
-          </div>
-        </div>
-
-        <Scrollytelling country={country} />
-
-        <div className="container mx-auto flex flex-col ">
-          <div className="max-w-[100em] ">
-            <h2
-              id="digital-readiness"
-              className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
-            >
-              Stages of digital readiness by transformation pillar
-            </h2>
           </div>
 
-          <TablePillars pillars={pillars} definitions={definitions} />
-          <MobilePillars pillars={pillars} definitions={definitions} />
+          <Scrollytelling country={country} />
 
-          <div className="max-w-[100em]">
-            <h2
-              id="public-good"
-              className="pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
-            >
-              A Digital Public Good
-            </h2>
-          </div>
-
-          <div className="max-w-[120em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] text-left mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]">
-            <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-            The software and data that are used to put together the Compass are open-source and in the process of becoming Digital Public Goods. 
-            </p>
-            <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-            Automations scrape publicly available spreadsheets, PDFs, and documents, converting them into machine-readable formats. Scripts then normalize the data according to a UN-defined list of countries, regions, sub-regions, income groups and territorial borders. Data are also automatically updated as soon as international organizations release new reports. All code and data are transparent and available as a global resource on GitHub. Visit{" "}
-              <a
-                className="url-styling"
-                href="https://github.com/undp/digital-development-compass"
+          <div className="container mx-auto flex flex-col ">
+            <div className="max-w-[100em] ">
+              <h2
+                id="digital-readiness"
+                className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[60px] lg:pt-[60px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
               >
-                https://github.com/undp/digital-development-compass
-              </a>{" "}
-              to see the latest.
-            </p>
-          </div>
+                Stages of digital readiness by transformation pillar
+              </h2>
+            </div>
 
-          <div className="container mx-auto">
-            <Image
-              src={githubScreenshot}
-              alt="The undp/digital-nation-dashboard GitHub repository"
-            />
-          </div>
+            <TablePillars pillars={pillars} definitions={definitions} />
+            <MobilePillars pillars={pillars} definitions={definitions} />
 
-          <div className="max-w-[40em] py-10 text-lg px-4">
-            {/* <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
+            <div className="max-w-[100em]">
+              <h2
+                id="public-good"
+                className="pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]"
+              >
+                A Digital Public Good
+              </h2>
+            </div>
+
+            <div className="max-w-[120em] py-10 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] text-left mx-0 sm:mx-0 md:mx-[130px] lg:mx-[130px]">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The software and data that are used to put together the Compass
+                are open-source and in the process of becoming Digital Public
+                Goods.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Automations scrape publicly available spreadsheets, PDFs, and
+                documents, converting them into machine-readable formats.
+                Scripts then normalize the data according to a UN-defined list
+                of countries, regions, sub-regions, income groups and
+                territorial borders. Data are also automatically updated as soon
+                as international organizations release new reports. All code and
+                data are transparent and available as a global resource on
+                GitHub. Visit{" "}
+                <a
+                  className="url-styling"
+                  href="https://github.com/undp/digital-development-compass"
+                >
+                  https://github.com/undp/digital-development-compass
+                </a>{" "}
+                to see the latest.
+              </p>
+            </div>
+
+            <div className="container mx-auto">
+              <Image
+                src={githubScreenshot}
+                alt="The undp/digital-nation-dashboard GitHub repository"
+              />
+            </div>
+
+            <div className="max-w-[40em] py-10 text-lg px-4">
+              {/* <h2 className="text-3xl font-bold mt-20 mb-6">Methodology</h2>
 
             <ul className="space-y-4">
               <li>
@@ -377,44 +433,40 @@ export default function About(
                 digital@undp.org
               </a>
               .
-            </p> */}          
-        </div>
-        <p>
+            </p> */}
+            </div>
+            <p>
               <Link href="/methodology">
                 <a
-                  className="text-[12px] sm:text-[12px] md:text-[16px] md:leading-[18px] font-bold tracking-wider justify-center flex items-center duration-700"
+                  className="text-[16px] sm:text-[16px] md:text-[18px] md:leading-[18px] font-bold tracking-wider justify-center flex items-center duration-700 uppercase pl-8 md:pl-8 sm:pl-8 lg:pl-8"
                   onMouseEnter={() => setIsHovered(true)}
                   onMouseLeave={() => setIsHovered(false)}
                 >
-                  CLICK HERE TO READ THE METHODOLOGY
-                  <div className="ml-4 sm:mt-1 flex items-center space-x-0">
-                    {isHovered ? (
-                      <Image
-                        src={arrowBase}
-                        alt="arrowBase"
-                        className="m-0 p-0"
-                      />
-                    ) : (
-                      <Image
-                        src={chevronRight}
-                        alt="chevronRight"
-                        className="m-0 p-0"
-                      />
-                    )}
+                  read the methodology
+                  <div
+                    className={`ml-4 flex  space-x-0 duration-[150ms] transform ease-linear ${
+                      isHovered ? "translate-x-0" : "-translate-x-2 ease-in"
+                    }`}
+                  >
+                    <Image
+                      src={chevronRight}
+                      alt="chevronRight"
+                      className="m-0 p-0"
+                    />
                   </div>
                 </a>
               </Link>
-        </p>
-        <div className="flex justify-center mt-[48px] pb-[46px]">
+            </p>
+            <div className="justify-center mt-[48px] pb-[46px] flex items-center">
               <button
                 onClick={handleScrollToTop}
-                className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 flex items-center"
-                >
+                className="bg-brand-blue-dark border-2 border-brand-blue-dark hover:bg-brand-blue-dark/90 px-4 py-2 font-bold text-base uppercase tracking-wide text-white flex-shrink-0 "
+              >
                 Scroll to the top
               </button>
             </div>
           </div>
-      </div>
+        </div>
       </div>
 
       {/* typeform chat overlay */}
@@ -512,8 +564,9 @@ const TablePillar = ({
   return (
     <div id={pillar} className={`${gridClassName} scroll-mt-20`} key={pillar}>
       <div
-        className={`p-5 pt-0 mt-5 ${isHighlightingPillars ? "bg-yellow-50" : ""
-          }`}
+        className={`p-5 pt-0 mt-5 ${
+          isHighlightingPillars ? "bg-yellow-50" : ""
+        }`}
       >
         <div
           className={`flex items-center self-start font-semibold text-xl mt-10`}
@@ -555,51 +608,53 @@ const TablePillar = ({
         {definitions.length === 1
           ? null
           : definitions.map((d, definitionIndex) => {
-            if (!isExpanded && d["Sub-Pillar"]) return null;
-            if (!d["Sub-Pillar"]) return null;
-            return (
-              <motion.div
-                className={`${gridClassName} col-span-6`}
-                key={definitionIndex}
-                initial={{ opacity: 0, height: 0 }}
-                animate={{ opacity: 1, height: "auto" }}
-                exit={{ opacity: 0, height: 0 }}
-                transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
-              >
-                <div
-                  className={`p-2 col-start-1 pl-14 font-semibold ${!definitionIndex ? "mt-10" : ""
-                    }`}
-                  style={{
-                    color: pillarColor,
-                  }}
-                  key={`name-${definitionIndex}`}
+              if (!isExpanded && d["Sub-Pillar"]) return null;
+              if (!d["Sub-Pillar"]) return null;
+              return (
+                <motion.div
+                  className={`${gridClassName} col-span-6`}
+                  key={definitionIndex}
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: "auto" }}
+                  exit={{ opacity: 0, height: 0 }}
+                  transition={{ duration: 0.6, delay: definitionIndex * 0.2 }}
                 >
-                  {d["Sub-Pillar"] || "Overall"}
-                </div>
-                {stageNames.map((stageName, stageIndex) => (
                   <div
-                    className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${!definitionIndex ? " mt-10" : ""
-                      }`}
-                    style={
-                      {
-                        "--color": pillarColorScale(stageIndex),
-                      } as React.CSSProperties
-                    }
-                    key={`${stageName}-${definitionIndex}`}
+                    className={`p-2 col-start-1 pl-14 font-semibold ${
+                      !definitionIndex ? "mt-10" : ""
+                    }`}
+                    style={{
+                      color: pillarColor,
+                    }}
+                    key={`name-${definitionIndex}`}
                   >
-                    <div
-                      className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
-                      style={{
-                        background: pillarColorScale(stageIndex),
-                      }}
-                    />
-                    {/* @ts-ignore */}
-                    {d[stageName] || ""}
+                    {d["Sub-Pillar"] || "Overall"}
                   </div>
-                ))}
-              </motion.div>
-            );
-          })}
+                  {stageNames.map((stageName, stageIndex) => (
+                    <div
+                      className={`group p-4 text-gray-700 relative group-hover:bg-slate-5000  ${
+                        !definitionIndex ? " mt-10" : ""
+                      }`}
+                      style={
+                        {
+                          "--color": pillarColorScale(stageIndex),
+                        } as React.CSSProperties
+                      }
+                      key={`${stageName}-${definitionIndex}`}
+                    >
+                      <div
+                        className="absolute inset-0 bottom-auto right-auto w-0 left-4 h-1 group-hover:w-20 transition-all"
+                        style={{
+                          background: pillarColorScale(stageIndex),
+                        }}
+                      />
+                      {/* @ts-ignore */}
+                      {d[stageName] || ""}
+                    </div>
+                  ))}
+                </motion.div>
+              );
+            })}
       </AnimatePresence>
     </div>
   );
@@ -727,16 +782,18 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   className="text-[2.5vw] md:text-[2vw] relative"
                   key={index}
                 >
-                  {index + 1 == stageNames.length && <motion.div
-                    className="absolute bottom-[-2em] text-black  right-0 transform -translate-x-1/2 font-mono text-[0.5em]"
-                    animate={{
-                      y: currentStepIndex > 0 ? 0 : 10,
-                      opacity: currentStepIndex > 0 ? 1 : 0,
-                    }}
-                    transition={{ duration: 0.6, delay: index * 0.1 }}
-                  >
-                    {index + 1}
-                  </motion.div>}
+                  {index + 1 == stageNames.length && (
+                    <motion.div
+                      className="absolute bottom-[-2em] text-black  right-0 transform -translate-x-1/2 font-mono text-[0.5em]"
+                      animate={{
+                        y: currentStepIndex > 0 ? 0 : 10,
+                        opacity: currentStepIndex > 0 ? 1 : 0,
+                      }}
+                      transition={{ duration: 0.6, delay: index * 0.1 }}
+                    >
+                      {index + 1}
+                    </motion.div>
+                  )}
                   <div
                     className="py-[0.6em] px-[1em] font-semibold text-white"
                     style={{
@@ -756,7 +813,6 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   >
                     {index}
                   </motion.div>
-
                 </div>
               ))}
             </div>
@@ -778,8 +834,8 @@ const Scrollytelling = ({ country }: { country: any }) => {
                   currentStepIndex > 5
                     ? country
                     : {
-                      score: {},
-                    }
+                        score: {},
+                      }
                 }
                 pillars={ancillary.pillars}
                 type={"about"}

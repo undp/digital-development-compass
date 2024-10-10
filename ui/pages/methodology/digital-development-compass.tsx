@@ -32,7 +32,9 @@ const NavBar = () => {
         </a>
       </Link>
       <span className="[color:#D12800] mr-3 ">/</span>
-      <span className="[color:#D12800] mr-3 hover:[color:#ee402d]">METHODOLOGY</span>
+      <span className="[color:#D12800] mr-3 hover:[color:#ee402d]">
+        METHODOLOGY
+      </span>
       <span className="[color:#D12800]">/</span>
       <Link href="/methodology/digital-development-compass">
         <a className="ml-3 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
@@ -78,7 +80,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
     <Layout title="Methodology" countries={countries}>
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
         <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
-          <div className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9" style={{ backgroundColor: "#F7F7F7" }}>
+          <div
+            className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9"
+            style={{ backgroundColor: "#F7F7F7" }}
+          >
             <div className="md:px-14 md:mx-auto">
               <div className="md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
@@ -87,7 +92,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                     className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{
                       fontFamily: "SohneBreitFont, sans-serif",
-                      wordWrap: "break-word"
+                      wordWrap: "break-word",
                     }}
                   >
                     DIGITAL DEVELOPMENT
@@ -174,8 +179,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 most important areas for collaboration to achieve inclusive
                 digital transformation.
               </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">  
-                  Overview of the Digital Transformation Framework
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+                Overview of the Digital Transformation Framework
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Compass is constructed based on the inclusive
@@ -225,7 +230,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 </p>
               </div>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                Pillars and sub-pillars</h2>
+                Pillars and sub-pillars
+              </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Table 1 provides a list of the pillars and the underlying
                 sub-pillars constituting UNDP’s inclusive whole-of-society
@@ -245,7 +251,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 Measuring digital development
               </h2>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
-              Stages of digital development</h2>
+                Stages of digital development
+              </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Each country's digital readiness is assessed across five stages
                 of digital development as indicated in Figure 2, which
@@ -278,7 +285,6 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </div>
             </div>
             <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] pb-[70px] sm:pb-[70px] md:pb-[60px] lg:pb-[60px]">
-
               Digital development score methodology
             </h2>
             <div className="sm:mx-3 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4] text-left">
@@ -562,16 +568,21 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
               </p>
               <ol className="list-decimal">
                 <li>
-                  <span className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Linear interpolation:</span> Historical
-                  information can be used before implementing a modelling-based
-                  approach. If data are missing but there are values in
-                  preceding and subsequent years, linear interpolation is used.
+                  <span className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                    Linear interpolation:
+                  </span>{" "}
+                  Historical information can be used before implementing a
+                  modelling-based approach. If data are missing but there are
+                  values in preceding and subsequent years, linear interpolation
+                  is used.
                 </li>
                 <li>
-                  <span className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Extrapolation:</span> If there is no data
-                  from preceding and subsequent years, data are extrapolated as
-                  a constant value of the nearest reported data, or as a value
-                  on a trend line/curve.
+                  <span className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                    Extrapolation:
+                  </span>{" "}
+                  If there is no data from preceding and subsequent years, data
+                  are extrapolated as a constant value of the nearest reported
+                  data, or as a value on a trend line/curve.
                 </li>
                 <li>
                   <span className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -1253,67 +1264,65 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
           </Link>
         </p> */}
         <div className="mx-[0px] sm:mx-0 md:mx-[265px] lg:mx-[265px]">
-        <div className="flex md:w-[318px] sm:w-[285px] pt-12 pb-12 pl-0 sm:pl-0 md:pl-0 ">
-          <div
-            className="px-[22px] py-6 w-[336px]"
-            style={{ backgroundColor: "#F7F7F7" }}
-          >
-            <p className="text-lg pb-2 text-[#000000]">
-              Raw Data
-            </p>
-            <p className="text-sm pb-[16px] text-[#55606E]">PDF (800kb)</p>
-            <div className="text-base font-bold flex items-center text-[#000000]">
-              DOWNLOAD
-              <a
-                href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
-                className="text-red-500 flex items-center ml-2"
-                id="downloadRawScoresFile"
-                onClick={handleDownloadClick}
-                onMouseEnter={() => setDownloadHovered(true)}
-                onMouseLeave={() => setDownloadHovered(false)}
-              >
-                {isDownloadHovered ? (
-                  <Image
-                    src={downloadHover}
-                    alt="downloadHover"
-                    width={16}
-                    height={16}
-                  />
-                ) : (
-                  <Image
-                    src={downloadDefault}
-                    alt="download"
-                    width={16}
-                    height={16}
-                  />
-                )}
-              </a>
+          <div className="flex md:w-[318px] sm:w-[285px] pt-12 pb-12 pl-0 sm:pl-0 md:pl-0 ">
+            <div
+              className="px-[22px] py-6 w-[336px]"
+              style={{ backgroundColor: "#F7F7F7" }}
+            >
+              <p className="text-lg pb-2 text-[#000000]">Raw Data</p>
+              <p className="text-sm pb-[16px] text-[#55606E]">PDF (800kb)</p>
+              <div className="text-base font-bold flex items-center text-[#000000]">
+                DOWNLOAD
+                <a
+                  href="https://raw.githubusercontent.com/undp/digital-development-compass/staging/ui/database/raw/scores.csv"
+                  className="text-red-500 flex items-center ml-2"
+                  id="downloadRawScoresFile"
+                  onClick={handleDownloadClick}
+                  onMouseEnter={() => setDownloadHovered(true)}
+                  onMouseLeave={() => setDownloadHovered(false)}
+                >
+                  {isDownloadHovered ? (
+                    <Image
+                      src={downloadHover}
+                      alt="downloadHover"
+                      width={16}
+                      height={16}
+                    />
+                  ) : (
+                    <Image
+                      src={downloadDefault}
+                      alt="download"
+                      width={16}
+                      height={16}
+                    />
+                  )}
+                </a>
+              </div>
             </div>
           </div>
-        </div>
 
-        <p className="md:w-[400px] sm:w-5/5 pl-0 sm:pl-0 md:pl-0">
-          <Link href="/disclaimer">
-            <a
-              className="text-base sm:text-sm md:text-base font-bold flex items-center"
-              onMouseEnter={() => setIsHovered(true)}
-              onMouseLeave={() => setIsHovered(false)}
-            >
-              CLICK HERE TO ACCESS THE DISCLAIMER
-              <div className="ml-2 mb-1 sm:mt-1 flex items-center space-x-0">
-                {isHovered ? (
-                  <Image src={arrowBase} alt="arrowBase" className="m-0 p-0" />
-                ) : (
+          <p className="md:w-[400px] sm:w-5/5 pl-0 sm:pl-0 md:pl-0">
+            <Link href="/disclaimer">
+              <a
+                className="text-base sm:text-sm md:text-base font-bold flex items-center"
+                onMouseEnter={() => setIsHovered(true)}
+                onMouseLeave={() => setIsHovered(false)}
+              >
+                CLICK HERE TO ACCESS THE DISCLAIMER
+                <div
+                  className={`ml-3 mb-1 sm:mt-1 flex items-center space-x-0 duration-[150ms] ease-linear transform ${
+                    isHovered ? "translate-x-0" : "-translate-x-2"
+                  }`}
+                >
                   <Image
                     src={chevronRight}
                     alt="chevronRight"
                     className="m-0 p-0"
                   />
-                )}
-              </div>
-            </a>
-          </Link>
-        </p>
+                </div>
+              </a>
+            </Link>
+          </p>
         </div>
         <div className="flex justify-center mt-[48px] pb-[44px]">
           <button

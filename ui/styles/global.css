@@ -110,6 +110,9 @@ select option[value="placeholder"] {
   }
 }
 
+.tracking-extra-tight {
+  letter-spacing: 0.03em;
+}
 
 .drawer {
   box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
@@ -323,7 +326,7 @@ select option[value="placeholder"] {
 }
 
 .MobileMenuSideMenu {
-  background-color: #f0f3f6;
+  background-color: rgba(247, 247, 247);
 }
 
 @media (max-width: 770px) {
@@ -357,7 +360,7 @@ select option[value="placeholder"] {
 }
 
 .custom-mobile-bg-color {
-  background-color: #d9e7f0eb;
+  background-color: rgba(247, 247, 247);
 }
 
 .custom-mobile-menu {
@@ -595,7 +598,7 @@ select option[value="placeholder"] {
 }
 
 .header-scrolled-mobile {
-  width: 3rem;
-  top: 4px;
+  height: 82px;
+  /* top: 4px; */
 }
 
