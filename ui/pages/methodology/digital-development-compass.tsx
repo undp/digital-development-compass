@@ -20,7 +20,7 @@ import {
 import { ancillary } from "database/ancillary";
 import chevronRight from "../../public/chevron-right.svg";
 import downloadDefault from "../../public/download-default.svg";
-import arrowBase from "../../public/arrow-base.svg";
+//import arrowBase from "../../public/arrow-base.svg";
 import downloadHover from "../../public/download-hover.svg";
 
 const NavBar = () => {

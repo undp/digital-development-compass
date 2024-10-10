@@ -16,7 +16,7 @@ import Image from "next/image";
 import Script from "next/script";
 import YouTube from "react-youtube";
 import chevronRight from "../public/chevron-right.svg";
-import arrowBase from "../public/arrow-base.svg";
+//import arrowBase from "../public/arrow-base.svg";
 import githubScreenshot from "../public/github.png";
 
 const AboutScrollytelling = dynamic(

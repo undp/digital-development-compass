@@ -13,7 +13,7 @@ interface MobileMenuProps {
 }
 
 export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
-  const [activeLink, setActiveLink] = useState<string | null>(null);
+  // const [activeLink, setActiveLink] = useState<string | null>(null);
   const [isSideViewOpen, setIsSideViewOpen] = useState<boolean>(false);
   const [isHovered, setIsHovered] = useState(false);
 
@@ -47,9 +47,9 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
     };
   }, [isOpen]);
 
-  const handleLinkClick = (link: string) => {
-    setActiveLink(link);
-  };
+  // const handleLinkClick = (link: string) => {
+  //   setActiveLink(link);
+  // };
 
   const openMethodology = () => {
     setIsSideViewOpen(true);
@@ -75,7 +75,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               <Link href="/about">
                 <a
                   className={`uppercase text-base w-full border-white font-bold flex items-center tracking-extra-tight`}
-                  onClick={() => handleLinkClick("/about")}
+                  // onClick={() => handleLinkClick("/about")}
                 >
                   About
                 </a>
@@ -83,7 +83,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               <Link href="/data">
                 <a
                   className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
-                  onClick={() => handleLinkClick("/data")}
+                  // onClick={() => handleLinkClick("/data")}
                 >
                   Data
                 </a>
