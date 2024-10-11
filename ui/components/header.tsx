@@ -84,7 +84,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
-            <div className="pl-[12px] sm:pl-[12px] md:pl-[25px] lg:pl-[25px] w-4"> 
+            <div className="pl-[12px] sm:pl-[12px] md:pl-[24px] lg:pl-[24px] w-4"> 
             <SiteName />
             </div>
           </div>
@@ -124,7 +124,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </a>
               </Link>
             </div>
-            <div className="pl-[25px] w-4">
+            <div className="pl-[24px] w-4">
               <SiteName />
             </div>
           </div>
