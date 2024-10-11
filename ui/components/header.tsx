@@ -140,6 +140,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 Data
               </a>
             </Link>
+            {process.env.SITE_CONFIG === "dev" ? (
             <div
               className="relative"
               onMouseEnter={handleDropdownOpen}
@@ -168,6 +169,13 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </div>
               )}
             </div>
+           ) : (
+              <Link href="/methodology">
+             <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
+              Methodology   
+              </a>
+            </Link>
+            )}
           </div>
           <div className="flex items-center justify-end pr-[64px]">
             <SearchDialog countries={countries} />

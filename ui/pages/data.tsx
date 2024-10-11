@@ -81,12 +81,14 @@ export default function Data(
         width: 100,
         visible: true
       })),
-    ...ancillary.digitalRightPillarName.map((pillar) => ({
-      name: pillar,
-      key: `scores.${pillar}.score`,
-      width: 100,
-      visible: true,
-    })),
+      ...(process.env.SITE_CONFIG === "dev"
+      ? ancillary.digitalRightPillarName.map((pillar) => ({
+          name: pillar,
+          key: `scores.${pillar}.score`,
+          width: 100,
+          visible: true,
+        }))
+      : []),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -269,7 +271,8 @@ export default function Data(
             },
           };
         }),
-      ...ancillary.digitalRightPillarName.map((pillar) => {
+       ...(process.env.SITE_CONFIG === "dev"
+       ? ancillary.digitalRightPillarName.map((pillar) => {
         const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
 
         const bgScale = scaleLinear<string>()
@@ -319,7 +322,8 @@ export default function Data(
             );
           },
         };
-      }),
+        
+      }):[])
     ];
   }, [displaySettings]);
 
@@ -515,11 +519,11 @@ export default function Data(
                     label="country"
                     trigger={
                       countryFilter == "" ? (
-                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  uppercase">
                         COUNTRY NAME
                       </span>
                       ) : (
-                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  uppercase">
                         COUNTRY NAME (1)
                       </span>
                       )
@@ -577,11 +581,11 @@ export default function Data(
                     label="Region"
                     trigger={
                       regionFilter == "*" ? (
-                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  uppercase">
                         REGION
                       </span>
                       ) : (
-                        <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase">
+                        <span className="text-[16px] text-black font-semibold  uppercase">
                         REGION (1)
                       </span>
                       )
@@ -635,11 +639,11 @@ export default function Data(
                   disabled={subregionSelectDisabled}
                   trigger={
                     subregionFilter == "*" ? (
-                      <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase py-[2px]">
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
                       SUB-REGION
                     </span>
                     ) : (
-                      <span className="text-[16px] text-black font-semibold  leading-[1.125rem] uppercase py-[2px]">
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
                       SUB-REGION (1)
                     </span>
                     )
