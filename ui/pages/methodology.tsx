@@ -32,7 +32,7 @@ const NavBar = () => {
         </a>
       </Link>
       <span className="[color:#D12800]">/</span>
-      <Link href="/about">
+      <Link href="/methodology">
         <a className="ml-3 [color:#000000] uppercase">METHODOLOGY</a>
       </Link>
     </nav>
