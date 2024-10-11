@@ -105,7 +105,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                   </div>
                 </a>
               ) : (
-                <Link href="/data">
+                <Link href="/methodology">
                   <a
                     className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
                     // onClick={() => handleLinkClick("/data")}

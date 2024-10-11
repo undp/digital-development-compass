@@ -120,7 +120,7 @@ const SideMenuBarMobile = () => {
           <path
             d="M19 0.999969L10 11L1 0.999969"
             stroke="#EE402D"
-            stroke-width="2"
+            strokeWidth="2"
           />
         </svg>
       </button>
