@@ -75,7 +75,7 @@ export default function Methodology(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
-        <div className="pb-5 pt-[14px] sm:pt-0 md:pt-0 lg:pt-0">
+        <div className="pb-5 pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
           <div
             className="w-full h-[410px] sm:h-[410px] md:h-[410px] lg:h-[410px] md:px-20"
             style={{ backgroundColor: "#F7F7F7" }}
