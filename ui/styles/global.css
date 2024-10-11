@@ -8,6 +8,10 @@ html {
   height: 100%;
 }
 
+p {
+  line-height: 1.4;
+}
+
 #__next {
   @apply flex flex-col h-full;
 }
@@ -43,9 +47,9 @@ html {
 
 .url-styling {
   position: relative; /* Required for positioning of the pseudo-element */
-  display: inline-block; /* Ensures the element only takes as much width as needed */
+  /* display: inline-block; Ensures the element only takes as much width as needed */
   padding-bottom: 1px;
-  border-bottom: 2px solid red; /* Default bottom border */
+  border-bottom: 2px solid #D12800; /* Default bottom border */
 }
 
 .url-styling::after {
@@ -55,7 +59,7 @@ html {
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: red;
+  background-color: #D12800;
   transform: scaleX(0); /* Initially hide the line */
   transform-origin: left; /* Start the animation from the left side */
   transition: transform 0.5s ease-in-out; /* Smooth transition */
@@ -106,6 +110,9 @@ select option[value="placeholder"] {
   }
 }
 
+.tracking-extra-tight {
+  letter-spacing: 0.03em;
+}
 
 .drawer {
   box-shadow: 0 0 0 1px rgba(107, 144, 192, 0.15),
@@ -223,6 +230,10 @@ select option[value="placeholder"] {
   }
 }
 
+.digital-right-bg-color {
+  background-color: #d1d6d9;
+}
+
 .cookie-bg-color {
   background-color: #0063ac;
 }
@@ -232,17 +243,33 @@ select option[value="placeholder"] {
 }
 
 .hero-title-size {
-  font-size: 55px;
-  line-height: 4rem;
+  font-size: 36px;
+  line-height: 40.95px;
 }
 
+.disclaimer-title-size {
+  font-size: 55px;
+  line-height: 59.95px;
+}
+
+.disclaimer-mobile-title-size {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+.mobile-title-font-size {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+
 .button-bg-color {
-  background-color: #3288ce;
+  background-color: #4F95DD;
 }
 
 .heading-title-size {
-  font-size: 45px;
-  line-height: 3rem;
+  font-size: 55px;
+  line-height: 59.95px;
 }
 
 .hero-content-text-size {
@@ -257,8 +284,14 @@ select option[value="placeholder"] {
 
 .filter-badge-bg-color {
   background-color: #f7f7f7;
-  padding: 10px;
-  border-radius: 8rem;
+  padding: 4px 16px 4px 16px;
+  border-radius: 20px;
+}
+
+.filter-main-badge-bg-color {
+  background-color: #D1D5DB;
+  padding: 4px 16px 4px 16px;
+  border-radius: 12px;
 }
 
 .filter-badge-bg-color:hover {
@@ -267,7 +300,9 @@ select option[value="placeholder"] {
 
 .placeholder-bold-text::placeholder {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
 }
 
 .custom-data-table-style {
@@ -291,7 +326,7 @@ select option[value="placeholder"] {
 }
 
 .MobileMenuSideMenu {
-  background-color: #f0f3f6;
+  background-color: rgba(247, 247, 247);
 }
 
 @media (max-width: 770px) {
@@ -325,7 +360,7 @@ select option[value="placeholder"] {
 }
 
 .custom-mobile-bg-color {
-  background-color: #d9e7f0eb;
+  background-color: rgba(247, 247, 247);
 }
 
 .custom-mobile-menu {
@@ -346,6 +381,33 @@ select option[value="placeholder"] {
 .custom-side-view-close {
   /* Custom slide-out animation from right to left */
   animation: slide-out-left 0.6s ease-in-out forwards;
+}
+
+.mobile-sub-title{
+  padding-top: 48px;
+  padding-bottom: 16px;
+}
+
+.mobile-main-title-bottom {
+  padding-bottom: 12px;
+}
+
+.mobile-sub-title-bottom {
+  padding-bottom: 12px;
+}
+
+
+.web-main-title-bottom {
+  padding-bottom: 32px;
+}
+
+.web-sub-title {
+  padding-top: 0px;
+  padding-bottom: 32px;
+}
+
+.web-sub-title-bottom {
+  padding-bottom: 32px;
 }
 
 @keyframes slide-in-left {
@@ -376,8 +438,21 @@ select option[value="placeholder"] {
 
 @media (max-width: 640px) {
   .heading-mobile-title-size {
+    font-size: 40px;
+    line-height: 3rem;
+  }
+
+  .mobile-main-title {
+    padding-top: 72px;
+    padding-bottom: 44px;
+  }
+}
+
+@media (max-width: 480px) {
+  .heading-mobile-title-size {
     font-size: 30px;
     line-height: 3rem;
+    letter-spacing: 2px;
   }
 }
 
@@ -388,27 +463,58 @@ select option[value="placeholder"] {
     padding-left: 50px;
     padding-top: 13rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+    top: 26px;
   }
   .viewMenu {
     display: none;
   }
-}
 
-@media (min-width: 1301px) and (max-width: 1450px) {
-  .sideLink {
-    width: 200px;
-    padding-left: 25px;
-    padding-top: 24rem /* 208px */;
-    padding-bottom: 13rem /* 208px */;
+  .web-main-title{
+    padding-top: 48px;
+    padding-bottom: 16px;
+  }
+
+  .download-section-position {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .disclaimer-position {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
   }
 }
 
-@media (min-width: 1451px) and (max-width: 1500px) {
+@media (min-width: 1301px) and (max-width: 1449px) {
   .sideLink {
-    width: 200px;
+    width: 300px;
+    padding-left: 25px;
+    padding-top: 24rem /* 208px */;
+    padding-bottom: 13rem /* 208px */;
+    top: 230px;
+  }
+
+  .Screen1450Size {
+    padding-left: 130px;
+   }
+
+  .web-main-title{
+    padding-top: 48px;
+    padding-bottom: 16px;
+  }
+}
+
+@media (min-width: 1450px) and (max-width: 1500px) {
+  .sideLink {
+    width: 300px;
     padding-left: 25px;
     padding-top: 13rem /* 208px */;
     padding-bottom: 13rem /* 208px */;
+    top: 405px;
+  }
+
+  .Screen1450Size {
+   padding-left: -110px;
   }
 }
 
@@ -418,32 +524,39 @@ select option[value="placeholder"] {
     padding-left: 25px;
     padding-top: 22rem;
     padding-bottom: 13rem;
+    top: 260px;
   }
 }
 
-@media (min-width: 1700px) {
+@media (min-width: 1701px) {
   .sideLink {
-    width: 24%;
-    padding-left: 25px;
+    width: 20%;
+    padding-left: 20px;
     padding-top: 22rem;
     padding-bottom: 13rem;
+    top: 260px;
   }
 }
 
 
 @media (max-width: 990px) {
   .disclaimer-text-position {
-    text-align: center;
-    padding-left : 0pm
+    text-align: left;
+    padding-left : 0px
+  }
+
+  text-alignment {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 }
 
-@media (min-width: 990px) {
+/* @media (min-width: 990px) {
   .disclaimer-text-position {
     text-align: left;
     padding-left: 6rem
   }
-}
+} */
 
 @media (max-width: 1300px) {
   .sideMenuBarMobile {
@@ -481,11 +594,11 @@ select option[value="placeholder"] {
 
 
 .header-scrolled {
-  width: 3rem;
+  width: 57px;
 }
 
 .header-scrolled-mobile {
-  width: 3rem;
-  top: 4px;
+  height: 82px;
+  /* top: 4px; */
 }
 

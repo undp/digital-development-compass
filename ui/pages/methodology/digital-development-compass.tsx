@@ -4,11 +4,11 @@ import { InferGetStaticPropsType } from "next";
 import Image from "next/image";
 import Script from "next/script";
 import { isMemberState } from "lib";
-import githubUNDPdiagram from "../public/undp-diagram.png";
-import overviewofTDTF from "../public/OverviewofTDTF.png";
-import fiveStage from "../public/fiveStage.png";
-import transformation from "../public/transformation.png";
-import MinMaxScale from "../public/MinMaxScale.png";
+import githubUNDPdiagram from "../../public/undp-diagram.png";
+import overviewofTDTF from "../../public/OverviewofTDTF.png";
+import fiveStage from "../../public/fiveStage.png";
+import transformation from "../../public/transformation.png";
+import MinMaxScale from "../../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React, { useState } from "react";
@@ -18,10 +18,10 @@ import {
   dimensionsTable,
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
-import chevronRight from "../public/chevron-right.svg";
-import downloadDefault from "../public/download-default.svg";
+import chevronRight from "../../public/chevron-right.svg";
+import downloadDefault from "../../public/download-default.svg";
 //import arrowBase from "../../public/arrow-base.svg";
-import downloadHover from "../public/download-hover.svg";
+import downloadHover from "../../public/download-hover.svg";
 
 const NavBar = () => {
   return (
@@ -43,7 +43,7 @@ const NavBar = () => {
   );
 };
 
-export default function Methodology(
+export default function DIGITAL_DEVELOPMENT_COMPASS(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const { countries } = props;
@@ -95,7 +95,9 @@ export default function Methodology(
                       wordWrap: "break-word",
                     }}
                   >
-                   METHODOLOGY
+                    DIGITAL DEVELOPMENT
+                    <br />
+                    COMPASS
                   </h2>
                 </div>
               </div>

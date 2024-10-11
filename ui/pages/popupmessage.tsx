@@ -65,7 +65,7 @@ const PopupMessage = () => {
 
   return (
     <div
-      className={`fixed z-50 top-20 right-3 sm:right-0 sm:top-25 mt-4 mr-4 ${
+      className={`fixed z-50 top-[100px] right-3 sm:right-0 sm:top-25 mt-4 mr-4 ${
         isOpen ? "" : "hidden"
       }`}
       aria-labelledby="modal-title"

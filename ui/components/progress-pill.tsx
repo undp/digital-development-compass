@@ -26,7 +26,7 @@ export function ProgressPill(props: ProgressPillProps) {
           }}
         ></div>
       </div>
-      <span className="text-xs font-mono ml-1 relative top-px text-black">
+      <span className="ml-1 relative top-px text-black text-base font-normal leading-[137.5%] tracking-normal font-sans">
         {label}
       </span>
     </div>

@@ -46,18 +46,26 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           onChange={setPillar}
           label="Pillar"
           trigger={
-            <span
-              className="text-xs text-black font-medium uppercase tracking-widest py-[2px] px-[2px]"
+            pillar == "Overall" ? (
+              <span
+              className=" text-black font-semibold uppercase text-base"
             >
               PILLAR
             </span>
+            ) : (
+              <span
+              className="text-black font-semibold uppercase text-base"
+            >
+              PILLAR (1)
+            </span>
+            )
           }
           itemRenderer={(option) => {
             let asPillar = option as Pillar;
             return (
               <div className="py-1">
                 <span
-                  className="text-xs font-medium uppercase tracking-widest py-[2px] "
+                  className="text-[16px] font-normal"
                 >
                   {asPillar}
                 </span>

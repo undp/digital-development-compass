@@ -18,7 +18,7 @@ const CookieConsent = () => {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed inset-x-0 bottom-0 cookie-bg-color text-white p-4 flex flex-col md:flex-row justify-between items-center">
+    <div className="fixed inset-x-0 bottom-0 cookie-bg-color text-white p-4 flex flex-col md:flex-row justify-between items-center z-50">
       <div className="max-w-full md:max-w-[calc(100%-250px)] space-y-4 md:space-y-0">
         <p>
           We use cookies on our website to give you the most relevant experience
