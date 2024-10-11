@@ -180,7 +180,7 @@ export default function About(
 
   return (
     <Layout title="About" countries={countries}>
-      <div className="sideMenuBarMobile flex items-center pt-3 sm:pt-3 md:py-0 justify-center">
+      <div className="sideMenuBarMobile flex items-center pt-3 sm:pt-3 md:py-3 justify-center">
         <SideMenuBarMobile />
       </div>
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6 ">
