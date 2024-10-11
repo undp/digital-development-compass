@@ -12,18 +12,18 @@ export default function disclaimer(
 
   return (
     <Layout title="Disclaimer" countries={countries}>
-      <div className="py-16">
-        <div className="container px-4 mx-auto">
-          <div className="text-lg text-center sm:text-center items-center disclaimer-text-position">
-            <div className="max-w-[40em] py-10 text-lg items-center">
-              <h2 className="hero-title-size font-bold mt-7 mb-3 hero-content-text-color">
+      <div className="pb-[70px] mx-0 sm:mx-3 md:mx-0 lg:mx-0 disclaimer-position">
+        <div className="max-w-[1050px] mx-auto">
+          <div className="text-left">
+            <div>
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[50px] font-bold pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]  hero-content-text-color">
                 Disclaimer
               </h2>
             </div>
           </div>
-          <div className="text-lg flex flex-col items-center">
-            <div className="max-w-[40em] text-xl space-y-9 text-justify">
-              <p>
+          <div className="flex flex-col items-center font-normal text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4]">
+            <div className="text-left">
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The Digital Development Compass, maintained by the United
                 Nations Development Programme (UNDP), aggregates publicly
                 available data on digital development. However, UNDP does not
@@ -32,7 +32,7 @@ export default function disclaimer(
                 Development Compass should not be considered as verified or
                 endorsed by UNDP.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 It is important to note that the Digital Development Compass
                 should not be utilized as a statistical tool. Due to the
                 aforementioned lack of verification and endorsement, relying
@@ -40,7 +40,7 @@ export default function disclaimer(
                 for statistical analysis or decision-making purposes is strongly
                 discouraged.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 UNDP emphasizes that decisions should not be made solely based
                 on the statistical accuracy of the data presented on the Digital
                 Development Compass. Any decisions made, actions taken, or

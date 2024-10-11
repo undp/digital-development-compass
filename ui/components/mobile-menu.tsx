@@ -2,7 +2,7 @@ import * as Dialog from "@radix-ui/react-dialog";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import Image from "next/image";
-//import chevronRight from "../public/chevron-right.svg";
+import chevronRight from "../public/chevron-right.svg";
 import arrowLeft from "../public/arrow-left.svg";
 
 // Define the interface for the props
@@ -13,8 +13,9 @@ interface MobileMenuProps {
 }
 
 export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
-  const [activeLink, setActiveLink] = useState<string | null>(null);
+  // const [activeLink, setActiveLink] = useState<string | null>(null);
   const [isSideViewOpen, setIsSideViewOpen] = useState<boolean>(false);
+  const [isHovered, setIsHovered] = useState(false);
 
   useEffect(() => {
     const handleResize = () => {
@@ -46,13 +47,13 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
     };
   }, [isOpen]);
 
-  const handleLinkClick = (link: string) => {
-    setActiveLink(link);
-  };
-
-  // const openMethodology = () => {
-  //   setIsSideViewOpen(true);
+  // const handleLinkClick = (link: string) => {
+  //   setActiveLink(link);
   // };
+
+  const openMethodology = () => {
+    setIsSideViewOpen(true);
+  };
 
   const closeSideView = () => {
     setIsSideViewOpen(false);
@@ -62,64 +63,46 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
     <Dialog.Root open={isOpen} onOpenChange={onClose}>
       <Dialog.Portal>
         <Dialog.Content
-          className={`fixed top-20 left-0 h-full w-full custom-mobile-bg-color bg-opacity-90 z-50 space-y-4 shadow-lg transform transition-transform duration-300 translate-x-0 ${
+          className={`fixed top-24 left-0 h-full w-full custom-mobile-bg-color z-50 space-y-4 shadow-lg transform transition-transform duration-300 translate-x-0 ${
             isOpen ? "custom-mobile-menu" : "custom-mobile-close-menu"
           }`}
-          style={{ top: "6rem" }}
+          style={{ top: "75px" }}
         >
           {isSideViewOpen ? (
             <MobileMenuSideView onClose={closeSideView} />
           ) : (
-            <nav className="flex flex-col w-full justify-center">
+            <nav className="flex flex-col w-full justify-center space-y-9 pt-[90px] px-6 ">
               <Link href="/about">
                 <a
-                  className={`uppercase text-lg w-full border-b p-6 h-20 border-white flex items-center ${
-                    activeLink === "/about"
-                      ? "footer-background-color text-white"
-                      : ""
-                  }`}
-                  onClick={() => handleLinkClick("/about")}
+                  className={`uppercase text-base w-full border-white font-bold flex items-center tracking-extra-tight`}
+                  // onClick={() => handleLinkClick("/about")}
                 >
                   About
                 </a>
               </Link>
               <Link href="/data">
                 <a
-                  className={`uppercase text-lg w-full border-b h-20 border-white flex items-center p-6 ${
-                    activeLink === "/data"
-                      ? "footer-background-color text-white"
-                      : ""
-                  }`}
-                  onClick={() => handleLinkClick("/data")}
+                  className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
+                  // onClick={() => handleLinkClick("/data")}
                 >
                   Data
                 </a>
               </Link>
-              <Link href="/methodology">
-                <a
-                  className={`uppercase text-lg w-full border-b h-20 border-white flex items-center p-6 ${
-                    activeLink === "/data"
-                      ? "footer-background-color text-white"
-                      : ""
-                  }`}
-                  onClick={() => handleLinkClick("/methodology")}
-                >
-                  Methodology   
-                </a>
-              </Link>
-              {/* <a
-                className={`uppercase text-lg w-full border-b h-20 border-white flex items-center justify-between p-6 ${
-                  activeLink === "/methodology"
-                    ? "footer-background-color text-white"
-                    : ""
-                }`}
+              <a
+                className={`uppercase text-base w-full flex items-center font-bold tracking-extra-tight`}
+                onMouseEnter={() => setIsHovered(true)}
+                onMouseLeave={() => setIsHovered(false)}
                 onClick={openMethodology}
               >
                 Methodology
-                <div className="flex-shrink-0 sm:mt-1">
+                <div
+                  className={`sm:mt-1 w-full ml-0 pt-[2px] duration-[150ms] ease-linear transform pl-3 ${
+                    isHovered ? "translate-x-2" : "translate-x-0"
+                  }`}
+                >
                   <Image src={chevronRight} alt="chevronRight" />
                 </div>
-              </a> */}
+              </a>
             </nav>
           )}
         </Dialog.Content>
@@ -142,23 +125,23 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
 
   return (
     <div
-      className={`fixed left-0 h-full w-full MobileMenuSideMenu bg-opacity-90 z-50 space-y-4 shadow-lg transform transition-transform duration-300 ${
+      className={`fixed left-0 h-full w-full MobileMenuSideMenu bg-opacity-90 z-50 shadow-lg transform transition-transform duration-300 px-6 ${
         isVisible ? "custom-side-view" : "custom-side-view-close"
       }`}
     >
       <div
-        className="p-4 pl-5 flex items-center cursor-pointer"
+        className="flex items-center cursor-pointer pt-[33px]"
         onClick={handleClose}
       >
         <Image src={arrowLeft} alt="arrowLeft" className="mr-2" />
-        <span className="text-lg ml-2">Back</span>
+        <span className="text-sm ml-[7px] uppercase">Back</span>
       </div>
-      <div className="p-4 pt-0 pl-5">
-        <h2 className="text-xl font-semibold mb-4 uppercase">Digital Guides</h2>
-        <ul className="space-y-4">
+      <div className="pt-0">
+        <h2 className="text-base pb-9 pt-[41px] tracking-extra-tight font-bold uppercase">Digital Guides</h2>
+        <ul className="space-y-6">
           <Link href="/methodology/digital-development-compass">
             <a
-              className={`uppercase text-base w-full border-b p-6 h-10 border-white flex items-center
+              className={`text-base w-full flex items-center
                   }`}
             >
               Digital Development Compass
@@ -166,7 +149,7 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
           </Link>
           <Link href="/methodology/digital-rights-dashboard">
             <a
-              className={`uppercase text-base w-full border-b h-10 border-white flex items-center p-6 `}
+              className={`text-base w-full flex items-center`}
             >
               Digital Rights Dashboard
             </a>

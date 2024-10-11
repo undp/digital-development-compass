@@ -66,7 +66,7 @@ export function PillarRadioGroup(props: PillarRadioGroupProps) {
 
   return (
     <fieldset>
-      <h6 className="text-base leading-tight tracking-widest font-bold text-gray-800 block">
+      <h6 className="text-[16px] [line-height:18px] tracking-normal font-bold text-[#333333] block uppercase pb-3">
         Filter by pillar
       </h6>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-2">

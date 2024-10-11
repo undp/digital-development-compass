@@ -11,6 +11,9 @@ import { isMemberState } from "lib";
 import { GetStaticPaths, GetStaticProps } from "next";
 import Error from "next/error";
 import Link from "next/link";
+import DigitalRightScoreRing from "components/digital-right-score-ring";
+import { DigitalRightsPillars } from "components/digitalRightPillar";
+import { RiArrowRightDownLine } from "react-icons/ri";
 
 type Props = {
   layoutCountries: {
@@ -32,13 +35,13 @@ type Props = {
 const NavBar = ({ country }: any) => {
   const countryUrl = `/country/${country["ISO-alpha3 Code"]}`;
   return (
-    <nav className="flex items-center justify-start p-4 text-base sm:text-sm md:text-base">
+    <nav className="flex items-center justify-start p-4 text-[11.44px] [line-height:12.87px] font-bold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-4 text-gray-800 hover:text-red-500 uppercase">Home</a>
+        <a className="mr-4 [color:#000000] hover:text-red-500 uppercase">Home</a>
       </Link>
-      <span className="text-red-500">/</span>
+      <span className="[color:#D12800]">/</span>
       <Link href={countryUrl}>
-        <a className="ml-4 w-44 text-red-500 text-left uppercase">
+        <a className="ml-4 w-44 [color:#D12800] text-left uppercase">
           {country["Country or Area"]}
         </a>
       </Link>
@@ -60,20 +63,22 @@ const StaticPropsDetail = ({
   if (statusCode) {
     return <Error statusCode={statusCode} />;
   }
-  // const handleScroll = (e: any) => {
-  //   e.preventDefault(); // Prevent default anchor link behavior
-  //   const targetId = e.currentTarget.getAttribute("href").slice(1); // Extract the target ID from the href attribute
-  //   const targetElement = document.getElementById(targetId);
+  const handleScroll = (e: any) => {
+    e.preventDefault(); // Prevent default anchor link behavior
+    const targetId = e.currentTarget.getAttribute("href").slice(1); // Extract the target ID from the href attribute
+    const targetElement = document.getElementById(targetId);
 
-  //   if (targetElement) {
-  //     targetElement.scrollIntoView({ behavior: "smooth" });
-  //   }
-  // };
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: "smooth" });
+    }
+  };
   return (
     <Layout countries={layoutCountries} title={country["Country or Area"]}>
       <section className="pt-8 border-b pb-3" id="country-meta">
-        <div className="container px-4 mx-auto text-center">
+        <div className=" sm:px-4 sm:mx-auto sm:text-center md:pl-[115px]">
         <NavBar country={country} />
+        </div>
+        <div className="container px-4 mx-auto text-center">
           <div className="mb-10 text-center">
             <div className="mb-2">
               <span
@@ -83,7 +88,9 @@ const StaticPropsDetail = ({
               ></span>
             </div>
             <div>
-              <h1 className="text-4xl lg:text-5xl font-medium tracking-tight leading-0" style={{ fontFamily: "SohneBreitFont, sans-serif" }}>
+              <h1 className="text-4xl lg:text-5xl font-medium tracking-tight leading-0"
+              style={{ fontFamily: "SohneBreitFont, sans-serif" }}
+              >
                 {country["Country or Area"]}
               </h1>
               <p className="text-gray-600 text-sm mt-1">
@@ -93,7 +100,7 @@ const StaticPropsDetail = ({
           </div>
           <ScoreRing pillars={ancillary.pillars} country={country} type={'data'} />
         </div>
-        {/* <div className="hidden md:block lg:block relative">
+        <div className="hidden md:block lg:block relative">
           {country.digitalRightDataAvailable ? (
             <div className="absolute bottom-0 right-20 ">
               <a
@@ -109,9 +116,9 @@ const StaticPropsDetail = ({
           ) : (
             ""
           )}
-        </div> */}
+        </div>
       </section>
-      {/* <div className="relative flex items-center justify-center md:hidden lg:hidden">
+      <div className="relative flex items-center justify-center md:hidden lg:hidden">
         {country.digitalRightDataAvailable && (
           <div className="text-center">
             <a
@@ -124,7 +131,7 @@ const StaticPropsDetail = ({
             </a>
           </div>
         )}
-      </div> */}
+      </div>
       <section id="pillars-dr" className="my-16 relative">
         {/* Web */}
         <div className="hidden md:block lg:block mx-auto max-w-[90rem] px-6 sticky top-0 z-10">
@@ -225,7 +232,7 @@ const StaticPropsDetail = ({
           </div>
         </div>
         {/* digital right dashboard section */}
-        {/* {country.digitalRightDataAvailable ? (
+        {country.digitalRightDataAvailable ? (
           <section
             className="pt-20 border-b pb-8"
             style={{ backgroundColor: "#EDEFF0" }}
@@ -258,7 +265,7 @@ const StaticPropsDetail = ({
           </section>
         ) : (
           ""
-        )} */}
+        )}
       </section>
       {/* Hiding Comparision */}
       {/* <section className="mx-auto max-w-6xl px-8 my-16">

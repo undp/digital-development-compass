@@ -177,7 +177,7 @@ export function SearchDialog(props: SearchDialogProps) {
     <>
       <button
         onClick={() => setOpen(true)}
-        className={`header-nav-bg-color font-semibold hover:header-nav-bg-color hover:text-white px-4 ${props.isOpen ? 'py-5' : 'py-4'} text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center`}
+        className={`header-nav-bg-color font-semibold hover:header-nav-bg-color hover:text-white ${props.isOpen ? 'py-5' : 'py-4'} text-xs uppercase tracking-wide text-brand-blue-dark flex-shrink-0 flex items-center`}
         >
         <Image src={SearchIcon} alt="SearchIcon" className="text-base mr-1" />
       </button>
