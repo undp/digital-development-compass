@@ -25,19 +25,15 @@ import downloadHover from "../public/download-hover.svg";
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[12px]">
+    <nav className="flex items-center justify-start p-4 text-[12px] [line-height:13.5px] font-semibold sm:text-sm md:text-[11.44px]">
       <Link href="/">
-        <a className="mr-3 [color:#D12800] uppercase hover:[color:#ee402d]">
+        <a className="mr-3 [color:#D12800] hover:[color:#ee402d] uppercase">
           Home
         </a>
       </Link>
-      <span className="[color:#D12800] mr-3 ">/</span>
-      <span className="[color:#D12800] mr-3 hover:[color:#ee402d]">
-        METHODOLOGY
-      </span>
       <span className="[color:#D12800]">/</span>
-      <Link href="/methodology/digital-development-compass">
-        <a className="ml-3 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
+      <Link href="/about">
+        <a className="ml-3 [color:#000000] uppercase">METHODOLOGY</a>
       </Link>
     </nav>
   );
@@ -79,23 +75,24 @@ export default function Methodology(
   return (
     <Layout title="Methodology" countries={countries}>
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
-        <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
+        <div className="pb-5 pt-[14px] sm:pt-0 md:pt-0 lg:pt-0">
           <div
-            className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9"
+            className="w-full h-[410px] sm:h-[410px] md:h-[410px] lg:h-[410px] md:px-20"
             style={{ backgroundColor: "#F7F7F7" }}
           >
-            <div className="md:px-14 md:mx-auto">
-              <div className="md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
+            <div className="md:mx-auto">
+              <div className="md:px-4 md:mx-auto pt-0 sm:pt-0 md:pt-[80px]">
                 <NavBar />
-                <div className="max-w-[400em] py-5 sm:py-10 text-start sm:text-left md:text-left pl-3 pt-[80px]">
+                {/* pt-[125px] sm:pt-[125px] md:pt-[80px] lg:pt-[80px] */}
+                <div className="max-w-[40em] py-5 sm:py-0 text-start sm:text-left sm:px-4 md:text-left md:pl-3 pt-[125px] sm:pt-[125px] md:pt-[40px] lg:pt-[40px]">
                   <h2
-                    className="heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
+                    className=" items-center heading-mobile-title-size sm:heading-mobile-title-size md:heading-title-size lg:heading-title-size font-bold mt-0 md:mt-6 uppercase mb-3 hero-content-text-color"
                     style={{
                       fontFamily: "SohneBreitFont, sans-serif",
-                      wordWrap: "break-word",
+                      letterSpacing: "3px",
                     }}
                   >
-                   METHODOLOGY
+                    METHODOLOGY
                   </h2>
                 </div>
               </div>
