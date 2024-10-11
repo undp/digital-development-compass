@@ -88,21 +88,32 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                   Data
                 </a>
               </Link>
-              <a
-                className={`uppercase text-base w-full flex items-center font-bold tracking-extra-tight`}
-                onMouseEnter={() => setIsHovered(true)}
-                onMouseLeave={() => setIsHovered(false)}
-                onClick={openMethodology}
-              >
-                Methodology
-                <div
-                  className={`sm:mt-1 w-full ml-0 pt-[2px] duration-[150ms] ease-linear transform pl-3 ${
-                    isHovered ? "translate-x-2" : "translate-x-0"
-                  }`}
+              {process.env.SITE_CONFIG === "dev" ? (
+                <a
+                  className={`uppercase text-base w-full flex items-center font-bold tracking-extra-tight`}
+                  onMouseEnter={() => setIsHovered(true)}
+                  onMouseLeave={() => setIsHovered(false)}
+                  onClick={openMethodology}
                 >
-                  <Image src={chevronRight} alt="chevronRight" />
-                </div>
-              </a>
+                  Methodology
+                  <div
+                    className={`sm:mt-1 w-full ml-0 pt-[2px] duration-[150ms] ease-linear transform pl-3 ${
+                      isHovered ? "translate-x-2" : "translate-x-0"
+                    }`}
+                  >
+                    <Image src={chevronRight} alt="chevronRight" />
+                  </div>
+                </a>
+              ) : (
+                <Link href="/data">
+                  <a
+                    className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
+                    // onClick={() => handleLinkClick("/data")}
+                  >
+                    Methodology
+                  </a>
+                </Link>
+              )}
             </nav>
           )}
         </Dialog.Content>
@@ -137,7 +148,9 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
         <span className="text-sm ml-[7px] uppercase">Back</span>
       </div>
       <div className="pt-0">
-        <h2 className="text-base pb-9 pt-[41px] tracking-extra-tight font-bold uppercase">Digital Guides</h2>
+        <h2 className="text-base pb-9 pt-[41px] tracking-extra-tight font-bold uppercase">
+          Digital Guides
+        </h2>
         <ul className="space-y-6">
           <Link href="/methodology/digital-development-compass">
             <a
@@ -148,9 +161,7 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
             </a>
           </Link>
           <Link href="/methodology/digital-rights-dashboard">
-            <a
-              className={`text-base w-full flex items-center`}
-            >
+            <a className={`text-base w-full flex items-center`}>
               Digital Rights Dashboard
             </a>
           </Link>
