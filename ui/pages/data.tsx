@@ -81,6 +81,14 @@ export default function Data(
         width: 100,
         visible: true
       })),
+      ...(process.env.SITE_CONFIG === "dev"
+      ? ancillary.digitalRightPillarName.map((pillar) => ({
+          name: pillar,
+          key: `scores.${pillar}.score`,
+          width: 100,
+          visible: true,
+        }))
+      : []),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -263,6 +271,59 @@ export default function Data(
             },
           };
         }),
+       ...(process.env.SITE_CONFIG === "dev"
+       ? ancillary.digitalRightPillarName.map((pillar) => {
+        const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
+
+        const bgScale = scaleLinear<string>()
+          .domain([0, 5])
+          .range(["#fff", pillarColor]);
+
+        return {
+          width: 190,
+          key: `scores.${pillar}.score`,
+          name: pillar,
+          cellClass: `p-0`,
+          headerCellClass: "text-right",
+          formatter(props: FormatterProps<(typeof data)[0]>) {
+            // @ts-ignore
+            let score = props.row.digitalRightScores[pillar].score;
+            let confidence;
+            confidence =
+              // @ts-ignore
+              !props.row.digitalRightScores[pillar].confidence
+                ? null
+                : // @ts-ignore
+                  props.row.digitalRightScores[pillar].confidence;
+
+            return (
+              <div className="relative px-2 h-full group z-0">
+                <div
+                  className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
+                  style={{
+                    backgroundColor: displaySettings.showHeatmap
+                      ? bgScale(score || 0)
+                      : "transparent",
+                  }}
+                ></div>
+                <div className="flex h-full items-center justify-between z-10">
+                  {!!confidence && displaySettings.showConfidence && (
+                    <ProgressPill
+                      bar="white"
+                      background={pillarColor}
+                      border={pillarColor}
+                      value={confidence}
+                      label={`${Math.ceil(confidence)}%`}
+                    />
+                  )}
+                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
+                </div>
+              </div>
+            );
+          },
+        };
+        
+      }):[])
     ];
   }, [displaySettings]);
 
@@ -304,29 +365,10 @@ export default function Data(
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  // const economyScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Economy"].score || 0);
-  // }, [data]);
-
-  // const dpinfrastructureScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Digital Public Infrastructure"].score || 0);
-  // }, [data]);
-
-  // const governmentScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Government"].score || 0);
-  // }, [data]);
-
-  // const connectivityScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  // }, [data]);
-
-  // const peopleScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["People"].score || 0);
-  // }, [data]);
-
-  // const regulationScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Regulation"].score || 0);
-  // }, [data]);
+  const countries = useMemo(() => {
+    return uniq(data.map((c) => c.name
+  ).filter(Boolean));
+  }, []);
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -376,7 +418,7 @@ export default function Data(
 
   const appliedFilters = useMemo(() => {
     return [
-      countryFilter.length > 0
+      countryFilter  !== "*"
         ? {
             label: "Country",
             value: countryFilter,
@@ -450,7 +492,7 @@ export default function Data(
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
-        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
+        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto pt-[40px]">
           <div className="p-6">
             <div className="space-y-6">
               <div>
@@ -460,14 +502,70 @@ export default function Data(
                 >
                   Country Name
                 </label> */}
-                <input
+                {/* <input
                   id="country"
-                  className="form-input text-sm placeholder-black placeholder-bold shadow-sm border-black border-2 w-full pl-4 placeholder-bold-text"
+                  className="form-input text-sm placeholder-black placeholder-bold border-black border-2 w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
                   placeholder="COUNTRY NAME"
-                />
+                /> */}
+              </div>
+              <div>
+                <div className="relative">
+                  <Select
+                    value={countryFilter}
+                    onChange={setCountryFilter}
+                    label="country"
+                    trigger={
+                      countryFilter == "" ? (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        COUNTRY NAME
+                      </span>
+                      ) : (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        COUNTRY NAME (1)
+                      </span>
+                      )
+               
+                    }
+                    itemRenderer={(option) => {
+                      return (
+                          <span className="text-[16px] font-normal tracking-widest">
+                            {option}
+                          </span>
+                      );
+                    }}
+                    // @ts-ignore
+                    options={countries}
+                  ></Select>
+                  <OverflowList
+                    items={appliedFilters}
+                    className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                    itemRenderer={(item) => {
+                      if (item.label == "Country" && item.value !="") {
+                        return (
+                          <div className="flex-shrink-0" key={item.label}>
+                            <SideMenuFilterBadge
+                              value={item.value}
+                              onClick={item.onReset}
+                              label={item.label}
+                            />
+                          </div>
+                        );
+                      }
+                    }}
+                    overflowRenderer={(items) => {
+                      return (
+                        <div>
+                          <span className="text-sm text-gray-600">
+                            + {items.length} more
+                          </span>
+                        </div>
+                      );
+                    }}
+                  />
+                </div>
               </div>
               <div>
                 {/* <label
@@ -477,47 +575,26 @@ export default function Data(
                   Region
                 </label> */}
                 <div className="relative">
-                  {/* <select
-                    id="region"
-                    name="region"
-                    className="form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm appearance-none bg-no-repeat bg-right"
-                    onChange={(e) => setRegionFilter(e.target.value)}
-                    value={regionFilter}
-                    style={{
-                      backgroundImage: `url(${chevronDown.src})`,
-                      backgroundSize: "12px",
-                      backgroundPosition: "right 0.5rem center",
-                      backgroundRepeat: "no-repeat",
-                    }}
-                  >
-                    <option className="text-gray-400" value="*" hidden>
-                      REGION
-                    </option>
-
-                    <option value="*">All</option>
-                    {regions.map((region) => (
-                      <option
-                        className="uppercase hover-option"
-                        key={region}
-                        value={region}
-                      >
-                        {region}
-                      </option>
-                    ))}
-                  </select> */}
                   <Select
                     value={regionFilter}
                     onChange={setRegionFilter}
                     label="Region"
                     trigger={
-                      <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
+                      regionFilter == "*" ? (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
                         REGION
                       </span>
+                      ) : (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        REGION (1)
+                      </span>
+                      )
+               
                     }
                     itemRenderer={(option) => {
                       return (
-                        <div className="py-1">
-                          <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                        <div>
+                          <span className="text-[16px] font-normal tracking-widest">
                             {option}
                           </span>
                         </div>
@@ -555,62 +632,27 @@ export default function Data(
                 </div>
               </div>
               <div>
-                {/* <label
-                  className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
-                  htmlFor="country"
-                >
-                  Sub-region
-                </label> */}
-                {/* <select
-                  id="region"
-                  name="region"
-                  disabled={subregionSelectDisabled}
-                  className={cc([
-                    `form-select block w-full pl-3 pr-10 py-2 text-base border-black border-2 focus:outline-none sm:text-sm`,
-                    {
-                      "opacity-50 cursor-not-allowed": subregionSelectDisabled,
-                    },
-                  ])}
-                  style={{
-                    backgroundImage: `url(${chevronDown.src})`, // Set the SVG as the background image
-                    backgroundSize: "12px", // Size of the SVG icon
-                    backgroundPosition: "right 0.5rem center", // Position the SVG icon
-                    backgroundRepeat: "no-repeat", // Prevent the SVG from repeating
-                  }}
-                  onChange={(e) => setSubregionFilter(e.target.value)}
-                  value={subregionFilter}
-                >
-                  {subregionSelectDisabled ? (
-                    <option value="#">SUB-REGION</option>
-                  ) : (
-                    <option value="*">All</option>
-                  )}
-
-                  {subRegions.map((region) => {
-                    return (
-                      <option className="uppercase" key={region} value={region}>
-                        {region}
-                      </option>
-                    );
-                  })}
-                </select> */}
                 <Select
                   value={subregionFilter}
                   onChange={setSubregionFilter}
                   label="Region"
                   disabled={subregionSelectDisabled}
                   trigger={
-                    <span className="text-bold text-black font-bold uppercase tracking-widest py-[2px]">
+                    subregionFilter == "*" ? (
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
                       SUB-REGION
                     </span>
+                    ) : (
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
+                      SUB-REGION (1)
+                    </span>
+                    )
                   }
                   itemRenderer={(option) => {
                     return (
-                      <div className="py-1">
-                        <span className="text-xs font-medium uppercase tracking-widest py-[2px] ">
+                        <span className="text-[16px] font-normal">
                           {option}
                         </span>
-                      </div>
                     );
                   }}
                   // @ts-ignore
@@ -644,14 +686,13 @@ export default function Data(
                 />
               </div>
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
-              {createHistogramInputs()}
+                {createHistogramInputs()}
               </div>
-
             </div>
           </div>
         </aside>
         <div className="md:flex-1 md:flex md:flex-col overflow-auto">
-          <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
+          <div className="h-16 px-3 sm:px-3 md:px-4 lg:px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
                 <p className="text-sm text-gray-600">
@@ -662,7 +703,6 @@ export default function Data(
                   of{" "}
                   <span className="font-medium">{data.length} countries</span>
                 </p>
-                
               </div>
               {/* <div className="flex-shrink-0">
                 <OverflowList
@@ -690,7 +730,6 @@ export default function Data(
                   }}
                 />
               </div> */}
-
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
@@ -698,13 +737,14 @@ export default function Data(
                   displaySettings={displaySettings}
                   onDisplaySettingsChange={setDisplaySettings}
                 />
-              </div>&nbsp;
+              </div>
+              &nbsp;
               <Link href="/disclaimer">
-                  <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
+                <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
                   Disclaimer
-                  </a>
+                </a>
               </Link>
-             </div>
+            </div>
           </div>
           <div
             className="hidden md:block flex-1 flex-col z-0" // Set to a positive value or 0 if no overlap is needed
@@ -722,22 +762,22 @@ export default function Data(
               rowKeyGetter={(row) => row.name}
               components={{ noRowsFallback: <NoRows /> }}
             />
-          </div>        
+          </div>
         </div>
         <div className="md:hidden h-full border-none rdg-light mb-5 data-table">
           <DataGrid
-          defaultColumnOptions={{
-       sortable: true,
-      resizable: true,
-    }}
-    sortColumns={sortColumns}
-    onSortColumnsChange={setSortColumns}
-    columns={personalizedColumns}
-    rows={sortedAndFiltered}
-    rowKeyGetter={(row) => row.name}
-    components={{ noRowsFallback: <NoRows /> }}
-  />
-       </div>
+            defaultColumnOptions={{
+              sortable: true,
+              resizable: true,
+            }}
+            sortColumns={sortColumns}
+            onSortColumnsChange={setSortColumns}
+            columns={personalizedColumns}
+            rows={sortedAndFiltered}
+            rowKeyGetter={(row) => row.name}
+            components={{ noRowsFallback: <NoRows /> }}
+          />
+        </div>
       </div>
     </Layout>
   );

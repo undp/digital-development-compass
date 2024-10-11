@@ -42,7 +42,7 @@ export function Select<T extends string>(props: SelectProps<T>) {
       onClick={() => setIsOpen(!isOpen)}
     >
       <Listbox.Button
-        className={`focus:ring disabled:cursor-not-allowed disabled:opacity-75 focus:ring-brand-blue relative w-full py-2 pl-4 text-left bg-white border-black border-2 ${isOpen ? 'border-b-0' : ''} cursor-pointer shadow-sm focus:outline-none sm:text-sm`}
+        className={`focus:ring disabled:cursor-not-allowed disabled:opacity-75 focus:ring-brand-blue relative w-full h-[53.3px] pl-4 text-left bg-white border-black font- border-2 ${isOpen ? 'border-b-0' : ''} cursor-pointer shadow-sm focus:outline-none sm:text-sm`}
         onClick={() => setIsOpen(!isOpen)}
       >
         {trigger}
@@ -50,8 +50,8 @@ export function Select<T extends string>(props: SelectProps<T>) {
           <Image
             src={chevronRight}
             alt="Chevron Right"
-            width={12}
-            height={12}
+            width={20}
+            height={13}
             className={`transform transition-transform ${isOpen ? 'rotate-180' : 'rotate-0'}`}
           />
         </span>
@@ -60,8 +60,8 @@ export function Select<T extends string>(props: SelectProps<T>) {
         {options.map((option) => (
           <Listbox.Option
             className={({ active }) =>
-              `cursor-default select-none relative py-2 pl-4 pr-3 flex items-center justify-between border-b border-gray-300 ${
-                active ? 'text-gray-500 bg-gray-50' : 'text-gray-900'
+              `cursor-default select-none relative py-4 pr-3 ml-4 flex justify-between border-b border-b-[#d4d6d8] border-gray-300 ${
+                active ? 'text-black bg-[#fafafa]' : 'text-black'
               }`
             }
             key={option}
@@ -70,18 +70,18 @@ export function Select<T extends string>(props: SelectProps<T>) {
           >
             {({ selected }) => (
               <> 
-                <span className={`block ${selected ? 'font-medium' : 'font-normal'}`}>
+                <span className={`block ${selected ? 'font-normal' : 'font-normal'}`}>
                   {itemRenderer(option)}
                 </span>
-                <span className="flex items-center ml-2">
+                <span className="flex items-center">
                   <span
-                    className={`h-5 w-5 border-2 rounded-sm flex items-center justify-center ${
-                      selected ? 'border-red-600' : 'border-red-600 bg-white'
+                    className={`h-4 w-4 border-2 rounded-sm flex items-center justify-center ${
+                      selected ? 'border-[#d12800]' : 'border-[#d12800] bg-white'
                     }`}
                   >
                     {selected && (
                       <svg
-                        className="w-3 h-3 text-red-600"
+                        className="w-3 h-3 text-[#d12800]"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
