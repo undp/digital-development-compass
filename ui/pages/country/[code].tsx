@@ -101,7 +101,7 @@ const StaticPropsDetail = ({
           <ScoreRing pillars={ancillary.pillars} country={country} type={'data'} />
         </div>
         <div className="hidden md:block lg:block relative">
-          {country.digitalRightDataAvailable ? (
+          {country.digitalRightDataAvailable && process.env.SITE_CONFIG === "dev" ? (
             <div className="absolute bottom-0 right-20 ">
               <a
                 href="#country-meta-dr"
@@ -119,7 +119,7 @@ const StaticPropsDetail = ({
         </div>
       </section>
       <div className="relative flex items-center justify-center md:hidden lg:hidden">
-        {country.digitalRightDataAvailable && (
+        {(country.digitalRightDataAvailable && process.env.SITE_CONFIG === "dev" ) && (
           <div className="text-center">
             <a
               href="#country-meta-dr"
@@ -232,7 +232,7 @@ const StaticPropsDetail = ({
           </div>
         </div>
         {/* digital right dashboard section */}
-        {country.digitalRightDataAvailable ? (
+        {(country.digitalRightDataAvailable && process.env.SITE_CONFIG === "dev" ) ? (
           <section
             className="pt-20 border-b pb-8"
             style={{ backgroundColor: "#EDEFF0" }}

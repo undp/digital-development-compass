@@ -14,8 +14,9 @@ export function SiteName() {
         <Link href="/" passHref>
           <a>
             <h1
-              className="text-base font-semibold sm:[line-height:18.27px] md:[line-height:22.84px] lg:[line-height:22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
+              className="text-base font-semibold sm:leading-[18.27px] md:leading-[18.27px] lg:leading-[22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
               style={{ color: "#000000"}}
+
             >
               Digital Development Compass
             </h1>
@@ -139,6 +140,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 Data
               </a>
             </Link>
+            {process.env.SITE_CONFIG === "dev" ? (
             <div
               className="relative"
               onMouseEnter={handleDropdownOpen}
@@ -167,6 +169,13 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 </div>
               )}
             </div>
+           ) : (
+              <Link href="/methodology">
+             <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
+              Methodology   
+              </a>
+            </Link>
+            )}
           </div>
           <div className="flex items-center justify-end pr-[64px]">
             <SearchDialog countries={countries} />

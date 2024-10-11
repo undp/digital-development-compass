@@ -18,10 +18,10 @@ import {
   dimensionsTable,
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
-import chevronRight from "../public/chevron-right.svg";
-import downloadDefault from "../public/download-default.svg";
+import chevronRight from "../../public/chevron-right.svg";
+import downloadDefault from "../../public/download-default.svg";
 //import arrowBase from "../../public/arrow-base.svg";
-import downloadHover from "../public/download-hover.svg";
+import downloadHover from "../../public/download-hover.svg";
 
 const NavBar = () => {
   return (
@@ -32,8 +32,12 @@ const NavBar = () => {
         </a>
       </Link>
       <span className="[color:#D12800] mr-3 ">/</span>
-      <Link href="/methodology">
-        <a className="ml-3 [color:#000000]">METHODOLOGY</a>
+      <span className="[color:#D12800] mr-3 hover:[color:#ee402d]">
+        METHODOLOGY
+      </span>
+      <span className="[color:#D12800]">/</span>
+      <Link href="/methodology/digital-development-compass">
+        <a className="ml-3 [color:#000000]">DIGITAL DEVELOPMENT COMPASS</a>
       </Link>
     </nav>
   );
@@ -91,7 +95,7 @@ export default function Methodology(
                       wordWrap: "break-word",
                     }}
                   >
-                    METHODOLOGY
+                   METHODOLOGY
                   </h2>
                 </div>
               </div>
