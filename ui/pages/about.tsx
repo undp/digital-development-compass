@@ -436,26 +436,28 @@ export default function About(
             </p> */}
             </div>
             <p>
-              <Link href="/methodology">
-                <a
-                  className="text-[16px] sm:text-[16px] md:text-[18px] md:leading-[18px] font-bold tracking-wider justify-center flex items-center duration-700 uppercase pl-8 md:pl-8 sm:pl-8 lg:pl-8"
-                  onMouseEnter={() => setIsHovered(true)}
-                  onMouseLeave={() => setIsHovered(false)}
-                >
-                  read the methodology
-                  <div
-                    className={`ml-4 flex  space-x-0 duration-[150ms] transform ease-linear ${
-                      isHovered ? "translate-x-0" : "-translate-x-2 ease-in"
-                    }`}
+              <div className="flex justify-center items-center">
+                <Link href="/methodology">
+                  <a
+                    className="text-[16px] sm:text-[16px] md:text-[18px] md:leading-[18px] pl-8 font-bold tracking-wider flex items-center duration-700 uppercase"
+                    onMouseEnter={() => setIsHovered(true)}
+                    onMouseLeave={() => setIsHovered(false)}
                   >
-                    <Image
-                      src={chevronRight}
-                      alt="chevronRight"
-                      className="m-0 p-0"
-                    />
-                  </div>
-                </a>
-              </Link>
+                    read the methodology
+                    <div
+                      className={`ml-4 flex transform duration-[150ms] ease-linear ${
+                        isHovered ? "translate-x-0" : "-translate-x-2"
+                      }`}
+                    >
+                      <Image
+                        src={chevronRight}
+                        alt="chevronRight"
+                        className="m-0 p-0"
+                      />
+                    </div>
+                  </a>
+                </Link>
+              </div>
             </p>
             <div className="justify-center mt-[48px] pb-[46px] flex items-center">
               <button
