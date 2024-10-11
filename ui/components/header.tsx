@@ -14,7 +14,7 @@ export function SiteName() {
         <Link href="/" passHref>
           <a>
             <h1
-              className="text-base font-semibold sm:[line-height:18.27px] md:[line-height:22.84px] lg:[line-height:22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
+              className="text-base font-semibold sm:leading-[18.27px] md:leading-[18.27px] lg:leading-[22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
               style={{ color: "#000000"}}
 
             >

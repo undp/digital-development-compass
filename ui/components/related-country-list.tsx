@@ -48,13 +48,13 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           trigger={
             pillar == "Overall" ? (
               <span
-              className=" text-black font-bold uppercase tracking-widest py-[2px] text-base"
+              className=" text-black font-semibold uppercase leading-[1.125rem] text-base"
             >
               PILLAR
             </span>
             ) : (
               <span
-              className="text-black font-bold uppercase tracking-widest py-[2px] text-base"
+              className="text-black font-semibold uppercase leading-[1.125rem] text-base"
             >
               PILLAR (1)
             </span>

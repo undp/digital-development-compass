@@ -232,7 +232,7 @@ const StaticPropsDetail = ({
           </div>
         </div>
         {/* digital right dashboard section */}
-        {country.digitalRightDataAvailable ? (
+        {(country.digitalRightDataAvailable && process.env.SITE_CONFIG === "dev" ) ? (
           <section
             className="pt-20 border-b pb-8"
             style={{ backgroundColor: "#EDEFF0" }}
