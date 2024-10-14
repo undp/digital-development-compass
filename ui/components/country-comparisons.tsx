@@ -105,7 +105,7 @@ export function CountryComparisons(props: CountryComparisonsProps) {
           value={pillar}
           trigger={
             <span
-              className="text-xs text-white font-medium uppercase tracking-widest py-[0.3em] px-[1em] rounded-full"
+              className="text-xs text-white font-medium uppercase py-[0.3em] px-[1em] rounded-full"
               style={{ background: ancillary.pillarColorMap[pillar].base }}
             >
               {pillar}
@@ -116,7 +116,7 @@ export function CountryComparisons(props: CountryComparisonsProps) {
             let color = ancillary.pillarColorMap[asPillar].base;
             return (
               <span
-                className="text-xs text-white font-medium uppercase tracking-widest py-[0.3em] px-[1em] rounded-full"
+                className="text-xs text-white font-medium uppercase py-[0.3em] px-[1em] rounded-full"
                 style={{ background: color }}
               >
                 {asPillar}
