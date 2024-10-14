@@ -531,7 +531,7 @@ export default function Data(
                     }
                     itemRenderer={(option) => {
                       return (
-                          <span className="text-[16px] font-normal tracking-widest">
+                          <span className="text-[16px] font-normal">
                             {option}
                           </span>
                       );
@@ -594,7 +594,7 @@ export default function Data(
                     itemRenderer={(option) => {
                       return (
                         <div>
-                          <span className="text-[16px] font-normal tracking-widest">
+                          <span className="text-[16px] font-normal ">
                             {option}
                           </span>
                         </div>
