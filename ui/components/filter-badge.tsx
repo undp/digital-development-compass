@@ -35,8 +35,8 @@ export function SideMenuFilterBadge(props: FilterBadgeProps) {
   const { value, onClick , label } = props;
   return (
 <span 
-className={`inline-flex py-0.6 pl-1 pr-0 text-base font-normal [line-height:22px] ${
-  (label === "Sub-region" || label === "Pillar name") ? "filter-badge-bg-color" : "filter-main-badge-bg-color"
+className={`inline-flex py-0.6 pl-1 pr-0 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] font-normal [line-height:22px] ${
+  (label === "Sub-region" || label === "Pillar name") ? "filter-badge-bg-color" : "filter-badge-bg-color"
 } text-black items-center`}>
   <span className="flex items-center">
     <button
@@ -49,11 +49,11 @@ className={`inline-flex py-0.6 pl-1 pr-0 text-base font-normal [line-height:22px
         src={Times}
         alt="Times"
         className="mr-[8px]"
-        width={18}
+        width={22}
       />
     </button>
   </span>
-  <span className="text-[16px] [line-height:22px] ml-2 font-normal flex items-center">
+  <span className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px]  [line-height:22px] ml-2 font-normal flex items-center">
     {value}
   </span>
 </span>
