@@ -20,11 +20,11 @@ const GlobeViz = dynamic(() => import("components/globe-viz"), {
 function Hero() {
   return (
     <div>
-      <h1 className="text-3xl md:text-4xl font-bold">
+      <h1 className="text-[40px] sm:text-[40px] md:text-[35px] lg:text-[35px] leading-[1.1] font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="text-lg leading-7 mt-4 text-gray-500 text-justify">
-        Explore your nation's progress in digital using the world's largest database of digital development data. Leverage the pillars of The United Nations Development Programme's Digital Transformation Framework to discover & compare progress across a range of key issues.
+      <p className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-7 mt-4 text-left" style={{color: '#333333'}}>
+      Explore your nation's digital progress using the world's largest database of digital development data. Leveraging the pillars of UNDP’s Digital Transformation Framework, the Digital Development Compass lets you discover and compare progress across a range of key issues.
       </p>
     </div>
   );
@@ -57,7 +57,7 @@ const IndexPage = ({
       <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
       <PopupMessage/>
       <div className="items-center justify-center px-6 py-6 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
-            <div className="max-w-2xl pt-0 flex flex-col justify-center h-full md:mx-auto">
+            <div className="max-w-2xl flex flex-col justify-center h-full md:mx-auto pt-14">
               <Hero />
               <div className="mt-8 mb-4">
                 <PillarRadioGroup
@@ -67,7 +67,7 @@ const IndexPage = ({
               </div>
             </div>
           </div>
-          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50">
+          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50 ">
             <AnimatePresence>
               {activeCountry && (
                 <motion.div

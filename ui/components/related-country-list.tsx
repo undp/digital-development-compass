@@ -1,9 +1,11 @@
 import { Pillar } from "database/ancillary";
 import ancillary from "database/processed/ancillary";
 import { Country } from "database/processed/db";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { CountryCard } from "./country-card";
 import { Select } from "./select";
+import { OverflowList } from "react-overflow-list";
+import { SideMenuFilterBadge } from "./filter-badge";
 
 interface RelatedCountryListProps {
   countries: Pick<
@@ -14,9 +16,25 @@ interface RelatedCountryListProps {
   currentCountryId: string;
 }
 
+interface FilterItem {
+  label: string;
+  value: string;
+  onReset: () => void;
+}
+
 export function RelatedCountryList(props: RelatedCountryListProps) {
   const [pillar, setPillar] = useState<Pillar>("Overall");
   const { countries, definitions, currentCountryId } = props;
+  const appliedFilters: FilterItem[] = useMemo(() => {
+    return [
+      {
+        label: "Pillar name",
+        value: pillar,
+        onReset: () => setPillar("Overall"),
+      },
+    ];
+  }, [pillar]);
+
   return (
     <div>
       <h2 className="uppercase tracking-wider font-medium">
@@ -28,21 +46,26 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           onChange={setPillar}
           label="Pillar"
           trigger={
-            <span
-              className="text-xs text-white font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full"
-              style={{ background: ancillary.pillarColorMap[pillar].base }}
+            pillar == "Overall" ? (
+              <span
+              className=" text-black font-semibold uppercase text-base"
             >
-              {pillar}
+              PILLAR
             </span>
+            ) : (
+              <span
+              className="text-black font-semibold uppercase text-base"
+            >
+              PILLAR (1)
+            </span>
+            )
           }
           itemRenderer={(option) => {
             let asPillar = option as Pillar;
-            let color = ancillary.pillarColorMap[asPillar].base;
             return (
               <div className="py-1">
                 <span
-                  className="text-xs text-white font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full"
-                  style={{ background: color }}
+                  className="text-[16px] font-normal"
                 >
                   {asPillar}
                 </span>
@@ -53,8 +76,32 @@ export function RelatedCountryList(props: RelatedCountryListProps) {
           options={ancillary.pillarNames}
         ></Select>
       </div>
+      <OverflowList
+        items={appliedFilters}
+        className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+        itemRenderer={(item) => {
+          return (
+            <div className="flex-shrink-0" key={item.label}>
+              <SideMenuFilterBadge
+                value={item.value}
+                onClick={item.onReset}
+                label={item.label}
+              />
+            </div>
+          );
+        }}
+        overflowRenderer={(items) => {
+          return (
+            <div>
+              <span className="text-sm text-gray-600">
+                + {items.length} more
+              </span>
+            </div>
+          );
+        }}
+      />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 mt-6">
-        {countries.slice(0, 8).map((country) => (
+        {countries.slice(0, 2).map((country) => (
           <div key={country["ISO-alpha3 Code"]}>
             <CountryCard
               isActive={country["ISO-alpha3 Code"] === currentCountryId}

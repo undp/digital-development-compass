@@ -15,7 +15,8 @@ function Radio(props: RadioProps) {
   return (
     <label
       className={cc([
-        "p-4 font-bold cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",      ])}
+        "p-4 font-bold cursor-pointer flex items-center rounded-md overflow-hidden transition-all relative text-sm group border",
+      ])}
       style={{
         borderColor: checked ? activeColor : "",
       }}
@@ -65,9 +66,9 @@ export function PillarRadioGroup(props: PillarRadioGroupProps) {
 
   return (
     <fieldset>
-      <legend className="text-sm uppercase tracking-wide font-medium text-gray-600 block">
+      <h6 className="text-[16px] [line-height:18px] tracking-normal font-bold text-[#333333] block uppercase pb-3">
         Filter by pillar
-      </legend>
+      </h6>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-2">
         {ancillary.pillarNames.map((pillar) => (
           <Radio

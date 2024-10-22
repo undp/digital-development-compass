@@ -1,3 +1,5 @@
+import Times from "../public/times-red.svg";
+import Image from "next/image";
 interface FilterBadgeProps {
   label: string;
   value: string;
@@ -26,5 +28,34 @@ export function FilterBadge(props: FilterBadgeProps) {
         </svg>
       </button>
     </span>
+  );
+}
+
+export function SideMenuFilterBadge(props: FilterBadgeProps) {
+  const { value, onClick , label } = props;
+  return (
+<span 
+className={`inline-flex py-0.6 pl-1 pr-0 text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] font-normal [line-height:28px] ${
+  (label === "Sub-region" || label === "Pillar name") ? "filter-badge-bg-color" : "filter-badge-bg-color"
+} text-black items-center`}>
+  <span className="flex items-center">
+    <button
+      type="button"
+      onClick={onClick}
+      className="ml-0.1 rounded-full inline-flex items-center justify-center focus:outline-none focus:text-white"
+    >
+      {/* <span className="sr-only">Remove {label}</span> */}
+      <Image
+        src={Times}
+        alt="Times"
+        className="mr-[8px]"
+        width={22}
+      />
+    </button>
+  </span>
+  <span className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px]  [line-height:28px] ml-2 font-normal flex items-center">
+    {value}
+  </span>
+</span>
   );
 }

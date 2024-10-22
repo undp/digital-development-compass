@@ -1,5 +1,5 @@
-import cc from "classcat";
-import { FilterBadge } from "components/filter-badge";
+// import cc from "classcat";
+import { SideMenuFilterBadge } from "components/filter-badge";
 import { HistogramRangeInput } from "components/histogram-range-input";
 import Layout from "components/Layout";
 import { ProgressPill } from "components/progress-pill";
@@ -18,6 +18,8 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import DataGrid, { Column, FormatterProps } from "react-data-grid";
 import { OverflowList } from "react-overflow-list";
+// import chevronDown from "../public/chevron-down.svg";
+import { Select } from "components/select";
 
 type SortDirection = "ASC" | "DESC";
 
@@ -77,8 +79,16 @@ export default function Data(
         name: pillar,
         key: `scores.${pillar}.score`,
         width: 100,
-        visible: true,
+        visible: true
       })),
+      ...(process.env.SITE_CONFIG === "dev"
+      ? ancillary.digitalRightPillarName.map((pillar) => ({
+          name: pillar,
+          key: `scores.${pillar}.score`,
+          width: 100,
+          visible: true,
+        }))
+      : []),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -108,17 +118,22 @@ export default function Data(
   //   Regulation: undefined,
   //  });
 
-const pillarNamesLists = db.pillarNames.filter(pillar => pillar !== "Overall");  
-const initialScoreFilterState = pillarNamesLists.reduce((acc:any, pillar) => {
-  acc[pillar] = undefined;
-  return acc;
-}, {});
+  const pillarNamesLists = db.pillarNames.filter(
+    (pillar) => pillar !== "Overall"
+  );
+  const initialScoreFilterState = pillarNamesLists.reduce(
+    (acc: any, pillar) => {
+      acc[pillar] = undefined;
+      return acc;
+    },
+    {}
+  );
 
-const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefined>>(
-  initialScoreFilterState
-);
+  const [scoreFilter, setScoreFilter] = useState<
+    Record<string, number[] | undefined>
+  >(initialScoreFilterState);
 
-  const columns: Column<typeof data[0]>[] = useMemo(() => {
+  const columns: Column<(typeof data)[0]>[] = useMemo(() => {
     return [
       {
         key: "name",
@@ -218,7 +233,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
             name: pillar,
             cellClass: `p-0`,
             headerCellClass: "text-right",
-            formatter(props: FormatterProps<typeof data[0]>) {
+            formatter(props: FormatterProps<(typeof data)[0]>) {
               // @ts-ignore
               let score = props.row.scores[pillar].score;
               let confidence;
@@ -249,22 +264,77 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                         label={`${Math.ceil(confidence)}%`}
                       />
                     )}
-                    <p className="font-mono text-right flex-1">{score}</p>
+                    <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
                   </div>
                 </div>
               );
             },
           };
         }),
+       ...(process.env.SITE_CONFIG === "dev"
+       ? ancillary.digitalRightPillarName.map((pillar) => {
+        const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
+
+        const bgScale = scaleLinear<string>()
+          .domain([0, 5])
+          .range(["#fff", pillarColor]);
+
+        return {
+          width: 190,
+          key: `scores.${pillar}.score`,
+          name: pillar,
+          cellClass: `p-0`,
+          headerCellClass: "text-right",
+          formatter(props: FormatterProps<(typeof data)[0]>) {
+            // @ts-ignore
+            let score = props.row.digitalRightScores[pillar].score;
+            let confidence;
+            confidence =
+              // @ts-ignore
+              !props.row.digitalRightScores[pillar].confidence
+                ? null
+                : // @ts-ignore
+                  props.row.digitalRightScores[pillar].confidence;
+
+            return (
+              <div className="relative px-2 h-full group z-0">
+                <div
+                  className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
+                  style={{
+                    backgroundColor: displaySettings.showHeatmap
+                      ? bgScale(score || 0)
+                      : "transparent",
+                  }}
+                ></div>
+                <div className="flex h-full items-center justify-between z-10">
+                  {!!confidence && displaySettings.showConfidence && (
+                    <ProgressPill
+                      bar="white"
+                      background={pillarColor}
+                      border={pillarColor}
+                      value={confidence}
+                      label={`${Math.ceil(confidence)}%`}
+                    />
+                  )}
+                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
+                </div>
+              </div>
+            );
+          },
+        };
+        
+      }):[])
     ];
   }, [displaySettings]);
 
-  
   const maybeFilteredRows = useMemo(() => {
     const byName = matchSorter(data, countryFilter, { keys: ["name"] });
     return byName
       .filter((datum) => regionFilter === "*" || datum.region === regionFilter)
-      .filter((datum) => subregionFilter === "*" || datum.subregion === subregionFilter)
+      .filter(
+        (datum) =>
+          subregionFilter === "*" || datum.subregion === subregionFilter
+      )
       .filter((datum) => {
         return pillarNamesLists.every((pillar) =>
           filterPillarByRange(datum, pillar, scoreFilter[pillar])
@@ -295,29 +365,10 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
     );
   }, [sortColumns, maybeFilteredRows]);
 
-  // const economyScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Economy"].score || 0);
-  // }, [data]);
-
-  // const dpinfrastructureScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Digital Public Infrastructure"].score || 0);
-  // }, [data]);
-
-  // const governmentScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Government"].score || 0);
-  // }, [data]);
-
-  // const connectivityScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Connectivity"].score || 0);
-  // }, [data]);
-
-  // const peopleScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["People"].score || 0);
-  // }, [data]);
-
-  // const regulationScores = useMemo(() => {
-  //   return data.map((datum) => datum.scores["Regulation"].score || 0);
-  // }, [data]);
+  const countries = useMemo(() => {
+    return uniq(data.map((c) => c.name
+  ).filter(Boolean));
+  }, []);
 
   const regions = useMemo(() => {
     return uniq(data.map((c) => c.region).filter(Boolean));
@@ -367,7 +418,7 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
 
   const appliedFilters = useMemo(() => {
     return [
-      countryFilter.length > 0
+      countryFilter  !== "*"
         ? {
             label: "Country",
             value: countryFilter,
@@ -416,9 +467,9 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   ]) as AppliedFilter[];
 
   const createHistogramInputs = () => {
-    return pillarNamesLists.map(pillarName => {
+    return pillarNamesLists.map((pillarName) => {
       const scores = useMemo(() => {
-        return data.map((datum:any) => datum.scores[pillarName]?.score || 0);
+        return data.map((datum: any) => datum.scores[pillarName]?.score || 0);
       }, [data]);
 
       return (
@@ -441,93 +492,207 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
   return (
     <Layout title="Data" countries={layoutCountries}>
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
-        <aside className="h-full w-full md:w-[240px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto">
+        <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto pt-[40px]">
           <div className="p-6">
             <div className="space-y-6">
               <div>
-                <label
+                {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
                 >
                   Country Name
-                </label>
-                <input
+                </label> */}
+                {/* <input
                   id="country"
-                  className="form-input text-sm shadow-sm border-gray-300 rounded-md w-full p-2"
+                  className="form-input text-sm placeholder-black placeholder-bold border-black border-2 w-full pl-4 placeholder-bold-text"
                   type="text"
                   value={countryFilter}
                   onChange={(e) => setCountryFilter(e.target.value)}
-                  placeholder="Filter by country name"
-                />
+                  placeholder="COUNTRY NAME"
+                /> */}
               </div>
               <div>
-                <label
+                <div className="relative">
+                  <Select
+                    value={countryFilter}
+                    onChange={setCountryFilter}
+                    label="country"
+                    trigger={
+                      countryFilter == "" ? (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        COUNTRY NAME
+                      </span>
+                      ) : (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        COUNTRY NAME (1)
+                      </span>
+                      )
+               
+                    }
+                    itemRenderer={(option) => {
+                      return (
+                          <span className="text-[16px] font-normal">
+                            {option}
+                          </span>
+                      );
+                    }}
+                    // @ts-ignore
+                    options={countries}
+                  ></Select>
+                  <OverflowList
+                    items={appliedFilters}
+                    className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                    itemRenderer={(item) => {
+                      if (item.label == "Country" && item.value !="") {
+                        return (
+                          <div className="flex-shrink-0" key={item.label}>
+                            <SideMenuFilterBadge
+                              value={item.value}
+                              onClick={item.onReset}
+                              label={item.label}
+                            />
+                          </div>
+                        );
+                      }
+                    }}
+                    overflowRenderer={(items) => {
+                      return (
+                        <div>
+                          <span className="text-sm text-gray-600">
+                            + {items.length} more
+                          </span>
+                        </div>
+                      );
+                    }}
+                  />
+                </div>
+              </div>
+              <div>
+                {/* <label
                   className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
                   htmlFor="country"
                 >
                   Region
-                </label>
-                <select
-                  id="region"
-                  name="region"
-                  className="form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
-                  onChange={(e) => setRegionFilter(e.target.value)}
-                  value={regionFilter}
-                >
-                  <option value="*">All</option>
-                  {regions.map((region) => {
-                    return (
-                      <option key={region} value={region}>
-                        {region}
-                      </option>
-                    );
-                  })}
-                </select>
+                </label> */}
+                <div className="relative">
+                  <Select
+                    value={regionFilter}
+                    onChange={setRegionFilter}
+                    label="Region"
+                    trigger={
+                      regionFilter == "*" ? (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        REGION
+                      </span>
+                      ) : (
+                        <span className="text-[16px] text-black font-semibold  uppercase">
+                        REGION (1)
+                      </span>
+                      )
+               
+                    }
+                    itemRenderer={(option) => {
+                      return (
+                        <div>
+                          <span className="text-[16px] font-normal ">
+                            {option}
+                          </span>
+                        </div>
+                      );
+                    }}
+                    // @ts-ignore
+                    options={regions}
+                  ></Select>
+                  <OverflowList
+                    items={appliedFilters}
+                    className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-2 flex-nowrap"
+                    itemRenderer={(item) => {
+                      if (item.label == "Region") {
+                        return (
+                          <div className="flex-shrink-0" key={item.label}>
+                            <SideMenuFilterBadge
+                              value={item.value}
+                              onClick={item.onReset}
+                              label={item.label}
+                            />
+                          </div>
+                        );
+                      }
+                    }}
+                    overflowRenderer={(items) => {
+                      return (
+                        <div>
+                          <span className="text-sm text-gray-600">
+                            + {items.length} more
+                          </span>
+                        </div>
+                      );
+                    }}
+                  />
+                </div>
               </div>
               <div>
-                <label
-                  className="select-none font-medium text-sm mb-1 inline-block text-gray-600"
-                  htmlFor="country"
-                >
-                  Sub-region
-                </label>
-                <select
-                  id="region"
-                  name="region"
-                  disabled={subregionSelectDisabled}
-                  className={cc([
-                    `form-select block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md`,
-                    {
-                      "opacity-50 cursor-not-allowed": subregionSelectDisabled,
-                    },
-                  ])}
-                  onChange={(e) => setSubregionFilter(e.target.value)}
+                <Select
                   value={subregionFilter}
-                >
-                  {subregionSelectDisabled ? (
-                    <option value="#">Select a region first</option>
-                  ) : (
-                    <option value="*">All</option>
-                  )}
-
-                  {subRegions.map((region) => {
+                  onChange={setSubregionFilter}
+                  label="Region"
+                  disabled={subregionSelectDisabled}
+                  trigger={
+                    subregionFilter == "*" ? (
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
+                      SUB-REGION
+                    </span>
+                    ) : (
+                      <span className="text-[16px] text-black font-semibold uppercase py-[2px]">
+                      SUB-REGION (1)
+                    </span>
+                    )
+                  }
+                  itemRenderer={(option) => {
                     return (
-                      <option key={region} value={region}>
-                        {region}
-                      </option>
+                        <span className="text-[16px] font-normal">
+                          {option}
+                        </span>
                     );
-                  })}
-                </select>
+                  }}
+                  // @ts-ignore
+                  options={subRegions}
+                ></Select>
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 pt-2 flex items-center space-x-1 flex-nowrap"
+                  itemRenderer={(item) => {
+                    if (item.label == "Sub-region") {
+                      return (
+                        <div className="flex-shrink-0" key={item.label}>
+                          <SideMenuFilterBadge
+                            value={item.value}
+                            onClick={item.onReset}
+                            label={item.label}
+                          />
+                        </div>
+                      );
+                    }
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
               </div>
               <div className="grid grid-cols-2 items-center md:grid-cols gap-x-10">
-              {createHistogramInputs()}
+                {createHistogramInputs()}
               </div>
-
             </div>
           </div>
         </aside>
         <div className="md:flex-1 md:flex md:flex-col overflow-auto">
-          <div className="h-16 px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
+          <div className="h-16 px-3 sm:px-3 md:px-4 lg:px-4 w-full flex flex-shrink-0 border-b bg-gray-50">
             <div className="flex items-center justify-between w-full">
               <div className="flex-shrink-0">
                 <p className="text-sm text-gray-600">
@@ -538,35 +703,33 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   of{" "}
                   <span className="font-medium">{data.length} countries</span>
                 </p>
-                
               </div>
-              
-              <div className="flex-shrink-0">
-              <OverflowList
-                items={appliedFilters}
-                className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
-                itemRenderer={(item) => {
-                  return (
-                    <div className="flex-shrink-0" key={item.label}>
-                      <FilterBadge
-                        value={item.value}
-                        onClick={item.onReset}
-                        label={item.label}
-                      />
-                    </div>
-                  );
-                }}
-                overflowRenderer={(items) => {
-                  return (
-                    <div>
-                      <span className="text-sm text-gray-600">
-                        + {items.length} more
-                      </span>
-                    </div>
-                  );
-                }}
-              />
-              </div>
+              {/* <div className="flex-shrink-0">
+                <OverflowList
+                  items={appliedFilters}
+                  className="flex-1 ml-4 md:ml-1 flex items-center space-x-2 flex-nowrap"
+                  itemRenderer={(item) => {
+                    return (
+                      <div className="flex-shrink-0" key={item.label}>
+                        <FilterBadge
+                          value={item.value}
+                          onClick={item.onReset}
+                          label={item.label}
+                        />
+                      </div>
+                    );
+                  }}
+                  overflowRenderer={(items) => {
+                    return (
+                      <div>
+                        <span className="text-sm text-gray-600">
+                          + {items.length} more
+                        </span>
+                      </div>
+                    );
+                  }}
+                />
+              </div> */}
               <div className="ml-auto flex-shrink-0">
                 <TableSettingsDialog
                   onColumnSettingsChange={setColumnSettings}
@@ -574,15 +737,18 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
                   displaySettings={displaySettings}
                   onDisplaySettingsChange={setDisplaySettings}
                 />
-              </div>&nbsp;
+              </div>
+              &nbsp;
               <Link href="/disclaimer">
-                  <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
+                <a className="ml-0 md:ml-1 select-none text-sm text-gray-900">
                   Disclaimer
-                  </a>
+                </a>
               </Link>
-             </div>
+            </div>
           </div>
-          <div className="hidden md:block flex-1 flex-col">
+          <div
+            className="hidden md:block flex-1 flex-col z-0" // Set to a positive value or 0 if no overlap is needed
+          >
             <DataGrid
               defaultColumnOptions={{
                 sortable: true,
@@ -596,22 +762,22 @@ const [scoreFilter, setScoreFilter] = useState<Record<string, number[] | undefin
               rowKeyGetter={(row) => row.name}
               components={{ noRowsFallback: <NoRows /> }}
             />
-          </div>        
+          </div>
         </div>
         <div className="md:hidden h-full border-none rdg-light mb-5 data-table">
           <DataGrid
-          defaultColumnOptions={{
-       sortable: true,
-      resizable: true,
-    }}
-    sortColumns={sortColumns}
-    onSortColumnsChange={setSortColumns}
-    columns={personalizedColumns}
-    rows={sortedAndFiltered}
-    rowKeyGetter={(row) => row.name}
-    components={{ noRowsFallback: <NoRows /> }}
-  />
-       </div>
+            defaultColumnOptions={{
+              sortable: true,
+              resizable: true,
+            }}
+            sortColumns={sortColumns}
+            onSortColumnsChange={setSortColumns}
+            columns={personalizedColumns}
+            rows={sortedAndFiltered}
+            rowKeyGetter={(row) => row.name}
+            components={{ noRowsFallback: <NoRows /> }}
+          />
+        </div>
       </div>
     </Layout>
   );
