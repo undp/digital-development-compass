@@ -98,7 +98,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                 >
                   Methodology
                   <div
-                    className={`sm:mt-0 w-full ml-0 pt-[2px] duration-[150ms] ease-linear transform pl-3 ${
+                    className={`duration-[150ms] ease-linear transform pl-3 ${
                       isHovered ? "translate-x-2" : "translate-x-0"
                     }`}
                   >
@@ -161,7 +161,7 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
               Digital Development Compass
             </a>
           </Link>
-          <Link href="/undp-digital-development-compass/methodology/digital-rights-dashboard">
+          <Link href="/methodology/digital-rights-dashboard">
             <a className={`text-base w-full flex items-center`}>
               Digital Rights Dashboard
             </a>
