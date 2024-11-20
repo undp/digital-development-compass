@@ -3,7 +3,7 @@ name: Node.js CI
 on:
   push:
     branches:
-      - develop
+      - dev
 
 jobs:
   build:
@@ -42,5 +42,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          branch: gh-pages-develop
+          branch: gh-pages
           folder: ./ui/out
