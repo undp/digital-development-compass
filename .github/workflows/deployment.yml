@@ -2,9 +2,8 @@ name: Node.js CI
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+    branches:
+      - develop
 
 jobs:
   build:
@@ -43,5 +42,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          branch: gh-pages
+          branch: gh-pages-develop
           folder: ./ui/out
