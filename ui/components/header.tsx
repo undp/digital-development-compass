@@ -1,11 +1,12 @@
-import Image from "next/image";
+//import Image from "next/image";
 import Link from "next/link";
 import { useState, useRef, useEffect } from "react";
 import { SearchDialog } from "./search-dialog";
-import LogoSVG from "../public/undp-logo.svg";
+// import LogoSVG from "../public/undp-logo.svg";
 import { MobileMenu } from "./mobile-menu";
-import Hamburger from "../public/hamburger.svg";
-import Times from "../public/times-blue.svg";
+import { prefix } from "lib/prefix";
+// import Hamburger from "../public/hamburger.svg";
+// import Times from "../public/times-blue.svg";
 
 export function SiteName() {
   return (
@@ -15,8 +16,7 @@ export function SiteName() {
           <a>
             <h1
               className="text-base font-semibold sm:leading-[18.27px] md:leading-[18.27px] lg:leading-[22.84px] lg:text-xl max-w-[20ch] sm:max-w-[10ch] lg:max-w-full"
-              style={{ color: "#000000"}}
-
+              style={{ color: "#000000" }}
             >
               Digital Development Compass
             </h1>
@@ -57,9 +57,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
       setIsScrolled(window.scrollY > 0);
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
   }, []);
 
@@ -71,21 +71,24 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div>
               <Link href="/">
-                <a id="header-mobile" 
+                <a
+                  id="header-mobile"
                   className={`block relative z-[100] transition-all duration-300 ${
-                    isScrolled ?  'h-[86px] w-[40px]': 'h-[75px] w-[40px]' 
+                    isScrolled ? "h-[86px] w-[40px]" : "h-[75px] w-[40px]"
                   }`}
                 >
-                  <Image
+                  <img
                     id="logo"
-                    src={LogoSVG}
+                    src={`${prefix}/undp-logo.svg`}
                     alt="UNDP Logo"
+                    // layout="fill"
+                    // objectFit="contain"
                   />
                 </a>
               </Link>
             </div>
-            <div className="pl-[12px] sm:pl-[12px] md:pl-[24px] lg:pl-[24px] w-4"> 
-            <SiteName />
+            <div className="pl-[12px] sm:pl-[12px] md:pl-[24px] lg:pl-[24px] w-4">
+              <SiteName />
             </div>
           </div>
           <div className="flex items-start">
@@ -95,9 +98,11 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
             >
               <span className="tracking-wide">
                 {mobileMenuOpen ? (
-                  <Image src={Times} alt="Close menu icon" />
+                  <img src={`${prefix}/times-blue.svg`} width={24}
+                  height={24} alt="Close menu icon" />
                 ) : (
-                  <Image src={Hamburger} alt="Open menu icon" />
+                  <img src={`${prefix}/hamburger.svg`} width={24}
+                  height={24} alt="Open menu icon" />
                 )}
               </span>
             </button>
@@ -112,14 +117,19 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
           <div className="flex items-center">
             <div className="h-[115px] flex-shrink-0">
               <Link href="/">
-                <a id="header"  className={`block relative z-[100] transition-all duration-300 ${
-                    isScrolled ?  'h-[115px] w-[57px]': 'h-[122px] w-[60px]' 
-                  }`}>
-                  <Image
+                <a
+                  id="header"
+                  className={`block relative z-[100] transition-all duration-300 ${
+                    isScrolled ? "h-[115px] w-[57px]" : "h-[122px] w-[60px]"
+                  }`}
+                >
+                  <img
                     id="logo"
-                    src={LogoSVG}
+                    src={`${prefix}/undp-logo.svg`}
                     alt="UNDP Logo"
-                    className="transition-all duration-300"
+                    // layout="fill"
+                    // objectFit="contain" // Adjusts the image to fit within the container
+                    // className="transition-all duration-300"
                   />
                 </a>
               </Link>
@@ -141,40 +151,40 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
               </a>
             </Link>
             {process.env.SITE_CONFIG === "dev" ? (
-            <div
-              className="relative"
-              onMouseEnter={handleDropdownOpen}
-              onMouseLeave={handleDropdownClose}
-            >
-              <button className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider flex items-center">
-                Methodology
-              </button>
-              {dropdownOpen && (
-                <div
-                  className="absolute header-nav-bg-color border mt-2 rounded shadow-lg w-full z-20" // Ensure the z-index is higher than the data grid
-                  onMouseEnter={handleDropdownOpen}
-                  onMouseLeave={handleDropdownClose}
-                  style={{ width: "270px"}}
-                >
-                  <Link href="/methodology/digital-development-compass">
-                    <a className="px-4 z-30 py-2 h-20 items-center flex justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium border-b whitespace-nowrap">
-                      Digital Development Compass
-                    </a>
-                  </Link>
-                  <Link href="/methodology/digital-rights-dashboard">
-                    <a className="px-4 z-30 py-2 h-20 flex items-center justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium whitespace-nowrap">
-                      Digital Rights Dashboard
-                    </a>
-                  </Link>
-                </div>
-              )}
-            </div>
-           ) : (
+              <div
+                className="relative"
+                onMouseEnter={handleDropdownOpen}
+                onMouseLeave={handleDropdownClose}
+              >
+                <button className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider flex items-center">
+                  Methodology
+                </button>
+                {dropdownOpen && (
+                  <div
+                    className="absolute header-nav-bg-color border mt-2 rounded shadow-lg w-full z-20" // Ensure the z-index is higher than the data grid
+                    onMouseEnter={handleDropdownOpen}
+                    onMouseLeave={handleDropdownClose}
+                    style={{ width: "270px" }}
+                  >
+                    <Link href="/methodology/digital-development-compass">
+                      <a className="px-4 z-30 py-2 h-20 items-center flex justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium border-b whitespace-nowrap">
+                        Digital Development Compass
+                      </a>
+                    </Link>
+                    <Link href="/methodology/digital-rights-dashboard">
+                      <a className="px-4 z-30 py-2 h-20 flex items-center justify-start header-nav-bg-color hover:footer-background-color hover:text-white text-sm uppercase font-medium whitespace-nowrap">
+                        Digital Rights Dashboard
+                      </a>
+                    </Link>
+                  </div>
+                )}
+              </div>
+            ) : (
               <Link href="/methodology">
-             <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
-              Methodology   
-              </a>
-            </Link>
+                <a className="uppercase text-sm hover:text-brand-blue-dark font-semibold tracking-wider">
+                  Methodology
+                </a>
+              </Link>
             )}
           </div>
           <div className="flex items-center justify-end pr-[64px]">

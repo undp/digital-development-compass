@@ -1,5 +1,8 @@
-import Times from "../public/times-red.svg";
-import Image from "next/image";
+// import Times from "../public/times-red.svg";
+
+import { prefix } from "lib/prefix";
+
+//import Image from "next/image";
 interface FilterBadgeProps {
   label: string;
   value: string;
@@ -45,8 +48,8 @@ className={`inline-flex py-0.6 pl-1 pr-0 text-[16px] sm:text-[16px]  md:text-[20
       className="ml-0.1 rounded-full inline-flex items-center justify-center focus:outline-none focus:text-white"
     >
       {/* <span className="sr-only">Remove {label}</span> */}
-      <Image
-        src={Times}
+      <img
+        src={`${prefix}/times-red.svg`}
         alt="Times"
         className="mr-[8px]"
         width={22}

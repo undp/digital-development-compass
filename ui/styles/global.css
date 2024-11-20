@@ -430,8 +430,8 @@ select option[value="placeholder"] {
 
 @font-face {
   font-family: "SohneBreitFont";
-  src: url("/fonts/soehne-breit-web-dreiviertelfett.woff2") format("woff2"),
-    url("/fonts/soehne-breit-web-dreiviertelfett.woff") format("woff");
+  src: url("/undp-digital-development-compass/fonts/soehne-breit-web-dreiviertelfett.woff2") format("woff2"),
+    url("/undp-digital-development-compass/fonts/soehne-breit-web-dreiviertelfett.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }

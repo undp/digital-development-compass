@@ -3,9 +3,12 @@ import { Score } from "database/processed/db";
 import { roundNumber } from "lib";
 import { useState } from "react";
 import useSWR from "swr";
-import ExternalDefault from "../public/external-default.svg";
-import ExternalDefaultHover from "../public/external-hover.svg";
-import Image from "next/image";
+//import ExternalDefault from "../public/external-default.svg";
+//import ExternalDefaultHover from "../public/external-hover.svg";
+//import Image from "next/image";
+import { db } from "database";
+import { uniqBy } from "lodash";
+import { prefix } from "lib/prefix";
 
 interface IndicatorListProps {
   country: string;
@@ -23,12 +26,43 @@ const fetchIndicators = async (
   pillar: string,
   subpillar: string
 ) => {
-  let url = `/api/indicators`;
-  let params = { country, pillar, subpillar };
-  let stringifiedParams = new URLSearchParams(params).toString();
-  // @ts-ignore
-  const res = await fetch(`${url}?${stringifiedParams}`);
-  return await res.json();
+  // using ssr api
+  // let url = `/api/indicators`;
+  // let params = { country, pillar, subpillar };
+  // let stringifiedParams = new URLSearchParams(params).toString();
+  // // @ts-ignore
+  // const res = await fetch(`${url}?${stringifiedParams}`);
+  // return await res.json();
+
+  if (!country || !pillar || !subpillar) { 
+    return;
+  }
+ 
+  let indices = db.scores.filter((score) => {
+          return (
+            score["Country Name"] === country &&
+            score["Pillar"] === pillar &&
+            score["Sub-Pillar"] === subpillar &&
+            Boolean(score["Indicator"])
+          );
+
+  });
+
+  let indicesWithSources = indices.map((index) => {
+    return {
+      ...index,
+      sources: db.scores.filter((score) => {
+        return (
+          score["Country Name"] === country &&
+          score["Pillar"] === pillar &&
+          score["Sub-Pillar"] === subpillar &&
+          score["Indicator"] === index["Indicator"] &&
+          score["Source Name"]
+        );
+      }),
+    };
+  });
+  return indicesWithSources;
 };
 
 export function IndicatorList(props: IndicatorListProps) {
@@ -103,13 +137,29 @@ const fetchIndicatorsForSubpillar = async (
   pillar: string,
   subpillar: string
 ) => {
-  let url = `/api/indicators-for-subpillar`;
-  let params = { country, pillar, subpillar };
-  let stringifiedParams = new URLSearchParams(params).toString();
-  // @ts-ignore
-  const res = await fetch(`${url}?${stringifiedParams}`);
-  return await res.json();
+  // using ssr api
+  // let url = `/api/indicators-for-subpillar`;
+  // let params = { country, pillar, subpillar };
+  // let stringifiedParams = new URLSearchParams(params).toString();
+  // // @ts-ignore
+  // const res = await fetch(`${url}?${stringifiedParams}`);
+  // return await res.json();
+
+  if (!country || !pillar || !subpillar) {
+    return;
+  }
+
+  const allIndicators = db.scores.filter(
+    (score) =>
+      score["Pillar"] === pillar &&
+      score["Sub-Pillar"] === subpillar &&
+      Boolean(score["Indicator"])
+  );
+  const uniqueIndicators = uniqBy(allIndicators, "Indicator");
+
+  return uniqueIndicators;
 };
+
 const MissingIndicators = ({
   filledIndicators,
   country,
@@ -319,15 +369,15 @@ const Indicator = ({
                   onMouseLeave={() => setIconIsHovered(false)}
                 >
                   {isIconHovered ? (
-                    <Image
-                      src={ExternalDefaultHover}
+                    <img
+                      src={`${prefix}/external-hover.svg`}
                       height={12}
                       alt="ExternalDefaultHover"
                       className="mr-1 flex-none"
                     />
                   ) : (
-                    <Image
-                      src={ExternalDefault}
+                    <img
+                      src={`${prefix}/external-default.svg`}
                       height={12}
                       alt="ExternalDefault"
                       className="mr-1 flex-none"

@@ -5,7 +5,7 @@ import "flagpack/dist/flagpack.css";
 import Head from "next/head";
 
 import "../styles/global.css";
-
+const prefix = process.env.NEXT_PUBLIC_BASE_PATH || '/undp-digital-development-compass';
 export default function MyApp({ Component, pageProps }) {
   return (
     <>
@@ -18,7 +18,7 @@ export default function MyApp({ Component, pageProps }) {
         }}
       />
       <Head>
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href={`${prefix}/favicon.ico`} />
         <meta charSet="utf-8" />
 
         <meta name="description" content="UNDP Digital Development Compass" />

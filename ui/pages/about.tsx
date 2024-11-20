@@ -12,12 +12,13 @@ import { useEffect, useState } from "react";
 import { interpolateHclLong, lab, scaleLinear } from "d3";
 import { AnimatePresence, motion } from "framer-motion";
 import { ancillary } from "database/ancillary";
-import Image from "next/image";
+//import Image from "next/image";
 import Script from "next/script";
 import YouTube from "react-youtube";
-import chevronRight from "../public/chevron-right.svg";
+import { prefix } from "../lib/prefix";
+//import chevronRight from "../public/chevron-right.svg";
 //import arrowBase from "../public/arrow-base.svg";
-import githubScreenshot from "../public/github.png";
+//import githubScreenshot from "../public/github.png";
 
 const AboutScrollytelling = dynamic(
   () => import("components/about-scrollytelling"),
@@ -370,10 +371,12 @@ export default function About(
               </p>
             </div>
 
-            <div className="container mx-auto">
-              <Image
-                src={githubScreenshot}
+            <div className="container mx-auto flex items-center justify-center">
+              <img
+                src={`${prefix}/github.png`}
                 alt="The undp/digital-nation-dashboard GitHub repository"
+                width={1024} // Set the appropriate width
+                height={575} // Set the appropriate height
               />
             </div>
 
@@ -449,8 +452,10 @@ export default function About(
                         isHovered ? "translate-x-0" : "-translate-x-2"
                       }`}
                     >
-                      <Image
-                        src={chevronRight}
+                      <img
+                        src={`${prefix}/chevron-right.svg`}
+                        width={13}
+                        height={20}
                         alt="chevronRight"
                         className="m-0 p-0"
                       />
@@ -822,7 +827,7 @@ const Scrollytelling = ({ country }: { country: any }) => {
 
           {currentStepIndex > 1 && currentStepIndex < 5 && (
             <div className="SolarSystem w-[min(70vh,100%)] pointer-events-[all]">
-              <img src="/DTF.gif" alt="DTF Animation" />
+              <img src={`${prefix}/DTF.gif`} alt="DTF Animation" />
             </div>
           )}
 
