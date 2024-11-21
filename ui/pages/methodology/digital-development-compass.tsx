@@ -1,14 +1,14 @@
 import { db } from "database";
 import { groupBy } from "lodash";
 import { InferGetStaticPropsType } from "next";
-import Image from "next/image";
+//import Image from "next/image";
 import Script from "next/script";
 import { isMemberState } from "lib";
-import githubUNDPdiagram from "../../public/undp-diagram.png";
-import overviewofTDTF from "../../public/OverviewofTDTF.png";
-import fiveStage from "../../public/fiveStage.png";
-import transformation from "../../public/transformation.png";
-import MinMaxScale from "../../public/MinMaxScale.png";
+//import githubUNDPdiagram from "../../public/undp-diagram.png";
+//import overviewofTDTF from "../../public/OverviewofTDTF.png";
+//import fiveStage from "../../public/fiveStage.png";
+//import transformation from "../../public/transformation.png";
+//import MinMaxScale from "../../public/MinMaxScale.png";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React, { useState } from "react";
@@ -18,10 +18,11 @@ import {
   dimensionsTable,
 } from "database/methodologyTableData";
 import { ancillary } from "database/ancillary";
-import chevronRight from "../../public/chevron-right.svg";
-import downloadDefault from "../../public/download-default.svg";
+import { prefix } from "lib/prefix";
+//import chevronRight from "../../public/chevron-right.svg";
+//import downloadDefault from "../../public/download-default.svg";
 //import arrowBase from "../../public/arrow-base.svg";
-import downloadHover from "../../public/download-hover.svg";
+//import downloadHover from "../../public/download-hover.svg";
 
 const NavBar = () => {
   return (
@@ -220,10 +221,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 opportunities they may encounter along the way.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={overviewofTDTF}
+                <img
+                  src={`${prefix}/OverviewofTDTF.png`}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-64 h-auto"
+                 // className="w-full sm:w-64 h-auto"
                 />
                 <p className="text-center mt-2 mb-2">
                   <em>Figure 1. UNDP’s Digital Transformation Framework</em>
@@ -259,8 +260,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 encompasses every pillar and sub-pillar.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={fiveStage}
+                <img
+                  src={`${prefix}/fiveStage.png`}
                   alt="The undp/digital-nation-dashboard GitHub repository"
                   className="w-full sm:w-84 h-auto"
                 />
@@ -274,8 +275,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 the transformation framework.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={transformation}
+                <img
+                  src={`${prefix}/transformation.png`}
                   alt="The undp/digital-nation-dashboard GitHub repository"
                   className="w-full sm:w-84 h-auto"
                 />
@@ -405,8 +406,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 change in the Compass webpage.
               </p>
               <div className="max-w-[50em] mx-auto px-4">
-                <Image
-                  src={githubUNDPdiagram}
+                <img
+                  src={`${prefix}/undp-diagram.png`}
                   alt="The undp/digital-nation-dashboard GitHub repository"
                   className="w-full sm:w-84 h-auto"
                 />
@@ -442,10 +443,10 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 scoring country’s score.
               </p>
               <p className="flex justify-center items-center pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                <Image
-                  src={MinMaxScale}
+                <img
+                  src={`${prefix}/MinMaxScale.png`}
                   alt="The undp/digital-nation-dashboard GitHub repository"
-                  className="w-full sm:w-64 h-auto"
+                 // className="w-full sm:w-64 h-auto"
                 />
               </p>
               <p>
@@ -1282,15 +1283,15 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                   onMouseLeave={() => setDownloadHovered(false)}
                 >
                   {isDownloadHovered ? (
-                    <Image
-                      src={downloadHover}
+                    <img
+                      src={`${prefix}/download-hover.svg`}
                       alt="downloadHover"
                       width={16}
                       height={16}
                     />
                   ) : (
-                    <Image
-                      src={downloadDefault}
+                    <img
+                      src={`${prefix}/download-default.svg`}
                       alt="download"
                       width={16}
                       height={16}
@@ -1314,8 +1315,8 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                     isHovered ? "translate-x-0" : "-translate-x-2"
                   }`}
                 >
-                  <Image
-                    src={chevronRight}
+                  <img
+                    src={`${prefix}/chevron-right.svg`}
                     alt="chevronRight"
                     className="m-0 p-0"
                   />

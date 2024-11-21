@@ -1,0 +1,46 @@
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - staging
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'yarn'
+          cache-dependency-path: ./ui/yarn.lock
+
+      - name: Install Dependencies
+        run: yarn install --frozen-lockfile
+        working-directory: ./ui
+
+      - name: Build Project
+        run: yarn build
+        working-directory: ./ui
+
+      - name: Export Project
+        run: yarn export
+        working-directory: ./ui
+
+      - name: Create .nojekyll File
+        run: touch ./out/.nojekyll
+        working-directory: ./ui
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          branch: gh-pages
+          folder: ./ui/out

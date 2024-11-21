@@ -1,9 +1,10 @@
 import * as Dialog from "@radix-ui/react-dialog";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import Image from "next/image";
-import chevronRight from "../public/chevron-right.svg";
-import arrowLeft from "../public/arrow-left.svg";
+//import Image from "next/image";
+//import chevronRight from "../public/chevron-right.svg";
+//import arrowLeft from "../public/arrow-left.svg";
+import { prefix } from "lib/prefix";
 
 // Define the interface for the props
 interface MobileMenuProps {
@@ -97,11 +98,11 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                 >
                   Methodology
                   <div
-                    className={`sm:mt-1 w-full ml-0 pt-[2px] duration-[150ms] ease-linear transform pl-3 ${
+                    className={`duration-[150ms] ease-linear transform pl-3 ${
                       isHovered ? "translate-x-2" : "translate-x-0"
                     }`}
                   >
-                    <Image src={chevronRight} alt="chevronRight" />
+                    <img src={`${prefix}/chevron-right.svg`} alt="chevronRight" />
                   </div>
                 </a>
               ) : (
@@ -144,7 +145,7 @@ export function MobileMenuSideView({ onClose }: MobileMenuSideViewProps) {
         className="flex items-center cursor-pointer pt-[33px]"
         onClick={handleClose}
       >
-        <Image src={arrowLeft} alt="arrowLeft" className="mr-2" />
+        <img src={`${prefix}/arrow-left.svg`} alt="arrowLeft" className="mr-2" />
         <span className="text-sm ml-[7px] uppercase">Back</span>
       </div>
       <div className="pt-0">
