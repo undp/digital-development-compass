@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fabout","\u002Fcountry\u002F[code]","\u002Fdata","\u002Fdisclaimer","\u002Fmethodology","\u002Fmethodology\u002Fdigital-development-compass","\u002Fmethodology\u002Fdigital-rights-dashboard","\u002Fsandbox"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
