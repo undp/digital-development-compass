@@ -5,8 +5,8 @@ const nextConfig = {
     loader: "akamai",
     path: "",
   },
-  basePath: "/undp-digital-development-compass",
-  assetPrefix: "/undp-digital-development-compass",
+  basePath: "/digital-development-compass",
+  assetPrefix: "/digital-development-compass",
   env: {
     PASSWORD_PROTECT: process.env.NODE_ENV !== "development",
     SITE_CONFIG: process.env.ENV ?? "staging"
