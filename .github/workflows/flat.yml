@@ -1,1010 +1,1010 @@
-name: data
-on:
-  schedule:
-    - cron: 0 0 13 * *
-  workflow_dispatch: {}
-  push:
-    paths:
-      - .github/workflows/flat.yml
-      - ./process_xlsx.js
-jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.xlsx
-           downloaded_filename: data/Countries.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/countries_mobile_connectivity.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
-           downloaded_filename: data/countries_ixp.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://freedomhouse.org/sites/default/files/2022-10/FOTN_2022_Key_Internet_Controls.xlsx
-           downloaded_filename: data/number_key_internet_controls_employed.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.cvs
-           downloaded_filename: data/id4d_nid.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
-           downloaded_filename: data/id4d_services.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/population_internet_coverage_2g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/population_internet_coverage_3g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/population_internet_coverage_4g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/population_internet_coverage_5g.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
-           downloaded_filename: data/population_electricity_coverage.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://s3.amazonaws.com/datascope-ast-datasets-nov29/datasets/430/data.csv
-           downloaded_filename: data/elect_supply_quality.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/spectrum_allocated_mobile_providers.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv
-           downloaded_filename: data/fixed_bdbd_spd_dl_ul.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/elect_dist_grid_map.csv
-           downloaded_filename: data/elect_dist_grid_map.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/tax_percent_mobile_ownership.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
-           downloaded_filename: data/migration_industry.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
-           downloaded_filename: data/migration_skill.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
-           downloaded_filename: data/migration_country.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/international_co_inventions.csv
-           downloaded_filename: data/international_co_inventions.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://unctad.org/system/files/information-document/DP.xlsx
-           downloaded_filename: data/data_protect_privacy_legislation.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
-           downloaded_filename: data/doing_bus_idx.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv
-           downloaded_filename: data/legal_rights_strength.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv
-           downloaded_filename: data/ease_doing_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
-           downloaded_filename: data/time_start_bus.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
-           downloaded_filename: data/sdg_data.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx
-           downloaded_filename: data/undp_human_developmnt.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv
-           downloaded_filename: data/fb_social_connectedness.tsv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://index.okfn.org/api/places.csv
-           downloaded_filename: data/open_data_idx.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
-           downloaded_filename: data/population_digital_financial_services.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv
-           downloaded_filename: data/ewaste_per_inhabitant.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls
-           downloaded_filename: data/global_wellbeing_initiative.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
-           downloaded_filename: data/financial_inclusiveness.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv
-           downloaded_filename: data/ict_goods.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
-           downloaded_filename: data/ict_services.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv
-           downloaded_filename: data/mob_dev_pen.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
-           downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv
-           downloaded_filename: data/venture_cap_avail.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/b2c_ecommerse_idx.csv
-           downloaded_filename: data/b2c_ecommerse_idx.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv
-           downloaded_filename: data/pop_dens_map.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
-           downloaded_filename: data/countries_gci.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
-           downloaded_filename: data/encrytion_data.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx
-           downloaded_filename: data/rli.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv
-           downloaded_filename: data/sci.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv
-           downloaded_filename: data/top_sites.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx
-           downloaded_filename: data/google_trends.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/youtube_searches.csv
-           downloaded_filename: data/youtube_searches.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/electricity_density.csv
-           downloaded_filename: data/electricity_density.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv
-           downloaded_filename: data/postal_coverage.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
-           downloaded_filename: data/schools_w_internet.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv
-           downloaded_filename: data/dice_export_global_cybersecurity_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv
-           downloaded_filename: data/ecosystem.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel
-           downloaded_filename: data/population_density.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
-           downloaded_filename: data/sustainability_index.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel
-           downloaded_filename: data/RD_Percentage_GDP.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv
-           downloaded_filename: data/ICT_Investment.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv
-           downloaded_filename: data/start_up_investment.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv
-           downloaded_filename: data/SDG_digital_literacy_data.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx
-           downloaded_filename: data/Egov_strategy.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv
-           downloaded_filename: data/digital_public_service_use.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv
-           downloaded_filename: data/angel_investment.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv
-           downloaded_filename: data/banking_sector_size.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv
-           downloaded_filename: data/startup_eco_size.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv
-           downloaded_filename: data/fixed_speed.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv
-           downloaded_filename: data/mobile_speed.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv
-           downloaded_filename: data/gender_gaps.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv
-           downloaded_filename: data/prevalance_gig_economy.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/size_digital_economy.csv
-           downloaded_filename: data/size_digital_economy.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv
-           downloaded_filename: data/automation_led_unemployment.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_returning.csv
-           downloaded_filename: data/not_buying_online_concern_about_returning.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_security.csv
-           downloaded_filename: data/not_buying_online_concern_about_security.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_proportion.csv
-           downloaded_filename: data/ICT_proportion.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/network_readiness_index.csv
-           downloaded_filename: data/network_readiness_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/happiness_score.csv
-           downloaded_filename: data/happiness_score.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv
-           downloaded_filename: data/population_interacting_public_officials.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv
-           downloaded_filename: data/cloud_services.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv
-           downloaded_filename: data/mobile_density.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/logistics_performance_index.xlsx
-           downloaded_filename: data/logistics_performance_index.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv
-           downloaded_filename: data/national_cybersecurity_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv
-           downloaded_filename: data/digital_platform_economy_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv
-           downloaded_filename: data/global_fintech_ranking.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level.csv
-           downloaded_filename: data/digital_skill_level.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_work_ecosystem_size.csv
-           downloaded_filename: data/digital_work_ecosystem_size.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv
-           downloaded_filename: data/business_internet.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv
-           downloaded_filename: data/business_broadband.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv
-           downloaded_filename: data/share_of_businesses_online_presence.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv
-           downloaded_filename: data/ease_of_finding_skilled_employees.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language.csv
-           downloaded_filename: data/apps_in_national_language.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv
-           downloaded_filename: data/time_spent_online.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv
-           downloaded_filename: data/cryptocurrency_adoption.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv
-           downloaded_filename: data/cyberbullying_rate.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/individuals_buying_online_frequency.csv
-           downloaded_filename: data/individuals_buying_online_frequency.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e-commerce_activity.csv
-           downloaded_filename: data/e-commerce_activity.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users.csv
-           downloaded_filename: data/FB_users.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv
-           downloaded_filename: data/digital_payments_penetration.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tech_hubs.csv
-           downloaded_filename: data/tech_hubs.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv
-           downloaded_filename: data/software_developer_ecosystem_size.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_with_smartphones.csv
-           downloaded_filename: data/population_with_smartphones.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv
-           downloaded_filename: data/cyber_attacks.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv
-           downloaded_filename: data/e_government_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv
-           downloaded_filename: data/internet_speed.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv
-           downloaded_filename: data/mobile_latency.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_rev2_Sept_2022.xlsx
-           downloaded_filename: data/ITU_database.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv
-           downloaded_filename: data/Chainalysis_2021_Geography_Cryptocurrency_Report.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/social_media_penetration.csv
-           downloaded_filename: data/social_media_penetration.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv
-           downloaded_filename: data/TCdata360.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_innovation_dataset.csv
-           downloaded_filename: data/global_innovation_dataset.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/patent_application_PCT.csv
-           downloaded_filename: data/patent_application_PCT.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Hague_system.csv
-           downloaded_filename: data/Hague_system.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Population.csv
-           downloaded_filename: data/Population.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Area.csv
-           downloaded_filename: data/Area.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv
-           downloaded_filename: data/GDP.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv
-           downloaded_filename: data/inherent_cyber_risk.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv
-           downloaded_filename: data/global_resilience_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv
-           downloaded_filename: data/open_data_inventory.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv
-           downloaded_filename: data/open_data_barometer.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
-           downloaded_filename: data/open_government_wjp.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx
-           downloaded_filename: data/mobile_money_prevalence.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx
-           downloaded_filename: data/mobile_money_regulatory.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv
-           downloaded_filename: data/inclusive_internet_index.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx
-           downloaded_filename: data/birth_registration.xlsx
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv
-           downloaded_filename: data/Freedomhouse_countries_report.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv
-           downloaded_filename: data/demographic_comparison_data.csv
-           postprocess: ./process_raw_data.js
-
-      - name: Fetch data
-        uses: githubocto/flat@v2
-        if: always()
-        with:
-           http_url: https://www.dlapiperdataprotection.com/_undp/feed.json
-           downloaded_filename: data/data_laws.json
-           postprocess: ./process_raw_data.js
+# name: data
+# on:
+#   schedule:
+#     - cron: 0 0 13 * *
+#   workflow_dispatch: {}
+#   push:
+#     paths:
+#       - .github/workflows/flat.yml
+#       - ./process_xlsx.js
+# jobs:
+#   scheduled:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Setup deno
+#         uses: denoland/setup-deno@main
+#         with:
+#           deno-version: v1.x
+#       - name: Check out repo
+#         uses: actions/checkout@v2
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Countries.xlsx
+#            downloaded_filename: data/Countries.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/countries_mobile_connectivity.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_ixp.csv
+#            downloaded_filename: data/countries_ixp.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://freedomhouse.org/sites/default/files/2022-10/FOTN_2022_Key_Internet_Controls.xlsx
+#            downloaded_filename: data/number_key_internet_controls_employed.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.cvs
+#            downloaded_filename: data/id4d_nid.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/id4d.xlsx
+#            downloaded_filename: data/id4d_services.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/population_internet_coverage_2g.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/population_internet_coverage_3g.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/population_internet_coverage_4g.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/population_internet_coverage_5g.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://api.worldbank.org/v2/en/indicator/EG.ELC.ACCS.ZS?downloadformat=excel
+#            downloaded_filename: data/population_electricity_coverage.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://s3.amazonaws.com/datascope-ast-datasets-nov29/datasets/430/data.csv
+#            downloaded_filename: data/elect_supply_quality.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/spectrum_allocated_mobile_providers.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_bdbd_spd_dl_ul.csv
+#            downloaded_filename: data/fixed_bdbd_spd_dl_ul.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/elect_dist_grid_map.csv
+#            downloaded_filename: data/elect_dist_grid_map.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/tax_percent_mobile_ownership.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
+#            downloaded_filename: data/migration_industry.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
+#            downloaded_filename: data/migration_skill.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1202896/public_use-talent-migration.xlsx
+#            downloaded_filename: data/migration_country.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/international_co_inventions.csv
+#            downloaded_filename: data/international_co_inventions.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://unctad.org/system/files/information-document/DP.xlsx
+#            downloaded_filename: data/data_protect_privacy_legislation.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.doingbusiness.org/content/dam/doingBusiness/excel/Historical-data---complete-data-with-scores.xlsx
+#            downloaded_filename: data/doing_bus_idx.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/legal_rights_strength.csv
+#            downloaded_filename: data/legal_rights_strength.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_doing_bus.csv
+#            downloaded_filename: data/ease_doing_bus.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_start_bus.csv
+#            downloaded_filename: data/time_start_bus.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
+#            downloaded_filename: data/sdg_data.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx
+#            downloaded_filename: data/undp_human_developmnt.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/35ca6ade-a5bd-4782-b266-797169dca74b/download/countries-countries-fb-social-connectedness-index-october-2021.tsv
+#            downloaded_filename: data/fb_social_connectedness.tsv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://index.okfn.org/api/places.csv
+#            downloaded_filename: data/open_data_idx.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
+#            downloaded_filename: data/population_digital_financial_services.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/140602/country_level_data_0.csv
+#            downloaded_filename: data/ewaste_per_inhabitant.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://happiness-report.s3.amazonaws.com/2022/Appendix_2_Data_for_Figure_2.1.xls
+#            downloaded_filename: data/global_wellbeing_initiative.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/findex_database.xlsx
+#            downloaded_filename: data/financial_inclusiveness.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_goods.csv
+#            downloaded_filename: data/ict_goods.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ict_services.csv
+#            downloaded_filename: data/ict_services.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mob_dev_pen.csv
+#            downloaded_filename: data/mob_dev_pen.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.mobileconnectivityindex.com/widgets/connectivityIndex/excel/MCI_Data_2022.xlsx
+#            downloaded_filename: data/gender_gap_in_mobile_usage.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/venture_cap_avail.csv
+#            downloaded_filename: data/venture_cap_avail.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/b2c_ecommerse_idx.csv
+#            downloaded_filename: data/b2c_ecommerse_idx.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/pop_dens_map.csv
+#            downloaded_filename: data/pop_dens_map.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/countries_gci.xlsx
+#            downloaded_filename: data/countries_gci.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.schneier.com/cryptography/paperfiles/worldwide-encryption-product-survey-data.xls
+#            downloaded_filename: data/encrytion_data.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/rli.xlsx
+#            downloaded_filename: data/rli.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/sci.csv
+#            downloaded_filename: data/sci.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/top_sites.csv
+#            downloaded_filename: data/top_sites.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/google_trends%20.xlsx
+#            downloaded_filename: data/google_trends.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/youtube_searches.csv
+#            downloaded_filename: data/youtube_searches.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/electricity_density.csv
+#            downloaded_filename: data/electricity_density.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/postal_coverage.csv
+#            downloaded_filename: data/postal_coverage.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://nces.ed.gov/programs/digest/d18/tables/xls/tabn218.10.xls
+#            downloaded_filename: data/schools_w_internet.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/dice_export_global_cybersecurity_index.csv
+#            downloaded_filename: data/dice_export_global_cybersecurity_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ecosystem.csv
+#            downloaded_filename: data/ecosystem.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=excel
+#            downloaded_filename: data/population_density.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://dashboards.sdgindex.org/static/downloads/files/SDR-2022-Database.xlsx
+#            downloaded_filename: data/sustainability_index.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://api.worldbank.org/v2/en/indicator/GB.XPD.RSDV.GD.ZS?downloadformat=excel
+#            downloaded_filename: data/RD_Percentage_GDP.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_Investment.csv
+#            downloaded_filename: data/ICT_Investment.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/start_up_investment.csv
+#            downloaded_filename: data/start_up_investment.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/SDG_digital_literacy_data.csv
+#            downloaded_filename: data/SDG_digital_literacy_data.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1232201/wbg_govtech-dataset_dec2020.xlsx
+#            downloaded_filename: data/Egov_strategy.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_public_service_use.csv
+#            downloaded_filename: data/digital_public_service_use.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/angel_investment.csv
+#            downloaded_filename: data/angel_investment.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/banking_sector_size.csv
+#            downloaded_filename: data/banking_sector_size.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/startup_eco_size.csv
+#            downloaded_filename: data/startup_eco_size.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/fixed_speed.csv
+#            downloaded_filename: data/fixed_speed.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_speed.csv
+#            downloaded_filename: data/mobile_speed.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/gender_gaps.csv
+#            downloaded_filename: data/gender_gaps.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/prevalance_gig_economy.csv
+#            downloaded_filename: data/prevalance_gig_economy.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/size_digital_economy.csv
+#            downloaded_filename: data/size_digital_economy.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/automation_led_unemployment.csv
+#            downloaded_filename: data/automation_led_unemployment.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_returning.csv
+#            downloaded_filename: data/not_buying_online_concern_about_returning.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/not_buying_online_concern_about_security.csv
+#            downloaded_filename: data/not_buying_online_concern_about_security.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ICT_proportion.csv
+#            downloaded_filename: data/ICT_proportion.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/network_readiness_index.csv
+#            downloaded_filename: data/network_readiness_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/happiness_score.csv
+#            downloaded_filename: data/happiness_score.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_interacting_public_officials.csv
+#            downloaded_filename: data/population_interacting_public_officials.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cloud_services.csv
+#            downloaded_filename: data/cloud_services.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_density.csv
+#            downloaded_filename: data/mobile_density.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/logistics_performance_index.xlsx
+#            downloaded_filename: data/logistics_performance_index.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/national_cybersecurity_index.csv
+#            downloaded_filename: data/national_cybersecurity_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_platform_economy_index.csv
+#            downloaded_filename: data/digital_platform_economy_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_fintech_ranking.csv
+#            downloaded_filename: data/global_fintech_ranking.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_skill_level.csv
+#            downloaded_filename: data/digital_skill_level.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_work_ecosystem_size.csv
+#            downloaded_filename: data/digital_work_ecosystem_size.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_internet.csv
+#            downloaded_filename: data/business_internet.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/business_broadband.csv
+#            downloaded_filename: data/business_broadband.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/share_of_businesses_online_presence.csv
+#            downloaded_filename: data/share_of_businesses_online_presence.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ease_of_finding_skilled_employees.csv
+#            downloaded_filename: data/ease_of_finding_skilled_employees.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/apps_in_national_language.csv
+#            downloaded_filename: data/apps_in_national_language.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/time_spent_online.csv
+#            downloaded_filename: data/time_spent_online.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cryptocurrency_adoption.csv
+#            downloaded_filename: data/cryptocurrency_adoption.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyberbullying_rate.csv
+#            downloaded_filename: data/cyberbullying_rate.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/individuals_buying_online_frequency.csv
+#            downloaded_filename: data/individuals_buying_online_frequency.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e-commerce_activity.csv
+#            downloaded_filename: data/e-commerce_activity.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FB_users.csv
+#            downloaded_filename: data/FB_users.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/digital_payments_penetration.csv
+#            downloaded_filename: data/digital_payments_penetration.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/tech_hubs.csv
+#            downloaded_filename: data/tech_hubs.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/software_developer_ecosystem_size.csv
+#            downloaded_filename: data/software_developer_ecosystem_size.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/population_with_smartphones.csv
+#            downloaded_filename: data/population_with_smartphones.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/cyber_attacks.csv
+#            downloaded_filename: data/cyber_attacks.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/e_government_index.csv
+#            downloaded_filename: data/e_government_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/internet_speed.csv
+#            downloaded_filename: data/internet_speed.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/mobile_latency.csv
+#            downloaded_filename: data/mobile_latency.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_rev2_Sept_2022.xlsx
+#            downloaded_filename: data/ITU_database.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Chainalysis_2020_Geography_Cryptocurrency_Report.csv
+#            downloaded_filename: data/Chainalysis_2021_Geography_Cryptocurrency_Report.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/social_media_penetration.csv
+#            downloaded_filename: data/social_media_penetration.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/TCdata360.csv
+#            downloaded_filename: data/TCdata360.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_innovation_dataset.csv
+#            downloaded_filename: data/global_innovation_dataset.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/patent_application_PCT.csv
+#            downloaded_filename: data/patent_application_PCT.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Hague_system.csv
+#            downloaded_filename: data/Hague_system.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Population.csv
+#            downloaded_filename: data/Population.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Area.csv
+#            downloaded_filename: data/Area.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/GDP.csv
+#            downloaded_filename: data/GDP.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/inherent_cyber_risk.csv
+#            downloaded_filename: data/inherent_cyber_risk.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/global_resilience_index.csv
+#            downloaded_filename: data/global_resilience_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/RankingView_05122022.csv
+#            downloaded_filename: data/open_data_inventory.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/ODB-leadersEdition-Datasets-Scored.csv
+#            downloaded_filename: data/open_data_barometer.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/FINAL_2021_wjp_rule_of_law_index_HISTORICAL_DATA_FILE.xlsx
+#            downloaded_filename: data/open_government_wjp.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/MMPI_Intervals_table_2022.xlsx
+#            downloaded_filename: data/mobile_money_prevalence.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Mobile_Money_Regulatory_Index_Database_V1.xlsx
+#            downloaded_filename: data/mobile_money_regulatory.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/3i-index-data.csv
+#            downloaded_filename: data/inclusive_internet_index.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/XLS_Birth_registration_database_May-2022.xlsx
+#            downloaded_filename: data/birth_registration.xlsx
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/Freedomhouse_countries_report.csv
+#            downloaded_filename: data/Freedomhouse_countries_report.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://raw.githubusercontent.com/mbelinsky/public_development_data/main/demographic_comparison_data.csv
+#            downloaded_filename: data/demographic_comparison_data.csv
+#            postprocess: ./process_raw_data.js
+
+#       - name: Fetch data
+#         uses: githubocto/flat@v2
+#         if: always()
+#         with:
+#            http_url: https://www.dlapiperdataprotection.com/_undp/feed.json
+#            downloaded_filename: data/data_laws.json
+#            postprocess: ./process_raw_data.js

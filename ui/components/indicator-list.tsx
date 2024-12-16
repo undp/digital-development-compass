@@ -383,11 +383,7 @@ const Indicator = ({
                       className="mr-1 flex-none"
                     />
                   )}
-                  <span className="group-hover:underline">{source.source}</span>{" "}
-                  &nbsp;
-                  <span className="group-hover:no-underline">
-                    -<em>&nbsp;{source.year}</em>
-                  </span>
+                  <span className="group-hover:underline mr-8 break-all">{source.source}-<em>{source.year}</em></span>{" "}
                 </a>
               </li>
             );

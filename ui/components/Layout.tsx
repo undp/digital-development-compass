@@ -23,6 +23,7 @@ type Props = {
 };
 
 const Layout = ({ children, title = "", countries = [] }: Props) => {
+  const currentYear = new Date().getFullYear();
   return (
     <>
       <NextSeo title={title} />
@@ -86,7 +87,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
           <div className="border-t border-[#fff] w-full"></div>
           <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[34px] text-center lg:text-left pb-5 sm:pb-5 md:mb-[24px] lg:mb-[24px] pl-0 sm:pl-4 md:pl-0 lg:pl-0">
             <p className="text-sm md:text-[16px] md:leading-[22px] font-normal lg:order-1 mb-2 lg:mb-0">
-              &copy; 2024 United Nations Development Programme
+              &copy; {currentYear} United Nations Development Programme
             </p>
             <a
               href="https://www.undp.org/copyright-terms-use"
