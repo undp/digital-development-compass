@@ -121,8 +121,8 @@ async function main() {
     const definition =
       definitions.find(
         (d) =>
-          d["Pillar"] === pillar &&
-          (!subpillar || d["Sub-Pillar"] === subpillar)
+          d["Pillar"].toLowerCase() === pillar.toLowerCase() &&
+          (!subpillar || d["Sub-Pillar"].toLowerCase() === subpillar.toLowerCase())
       ) || "";
     const stageInfo = definition[stageName];
     if (!stageInfo){
@@ -158,8 +158,8 @@ async function main() {
   function getPillarRank(name, pillar) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === name &&
-        score["Pillar"] === pillar &&
+        score["Country Name"].toLowerCase() === name.toLowerCase() &&
+        score["Pillar"].toLowerCase() === pillar.toLowerCase() &&
         !score["Sub-Pillar"]
       );
     });
@@ -170,8 +170,8 @@ async function main() {
   function getDigitalRightPillarRank(name, pillar) {
     let match = digital_right_scores.find((score) => {
       return (
-        score["Country Name"] === name &&
-        score["Pillar"] === pillar
+        score["Country Name"].toLowerCase() === name.toLowerCase() &&
+        score["Pillar"].toLowerCase() === pillar.toLowerCase()
       );
     });
 
@@ -181,9 +181,9 @@ async function main() {
   function getSubpillarRank(name, pillar, subpillar) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === name &&
-        score["Pillar"] === pillar &&
-        score["Sub-Pillar"] === subpillar
+        score["Country Name"].toLowerCase() === name.toLowerCase() &&
+        score["Pillar"].toLowerCase() === pillar.toLowerCase() &&
+        score["Sub-Pillar"].toLowerCase() === subpillar.toLowerCase()
       );
     });
 
@@ -193,8 +193,8 @@ async function main() {
   function getPillarScore(country, pillar) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === country &&
-        score["Pillar"] === pillar &&
+        score["Country Name"].toLowerCase() === country.toLowerCase() &&
+        score["Pillar"] === pillar.toLowerCase() &&
         !score["Sub-Pillar"]
       );
     });
@@ -205,8 +205,8 @@ async function main() {
   function getDigitalRightPillarScore(country, pillar) {
     let match = digital_right_scores.find((score) => {
       return (
-        score["Country Name"] === country &&
-        score["Pillar"] === pillar
+        score["Country Name"].toLowerCase() === country.toLowerCase() &&
+        score["Pillar"].toLowerCase() === pillar.toLowerCase()
       );
     });
     return match && match["new_rank_score"] ? match["new_rank_score"] : null;
@@ -215,7 +215,7 @@ async function main() {
   function checkCountryIsAvailable(country) {
     let match = digital_right_scores.find((score) => {
       return (
-        score["Country Name"] === country
+        score["Country Name"].toLowerCase() === country.toLowerCase()
       );
     });
     return match ? true :  false;
@@ -224,9 +224,9 @@ async function main() {
   function getSubpillarScore(country, pillar, subpillar) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === country &&
-        score["Pillar"] === pillar &&
-        score["Sub-Pillar"] === subpillar &&
+        score["Country Name"].toLowerCase() === country.toLowerCase() &&
+        score["Pillar"].toLowerCase() === pillar.toLowerCase() &&
+        score["Sub-Pillar"].toLowerCase() === subpillar.toLowerCase() &&
         // Probably unnecessary, but helps clarify where the score is coming from
         !Boolean(score["Indicator"])
       );
@@ -237,7 +237,7 @@ async function main() {
 
   function getPillarConfidence(country, pillar) {
     let match = scores.find((score) => {
-      return score["Country Name"] === country && score["Pillar"] === pillar;
+      return score["Country Name"].toLowerCase() === country.toLowerCase() && score["Pillar"].toLowerCase() === pillar.toLowerCase();
     });
 
     return match ? match["data_availability"] : null;
@@ -246,7 +246,7 @@ async function main() {
   function getSubpillarConfidence(country, subpillar) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === country && score["Sub-Pillar"] === subpillar
+        score["Country Name"].toLowerCase() === country.toLowerCase() && score["Sub-Pillar"].toLowerCase() === subpillar.toLowerCase()
       );
     });
 
@@ -255,7 +255,7 @@ async function main() {
 
   function getDigitalRightPillarConfidence(country, pillar) {
     let match = digital_right_scores.find((score) => {
-      return score["Country Name"] === country && score["Pillar"] === pillar;
+      return score["Country Name"] === country.toLowerCase() && score["Pillar"] === pillar.toLowerCase();
     });
 
     return match ? match["data_availability"] : null;
@@ -264,7 +264,7 @@ async function main() {
   function getOverallScore(country) {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === country &&
+        score["Country Name"].toLowerCase() === country.toLowerCase() &&
         !Boolean(score["Sub-Pillar"]) &&
         !Boolean(score["Pillar"])
       );
@@ -304,7 +304,7 @@ async function main() {
   const getOverallConfidence = (country) => {
     let match = scores.find((score) => {
       return (
-        score["Country Name"] === country &&
+        score["Country Name"].toLowerCase() === country.toLowerCase() &&
         !Boolean(score["Sub-Pillar"]) &&
         !Boolean(score["Pillar"])
       );
@@ -404,7 +404,6 @@ async function main() {
       },
     };
   });
-
   const db = {
     definitions,
     boundingBoxes,
