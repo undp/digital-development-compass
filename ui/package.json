@@ -6,6 +6,7 @@
     "build": "next build",
     "build:static": "next build && next export",
     "start": "next start",
+    "export": "next export",
     "type-check": "tsc",
     "postinstall": "node ./scripts/prepare-data.js && quicktype ./database/processed/db.json --out ./database/processed/db.ts"
   },

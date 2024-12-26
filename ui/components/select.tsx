@@ -1,7 +1,8 @@
 import { Listbox } from "@headlessui/react";
 import React, { useEffect, useRef, useState } from "react";
-import Image from "next/image";
-import chevronRight from "../public/chevron-down.svg";
+//import Image from "next/image";
+//import chevronRight from "../public/chevron-down.svg";
+import { prefix } from "lib/prefix";
 
 interface SelectProps<T> {
   value: T;
@@ -47,8 +48,8 @@ export function Select<T extends string>(props: SelectProps<T>) {
       >
         {trigger}
         <span className="absolute inset-y-0 right-0 flex items-center pr-4 pointer-events-none">
-          <Image
-            src={chevronRight}
+          <img
+            src={`${prefix}/chevron-down.svg`}
             alt="Chevron Right"
             width={20}
             height={13}

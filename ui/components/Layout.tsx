@@ -1,20 +1,21 @@
 import { NextSeo } from "next-seo";
 import { ReactNode } from "react";
-import Image from "next/image";
+//import Image from "next/image";
 // import { FaCreativeCommonsBy } from "react-icons/fa";
 // import { GoMarkGithub } from "react-icons/go";
 // import { GrCreativeCommons } from "react-icons/gr";
 import { Header } from "./header";
 // import Link from "next/link";
 import CookieConsent from "./cookie-consent";
-import LogoSVG from "../public/undp-white-logo.svg";
-import xTwitter from '../public/x-twitter-brands-solid.svg'
-import InstagramSVG from '../public/instagram-brands-solid.svg'
+//import LogoSVG from "../public/undp-white-logo.svg";
+//import xTwitter from '../public/x-twitter-brands-solid.svg'
+//import InstagramSVG from '../public/instagram-brands-solid.svg'
 import {
   FaFacebookF,
   FaLinkedinIn,
   FaYoutube,
 } from "react-icons/fa";
+import { prefix } from "lib/prefix";
 type Props = {
   children?: ReactNode;
   title?: string;
@@ -22,6 +23,7 @@ type Props = {
 };
 
 const Layout = ({ children, title = "", countries = [] }: Props) => {
+  const currentYear = new Date().getFullYear();
   return (
     <>
       <NextSeo title={title} />
@@ -33,7 +35,8 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between pb-[32px] sm:pb-[32px] md:pb-[48px] lg:pb-[48px]">
             <div className="flex flex-row items-center space-x-0 mb-0 sm:mb-0 md:mb-4 lg:mb-0">
               <div className="w-[60px] flex-shrink-0 mb-0 sm:mb-0">
-                <Image src={LogoSVG} alt="UNDP Logo" />
+                <img src={`${prefix}/undp-white-logo.svg`} width={60}
+                 height={123} alt="UNDP Logo" />
               </div>
               <div className="text-xl sm:text-xl md:text-[25px] md:leading-[1.15] sm:pl-4 font-normal md:text-left lg:text-left">
                 <span>United Nations</span>
@@ -62,14 +65,14 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Image height={20} width={20} src={InstagramSVG} alt="InstagramSVG" />
+                  <img height={20} width={20} src={`${prefix}/instagram-brands-solid.svg`} alt="InstagramSVG" />
                 </a>
                 <a
                   href="https://twitter.com/UNDP"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                    <Image height={20} width={20} src={xTwitter} alt="xTwitter" />
+                    <img height={20} width={20} src={`${prefix}/x-twitter-brands-solid.svg`} alt="xTwitter" />
                 </a>
                 <a
                   href="https://www.youtube.com/user/undp"
@@ -84,7 +87,7 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
           <div className="border-t border-[#fff] w-full"></div>
           <div className="flex flex-col lg:flex-row justify-between items-start w-full pt-[34px] text-center lg:text-left pb-5 sm:pb-5 md:mb-[24px] lg:mb-[24px] pl-0 sm:pl-4 md:pl-0 lg:pl-0">
             <p className="text-sm md:text-[16px] md:leading-[22px] font-normal lg:order-1 mb-2 lg:mb-0">
-              &copy; 2024 United Nations Development Programme
+              &copy; {currentYear} United Nations Development Programme
             </p>
             <a
               href="https://www.undp.org/copyright-terms-use"
@@ -114,14 +117,14 @@ const Layout = ({ children, title = "", countries = [] }: Props) => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Image height={20} width={20} src={InstagramSVG} alt="InstagramSVG" />
+                  <img height={20} width={20} src={`${prefix}/instagram-brands-solid.svg`} alt="InstagramSVG" />
                 </a>
                 <a
                   href="https://twitter.com/UNDP"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                    <Image height={20} width={20} src={xTwitter} alt="xTwitter" />
+                    <img height={20} width={20} src={`${prefix}/x-twitter-brands-solid.svg`} alt="xTwitter" />
                 </a>
               <a
                 href="https://www.youtube.com/user/undp"

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Image from "next/image";
-import LogoSVG from "../public/undp-logo.svg";
+import { prefix } from "../lib/prefix";
+//import Image from "next/image";
+// import LogoSVG from "../public/undp-logo.svg";
 
 const slides = [
   {
@@ -79,7 +80,7 @@ const PopupMessage = () => {
               className="rounded-full bg-blue-100 p-1 flex items-center justify-center"
               style={{ width: "50px", height: "50px" }}
             >
-              <Image src={LogoSVG} alt="UNDP Logo" width={40} height={40} />
+              <img src={`${prefix}/undp-logo.svg`} alt="UNDP Logo" width={40} height={40} />
             </div>
             <h2 className="ml-1 text-lg">Digital Development Compass</h2>
           </div>
