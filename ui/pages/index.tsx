@@ -23,8 +23,14 @@ function Hero() {
       <h1 className="text-[40px] sm:text-[40px] md:text-[35px] lg:text-[35px] leading-[1.1] font-bold">
         Is your nation ready to navigate digital transformation?
       </h1>
-      <p className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-7 mt-4 text-left" style={{color: '#333333'}}>
-      Explore your nation's digital progress using the world's largest database of digital development data. Leveraging the pillars of UNDP’s Digital Transformation Framework, the Digital Development Compass lets you discover and compare progress across a range of key issues.
+      <p
+        className="text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-7 mt-4 text-left"
+        style={{ color: "#333333" }}
+      >
+        Explore your nation's digital progress using the world's largest
+        database of digital development data. Leveraging the pillars of UNDP's
+        Digital Transformation Framework, the Digital Development Compass lets
+        you discover and compare progress across a range of key issues.
       </p>
     </div>
   );
@@ -54,9 +60,9 @@ const IndexPage = ({
   return (
     <Layout countries={countries}>
       <section className="h-full flex flex-col">
-      <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
-      <PopupMessage/>
-      <div className="items-center justify-center px-6 py-6 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
+        <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
+          <PopupMessage />
+          <div className="items-center justify-center px-6 py-6 lg:px-12 xl:px-16 col-span-full lg:col-span-5">
             <div className="max-w-2xl flex flex-col justify-center h-full md:mx-auto pt-14">
               <Hero />
               <div className="mt-8 mb-4">
@@ -67,7 +73,7 @@ const IndexPage = ({
               </div>
             </div>
           </div>
-          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50 ">
+          <div className="col-span-full lg:col-span-7 pb-20 lg:pb-0 overflow-hidden relative bg-gradient-to-r from-blue-50 flex flex-col">
             <AnimatePresence>
               {activeCountry && (
                 <motion.div
@@ -79,7 +85,7 @@ const IndexPage = ({
               )}
             </AnimatePresence>
             <motion.div
-              className="h-full"
+              className="flex-1"
               variants={globeVariants}
               initial={false}
               animate={Boolean(activeCountryId) ? "shifted" : "normal"}
@@ -96,6 +102,22 @@ const IndexPage = ({
                 data={globeData}
               />
             </motion.div>
+
+            {/* Disclaimer */}
+            <div className="mt-6 p-4 rounded-lg">
+              <h3 className="text-sm font-semibold text-gray-400 mb-2">
+                Disclaimer
+              </h3>
+              <p className="text-xs text-gray-400 leading-relaxed">
+                The designations employed and the presentation of material on
+                this map do not imply the expression of any opinion whatsoever
+                on the part of the Secretariat of the United Nations or UNDP
+                concerning the legal status of any country, territory, city or
+                area or its authorities, or concerning the delimitation of its
+                frontiers or boundaries.
+              </p>
+            </div>
+
             <AnimatePresence>
               {activeCountry && (
                 <motion.div
