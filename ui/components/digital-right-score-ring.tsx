@@ -316,7 +316,7 @@ export const DigitalRightScoreRing = ({
                     className="hidden md:block lg:text-2xl transition-all"
                     style={{
                       color,
-                      transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-0.5em, 0)`,
+                      transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-0.5em, 0.3em)`,
                     }}
                   >
                     {/* @ts-ignore */}
@@ -327,7 +327,7 @@ export const DigitalRightScoreRing = ({
                     className="md:hidden lg:text-2xl transition-all"
                     style={{
                       color,
-                      transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-1em, 0)`,
+                      transform: `translate(${iconPosition[0]}px, ${iconPosition[1]}px) translate(-1em, 0.3em)`,
                     }}
                   >
                     {/* @ts-ignore */}
@@ -614,9 +614,9 @@ const Info = ({ pillar, country }: { pillar: string; country: Country }) => {
         </h3> */}
         {Boolean(stageInfo) ? (
           <>
-            {/* <p className="mt-4 font-semibold text-xl pointer-events-none">
+            <p className="mt-2 font-semibold text-xl pointer-events-none">
               Stage {stageInfo.number}: {stageInfo.name}
-            </p> */}
+            </p>
             {/* <p className="leading-5 mt-1 font-light tracking-[0.01em]">
               {stageInfo.description}
             </p> */}

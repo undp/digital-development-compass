@@ -81,14 +81,12 @@ export default function Data(
         width: 100,
         visible: true
       })),
-      ...(process.env.SITE_CONFIG === "dev"
-      ? ancillary.digitalRightPillarName.map((pillar) => ({
+      ...(ancillary.digitalRightPillarName.map((pillar) => ({
           name: pillar,
           key: `scores.${pillar}.score`,
           width: 100,
           visible: true,
-        }))
-      : []),
+        }))),
     {
       name: "Small Island Developing States (SIDS)",
       key: "sids",
@@ -271,8 +269,7 @@ export default function Data(
             },
           };
         }),
-       ...(process.env.SITE_CONFIG === "dev"
-       ? ancillary.digitalRightPillarName.map((pillar) => {
+       ...(ancillary.digitalRightPillarName.map((pillar) => {
         const pillarColor = ancillary.digitalRightPillarColorMap[pillar].base;
 
         const bgScale = scaleLinear<string>()
@@ -323,7 +320,7 @@ export default function Data(
           },
         };
         
-      }):[])
+      }))
     ];
   }, [displaySettings]);
 

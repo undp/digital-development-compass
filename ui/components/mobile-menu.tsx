@@ -89,7 +89,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                   Data
                 </a>
               </Link>
-              {process.env.SITE_CONFIG === "dev" ? (
+              {(
                 <a
                   className={`uppercase text-base w-full flex items-center font-bold tracking-extra-tight`}
                   onMouseEnter={() => setIsHovered(true)}
@@ -105,16 +105,18 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                     <img src={`${prefix}/chevron-right.svg`} alt="chevronRight" />
                   </div>
                 </a>
-              ) : (
-                <Link href="/methodology">
-                  <a
-                    className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
-                    // onClick={() => handleLinkClick("/data")}
-                  >
-                    Methodology
-                  </a>
-                </Link>
-              )}
+              ) 
+              // : (
+              //   <Link href="/methodology">
+              //     <a
+              //       className={`uppercase text-base w-full flex font-bold items-center tracking-extra-tight`}
+              //       // onClick={() => handleLinkClick("/data")}
+              //     >
+              //       Methodology
+              //     </a>
+              //   </Link>
+              // )
+              }
             </nav>
           )}
         </Dialog.Content>

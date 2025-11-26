@@ -16,6 +16,7 @@ import {
   feTableData,
   rendTableData,
   rpTableData,
+  overallStagesTableData,
 } from "database/DRDmethodologyTableData";
 //import { ancillary } from "database/ancillary";
 
@@ -359,98 +360,218 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
                 Digital Rights Score Methodology
               </h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Given that the Digital Rights Dashboard is a subset of the Digital Development Compass, it follows the same overarching 
+                {" "}<a
+                  href="https://digitaldevelopmentcompass.undp.org/methodology"
+                  className="url-styling"
+                  target="_blank"
+                >
+                 methodology{" "}
+                </a>.The DDC currently includes 145 indicators, identified through extensive desk research into 
+                publicly available data across the sub-pillars and pillars of the Digital Development Framework.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                An Expert Committee, a globally representative group of specialists in digital development, 
+                was established to guide this process. The Expert Committee's role is to support the continuous 
+                evolution of the Digital Development Compass, ensuring that the methodology remains relevant 
+                and adaptive over time. Through a series of advisory consultations, the Expert Committee helped 
+                develop data evaluation criteria to assess the quality and reliability of all indicators, both 
+                existing and newly proposed. Indicators that do not meet these standards are excluded from the Compass.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                While the DRD draws on the DDC's foundation, not all 145 indicators were relevant or necessary to 
+                incorporate into the DRD. In some cases, key indicators specific to digital rights were missing. 
+                To address these gaps, UNDP compiled an additional public database to supplement the existing framework.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Using shortlisted indicators, the DRD produces a composite view of a country's digital rights landscape. 
+                During the research phase, it was observed that the Right to Freedom of Expression and the Right to Freedom
+                of Assembly and Association often share overlapping indicators. These were therefore merged into a single pillar. 
+                The resulting structure of the DRD is organized around four main pillars: 
+              </p>
+              <ol className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                <li>1.{" "}Right to Freedom of Expression and Right to Assembly and Association</li>
+                <li>2.Right to Equality and Non-Discrimination </li>
+                <li>3.Right to Privacy  </li>
+                <li>4.Cross-Cutting Indicators - foundational elements such as digital infrastructure and literacy 
+                  that enable the fulfillment of all rights online. These are indicators that are 
+                  common to all rights being measured and serve as indicators of the enabling 
+                  environment for digital rights more generally. 
+                </li>
+              </ol>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Indicator Selection
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Indicators were identified based on our initial literature
-                review and prevailing understandings of international human
-                rights law in the online realm. There are unique indicators
-                measuring each right (Rights to Freedom of Expression, Assembly
-                and Association; Right to Privacy and Right to Equality and
-                Non-Discrimination). All indicators in the Digital Rights
-                Dashboard, like the Digital Development Compass, are all{" "}
-                <a
-                  href="https://www.ohchr.org/en/instruments-and-mechanisms/human-rights-indicators"
+                Based on the relevant
+                {" "}<a
+                  href="https://www.ohchr.org/sites/default/files/Documents/Publications/Human_rights_indicators_en.pdf"
                   className="url-styling"
                   target="_blank"
                 >
-                  Fact-based or objective indicators
-                </a>{" "}
-                which reveal "objects, facts or events" that can be directly
-                observed or verified (such as percentage of population with
-                internet access or existence of a legal provision or
-                institution.) Judgment based indicators which require
-                independent analysis for all 193 were excluded due to capacity
-                constraints.
+                guidance
+                </a>
+                , the DRD uses two types of indicators
               </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                There is another section that features all cross-cutting
-                indicators. These are indicators that are common to all rights
-                being measured and serve as indicators of the “enabling
-                environment” for digital rights writ large.
-              </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Sources to score these indicators fall into two categories:</p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 1.{" "}
                 <i>
-                  Using sources used for other Digital Development Compass
-                  indicators:
+                  Structural Indicators:
                 </i>{" "}
-                A second category of indicators used the same sources as similar
-                indicators in the Digital Development Compass framework. These
-                are all external sources put together by non-governmental
-                organizations, think-tanks and international organizations and
-                provide a quantitative assessment of the relevant Digital Rights
-                Dashboard indicators.
+                Structural indicators help capturing the acceptance, intent and commitment of the State to 
+                undertake measures in keeping with its human rights obligations, including whether the 
+                country is a state party to human rights treaties and conventions and has put in 
+                place legislation to protect digital rights.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                2. <i>Independent desk research: </i>The Digital Rights
-                Dashboard uses independent desk research to assess most
-                indicators. These include indicators assessing the existence of
-                laws and institutions within the countries as well as the state
-                of signing and ratifying foundational human rights law treaties.
-                As there is no available database that provides information on
-                all Digital Rights Dashboard indicators, the Digital Rights
-                Dashboard is building its own customized database, which will be
-                made publicly available. Due to constraints on bandwidth and
-                expertise, the DRD’s desk research does not evaluate the
-                comprehensiveness or legislation and institutions but merely
-                ascertains whether a law or relevant institution exists.
+                2.{" "}
+                <i>
+                  Process Indicators:
+                </i>{" "}
+                Process indicators measure duty bearers’ ongoing efforts to transform their human rights 
+                commitments into the desired results. Unlike structural indicators, this involves indicators 
+                that continuously assess the policies and specific measures taken by the duty bearer to 
+                implement its commitments on the ground.
+              </p>  
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                While several indicators in the DRD are specific to digital rights, many reflect the broader 
+                protection of human rights in general terms, without distinguishing whether those 
+                rights are safeguarded online or offline. In this sense, the protection of a right 
+                offline is a necessary but not sufficient condition for its protection in the digital sphere. 
               </p>
-              <p>
-                As with the Digital Development Compass, the Digital Rights
-                Dashboard verifies the methodology of any external source before
-                incorporation. However, the incorporation of a source into the
-                Digital Rights Dashboard should not be viewed as endorsement of
-                the results of the source. Instead, in line with the overall
-                objectives of the Digital Rights Dashboard, each source should
-                be seen as a conversation starter that all countries can use to
-                conduct more detailed evaluations of their digital rights
-                strategy and compliance.
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                For example, a country may constitutionally guarantee the right to privacy, suggesting 
+                that privacy is legally protected. However, without complementary legislation 
+                or policies—such as data protection laws or safeguards against government 
+                surveillance—this protection may not extend effectively to the online environment. 
+                Conversely, it is rare for a country to have detailed regulations on online privacy, 
+                such as restrictions on surveillance, without first recognizing the general right to 
+                privacy in its legal framework. 
               </p>
-              <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Weighting</h2>
-              <p>
-                All indicators in the Digital Rights Dashboard are weighted
-                equally. Existing international human rights law and
-                jurisprudence do not support the assignment of inequitable
-                weights to one human right over another or to indicators used to
-                measure each right.
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Sources
+              </h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Sources used to score these indicators fall into two categories (please see Appendix for a full list of all indicators): 
               </p>
-              <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Data Processing</h2>
-              <p>
-                Data processing for the Digital Rights Dashboard uses the same
-                methodology as the Digital Development Compass. Please refer to
-                the{" "}
-                <a
-                  href="https://undp-digital-new-dev-development-compass.vercel.app/methodology"
+              
+              <p className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">
+                 1.{" "}<i>External quantitative sources used for other Digital Development Compass indicators:</i> These DRD indicators drawn directly from the DDC databases
+              </p>
+              <p className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">
+                2.{" "}
+                <i>
+                  <a
+                  href="https://www.ohchr.org/sites/default/files/Documents/Publications/Human_rights_indicators_en.pdf"
                   className="url-styling"
                   target="_blank"
                 >
-                  Digital Development Compass methodology
-                </a>{" "}
-                .
+                 Internal database:{" "}</a>
+                   The Digital Rights Foundations Database was compiled through a two-step process, combining Artificial-Intelligence 
+                  assisted structured data extraction using large language models 
+                  (Chat GPT, Gemini and DeepSeek) and reconfirmed with expert human verification.
+                </i>{" "}
+              </p> 
+
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                For more information on this process, please see 
+                {" "}<a
+                  href="https://data.undp.org/insights/drdfoundations"
+                  className="url-styling"
+                  target="_blank"
+                >
+                 here.</a>
               </p>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Scoring
+              </h2>
+               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                To ensure comparability across indicators and countries, all data was standardized through a 
+                consistent scoring process. Structural and process indicators are expressed through different 
+                data types — some as quantitative measures and others as categorical values — 
+                and are scored accordingly using the normalization methods described below. 
+              </p>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Quantitative Indicators
+              </h2>
+               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Quantitative indicators use numerical data — for example, internet penetration rate (% of population online). 
+                They are normalized using Min–Max rescaling to a standardized 0–1 range, where 1 represents the highest 
+                country score and 0 the lowest. 
+              </p>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Categorical Indicators
+              </h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Categorical indicators convert qualitative data into numerical values — for example, data protection 
+                law status (0 = no law, 0.5 = draft law, 1 = enacted law). These values are linearly rescaled and then 
+                normalized using Min–Max normalization to a 0–1 range, ensuring consistency and comparability across indicators.  
+              </p>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Weighting
+              </h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                All indicators in the DRD are weighted equally. This approach reflects the principle, grounded in 
+                international human rights law and jurisprudence, that no single human right is more important 
+                than another, and that all rights—and the different types of indicators used to measure them—should be accorded equal importance.  
+              </p>
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Limitations
+              </h2>     
+              
+                <UnorderedListItems listData={[
+                    <span>Some indicator selection criteria—particularly the requirement that data be available for more than 70% (approximately 135) 
+                    of the 193 UN Member States—limited the inclusion of certain high-quality regional datasets39. 
+                    As a result, some valuable regional databases could not be incorporated into the overall DRD. 
+                    Nonetheless, users are encouraged to undertake their own research to contextualize DRD findings 
+                    with more localized or region-specific data sources.</span>,
+                    <span>Most indicators in the DRD (20 out of 27) are structural indicators, reflecting the availability and feasibility of 
+                    data collection. Consequently, the DRD provides more insight into countries’ acceptance, intent, and commitment to 
+                    fulfilling digital rights obligations, rather than the extent to which these commitments are being translated into 
+                    tangible results. The mere existence of a law or policy is therefore a necessary but not sufficient condition for the 
+                    respect and protection of digital rights.</span>,
+                    <span>As with the Digital Development Compass, the DRD verifies the methodology of any external source before 
+                    incorporating its data. However, inclusion of a source in the DRD does not imply endorsement of the data 
+                    it contains. Any identified discrepancies should be reported directly to the entity hosting the original database.</span>,
+                    <span>The indicators included in the DRD are technology-neutral—they do not assess specific technologies 
+                    (e.g., Artificial Intelligence) or use cases (e.g., technology deployment in policing). Instead, 
+                    the DRD serves as an entry point for understanding how national systems enable or constrain the 
+                    protection and fulfillment of digital rights regardless of the kind of technology being deployed 
+                    (AI, quantum computing) or application (social media, digital ID, government services  and so on).</span>,
+                    <span>It is important to note that, unless a suitable data source explicitly evaluates it, 
+                    the DRD does not assess the quality of legislation - whether a law is drafted precisely 
+                    or comprehensively enough to meet international human rights standards. Nor does it capture 
+                    the frequency or severity of violations of such legislation in practice.</span>,
+                    <span>It is important to note that, unless a suitable data source explicitly evaluates it, 
+                    the DRD does not assess the quality of legislation - whether a law is drafted precisely 
+                    or comprehensively enough to meet international human rights standards. Nor does it capture 
+                    the frequency or severity of violations of such legislation in practice.</span>,
+                    <span>In UNDP’s Internal Digital Rights Database, which spans all 147 UNDP programme countries, 
+                    some data gaps remain. UNDP welcomes inputs from experts in academia, civil society, industry, 
+                    and government to help improve data accuracy and coverage. Any corrections or clarifications 
+                    can be shared at <a href="mailto:digital.support@undp.org">digital.support@undp.org</a>.</span>
+                ]} />
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
+                Stages
+              </h2>  
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The DRD generates a composite score that reflects a country’s overall status in protecting and fulfilling digital 
+                rights. Each of the four pillars comprises a set of indicators that correspond to specific stages of digital 
+                rights protection and fulfilment.The DRD follows the same progressive, five-stage maturity scale as the DDC and DRA, 
+                which has been piloted in multiple contexts and reviewed by experts, confirming its usefulness as a practical 
+                framework for providing an overview of countries’ progress. The overall stage of a country in the DRD has been 
+                calculated by simply adding up the scores for all four pillars and then dividing by 4. The stages, as defined for 
+                each of the four rights, are as follows:   
+              </p> 
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
+                Overall Stages of the DRD
+              </h2>
+
+              <OverallStageTable/>
+              
+              
               <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:text-left md:text-left">
                 Disclaimer
               </h2>
@@ -655,4 +776,53 @@ export function ReTable() {
       </table>
     </div>
   );
+}
+
+export function OverallStageTable() {
+  return (
+    <div className="overflow-x-auto">
+      <table className="min-w-full border border-gray-300">
+        <tbody style={{ backgroundColor: "#f3f4f6" }}>
+          {overallStagesTableData.map((item, index) => (
+            <tr key={index}>
+              <td
+                className="px-4 py-2 border border-gray-300 align-top text-left font-bold"
+                width={80}
+              >
+                {item.number}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
+                {item.stage}
+              </td>
+              <td className="px-4 py-2 border border-gray-300 align-top text-left">
+                {item.definition}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+export function UnorderedListItems({listData = []}:{listData:React.ReactNode[]}) {
+  return (
+      <ul className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px] list-disc ml-5">
+          {listData.map((item,index) => (
+            <li key={index} className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">
+              {item} 
+            </li>
+          ))}
+      </ul>)
+}
+
+export function OrderedListItems({listData = []}:{listData:React.ReactNode[]}) {
+  return (
+      <ol className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px] list-decimal">
+          {listData.map((item,index) => (
+            <li key={index} className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">
+              {item} 
+            </li>
+          ))}
+      </ol>)
 }

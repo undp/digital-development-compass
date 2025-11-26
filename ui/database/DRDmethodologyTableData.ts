@@ -112,4 +112,32 @@ export const tableData = [
               definition:"Respecting, protecting and fulfilling    digital rights through an integrated, cohesive national approach. Minimal instances of rights violations."
             },
         ];
+
+      export const overallStagesTableData = [ 
+        {
+            number : "0-1",
+            stage: "Basic",
+            definition:"Basic attempt made to recognize digital rights, but no attempt made to respect, protect or integrate into national digital transformation strategy."
+          },
+          {
+              number : "1-2",
+              stage: "Opportunistic",
+              definition:"Advancing digital rights in limited aspects while still engaging in practices that may be inconsistent with human rights and/or key international human rights instruments not signed or ratified."
+            },
+            {
+              number : "2-3",
+              stage: "Systematic",
+              definition:"Systematically advancing key aspects of digital rights based on some priority areas."
+            },
+            {
+              number : "3-4",
+              stage: "Differentiating",
+              definition:"Clear strength in respecting and protecting digital rights with all key systemic elements in place."
+            },
+            {
+              number : "4-5",
+              stage: "Transformational",
+              definition:"Respecting, protecting and fulfilling digital rights through an integrated, cohesive national approach."
+            },
+        ];
       

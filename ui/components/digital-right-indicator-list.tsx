@@ -9,6 +9,7 @@ import useSWR from "swr";
 //import Image from "next/image";
 import { uniqBy } from "lodash";
 import { prefix } from "lib/prefix";
+import { getMappedIndicator, getSortedIndicators } from "helpers/indicatorHelper";
 interface IndicatorListProps {
   country: string;
   pillar: DigitalRightsPillar;
@@ -54,6 +55,9 @@ const fetchIndicators = async (_: string, country: string, pillar: string) => {
       }),
     };
   });
+
+  indicesWithSources = getSortedIndicators(pillar, indicesWithSources);
+
   return  indicesWithSources;
 };
 
@@ -77,6 +81,7 @@ export function DigitalRightIndicatorList(props: IndicatorListProps) {
         {data.length === 0 ? "s" : data.length > 1 ? "s" : ""}
       </p>
     );
+    
 
   return (
     <div>
@@ -304,7 +309,7 @@ const Indicator = ({
   return (
     <li className={hasNoData ? "dp-text-color" : ""}>
       <div className="flex items-center justify-between">
-        <span className="text-sm">{indicator?.Indicator}</span>
+        <span className="text-sm">{getMappedIndicator(indicator?.Indicator)}</span>
         <span className={`ml-4 flex-shrink-0 relative`}>
           {renderValue()}
           {isHovered && indicator?.raw_data_col && (

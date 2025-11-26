@@ -11,6 +11,7 @@ export const CircleText = ({
   text = '',
   ...props
 }: CircleTextProps) => {
+
   return (
     <>
       <path
@@ -26,7 +27,7 @@ export const CircleText = ({
       ></path>
       {/* @ts-ignore */}
       <text textAnchor="middle" {...props}>
-        <textPath href={`#${id}`} startOffset="50%">
+        
         {(() => {
                 // const text = text// Replace this with your actual text
                 const maxLength = 25;
@@ -40,7 +41,17 @@ export const CircleText = ({
                         if ((currentLine + word).length <= maxLength) {
                             currentLine += word + ' ';
                         } else {
-                            lines.push(currentLine.trim());
+                            let line = currentLine.trim();
+                            const padLength = maxLength - line.length;
+                            
+                            if (padLength > 0) {
+                              const padStart = Math.floor(padLength / 2);
+                              const padEnd = padLength - padStart;
+                              line = '\u00A0'.repeat(padStart) + line + '\u00A0'.repeat(padEnd);
+                            }
+                            lines.push(line);
+
+                            // Start new line
                             currentLine = word + ' ';
                         }
                     });
@@ -49,19 +60,20 @@ export const CircleText = ({
                         lines.push(currentLine.trim());
                     }
 
-                    const lineHeight = 1; // Adjust line height as needed
+                    const lineHeight = 0.85; // Adjust line height as needed
                     const yOffset = (lines.length - 1) * lineHeight / 2;
 
                     return lines.map((line, index) => (
-                        <tspan key={index} x="0" dy={`${index === 0 ? -yOffset : lineHeight}em`}>
+                        <textPath href={`#${id}`} startOffset="50%">
+                          <tspan key={index} x="0" dy={`${index === 0 ? -yOffset : lineHeight}em`}>
                             {line}
-                        </tspan>
+                          </tspan>
+                        </textPath>
                     ));
                 } else {
-                    return <tspan>{text}</tspan>;
+                    return <textPath href={`#${id}`} startOffset="50%"><tspan>{text}</tspan></textPath>;
                 }
             })()}
-        </textPath>
       </text>
     </>
   )
