@@ -374,9 +374,10 @@ const Indicator = ({
                   )}
                   <span className="group-hover:underline">{source.source}</span>{" "}
                   &nbsp;
+                  {source.year && 
                   <span className="group-hover:no-underline">
                     -<em>&nbsp;{source.year}</em>
-                  </span>
+                  </span>}
                 </a>
               </li>
             );

@@ -391,10 +391,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 The resulting structure of the DRD is organized around four main pillars: 
               </p>
               <ol className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                <li>1.{" "}Right to Freedom of Expression and Right to Assembly and Association</li>
-                <li>2.Right to Equality and Non-Discrimination </li>
-                <li>3.Right to Privacy  </li>
-                <li>4.Cross-Cutting Indicators - foundational elements such as digital infrastructure and literacy 
+                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">1.{" "}Right to Freedom of Expression and Right to Assembly and Association</li>
+                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">2.Right to Equality and Non-Discrimination </li>
+                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">3.Right to Privacy  </li>
+                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">4.Cross-Cutting Indicators - foundational elements such as digital infrastructure and literacy 
                   that enable the fulfillment of all rights online. These are indicators that are 
                   common to all rights being measured and serve as indicators of the enabling 
                   environment for digital rights more generally. 
