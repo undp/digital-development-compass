@@ -83,232 +83,46 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
             </div> */}
             <div className="text-[16px] sm:text-[16px] md:text-[20px] lg:text-[20px] leading-[1.4] ">
               <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] ">
-                The role of digital rights in digital transformation
-              </h2>
-              <p>
-                UNDP advocates for rights based, inclusive, whole-of-society
-                digital transformation. It is a coordinated approach between
-                government, civil society and the private sector to support
-                human-centred design, mitigate risks, and establish
-                accountability. However, digital transformation in the absence
-                of a clearly defined framework of rights comes with several
-                potential harms to individuals and consumers and undermines the
-                trust that people repose in digital ecosystems.
-              </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                This is why across the United Nations System, human rights have
-                been recognized as integral to digital uptake and
-                transformation. The Secretary-General's 2020{" "}
-                <a
-                  href="https://www.un.org/en/content/action-for-human-rights/index.shtml"
-                  className="url-styling"
-                  target="_blank"
-                >
-                  Call to Action on Human Rights: Our Common Agenda
-                </a>{" "}
-                includes consideration of the application of human rights
-                frameworks and standards in the digital space. As per the{" "}
-                <a
-                  href="https://www.un.org/en/content/digital-cooperation-roadmap/"
-                  className="url-styling"
-                  target="_blank"
-                >
-                  United Nations Secretary General's Roadmap for Digital
-                  Cooperation,
-                </a>{" "}
-                Human rights apply online just as they do offline. Digital
-                technologies provide new means to exercise human rights, but
-                they are too often also used to violate them. Data protection
-                and privacy issues, the throttling of free speech online, the
-                use of surveillance technologies, and online violence and
-                harassment, are of particular concern. This view reflects
-                several United Nations resolutions.
-              </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Consequently, the Digital Development Compass does not
-                conceptualise "digital human rights" as new rights unique to the
-                digital space but instead as the online application of rights
-                that exist offline.
-              </p>
-              <p>
-                <a
-                  href="https://digitalstrategy.undp.org/"
-                  className="url-styling"
-                  target="_blank"
-                >
-                  UNDP's Digital Strategy
-                </a>{" "}
-                aims to apply this approach to the digital realm by
-                collaborating with other entities in the UN system to promote
-                inclusive and gender-sensitive approaches that address the needs
-                of the most vulnerable. Further, UNDP will contribute to and
-                propagate shared global standards that protect human rights in
-                the digital realm by drawing from existing international law
-                instruments such as the United Nations Charter and the Universal
-                Declaration of Human Rights.
-              </p>
-              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
-                Overview of the Digital Rights Dashboard
-              </h2>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Objectives</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The Digital Development Compass (DDC) is constructed based on
-                the{" "}
-                <a
-                  href="https://www.undp.org/digital/transformations"
-                  className="url-styling"
-                  target="_blank"
-                >
-                  Inclusive Whole-Of-Society Digital Transformation framework
-                </a>{" "}
-                endorsed by UNDP. The Digital Transformation Framework serves as
-                a guide for stakeholders to align their efforts regarding
-                inclusive digital transformation and supports countries in their
-                transformation process. It enables stakeholders to identify,
-                structure, and prioritise their national digital transformation
-                initiatives and agendas effectively.
-              </p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The <b>Digital Rights Dashboard (DRD)</b> attempts to share
-                insights and measure the performance of countries on the extent
-                to which they have been able to incorporate digital rights
-                effectively into their overall digital strategy. It is an
-                additional component of the Digital Development Compass and uses
-                the same methodology.
-              </p>
-              <p className="">
-                The framework represented in the Digital Rights Dashboard is the
-                result of an extensive review of international law and relevant
-                literature published by international organizations, civil
-                society, governments, academia and the private sector. Like the
-                Digital Development Compass, it relies on publicly available
-                data to assess the performance of countries on specific digital
-                rights. The Digital Rights Dashboard is designed as an entry
-                point or a conversation starter and should not be interpreted as
-                an authoritative final judgment regarding the performance of any
-                country either on a specific right or on digital rights as a
-                whole.
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Four Rights</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                For the purpose of the Digital Rights Dashboard, we are
-                measuring four rights:
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>1. Right to Freedom of Speech and Expression </b>
-              </h2>
-              <p>
-                Definition from <b>ICCPR Art. 19 (2):</b> This right shall
-                include freedom to seek, receive and impart information and
-                ideas of all kinds, regardless of frontiers, either orally, in
-                writing or in print, in the form of art, or through any other
-                media of his choice.
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>2. Right to Freedom of Assembly and Association </b>
-              </h2>
-              <p>
-                Everyone shall have the right to freedom of expression; this
-                right shall include freedom to seek, receive and impart
-                information and ideas of all kinds, regardless of frontiers,
-                either orally, in writing or in print, in the form of art, or
-                through any other media of his choice <b>(Art. 19 ICCPR) </b>
-                This right also covers the "rights to freedom of peaceful
-                assembly and association", which are essential components of
-                democracy. The right of peaceful assembly includes the right to
-                hold meetings, sit-ins, strikes, rallies, events or protests,
-                both offline and online.
-              </p>
-              <p>
-                <b>
-                  NB: Given the overlap in the indicators measuring these
-                  rights, the two rights above will be integrated as the Right
-                  to Freedom of Expression, Assembly and Association.
-                </b>
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>3. Right to Equality and Non-Discrimination </b>
-              </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">Definition derived from Art. 26 ICCPR</p>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                <i>
-                  All persons are equal before the law and are entitled without
-                  any discrimination to the equal protection of the law [both
-                  online and offline]. In this respect, the law shall prohibit
-                  any discrimination and guarantee to all persons equal and
-                  effective protection against discrimination on any ground such
-                  as race, colour, sex, language, religion, political or other
-                  opinion, national or social origin, property, birth or other
-                  status.
-                </i>
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>4. Right to Privacy </b>
+                What is the Digital Rights Dashboard?
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                <i>
-                  Protection of all individuals against arbitrary or unlawful
-                  interference with his or her privacy, family, home or
-                  correspondence, or unlawful attacks on their honour and
-                  reputation.
-                </i>
+                Building on the foundation of the Digital Development Compass (DDC), the Digital Rights Dashboard (DRD) offers a more targeted perspective on how countries are progressing in protecting human rights online. While the DDC provides a broad overview of digital development, the DRD focuses specifically on how well countries safeguard four fundamental digital rights: freedom of opinion and expression, freedom of assembly and association, the right to equality and non-discrimination, and the right to privacy. In addition, the DRD also includes a set of cross-cutting indicators which measure foundational elements and form part of the enabling environment for digital rights overall. The DDC and the DRD are closely linked, sharing several indicators and a consistent methodological framework.
               </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                Why did UNDP choose four rights?
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The DRD is not a scoring or evaluative tool but an overview—a starting point for examining how national contexts support or challenge human rights online. Developed through an extensive review of international law, UN documents and resolutions and literature from international organizations, civil society, governments, academia, and the private sector, the DRD aims to initiate informed dialogue on rights-based digital transformation. Its purpose is to support policymakers, practitioners, and other stakeholders in understanding and advancing digital rights. 
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The objective is not to create a comprehensive statistical index but to offer an evidence-based overview that situates digital rights within broader national circumstances. Users are encouraged to interpret findings carefully, considering each country’s unique social, cultural, political, and economic context.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The DRD can be used to identify strengths and weaknesses in a country’s digital rights environment; facilitate progress dialogue among stakeholders, including government, civil society and the private sector, by grounding discussions in shared evidence. Moreover, the DRD can be used to support policy development by linking digital rights considerations to national strategies on digital transformation. In some cases, the DRD may reflect a different perspective from the lived experiences and realities because of issues around the actual implementation of specific laws and their application to human rights in the digital space. It is therefore encouraged to use the data in the DRD, in combination with the guidance contained in this report based on Country Insights to make informed policy recommendations.
+              </p>
+              
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] ">
+                Four Rights: Why focus on these four rights?
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                UNDP recognizes that there are other important digital rights in
-                International Human Rights Law (IHRL) such as the right to
-                freedom of religion, right to work, and right to housing. After
-                considering factors such as data availability and the bandwidth
-                to meaningfully create and update the Digital Rights Dashboard
-                we decided nevertheless to narrow down to the four
-                aforementioned rights bearing in mind that the Digital
-                Development Compass is designed as an entry-point or
-                conversation starter for countries to conduct their own
-                evaluations.
+                Almost all rights in International Human Rights Law (IHRL) are important in their application to the digital space such as the right to freedom of religion, and the right to freedom of employment.  In selecting the four rights to focus on for the DRD in this first phase, two considerations were primary.  These four rights are vital as tenets of inclusive and effective governance and have a direct impact on the exercise of other rights. Furthermore, their selection also reflected key practical considerations, namely, the availability and sustainability of relevant data and the capacity to maintain the DRD over time. Therefore, UNDP chose to focus on the four rights as a starting point —recognizing that the DRD is a tool for countries to further their own understanding of digital rights in their country. UNDP chose to focus on the four rights as a starting point —recognizing that the DRD is a tool for countries to further their own understanding of digital rights in their country.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The four rights we chose have been recognized across United
-                Nations resolutions, General Comments, and reports as being
-                integral to the protection and empowerment of individuals online
-                and can cumulatively provide an assessment of each country's
-                performance on digital rights as a whole. For example, the
-                assessment of the right to equality and non-discrimination has
-                been recognized as{" "}
-                <a
-                  href="https://global.oup.com/academic/product/an-international-bill-of-the-rights-of-man-9780199667826"
-                  className="url-styling"
-                  target="_blank"
-                >
-                  "the most fundamental of the rights"
-                </a>{" "}
-                speaks to the range of international human rights instruments
-                that deal with specific forms of discrimination such as{" "}
-                <a
-                  href="https://www.un.org/womenwatch/daw/cedaw/cedaw.htm#:~:text=French%2C%20Russian%20%2C%20Spanish-,The%20Convention%20on%20the%20Elimination%20of%20All%20Forms%20of%20Discrimination,bill%20of%20rights%20for%20women."
-                  className="url-styling"
-                  target="_blank"
-                >
-                  Convention on the Elimination of All Forms of Discrimination
-                  Against Women,
-                </a>{" "}
+                The four rights chosen are all parts of core international human rights treaties. Additionally, they  have also  been  recognized in United Nations resolutions, General Comments by Treaty Bodies, and UN reports as being specifically integral to digital spaces.i For example, the right to equality and non-discrimination has been recognized as a cross-cutting right across multiple human rights instruments including the  Convention on the Elimination of All Forms of 
+                Discrimination Against Women, the {" "}
                 <a
                   href="https://www.ohchr.org/sites/default/files/cerd.pdf"
                   className="url-styling"
                   target="_blank"
                 >
-                  International Convention on the Elimination of Racial
-                  Discrimination,
+                  International Convention on the Elimination of Racial Discrimination
                 </a>{" "}
-                <a
+                , the {" "}
+                 <a
                   href="https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf"
                   className="url-styling"
                   target="_blank"
                 >
                   United Nations Declaration on the Rights of Indigenous Peoples
                 </a>{" "}
-                and{" "}
+                 and the  {" "}
                 <a
                   href="https://www.un.org/womenwatch/daw/cedaw/cedaw.htm#:~:text=French%2C%20Russian%20%2C%20Spanish-,The%20Convention%20on%20the%20Elimination%20of%20All%20Forms%20of%20Discrimination,bill%20of%20rights%20for%20women."
                   className="url-styling"
@@ -316,49 +130,117 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 >
                   Convention on the Rights of Persons with Disabilities.
                 </a>{" "}
-              </p>
-              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
-                Measuring Digital Development
-              </h2>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
-                Stages of Rights Fulfilment
-              </h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                In the Digital Development Compass, each country's digital
-                readiness is assessed across five stages of digital development,
-                which encompass every pillar and sub-pillar. Each of the five
-                stages corresponds to a score from 0 to 5. The Digital
-                Development Dashboard applies the same process to construct
-                stages of Rights Fulfilment. The corresponding stages and scores
-                are shown in the table below:
-              </p>
-              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">Overall stages</h2>
-              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The five stages correspond to the five stages of the Digital
-                Development Compass. Each stage has a definition that broadly
-                corresponds to the performance on digital rights by member
-                countries. Essentially, the stage gives a "bird's eye-view" of
-                the state's overall performance. Specific indicators provide a
-                more concrete assessment. To precisely see how a country can
-                move from one stage to the next, scores on specific indicators
-                should be evaluated and improved upon.
+                The {" "} 
+                <a
+                  href="https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf"
+                  className="url-styling"
+                  target="_blank"
+                >
+                  United Nations Declaration on the Rights of Indigenous Peoples
+                </a>{" "}
+                 and the {" "}
+                <a
+                  href="https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities"
+                  className="url-styling"
+                  target="_blank"
+                >Convention on the Rights of Persons with Disabilities.</a>
               </p>
 
-              <PillarsTable />
-              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>Freedom of Expression</b>
+              <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] pt-[100px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] ">
+                The Four Rights Explained
+              </h2>
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Right to Freedom of Speech and Expression</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                According to ICCPR article 19 (2) “the right to freedom of speech and expression, shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.”.
               </p>
-              <FeTable />
-              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
-                <b>Right to equality and non-discrimination online</b>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Applying this right to the digital realm, a General Assembly Resolution calls upon states to refrain from “practices such as the use of Internet shutdowns and online censorship to intentionally prevent or disrupt access to or the dissemination of information.”
               </p>
-              <RendTable />
-              <p className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
-                <b>Right to privacy online</b>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Other UN reports and resolutions also: 
               </p>
-              <ReTable />
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Re-iterated that the access to the internet as an enabler of digital rights, including the right to freedom of speech and expressioniii and condemned disruption of internet access to or dissemination of information online.
+              </p>
+              <UnorderedListItems listData={[
+                <span>Urged states to refrain from arbitrary blocking or filtering of online content and,</span>,
+                <span>Called upon states to “ensure easy, prompt, effective and practical access to government information of public interest, including online"</span>
+              ]}/>
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Right to Freedom of Assembly and Association</h2>
+              
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Articles 21 and 22 of the ICCPR recognizes the rights to freedom of assembly and association respectively. The right of peaceful assembly includes the right to hold meetings, sit-ins, strikes, rallies, events or protests, both offline and online.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Other UN reports and resolutions also: 
+              </p>
+              <UnorderedListItems listData={
+                [
+                  <span>Re-iterated the importance of internet access as an element of assembly and association, being concerned with: ‘undue restrictions preventing Internet users from having access to or disseminating information at key political moments, with an impact on the ability to organize and conduct assemblies’</span>,
+                  <span>The need for states to “create and maintain a safe and enabling environment, online and offline, in which civil society can operate independently and free from hindrance, insecurity and reprisals, including by putting in place relevant legislation, policies and practices and ensuring that existing or proposed legislation, policies and practices do not undermine the capacity of civil society to operate independently and free from hindrance”</span>
+                ]
+              } />
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                As discussed in the methodology section, for the purposes of the DRD, we have merged the pillars on the right to freedom of expression and the right to  freedom of assembly as the indicators for both the rights were the same.  
+              </p>
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Right to Equality and Non-Discrimination</h2>
+
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                According to article 26 of the ICCPR, “all persons are equal before the law and are entitled without any discrimination to the equal protection of the law. In this respect, the law shall prohibit any discrimination and guarantee to all persons equal and effective protection against discrimination on any ground such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.” 
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                In the online space, the right to equality and non-discrimination encourages the "inclusiveness of innovation, especially with regard to local communities, women, persons with disabilities, older persons and youth, and to ensure that the scaling and diffusion of new technologies are inclusive and do not create further divides."
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Other UN reports and resolutions also: 
+              </p>
+              <UnorderedListItems listData={
+                [
+                  <span>Call upon states to "adopt specific measures to close the gender digital divide and to ensure that particular attention is paid to access, affordability, digital literacy, privacy and online safety, to enhance the use of digital technologies and to mainstream a disability, gender and racial equality perspective in policy decisions and the frameworks that guide them."</span>,
+                  <span>Call upon Member States to "adopt specific measures to close the gender digital divide and to ensure that particular attention is paid to access, affordability, digital literacy, privacy and online safety, to enhance the use of digital technologies and to mainstream a disability, gender and racial equality perspective in policy decisions and the frameworks that guide them"</span>
+                ]
+              } />
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Right to Privacy</h2>
+
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The right to privacy is a fundamental human right, recognized in article 12 of the Universal Declaration of Human Rights, article 17 of the International Covenant on Civil and Political Rights and in many other international and regional human rights instruments. 
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                Other UN reports and resolutions also emphasized that:
+              </p>
+              <UnorderedListItems listData={
+                [
+                  <span>Online, anonymity "provide[s] individuals and groups with a zone of privacy online to hold opinions and exercise freedom of expression without arbitrary and unlawful interference or attacks."</span>,
+                  <span>Accordingly, "technical solutions to secure and protect the confidentiality of digital communications, including [anonymity] measures…, can be important to ensure the enjoyment of human rights."</span>,
+                  <span>Furthermore, interference with online communications can take place only on the basis of a law that is well-defined and specifies the precise circumstances under which surveillance may be permitted.</span>
+                ]
+              } />
+
+              <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Cross-Cutting Indicators</h2>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                In addition to measuring the four rights the DRD also considers six cross-cutting indicators. These indicators measure foundational elements which enable the fulfilment of all the four rights online. They are indicators relevant for understanding all four rights and form a part of the enabling environment for digital rights more generally. 
+              </p>
+
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                These indicators include  
+              </p>
+               <UnorderedListItems listData={
+                [
+                  <span><b>Levels of connectivity to the internet </b>needed to “ensure the accessibility, affordability and availability of the Internet in order to bridge digital divides, to achieve the Sustainable Development Goals and to ensure the full enjoyment of human rights”</span>,
+                  <span><b>Digital literacy and digital skills,</b> ensuring that the benefits of new and emerging digital technologies are available to all.</span>,
+                  <span><b>Ratification of the ICCPR and ICESCR.</b></span>,
+                  <span><b>Rule of law</b></span>,
+                  <span><b>Voice and Accountability</b> that ensures effective measures to prevent, mitigate and remedy potential and actual adverse human rights impacts in the offline realm and in the case of digital technologies.</span>,
+                  <span><b>Accreditation and effectiveness</b> of a National Human Rights Institution (NHRI).</span>
+                ]
+              } />
+             
               <h2 className="text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px]">
-                Digital Rights Score Methodology
+                Methodology – Approaches and Limitations
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Given that the Digital Rights Dashboard is a subset of the Digital Development Compass, it follows the same overarching 
@@ -537,7 +419,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                     <span>As with the Digital Development Compass, the DRD verifies the methodology of any external source before incorporating its data. However, inclusion of a source in the DRD does not imply endorsement of the data it contains. Any identified discrepancies should be reported directly to the entity hosting the original database.</span>,
                     <span>The indicators included in the DRD are technology-neutral—they do not assess specific technologies (e.g., Artificial Intelligence) or use cases (e.g., technology deployment in policing). Instead, the DRD serves as an entry point for understanding how national systems enable or constrain the protection and fulfillment of digital rights regardless of the kind of technology being deployed (AI, quantum computing) or application (social media, digital ID, government services  and so on).</span>,
                     <span>It is important to note that, unless a suitable data source explicitly evaluates it, the DRD does not assess the quality of legislation - whether a law is drafted precisely or comprehensively enough to meet international human rights standards. Nor does it capture the frequency or severity of violations of such legislation in practice.</span>,
-                    <span>in UNDP’s Internal Digital Rights Database, which spans all 147 UNDP programme countries, some data gaps remain. UNDP welcomes inputs from experts in academia, civil society, industry, and government to help improve data accuracy and coverage. Any corrections or clarifications can be shared at <a href="mailto:digital.support@undp.org">digital.support@undp.org</a>.</span>
+                    <span>In UNDP’s Internal Digital Rights Database, which spans all 147 UNDP programme countries, some data gaps remain. UNDP welcomes inputs from experts in academia, civil society, industry, and government to help improve data accuracy and coverage. Any corrections or clarifications can be shared at <a href="mailto:digital.support@undp.org">digital.support@undp.org</a>.</span>
                 ]} />
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Stages
