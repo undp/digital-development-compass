@@ -368,14 +368,14 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   target="_blank"
                 >
                  methodology{" "}
-                </a>.The DDC currently includes 145 indicators, identified through extensive desk research into 
-                publicly available data across the sub-pillars and pillars of the Digital Development Framework.
+                </a>.The DDC currently includes 145 indicators, identified through extensive desk research into publicly available 
+                data across the sub-pillars and pillars of the Digital Development Framework.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 An Expert Committee, a globally representative group of specialists in digital development, 
                 was established to guide this process. The Expert Committee's role is to support the continuous 
-                evolution of the Digital Development Compass, ensuring that the methodology remains relevant 
-                and adaptive over time. Through a series of advisory consultations, the Expert Committee helped 
+                evolution of the Digital Development Compass, ensuring that the methodology remains relevant and 
+                adaptive over time. Through a series of advisory consultations, the Expert Committee helped 
                 develop data evaluation criteria to assess the quality and reliability of all indicators, both 
                 existing and newly proposed. Indicators that do not meet these standards are excluded from the Compass.
               </p>
@@ -383,20 +383,31 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 While the DRD draws on the DDC's foundation, not all 145 indicators were relevant or necessary to 
                 incorporate into the DRD. In some cases, key indicators specific to digital rights were missing. 
                 To address these gaps, UNDP compiled an additional public database to supplement the existing framework.
+                While the DRD draws on the DDC's foundation, not all 145 indicators were relevant or necessary to 
+                incorporate into the DRD. In some cases, key indicators specific to digital rights were missing. 
+                To address these gaps, UNDP compiled an 
+                {" "}<a
+                  href="https://data.undp.org/insights/drdfoundations"
+                  className="url-styling"
+                  target="_blank"
+                >
+                 additional public database{" "}
+                </a>to supplement the existing framework.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Using shortlisted indicators, the DRD produces a composite view of a country's digital rights landscape. 
-                During the research phase, it was observed that the Right to Freedom of Expression and the Right to Freedom
-                of Assembly and Association often share overlapping indicators. These were therefore merged into a single pillar. 
-                The resulting structure of the DRD is organized around four main pillars: 
+                Using shortlisted indicators, the DRD produces a composite view of a country's digital 
+                rights landscape. During the research phase, it was observed that the Right to Freedom of Expression 
+                and the Right to Freedom of Assembly and Association often share overlapping indicators. 
+                These were therefore merged into a single pillar. The resulting structure of the DRD is organized 
+                around four main pillars:  
               </p>
               <ol className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">1.{" "}Right to Freedom of Expression and Right to Assembly and Association</li>
                 <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">2.Right to Equality and Non-Discrimination </li>
                 <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">3.Right to Privacy  </li>
-                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">4.Cross-Cutting Indicators - foundational elements such as digital infrastructure and literacy 
-                  that enable the fulfillment of all rights online. These are indicators that are 
-                  common to all rights being measured and serve as indicators of the enabling 
+                <li className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">4.Cross-Cutting Indicators - foundational elements such as digital infrastructure 
+                  and literacy that enable the fulfillment of all rights online. These are indicators 
+                  that are  common to all rights being measured and serve as indicators of the enabling 
                   environment for digital rights more generally. 
                 </li>
               </ol>
@@ -419,10 +430,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 <i>
                   Structural Indicators:
                 </i>{" "}
-                Structural indicators help capturing the acceptance, intent and commitment of the State to 
-                undertake measures in keeping with its human rights obligations, including whether the 
-                country is a state party to human rights treaties and conventions and has put in 
-                place legislation to protect digital rights.
+                Structural indicators help capturing the acceptance, intent and commitment of the 
+                State to undertake measures in keeping with its human rights obligations, 
+                including whether the country is a state party to human rights treaties and 
+                conventions and has put in place legislation to protect digital rights.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 2.{" "}
@@ -430,24 +441,23 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   Process Indicators:
                 </i>{" "}
                 Process indicators measure duty bearers’ ongoing efforts to transform their human rights 
-                commitments into the desired results. Unlike structural indicators, this involves indicators 
-                that continuously assess the policies and specific measures taken by the duty bearer to 
-                implement its commitments on the ground.
+                commitments into the desired results. Unlike structural indicators, this involves 
+                indicators that continuously assess the policies and specific measures taken by the 
+                duty bearer to implement its commitments on the ground.
               </p>  
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 While several indicators in the DRD are specific to digital rights, many reflect the broader 
-                protection of human rights in general terms, without distinguishing whether those 
-                rights are safeguarded online or offline. In this sense, the protection of a right 
-                offline is a necessary but not sufficient condition for its protection in the digital sphere. 
+                protection of human rights in general terms, without distinguishing whether those rights are 
+                safeguarded online or offline. In this sense, the protection of a right offline is a necessary 
+                but not sufficient condition for its protection in the digital sphere. 
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                For example, a country may constitutionally guarantee the right to privacy, suggesting 
-                that privacy is legally protected. However, without complementary legislation 
-                or policies—such as data protection laws or safeguards against government 
-                surveillance—this protection may not extend effectively to the online environment. 
-                Conversely, it is rare for a country to have detailed regulations on online privacy, 
-                such as restrictions on surveillance, without first recognizing the general right to 
-                privacy in its legal framework. 
+                For example, a country may constitutionally guarantee the right to privacy, suggesting that 
+                privacy is legally protected. However, without complementary legislation or policies—such as 
+                data protection laws or safeguards against government surveillance—this protection may not 
+                extend effectively to the online environment. Conversely, it is rare for a country to have 
+                detailed regulations on online privacy, such as restrictions on surveillance, without first 
+                recognizing the general right to privacy in its legal framework. 
               </p>
 
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
@@ -464,15 +474,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 2.{" "}
                 <i>
                   <a
-                  href="https://www.ohchr.org/sites/default/files/Documents/Publications/Human_rights_indicators_en.pdf"
+                  href="https://data.undp.org/insights/drdfoundations?check_logged_in=1"
                   className="url-styling"
                   target="_blank"
                 >
-                 Internal database:{" "}</a>
-                   The Digital Rights Foundations Database was compiled through a two-step process, combining Artificial-Intelligence 
-                  assisted structured data extraction using large language models 
-                  (Chat GPT, Gemini and DeepSeek) and reconfirmed with expert human verification.
-                </i>{" "}
+                 Internal database:{" "}</a></i>{" "}
+                   The Digital Rights Foundations Database was compiled through a two-step process, 
+                   combining Artificial-Intelligence assisted structured data extraction using large 
+                   language models (Chat GPT, Gemini and DeepSeek) and reconfirmed with expert human verification.
+                
               </p> 
 
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
@@ -522,48 +532,23 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               </h2>     
               
                 <UnorderedListItems listData={[
-                    <span>Some indicator selection criteria—particularly the requirement that data be available for more than 70% (approximately 135) 
-                    of the 193 UN Member States—limited the inclusion of certain high-quality regional datasets39. 
-                    As a result, some valuable regional databases could not be incorporated into the overall DRD. 
-                    Nonetheless, users are encouraged to undertake their own research to contextualize DRD findings 
-                    with more localized or region-specific data sources.</span>,
-                    <span>Most indicators in the DRD (20 out of 27) are structural indicators, reflecting the availability and feasibility of 
-                    data collection. Consequently, the DRD provides more insight into countries’ acceptance, intent, and commitment to 
-                    fulfilling digital rights obligations, rather than the extent to which these commitments are being translated into 
-                    tangible results. The mere existence of a law or policy is therefore a necessary but not sufficient condition for the 
-                    respect and protection of digital rights.</span>,
-                    <span>As with the Digital Development Compass, the DRD verifies the methodology of any external source before 
-                    incorporating its data. However, inclusion of a source in the DRD does not imply endorsement of the data 
-                    it contains. Any identified discrepancies should be reported directly to the entity hosting the original database.</span>,
-                    <span>The indicators included in the DRD are technology-neutral—they do not assess specific technologies 
-                    (e.g., Artificial Intelligence) or use cases (e.g., technology deployment in policing). Instead, 
-                    the DRD serves as an entry point for understanding how national systems enable or constrain the 
-                    protection and fulfillment of digital rights regardless of the kind of technology being deployed 
-                    (AI, quantum computing) or application (social media, digital ID, government services  and so on).</span>,
-                    <span>It is important to note that, unless a suitable data source explicitly evaluates it, 
-                    the DRD does not assess the quality of legislation - whether a law is drafted precisely 
-                    or comprehensively enough to meet international human rights standards. Nor does it capture 
-                    the frequency or severity of violations of such legislation in practice.</span>,
-                    <span>It is important to note that, unless a suitable data source explicitly evaluates it, 
-                    the DRD does not assess the quality of legislation - whether a law is drafted precisely 
-                    or comprehensively enough to meet international human rights standards. Nor does it capture 
-                    the frequency or severity of violations of such legislation in practice.</span>,
-                    <span>In UNDP’s Internal Digital Rights Database, which spans all 147 UNDP programme countries, 
-                    some data gaps remain. UNDP welcomes inputs from experts in academia, civil society, industry, 
-                    and government to help improve data accuracy and coverage. Any corrections or clarifications 
-                    can be shared at <a href="mailto:digital.support@undp.org">digital.support@undp.org</a>.</span>
+                    <span>Some indicator selection criteria—particularly the requirement that data be available for more than 70% (approximately 135) of the 193 UN Member States—limited the inclusion of certain high-quality regional datasets39. As a result, some valuable regional databases could not be incorporated into the overall DRD. Nonetheless, users are encouraged to undertake their own research to contextualize DRD findings with more localized or region-specific data sources.</span>,
+                    <span>Most indicators in the DRD (20 out of 27) are structural indicators, reflecting the availability and feasibility of data collection. Consequently, the DRD provides more insight into countries’ acceptance, intent, and commitment to fulfilling digital rights obligations, rather than the extent to which these commitments are being translated into tangible results. The mere existence of a law or policy is therefore a necessary but not sufficient condition for the respect and protection of digital rights.</span>,
+                    <span>As with the Digital Development Compass, the DRD verifies the methodology of any external source before incorporating its data. However, inclusion of a source in the DRD does not imply endorsement of the data it contains. Any identified discrepancies should be reported directly to the entity hosting the original database.</span>,
+                    <span>The indicators included in the DRD are technology-neutral—they do not assess specific technologies (e.g., Artificial Intelligence) or use cases (e.g., technology deployment in policing). Instead, the DRD serves as an entry point for understanding how national systems enable or constrain the protection and fulfillment of digital rights regardless of the kind of technology being deployed (AI, quantum computing) or application (social media, digital ID, government services  and so on).</span>,
+                    <span>It is important to note that, unless a suitable data source explicitly evaluates it, the DRD does not assess the quality of legislation - whether a law is drafted precisely or comprehensively enough to meet international human rights standards. Nor does it capture the frequency or severity of violations of such legislation in practice.</span>,
+                    <span>in UNDP’s Internal Digital Rights Database, which spans all 147 UNDP programme countries, some data gaps remain. UNDP welcomes inputs from experts in academia, civil society, industry, and government to help improve data accuracy and coverage. Any corrections or clarifications can be shared at <a href="mailto:digital.support@undp.org">digital.support@undp.org</a>.</span>
                 ]} />
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Stages
               </h2>  
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The DRD generates a composite score that reflects a country’s overall status in protecting and fulfilling digital 
-                rights. Each of the four pillars comprises a set of indicators that correspond to specific stages of digital 
-                rights protection and fulfilment.The DRD follows the same progressive, five-stage maturity scale as the DDC and DRA, 
-                which has been piloted in multiple contexts and reviewed by experts, confirming its usefulness as a practical 
-                framework for providing an overview of countries’ progress. The overall stage of a country in the DRD has been 
-                calculated by simply adding up the scores for all four pillars and then dividing by 4. The stages, as defined for 
-                each of the four rights, are as follows:   
+                The DRD generates a composite score that reflects a country’s overall status in protecting and fulfilling digital rights. Each of the four pillars comprises a set of 
+                indicators that correspond to specific stages of digital rights protection and fulfilment.The DRD follows the same progressive, five-stage maturity scale as the DDC 
+                and DRA, which has been piloted in multiple contexts and reviewed by experts, confirming its usefulness as a practical 
+                framework for providing an overview of countries’ progress. The overall stage of a country in the DRD has been calculated 
+                by simply adding up the scores for all four pillars and then dividing by 4. The stages, as defined for each of the four 
+                rights, are as follows:   
               </p> 
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 Overall Stages of the DRD
