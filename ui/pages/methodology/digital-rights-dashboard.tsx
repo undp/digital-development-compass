@@ -481,6 +481,123 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 By accessing and using the Digital Development Compass, you
                 acknowledge and agree to the terms of this disclaimer.
               </p>
+              <div className="flex pt-12 pb-12  w-full ">
+                <div
+                  className="px-[22px] py-6 text-[12px]  max-w-full"
+                  style={{ backgroundColor: "#F7F7F7" }}
+                >
+                <ul className="list-decimal word-wrap break-all">
+                  <li>
+                    See relevant resolutions of the Commission on Human Rights and the Human Rights Council on the right to
+                    freedom of opinion and expression, in particular Council resolutions 20/8 of 5 July 2012, 26/13 of 26 June 2014
+                    and 32/13 of 1 July 2016, A/HRC/38/L.10 of on the promotion, protection and enjoyment of human rights on the
+                    Internet, and Council resolutions 12/16 of 2 October 2009 on freedom of opinion and expression, 28/16 of 26
+                    March 2015 and 34/7 of 23 March 2017 on the right to privacy in the digital age, 23/2 of 13 June 2013 on the role
+                    of freedom of opinion and expression in women’s empowerment, and 31/7 of 23 March 2016 on the rights of the
+                    child: information and communications technologies and child sexual exploitation, and recalling also General
+                    Assembly resolutions 68/167 of 18 December 2013, 69/166 of 18 December 2014 and 71/199 of 19 December
+                    2016 on the right to privacy in the digital age, 70/184 of 22 December 2015 on information and communications
+                    technologies for development, and 70/125 of 16 December 2015 containing the outcome document of the highlevel meeting of the General Assembly on the overall review of the implementation of the outcomes of the World
+                    Summit on the Information Society ; ”Civil society space,” 7 July 2025,A/HRC/RES/59/10;General Comment No
+                    25 (2021) on the rights of the child
+                  </li>
+                  <li>
+                    Promotion and protection of human rights: human rights questions, including alternative approaches for
+                    improving the effective enjoyment of human rights and fundamental freedoms, A/RES/78/213, 9 December
+                    2023,Clause 18
+                  </li>
+                  <li>
+                    The promotion, protection and enjoyment of human rights on the Internet
+                    ,13 July 2021, HRC resolution 47/16,Clause 1; and Promotion and protection of the right to freedom of opinion
+                    and expression Note by the Secretary-General ,10 August 2011,A/66/290, para. 12
+                  </li>
+                  <li>
+                    The promotion, protection and enjoyment of human rights on the Internet ,18 July 2016,A/HRC/RES/32/13,
+                    clause 10
+                  </li>
+                  <li >
+                    Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and
+                    expression,16 May 2011(HYPERLINK
+                    "https://www2.ohchr.org/english/bodies/hrcouncil/docs/17session/A.HRC.17.27_en.pdf"A/HRC/17/27)), Pages
+                    29-32
+                  </li>
+                  <li>
+                    Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including
+                    the right to development , 14 Jut 2020 (A/HRC/44/L.18/Rev.1),Clause 8(b) (i)
+                  </li>
+                  <li>
+                    General comment No. 37 (2020) on the right of peaceful assembly (article 21) ,17 September
+                    2020,CCPR/C/GC/37, Paras 6,10,13,34 
+                  </li>
+                  <li>
+                    The promotion and protection of human rights in the context of peaceful protests, July 6 2018,
+                    <a
+                      href="https://digitallibrary.un.org/record/1640460?ln=en&v=pdf"
+                      className="underline  word-wrap"
+                      target="_blank"
+                      >
+                      A/HRC/RES/38/11.</a>, Preambular clauses, Page 2
+                  </li>
+                  <li>
+                    Civil Society Space,10 July 2025,A/HRC/RES/59/10, Clause 6
+                  </li>
+                  <li>
+                    Promotion and protection of human rights in the context of digital technologies , 22 December
+                    2023,A/RES/78/213, Clause 10
+                  </li>
+                  <li>
+                    Ibid
+                  </li>
+                  <li>
+                    Follow-up to paragraph 143 on human security of the 2005 World Summit Outcome ,25 October
+                    2012,A/66/290, Clause 11
+                  </li>
+                  <li>
+                    See UNODC Module on Privacy here <a
+                      href="https://sherloc.unodc.org/cld/en/education/tertiary/cybercrime/module10/key-issues/privacy-and-security.html"
+                      className="underline  word-wrap"
+                      target="_blank"
+                      >
+                      https://sherloc.unodc.org/cld/en/education/tertiary/cybercrime/module10/key-issues/privacy-and-security.html</a>
+                  </li>
+                  <li>
+                    Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and
+                    expression, 25 October 2012, "https://undocs.org/A/HRC/29/32"A/HRC/29/32, para. 16., para. 16.
+                  </li>
+                  <li>
+                    Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including
+                    the right to development, 7 July 2021, A/HRC/47/L.22, page 2 preambulatory clauses
+                  </li>
+                  <li>
+                    The Right to Privacy in the Digital AgemA/HRC/27/37 June 30, 2014, para 24; Bignami, Francesca, Human
+                    Rights Extraterritoriality: The Right to Privacy and National Security Surveillance (2018). Francesca Bignami &
+                    Giorgio Resta, Human Rights Extraterritoriality:The Right to Privacy and National Security Surveillance in
+                    Community Interests Across International Law (Eyal Benvenisti & Georg Nolte,eds., Oxford University Press)
+                  </li>
+                  <li>
+                    Promotion and protection of human rights: human rights questions, including alternative approaches for
+                    improving the effective enjoyment of human rights and fundamental freedoms,22 December 2023,
+                    A/RES/78/213, Clause 9
+                  </li>
+                  <li>
+                    Ibid, clause 8
+                  </li>
+                  <li>
+                    Ibid,Preambular clauses, page 3
+                  </li>
+                  <li>
+                    See generally, Promotion and protection of human rights: human rights questions, including alternative
+                    approaches for improving the effective enjoyment of human rights and fundamental freedoms:National Human
+                    RIghts Institutions, 22 December 2023,<a
+                      href="https://docs.un.org/A/RES/78/204"
+                      className="underline  word-wrap"
+                      target="_blank"
+                      >
+                      A/RES/78/204</a>
+                  </li>
+                </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
