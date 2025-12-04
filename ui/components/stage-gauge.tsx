@@ -110,7 +110,7 @@ function InnerStageGauge(props: StageGaugeProps) {
   }, [pillar]);
 
   const stageName = activeSubpillar
-    ? stageNames[activeSubpillar.score - 1]
+    ? stageNames[activeSubpillar.score]
     : "";
 
   const backupDefinition = activeSubpillar?.name

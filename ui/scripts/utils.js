@@ -1,5 +1,5 @@
 function getStage(score) {
-  return Math.max(Math.floor(score), 1);
+  return Math.min(Math.floor(score), 4);
 }
 
 function roundNumber(num, decimals = 2) {

@@ -117,7 +117,7 @@ async function main() {
   function getStageInfo(value = 0, pillar, subpillar) {
     if (value === null) return;
     const stage = getStage(value);
-    const stageName = stageNames[stage - 1];
+    const stageName = stageNames[stage];
     const definition =
       definitions.find(
         (d) =>
@@ -129,7 +129,7 @@ async function main() {
       stageInfo == ""
     };
     return {
-      number: stage,
+      number: stage + 1,
       name: stageName,
       description: stageInfo,
     };
@@ -138,7 +138,7 @@ async function main() {
   function digital_right_getStageInfo(value = 0, pillar) {
     if (value === null) return;
     const stage = getStage(value);
-    const stageName = stageNames[stage - 1];
+    const stageName = stageNames[stage];
     const definition =
     digital_right_definitions.find(
         (d) =>
@@ -149,7 +149,7 @@ async function main() {
       stageInfo == ""
     };
     return {
-      number: stage,
+      number: stage + 1,
       name: stageName,
       description: stageInfo,
     };
@@ -286,7 +286,7 @@ async function main() {
   function getOverallStage(value) {
     if (value === null) return;
     const stage = getStage(value);
-    const stageName = stageNames[stage - 1];
+    const stageName = stageNames[stage];
     const definition =
       definitions.find((d) => !d["Pillar"] && !d["Sub-Pillar"]) || "";
     const stageInfo = definition[stageName];
@@ -295,7 +295,7 @@ async function main() {
       stageInfo == ""
     };
     return {
-      number: stage,
+      number: stage + 1,
       name: stageName,
       description: stageInfo,
     };
