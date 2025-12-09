@@ -264,17 +264,14 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 While the DRD draws on the DDC's foundation, not all 145 indicators were relevant or necessary to 
                 incorporate into the DRD. In some cases, key indicators specific to digital rights were missing. 
-                To address these gaps, UNDP compiled an additional public database to supplement the existing framework.
-                While the DRD draws on the DDC's foundation, not all 145 indicators were relevant or necessary to 
-                incorporate into the DRD. In some cases, key indicators specific to digital rights were missing. 
-                To address these gaps, UNDP compiled an 
+                To address these gaps, UNDP compiled the 
                 {" "}<a
                   href="https://data.undp.org/insights/drdfoundations"
                   className="url-styling"
                   target="_blank"
                 >
-                 additional public database{" "}
-                </a>to supplement the existing framework.
+                 Digital Foundations Database
+                </a>{" "} to supplement the existing framework.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Using shortlisted indicators, the DRD produces a composite view of a country's digital 
