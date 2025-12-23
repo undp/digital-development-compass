@@ -3,35 +3,42 @@ import { prefix } from "../lib/prefix";
 //import Image from "next/image";
 // import LogoSVG from "../public/undp-logo.svg";
 
-const slides = [
+type Slide = {
+  title?: string;
+  title1?: string;
+  content: string;
+  content1?: string;
+};
+
+const slides: Slide[] = [
   {
-    title: "The Digital Development Compass Gets a Powerful Upgrade!",
+    title: "Detailed Digital Rights data is now available!",
     content:
-      "We’re excited to unveil major improvements to the Digital Development Compass (DDC), focusing on robustness, reliability, and clarity!",
+      `Explore the data on the Country page. You can quickly access it by clicking the “Jump to Digital Rights Dashboard” button, or deep dive in our approach on the <strong><a target='_blank' class='inline-link' href='${prefix}/methodology/digital-rights-dashboard'> methodology page.</a> </strong><img style='margin-top:10px' src='${prefix}/drd_section.png' alt='DRD Dashboard'/>`,
   },
-  {
-    title1: "Here's a glimpse of what's new:",
-    content:
-      "<b>Stronger Foundation:</b> The DDC’s structure now aligns seamlessly with the Digital Transformation Framework, providing a clearer picture of a country’s digital journey.",
-  },
-  {
-    content:
-      "<b>Expert Guidance:</b> A dedicated Expert Committee has been established to review data and methodologies, ensuring the highest quality standards.",
-  },
-  {
-    content:
-      "<b>Enhanced Data:</b> Data sources have undergone a rigorous cleaning process, with new ones added based on stricter selection criteria. This means you'll find the most reliable and relevant information at your fingertips.",
-  },
-  {
-    content:
-      "<b>Solid Methodology:</b> The DDC's methodology has been strengthened by improved scoring and weighting techniques, making it statistically sound and more dependable.",
-  },
-  {
-    content:
-      "<b>Elevated User Experience:</b> Enjoy a smoother experience! We've revamped the DDC's visualizations and usability for a more intuitive and informative exploration.",
-    content1:
-      "We're confident these improvements will make the DDC an even more valuable tool for navigating the ever-evolving digital landscape. Stay tuned for further updates!",
-  },
+  // {
+  //   title1: "Here's a glimpse of what's new:",
+  //   content:
+  //     "<b>Stronger Foundation:</b> The DDC’s structure now aligns seamlessly with the Digital Transformation Framework, providing a clearer picture of a country’s digital journey.",
+  // },
+  // {
+  //   content:
+  //     "<b>Expert Guidance:</b> A dedicated Expert Committee has been established to review data and methodologies, ensuring the highest quality standards.",
+  // },
+  // {
+  //   content:
+  //     "<b>Enhanced Data:</b> Data sources have undergone a rigorous cleaning process, with new ones added based on stricter selection criteria. This means you'll find the most reliable and relevant information at your fingertips.",
+  // },
+  // {
+  //   content:
+  //     "<b>Solid Methodology:</b> The DDC's methodology has been strengthened by improved scoring and weighting techniques, making it statistically sound and more dependable.",
+  // },
+  // {
+  //   content:
+  //     "<b>Elevated User Experience:</b> Enjoy a smoother experience! We've revamped the DDC's visualizations and usability for a more intuitive and informative exploration.",
+  //   content1:
+  //     "We're confident these improvements will make the DDC an even more valuable tool for navigating the ever-evolving digital landscape. Stay tuned for further updates!",
+  // },
   // Add more slides as needed
 ];
 
@@ -106,7 +113,7 @@ const PopupMessage = () => {
             }}
           />
         </div>
-        <div className="px-4 py-4 sm:px-6 flex justify-between items-center border-t">
+        {totalPages > 1  && <div className="px-4 py-4 sm:px-6 flex justify-between items-center border-t">
           {currentPage === 0 ? (
             <div className="px-10"></div> // Empty div to maintain layout
           ) : (
@@ -133,6 +140,7 @@ const PopupMessage = () => {
           </button>
           )}
         </div>
+        }
       </div>
     </div>
   );

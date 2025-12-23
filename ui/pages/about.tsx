@@ -249,6 +249,18 @@ export default function About(
                   , allowing users to quickly understand the digital state of
                   any nation.
                 </p>
+
+                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                 In December 2025, the Digital Development Compass expanded to include a new component, 
+                 the Digital Rights Dashboard, which reviews how countries are equipped to protect human rights online. 
+                 The dashboard highlights how national contexts shape conditions to safeguard four key digital rights: 
+                 freedom of expression, freedom of assembly and association, equality and non-discrimination, and privacy. 
+                 It also includes cross-cutting factors that contribute to the broader enabling environment. 
+                 Developed through extensive research across international law, UN documents, and global literature, 
+                 the Digital Rights Dashboard is designed to support informed and context-aware dialogue on rights-based 
+                 digital transformation.
+                </p>
+
                 <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                   Ultimately, the Digital Development Compass aims to serve as a
                   guide and starting point for policymakers, practitioners and

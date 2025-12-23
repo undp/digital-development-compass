@@ -5,6 +5,7 @@ import { SearchDialog } from "./search-dialog";
 // import LogoSVG from "../public/undp-logo.svg";
 import { MobileMenu } from "./mobile-menu";
 import { prefix } from "lib/prefix";
+import { PageBanner } from "./page-banner";
 // import Hamburger from "../public/hamburger.svg";
 // import Times from "../public/times-blue.svg";
 
@@ -30,6 +31,7 @@ export function SiteName() {
 export function Header(props: { countries: CountryNameAndAlpha[] }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [isBannerAvailable, setIsBannerAvailable] = useState(false);
   const dropdownTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const { countries } = props;
 
@@ -63,6 +65,16 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
     };
   }, []);
 
+  const smoothScroll = (e: any) => {
+    e.preventDefault(); // Prevent default anchor link behavior
+    const targetId = e.currentTarget.getAttribute("href").slice(1); // Extract the target ID from the href attribute
+    const targetElement = document.getElementById(targetId);
+
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <>
       <header className="flex-shrink-0 border-b custom-nav-shadow header-nav-bg-color">
@@ -74,7 +86,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 <a
                   id="header-mobile"
                   className={`block relative z-[100] transition-all duration-300 ${
-                    isScrolled ? "h-[86px] w-[40px]" : "h-[75px] w-[40px]"
+                    isScrolled || isBannerAvailable ? "h-[86px] w-[40px]" : "h-[75px] w-[40px]"
                   }`}
                 >
                   <img
@@ -120,7 +132,7 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
                 <a
                   id="header"
                   className={`block relative z-[100] transition-all duration-300 ${
-                    isScrolled ? "h-[115px] w-[57px]" : "h-[122px] w-[60px]"
+                    isScrolled || isBannerAvailable ? "h-[115px] w-[57px]" : "h-[122px] w-[60px]"
                   }`}
                 >
                   <img
@@ -200,6 +212,9 @@ export function Header(props: { countries: CountryNameAndAlpha[] }) {
         isOpen={mobileMenuOpen}
         onClose={() => setMobileMenuOpen(false)}
       />
+      <PageBanner saveKey="digitalRightsBanner" pathname="/country/[code]" onVisible={() => setIsBannerAvailable(true)} onClose={() => setIsBannerAvailable(false)}>
+        <p>New: Detailed Digital Rights data is now available  <a href="#country-meta-dr" className="underline decoration-1 underline-offset-1" onClick={smoothScroll}>Explore  →</a></p>
+      </PageBanner>
     </>
   );
 }

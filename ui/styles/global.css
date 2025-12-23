@@ -73,6 +73,15 @@ p {
   animation: borderMove 2s linear infinite; /* Apply the looping animation on hover */
 }
 
+.inline-link {
+  color: #0468B1;
+  text-decoration: underline;
+}
+.inline-link:hover {
+  color: #0063AC;
+  text-decoration: underline;
+}
+
 input::placeholder {
   color: #000000; /* Change placeholder color to black */
   font-size: small;
