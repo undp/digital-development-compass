@@ -8,7 +8,8 @@
     "start": "next start",
     "export": "next export",
     "type-check": "tsc",
-    "postinstall": "node ./scripts/prepare-data.js && quicktype ./database/processed/db.json --out ./database/processed/db.ts"
+    "postinstall": "node ./scripts/prepare-data.js && quicktype ./database/processed/db.json --out ./database/processed/db.ts",
+    "generate-sitemap": "node ./scripts/generate-sitemap.js"
   },
   "dependencies": {
     "@dnd-kit/core": "^4.0.1",

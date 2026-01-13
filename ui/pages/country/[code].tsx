@@ -73,7 +73,7 @@ const StaticPropsDetail = ({
     }
   };
   return (
-    <Layout countries={layoutCountries} title={country["Country or Area"]}>
+    <Layout countries={layoutCountries} title={`UNDP Digital Development Compass | ${country["Country or Area"]}`}>
       <section className="pt-8 border-b pb-3" id="country-meta">
         <div className=" sm:px-4 sm:mx-auto sm:text-center md:pl-[115px]">
         <NavBar country={country} />

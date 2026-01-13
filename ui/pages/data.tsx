@@ -487,7 +487,7 @@ export default function Data(
   };
 
   return (
-    <Layout title="Data" countries={layoutCountries}>
+    <Layout title="UNDP Digital Development Data" countries={layoutCountries} description="Access hundreds of datapoints from 194 countries. Filter datasets by region, income group, or transformation pillar covering issues from connectivity to digital human rights and digital public infrastructure in an interactive format.">
       <div className="sm:flex-col md:flex md:flex-row md:h-screen  md:overflow-hidden">
         <aside className="h-full w-full md:w-[300px] border-b md:border-r flex-shrink-0 md:h-full overflow-y-auto pt-[40px]">
           <div className="p-6">

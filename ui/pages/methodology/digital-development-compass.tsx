@@ -78,7 +78,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
   };
 
   return (
-    <Layout title="Methodology" countries={countries}>
+    <Layout title="Methodology | UNDP Digital Development Compass" countries={countries} description="Understand the methodology behind the Digital Development Compass, including data sources and indicators for digital development and transformation">
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
         <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
           <div

@@ -6,15 +6,33 @@ import Head from "next/head";
 
 import "../styles/global.css";
 const prefix = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
+const isProduction = process.env.SITE_CONFIG === 'staging';
+
 export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <DefaultSeo
         title="Home"
-        titleTemplate="UNDP Digital Development Compass | %s"
+        titleTemplate="%s"
+        dangerouslySetAllPagesToNoIndex={!isProduction}
+        dangerouslySetAllPagesToNoFollow={!isProduction}
         twitter={{
           handle: "@UNDPdigital",
           cardType: "summary_large_image",
+        }}
+        openGraph={{
+          type: "website",
+          locale: "en_IE",
+          url: `https://digitaldevelopmentcompass.undp.org`,
+          site_name: "UNDP Digital Development Compass",
+          images: [
+            {
+              url: `${prefix}/undp_banner.png`,
+              width: 1200,
+              height: 630,
+              alt: "UNDP Digital Development Compass",
+            },
+          ],
         }}
       />
       <Head>
@@ -27,6 +45,7 @@ export default function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"
         />
+        <meta name="google-site-verification" content="f0r7DLoVqEmnuJrWeQAI7GKAqS6vSMz-ApTvni3DIKs" />
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{

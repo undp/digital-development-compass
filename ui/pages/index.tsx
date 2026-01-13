@@ -61,7 +61,7 @@ const IndexPage = ({
     : null;
 
   return (
-    <Layout countries={countries}>
+    <Layout title="UNDP Digital Development Compass" countries={countries} description="Explore country's digital transformation progress using the world's largest database of digital development data. Deep dive in data across key pillars of UNDP's Digital Transformation Framework, including a more targeted perspective on protecting human rights online via the Digital Rights Dashboard.">
       <section className="h-full flex flex-col">
         <div className="w-full lg:divide-x grid lg:grid-cols-12 h-full">
           <PopupMessage />

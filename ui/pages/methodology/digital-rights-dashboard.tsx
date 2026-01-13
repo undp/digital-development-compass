@@ -49,7 +49,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
   };
 
   return (
-    <Layout title="Methodology" countries={countries}>
+    <Layout title="Methodology | UNDP Digital Rights Dashboard" countries={countries} description="Learn how the Digital Rights Dashboard measures and assesses nations' capabilities in safeguarding human rights online—freedom of speech, assembly, privacy, and equality—using evidence-based scoring and a cross-cutting supportive indicators methodology">
       <div className="px-3 sm:px-3 md:px-6 lg:px-6 mx-auto py-0 sm:py-0 md:py-6 lg:py-6">
       <div className="pt-[14px] sm:pt-3 md:pt-0 lg:pt-0">
           <div className="w-full h-[410px] sm:h-[410px] md:h-[532px] lg:h-[532px] md:px-9" style={{ backgroundColor: "#F7F7F7" }}>

@@ -19,14 +19,15 @@ import { prefix } from "lib/prefix";
 type Props = {
   children?: ReactNode;
   title?: string;
+  description?: string;
   countries: CountryNameAndAlpha[];
 };
 
-const Layout = ({ children, title = "", countries = [] }: Props) => {
+const Layout = ({ children, title = "", countries = [], description = "UNDP Digital Development Compass Digital Rights Dashboard" }: Props) => {
   const currentYear = new Date().getFullYear();
   return (
     <>
-      <NextSeo title={title} />
+      <NextSeo title={title} description={description}  />
       <Header key={title} countries={countries} />
       <main className="flex-shrink-0 main">{children}</main>
       <CookieConsent />

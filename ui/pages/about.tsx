@@ -180,7 +180,7 @@ export default function About(
   };
 
   return (
-    <Layout title="About" countries={countries}>
+    <Layout title="About the UNDP Digital Development Compass" countries={countries} description="Learn about UNDP’s Digital Development Compass, a global database enabling nations to analyze digital readiness and explore actionable insights for digital transformation, including progressing digital rights protection">
       <div className="sideMenuBarMobile flex items-center pt-3 sm:pt-3 md:py-3 justify-center">
         <SideMenuBarMobile />
       </div>
