@@ -435,6 +435,15 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
 
               <OverallStageTable/>
               
+              <p className="pt-[12px] sm:pt-[12px] md:pt-[35px] lg:pt-[35px]">
+                For further references and information on the piloting please see the 
+                {" "}<a
+                  href="https://www.undp.org/publications/undp-digital-rights-dashboard-pilot-country-insights"
+                  className="url-styling"
+                  target="_blank"
+                >
+                 DRD Pilot Country Insights.</a>
+              </p> 
               
               <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:text-left md:text-left">
                 Disclaimer
