@@ -1,7 +1,6 @@
 import { db } from "database";
 import { groupBy } from "lodash";
 import { InferGetStaticPropsType } from "next";
-import Script from "next/script";
 import { isMemberState } from "lib";
 // import githubUNDPdiagram from "../../public/undp-diagram.png";
 // import overviewofTDTF from "../../public/OverviewofTDTF.png";
@@ -617,7 +616,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
         </div>
       </div>
       {/* typeform chat overlay */}
-      <div
+      {/* <div
         data-tf-popover="BYPpMpFy"
         data-tf-custom-icon="https://images.typeform.com/images/H59S4N5KfwQY"
         data-tf-button-color="#0445AF"
@@ -627,7 +626,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
         data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
         style={{ all: "unset" }}
       ></div>
-      <Script src="//embed.typeform.com/next/embed.js"></Script>
+      <Script src="//embed.typeform.com/next/embed.js"></Script> */}
     </Layout>
   );
 }

@@ -16,6 +16,7 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 import { prefix } from "lib/prefix";
+import FloatingQuestionnaire from "./floating-questionnaire";
 type Props = {
   children?: ReactNode;
   title?: string;
@@ -31,6 +32,8 @@ const Layout = ({ children, title = "", countries = [], description = "UNDP Digi
       <Header key={title} countries={countries} />
       <main className="flex-shrink-0 main">{children}</main>
       <CookieConsent />
+      <FloatingQuestionnaire />
+      
       <footer className="footer-background-color text-white">
         <div className="max-w-screen-xl mx-auto px-4 lg:px-[140px] h-[440px] sm:h-[440px] md:h-[435px] lg:h-[333px] pt-[48px] sm:pt-[48px] md:pt-[52px] lg:pt-[52px]">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between pb-[32px] sm:pb-[32px] md:pb-[48px] lg:pb-[48px]">

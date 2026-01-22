@@ -13,7 +13,6 @@ import { interpolateHclLong, lab, scaleLinear } from "d3";
 import { AnimatePresence, motion } from "framer-motion";
 import { ancillary } from "database/ancillary";
 //import Image from "next/image";
-import Script from "next/script";
 import YouTube from "react-youtube";
 import { prefix } from "../lib/prefix";
 //import chevronRight from "../public/chevron-right.svg";
@@ -487,9 +486,9 @@ export default function About(
           </div>
         </div>
       </div>
-
+      
       {/* typeform chat overlay */}
-      <div
+      {/* <div
         data-tf-popover="BYPpMpFy"
         data-tf-custom-icon="https://images.typeform.com/images/H59S4N5KfwQY"
         data-tf-button-color="#0445AF"
@@ -499,7 +498,7 @@ export default function About(
         data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
         style={{ all: "unset" }}
       ></div>
-      <Script src="//embed.typeform.com/next/embed.js"></Script>
+      <Script src="//embed.typeform.com/next/embed.js"></Script> */}
     </Layout>
   );
 }

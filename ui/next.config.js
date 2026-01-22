@@ -14,6 +14,7 @@ const nextConfig = {
     PASSWORD_PROTECT: process.env.NODE_ENV !== "development",
     SITE_CONFIG, 
     NEXT_PUBLIC_BASE_PATH :  SITE_CONFIG === "dev" ? "/undp-digital-development-compass" : "",
+    FEEDBACK_ENDPOINT: process.env.FEEDBACK_ENDPOINT || "",
   },
   // i18n: {
   //   locales: ["en"],

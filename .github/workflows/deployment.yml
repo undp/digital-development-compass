@@ -31,6 +31,8 @@ jobs:
       - name: Build Project
         run: yarn build
         working-directory: ./ui
+        env:
+          FEEDBACK_ENDPOINT: ${{ secrets.FEEDBACK_ENDPOINT }}
 
       - name: Export Project
         run: yarn export
