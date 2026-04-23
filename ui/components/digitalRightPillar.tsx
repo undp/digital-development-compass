@@ -6,6 +6,7 @@ import kebabCase from "lodash/kebabCase";
 // import { useState } from "react";
 import { ProgressPill } from "./progress-pill";
 import { DigitalRightStageList } from "./stage-list";
+import { StageDescriptionText } from "./stage-list";
 import { DigitalRightIndicatorList } from "./digital-right-indicator-list";
 import { useState } from "react";
 
@@ -221,7 +222,9 @@ const StageInfo = ({
           >
             Stage {stage.number}: {stage.name}
           </p>
-          <p className="text-sm dp-text-color">{stage.description}</p>
+          <p className="text-sm dp-text-color">
+            <StageDescriptionText text={stage.description ?? ""} />
+          </p>
         </div>
       )}
       <button

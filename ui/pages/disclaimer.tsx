@@ -5,7 +5,7 @@ import { isMemberState } from "lib";
 
 import Layout from "components/Layout";
 export default function disclaimer(
-  props: InferGetStaticPropsType<typeof getStaticProps>
+  props: InferGetStaticPropsType<typeof getStaticProps>,
 ) {
   const { countries } = props;
 
@@ -23,7 +23,7 @@ export default function disclaimer(
           <div className="flex flex-col items-center font-normal text-[16px] sm:text-[16px]  md:text-[20px] lg:text-[20px] leading-[1.4]">
             <div className="text-left">
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The Digital Development Compass, maintained by the United
+                The <b>Digital Development Compass</b>, maintained by the United
                 Nations Development Programme (UNDP), aggregates publicly
                 available data on digital development. However, UNDP does not
                 verify the accuracy or endorse the legitimacy of these data
@@ -49,13 +49,44 @@ export default function disclaimer(
                 incurred as a result of decisions made based on the information
                 provided on the Digital Development Compass.
               </p>
-              <p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Users of the Digital Development Compass are advised to exercise
                 their own judgment, conduct independent research, and consult
                 other reliable sources to obtain accurate and verified
                 information before making any decisions or taking any actions.
                 By accessing and using the Digital Development Compass, you
                 acknowledge and agree to the terms of this disclaimer.
+              </p>
+              <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
+                The <b>Digital Rights Dashboard (DRD)</b> is not a scoring or evaluative tool, but an
+                overview intended as a starting point for examining how national
+                contexts support or challenge human rights online. It is
+                designed to foster informed dialogue on rights-based digital
+                transformation. Numerical scores cannot fully reflect the
+                complexities within a given jurisdiction, particularly as the
+                DRD focuses primarily on structural indicators. Data may also be
+                subject to limitations or bias in its compilation and
+                aggregation. Scores should therefore not be used as the sole
+                basis for decisions and judgments. (For further information,
+                please refer to the{" "}
+                <a
+                  href="https://digitaldevelopmentcompass.undp.org/methodology/digital-rights-dashboard"
+                  className="url-styling"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  DRD Methodology
+                </a>{" "}
+                and the{" "}
+                <a
+                  href="https://www.undp.org/publications/undp-digital-rights-dashboard-pilot-country-insights"
+                  className="url-styling"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Pilot Country Insights
+                </a>
+                )
               </p>
             </div>
           </div>
@@ -88,7 +119,7 @@ export const getStaticProps = async () => {
     };
   });
   const country = db.countries.find(
-    (country) => country["Country or Area"] === "Ghana"
+    (country) => country["Country or Area"] === "Ghana",
   );
 
   const groupedDefinitions = groupBy(db.definitions, "Pillar");

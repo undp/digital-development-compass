@@ -10,6 +10,7 @@ import { isMemberState } from "lib";
 import Layout from "components/Layout";
 import Link from "next/link";
 import React from "react";
+import { StageDescriptionText } from "components/stage-list";
 import {
   pillarsTableData,
   feTableData,
@@ -784,7 +785,7 @@ export function OverallStageTable() {
                 {item.stage}
               </td>
               <td className="px-4 py-2 border border-gray-300 align-top text-left">
-                {item.definition}
+                <StageDescriptionText text={item.definition} />
               </td>
             </tr>
           ))}

@@ -113,31 +113,34 @@ export const tableData = [
             },
         ];
 
-      export const overallStagesTableData = [ 
-        {
-            number : "0-1",
-            stage: "Basic",
-            definition:"Basic attempt made to recognize digital rights, but no attempt made to respect, protect or integrate into national digital transformation strategy."
-          },
-          {
-              number : "1-2",
-              stage: "Opportunistic",
-              definition:"Advancing digital rights in limited aspects while still engaging in practices that may be inconsistent with human rights and/or key international human rights instruments not signed or ratified."
-            },
-            {
-              number : "2-3",
-              stage: "Systematic",
-              definition:"Systematically advancing key aspects of digital rights based on some priority areas."
-            },
-            {
-              number : "3-4",
-              stage: "Differentiating",
-              definition:"Clear strength in respecting and protecting digital rights with all key systemic elements in place."
-            },
-            {
-              number : "4-5",
-              stage: "Transformational",
-              definition:"Respecting, protecting and fulfilling digital rights through an integrated, cohesive national approach."
-            },
-        ];
+const OVERALL_DISCLAIMER =
+  "This analysis does not reflect quality of implementation or frameworks, and does not represent an analysis of the broader context of human rights.";
+
+export const overallStagesTableData = [
+  {
+    number: "0-1",
+    stage: "Basic",
+    definition: `The country is a State Party to **few, if any**, relevant international conventions. **Minimal** domestic policy instruments or institutional frameworks are in place. **Limited efforts are in place** to support their implementation.\n\n${OVERALL_DISCLAIMER}`,
+  },
+  {
+    number: "1-2",
+    stage: "Opportunistic",
+    definition: `The country is a State Party to a **limited number** of relevant international conventions. A few domestic policy instruments and institutional frameworks are in place. **Growing attempts are in place to support**  their implementation.\n\n${OVERALL_DISCLAIMER}`,
+  },
+  {
+    number: "2-3",
+    stage: "Systematic",
+    definition: `The country is a State Party to **some** international conventions. **Some** domestic policy instruments and institutional frameworks are in place. A **systematic** framework is likely to support their implementation.\n\n${OVERALL_DISCLAIMER}`,
+  },
+  {
+    number: "3-4",
+    stage: "Differentiating",
+    definition: `The country is a State Party to **several** international conventions. **Several** domestic policy instruments and institutional frameworks are established. **Some** clear opportunities are likely created for implementation.\n\n${OVERALL_DISCLAIMER}`,
+  },
+  {
+    number: "4-5",
+    stage: "Transformational",
+    definition: `The country is a State Party to **most, if not all** international conventions. **Most, if not all** domestic policy instruments and institutional frameworks are established. **Strong processes are likely** in place to implement these structures.\n\n${OVERALL_DISCLAIMER}`,
+  },
+];
       

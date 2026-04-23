@@ -186,7 +186,7 @@ export default function DIGITAL_DEVELOPMENT_COMPASS(
                 The Compass is constructed based on the inclusive
                 whole-of-society{" "}
                 <a
-                  href="https://digital-development-compass-git-staging-undp-digital.vercel.app/about"
+                  href="https://digitaldevelopmentcompass.undp.org/about"
                   className="url-styling"
                   target="_blank"
                 >
