@@ -239,9 +239,9 @@ const StaticPropsDetail = ({
             id="country-meta-dr"
           >
             <div className="container px-4 mx-auto text-center">
-              <div className="mb-10 text-center">
+              <div className="mb-4 text-center">
                 <div>
-                  <h1 className="text-2xl md:text-3xl font-bold mt-3 mb-6 sm:text-center md:text-center">
+                  <h1 className="text-2xl md:text-3xl font-bold mt-3 sm:text-center md:text-center">
                     Digital Rights Dashboard
                   </h1>
                 </div>
@@ -252,7 +252,7 @@ const StaticPropsDetail = ({
               />
             </div>
             <div className="mx-auto max-w-[90rem] px-6 mb-40">
-              <div className="py-8">
+              <div className="pt-2 pb-8">
                 <DigitalRightsPillars
                   country={country}
                   isShowingRawScores={showRawScores}

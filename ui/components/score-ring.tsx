@@ -626,7 +626,7 @@ const Info = ({
   const color = ancillary.pillarColorMap[pillar].base;
 
   return (
-    <div className="text-center md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex items-center justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center">
+    <div className="text-center md:absolute md:top-[73%] md:bottom-0 md:left-0 md:right-0 md:w-full flex items-center justify-center max-w-full md:max-w-[30%] md:mx-auto md:text-center px-4">
       <div>
         <h3
           className="text-2xl font-bold pointer-events-none"
