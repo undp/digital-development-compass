@@ -239,9 +239,9 @@ const StaticPropsDetail = ({
             id="country-meta-dr"
           >
             <div className="container px-4 mx-auto text-center">
-              <div className="mb-4 text-center">
+              <div className="text-center">
                 <div>
-                  <h1 className="text-2xl md:text-3xl font-bold mt-3 sm:text-center md:text-center">
+                  <h1 className="text-2xl md:text-3xl font-bold mt-3 sm:text-center md:text-center md:transform md:-translate-y-[-30px]">
                     Digital Rights Dashboard
                   </h1>
                 </div>
