@@ -118,27 +118,22 @@ const OVERALL_DISCLAIMER =
 
 export const overallStagesTableData = [
   {
-    number: "0-1",
     stage: "Basic",
     definition: `The country is a State Party to **few, if any**, relevant international conventions. **Minimal** domestic policy instruments or institutional frameworks are in place. **Limited efforts are in place** to support their implementation.\n\n${OVERALL_DISCLAIMER}`,
   },
   {
-    number: "1-2",
     stage: "Opportunistic",
     definition: `The country is a State Party to a **limited number** of relevant international conventions. A few domestic policy instruments and institutional frameworks are in place. **Growing attempts are in place to support**  their implementation.\n\n${OVERALL_DISCLAIMER}`,
   },
   {
-    number: "2-3",
     stage: "Systematic",
     definition: `The country is a State Party to **some** international conventions. **Some** domestic policy instruments and institutional frameworks are in place. A **systematic** framework is likely to support their implementation.\n\n${OVERALL_DISCLAIMER}`,
   },
   {
-    number: "3-4",
     stage: "Differentiating",
     definition: `The country is a State Party to **several** international conventions. **Several** domestic policy instruments and institutional frameworks are established. **Some** clear opportunities are likely created for implementation.\n\n${OVERALL_DISCLAIMER}`,
   },
   {
-    number: "4-5",
     stage: "Transformational",
     definition: `The country is a State Party to **most, if not all** international conventions. **Most, if not all** domestic policy instruments and institutional frameworks are established. **Strong processes are likely** in place to implement these structures.\n\n${OVERALL_DISCLAIMER}`,
   },

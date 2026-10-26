@@ -89,7 +89,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 Building on the foundation of the Digital Development Compass (DDC), the Digital Rights Dashboard (DRD) offers a more targeted perspective on how countries are progressing in protecting human rights online. While the DDC provides a broad overview of digital development, the DRD focuses specifically on how well countries safeguard four fundamental digital rights: freedom of opinion and expression, freedom of assembly and association, the right to equality and non-discrimination, and the right to privacy. In addition, the DRD also includes a set of cross-cutting indicators which measure foundational elements and form part of the enabling environment for digital rights overall. The DDC and the DRD are closely linked, sharing several indicators and a consistent methodological framework.
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                The DRD is not a scoring or evaluative tool but an overview—a starting point for examining how national contexts support or challenge human rights online. Developed through an extensive review of international law, UN documents and resolutions and literature from international organizations, civil society, governments, academia, and the private sector, the DRD aims to initiate informed dialogue on rights-based digital transformation. Its purpose is to support policymakers, practitioners, and other stakeholders in understanding and advancing digital rights. 
+                The DRD is not a scoring or evaluative tool but an overview —a starting point for examining how national contexts support or challenge human rights online. Developed through an extensive review of international law, UN documents and resolutions and literature from international organizations, civil society, governments, academia, and the private sector, the DRD aims to initiate informed dialogue on rights-based digital transformation. Its purpose is to support policymakers, practitioners, and other stakeholders in understanding and advancing digital rights. 
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The objective is not to create a comprehensive statistical index but to offer an evidence-based overview that situates digital rights within broader national circumstances. Users are encouraged to interpret findings carefully, considering each country’s unique social, cultural, political, and economic context.
@@ -161,7 +161,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 Other UN reports and resolutions also: 
               </p>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Re-iterated that the access to the internet as an enabler of digital rights, including the right to freedom of speech and expressioniii and condemned disruption of internet access to or dissemination of information online.
+                Re-iterated that the access to the internet as an enabler of digital rights, including the right to freedom of speech and expression and condemned disruption of internet access to or dissemination of information online.
               </p>
               <UnorderedListItems listData={[
                 <span>Urged states to refrain from arbitrary blocking or filtering of online content and,</span>,
@@ -183,7 +183,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 ]
               } />
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                As discussed in the methodology section, for the purposes of the DRD, we have merged the pillars on the right to freedom of expression and the right to  freedom of assembly as the indicators for both the rights were the same.  
+                For the purposes of the DRD, we have merged the pillars on the right to freedom of expression and the right to  freedom of assembly as the indicators for both the rights were the same.  
               </p>
 
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">Right to Equality and Non-Discrimination</h2>
@@ -343,7 +343,7 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                 Sources
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Sources used to score these indicators fall into two categories (please see Appendix for a full list of all indicators): 
+                Sources used to score these indicators fall into two categories.
               </p>
               
               <p className="pb-[8px] sm:pb-[8px] md:pb-[16px] lg:pb-[16px]">
@@ -374,11 +374,11 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                  here.</a>
               </p>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
-                Scoring
+                Stages
               </h2>
                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                To ensure comparability across indicators and countries, all data was standardized through a 
-                consistent scoring process. Structural and process indicators are expressed through different 
+                To ensure comparability across indicators and countries, all data was standardized through a
+                consistent scoring process. The raw score for all indicators is stored in UNDP’s internal database. Structural and process indicators are expressed through different 
                 data types — some as quantitative measures and others as categorical values — 
                 and are scored accordingly using the normalization methods described below. 
               </p>
@@ -387,16 +387,13 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               </h2>
                <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 Quantitative indicators use numerical data — for example, internet penetration rate (% of population online). 
-                They are normalized using Min–Max rescaling to a standardized 0–1 range, where 1 represents the highest 
-                country score and 0 the lowest. 
+                These are normalised to a 5 point scale and users will be able to see this normalised score.
               </p>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Categorical Indicators
               </h2>
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
-                Categorical indicators convert qualitative data into numerical values — for example, data protection 
-                law status (0 = no law, 0.5 = draft law, 1 = enacted law). These values are linearly rescaled and then 
-                normalized using Min–Max normalization to a 0–1 range, ensuring consistency and comparability across indicators.  
+                Categorical indicators present qualitative data as “yes” or “no” answers.
               </p>
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] tracking-normal">
                 Weighting
@@ -423,11 +420,11 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
               </h2>  
               <p className="pb-[12px] sm:pb-[12px] md:pb-[35px] lg:pb-[35px]">
                 The DRD generates a composite score that reflects a country’s overall status in protecting and fulfilling digital rights. Each of the four pillars comprises a set of 
-                indicators that correspond to specific stages of digital rights protection and fulfilment.The DRD follows the same progressive, five-stage maturity scale as the DDC 
-                and DRA, which has been piloted in multiple contexts and reviewed by experts, confirming its usefulness as a practical 
-                framework for providing an overview of countries’ progress. The overall stage of a country in the DRD has been calculated 
-                by simply adding up the scores for all four pillars and then dividing by 4. The stages, as defined for each of the four 
-                rights, are as follows:   
+                indicators that correspond to specific stages of digital rights protection and fulfilment. The DRD follows the same progressive, five-stage maturity scale as the DDC
+                and DRA, which has been piloted in multiple contexts and reviewed by experts, confirming its usefulness as a practical
+                framework for providing an overview of countries’ progress. The overall stage of a country in the DRD has been identified
+                by aggregating the stages for all four pillars. The stages, as defined for each of the four
+                rights, are as follows.
               </p> 
               <h2 className="text-[30px] sm:text-[px] md:text-[24px] lg:text-[24px] leading-[1.4] text-left pb-[30px] sm:pb-[30px] md:pb-[35px] lg:pb-[35px] pt-[100px] sm:pt-[100px] md:pt-[28px] lg:pt-[28px] tracking-normal">
                 Overall Stages of the DRD
@@ -443,7 +440,10 @@ export default function DIGITAL_RIGHTS_DASHBOARD(
                   target="_blank"
                 >
                  DRD Pilot Country Insights.</a>
-              </p> 
+              </p>
+              <p className="pt-[12px] sm:pt-[12px] md:pt-[35px] lg:pt-[35px]">
+                Note: Latest update of the Digital Rights Dashboard: October 2026.
+              </p>
               
               <h2 className="sm:pt-[100px] md:pt-[61.12px] lg:pt-[61.12px] text-[40px] sm:text-[40px] md:text-[55px] lg:text-[55px] leading-[1.4] sm:leading-[48px] md:leading-[1.4] lg:leading-[1.4] font-bold text-left pb-[70px] sm:pb-[70px] md:pb-[50px] lg:pb-[50px] sm:text-left md:text-left">
                 Disclaimer
@@ -775,12 +775,6 @@ export function OverallStageTable() {
         <tbody style={{ backgroundColor: "#f3f4f6" }}>
           {overallStagesTableData.map((item, index) => (
             <tr key={index}>
-              <td
-                className="px-4 py-2 border border-gray-300 align-top text-left font-bold"
-                width={80}
-              >
-                {item.number}
-              </td>
               <td className="px-4 py-2 border border-gray-300 align-top text-left font-bold">
                 {item.stage}
               </td>
