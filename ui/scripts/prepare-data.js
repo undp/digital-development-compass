@@ -167,17 +167,6 @@ async function main() {
     return match && match["rank"] ? match["rank"] : null;
   }
 
-  function getDigitalRightPillarRank(name, pillar) {
-    let match = digital_right_scores.find((score) => {
-      return (
-        score["Country Name"].toLowerCase() === name.toLowerCase() &&
-        score["Pillar"].toLowerCase() === pillar.toLowerCase()
-      );
-    });
-
-    return match && match["rank"] ? match["rank"] : null;
-  }
-
   function getSubpillarRank(name, pillar, subpillar) {
     let match = scores.find((score) => {
       return (
@@ -353,19 +342,16 @@ async function main() {
     let latlonMatch = latlon.find((datum) => {
       return datum.alpha2 === country["ISO-alpha2 Code"];
     });
+    // score/rank stay out of the client payload; only stage + confidence ship.
     let digitalRightsBaseScores = digitalRightPillarNames
     .reduce((acc, next) => {
       let score = getDigitalRightPillarScore(countryName, next);
-      let sscore = (score==0 ? 0 :roundNumber(parseFloat(score), 2));
       let confidence = getDigitalRightPillarConfidence(countryName, next);
-      let rank = getDigitalRightPillarRank(countryName, next);
-      //let multivariable = getUniqueSubpillarCount(countryName, next); 
+      //let multivariable = getUniqueSubpillarCount(countryName, next);
       //let divisionVariable = countUniqueSubpillars(next);
-      //let dividedRank = score * multivariable;        
+      //let dividedRank = score * multivariable;
       //let final_score = dividedRank / divisionVariable ;
       acc[next] = {
-        rank,
-        score: sscore,
         confidence: roundNumber(parseFloat(confidence), 2),
         stage: digital_right_getStageInfo(score, next) || null,
         // ...digital_right_pillarMap[next].reduce((subAcc, sp) => {
@@ -404,6 +390,15 @@ async function main() {
       },
     };
   });
+
+  // Binary indicators must not carry a numeric score to the client.
+  const digital_right_scores_public = digital_right_scores.map((row) => {
+    const isIndicatorRow = Boolean(row["Indicator"]);
+    const isBinaryIndicator = isIndicatorRow && Boolean(row["raw_data_col"]);
+    if (!isBinaryIndicator) return row;
+    return { ...row, new_rank_score: null, data_col: null };
+  });
+
   const db = {
     definitions,
     boundingBoxes,
@@ -412,10 +407,10 @@ async function main() {
     scores,
     pillar_definitions,
     pillarNames,
-    digital_right_scores,
+    digital_right_scores: digital_right_scores_public,
     digital_right_pillar_definitions,
     digital_right_definitions
-  }; 
+  };
   // Used to more easily access the pillar data in the frontend.
   const ancillary = `export default {
     pillars: ${JSON.stringify(pillarMap)},

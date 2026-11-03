@@ -210,7 +210,8 @@ const Indicator = ({
   showSources: boolean;
   isShowingRawScores: boolean;
 }) => {
-  const hasNoData = indicator.data_col === null;
+  // data_col is null for binaries even when data exists (redacted at build time)
+  const hasNoData = indicator.data_col === null && !indicator.raw_data_col;
   const [isIconHovered, setIconIsHovered] = useState(false);
   // we want to get the source name from the list of sources,
   // but if empty, we need to fall back to the indicator's "Data Source"
@@ -221,34 +222,27 @@ const Indicator = ({
       year: indicator["Year"],
     }))
     .filter((indicator) => indicator.source && indicator.link);
+  // nullable now (binary indicators); never actually reaches renderValue()
   const value = +(isShowingRawScores
-    ? indicator.data_col
-    : indicator.new_rank_score);
+    ? indicator.data_col ?? 0
+    : indicator.new_rank_score ?? 0);
   const disp_val:any = value == 0 ? 0 : roundNumber(value, 2);
   const [isHovered, setIsHovered] = useState(false);
 
   const renderValue = () => {
     const commonClasses = 'font-mono text-xs';
     const numberClasses = 'text-base font-normal leading-[137.5%] tracking-normal font-sans';
-  
-    if (isShowingRawScores && indicator.raw_data_col) {
-      const number = parseFloat(indicator.raw_data_col);
-  
-      if (!isNaN(number)) {
-        return (
-          <span className={numberClasses}>
-            {number}
-          </span>
-        );
-      }
+
+    // binary indicators: always Yes/No, never a number
+    if (indicator.raw_data_col) {
       const cleanedData = indicator.raw_data_col
         .replace(/^["']+|["']+$/g, "")
         .trim();
-  
+
       if (cleanedData.length > 9) {
         // Find the first word
         const firstWord = cleanedData.split(" ")[0];
-  
+
         return (
           <span
             className={commonClasses}
@@ -273,9 +267,9 @@ const Indicator = ({
           </span>
         );
       }
-  
+
       const number = parseFloat(disp_val);
-  
+
       if (!isNaN(number)) {
         return (
           <span className={numberClasses}>

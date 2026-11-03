@@ -283,8 +283,9 @@ export default function Data(
           cellClass: `p-0`,
           headerCellClass: "text-right",
           formatter(props: FormatterProps<(typeof data)[0]>) {
+            // stage-driven now, not raw score
             // @ts-ignore
-            let score = props.row.digitalRightScores[pillar].score;
+            let stage = props.row.digitalRightScores[pillar].stage;
             let confidence;
             confidence =
               // @ts-ignore
@@ -299,7 +300,7 @@ export default function Data(
                   className="absolute inset-0 w-full h-full pointer-events-none z-[-1] opacity-80"
                   style={{
                     backgroundColor: displaySettings.showHeatmap
-                      ? bgScale(score || 0)
+                      ? bgScale(stage?.number || 0)
                       : "transparent",
                   }}
                 ></div>
@@ -313,7 +314,7 @@ export default function Data(
                       label={`${Math.ceil(confidence)}%`}
                     />
                   )}
-                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{score}</p>
+                  <p className="text-right flex-1 text-[16px] leading-[137.5%] tracking-0">{stage?.name ?? ""}</p>
                 </div>
               </div>
             );

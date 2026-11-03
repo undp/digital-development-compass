@@ -47,21 +47,15 @@ const PillarList = (props: PillarListProps) => {
     showMissingIndicators,
     showSources,
   } = props;
+  // score/rank removed; use stage instead
   // @ts-ignore
-  let { score, stage, rank, confidence } = country.digitalRightScores[pillar];
+  let { stage, confidence } = country.digitalRightScores[pillar];
   return (
     <div className="scroll-mt-24 group" id={kebabCase(pillar)}>
       <div className="flex items-center justify-between group-target:bg-yellow-50 group-target:ring-2 group-target:ring-offset-4 group-target:ring-yellow-300">
         <h3 className="text-base font-medium">{pillar}</h3>
-        {score ? (
-          <span className="text-sm text-right font-mono">
-            {/* <span>
-              {rank}
-              <sup>{getOrdinal(rank)}</sup>
-            </span>{" "} */}
-            {/* /  */}
-            {/* {score} */}
-          </span>
+        {stage ? (
+          <span className="text-sm text-right font-mono"></span>
         ) : (
           <span className="text-sm text-gray-600"></span>
         )}
@@ -108,7 +102,6 @@ const Pillar = (props: PillarProps) => {
     showMissingIndicators,
     showSources,
   } = props;
-  let { score } = country.digitalRightScores[pillar];
   // @ts-ignore
   // let subpillars: SubPillar[] = ancillary.pillars[pillar];
   let color = ancillary.digitalRightPillarColorMap[pillar].base;
@@ -127,7 +120,6 @@ const Pillar = (props: PillarProps) => {
           <div className="text-xs text-white text-center  font-medium uppercase tracking-widest py-[2px] px-[12px] rounded-full border-2 border-white">
             {pillar}
           </div>
-          <div className="text-white font-mono font-semibold pl-2">{score}</div>
         </div>
       </header>
       {/* <div className="p-3 border-b relative">
